@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe sa i përket ⟨את⟩ fjalës që folëm unë dhe ti — ja, Jahve ⟨është⟩ mes meje dhe teje përjetë.",
+  "translation": "Dhe sa i përket fjalës së cilën folëm unë dhe ti — ja, Jahve është ⟨ndërmjet⟩ meje dhe teje, për jetë.",
   "tokens": [
     {
       "surface": "והדבר",
-      "gloss": "dhe sa i përket fjalës"
+      "gloss": "dhe fjala"
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "të cilën"
     },
     {
       "surface": "דברנו",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "ביני",
-      "gloss": "mes meje"
+      "gloss": "ndërmjet meje"
     },
     {
       "surface": "ובינך",
-      "gloss": "dhe teje"
+      "gloss": "dhe ndërmjet teje"
     },
     {
       "surface": "עד",
-      "gloss": "për"
+      "gloss": "deri"
     },
     {
       "surface": "עולם",
-      "gloss": "jetë"
+      "gloss": "për jetë"
     }
   ],
-  "timestamp": "2026-09-27T15:16:05.039255438Z",
+  "timestamp": "2026-09-27T18:58:21.830779932Z",
   "model": "glm-5.3"
 }

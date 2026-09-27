@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 22,
-  "translation": "Dhe ⟨את⟩ Nobin, qytetin e priftërinjve, e rrahu me të sharë të shpatës, nga burri deri në grua, nga foshnja deri tek i piruni, dhe kaun, gomarin dhe dhinë me të sharë të shpatës.",
+  "translation": "Dhe ⟨את⟩ Nobin, qytetin e priftërinjve, e ra me anë të shpatës, nga burri deri te gruaja, nga foshnja e sapo lindur deri te gjiri, dhe kau, dhe gomari, dhe deleja — me anë të shpatës.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nobin"
     },
     {
@@ -18,19 +18,19 @@
     },
     {
       "surface": "עיר",
-      "gloss": "qytetin e"
+      "gloss": "qytetin"
     },
     {
       "surface": "הכהנים",
-      "gloss": "priftërinjve"
+      "gloss": "e priftërinjve"
     },
     {
       "surface": "הכה",
-      "gloss": "rrahuri"
+      "gloss": "e ra"
     },
     {
       "surface": "לפי",
-      "gloss": "me të sharë të"
+      "gloss": "me anë të"
     },
     {
       "surface": "חרב",
@@ -42,45 +42,45 @@
     },
     {
       "surface": "ועד",
-      "gloss": "deri në"
+      "gloss": "deri te"
     },
     {
       "surface": "אשה",
-      "gloss": "grua"
+      "gloss": "gruaja"
     },
     {
       "surface": "מעולל",
-      "gloss": "nga foshnja"
+      "gloss": "foshnja e sapo lindur"
     },
     {
       "surface": "ועד",
-      "gloss": "deri tek"
+      "gloss": "deri te"
     },
     {
       "surface": "יונק",
-      "gloss": "i piruni"
+      "gloss": "gjiri (i përjesë)"
     },
     {
       "surface": "ושור",
       "gloss": "dhe kau"
     },
     {
-      "surface": "ווחמור",
-      "gloss": "gomari"
+      "surface": "וחמור",
+      "gloss": "dhe gomari"
     },
     {
       "surface": "ושה",
-      "gloss": "dhe dhia"
+      "gloss": "dhe deleja"
     },
     {
       "surface": "לפי",
-      "gloss": "me të sharë të"
+      "gloss": "me anë të"
     },
     {
       "surface": "חרב",
       "gloss": "shpatës"
     }
   ],
-  "timestamp": "2026-09-27T15:18:24.170049664Z",
+  "timestamp": "2026-09-27T18:58:40.694054798Z",
   "model": "glm-5.3"
 }

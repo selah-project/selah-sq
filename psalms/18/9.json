@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Ngjiti tym në hundët e tij, dhe zjarr nga goja e tij hëngri ⟨את⟩; nga goja e tij hëngri; prush u ndez nga ⟨ai⟩.",
-  "tokens": [],
-  "timestamp": "2026-09-27T16:57:55.016129372Z",
+  "translation": "Ngjiti tym në hundët e tij, dhe zjarr nga goja e tij gëlltiti; qymyrdrinjtë u ndezën prej tij.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Ngjiti"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tym"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në hundët e tij"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dhe zjarr"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "nga goja e tij"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gëlltiti"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "qymyrdrinjtë"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "u ndezën"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T19:08:46.730162941Z",
   "model": "glm-5.3"
 }

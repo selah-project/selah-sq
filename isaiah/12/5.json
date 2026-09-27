@@ -5,8 +5,45 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Këndoni Jahvesë, sepse bëri kryelartësi ⟨kryelartësi të lavdishme⟩; njihet kjo në gjithë ⟨të⟩ rasës — kujdes: kjo dihet në mbarë token. Shkruaj saktë:",
-  "tokens": [],
-  "timestamp": "2026-09-27T15:51:34.730268032Z",
+  "translation": "Këndoni Jahvesë, sepse ⟨ai⟩ bëri gjëra madhështore; ⟨ai⟩ e bëri të njohur këtë në gjithë ⟨të⟩ arën.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Këndoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "gjëra madhështore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "e bëri të njohur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ arën"
+    }
+  ],
+  "timestamp": "2026-09-27T19:04:06.448975071Z",
   "model": "glm-5.3"
 }

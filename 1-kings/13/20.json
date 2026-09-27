@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe ndodhi ⟨ishte⟩ që, ndërsa ata ishin ulur pranë tavolinës, fjala e Jahves erdhi te profeti që e kishte kthyer ⟨את⟩ atë.",
+  "translation": "Dhe ndodhi që, ndërsa ishin të ulur ⟨rreth⟩ tavolinës, fjala e Jahvesë i erdhi profetit që e kishte kthyer prapa.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "pranë"
+      "gloss": "rreth"
     },
     {
       "surface": "השלחן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "erdhi"
+      "gloss": "dhe erdhi"
     },
     {
       "surface": "דבר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "e Jahves"
+      "gloss": "Jahvesë"
     },
     {
       "surface": "אל",
-      "gloss": "te"
+      "gloss": "drejt"
     },
     {
       "surface": "הנביא",
-      "gloss": "profeti"
+      "gloss": "profetit"
     },
     {
       "surface": "אשר",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "השיבו",
-      "gloss": "e kishte kthyer"
+      "gloss": "e kishte kthyer prapa"
     }
   ],
-  "timestamp": "2026-09-27T15:35:42.290003938Z",
+  "timestamp": "2026-09-27T18:57:41.356288833Z",
   "model": "glm-5.3"
 }

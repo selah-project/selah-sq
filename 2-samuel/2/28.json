@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 2,
-  "translation": "Dhe Joabi bëri zë me bargulën, dhe gjithë populli u ndal dhe nuk e ndoqi më pas ⟨את⟩ Izraelin, dhe nuk shtuan më të luftonin.",
+  "translation": "Dhe Joabi i fryu ⟨briut⟩, dhe gjithë populli u ndal, dhe nuk e ndoqën më Izraelin, dhe nuk shtuan më të luftonin.",
   "tokens": [
     {
       "surface": "ויתקע",
-      "gloss": "bëri zë me"
+      "gloss": "i fryu"
     },
     {
       "surface": "יואב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בשופר",
-      "gloss": "bargulën"
+      "gloss": "⟨briut⟩"
     },
     {
       "surface": "ויעמדו",
@@ -32,8 +32,12 @@
       "gloss": "populli"
     },
     {
-      "surface": "וירדפו — ולא",
-      "gloss": "dhe nuk e ndoqi"
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "e ndoqën"
     },
     {
       "surface": "עוד",
@@ -41,7 +45,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "pas"
+      "gloss": ""
     },
     {
       "surface": "ישראל",
@@ -64,6 +68,6 @@
       "gloss": "të luftonin"
     }
   ],
-  "timestamp": "2026-09-27T15:21:41.403603639Z",
+  "timestamp": "2026-09-27T19:00:38.623275662Z",
   "model": "glm-5.3"
 }

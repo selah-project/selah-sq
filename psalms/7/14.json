@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe për atë ⟨ai⟩ ka përgatitur veglat e vdekjes; shigjetat e tij i bën ⟨të ndezura⟩ kundër ⟨përndjekësve⟩.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "dhe për atë"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ka përgatitur"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "veglat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "e vdekjes"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "shigjetat e tij"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "të ndezura \/ për përndjekësit"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "i bën"
+    }
+  ],
+  "timestamp": "2026-09-27T19:09:05.288300434Z",
+  "model": "glm-5.3"
+}

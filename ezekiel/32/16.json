@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 32,
-  "translation": "Ky është një vajtim, dhe do ta vajtojnë ⟨את⟩ atë bijat e kombeve; do ta vajtojnë ⟨את⟩ atë për Egjiptin dhe për gjithë turmën e saj do ta vajtojnë ⟨את⟩ atë, thotë Adonai Jahve.",
+  "translation": "Këngë vajtimi është ajo, dhe do ta vajtojnë ⟨את⟩ atë bijat e kombeve; do ta vajtojnë ⟨את⟩ atë për Egjiptin dhe për gjithë turmën e saj — shpallje e Adonai Jahvesë.",
   "tokens": [
     {
       "surface": "קינה",
-      "gloss": "vajtim"
+      "gloss": "Këngë vajtimi"
     },
     {
       "surface": "היא",
-      "gloss": "ky është"
+      "gloss": "është ajo"
     },
     {
       "surface": "וקוננוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בנות",
-      "gloss": "bijat e"
+      "gloss": "bijat"
     },
     {
       "surface": "הגוים",
-      "gloss": "kombeve"
+      "gloss": "të kombeve"
     },
     {
       "surface": "תקוננה",
@@ -34,7 +34,7 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "atë"
+      "marks": "atë (Egjiptin)"
     },
     {
       "surface": "על",
@@ -63,21 +63,21 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "atë"
+      "marks": "atë (Egjiptin dhe turmën e saj)"
     },
     {
       "surface": "נאם",
-      "gloss": "thotë"
+      "gloss": "shpallje"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "e Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-09-27T16:36:47.662587346Z",
+  "timestamp": "2026-09-27T19:02:50.376283518Z",
   "model": "glm-5.3"
 }

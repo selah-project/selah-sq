@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 40,
-  "translation": "Dhe lanë prej tij Moisi dhe Aaroni dhe bijtë e tij ⟨את⟩ duart e tyre dhe ⟨את]] këmbët e tyre.",
+  "translation": "dhe prej saj Moisi, Aaroni dhe bijtë e tij lanë ⟨את⟩ duart e tyre dhe ⟨את⟩ këmbët e tyre",
   "tokens": [
     {
       "surface": "ורחצו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "prej tij"
+      "gloss": "prej saj"
     },
     {
       "surface": "משה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "këmbët e tyre"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "këmbët e tyre"
     }
   ],
-  "timestamp": "2026-09-27T14:17:58.430709244Z",
+  "timestamp": "2026-09-27T19:02:25.511433343Z",
   "model": "glm-5.3"
 }

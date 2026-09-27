@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 72,
-  "translation": "Mbretërit e Tarsisit dhe i ishujve do t'i sjellin ⟨את⟩ minhas; mbretërit e Sabës dhe i Sevës do të ofrojnë dhurata.",
+  "translation": "Mbretërit e Tarshishit dhe të ishujve do të sjellin ⟨את⟩ ⟨e⟩ minhah-n; mbretërit e Shebës dhe të Sebës do të ofrojnë dhurata.",
   "tokens": [
     {
       "surface": "מלכי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תרשיש",
-      "gloss": "Tarsisit"
+      "gloss": "Tarshishit"
     },
     {
       "surface": "ואיים",
-      "gloss": "dhe i ishujve"
+      "gloss": "dhe të ishujve"
     },
     {
       "surface": "מנחה",
-      "gloss": "minhas"
+      "gloss": "minhah (haraç)"
     },
     {
       "surface": "ישיבו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "שבא",
-      "gloss": "Sabës"
+      "gloss": "Shebës"
     },
     {
       "surface": "וסבא",
-      "gloss": "dhe i Sevës"
+      "gloss": "dhe të Sebës"
     },
     {
       "surface": "אשכר",
@@ -48,6 +48,6 @@
       "gloss": "do të ofrojnë"
     }
   ],
-  "timestamp": "2026-09-27T17:05:55.056742768Z",
+  "timestamp": "2026-09-27T19:09:21.490015141Z",
   "model": "glm-5.3"
 }

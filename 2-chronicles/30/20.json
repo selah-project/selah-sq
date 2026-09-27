@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 30,
-  "translation": "Dhe Jahvi e dëgjoi Hizkinë dhe e shëroi ⟨את⟩ popullin.",
+  "translation": "Dhe Jahve e dëgjoi Ezekianë dhe i shëroi ⟨את⟩ popullin.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvi"
+      "gloss": "Jahve"
     },
     {
       "surface": "אל",
-      "gloss": "(drejt)"
+      "gloss": ""
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Hizkinë"
+      "gloss": "Ezekianë"
     },
     {
       "surface": "וירפא",
-      "gloss": "dhe e shëroi"
+      "gloss": "dhe i shëroi"
     },
     {
       "surface": "את",
@@ -37,6 +37,6 @@
       "gloss": "popullin"
     }
   ],
-  "timestamp": "2026-09-27T18:15:52.394024962Z",
+  "timestamp": "2026-09-27T18:58:17.680051549Z",
   "model": "glm-5.3"
 }

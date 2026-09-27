@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Siç urdhëroi Jahve ⟨אל⟩ Moisin, kështu e la Aaroni ⟨את⟩ atë përballë Dëshmisë, për t'u ruajtur.",
+  "translation": "Siç e urdhëroi Jahve ⟨⟨Moisiun⟩⟩, ashtu e vuri Aaronin ⟨atë⟩ para Dëshmisë, për t'u ruajtur.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "Siç"
+      "gloss": "siç"
     },
     {
       "surface": "צוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩"
+      "gloss": "drejt"
     },
     {
       "surface": "משה",
-      "gloss": "Moisin"
+      "gloss": "Moisiut"
     },
     {
       "surface": "ויניחהו",
-      "gloss": "kështu e la"
+      "gloss": "e vuri ⟨atë⟩"
     },
     {
       "surface": "אהרן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "përballë"
+      "gloss": "para"
     },
     {
       "surface": "העדת",
@@ -48,6 +48,6 @@
       "gloss": "për t'u ruajtur"
     }
   ],
-  "timestamp": "2026-09-27T14:08:40.254720002Z",
+  "timestamp": "2026-09-27T19:02:30.004589835Z",
   "model": "glm-5.3"
 }

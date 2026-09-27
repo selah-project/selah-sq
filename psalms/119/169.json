@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 119,
-  "translation": "Le të përparaqitet klithma ime para faqes sate, o Jahve; sipas fjalës sate bëjmë të kuptoj.",
-  "tokens": [],
-  "timestamp": "2026-09-27T17:14:54.754974674Z",
+  "translation": "Le të afrohet britma e imë përpara teje, Jahve; sipas fjalës sate bëjmë të kuptoj.",
+  "tokens": [
+    {
+      "surface": "תקרב",
+      "gloss": "le të afrohet"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "britma e imë"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "përpara teje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sipas fjalës sate"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bëjmë të kuptoj"
+    }
+  ],
+  "timestamp": "2026-09-27T19:08:40.984075054Z",
   "model": "glm-5.3"
 }

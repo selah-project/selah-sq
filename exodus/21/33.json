@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 21,
-  "translation": "Dhe nëse një njeri hap ⟨את⟩ një gropë, ose nëse një njeri grop një gropë dhe nuk e mbulon ⟨את⟩ atë, dhe bie aty një ka ose një gomar,",
+  "translation": "Dhe nëse një njeri hap një gropë, ose nëse një njeri gërmon një gropë dhe nuk e mbulon ⟨atë⟩, dhe bie aty një ka ose një gomar,",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "dhe nëse"
+      "gloss": "Dhe nëse"
     },
     {
       "surface": "יפתח",
@@ -33,14 +33,14 @@
     },
     {
       "surface": "יכרה",
-      "gloss": "grop"
+      "gloss": "gërmon"
     },
     {
       "surface": "איש",
       "gloss": "një njeri"
     },
     {
-      "surface": "בור",
+      "surface": "בר",
       "gloss": "një gropë"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יכסנו",
-      "gloss": "e mbulon atë"
+      "gloss": "e mbulon ⟨atë⟩"
     },
     {
       "surface": "ונפל",
@@ -72,6 +72,6 @@
       "gloss": "një gomar"
     }
   ],
-  "timestamp": "2026-09-27T14:10:28.900701832Z",
+  "timestamp": "2026-09-27T19:02:33.706331696Z",
   "model": "glm-5.3"
 }

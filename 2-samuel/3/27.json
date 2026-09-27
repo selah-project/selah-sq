@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Dhe Avneri u kthye në Hebron, dhe Joabi e zhvendosi ⟨את⟩ atë në mes të portës për t'i folur ⟨את⟩ atij në paqe, dhe e rrahi ⟨את⟩ atë aty në barkun e pestë, dhe ai vdiq në gjakun e Asahelit, vëllait të tij.",
+  "translation": "Dhe Avneri u kthye në Hebron, ndërsa Joabi e zbriti ⟨atë⟩ në mes të portës për të folur ⟨את⟩ me ⟨të⟩ në paqe, dhe e rrahi aty në ⟨bark⟩, dhe ai vdiq në gjakun e Asahelit, vëllait të tij.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "u kthye"
+      "gloss": "dhe u kthye"
     },
     {
       "surface": "אבנר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויטהו",
-      "gloss": "e zhvendosi"
+      "gloss": "dhe e zbriti ⟨atë⟩"
     },
     {
       "surface": "יואב",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "për t'i folur"
+      "gloss": "për të folur"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ atij",
-      "marks": "Avnerit (parafjalë me kuptime 'me' — shënohet si את)"
+      "gloss": "me ⟨את⟩",
+      "marks": "me të (Avnerin)"
     },
     {
       "surface": "בשלי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "e rrahi"
+      "gloss": "dhe e rrahi"
     },
     {
       "surface": "שם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "החמש",
-      "gloss": "në barkun e pestë"
+      "gloss": "në ⟨bark⟩"
     },
     {
       "surface": "וימת",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Asahelit"
+      "gloss": "të Asahelit"
     },
     {
       "surface": "אל",
-      "gloss": "i Asahelit"
+      "gloss": "—"
     },
     {
       "surface": "אחיו",
       "gloss": "vëllait të tij"
     }
   ],
-  "timestamp": "2026-09-27T15:21:19.171442274Z",
+  "timestamp": "2026-09-27T19:01:31.653376274Z",
   "model": "glm-5.3"
 }

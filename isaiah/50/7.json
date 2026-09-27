@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe Adonai Jahve më ndihmon mua; prandaj nuk mbeta i turpëruar; prandaj e vura fytyrën time si shkëmb kremi, dhe e di se nuk do të turpërohem.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Dhe Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ndihmon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj (mbi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj (kështu)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "mbeta i turpëruar"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj (mbi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj (kështu)"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "e vura"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "si shkëmb kremi"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "dhe e di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "do të turpërohem"
+    }
+  ],
+  "timestamp": "2026-09-27T19:04:39.006570436Z",
+  "model": "glm-5.3"
+}

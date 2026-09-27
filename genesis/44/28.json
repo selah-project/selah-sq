@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 44,
-  "translation": "Dhe doli i njëri prej ⟨את⟩ meje, dhe thashë: Sigurisht është grisur grykësh, dhe s'e pashë ⟨את⟩ atë deri këtu.",
+  "translation": "Doli ⟨i njëri⟩ ⟨את⟩ prej meje dhe thashë: sigurisht është copëtuar — copëtuar! Dhe nuk e pashë ⟨atë⟩ më deri tani.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "dhe doli"
+      "gloss": "doli"
     },
     {
       "surface": "האחד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "prej ⟨את⟩ meje",
+      "gloss": "⟨את⟩ prej meje",
       "marks": "i njëri"
     },
     {
-      "surface": "וימר",
+      "surface": "ואמר",
       "gloss": "dhe thashë"
     },
     {
@@ -30,15 +30,15 @@
     },
     {
       "surface": "טרף",
-      "gloss": "grisur"
+      "gloss": "është copëtuar"
     },
     {
       "surface": "טרף",
-      "gloss": "grykësh"
+      "gloss": "copëtuar"
     },
     {
       "surface": "ולא",
-      "gloss": "dhe s'"
+      "gloss": "dhe nuk"
     },
     {
       "surface": "ראיתיו",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "הנה",
-      "gloss": "këtu"
+      "gloss": "tani"
     }
   ],
-  "timestamp": "2026-09-27T14:01:21.078098043Z",
+  "timestamp": "2026-09-27T19:04:27.246782402Z",
   "model": "glm-5.3"
 }

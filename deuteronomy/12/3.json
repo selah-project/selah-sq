@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Do të rrëzonit ⟨את⟩ altarët e tyre, do të thyeni ⟨את⟩ shtyllat e tyre, אֲשֵׁרֵיהֶם do t'i digjni me zjarr, idhujt e elohive të tyre do t'i prisni, dhe do të fshini ⟨את⟩ emrin e tyre nga ai vend.",
+  "translation": "Dhe do të rrëzonit ⟨את⟩ altarët e tyre, do të thyejni ⟨את⟩ shtyllat e tyre, dhe Ashera-t e tyre do t'i digjni me zjarr, dhe idhujt e elohim-ve të tyre do t'i prisni, dhe do ta shkatërroni ⟨את⟩ emrin e tyre nga ai vend.",
   "tokens": [
     {
       "surface": "ונתצתם",
-      "gloss": "Do të rrëzonit"
+      "gloss": "dhe do të rrëzonit"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ושברתם",
-      "gloss": "do të thyeni"
+      "gloss": "dhe do të thyejni"
     },
     {
       "surface": "את",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "ואשריהם",
-      "gloss": "asherat e tyre"
+      "gloss": "dhe Ashera-t e tyre"
     },
     {
       "surface": "תשרפון",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "ופסילי",
-      "gloss": "idhujt e"
+      "gloss": "dhe idhujt e"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "elohive të tyre"
+      "gloss": "elohim-ve të tyre"
     },
     {
       "surface": "תגדעון",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ואבדתם",
-      "gloss": "dhe do të fshini"
+      "gloss": "dhe do ta shkatërroni"
     },
     {
       "surface": "את",
@@ -83,6 +83,6 @@
       "gloss": "ai"
     }
   ],
-  "timestamp": "2026-09-27T14:46:55.762787532Z",
+  "timestamp": "2026-09-27T19:01:34.291444511Z",
   "model": "glm-5.3"
 }

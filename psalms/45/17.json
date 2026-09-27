@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 45,
-  "translation": "Në vend të etërvе të tu do të jenë bijtë e tu; do t'i bësh ata princa në të gjithë ⟨tokën⟩.",
+  "translation": "Në vend të etërve të tu do të jenë bijtë e tu; do t'i bësh ⟨ata⟩ princa në të gjithë ⟨tokën⟩.",
   "tokens": [
     {
       "surface": "תחת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אבתיך",
-      "gloss": "etërvе të tu"
+      "gloss": "etërve të tu"
     },
     {
       "surface": "יהיו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תשיתמו",
-      "gloss": "do t'i bësh ata"
+      "gloss": "do t'i bësh"
     },
     {
       "surface": "לשרים",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tokën"
+      "gloss": "⟨tokën⟩"
     }
   ],
-  "timestamp": "2026-09-27T17:02:30.584536432Z",
+  "timestamp": "2026-09-27T19:08:41.460958367Z",
   "model": "glm-5.3"
 }

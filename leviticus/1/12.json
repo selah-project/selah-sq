@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe do ta copëtojë atë ⟨את⟩ në copat e tij, dhe ⟨את⟩ kokën e tij dhe ⟨את〕 yndyrën e tij; dhe prifti do t'i rregullojë ato mbi drutë që ⟨janë⟩ mbi zjarrin që ⟨është⟩ mbi altar.",
+  "translation": "Dhe do ta copëtojë atë ⟨את⟩ në copat e veta, dhe ⟨את⟩ kokën e tij dhe ⟨את⟩ dhjamin e tij; dhe prifti do t'i rregullojë ato ⟨את⟩ mbi drurit që janë mbi zjarrin që është mbi altar.",
   "tokens": [
     {
       "surface": "ונתח",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ atë",
-      "marks": "atë (kafshën)"
+      "gloss": "⟨את⟩",
+      "marks": "atë (kafshën e flijimit)"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "në copat e tij"
+      "gloss": "në copat e veta"
     },
     {
       "surface": "ואת",
@@ -32,11 +32,11 @@
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "yndyrën e tij"
+      "marks": "dhjamin e tij"
     },
     {
       "surface": "פדרו",
-      "gloss": "yndyrën e tij"
+      "gloss": "dhjamin e tij"
     },
     {
       "surface": "וערך",
@@ -48,8 +48,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ato",
-      "marks": "ato (copat)"
+      "gloss": "ato ⟨את⟩",
+      "marks": "ato (copat, kokën dhe dhjamin)"
     },
     {
       "surface": "על",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "העצים",
-      "gloss": "drutë"
+      "gloss": "drurit"
     },
     {
       "surface": "אשר",
@@ -84,6 +84,6 @@
       "gloss": "altarin"
     }
   ],
-  "timestamp": "2026-09-27T14:18:26.158606962Z",
+  "timestamp": "2026-09-27T19:06:45.735950931Z",
   "model": "glm-5.3"
 }

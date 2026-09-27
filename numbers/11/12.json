@@ -5,36 +5,36 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 11,
-  "translation": "A pasja ⟨את⟩ konceptuar ⟨את⟩ gjithë këtë popull? A pasja lindur ⟨את⟩ atë, që të më thuash: Mbaje atë në gji, ashtu siç mban kujdestari ⟨את⟩ foshnjën e pjekur për gjiri, drejt tokës që u betove për etërit e tij?",
+  "translation": "A valë unë e mbeta ⟨את⟩ të gjithë këtë popull, a valë unë e linda atë, që të më thuash: Mbaje në gjiun tënd, ashtu siç mban mamia ⟨את⟩ foshnjën që mëshëron, deri në tokën për të cilën u betove etërve të tyre?",
   "tokens": [
     {
       "surface": "האנכי",
-      "gloss": "a pasja unë"
+      "gloss": "a valë unë"
     },
     {
       "surface": "הריתי",
-      "gloss": "konceptuar"
+      "gloss": "e mbeta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gjithë këtë popull"
+      "marks": "të gjithë këtë popull"
     },
     {
       "surface": "כל",
-      "gloss": "gjithë"
+      "gloss": "të gjithë"
     },
     {
       "surface": "העם",
-      "gloss": "popullin"
+      "gloss": "popull"
     },
     {
       "surface": "הזה",
-      "gloss": "këtij"
+      "gloss": "këtë"
     },
     {
       "surface": "אם",
-      "gloss": "a"
+      "gloss": "a valë"
     },
     {
       "surface": "אנכי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ילדתיהו",
-      "gloss": "lindur atë"
+      "gloss": "e linda atë"
     },
     {
       "surface": "כי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בחיקך",
-      "gloss": "në gji"
+      "gloss": "në gjiun tënd"
     },
     {
       "surface": "כאשר",
@@ -74,28 +74,28 @@
     },
     {
       "surface": "האמן",
-      "gloss": "kujdestari"
+      "gloss": "mamia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "foshnjën e pjekur për gjiri"
+      "marks": "foshnjën që mëshëron"
     },
     {
       "surface": "הינק",
-      "gloss": "foshnjën e pjekur për gjiri"
+      "gloss": "foshnjën që mëshëron"
     },
     {
       "surface": "על",
-      "gloss": "drejt"
+      "gloss": "deri në"
     },
     {
       "surface": "האדמה",
-      "gloss": "tokës"
+      "gloss": "tokën"
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "për të cilën"
     },
     {
       "surface": "נשבעת",
@@ -103,9 +103,9 @@
     },
     {
       "surface": "לאבתיו",
-      "gloss": "për etërit e tij"
+      "gloss": "etërve të tyre"
     }
   ],
-  "timestamp": "2026-09-27T14:32:57.172181759Z",
+  "timestamp": "2026-09-27T19:07:54.738017494Z",
   "model": "glm-5.3"
 }

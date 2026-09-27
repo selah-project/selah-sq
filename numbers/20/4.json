@@ -5,8 +5,58 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 20,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T14:36:12.652288029Z",
+  "translation": "Dhe pse sollët ⟨את⟩ kuvendin e Jahvesë në këtë shkretëtirë, që të vdesim atje ne dhe kafshët tona?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "sollët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuvendin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kuvendin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "למות",
+      "gloss": "që të vdesim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "dhe kafshët tona"
+    }
+  ],
+  "timestamp": "2026-09-27T19:07:22.605072547Z",
   "model": "glm-5.3"
 }

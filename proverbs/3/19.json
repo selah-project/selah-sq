@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Jahve me urtësi e themeloi ⟨את⟩ tokën, me kuptim i vendosi qiejt.",
+  "translation": "Jahve me mençuri themeloi ⟨את⟩ tokën; me kuptim i vuri themelet qiejve.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,29 +13,30 @@
     },
     {
       "surface": "בחכמה",
-      "gloss": "me urtësi"
+      "gloss": "me mençuri"
     },
     {
       "surface": "יסד",
-      "gloss": "e themeloi"
+      "gloss": "themeloi"
     },
     {
       "surface": "ארץ",
-      "gloss": "tokën"
+      "gloss": "⟨את⟩ tokën",
+      "marks": "tokën"
     },
     {
       "surface": "כונן",
-      "gloss": "i vendosi"
+      "gloss": "i vuri themelet"
     },
     {
       "surface": "שמים",
-      "gloss": "qiejt"
+      "gloss": "qiejve"
     },
     {
       "surface": "בתבונה",
       "gloss": "me kuptim"
     }
   ],
-  "timestamp": "2026-09-27T17:19:26.331234146Z",
+  "timestamp": "2026-09-27T19:09:54.467909919Z",
   "model": "glm-5.3"
 }

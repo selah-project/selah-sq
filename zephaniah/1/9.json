@@ -5,13 +5,61 @@
   "book": "zephaniah",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe do të vizitoj ⟨me ndëshkim⟩ çdo të ngërthyer mbi prag, në ditën atë — ata që mbushin shtëpinë e zotërinjve të tyre me dhunë e mashtrim.",
+  "translation": "Dhe do të vizitoj ⟨me gjykim⟩ mbi të gjithë ⟨ata⟩ që kalojnë duke u hedhur mbi pragun, në ditën e atë — ⟨ata⟩ që mbushin shtëpinë e zotërinjve të tyre me dhunë e mashtrim.",
   "tokens": [
     {
-      "surface": "ופפקדתי",
-      "gloss": ""
+      "surface": "וּפָקַדְתִּי",
+      "gloss": "dhe do të vizitoj"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הַדּוֹלֵג",
+      "gloss": "që kalojnë duke u hedhur"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הַמִּפְתָּן",
+      "gloss": "pragun"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "e atë"
+    },
+    {
+      "surface": "הַמְמַלְאִים",
+      "gloss": "që mbushin"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אֲדֹנֵיהֶם",
+      "gloss": "e zotërinjve të tyre"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "me dhunë"
+    },
+    {
+      "surface": "וּמִרְמָה",
+      "gloss": "e mashtrim"
     }
   ],
-  "timestamp": "2026-09-27T16:51:27.464094888Z",
+  "timestamp": "2026-09-27T19:09:37.302093878Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 22,
-  "translation": "Dhe një ka ose një deles me gjymtyrë të zgjatur përmasë ose të shkurtuar, si dhurim vullnetar mund ta bësh ⟨את⟩, por për löjtje nuk pranohet.",
+  "translation": "Dhe një ka ose një dele e zgjatur ose e cunguar si ndërmarrje të lirë mund ta bësh ⟨את⟩, por për një premtim nuk do të pranohet.",
   "tokens": [
     {
       "surface": "ושור",
-      "gloss": "Dhe një ka"
+      "gloss": "dhe një ka"
     },
     {
       "surface": "ושה",
-      "gloss": "ose një deles"
+      "gloss": "ose një dele"
     },
     {
       "surface": "שרוע",
-      "gloss": "me gjymtyrë të zgjatura përmasë"
+      "gloss": "e zgjatur"
     },
     {
       "surface": "וקלוט",
-      "gloss": "ose të shkurtuar"
+      "gloss": "ose e cunguar"
     },
     {
       "surface": "נדבה",
-      "gloss": "si dhurim vullnetar"
+      "gloss": "ndërmarrje e lirë"
     },
     {
       "surface": "תעשה",
@@ -34,11 +34,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "një ka ose një deles"
+      "marks": "dele\/ka si dhuratë"
     },
     {
       "surface": "ולנדר",
-      "gloss": "për löjtje"
+      "gloss": "por për një premtim"
     },
     {
       "surface": "לא",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "ירצה",
-      "gloss": "pranohet"
+      "gloss": "do të pranohet"
     }
   ],
-  "timestamp": "2026-09-27T14:25:15.789298479Z",
+  "timestamp": "2026-09-27T19:06:39.271134573Z",
   "model": "glm-5.3"
 }

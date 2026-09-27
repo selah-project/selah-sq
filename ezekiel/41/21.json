@@ -5,8 +5,37 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 41,
-  "translation": "ההיכל — מזוזת רבעה...",
-  "tokens": [],
-  "timestamp": "2026-09-27T16:39:02.219691850Z",
+  "translation": "Së ⟨tempullit⟩ — korniza e dyrit ⟨ishte⟩ katërkëndëshe, dhe faqja e ⟨vendlindjes së shenjtë⟩ — pamja ⟨ishte⟩ si pamja.",
+  "tokens": [
+    {
+      "surface": "ההיכל",
+      "gloss": "tempullit"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "korniza e dyrit"
+    },
+    {
+      "surface": "רבעה",
+      "gloss": "katërkëndëshe"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dhe faqja e"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vendit të shenjtë"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pamja"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "si pamja"
+    }
+  ],
+  "timestamp": "2026-09-27T19:02:50.611620574Z",
   "model": "glm-5.3"
 }

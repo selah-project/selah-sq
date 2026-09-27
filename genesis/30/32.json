@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 30,
-  "translation": "Do të kaloj nëpër të gjithë bagëtinë tënde sot, do të heq prej andej çdo krye me njolla dhe me pika, dhe çdo krye e zeshkët nga delët, dhe çdo e pikët dhe me njolla nga dhitë; dhe ⟨do të jetë⟩ pagesa ime.",
+  "translation": "Do të kalojësh ⟨për⟩ gjithë tufën tënde sot, duke hequr prej andej çdo dele e tepërt me njolla dhe me pjata, dhe çdo qengj i zi mes deleve, dhe me pjata dhe me njolla midis dhive — dhe ⟨ata⟩ do të jenë shpërblimi im.",
   "tokens": [
     {
       "surface": "אעבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "nëpër të gjithë"
+      "gloss": "gjithë"
     },
     {
       "surface": "צאנך",
-      "gloss": "bagëtinë tënde"
+      "gloss": "tufën tënde"
     },
     {
       "surface": "היום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הסר",
-      "gloss": "do të heq"
+      "gloss": "duke hequr"
     },
     {
       "surface": "משם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שה",
-      "gloss": "krye"
+      "gloss": "dele"
     },
     {
       "surface": "נקד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וטלוא",
-      "gloss": "dhe me pika"
+      "gloss": "dhe me pjata"
     },
     {
       "surface": "וכל",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "שה",
-      "gloss": "krye"
+      "gloss": "qengj"
     },
     {
       "surface": "חום",
-      "gloss": "e zeshkët"
+      "gloss": "i zi"
     },
     {
       "surface": "בכשבים",
-      "gloss": "nga delët"
+      "gloss": "mes deleve"
     },
     {
       "surface": "וטלוא",
-      "gloss": "dhe e pikët"
+      "gloss": "dhe me pjata"
     },
     {
       "surface": "ונקד",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "בעזים",
-      "gloss": "nga dhitë"
+      "gloss": "midis dhive"
     },
     {
       "surface": "והיה",
-      "gloss": "dhe ⟨do të jetë⟩"
+      "gloss": "dhe do të jetë"
     },
     {
       "surface": "שכרי",
-      "gloss": "pagesa ime"
+      "gloss": "shpërblimi im"
     }
   ],
-  "timestamp": "2026-09-27T13:56:19.810447532Z",
+  "timestamp": "2026-09-27T19:03:38.469233545Z",
   "model": "glm-5.3"
 }

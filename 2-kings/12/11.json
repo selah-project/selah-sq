@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Dhe ndodhi, kur panë se ⟨ishte⟩ i shumtë argjendi në arkë, që ngjiti skribi i mbretit dhe prifti i madh, dhe e mbyllën ⟨את⟩ dhe numëruan ⟨את⟩ argjendin që gjendej në shtëpinë e Jahvesë.",
+  "translation": "Dhe ndodhi që, kur panë se ⟨ishte⟩ e shumtë ⟨e⟩ para në arkë, skribi i mbretit dhe prifti i madh dolën lart, dhe mblodhën dhe numëruan ⟨את⟩ paratë që u gjetën në shtëpinë e Jahvesë.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "i shumtë"
+      "gloss": "e shumtë"
     },
     {
       "surface": "הכסף",
-      "gloss": "argjendi"
+      "gloss": "⟨e⟩ para"
     },
     {
       "surface": "בארון",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "dhe ngjiti"
+      "gloss": "dhe dolën lart"
     },
     {
       "surface": "ספר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ויצרו",
-      "gloss": "dhe e mbyllën"
+      "gloss": "dhe mblodhën"
     },
     {
       "surface": "וימנו",
@@ -62,15 +62,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "argjendin"
+      "marks": "paratë"
     },
     {
       "surface": "הכסף",
-      "gloss": "argjendin"
+      "gloss": "paratë"
     },
     {
       "surface": "הנמצא",
-      "gloss": "që gjendej"
+      "gloss": "që u gjetën"
     },
     {
       "surface": "בית",
@@ -81,6 +81,6 @@
       "gloss": "e Jahvesë"
     }
   ],
-  "timestamp": "2026-09-27T15:45:36.545651306Z",
+  "timestamp": "2026-09-27T19:00:45.468399912Z",
   "model": "glm-5.3"
 }

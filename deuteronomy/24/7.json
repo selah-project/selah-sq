@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 24,
-  "translation": "Kur gjendet një burrë që vjedh ⟨את⟩ një njeri nga vëllezërit e tij, nga bijtë e Izraelit, dhe e shtyp atë dhe e shet, ai hajdut të vdesë, dhe do ta heqësh ⟨את⟩ të keqen nga mesi yt.",
+  "translation": "Nëse gjendet një njeri që vjedh ⟨את⟩ një shpirt nga vëllezërit e tij, nga bijtë e Izraelit, dhe e shfrytëzon atë si skllav dhe e shit atë, atëhari duhet të vdesë; dhe ti do ta heqësh ⟨את⟩ të keqen nga mesi yt.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kur"
+      "gloss": "Nëse"
     },
     {
       "surface": "ימצא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "një burrë"
+      "gloss": "një njeri"
     },
     {
       "surface": "גנב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "një njeri"
+      "gloss": "një shpirt"
     },
     {
       "surface": "מאחיו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והתעמר",
-      "gloss": "dhe e shtyp"
+      "gloss": "dhe e shfrytëzon si skllav"
     },
     {
       "surface": "בו",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ומכרו",
-      "gloss": "dhe e shet"
+      "gloss": "dhe e shit atë"
     },
     {
       "surface": "ומת",
-      "gloss": "të vdesë"
+      "gloss": "duhet të vdesë"
     },
     {
       "surface": "הגנב",
-      "gloss": "ai hajdut"
+      "gloss": "atëhari"
     },
     {
       "surface": "ההוא",
@@ -76,6 +76,6 @@
       "gloss": "nga mesi yt"
     }
   ],
-  "timestamp": "2026-09-27T14:49:52.137954847Z",
+  "timestamp": "2026-09-27T19:01:45.229177873Z",
   "model": "glm-5.3"
 }

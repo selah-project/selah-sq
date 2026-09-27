@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 32,
-  "translation": "Dhe Babilonia do ta çojë ⟨את⟩ Sedekinë, dhe atje do të jetë derisa ta vizitoj ⟨את⟩ atë, thotë Jahve; sepse po të luftoni ⟨את⟩ me ⟨את⟩ Kaldejtë, nuk do të ia dilni.",
+  "translation": "Dhe në Babiloni do ta çojë ⟨את⟩ Sidkinë, dhe atje do të jetë deri sa të vij ta përgjëroj ⟨אתו⟩, thotë Jahve; sepse edhe nëse luftoni ⟨את⟩ kundër Kaldeasve, nuk do të përparoni.",
   "tokens": [
     {
       "surface": "ובבל",
-      "gloss": "Dhe Babilonia"
+      "gloss": "dhe në Babiloni"
     },
     {
       "surface": "יולך",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sedekinë"
+      "marks": "Sidkinë"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Sedekinë"
+      "gloss": "Sidkinë"
     },
     {
       "surface": "ושם",
@@ -34,15 +34,16 @@
     },
     {
       "surface": "עד",
-      "gloss": "derisa"
+      "gloss": "deri sa"
     },
     {
       "surface": "פקדי",
-      "gloss": "ta vizitoj"
+      "gloss": "të vij ta përgjëroj"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ atë"
+      "gloss": "⟨את⟩",
+      "marks": "atë (Sidkinë)"
     },
     {
       "surface": "נאם",
@@ -54,19 +55,20 @@
     },
     {
       "surface": "כי",
-      "gloss": "sepse"
+      "gloss": "sepse edhe nëse"
     },
     {
       "surface": "תלחמו",
-      "gloss": "po të luftoni"
+      "gloss": "luftoni"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ me"
+      "gloss": "⟨את⟩",
+      "marks": "Kaldeasve"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kaldejtë"
+      "gloss": "Kaldeasve"
     },
     {
       "surface": "לא",
@@ -74,9 +76,9 @@
     },
     {
       "surface": "תצליחו",
-      "gloss": "do të ia dilni"
+      "gloss": "do të përparoni"
     }
   ],
-  "timestamp": "2026-09-27T16:18:39.819233197Z",
+  "timestamp": "2026-09-27T19:05:08.497763872Z",
   "model": "glm-5.3"
 }

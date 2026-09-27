@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 5,
-  "translation": "Dhe Salomoni sundonte mbi të gjitha mbretëritë, nga Lumi deri në tokën e filistejve dhe deri në kufirin e Egjiptit; ata sillnin barga dhe i shërbenin ⟨את⟩ Salomonit gjithë ditët e jetës së tij.",
+  "translation": "Dhe Salomoni sundonte mbi të gjitha mbretëritë, nga Lumi deri në tokën e filistejve dhe deri në kufirin e Egjiptit; i sillnin ⟨את⟩ mishën dhe i shërbenin Salomonit gjithë ditët e jetës së tij.",
   "tokens": [
     {
       "surface": "ושלמה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "që nga"
+      "gloss": "ishte"
     },
     {
       "surface": "מושל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "toka e"
+      "gloss": "tokës"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistejve"
+      "gloss": "e filistejve"
     },
     {
       "surface": "ועד",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "גבול",
-      "gloss": "kufirin e"
+      "gloss": "kufirin"
     },
     {
       "surface": "מצרים",
-      "gloss": "Egjiptit"
+      "gloss": "e Egjiptit"
     },
     {
       "surface": "מגשים",
-      "gloss": "sillnin"
+      "gloss": "i sillnin"
     },
     {
       "surface": "מנחה",
-      "gloss": "barga"
+      "gloss": "mishën"
     },
     {
       "surface": "ועבדים",
@@ -89,6 +89,6 @@
       "gloss": "jetës së tij"
     }
   ],
-  "timestamp": "2026-09-27T15:32:46.732725371Z",
+  "timestamp": "2026-09-27T18:57:57.475049572Z",
   "model": "glm-5.3"
 }

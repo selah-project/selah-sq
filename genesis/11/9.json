@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Prandaj iu vu emri Babel, sepse aty përziti Jahve ⟨את⟩ gjuhën e të gjithë tokës; dhe prej andej i shpërndau Jahve ata mbi faqen e të gjithë tokës.",
+  "translation": "Prandaj iu vu emri Babel, sepse atje përziti Jahve ⟨⟨gjuhën⟩⟩ e tërë tokës, dhe prej andej i shpërndau Jahve ata mbi faqen e tërë tokës.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "mbi"
+      "gloss": "për"
     },
     {
       "surface": "כן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קרא",
-      "gloss": "iu vu"
+      "gloss": "iu vu emri"
     },
     {
       "surface": "שמה",
-      "gloss": "emri"
+      "gloss": "emri i saj"
     },
     {
       "surface": "בבל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "aty"
+      "gloss": "atje"
     },
     {
       "surface": "בלל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "שפת",
-      "gloss": "gjuhën"
+      "gloss": "gjuhën (buzët)"
     },
     {
       "surface": "כל",
-      "gloss": "e të gjithë"
+      "gloss": "tërë"
     },
     {
       "surface": "הארץ",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "e të gjithë"
+      "gloss": "tërë"
     },
     {
       "surface": "הארץ",
       "gloss": "tokës"
     }
   ],
-  "timestamp": "2026-09-27T13:49:35.767552854Z",
+  "timestamp": "2026-09-27T19:03:40.810850901Z",
   "model": "glm-5.3"
 }

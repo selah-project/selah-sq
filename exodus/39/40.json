@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 39,
-  "translation": "⟨את⟩ perdet e oborrit, ⟨את⟩ shtyllat e tij ו⟨את⟩ bazat e tij, ו⟨את⟩ perden për portën e oborrit, ⟨את⟩ litaret e tij dhe kunjat e tij, ו⟨את⟩ të gjitha enët e shërbimit të Mishkanit, për tendën e takimit;",
+  "translation": "⟨את⟩ perdet e oborrit, ⟨את⟩ shtyllat e tij dhe ⟨את⟩ bazat e tij, dhe ⟨את⟩ perden e portës së oborrit, ⟨את⟩ litaret e saj dhe kunjat e saj, dhe ⟨את⟩ të gjitha veglat e shërbimit të Mishkanit, për çadrën e takimit,",
   "tokens": [
     {
       "surface": "את",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "e oborrit"
+      "gloss": "të oborrit"
     },
     {
       "surface": "את",
@@ -41,7 +41,7 @@
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "perden për portën"
+      "marks": "perden e portës"
     },
     {
       "surface": "המסך",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "לשער",
-      "gloss": "për portën"
+      "gloss": "të portës"
     },
     {
       "surface": "החצר",
-      "gloss": "e oborrit"
+      "gloss": "të oborrit"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "litaret e tij"
+      "marks": "litaret e saj"
     },
     {
       "surface": "מיתריו",
-      "gloss": "litaret e tij"
+      "gloss": "litaret e saj"
     },
     {
       "surface": "ויתדתיה",
-      "gloss": "dhe kunjat e tij"
+      "gloss": "dhe kunjat e saj"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "të gjitha enët e shërbimit"
+      "marks": "të gjitha veglat"
     },
     {
       "surface": "כל",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "enët"
+      "gloss": "veglat"
     },
     {
       "surface": "עבדת",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "לאהל",
-      "gloss": "për tendën"
+      "gloss": "për çadrën"
     },
     {
       "surface": "מועד",
       "gloss": "e takimit"
     }
   ],
-  "timestamp": "2026-09-27T14:17:49.801565526Z",
+  "timestamp": "2026-09-27T19:02:19.986378340Z",
   "model": "glm-5.3"
 }

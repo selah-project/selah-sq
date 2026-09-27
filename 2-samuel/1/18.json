@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 1,
-  "translation": "dhe tha ta mësojnë bijtë e Judës ⟨את⟩ harkun; ja, ⟨ajo⟩ është shkruar në librin e Jasharit.",
+  "translation": "dhe tha t'u mësohej bijve të Judës ⟨harku⟩; ja, ⟨është⟩ shkruar në Librin e Jasharit.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "ta mësojnë"
+      "gloss": "t'u mësohej"
     },
     {
       "surface": "בני",
-      "gloss": "bijtë e"
+      "gloss": "bijve të"
     },
     {
       "surface": "יהודה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "קשת",
-      "gloss": "harkun"
+      "gloss": "⟨harku⟩"
     },
     {
       "surface": "הנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כתובה",
-      "gloss": "është shkruar"
+      "gloss": "shkruar"
     },
     {
       "surface": "על",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "ספר",
-      "gloss": "librin"
+      "gloss": "Librin e"
     },
     {
       "surface": "הישר",
-      "gloss": "të Jasharit"
+      "gloss": "Jasharit"
     }
   ],
-  "timestamp": "2026-09-27T15:21:02.328875899Z",
+  "timestamp": "2026-09-27T19:00:18.537534159Z",
   "model": "glm-5.3"
 }

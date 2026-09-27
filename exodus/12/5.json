@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 12,
-  "translation": "ℹ️ Shqip: Kafsha e tufës duhet të jetë e palëkundur, mashkull, njëvjeç, për ju; nga qengjat ose nga dhitë do ta merrni.",
+  "translation": "Qengji ⟨duhet⟩ të jetë i pa-më, mashkull, bir i një viti; do ta merrni nga delesat ose nga dhitë.",
   "tokens": [
     {
       "surface": "שה",
-      "gloss": "kafsha e tufës"
+      "gloss": "Qengji"
     },
     {
       "surface": "תמים",
-      "gloss": "e palëkundur"
+      "gloss": "i pa-më"
     },
     {
       "surface": "זכר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בן",
-      "gloss": "një"
+      "gloss": "bir"
     },
     {
       "surface": "שנה",
-      "gloss": "vjeç"
+      "gloss": "i një viti"
     },
     {
       "surface": "יהיה",
-      "gloss": "duhet të jetë"
+      "gloss": "të jetë"
     },
     {
       "surface": "לכם",
-      "gloss": "për ju"
+      "gloss": "⟨për ju⟩"
     },
     {
       "surface": "מן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הכבשים",
-      "gloss": "qengjat"
+      "gloss": "delesat"
     },
     {
       "surface": "ומן",
@@ -56,6 +56,6 @@
       "gloss": "do ta merrni"
     }
   ],
-  "timestamp": "2026-09-27T14:06:36.016525748Z",
+  "timestamp": "2026-09-27T19:02:27.501432177Z",
   "model": "glm-5.3"
 }

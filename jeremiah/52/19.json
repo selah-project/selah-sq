@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 52,
-  "translation": "Dhe ⟨את⟩ kupat, dhe ⟨את''' dhjetë buallicat e bakrit që ishin nën bazat, ⟨את⟩ të cilat i kishte bërë mbreti Salomon për shtëpinë e Jahvesë — pesha e bakrit të të gjitha këtyre enëve nuk u mat.",
+  "translation": "Dhe ⟨את⟩ kupat, dhe ⟨את⟩ vigjet e zjarrit, dhe ⟨את⟩ enët e spërkatjes, dhe ⟨את⟩ kazanët, dhe ⟨את⟩ kandilarët, dhe ⟨את⟩ lugët, dhe ⟨את⟩ enët e pastrimit — çfarë ⟨ishte⟩ ar, në ar, dhe çfarë ⟨ishte⟩ argjend, në argjend — i mori kryeti i rojës.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "kupat"
     },
     {
@@ -18,34 +18,44 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tavat e tymit"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vigjet e zjarrit"
     },
     {
       "surface": "המחתות",
-      "gloss": "tavat e tymit"
+      "gloss": "vigjet e zjarrit"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kupat e spërkatjes"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "enët e spërkatjes"
     },
     {
       "surface": "המזרקות",
-      "gloss": "kupat e spërkatjes"
+      "gloss": "enët e spërkatjes"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kazanet"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kazanët"
     },
     {
       "surface": "הסירות",
-      "gloss": "kazanet"
+      "gloss": "kazanët"
     },
     {
-      "surface": "and את המנרות",
-      "gloss": "⟨את⟩"
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kandilarët"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "kandilarët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lugët"
     },
     {
       "surface": "הכפות",
@@ -53,16 +63,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kupat e pijes"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "enët e pastrimit"
     },
     {
       "surface": "המנקיות",
-      "gloss": "kupat e pijes"
+      "gloss": "enët e pastrimit"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨את⟩ të cilat"
+      "gloss": "çfarë"
     },
     {
       "surface": "זהב",
@@ -70,11 +80,11 @@
     },
     {
       "surface": "זהב",
-      "gloss": "ar"
+      "gloss": "në ar"
     },
     {
       "surface": "ואשר",
-      "gloss": "dhe të cilat"
+      "gloss": "dhe çfarë"
     },
     {
       "surface": "כסף",
@@ -82,7 +92,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "argjend"
+      "gloss": "në argjend"
     },
     {
       "surface": "לקח",
@@ -90,13 +100,13 @@
     },
     {
       "surface": "רב",
-      "gloss": "kryei"
+      "gloss": "kryeti"
     },
     {
       "surface": "טבחים",
-      "gloss": "rojet"
+      "gloss": "i rojës"
     }
   ],
-  "timestamp": "2026-09-27T16:25:26.132345703Z",
+  "timestamp": "2026-09-27T19:05:51.556624168Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 10,
-  "translation": "dhe që t'i tregosh në veshët e birit tënd dhe të birit të birit të τënd ⟨את⟩ atë që bëra në Egjipt dhe ⟨את⟩ shenjat e mia që vura në mes tyre, dhe të dini se unë jam Jahve.",
+  "translation": "dhe që t'u tregosh ⟨את⟩ atë që bëra në Egjipt dhe ⟨את⟩ shenjat e mia që vura mbi ta, në veshët e birit tënd dhe të birit të birit tënd; dhe do të dini se unë jam Jahve.",
   "tokens": [
     {
       "surface": "ולמען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תספר",
-      "gloss": "t'i tregosh"
+      "gloss": "t'u tregosh"
     },
     {
       "surface": "באזני",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "atë që bëra"
+      "marks": "atë që bëra në Egjipt"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "התעללתי",
-      "gloss": "bëra (dëshpërova)"
+      "gloss": "bëra (u shfrytëzova rëndë)"
     },
     {
       "surface": "במצרים",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "בם",
-      "gloss": "në mes tyre"
+      "gloss": "mbi ta"
     },
     {
       "surface": "וידעתם",
-      "gloss": "dhe të dini"
+      "gloss": "dhe do të dini"
     },
     {
       "surface": "כי",
@@ -86,6 +86,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-09-27T14:06:12.901384367Z",
+  "timestamp": "2026-09-27T19:02:09.362363968Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "sq",
   "chapter": 2,
-  "translation": "Kasditë u përgjigjën para mbretit dhe thanë: Nuk ka njeri mbi token e thatë që të mund të tregojë çështjen e mbretit, sepse asnjë mbret i madh e sundimtar s'ka kërkuar fjalë si kjo nga asnjë magjistar, falltar ose kasd.",
+  "translation": "Kasditë iu përgjigjën para mbretit dhe thanë: «Nuk ka ⟨ka⟩ njeri mbi tokën e thatë që të mund ta tregojë fjalën e mbretit, sepse asnjë mbret, i madh e sundimtar, një fjalë si kjo nuk ka kërkuar nga asnjë magjistar, falltar ose kasdit.»",
   "tokens": [
     {
       "surface": "ענו",
-      "gloss": "u përgjigjën"
+      "gloss": "iu përgjigjën"
     },
     {
       "surface": "כשדיא",
-      "gloss": "kasditë"
+      "gloss": "Kasditë"
     },
     {
       "surface": "קדם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "nuk"
+      "gloss": "Nuk"
     },
     {
       "surface": "איתי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יבשתא",
-      "gloss": "token e thatë"
+      "gloss": "tokën e thatë"
     },
     {
       "surface": "די",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מלת",
-      "gloss": "çështjen"
+      "gloss": "fjalën"
     },
     {
       "surface": "מלכא",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "të mundë"
+      "gloss": "të mund"
     },
     {
       "surface": "להחויה",
-      "gloss": "të tregojë"
+      "gloss": "ta tregojë"
     },
     {
       "surface": "כל",
-      "gloss": "sepse"
+      "gloss": "sepse asnjë (כל קבל = sepse asnjë)"
     },
     {
       "surface": "קבל",
-      "gloss": "meqë"
+      "gloss": ""
     },
     {
       "surface": "די",
-      "gloss": "se"
+      "gloss": ""
     },
     {
       "surface": "כל",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "ושליט",
-      "gloss": "dhe sundimtar"
+      "gloss": "e sundimtar"
     },
     {
       "surface": "מלה",
-      "gloss": "fjalë"
+      "gloss": "një fjalë"
     },
     {
       "surface": "כדנה",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "s'ka"
+      "gloss": "nuk ka"
     },
     {
       "surface": "שאל",
@@ -121,13 +121,13 @@
     },
     {
       "surface": "ואשף",
-      "gloss": "ose falltar"
+      "gloss": "falltar"
     },
     {
       "surface": "וכשדי",
-      "gloss": "ose kasd"
+      "gloss": "ose kasdit"
     }
   ],
-  "timestamp": "2026-09-27T17:47:30.368557452Z",
+  "timestamp": "2026-09-27T19:01:35.377459644Z",
   "model": "glm-5.3"
 }

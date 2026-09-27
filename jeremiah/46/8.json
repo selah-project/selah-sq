@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 46,
-  "translation": "Egjipti ngjitet si lumi (Nili) dhe si lumenjtë ujërat e tij përshkohen nga vrulli; dhe ai tha: «Do të ngjem, do të mbuloj ⟨את⟩ tokën, do të shkatërroj ⟨את⟩ qytetin dhe banorët e tij.»",
+  "translation": "Egjipti ngjitet si lumi, dhe si lumenjtë u përziejnë ujërat me forcë; dhe ai tha: Do të ngjitem, do të mbuloj tokën, do të shkatërroj qytetin dhe banorët e tij.",
   "tokens": [
     {
       "surface": "מצרים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כיאר",
-      "gloss": "si lumi (Nili)"
+      "gloss": "si lumi"
     },
     {
       "surface": "יעלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יתגעשו",
-      "gloss": "përshkohen nga vrulli"
+      "gloss": "u përziejnë me forcë"
     },
     {
       "surface": "מים",
@@ -37,20 +37,15 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "do të ngjem"
+      "gloss": "do të ngjitem"
     },
     {
       "surface": "אכסה",
       "gloss": "do të mbuloj"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "tokën"
-    },
-    {
       "surface": "ארץ",
-      "gloss": "tokën"
+      "gloss": "toku"
     },
     {
       "surface": "אבידה",
@@ -66,9 +61,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "të tij (në të)"
+      "gloss": "e tij"
     }
   ],
-  "timestamp": "2026-09-27T16:21:20.116090828Z",
+  "timestamp": "2026-09-27T19:05:39.857499453Z",
   "model": "glm-5.3"
 }

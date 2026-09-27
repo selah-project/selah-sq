@@ -5,24 +5,24 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 25,
-  "translation": "Dhe ⟨את⟩ çdo ar dhe argjend, dhe ⟨את⟩ të gjitha orenditë që u gjetën në shtëpinë e Eloimit te Obed-Edomi, dhe ⟨את⟩ thesaret e shtëpisë së mbretit, dhe ⟨את⟩ bijtë e pengjeve, dhe u kthye në Samari.",
+  "translation": "Dhe ⟨ai mori⟩ tërë arin dhe argjendin, dhe ⟨את⟩ të gjitha enët që u gjetën në shtëpinë e Elohit tek Obed-Edomi, dhe ⟨את⟩ thesaret e shtëpisë së mbretit, dhe ⟨את⟩ bijtë e pengjeve, dhe u kthye në Samari.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "dhe çdo"
+      "gloss": "dhe tërë"
     },
     {
       "surface": "הזהב",
-      "gloss": "ar"
+      "gloss": "arin"
     },
     {
       "surface": "והכסף",
-      "gloss": "dhe argjend"
+      "gloss": "dhe argjendin"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "të gjitha orenditë"
+      "marks": "të gjitha enët"
     },
     {
       "surface": "כל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "orenditë"
+      "gloss": "enët"
     },
     {
       "surface": "הנמצאים",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "e Eloimit"
+      "gloss": "e Elohit"
     },
     {
       "surface": "עם",
-      "gloss": "te"
+      "gloss": "tek"
     },
     {
       "surface": "עבד",
-      "gloss": "Obed-"
+      "gloss": "Obed"
     },
     {
       "surface": "אדום",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "thesaret"
     },
     {
@@ -71,11 +71,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "së mbretit"
+      "gloss": "të mbretit"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "bijtë e pengjeve"
     },
     {
@@ -95,6 +95,6 @@
       "gloss": "në Samari"
     }
   ],
-  "timestamp": "2026-09-27T18:14:46.503884865Z",
+  "timestamp": "2026-09-27T18:58:21.626098474Z",
   "model": "glm-5.3"
 }

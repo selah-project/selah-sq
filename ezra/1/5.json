@@ -5,8 +5,87 @@
   "book": "ezra",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe u ngritën krerët e shtëpive të atërore të Judës dhe të Beniaminit, dhe priftërinjtë dhe levitët, — për të gjithë atë whose spirit Elohim e zgjoi — ngadhënjyesi whose spirit Elohim zgjoi, për të ngjitur e për të ndërtuar ⟨את⟩ shtëpinë e Jahvesë që ⟨is⟩ në Jerusalem.",
-  "tokens": [],
-  "timestamp": "2026-09-27T17:52:25.875350327Z",
+  "translation": "Dhe u ngritën kryet e shtëpive të atëve të Judës dhe të Beniaminit, dhe priftërinjët, dhe levitët, çdo njeri fryma e të cilit Elohim e kishte zgjuar ⟨את⟩ frymën e tij, për të ngjitur për të ndërtuar ⟨את⟩ shtëpinë e Jahvesë që është në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "dhe u ngritën"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kryet"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "të shtëpive të atëve"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "të Judës"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dhe të Beniaminit"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dhe priftërinjët"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dhe levitët"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e kishte zgjuar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frymën e tij"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "frymën e tij"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "për të ngjitur"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "për të ndërtuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T19:02:59.919389942Z",
   "model": "glm-5.3"
 }

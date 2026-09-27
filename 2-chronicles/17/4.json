@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 17,
-  "translation": "sepse kërkoi ⟨את⟩ Elohim e atit të tij, dhe ecën në urdhërimet e tij, dhe jo sipas veprave të Izraelit.",
+  "translation": "sepse kërkoi ⟨të⟩ Elohim ⟨e⟩ të atit të vet, dhe në mësyret e tij eci, e jo sipas veprave të Izraelit.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לאלהי",
-      "gloss": "Elohim e"
+      "gloss": "kërkoi ⟨të⟩ Elohim ⟨e⟩"
     },
     {
       "surface": "אביו",
-      "gloss": "atit të tij"
+      "gloss": "të atit të vet"
     },
     {
       "surface": "דרש",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ובמצותיו",
-      "gloss": "dhe në urdhërimet e tij"
+      "gloss": "dhe në mësyret e tij"
     },
     {
       "surface": "הלך",
-      "gloss": "ecën"
+      "gloss": "eci"
     },
     {
       "surface": "ולא",
-      "gloss": "dhe jo"
+      "gloss": "e jo"
     },
     {
       "surface": "כמעשה",
-      "gloss": "sipas veprave të"
+      "gloss": "sipas veprave"
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraelit"
+      "gloss": "të Izraelit"
     }
   ],
-  "timestamp": "2026-09-27T18:11:44.954159112Z",
+  "timestamp": "2026-09-27T18:58:30.381257125Z",
   "model": "glm-5.3"
 }

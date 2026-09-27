@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Ai afroi ⟨את⟩ flijimin e vet: një enë argjendi, pesha e saj njëqind e tridhjetë sikla, një kupë argjendi prej shtatëdhjetë siklash, sipas siklit të shenjtërores; të dyja të plota me miell të imët, të përziera me vaj, për një impe.",
+  "translation": "Ai afroi ⟨את⟩ flijimin e tij: një tas argjendi, një i vetëm, peshë e tij njëqind e tridhjetë ⟨shekel⟩; një ene spërkatjeje një e argjendit, shtatëdhjetë shekel sipas shekelit të ⟨faltores⟩ së shenjtë; të dyja të plotë me miell të imët, të përzier me vaj, për një ⟨minha⟩.",
   "tokens": [
     {
       "surface": "הקרב",
-      "gloss": "afroi"
+      "gloss": "Ai afroi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "flijimin e vet"
+      "marks": "flijimin e tij"
     },
     {
       "surface": "קרבנו",
-      "gloss": "flijimin e vet"
+      "gloss": "flijimin e tij"
     },
     {
       "surface": "קערת",
-      "gloss": "një enë"
+      "gloss": "tas"
     },
     {
       "surface": "כסף",
@@ -30,23 +30,23 @@
     },
     {
       "surface": "אחת",
-      "gloss": "një"
+      "gloss": "një i vetëm"
     },
     {
       "surface": "שלשים",
-      "gloss": "tridhjetë"
+      "gloss": "dhe tridhjetë"
     },
     {
       "surface": "ומאה",
-      "gloss": "dhe njëqind"
+      "gloss": "njëqind"
     },
     {
       "surface": "משקלה",
-      "gloss": "pesha e saj"
+      "gloss": "peshë e tij"
     },
     {
       "surface": "מזרק",
-      "gloss": "një kupë"
+      "gloss": "ene spërkatjeje"
     },
     {
       "surface": "אחד",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "argjendi"
+      "gloss": "argjendit"
     },
     {
       "surface": "שבעים",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "שקל",
-      "gloss": "sikla"
+      "gloss": "shekel"
     },
     {
       "surface": "בשקל",
-      "gloss": "sipas siklit"
+      "gloss": "sipas shekelit"
     },
     {
       "surface": "הקדש",
-      "gloss": "të shenjtërores"
+      "gloss": "të shenjtë"
     },
     {
       "surface": "שניהם",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "מלאים",
-      "gloss": "të plota"
+      "gloss": "të plotë"
     },
     {
       "surface": "סלת",
-      "gloss": "me miell të imët"
+      "gloss": "miell të imët"
     },
     {
       "surface": "בלולה",
-      "gloss": "të përziera"
+      "gloss": "të përzier"
     },
     {
       "surface": "בשמן",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "למנחה",
-      "gloss": "për një impe"
+      "gloss": "për një ⟨minha⟩"
     }
   ],
-  "timestamp": "2026-09-27T14:29:51.730222553Z",
+  "timestamp": "2026-09-27T19:08:28.555899257Z",
   "model": "glm-5.3"
 }

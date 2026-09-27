@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 49,
-  "translation": "Beniamini ⟨is⟩ një ujk që gris prenë; në mëngjes ha ⟨את⟩ prenë, dhe në mbrëmje ndan ⟨את⟩ plaçkën.",
+  "translation": "Beniamini ⟨është⟩ një ujk që grabit; në mëngjes han ⟨את⟩ prenë, dhe në mbrëmje ndan plaçkitë.",
   "tokens": [
     {
       "surface": "בנימין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יטרף",
-      "gloss": "gris prenë"
+      "gloss": "grabit"
     },
     {
       "surface": "בבקר",
@@ -25,11 +25,12 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "ha"
+      "gloss": "han"
     },
     {
       "surface": "עד",
-      "gloss": "prenë"
+      "gloss": "⟨את⟩ prenë",
+      "notes": ""
     },
     {
       "surface": "ולערב",
@@ -41,9 +42,9 @@
     },
     {
       "surface": "שלל",
-      "gloss": "plaçkë"
+      "gloss": "plaçkitë"
     }
   ],
-  "timestamp": "2026-09-27T18:18:29.765163347Z",
+  "timestamp": "2026-09-27T19:04:20.491418909Z",
   "model": "glm-5.3"
 }

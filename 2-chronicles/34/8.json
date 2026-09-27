@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 34,
-  "translation": "Dhe në vitin e tetëmbëdhjetë të mbretërimit të tij, për të pastruar ⟨את⟩ tokën dhe ⟨את⟩ shtëpinë, dërgoi ⟨את⟩ Shafanin, bir të Acaljahut, dhe ⟨את⟩ Maasejahun, kryetarin e qytetit, dhe ⟨את⟩ Joahun, bir të Joahazit, kujtuesin, për të forcuar ⟨את⟩ shtëpinë e Jahvesë, Elohim i tij.",
+  "translation": "Dhe në vitin e tetëmbëdhjetë të mbretërimit të tij, për të pastruar ⟨të⟩ tokën dhe shtëpinë, ai dërgoi ⟨את⟩ Shafanin, bir të Atsaljahut, dhe ⟨את⟩ Maasejahut, kryetar të qytetit, dhe ⟨את⟩ Joahun, bir të Joahazit, kujtuesin, për të përforcuar ⟨את⟩ shtëpinë e Jahves, Elohim të tij.",
   "tokens": [
     {
       "surface": "ובשנת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "dërgoi"
+      "gloss": "ai dërgoi"
     },
     {
       "surface": "את",
@@ -54,24 +54,24 @@
     },
     {
       "surface": "אצליהו",
-      "gloss": "të Acaljahut"
+      "gloss": "Atsaljahut"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "Maasejahun"
+      "marks": "Maasejahut"
     },
     {
       "surface": "מעשיהו",
-      "gloss": "Maasejahun"
+      "gloss": "Maasejahut"
     },
     {
       "surface": "שר",
-      "gloss": "kryetarin"
+      "gloss": "kryetar"
     },
     {
       "surface": "העיר",
-      "gloss": "e qytetit"
+      "gloss": "i qytetit"
     },
     {
       "surface": "ואת",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "יואחז",
-      "gloss": "të Joahazit"
+      "gloss": "Joahazit"
     },
     {
       "surface": "המזכיר",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "לחזק",
-      "gloss": "për të forcuar"
+      "gloss": "për të përforcuar"
     },
     {
       "surface": "את",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "e Jahvesë"
+      "gloss": "e Jahves"
     },
     {
       "surface": "אלהיו",
-      "gloss": "Elohim i tij"
+      "gloss": "Elohim të tij"
     }
   ],
-  "timestamp": "2026-09-27T18:17:33.929100306Z",
+  "timestamp": "2026-09-27T18:58:45.949395959Z",
   "model": "glm-5.3"
 }

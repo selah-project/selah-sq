@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Dhe të mos sjellësh gjëbpikëllim në shtëpinë tënde, e të bëhesh ⟨ti⟩ i shenjtëruar për shkatërrim si ajo; ta neverisesh ⟨את⟩ dhe ta urresh ⟨את⟩ plotësisht, sepse për shkatërrim ⟨eshte⟩ i shenjtëruar.",
+  "translation": "Dhe mos sill ⟨את⟩ gjëën e neveritshme në shtëpinë tënde, që të mos bëhesh vetë i shenjtëruar për shkatërrim si ajo; neveroje plotësisht dhe urreje plotësisht, sepse ⟨është⟩ e shenjtëruar për shkatërrim.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "dhe të mos"
+      "gloss": "dhe mos"
     },
     {
       "surface": "תביא",
-      "gloss": "të sjellësh"
+      "gloss": "sill"
     },
     {
       "surface": "תועבה",
-      "gloss": "gjëbpikëllim"
+      "gloss": "gjëën e neveritshme"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והיית",
-      "gloss": "dhe të bëhesh"
+      "gloss": "dhe do të bëhesh"
     },
     {
       "surface": "חרם",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "ta neverisesh"
+      "gloss": "neveroje plotësisht"
     },
     {
       "surface": "תשקצנו",
-      "gloss": "plotësisht"
+      "gloss": "neveroje plotësisht atë"
     },
     {
       "surface": "ותעב",
-      "gloss": "dhe ta urresh"
+      "gloss": "dhe urreje plotësisht"
     },
     {
       "surface": "תתעבנו",
-      "gloss": "plotësisht"
+      "gloss": "urreje plotësisht atë"
     },
     {
       "surface": "כי",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "חרם",
-      "gloss": "për shkatërrim"
+      "gloss": "i shenjtëruar për shkatërrim"
     },
     {
       "surface": "הוא",
       "gloss": "ajo"
     }
   ],
-  "timestamp": "2026-09-27T14:44:23.283420868Z",
+  "timestamp": "2026-09-27T19:02:01.468262265Z",
   "model": "glm-5.3"
 }

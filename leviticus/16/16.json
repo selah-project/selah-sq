@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 16,
-  "translation": "dhe do të pajtojë ⟨את⟩ vendin e shenjtë nga papastërtitë e bijve të Izraelit dhe nga shkeljet e tyre, për të gjitha mëkatet e tyre; dhe kështu do të bëjë për çadrën e takimit, që banon ⟨me את⟩ ata në mes të papastërtive të tyre.",
+  "translation": "Dhe ai do të bëjë shpagim për ⟨the⟩ vendin e shenjtë nga papastërtitë e bijve të Izraelit dhe nga shkeljet e tyre, për të gjitha mëkatet e tyre; dhe kështu do të bëjë për tendën e takimit, që banon ⟨me ta⟩ në mes të papastërtive të tyre.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "dhe do të pajtojë"
+      "gloss": "dhe ai do të bëjë shpagim"
     },
     {
       "surface": "על",
-      "gloss": "⟨mbi⟩ për"
+      "gloss": "për"
     },
     {
       "surface": "הקדש",
-      "gloss": "vendin e shenjtë"
+      "gloss": "⟨the⟩ vendin e shenjtë"
     },
     {
       "surface": "מטמאת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לאהל",
-      "gloss": "për çadrën"
+      "gloss": "për tendën"
     },
     {
       "surface": "מועד",
@@ -65,7 +65,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨me את⟩"
+      "gloss": "⟨אתם⟩",
+      "marks": "me ta"
     },
     {
       "surface": "בתוך",
@@ -76,6 +77,6 @@
       "gloss": "papastërtive të tyre"
     }
   ],
-  "timestamp": "2026-09-27T14:24:06.907757766Z",
+  "timestamp": "2026-09-27T19:07:06.063633732Z",
   "model": "glm-5.3"
 }

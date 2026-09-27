@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Dhe ⟨את⟩ mishin dhe ⟨את]] lëkurën i dogji me zjarr jashtë kampit.",
+  "translation": "Dhe ⟨את⟩ mishin dhe ⟨את⟩ lëkurën i dogji me zjarr, jashtë kampit.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mishin"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lëkurën"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "kampit"
     }
   ],
-  "timestamp": "2026-09-27T14:20:25.688090317Z",
+  "timestamp": "2026-09-27T19:07:14.238769409Z",
   "model": "glm-5.3"
 }

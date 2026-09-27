@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 41,
-  "translation": "Faraoni le ta bëjë këtë dhe le të caktojë mbikëqyrës mbi ⟨token⟩, dhe le të mbledhë ⟨את⟩ tokën e Egjiptit një të pestën në shtatë vitet e mbushjes.",
+  "translation": "Le ta bëjë Faraoni këtë, dhe të emërojë mbikëqyrës mbi ⟨të⟩ arën, dhe të marrë një të pestën e ⟨את⟩ arës së Egjiptit në shtatë vitet e bollëkut,",
   "tokens": [
     {
       "surface": "יעשה",
-      "gloss": "le ta bëjë"
+      "gloss": "Le ta bëjë Faraoni këtë"
     },
     {
       "surface": "פרעה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויפקד",
-      "gloss": "dhe le të caktojë"
+      "gloss": "dhe të emërojë"
     },
     {
       "surface": "פקדים",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨token⟩"
+      "gloss": "arën"
     },
     {
       "surface": "וחמש",
-      "gloss": "dhe le të mbledhë një të pestën"
+      "gloss": "dhe të marrë një të pestën"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tokën e Egjiptit"
+      "marks": "arës (Egjiptit)"
     },
     {
       "surface": "ארץ",
-      "gloss": "tokën"
+      "gloss": "arës"
     },
     {
       "surface": "מצרים",
-      "gloss": "e Egjiptit"
+      "gloss": "Egjiptit"
     },
     {
       "surface": "בשבע",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "השבע",
-      "gloss": "e mbushjes"
+      "gloss": "të bollëkut"
     }
   ],
-  "timestamp": "2026-09-27T14:00:20.549968881Z",
+  "timestamp": "2026-09-27T19:03:25.964312696Z",
   "model": "glm-5.3"
 }

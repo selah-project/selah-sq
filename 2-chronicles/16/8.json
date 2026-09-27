@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Vallë, kushitët dhe libianët nuk ishin ⟨היו⟩ ushtri e madhe, me qerre e kalorësi, tepër të shumtë? Dhe kur u mbështete në Jahve, i doroi ⟨את⟩ ata në dorën tënde.",
+  "translation": "Vallë, kushitët dhe libianët a nuk qenë ushtri e madhe, me qerre dhe kalorës, shumë tepër? dhe kur u mbështete në Jahve, ai i dha ⟨ata⟩ në dorën tënde.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Vallë, a nuk"
+      "gloss": "vallë a nuk"
     },
     {
       "surface": "הכושים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "ishin"
+      "gloss": "qenë"
     },
     {
       "surface": "לחיל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ולפרשים",
-      "gloss": "dhe kalorësi"
+      "gloss": "dhe kalorës"
     },
     {
       "surface": "להרבה",
-      "gloss": "tepër të shumtë"
-    },
-    {
-      "surface": "מאד",
       "gloss": "shumë"
     },
     {
+      "surface": "מאד",
+      "gloss": "tepër"
+    },
+    {
       "surface": "ובהשענך",
-      "gloss": "dhe kur u mbështete"
+      "gloss": "dhe u mbështete ti"
     },
     {
       "surface": "על",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "נתנם",
-      "gloss": "i doroi ata"
+      "gloss": "i dha ⟨ata⟩"
     },
     {
       "surface": "בידך",
       "gloss": "në dorën tënde"
     }
   ],
-  "timestamp": "2026-09-27T18:12:32.378787741Z",
+  "timestamp": "2026-09-27T18:58:29.877652104Z",
   "model": "glm-5.3"
 }

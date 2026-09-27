@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 7,
-  "translation": "dhe për flijimin e faljes (שלמים), dy qe, pesë desh, pesë cjepër të rritur, pesë qingj të një vjeç; ky ishte flijimi i Ahirait, birit të Enanit.",
+  "translation": "dhe për flijimin e falje-shëllyese dy qe, pesë desh, pesë cjepër, pesë qengja njëvjeçare; ky ishte flijimi i Ahirit, birit të Enanit.",
   "tokens": [
     {
       "surface": "ולזבח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "të faljes (שלמים)"
+      "gloss": "e falje-shëllyese"
     },
     {
       "surface": "בקר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עתדים",
-      "gloss": "cjepër të rritur"
+      "gloss": "cjepër"
     },
     {
       "surface": "חמשה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "qingj"
+      "gloss": "qengja"
     },
     {
       "surface": "בני",
-      "gloss": "të"
+      "gloss": "njëvjeçare"
     },
     {
       "surface": "שנה",
-      "gloss": "një vjeç"
+      "gloss": "(vjeç)"
     },
     {
       "surface": "חמשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אחירע",
-      "gloss": "i Ahirait"
+      "gloss": "i Ahirit"
     },
     {
       "surface": "בן",
@@ -76,6 +76,6 @@
       "gloss": "të Enanit"
     }
   ],
-  "timestamp": "2026-09-27T14:31:28.023620423Z",
+  "timestamp": "2026-09-27T19:08:20.779919662Z",
   "model": "glm-5.3"
 }

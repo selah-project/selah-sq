@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 72,
-  "translation": "Le të gjykojë ⟨את⟩ të shtypurit e popullit, t'i shpëtojë bijtë e nevojtarit, dhe të shtypë shkelësin.",
+  "translation": "Le të gjykojë ⟨të⟩ varfrit e popullit, të shpëtojë bijtë e nevojtarit dhe të shtypë shkelësin.",
   "tokens": [
     {
       "surface": "ישפט",
-      "gloss": "le të gjykojë"
+      "gloss": "Le të gjykojë"
     },
     {
       "surface": "עניי",
-      "gloss": "të shtypurit"
+      "gloss": "varfrit"
     },
     {
       "surface": "עם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יושיע",
-      "gloss": "t'i shpëtojë"
+      "gloss": "të shpëtojë"
     },
     {
       "surface": "לבני",
@@ -40,6 +40,6 @@
       "gloss": "shkelësin"
     }
   ],
-  "timestamp": "2026-09-27T17:06:29.986074767Z",
+  "timestamp": "2026-09-27T19:09:10.116173083Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe prifti do ta shikojë atë në ditën e shtatë, dhe ja, plaga ka mbetur e njëjtë në sytë e tij, plaga nuk është përhapur në lëkurë; atëherë prifti do ta mbyllë atë ⟨את⟩ shtatë ditët e dyta.",
+  "translation": "Dhe prifti do ta shikojë ⟨atë⟩ në ditën e shtatë, dhe ja, nëse plageja ka ndenjur në sytë e tij, nuk është përhapur plaga në lëkurë, atëherë prifti do ta mbyllë ⟨atë⟩ shtatë ditë ⟨të tjera⟩ — hera e dytë.",
   "tokens": [
     {
       "surface": "וראהו",
-      "gloss": "do ta shikojë atë"
+      "gloss": "dhe do ta shikojë"
     },
     {
       "surface": "הכהן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "të shtatë"
+      "gloss": "e shtatë"
     },
     {
       "surface": "והנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "plaga"
+      "gloss": "plageja"
     },
     {
       "surface": "עמד",
-      "gloss": "ka mbetur e njëjtë"
+      "gloss": "ka ndenjur"
     },
     {
       "surface": "בעיניו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והסגירו",
-      "gloss": "do ta mbyllë atë"
+      "gloss": "dhe do ta mbyllë"
     },
     {
       "surface": "הכהן",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שנית",
-      "gloss": "të dyta"
+      "gloss": "hera e dytë"
     }
   ],
-  "timestamp": "2026-09-27T14:22:09.896894296Z",
+  "timestamp": "2026-09-27T19:06:39.377669447Z",
   "model": "glm-5.3"
 }

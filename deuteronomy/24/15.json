@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 24,
-  "translation": "Në ditën e tij do t'i japësh ⟨את⟩ pagën e tij, dhe dielli të mos perëndojë mbi të, sepse ai është i varfër dhe drejt saj ai ngre ⟨את⟩ shpirtin e tij; dhe të mos thërrasë kundër teje ndaj Jahvesë, dhe të mos bëhet në ty mëkat.",
+  "translation": "Në ditën e tij do t'i japësh ⟨את⟩ pagën e tij, dhe dielli të mos perëndojë mbi të, sepse ai është i varfër dhe drejt saj ai e mban ⟨את⟩ shpirtin e vet; dhe të mos bërtetë kundër teje drejt Jahvesë, dhe do të jetë mbi ty mëkat.",
   "tokens": [
     {
       "surface": "ביומו",
-      "gloss": "Në ditën e tij"
+      "gloss": "në ditën e tij"
     },
     {
       "surface": "תתן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "dhe ... jo"
+      "gloss": "dhe jo"
     },
     {
       "surface": "תבוא",
-      "gloss": "të vijë"
+      "gloss": "të perëndojë"
     },
     {
       "surface": "עליו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ai"
+      "gloss": "ai është"
     },
     {
       "surface": "ואליו",
@@ -57,24 +57,24 @@
     },
     {
       "surface": "נשא",
-      "gloss": "ngre"
+      "gloss": "e mban \/ ngre"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shpirtin e tij"
+      "marks": "shpirtin e vet"
     },
     {
       "surface": "נפשו",
-      "gloss": "shpirtin e tij"
+      "gloss": "shpirtin e vet"
     },
     {
       "surface": "ולא",
-      "gloss": "dhe ... jo"
+      "gloss": "dhe të mos"
     },
     {
       "surface": "יקרא",
-      "gloss": "të thërrasë"
+      "gloss": "bërtetë \/ thërrasë"
     },
     {
       "surface": "עליך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ndaj"
+      "gloss": "drejt"
     },
     {
       "surface": "יהוה",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "והיה",
-      "gloss": "dhe të bëhet"
+      "gloss": "dhe do të jetë"
     },
     {
       "surface": "בך",
-      "gloss": "në ty"
+      "gloss": "mbi ty \/ në ty"
     },
     {
       "surface": "חטא",
       "gloss": "mëkat"
     }
   ],
-  "timestamp": "2026-09-27T18:22:01.695587581Z",
+  "timestamp": "2026-09-27T19:01:46.730059175Z",
   "model": "glm-5.3"
 }

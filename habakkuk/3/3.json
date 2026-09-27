@@ -5,8 +5,61 @@
   "book": "habakkuk",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Eloah vjen nga Temani, dhe i Shenjti nga mali i ⟨i⟩ Paranit. Selah. Qiejt i mbuloi lavdia e tij, dhe lëvdata e tij mbushi ⟨të⟩ gjithë ⟨të⟩ dhjetë token",
-  "tokens": [],
-  "timestamp": "2026-09-27T16:50:57.597119326Z",
+  "translation": "Eloah vjen nga Temani, dhe ⟨i shenjti⟩ nga mali i Paranit — Selah. Lavdia e tij mbuloi ⟨qiellin⟩, dhe lavdërimi i tij mbushi ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "nga Temani"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "dhe ⟨i shenjti⟩"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nga mali"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "i Paranit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "mbuloi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨qiellin⟩"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "lavdia e tij"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "dhe lavdërimi i tij"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T19:04:09.792181590Z",
   "model": "glm-5.3"
 }

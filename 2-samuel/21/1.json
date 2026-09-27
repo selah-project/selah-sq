@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 21,
-  "translation": "Dhe ndodhi një uri në ditët e Davidit, tre vjet, vit pas viti; dhe David kërkoi ⟨fajen e⟩ יהוה, dhe יהוה tha: ⟨Është⟩ për Saulin dhe për shtëpinë e gjakut, sepse ai vrau ⟨את⟩ gibeonitët.",
+  "translation": "Dhe ndodhi uri në ditët e Davidit, tre vjet, vit pas viti; dhe Davidi kërkoi ⟨את⟩ fytyrën e Jahvesë, dhe Jahve tha: «Është për shkak të Saulit dhe të shtëpisë së përgjakur, sepse ai i mbyti ⟨את⟩ gibeonitët.»",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dhe ndodhi"
+      "gloss": "Dhe ndodhi"
     },
     {
       "surface": "רעב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "vitit"
+      "gloss": "viti"
     },
     {
       "surface": "ויבקש",
@@ -54,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fajen e"
+      "marks": "fytyrën e Jahvesë"
     },
     {
       "surface": "פני",
-      "gloss": "fajen e"
+      "gloss": "fytyrën e"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahvesë"
     },
     {
       "surface": "ויאמר",
@@ -74,35 +74,35 @@
     },
     {
       "surface": "אל",
-      "gloss": "për"
-    },
-    {
-      "surface": "שאול",
-      "gloss": "Saulin"
-    },
-    {
-      "surface": "ואל",
-      "gloss": "dhe për"
-    },
-    {
-      "surface": "בית",
-      "gloss": "shtëpinë e"
-    },
-    {
-      "surface": "הדמים",
-      "gloss": "të gjakut"
-    },
-    {
-      "surface": "על",
       "gloss": "për shkak të"
     },
     {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "përgjakur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "sepse"
     },
     {
       "surface": "המית",
-      "gloss": "vrau"
+      "gloss": "i mbyti"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "gibeonitët"
     }
   ],
-  "timestamp": "2026-09-27T15:27:58.806708482Z",
+  "timestamp": "2026-09-27T19:01:28.693348617Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Dhe afroi ⟨את⟩ flijimin e popullit, dhe mori ⟨את]] capping ⟨את⟩ kecin e mëkatit që ishte për popullin, dhe e theri atë dhe e bëri flijim mëkati, si të parin.",
+  "translation": "Dhe ai afroi ⟨את⟩ flijimin e popullit, dhe mori ⟨את⟩ cjapin e pjesshëm të mëkatit që ishte për popullin, dhe e therriti atë dhe e bëri flijim mëkati si të parin.",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "e popullit"
+      "gloss": "të popullit"
     },
     {
       "surface": "ויקח",
@@ -31,19 +31,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kecin"
+      "marks": "cjapin"
     },
     {
       "surface": "שעיר",
-      "gloss": "kecin"
+      "gloss": "cjapin"
     },
     {
       "surface": "החטאת",
-      "gloss": "e mëkatit"
+      "gloss": "të mëkatit"
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "që ishte"
     },
     {
       "surface": "לעם",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "וישחטהו",
-      "gloss": "dhe e theri atë"
+      "gloss": "dhe e therriti atë"
     },
     {
       "surface": "ויחטאהו",
@@ -62,6 +62,6 @@
       "gloss": "si të parin"
     }
   ],
-  "timestamp": "2026-09-27T14:20:42.477759319Z",
+  "timestamp": "2026-09-27T19:07:19.591104509Z",
   "model": "glm-5.3"
 }

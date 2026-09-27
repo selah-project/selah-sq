@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 29,
-  "translation": "Dhe flijuan ⟨את⟩ flijimet për Jahve dhe ngjitën olokaustet për Jahve të nesërmen e asaj dite: një mijë dema, një mijë desh, një mijë qengja, me derdhjet e tyre, dhe flijime me shumicë për gjithë Izraelin.",
+  "translation": "Dhe flijuan Jahves flijime, dhe ngjiten ⟨את⟩ olofot drejt Jahves ditën tjetër, atë ditë: një mijë dema, një mijë dashë, një mijë qengja, me derdhjet e tyre të pijes, dhe flijime me shumicë për gjithë Izraelin.",
   "tokens": [
     {
       "surface": "ויזבחו",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "Jahves"
     },
     {
       "surface": "זבחים",
-      "gloss": "flijimet"
+      "gloss": "flijime"
     },
     {
       "surface": "ויעלו",
-      "gloss": "dhe ngjitën"
+      "gloss": "dhe ngjiten"
     },
     {
       "surface": "עלות",
-      "gloss": "olokaustet"
+      "gloss": "⟨את⟩ olofot"
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "Jahves"
     },
     {
       "surface": "למחרת",
-      "gloss": "të nesërmen e"
+      "gloss": "ditën tjetër"
     },
     {
       "surface": "היום",
-      "gloss": "ditës"
+      "gloss": "atë ditë"
     },
     {
       "surface": "ההוא",
-      "gloss": "asaj"
+      "gloss": "atë"
     },
     {
       "surface": "פרים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אילים",
-      "gloss": "desh"
+      "gloss": "dashë"
     },
     {
       "surface": "אלף",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "me derdhjet e tyre"
+      "gloss": "me derdhjet e tyre të pijes"
     },
     {
       "surface": "וזבחים",
@@ -88,6 +88,6 @@
       "gloss": "Izraelin"
     }
   ],
-  "timestamp": "2026-09-27T18:07:24.582103299Z",
+  "timestamp": "2026-09-27T18:58:07.112031080Z",
   "model": "glm-5.3"
 }

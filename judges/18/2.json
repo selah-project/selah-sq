@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Dhe bijtë e Danit dërguan nga familja e tyre pesë burra nga skajet e tyre, burra bij të forcës, nga Cora dhe nga Eshtaol, për të vëzhguar ⟨את⟩ ⟨token⟩ dhe për ta hulumtuar atë; dhe u thanë atyre: Shkoni, hulumtoni ⟨את⟩ ⟨token⟩. Dhe arritën në malin e Efraimit, deri në shtëpinë e Mikës, dhe fjetën atje.",
+  "translation": "Dhe bijtë e Danit dërguan nga fisi i tyre pesë burra nga skajet e tyre, burra, bij të forcës, nga Coraja dhe nga Eshtaoli, për të vëzhguar ⟨את⟩ tokën dhe për ta hetuar atë; dhe u thanë atyre: Shkoni, hetoni ⟨את⟩ tokën. Dhe erdhën në malin e Efraimit, deri në shtëpinë e Mikas, dhe fjetën atje.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Dhe dërguan"
+      "gloss": "dërguan"
     },
     {
       "surface": "בני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ממשפחתם",
-      "gloss": "nga familja e tyre"
+      "gloss": "nga fisi i tyre"
     },
     {
       "surface": "חמשה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מצרעה",
-      "gloss": "nga Cora"
+      "gloss": "nga Coraja"
     },
     {
       "surface": "ומאשתאל",
-      "gloss": "dhe nga Eshtaol"
+      "gloss": "dhe nga Eshtaoli"
     },
     {
       "surface": "לרגל",
@@ -62,15 +62,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vendin"
+      "marks": "tokën"
     },
     {
       "surface": "הארץ",
-      "gloss": "vendin"
+      "gloss": "tokën"
     },
     {
       "surface": "ולחקרה",
-      "gloss": "dhe për ta hulumtuar atë"
+      "gloss": "dhe për ta hetuar atë"
     },
     {
       "surface": "ויאמרו",
@@ -86,20 +86,20 @@
     },
     {
       "surface": "חקרו",
-      "gloss": "hulumtoni"
+      "gloss": "hetoni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vendin"
+      "marks": "tokën"
     },
     {
       "surface": "הארץ",
-      "gloss": "vendin"
+      "gloss": "tokën"
     },
     {
       "surface": "ויבאו",
-      "gloss": "Dhe arritën"
+      "gloss": "dhe erdhën"
     },
     {
       "surface": "הר",
@@ -107,19 +107,19 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "të Efraimit"
+      "gloss": "e Efraimit"
     },
     {
       "surface": "עד",
-      "gloss": "deri"
+      "gloss": "deri në"
     },
     {
       "surface": "בית",
-      "gloss": "në shtëpinë"
+      "gloss": "shtëpinë e"
     },
     {
       "surface": "מיכה",
-      "gloss": "e Mikës"
+      "gloss": "Mikas"
     },
     {
       "surface": "וילינו",
@@ -130,6 +130,6 @@
       "gloss": "atje"
     }
   ],
-  "timestamp": "2026-09-27T15:09:13.900647977Z",
+  "timestamp": "2026-09-27T19:07:10.007211781Z",
   "model": "glm-5.3"
 }

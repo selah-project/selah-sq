@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 104,
-  "translation": "Një kufi vure — nuk do ta kalojnë, nuk do të kthehen më për të mbuluar ⟨token⟩⟨të⟩ tokën.",
+  "translation": "Kufiri u ve ⟨את⟩ — nuk do ta kalojnë dot, nuk do të kthehen më që ⟨të⟩ mbulojnë ⟨the⟩ tokën.",
   "tokens": [
     {
       "surface": "גבול",
-      "gloss": "një kufi"
+      "gloss": "kufir"
     },
     {
       "surface": "שמת",
-      "gloss": "vure"
+      "gloss": "u ve"
     },
     {
       "surface": "בל",
-      "gloss": "nuk"
+      "gloss": "nuk … dot"
     },
     {
       "surface": "יעברון",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "בל",
-      "gloss": "nuk"
+      "gloss": "nuk … më"
     },
     {
       "surface": "ישובון",
-      "gloss": "do të kthehen më"
+      "gloss": "do të kthehen"
     },
     {
       "surface": "לכסות",
-      "gloss": "për të mbuluar"
+      "gloss": "që të mbulojnë"
     },
     {
       "surface": "הארץ",
-      "gloss": "toka"
+      "gloss": "tokën"
     }
   ],
-  "timestamp": "2026-09-27T17:11:22.536291660Z",
+  "timestamp": "2026-09-27T19:08:46.240641726Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Dhe Moisi u foli ⟨את⟩ Korachit dhe ⟨את⟩ gjithë asamblesë së tij, duke thënë: Në mëngjes do ta tregojë Jahve ⟨את⟩ atë që është e tija dhe ⟨את⟩ të shenjtin, dhe do ta afrojë pranë vetes; dhe ⟨את⟩ atë që do të zgjedhë, do ta afrojë pranë vetes.",
+  "translation": "Dhe foli ⟨me⟩ Korahun dhe ⟨me⟩ gjithë asamblenë e tij, duke thënë: Në mëngjes Jahve do të bëjë të njohur ⟨את⟩ ata që janë të tij, dhe ⟨את⟩ të shenjtin, dhe do t'i afrojë pranë vetes; dhe ⟨את⟩ atë që do të zgjedhë, do ta afrojë pranë vetes.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "dhe u foli"
+      "gloss": "dhe foli"
     },
     {
       "surface": "אל",
-      "gloss": "përpara"
+      "gloss": "me"
     },
     {
       "surface": "קרח",
-      "gloss": "Korachit"
+      "gloss": "Korahun"
     },
     {
       "surface": "ואל",
-      "gloss": "dhe përpara"
+      "gloss": "dhe me"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עדתו",
-      "gloss": "asamblesë së tij"
+      "gloss": "asamblenë e tij"
     },
     {
       "surface": "לאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וידע",
-      "gloss": "do ta tregojë"
+      "gloss": "dhe do të bëjë të njohur"
     },
     {
       "surface": "יהוה",
@@ -50,19 +50,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "atë që është e tija"
+      "marks": "ata që janë të tij"
     },
     {
       "surface": "אשר",
-      "gloss": "atë që"
+      "gloss": "që"
     },
     {
       "surface": "לו",
-      "gloss": "është e tija"
+      "gloss": "janë të tij"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "të shenjtin"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "dhe do ta afrojë"
+      "gloss": "dhe do të afrojë"
     },
     {
       "surface": "אליו",
@@ -79,12 +79,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "atë që do të zgjedhë"
     },
     {
       "surface": "אשר",
-      "gloss": "atë që"
+      "gloss": "që"
     },
     {
       "surface": "יבחר",
@@ -103,6 +103,6 @@
       "gloss": "pranë vetes"
     }
   ],
-  "timestamp": "2026-09-27T14:34:03.884355704Z",
+  "timestamp": "2026-09-27T19:10:14.227456270Z",
   "model": "glm-5.3"
 }

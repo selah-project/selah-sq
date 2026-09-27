@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 21,
-  "translation": "Dhe ti do të largosh ⟨את⟩ gjakun e pafajshëm nga mesi yt, sepse do të bësh atë që është e drejtë në sytë e Jahvesë.",
+  "translation": "Dhe ti do ta heqësh ⟨⟨את⟩⟩ gjakun e pafajshëm nga mesi yt, sepse ke bërë ⟨⟨את⟩⟩ atë që është e drejtë në sytë e Jahvesë.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "dhe ti"
+      "gloss": "Dhe ti"
     },
     {
       "surface": "תבער",
-      "gloss": "do të largosh"
+      "gloss": "do ta heqësh (do ta zhdukësh)"
     },
     {
       "surface": "הדם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנקי",
-      "gloss": "i pafajshëm"
+      "gloss": "e pafajshëm"
     },
     {
       "surface": "מקרבך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "do të bësh"
+      "gloss": "ke bërë"
     },
     {
       "surface": "הישר",
@@ -48,6 +48,6 @@
       "gloss": "Jahvesë"
     }
   ],
-  "timestamp": "2026-09-27T18:21:46.167050208Z",
+  "timestamp": "2026-09-27T19:01:39.393550915Z",
   "model": "glm-5.3"
 }

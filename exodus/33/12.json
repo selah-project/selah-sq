@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Moisi i tha Jahvesë: Shih, ti po më thua: «Ngjill ⟨את⟩ këtë popull», e ti nuk më bëre të njoh ⟨את⟩ atë që do të dërgosh me mua; po ti ke thënë: «Të njoha me emër», dhe ke gjetur hir në sytë e mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Shih"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "po thua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Ngjill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë popull"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "më bëre të njoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që do të dërgosh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "do të dërgosh"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "po ti"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ke thënë"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Të njoha"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "me emër"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ke gjetur"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T19:02:21.622360311Z",
+  "model": "glm-5.3"
+}

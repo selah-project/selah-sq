@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe engjëlli i Jahvesë u përgjigj dhe tha: «Jahve Tsevaot, deri kur nuk do të tregosh mëshirë ndaj ⟨את⟩ Jeruzalemit dhe ndaj ⟨את⟩ qyteteve të Judës, të cilat ti i köqëreve tashmë këto shtatëdhjetë vjet?»",
+  "translation": "Dhe engjëlli i Jahves u përgjigj dhe tha: O Jahve Tsevaot, deri kur nuk do të mëshirosh ⟨את⟩ Jerusalemin dhe ⟨את⟩ qytetet e Judës, të cilat i ke qortuar këto shtatëdhjetë vjet?",
   "tokens": [
     {
       "surface": "ויען",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "i Jahvesë"
+      "gloss": "i Jahves"
     },
     {
       "surface": "ויאמר",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "תרחם",
-      "gloss": "do të tregosh mëshirë"
+      "gloss": "do të mëshirosh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jeruzalemit"
+      "marks": "Jerusalemin"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jeruzalemit"
+      "gloss": "Jerusalemin"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "qyteteve të Judës"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qytetet e Judës"
     },
     {
       "surface": "ערי",
-      "gloss": "qyteteve"
+      "gloss": "qytetet"
     },
     {
       "surface": "יהודה",
-      "gloss": "të Judës"
+      "gloss": "e Judës"
     },
     {
       "surface": "אשר",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "זעמתה",
-      "gloss": "i köqëreve"
+      "gloss": "i ke qortuar"
     },
     {
       "surface": "זה",
-      "gloss": "tashmë këto"
+      "gloss": "këto"
     },
     {
       "surface": "שבעים",
@@ -94,6 +94,6 @@
       "gloss": "vjet"
     }
   ],
-  "timestamp": "2026-09-27T16:51:42.324271902Z",
+  "timestamp": "2026-09-27T19:09:26.611204004Z",
   "model": "glm-5.3"
 }

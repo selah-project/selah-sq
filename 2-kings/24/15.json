@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 24,
-  "translation": "Dhe e shpërnguli ⟨את⟩ Jehojakinin në Babiloni, dhe ⟨את⟩ nënën e mbretit, dhe ⟨את⟩ gratë e mbretit, dhe ⟨את⟩ евнуhët e tij, dhe ⟨את⟩ të fuqishmit e vendit — i çoi të mërguar nga Jerusalemi në Babiloni.",
+  "translation": "Dhe e internoi ⟨את⟩ Jehojakinin në Babiloni, dhe ⟨את⟩ nënën e mbretit, dhe ⟨את⟩ gratë e mbretit, dhe ⟨את⟩ eunukët e tij, dhe ⟨את⟩ të fuqtishmit e vendit — i çoi në robëri nga Jeruzalemi në Babiloni.",
   "tokens": [
     {
       "surface": "ויגל",
-      "gloss": "dhe e shpërnguli"
+      "gloss": "dhe e internoi"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "nënën e mbretit"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "gratë e mbretit"
     },
     {
@@ -52,21 +52,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "евнуhët e tij"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "eunukët e tij"
     },
     {
       "surface": "סריסיו",
-      "gloss": "евнуhët e tij"
+      "gloss": "eunukët e tij"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "të fuqishmit e vendit"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të fuqtishmit e vendit"
     },
     {
       "surface": "אולי",
-      "gloss": "të fuqishmit"
+      "gloss": "të fuqtishmit"
     },
     {
       "surface": "הארץ",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "גולה",
-      "gloss": "të mërguar"
+      "gloss": "në robëri"
     },
     {
       "surface": "מירושלם",
-      "gloss": "nga Jerusalemi"
+      "gloss": "nga Jeruzalemi"
     },
     {
       "surface": "בבלה",
       "gloss": "në Babiloni"
     }
   ],
-  "timestamp": "2026-09-27T15:49:39.794691365Z",
+  "timestamp": "2026-09-27T19:00:49.949231449Z",
   "model": "glm-5.3"
 }

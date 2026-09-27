@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 2,
-  "translation": "Dhe mbreti Shelomo dërgoi ⟨⟨את⟩⟩ nëpërmjet dorës së Benajahut, birit të Jehojadait; dhe ai ra mbi të dhe ai vdiq.",
+  "translation": "Dhe mbreti Salomon dërgoi ⟨⟩ nëpërmjet dorës së Benajahut, birit të Jehojadait; dhe ai e goditi atë, dhe ai vdiq.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Salomon"
     },
     {
       "surface": "ביד",
-      "gloss": "nëpërmjet dorës së"
+      "gloss": "nëpërmjet dorës"
     },
     {
       "surface": "בניהו",
@@ -29,25 +29,26 @@
     },
     {
       "surface": "בן",
-      "gloss": "birit i"
+      "gloss": "birit"
     },
     {
       "surface": "יהוידע",
       "gloss": "Jehojadait"
     },
     {
-      "surface": "ויפגע",
-      "gloss": "ra mbi"
+      "surface": "וגיפגע",
+      "gloss": "",
+      "notes": null
     },
     {
       "surface": "בו",
       "gloss": "atë"
     },
     {
-      "surface": "וימת",
+      "surface": "וגימת",
       "gloss": "vdiq"
     }
   ],
-  "timestamp": "2026-09-27T15:30:39.154602106Z",
+  "timestamp": "2026-09-27T18:57:49.541932105Z",
   "model": "glm-5.3"
 }

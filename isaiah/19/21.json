@@ -5,8 +5,74 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 19,
-  "translation": "Dhe Jahve do t'u bëhet i njohur Egjiptit, dhe egjiptianët do ta njohin ⟨את⟩ Jahve në atë ditë; do të bëjnë flijim dhe minha, do të japin një löjat־besë lidhur me nga Jahve dhe do ta plotësojnë atë.",
-  "tokens": [],
-  "timestamp": "2026-09-27T15:53:48.897707409Z",
+  "translation": "Dhe Jahve do të bëhet i njohur për Egjiptin, dhe egjiptianët do të njohin ⟨את⟩ Jahve në atë ditë; dhe do të bëjnë flijim dhe oferta-minha, dhe do të lidhin një betim ndaj Jahves dhe do ta plotësojnë atë.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "dhe do të bëhet i njohur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "për Egjiptin"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dhe do të njohin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dhe do të bëjnë"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijim"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "dhe oferta-minha"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "dhe do të lidhin"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "një betim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndaj Jahves"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "dhe do ta plotësojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T19:04:05.873052257Z",
   "model": "glm-5.3"
 }

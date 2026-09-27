@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe mori ⟨את⟩ çdo ar dhe ⟨את⟩ çdo argjend dhe ⟨את⟩ çdo pajisjet që u gjetën në shtëpinë e Jahvesë dhe në thesaret e shtëpisë së mbretit, dhe ⟨את⟩ bijtë e pengjeve, dhe u kthye në Shomron.",
+  "translation": "Dhe mori ⟨את⟩ gjithë arin dhe argjendin, dhe ⟨את⟩ të gjitha enët që u gjetën në shtëpinë e Jahvesë dhe në thesaret e shtëpisë së mbretit, dhe ⟨את⟩ bijtë e pengjeve, dhe u kthye në Samari.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -14,32 +14,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "çdo ar dhe argjend"
+      "marks": "gjithë arin"
     },
     {
       "surface": "כל",
-      "gloss": "çdo"
+      "gloss": "gjithë"
     },
     {
       "surface": "הזהב",
-      "gloss": "ar"
+      "gloss": "arin"
     },
     {
       "surface": "והכסף",
-      "gloss": "dhe argjend"
+      "gloss": "dhe argjendin"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "çdo pajisjet"
+      "marks": "të gjitha enët"
     },
     {
       "surface": "כל",
-      "gloss": "çdo"
+      "gloss": "të gjitha"
     },
     {
       "surface": "הכלים",
-      "gloss": "pajisjet"
+      "gloss": "enët"
     },
     {
       "surface": "הנמצאים",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "e shtëpisë"
+      "gloss": "të shtëpisë"
     },
     {
       "surface": "המלך",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "bijtë"
+      "gloss": "bijtë e"
     },
     {
       "surface": "התערבות",
-      "gloss": "e pengjeve"
+      "gloss": "pengjeve"
     },
     {
       "surface": "וישב",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "שמרונה",
-      "gloss": "në Shomron"
+      "gloss": "në Samari"
     }
   ],
-  "timestamp": "2026-09-27T15:44:55.105359305Z",
+  "timestamp": "2026-09-27T19:00:19.595808491Z",
   "model": "glm-5.3"
 }

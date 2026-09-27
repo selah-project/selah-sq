@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Si ⟨ai⟩ që leron ⟨dhe⟩ çan tokën, ashtu u shpërndanë kockat tona përballë gojës së Sheolit.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Si"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "leron (çan)"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "dhe çan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "u shpërndanë"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "kockat tona"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "përballë gojës së"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolit"
+    }
+  ],
+  "timestamp": "2026-09-27T19:08:37.292742195Z",
+  "model": "glm-5.3"
+}

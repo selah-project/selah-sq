@@ -5,8 +5,54 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T14:02:42.554027993Z",
+  "translation": "Dhe sa më shumë i shtypnin ata ⟨את⟩, aq më shumë shumëzohej dhe përhapej; dhe u zemëruan përpara bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "dhe sa më shumë"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "i shtypnin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ata (popullin)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aq"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "shumëzohej"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dhe aq"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "përhapej"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "dhe u zemëruan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T19:02:00.340092394Z",
   "model": "glm-5.3"
 }

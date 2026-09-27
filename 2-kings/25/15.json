@@ -5,25 +5,25 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 25,
-  "translation": "Dhe ⟨את]] pjatat e zjarrit, dhe ⟨את]] kupat — çfarë ishte ar, ari; dhe çfarë ishte argjend, argjendi — i mori krye i rojeve.",
+  "translation": "Dhe ⟨את⟩ temjat e tymit dhe ⟨את⟩ kupat e spërkatjes — çfarë ishte prej ari, ar i plotë, dhe çfarë ishte prej argjendi, argjend i plotë — i mori kryetari i rojës.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pjatat e zjarrit"
+      "marks": "temjat e tymit"
     },
     {
       "surface": "המחתות",
-      "gloss": "pjatat e zjarrit"
+      "gloss": "temjat e tymit"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kupat"
+      "marks": "kupat e spërkatjes"
     },
     {
       "surface": "המזרקות",
-      "gloss": "kupat"
+      "gloss": "kupat e spërkatjes"
     },
     {
       "surface": "אשר",
@@ -31,11 +31,11 @@
     },
     {
       "surface": "זהב",
-      "gloss": "ari"
+      "gloss": "prej ari"
     },
     {
       "surface": "זהב",
-      "gloss": "ari"
+      "gloss": "ar i plotë"
     },
     {
       "surface": "ואשר",
@@ -43,25 +43,25 @@
     },
     {
       "surface": "כסף",
-      "gloss": "argjendi"
+      "gloss": "prej argjendi"
     },
     {
       "surface": "כסף",
-      "gloss": "argjendi"
+      "gloss": "argjend i plotë"
     },
     {
       "surface": "לקח",
-      "gloss": "i mori"
+      "gloss": "mori"
     },
     {
       "surface": "רב",
-      "gloss": "krye"
+      "gloss": "kryetari"
     },
     {
       "surface": "טבחים",
-      "gloss": "i rojeve (këshilltarit)"
+      "gloss": "i rojës (buerëve)"
     }
   ],
-  "timestamp": "2026-09-27T15:49:24.492615702Z",
+  "timestamp": "2026-09-27T19:00:36.597154080Z",
   "model": "glm-5.3"
 }

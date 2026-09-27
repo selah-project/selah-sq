@@ -5,7 +5,7 @@
   "book": "song-of-songs",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Do të ngrihem tani dhe do të rrethoj ⟨את⟩ qytetin, nëpër tregje dhe nëpër sheshe të gjera; do të kërkoj ⟨את⟩ atë që do shpirti im; e kërkova, por nuk e gjeta.",
+  "translation": "Do të ngrihem tani dhe do të shkoj rreth e rrotull nëpër qytet, nëpër tregje dhe nëpër rrugë të gjera; do të kërkoj ⟨את⟩ atë që do shpirti im. E kërkova, por nuk e gjeta.",
   "tokens": [
     {
       "surface": "אקומה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ואסובבה",
-      "gloss": "dhe do të rrethoj"
+      "gloss": "dhe do të shkoj rreth e rrotull"
     },
     {
       "surface": "בעיר",
-      "gloss": "qytetin"
+      "gloss": "nëpër qytet"
     },
     {
       "surface": "בשוקים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וברחבות",
-      "gloss": "dhe nëpër sheshe të gjera"
+      "gloss": "dhe nëpër rrugë të gjera"
     },
     {
       "surface": "אבקשה",
@@ -61,6 +61,6 @@
       "gloss": "e gjeta"
     }
   ],
-  "timestamp": "2026-09-27T17:37:54.239498572Z",
+  "timestamp": "2026-09-27T19:09:21.928072051Z",
   "model": "glm-5.3"
 }

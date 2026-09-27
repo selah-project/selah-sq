@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 4,
-  "translation": "Ditën kur qëndrove përballë Jahve, Elohim tënd, në Horeb, kur më tha Jahve: Mblidhmi ⟨את⟩ popullin, dhe do t'i bëj të dëgjojnë ⟨את⟩ fjalët e mia, që të mësojnë të më frikësohen ⟨את⟩ mua ⟨את⟩ gjithë ditët që janë gjallë mbi tokë, dhe ⟨את⟩ bijtë e tyre t'i mësojnë.",
+  "translation": "ditën që të qëndrove para Jahve, Elohim tënd, në Horeb, kur më tha Jahve: M'ia mblidh ⟨את⟩ popullin dhe do t'i bëj të dëgjojnë ⟨את⟩ fjalët e mia, që të mësojnë të frikësohen ⟨אתי⟩ mua gjithë ditët që ⟨ata⟩ jetojnë mbi dhe dhe ⟨את⟩ bijtë e tyre t'i mësojnë ato.",
   "tokens": [
     {
       "surface": "יום",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kur"
+      "gloss": "që"
     },
     {
       "surface": "עמדת",
-      "gloss": "qëndrove"
+      "gloss": "të qëndrove"
     },
     {
       "surface": "לפני",
-      "gloss": "përballë"
+      "gloss": "para"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "për mua"
+      "gloss": "mua"
     },
     {
       "surface": "את",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mua",
+      "gloss": "⟨אתי⟩",
       "marks": "mua"
     },
     {
@@ -108,11 +108,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "ata"
+      "gloss": "⟨ata⟩"
     },
     {
       "surface": "חיים",
-      "gloss": "janë gjallë"
+      "gloss": "jetojnë"
     },
     {
       "surface": "על",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "tokën"
+      "gloss": "dhe"
     },
     {
       "surface": "ואת",
@@ -133,9 +133,9 @@
     },
     {
       "surface": "ילמדון",
-      "gloss": "t'i mësojnë"
+      "gloss": "t'i mësojnë ato"
     }
   ],
-  "timestamp": "2026-09-27T14:43:17.228645946Z",
+  "timestamp": "2026-09-27T19:02:10.625138478Z",
   "model": "glm-5.3"
 }

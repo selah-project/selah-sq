@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Adonai Jahve është betuar në shenjtërinë e tij: ja, vijnë ditë mbi ju, dhe do t'ju marrin ⟨את⟩ me grep dhe mbetjen tuaj me grep peshkimi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "është betuar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "në shenjtërinë e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vijnë"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dhe do t'ju marrin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (me grep)"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "me grep"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "dhe mbetjen tuaj"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "me"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "grep peshkimi"
+    }
+  ],
+  "timestamp": "2026-09-27T19:01:30.842536132Z",
+  "model": "glm-5.3"
+}

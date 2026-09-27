@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe Davidi nuk deshi të çonte ⟨te ai⟩ ⟨את⟩ arkën e Jahvesë në qytetin e Davidit; por Davidi e shpuri ⟨את⟩ atë në shtëpinë e Obed-Edomit hititit — jo: nga Gati.",
+  "translation": "Dhe Davidi nuk deshi t'i çonte ⟨את⟩ arkës së Jahvesë te vetë, në qytetin e Davidit; por Davidi e çua mënjanë në shtëpinë e Obed-Edomit nga Gati.",
   "tokens": [
     {
       "surface": "ולא",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "të çonte"
+      "gloss": "t'i çonte mënjanë"
     },
     {
       "surface": "אליו",
-      "gloss": "te ai"
+      "gloss": "te vetë"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arkën e Jahvesë"
+      "marks": "arkës së Jahvesë"
     },
     {
       "surface": "ארון",
-      "gloss": "arkën"
+      "gloss": "arka"
     },
     {
       "surface": "יהוה",
-      "gloss": "e Jahvesë"
+      "gloss": "Jahvesë"
     },
     {
       "surface": "על",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויטהו",
-      "gloss": "e shpuri"
+      "gloss": "por e çoi mënjanë"
     },
     {
       "surface": "דוד",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "בית",
-      "gloss": "në shtëpinë"
+      "gloss": "shtëpinë e"
     },
     {
       "surface": "עבד",
-      "gloss": "—"
+      "gloss": "Obed"
     },
     {
       "surface": "אדום",
-      "gloss": "Obed-Edomit"
+      "gloss": "Edomit"
     },
     {
       "surface": "הגתי",
-      "gloss": "gititi"
+      "gloss": "nga Gati"
     }
   ],
-  "timestamp": "2026-09-27T15:22:51.561242443Z",
+  "timestamp": "2026-09-27T19:01:16.014785533Z",
   "model": "glm-5.3"
 }

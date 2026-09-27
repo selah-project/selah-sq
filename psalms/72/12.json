@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 72,
-  "translation": "Sepse ai do ta shpëtojë ⟨את⟩ të varfurin që bërtet, dhe të pikëlluarin që s'ka ndihmës për vete.",
+  "translation": "Sepse do të shpëtojë ⟨ai⟩ të varfrin që bërtet, dhe të shtypurin, dhe atë që s'ka ndihmës për vete.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יציל",
-      "gloss": "do ta shpëtojë"
+      "gloss": "do të shpëtojë"
     },
     {
       "surface": "אביון",
-      "gloss": "të varfurin"
+      "gloss": "të varfrin"
     },
     {
       "surface": "משוע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ועני",
-      "gloss": "dhe të pikëlluarin"
+      "gloss": "dhe të shtypurin"
     },
     {
       "surface": "ואין",
-      "gloss": "dhe s'ka"
+      "gloss": "dhe që s'ka"
     },
     {
       "surface": "עזר",
@@ -40,6 +40,6 @@
       "gloss": "për vete"
     }
   ],
-  "timestamp": "2026-09-27T17:05:55.056990725Z",
+  "timestamp": "2026-09-27T19:09:13.428418082Z",
   "model": "glm-5.3"
 }

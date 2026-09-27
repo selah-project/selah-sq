@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe i çova ata në tokën për të cilën e ngrita ⟨את⟩ dorën time për t'ua dhënë atyre; dhe panë çdo kodër të lartë dhe çdo pemë të ngjeshur, dhe flijuan atje ⟨את⟩ flijimet e tyre, dhe vendosën atje provokimin e flijimit të tyre, dhe vunë atje erën e kënaqësisë së tyre, dhe derdhën atje ⟨את» libacionet e tyre.",
+  "translation": "Dhe i çova ata në ⟨të⟩ tokën që e ngrita ⟨את⟩ dorën time për t'ua dhënë atë ⟨את⟩, dhe panë çdo kodër të lartë dhe çdo pemë me gjeth të mbushur, dhe flijuan atje ⟨את⟩ flijimet e tyre, dhe dhanë atje provokimin e dhuratës së tyre, dhe vunë atje erën e kënaqësisë së tyre, dhe derdhën atje ⟨את⟩ libacionet e tyre.",
   "tokens": [
     {
       "surface": "ואביאם",
-      "gloss": "dhe i çova"
+      "gloss": "dhe i çova ata"
     },
     {
       "surface": "אל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tokën"
+      "gloss": "⟨të⟩ tokën"
     },
     {
       "surface": "אשר",
-      "gloss": "për të cilën"
+      "gloss": "që"
     },
     {
       "surface": "נשאתי",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לתת",
-      "gloss": "për t'ua dhënë"
+      "gloss": "për të dhënë"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ atë",
       "marks": "atë (tokën)"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "surface": "עבת",
-      "gloss": "të ngjeshur"
+      "gloss": "me gjeth të mbushur"
     },
     {
       "surface": "ויזבחו",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "dhe vendosën"
+      "gloss": "dhe dhanë"
     },
     {
       "surface": "שם",
@@ -104,11 +104,11 @@
     },
     {
       "surface": "כעס",
-      "gloss": "provokimin"
+      "gloss": "provokimin (indinjatën)"
     },
     {
       "surface": "קרבנם",
-      "gloss": "të flijimit të tyre"
+      "gloss": "të dhuratës së tyre"
     },
     {
       "surface": "וישימו",
@@ -124,7 +124,7 @@
     },
     {
       "surface": "ניחוחיהם",
-      "gloss": "të kënaqësisë së tyre"
+      "gloss": "e kënaqësisë së tyre"
     },
     {
       "surface": "ויסיכו",
@@ -144,6 +144,6 @@
       "gloss": "libacionet e tyre"
     }
   ],
-  "timestamp": "2026-09-27T16:32:26.918014358Z",
+  "timestamp": "2026-09-27T19:03:12.473884275Z",
   "model": "glm-5.3"
 }

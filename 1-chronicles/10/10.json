@@ -5,20 +5,20 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 10,
-  "translation": "Dhe vunë ⟨את⟩ pajisjet e tij në shtëpinë e perëndive të tyre, dhe ⟨את〉 kafkën e tij e fiksuan në shtëpinë e Dagonit.",
+  "translation": "Dhe e vunë ⟨את⟩ pajisjen e tij në shtëpinë e perëndive të tyre, dhe ⟨את⟩ kafkën e tij e fiksuan në shtëpinë e Dagonit.",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "vunë"
+      "gloss": "dhe e vunë"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pajisjet e tij"
+      "marks": "pajisjen e tij"
     },
     {
       "surface": "כליו",
-      "gloss": "pajisjet e tij"
+      "gloss": "pajisjen e tij"
     },
     {
       "surface": "בית",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "të perëndive të tyre"
+      "gloss": "e perëndive të tyre"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "kafkën e tij"
     },
     {
@@ -47,9 +47,9 @@
     },
     {
       "surface": "דגון",
-      "gloss": "të Dagonit"
+      "gloss": "e Dagonit"
     }
   ],
-  "timestamp": "2026-09-27T18:02:32.197684138Z",
+  "timestamp": "2026-09-27T18:57:42.064493548Z",
   "model": "glm-5.3"
 }

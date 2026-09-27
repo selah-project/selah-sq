@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe Sauli pyeti Elohim-in: «Të zbres pas filistejve? Do t'i dish ⟨את⟩-ta në dorën e Izraelit?» Por ⟨Ai⟩ nuk iu përgjigj atë ditë.",
+  "translation": "Dhe Sauli pyeti ⟨në⟩ Elohim: «A zbres pas filistejve? A i ke dhënë ⟨את⟩-ishin në dorën e Izraelit?» Por ai nuk iu përgjigj atij në atë ditë.",
   "tokens": [
     {
       "surface": "וישאל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "באלהים",
-      "gloss": "te Elohim"
+      "gloss": "⟨në⟩ Elohim"
     },
     {
       "surface": "הארד",
-      "gloss": "Të zbres"
+      "gloss": "A zbres"
     },
     {
       "surface": "אחרי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "התתנם",
-      "gloss": "do t'i dish"
+      "gloss": "A i ke dhënë"
     },
     {
       "surface": "ביד",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "por jo"
+      "gloss": "Por nuk"
     },
     {
       "surface": "ענהו",
-      "gloss": "iu përgjigj"
+      "gloss": "iu përgjigj atij"
     },
     {
       "surface": "ביום",
-      "gloss": "atë ditë"
+      "gloss": "në atë ditë"
     },
     {
       "surface": "ההוא",
       "gloss": "atë"
     }
   ],
-  "timestamp": "2026-09-27T15:15:28.863198209Z",
+  "timestamp": "2026-09-27T18:57:42.670792887Z",
   "model": "glm-5.3"
 }

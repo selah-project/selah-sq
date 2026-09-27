@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Jahve solli kundër tyre ⟨את⟩ krerët e ushtrisë së mbretit të Asirisë, dhe ata e zunë ⟨את⟩ Manasin me grep, e lidhën me pranga tunji dhe e çuan në Babilon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe solli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krerët e ushtrisë"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "krerët e"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ushtrisë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Asirisë"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dhe e zunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasin"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "me grep"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "e lidhën"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "me pranga tunji"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "në Babilon"
+    }
+  ],
+  "timestamp": "2026-09-27T18:58:29.973660992Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe Elohim e quajti tokën e thatë ⟨את⟩ Tokë, dhe grumbullimin e ujërave e quajti Detra. Dhe Elohim pa se ⟨ishte⟩ mirë.",
+  "translation": "Dhe Elohim e quajti ⟨את⟩ tokën e thatë «tokë», dhe vendmbledhjen e ujërave e quajti «detra»; dhe Elohim pa që ishte mirë.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "dhe quajti"
+      "gloss": "dhe e quajti"
     },
     {
       "surface": "אלהים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "Tokë"
+      "gloss": "tokë"
     },
     {
       "surface": "ולמקוה",
-      "gloss": "dhe grumbullimit"
+      "gloss": "dhe vendmbledhjen"
     },
     {
       "surface": "המים",
-      "gloss": "e ujërave"
+      "gloss": "të ujërave"
     },
     {
       "surface": "קרא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "Detra"
+      "gloss": "detra"
     },
     {
       "surface": "וירא",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "se"
+      "gloss": "që"
     },
     {
       "surface": "טוב",
-      "gloss": "mirë"
+      "gloss": "ishte mirë"
     }
   ],
-  "timestamp": "2026-09-27T13:46:48.396764991Z",
+  "timestamp": "2026-09-27T19:03:15.296516122Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 4,
-  "translation": "Dhe të marrin ⟨את⟩ të gjitha enët e shërbimit me të cilat shërbejnë në të shenjtën, dhe t'i vendosin në një mbulesë të lehtë blu (tekhelet), dhe t'i mbulojnë ⟨את]] ato me një mbulese lëkure taḥash-i, dhe t'i vënë mbi shkopin.",
+  "translation": "Dhe të marrin ⟨את⟩ të gjitha veglat e shërbimit me të cilat shërbejnë në faltore, dhe t'i vendosin në një rrobë të kaltër (tkhelet), dhe t'i mbulojnë ⟨את⟩ ato me një mbulesë lëkure taḥash, dhe t'i vendosin mbi shportën (barin) e mbajtjes.",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "të gjitha enët e shërbimit"
+      "marks": "të gjitha veglat e shërbimit"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "enët"
+      "gloss": "veglat"
     },
     {
       "surface": "השרת",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "në të shenjtën"
+      "gloss": "në faltore"
     },
     {
       "surface": "ונתנו",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "בגד",
-      "gloss": "mbulesë e lehtë"
+      "gloss": "rrobë"
     },
     {
       "surface": "תכלת",
-      "gloss": "blu (tekhelet)"
+      "gloss": "të kaltër (tkhelet)"
     },
     {
       "surface": "וכסו",
@@ -67,11 +67,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ato",
-      "marks": "ato (enët)"
+      "marks": "mbulesës së lëkurës së tahashit"
     },
     {
       "surface": "במכסה",
-      "gloss": "me një mbulese"
+      "gloss": "me një mbulesë"
     },
     {
       "surface": "עור",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "dhe t'i vënë"
+      "gloss": "dhe t'i vendosin"
     },
     {
       "surface": "על",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "shkopin"
+      "gloss": "shportën (barin)"
     }
   ],
-  "timestamp": "2026-09-27T14:29:44.904076578Z",
+  "timestamp": "2026-09-27T19:08:28.306864049Z",
   "model": "glm-5.3"
 }

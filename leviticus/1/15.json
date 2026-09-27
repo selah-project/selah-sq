@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe prifti do ta sjellë ⟨את⟩ atë te altari, do t'i këpusë ⟨את⟩ kokën dhe do ta djegë në altarin e flijimit; dhe gjaku i tij do të kullot në anën e altarit.",
+  "translation": "Dhe prifti do ta sjellë pranë altarit, do t'i këpusë ⟨את⟩ kokën e tij dhe do ta djegë mbi altar; dhe gjaku i tij do të kullohet mbi murin e altarit.",
   "tokens": [
     {
       "surface": "והקריבו",
-      "gloss": "dhe do ta sjellë atë"
+      "gloss": "dhe do ta sjellë pranë"
     },
     {
       "surface": "הכהן",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "ומלק",
-      "gloss": "do t'i këpusë"
+      "gloss": "dhe do t'i këpusë"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kokën"
+      "marks": "kokën e tij"
     },
     {
       "surface": "ראשו",
-      "gloss": "kokën"
+      "gloss": "kokën e tij"
     },
     {
       "surface": "והקטיר",
-      "gloss": "dhe do ta djegë"
+      "gloss": "dhe do ta djegë (si tym)"
     },
     {
       "surface": "המזבחה",
-      "gloss": "në altarin e flijimit"
+      "gloss": "mbi altar"
     },
     {
       "surface": "ונמצה",
-      "gloss": "dhe do të kullot"
+      "gloss": "dhe do të kullohet"
     },
     {
       "surface": "דמו",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "על",
-      "gloss": "në"
+      "gloss": "mbi"
     },
     {
       "surface": "קיר",
-      "gloss": "anën"
+      "gloss": "murin"
     },
     {
       "surface": "המזבח",
       "gloss": "të altarit"
     }
   ],
-  "timestamp": "2026-09-27T14:18:22.942608023Z",
+  "timestamp": "2026-09-27T19:06:50.157116526Z",
   "model": "glm-5.3"
 }

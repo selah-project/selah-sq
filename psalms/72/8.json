@@ -5,46 +5,41 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 72,
-  "translation": "Dhe le të sundojë nga deti në det, dhe nga Lumi deri në skajet e tokës.",
+  "translation": "Dhe ⟨ai⟩ të sundojë nga deti deri në det, dhe nga lumi deri në skajet e ⟨tokës⟩.",
   "tokens": [
     {
-      "surface": "ולפני",
-      "gloss": "",
-      "ref": "elided"
+      "surface": "וְיֵרְדְּ",
+      "gloss": "dhe të sundojë"
     },
     {
-      "surface": "וירד",
-      "gloss": "dhe le të sundojë"
-    },
-    {
-      "surface": "מים",
+      "surface": "מִיָּם",
       "gloss": "nga deti"
     },
     {
-      "surface": "עד",
-      "gloss": "në"
-    },
-    {
-      "surface": "ים",
-      "gloss": "det"
-    },
-    {
-      "surface": "ומנהר",
-      "gloss": "dhe nga Lumi"
-    },
-    {
-      "surface": "עד",
+      "surface": "עַד",
       "gloss": "deri në"
     },
     {
-      "surface": "אפסי",
-      "gloss": "skajet"
+      "surface": "יָם",
+      "gloss": "det"
     },
     {
-      "surface": "ארץ",
-      "gloss": "e tokës"
+      "surface": "וּמִנָּהָר",
+      "gloss": "dhe nga lumi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "skajet e"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "tokës"
     }
   ],
-  "timestamp": "2026-09-27T17:06:40.212386141Z",
+  "timestamp": "2026-09-27T19:09:12.178528360Z",
   "model": "glm-5.3"
 }

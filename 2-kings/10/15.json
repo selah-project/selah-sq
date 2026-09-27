@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 10,
-  "translation": "Dhe u nis prej andej dhe gjeti ⟨את⟩ Jehonadabin, birin e Rekabit, duke dalë përpara tij; dhe e bekoi dhe i tha: A është ⟨את⟩ zemra jote e ndershme, siç është zemra ime me ⟨את⟩ zemrën tënde? Dhe Jehonadabi tha: Është, po është. Jep ⟨את⟩ dorën tënde! Dhe dha dorën e tij dhe e ngjiti pranë vetes në qerren.",
+  "translation": "Dhe ⟨ai⟩ shkoi prej andej dhe gjeti ⟨את⟩ Jehonadabin, bir të Rekabit, duke dalë përpara tij; dhe e bekoi atë dhe i tha atij: «A ështht ⟨את⟩ zemra jote e drejtë, ashtu si zemra ime me zemrën tënde?» Dhe Jehonadabi tha: «Është, është vërtet.» «Atëherë jep ⟨את⟩ dorën tënde.» Dhe ai dha dorën e tij, dhe ai e ngjiti atë pranë vetes në qerren.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Dhe u nis"
+      "gloss": "dhe shkoi"
     },
     {
       "surface": "משם",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "birin"
+      "gloss": "bir"
     },
     {
       "surface": "רכב",
-      "gloss": "e Rekabit"
+      "gloss": "të Rekabit"
     },
     {
       "surface": "לקראתו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויברכהו",
-      "gloss": "dhe e bekoi"
+      "gloss": "dhe e bekoi atë"
     },
     {
       "surface": "ויאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "היש",
-      "gloss": "A është"
+      "gloss": "a është"
     },
     {
       "surface": "את",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "ישר",
-      "gloss": "e ndershme"
+      "gloss": "e drejtë"
     },
     {
       "surface": "כאשר",
-      "gloss": "siç është"
+      "gloss": "ashtu si"
     },
     {
       "surface": "לבבי",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Dhe tha"
+      "gloss": "dhe tha"
     },
     {
       "surface": "יהונדב",
@@ -95,15 +95,15 @@
     },
     {
       "surface": "יש",
-      "gloss": "Është"
+      "gloss": "është"
     },
     {
       "surface": "ויש",
-      "gloss": "po është"
+      "gloss": "dhe është vërtet"
     },
     {
       "surface": "תנה",
-      "gloss": "Jep"
+      "gloss": "jep"
     },
     {
       "surface": "את",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "Dhe dha"
+      "gloss": "dhe dha"
     },
     {
       "surface": "ידו",
@@ -124,7 +124,7 @@
     },
     {
       "surface": "ויעלהו",
-      "gloss": "dhe e ngjiti"
+      "gloss": "dhe e ngjiti atë"
     },
     {
       "surface": "אליו",
@@ -139,6 +139,6 @@
       "gloss": "qerren"
     }
   ],
-  "timestamp": "2026-09-27T15:43:39.849854027Z",
+  "timestamp": "2026-09-27T19:00:31.965917698Z",
   "model": "glm-5.3"
 }

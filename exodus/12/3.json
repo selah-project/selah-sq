@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Folni ⟨te⟩ gjithë asamblenë e Izraelit, duke thënë: Në të dhjetën e këtij muaji le të marrë çdo njeri një mijë për shtëpinë e të atëve — një për shtëpi.",
+  "translation": "Folni për gjithë ⟨ Kongregacionin e Izraelit, duke thënë: Në të dhjetën e këtij muaji, secili njeri le të marrë për vete një qengj sipas shtëpisë së etërve — një qengj për ⟨ shtëpinë ⟩.",
   "tokens": [
     {
       "surface": "דברו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "te"
+      "gloss": "për"
     },
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עדת",
-      "gloss": "asamblenë"
+      "gloss": "Kongregacionit"
     },
     {
       "surface": "ישראל",
-      "gloss": "e Izraelit"
+      "gloss": "Izraelit"
     },
     {
       "surface": "לאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "të muajit"
+      "gloss": "e këtij muaji"
     },
     {
       "surface": "הזה",
@@ -49,33 +49,33 @@
     },
     {
       "surface": "להם",
-      "gloss": "për veten"
+      "gloss": "për vete"
     },
     {
       "surface": "איש",
-      "gloss": "çdo njeri"
+      "gloss": "secili njeri"
     },
     {
       "surface": "שה",
-      "gloss": "një"
+      "gloss": "një qengj"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sipas shtëpisë"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "së etërve"
+    },
+    {
+      "surface": "שה",
+      "gloss": "një qengj"
     },
     {
       "surface": "לבית",
       "gloss": "për shtëpinë"
-    },
-    {
-      "surface": "אבת",
-      "gloss": "e të atëve"
-    },
-    {
-      "surface": "שה",
-      "gloss": "një"
-    },
-    {
-      "surface": "לבית",
-      "gloss": "për shtëpi"
     }
   ],
-  "timestamp": "2026-09-27T14:06:37.473673910Z",
+  "timestamp": "2026-09-27T19:02:36.189826163Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 35,
-  "translation": "Le të mos thonë në zemrën e tyre: «האח! Nofka jonë!» Le të mos thonë: «E gëlltitëm ⟨atë⟩!»",
+  "translation": "Le të mos thonë në zemrat e tyre: «האח, dëshira jonë!» Le të mos thonë: «E gëlltitëm ⟨את⟩ atë!»",
   "tokens": [
     {
       "surface": "אל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בלבם",
-      "gloss": "në zemrën e tyre"
+      "gloss": "në zemrat e tyre"
     },
     {
       "surface": "האח",
-      "gloss": "האח!"
+      "gloss": "האח (ja, që donte zemra!)"
     },
     {
       "surface": "נפשנו",
-      "gloss": "nofka jonë"
+      "gloss": "dëshira jonë (shpirti jonë)"
     },
     {
       "surface": "אל",
@@ -40,6 +40,6 @@
       "gloss": "e gëlltitëm atë"
     }
   ],
-  "timestamp": "2026-09-27T17:00:50.876387772Z",
+  "timestamp": "2026-09-27T19:08:47.067044901Z",
   "model": "glm-5.3"
 }

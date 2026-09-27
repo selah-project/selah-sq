@@ -5,8 +5,58 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 23,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T15:17:38.752033861Z",
+  "translation": "Dhe Davidi pa që Sauli kishte dalë për të kërkuar ⟨את⟩ jetën e tij; dhe Davidi ishte në shkretëtirën e Zifit, në Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kishte dalë"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jetën e tij"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jetën e tij"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dhe Davidi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirën"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "të Zifit"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "në Horesha"
+    }
+  ],
+  "timestamp": "2026-09-27T18:58:29.857115830Z",
   "model": "glm-5.3"
 }

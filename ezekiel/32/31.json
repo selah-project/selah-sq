@@ -5,11 +5,12 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 32,
-  "translation": "⟨את⟩ këta do t'i shohë Faraoni dhe do të ngushëllohet për gjithë turmën e tij — ⟨את⟩ të shpuarit e shpatës: Faraoni dhe gjithë ushtria e tij, fjalë e Adonai Jahvesë.",
+  "translation": "Ata ⟨את⟩ do t'i shohë Faraoni dhe do të ngushëllohet për tërë turmën e tij të therëve me shpata — Faraoni dhe gjithë ushtria e tij — shpall Adonai Jahve.",
   "tokens": [
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ këta"
+      "gloss": "⟨את⟩",
+      "marks": "ata (të therërit e turmës së Faraonit)"
     },
     {
       "surface": "יראה",
@@ -21,7 +22,7 @@
     },
     {
       "surface": "ונחם",
-      "gloss": "dhe do të ngushëllohet"
+      "gloss": "dhe do të ngushëlloh"
     },
     {
       "surface": "על",
@@ -29,19 +30,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "gjithë"
+      "gloss": "tërë"
     },
     {
       "surface": "המונה",
-      "gloss": "turmën e tij"
+      "gloss": "turmës"
     },
     {
       "surface": "חללי",
-      "gloss": "të shpuarit"
+      "gloss": "të therëve"
     },
     {
       "surface": "חרב",
-      "gloss": "e shpatës"
+      "gloss": "me shpata"
     },
     {
       "surface": "פרעה",
@@ -53,11 +54,11 @@
     },
     {
       "surface": "חילו",
-      "gloss": "ushtrinë e tij"
+      "gloss": "ushtria e tij"
     },
     {
       "surface": "נאם",
-      "gloss": "fjalë e"
+      "gloss": "shpall"
     },
     {
       "surface": "אדני",
@@ -65,9 +66,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvesë"
+      "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-09-27T16:37:00.618062384Z",
+  "timestamp": "2026-09-27T19:02:50.980519944Z",
   "model": "glm-5.3"
 }

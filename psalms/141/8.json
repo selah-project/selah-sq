@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Sepse te ti, Jahve, Adonai, janë ⟨sytë e mi⟩; te ti kam gjetur strehë; mos e l shpirtin tim ⟨të zhveshur⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kam gjetur strehë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תער",
+      "gloss": "l të zhveshur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T19:08:36.020556469Z",
+  "model": "glm-5.3"
+}

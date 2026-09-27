@@ -5,38 +5,38 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 25,
-  "translation": "Dhe ⟨את⟩ kazanet, dhe ⟨את]] lopatat, dhe ⟨את]] dutët, dhe ⟨את]] kupat, dhe ⟨את]] të gjitha enët e bakrit me të cilat shërbeheshin, i morën.",
+  "translation": "Dhe ⟨את⟩ kazana, dhe ⟨את⟩ lugët, dhe ⟨את⟩ gërshërët e njeshin, dhe ⟨את⟩ kupat, dhe ⟨את⟩ të gjitha enët e bakrit me të cilat shërbeheshin, i morën.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kazanet"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kazana"
     },
     {
       "surface": "הסירת",
-      "gloss": "kazanet"
+      "gloss": "kazana"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lopatat"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lugët"
     },
     {
       "surface": "היעים",
-      "gloss": "lopatat"
+      "gloss": "lugët"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dutët"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gërshërët e njeshin"
     },
     {
       "surface": "המזמרות",
-      "gloss": "dutët"
+      "gloss": "gërshërët e njeshin"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dhe ⟨את⟩",
       "marks": "kupat"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "të gjitha enët"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha"
     },
     {
       "surface": "כל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "të bakrit"
+      "gloss": "e bakrit"
     },
     {
       "surface": "אשר",
@@ -77,6 +77,6 @@
       "gloss": "i morën"
     }
   ],
-  "timestamp": "2026-09-27T15:49:24.492406511Z",
+  "timestamp": "2026-09-27T19:00:27.861913913Z",
   "model": "glm-5.3"
 }

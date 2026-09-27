@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 24,
-  "translation": "Kur një burrë merr ⟨את⟩ një grua të re, të mos dalë në ushtri dhe të mos i ngarkohet asnjë punë; i lirë ⟨është⟩ për shtëpinë e tij një vit, dhe do të gëzojë ⟨את⟩ gruan e tij që ka marrë.",
+  "translation": "Kur një burrë merr ⟨את⟩ një grua të re, të mos dalë në ushtri dhe të mos i ngarkohet atij asnjë punë; i pafajshëm të jetë për shtëpinë e tij një vit, dhe të gëzojë ⟨את⟩ gruan që mori.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kur"
+      "gloss": "Kur"
     },
     {
       "surface": "יקח",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "i ngarkohet"
+      "gloss": "ngarkohet"
     },
     {
       "surface": "עליו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "נקי",
-      "gloss": "i lirë"
+      "gloss": "i pafajshëm"
     },
     {
       "surface": "יהיה",
-      "gloss": "është"
+      "gloss": "të jetë"
     },
     {
       "surface": "לביתו",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "vit"
+      "gloss": "një vit"
     },
     {
       "surface": "אחת",
@@ -81,16 +81,16 @@
     },
     {
       "surface": "ושמח",
-      "gloss": "dhe do të gëzojë"
+      "gloss": "dhe të gëzojë"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gruan e tij"
+      "marks": "gruan"
     },
     {
       "surface": "אשתו",
-      "gloss": "gruan e tij"
+      "gloss": "gruan"
     },
     {
       "surface": "אשר",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "לקח",
-      "gloss": "ka marrë"
+      "gloss": "mori"
     }
   ],
-  "timestamp": "2026-09-27T14:49:52.137573274Z",
+  "timestamp": "2026-09-27T19:01:50.751924951Z",
   "model": "glm-5.3"
 }

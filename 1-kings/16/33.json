@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Dhe Ahabi bëri ⟨את⟩ Asheranë; dhe Ahabi shtoi vepra për të provokuar ⟨את⟩ Jehovain, Elohimin e Izraelit, më shumë se të gjithë mbretërit e Izraelit që ishin para tij.",
+  "translation": "Dhe Ahabi bëri ⟨את⟩ Asherahun, dhe Ahabi shtoi vepra për të provokuar në zemërim ⟨את⟩ Jahvenë, Elohimin e Izraelit, mbi të gjithë mbretërit e Izraelit që ishin para tij.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asheranë"
+      "marks": "Asherahun"
     },
     {
       "surface": "האשרה",
-      "gloss": "Asheranë"
+      "gloss": "Asherahun"
     },
     {
       "surface": "ויוסף",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "להכעיס",
-      "gloss": "për të provokuar"
+      "gloss": "për të provokuar në zemërim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehovain"
+      "marks": "Jahvenë"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehovain"
+      "gloss": "Jahvenë"
     },
     {
       "surface": "אלהי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "më shumë se të gjithë"
+      "gloss": "mbi të gjithë"
     },
     {
       "surface": "מלכי",
@@ -82,6 +82,6 @@
       "gloss": "para tij"
     }
   ],
-  "timestamp": "2026-09-27T15:36:31.576591622Z",
+  "timestamp": "2026-09-27T18:57:50.128442248Z",
   "model": "glm-5.3"
 }

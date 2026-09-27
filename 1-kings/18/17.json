@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Dhe ndodhi kur e pa Ahabi ⟨את⟩ Elijah, që Ahabi i tha atij: A je ti ai që e turbullon ⟨את⟩ Izraelin?",
+  "translation": "Dhe kur Ahabi pa ⟨את⟩ Eliahun, Ahabi i tha atij: «A je ti ai që e shqetëson ⟨את⟩ Izraelin?»",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Dhe ndodhi"
+      "gloss": "Dhe"
     },
     {
       "surface": "כראות",
-      "gloss": "kur e pa"
+      "gloss": "kur… pa"
     },
     {
       "surface": "אחאב",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elijah"
+      "marks": "Eliahun"
     },
     {
       "surface": "אליהו",
-      "gloss": "Elijah"
+      "gloss": "Eliahun"
     },
     {
       "surface": "ויאמר",
-      "gloss": "që tha"
+      "gloss": "i tha"
     },
     {
       "surface": "אחאב",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "האתה",
-      "gloss": "A je ti"
+      "gloss": "ti"
     },
     {
       "surface": "זה",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "עכר",
-      "gloss": "turbullon"
+      "gloss": "shqetëson"
     },
     {
       "surface": "ישראל",
       "gloss": "Izraelin"
     }
   ],
-  "timestamp": "2026-09-27T15:38:09.407271979Z",
+  "timestamp": "2026-09-27T18:57:49.293427447Z",
   "model": "glm-5.3"
 }

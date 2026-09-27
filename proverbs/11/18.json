@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "sq",
   "chapter": 11,
-  "translation": "I pabesi punon ⟨את⟩ punën e gënjeshtës, dhe kush mbjell drejtësi ⟨merr⟩ shpërblim të sigurt.",
+  "translation": "I pabesi punon ⟨një⟩ punë të rrejshme, por kush mbjell drejtësinë merr ⟨një⟩ shpërblim të sigurt.",
   "tokens": [
     {
       "surface": "רשע",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "פעלת",
-      "gloss": "punën"
+      "gloss": "punë"
     },
     {
       "surface": "שקר",
-      "gloss": "të gënjeshtës"
+      "gloss": "të rrejshme"
     },
     {
       "surface": "וזרע",
-      "gloss": "dhe kush mbjell"
+      "gloss": "por kush mbjell"
     },
     {
       "surface": "צדקה",
-      "gloss": "drejtësi"
+      "gloss": "drejtësinë"
     },
     {
       "surface": "שכר",
@@ -40,6 +40,6 @@
       "gloss": "të sigurt"
     }
   ],
-  "timestamp": "2026-09-27T17:21:26.076610692Z",
+  "timestamp": "2026-09-27T19:08:08.914692356Z",
   "model": "glm-5.3"
 }

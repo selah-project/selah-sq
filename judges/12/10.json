@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe vdiq Ibtsani dhe u varros në Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsani"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-27T19:05:58.440835562Z",
+  "model": "glm-5.3"
+}

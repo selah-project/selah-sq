@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 11,
-  "translation": "dhe çfarë i bëri Datanit dhe Aviramit, bijve të Eliavit, birit të Rubenit — kur toka hapi ⟨את⟩ gojën e vet dhe i gëlltiti ⟨את⟩ ata, dhe ⟨את⟩ shtëpitë e tyre, dhe ⟨את⟩ çadrat e tyre, dhe ⟨את⟩ çdo gjë të gjallë që ishte në këmbët e tyre, në mes të gjithë Izraelit.",
+  "translation": "dhe çfarë u bëri Datanit dhe Aviramit, bijve të Eliabit, birit të Rubenit, kur toka hapi ⟨את⟩ gojën e vet dhe i gëlltiti ata, bashkë me ⟨את⟩ shtëpitë e tyre dhe ⟨את⟩ çadrat e tyre, dhe ⟨את⟩ çdo gjë të gjallë që ndodhej në këmbët e tyre, në mes të gjithë Izraelit;",
   "tokens": [
     {
       "surface": "ואשר",
@@ -13,14 +13,14 @@
     },
     {
       "surface": "עשה",
-      "gloss": "bëri"
+      "gloss": "u bëri"
     },
     {
       "surface": "לדתן",
       "gloss": "Datanit"
     },
     {
-      "surface": "וולאבירם",
+      "surface": "ולאבירם",
       "gloss": "dhe Aviramit"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אליאב",
-      "gloss": "Eliavit"
+      "gloss": "të Eliabit"
     },
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Rubenit"
+      "gloss": "të Rubenit"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "shtëpitë e tyre"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "çadrat e tyre"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "çdo gjë të gjallë"
     },
     {
@@ -101,11 +101,11 @@
     },
     {
       "surface": "ברגליהם",
-      "gloss": "në këmbët e tyre"
+      "gloss": "ndodhej në këmbët e tyre"
     },
     {
       "surface": "בקרב",
-      "gloss": "në mes"
+      "gloss": "në mes të"
     },
     {
       "surface": "כל",
@@ -116,6 +116,6 @@
       "gloss": "Izraelit"
     }
   ],
-  "timestamp": "2026-09-27T14:45:20.195579872Z",
+  "timestamp": "2026-09-27T19:01:36.207071302Z",
   "model": "glm-5.3"
 }

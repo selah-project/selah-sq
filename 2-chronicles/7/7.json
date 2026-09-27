@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Dhe Salomoni e shenjtëroi ⟨את⟩ mesin e oborrit që ishte përballë shtëpisë së Jahvesë, sepse atje bëri ⟨את⟩ flijimet e djegies dhe ⟨את⟩ yndyrat e flijimeve të faljes; sepse altari i bakrit që kishte bërë Salomoni nuk mundi të mbante ⟨את⟩ flijimin e djegies dhe ⟨את⟩ minhanë dhe ⟨את⟩ yndyrat.",
+  "translation": "Dhe Salomoni shenjtëroi ⟨את⟩ të mesmen e oborrit që ndodhej para shtëpisë së Jahvesë, sepse atje ai bëri ⟨את⟩ flijimet e djegura dhe ⟨את⟩ yndyrat e flijimeve të falënderimit, sepse altari i bronzit që Salomoni kishte bërë nuk mundi të mbante ⟨את⟩ flijimin e djegur, ⟨את⟩ ofertën e miellit dhe ⟨את⟩ yndyrat.",
   "tokens": [
     {
       "surface": "ויקדש",
-      "gloss": "dhe e shenjtëroi"
+      "gloss": "Dhe shenjtëroi"
     },
     {
       "surface": "שלמה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mesin"
+      "marks": "të mesmen e oborrit"
     },
     {
       "surface": "תוך",
-      "gloss": "mesi"
+      "gloss": "të mesmen"
     },
     {
       "surface": "החצר",
-      "gloss": "i oborrit"
+      "gloss": "e oborrit"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "përballë"
+      "gloss": "para"
     },
     {
       "surface": "בית",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "të Jahvesë"
+      "gloss": "Jahvesë"
     },
     {
       "surface": "כי",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "העלות",
-      "gloss": "flijimet e djegies"
+      "gloss": "flijimet e djegura"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "yndyrat"
+      "marks": "yndyrat e flijimeve të falënderimit"
     },
     {
       "surface": "חלבי",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "e flijimeve të faljes"
+      "gloss": "e flijimeve të falënderimit"
     },
     {
       "surface": "כי",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "i bakrit"
+      "gloss": "i bronzit"
     },
     {
       "surface": "אשר",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "יכול",
-      "gloss": "mundoj"
+      "gloss": "mundi"
     },
     {
       "surface": "להכיל",
@@ -112,20 +112,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "flijimin e djegies"
+      "marks": "flijimin e djegur"
     },
     {
       "surface": "העלה",
-      "gloss": "flijimi i djegies"
+      "gloss": "flijimin e djegur"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "minhanë"
+      "marks": "ofertën e miellit"
     },
     {
       "surface": "המנחה",
-      "gloss": "minha"
+      "gloss": "ofertën e miellit"
     },
     {
       "surface": "ואת",
@@ -137,6 +137,6 @@
       "gloss": "yndyrat"
     }
   ],
-  "timestamp": "2026-09-27T18:11:04.674359579Z",
+  "timestamp": "2026-09-27T19:00:23.427141377Z",
   "model": "glm-5.3"
 }

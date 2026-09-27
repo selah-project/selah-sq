@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe prifti do ta shohë ⟨את⟩ atë në ditën e shtatë: nëse është përhapur shumë në lëkurë, atëherë prifti do ta shpallë të papastër ⟨את⟩ atë — është një plagë caraat.",
+  "translation": "Dhe prifti do ta shohë atë në ditën e shtatë; nëse ⟨ajo⟩ është përhapur në lëkurë, atëherë prifti do ta shpallë atë të papaçët ⟨את⟩ — një plagë e carrose është ⟨ajo⟩.",
   "tokens": [
     {
       "surface": "וראהו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "dhe do ta shpallë të papastër"
+      "gloss": "dhe do ta shpallë të papaçët"
     },
     {
       "surface": "הכהן",
@@ -50,7 +50,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë (njeriun)"
+      "marks": "atë (njeriun e shpallur të papaçët)"
     },
     {
       "surface": "נגע",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "caraat"
+      "gloss": "e carrose"
     },
     {
       "surface": "הוא",
       "gloss": "është"
     }
   ],
-  "timestamp": "2026-09-27T14:22:53.777281413Z",
+  "timestamp": "2026-09-27T19:06:35.987899545Z",
   "model": "glm-5.3"
 }

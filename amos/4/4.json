@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ejani në Beit-El dhe kryeni mëkatin, në Gilgal shumëjeni shkeljen, dhe sillni në mëngjes flijimet tuaja, çdo tre ditë dhjetëshat tuaja.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "dhe kryeni mëkatin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "në Gilgal"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "shumëjeni"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "shkeljen"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "dhe sillni"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "flijimet tuaja"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "çdo tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "dhjetëshat tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T19:01:08.046702508Z",
+  "model": "glm-5.3"
+}

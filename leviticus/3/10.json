@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 3,
-  "translation": "dhe ⟨את⟩ dy veshkat, dhe ⟨את⟩ yndyrën që ⟨is⟩ mbi to, që ⟨is⟩ mbi ijët, dhe ⟨את⟩ lobulin e mëlçisë — mbi veshkat do ta heqë ⟨את⟩.",
+  "translation": "dhe ⟨את⟩ ⟨the⟩ dy veshkat, dhe ⟨את⟩ ⟨the⟩ yndyrën që është mbi to, që është mbi ijët, dhe ⟨את⟩ ⟨the⟩ kapakun mbi mëlçinë — mbi veshkat do t'i heqë ato.",
   "tokens": [
     {
       "surface": "ואת",
@@ -52,11 +52,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "lobulin"
+      "marks": "kapakun"
     },
     {
       "surface": "היתרת",
-      "gloss": "lobulin"
+      "gloss": "kapakun"
     },
     {
       "surface": "על",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "הכבד",
-      "gloss": "mëlçisë"
+      "gloss": "mëlçinë"
     },
     {
       "surface": "על",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "יסירנה",
-      "gloss": "do ta heqë"
+      "gloss": "do t'i heqë ato"
     }
   ],
-  "timestamp": "2026-09-27T14:18:28.477380163Z",
+  "timestamp": "2026-09-27T19:07:34.484259265Z",
   "model": "glm-5.3"
 }

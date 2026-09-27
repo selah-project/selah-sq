@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Dhe e çoi ⟨את⟩ atë në fushën e Cofimit, në krye të Pisgës; dhe ndërtoi shtatë altarë dhe ngjiti një dem dhe një dash në altar.",
+  "translation": "Dhe e çoi atë ⟨në⟩ fushën e Tsophimit, drejt kre të Pisgës, dhe ndërtoi shtatë altarë, dhe ngjiti një dem dhe një dash mbi altar.",
   "tokens": [
     {
       "surface": "ויקחהו",
-      "gloss": "dhe e çoi"
+      "gloss": "dhe e çoi atë"
     },
     {
       "surface": "שדה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "צפים",
-      "gloss": "e Cofimit"
+      "gloss": "e Tsophimit"
     },
     {
       "surface": "אל",
-      "gloss": "në"
+      "gloss": "drejt"
     },
     {
       "surface": "ראש",
-      "gloss": "krye"
+      "gloss": "kre"
     },
     {
       "surface": "הפסגה",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "במזבח",
-      "gloss": "në altar"
+      "gloss": "mbi altar"
     }
   ],
-  "timestamp": "2026-09-27T14:37:30.083543034Z",
+  "timestamp": "2026-09-27T19:07:26.973847833Z",
   "model": "glm-5.3"
 }

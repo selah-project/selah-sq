@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe gruaja tha: Pse ke menduar një gjë të tillë kundër popullit të Elohim? Sepse mbreti, duke folur ⟨את⟩ këtë fjalë, ⟨vepron⟩ si një fajtor, që mbreti të mos kthejë ⟨את⟩ të dëbuarin e tij.",
+  "translation": "Dhe gruaja tha: Pse ke menduar një gjë të tillë kundër popullit të Elohim? Sepse mbreti, duke folur këtë fjalë, ⟨është⟩ si një i fajshëm, ngaqë mbreti nuk e kthen ⟨את⟩ të dëbuarin e tij.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "dhe tha"
+      "gloss": "Dhe gruaja tha"
     },
     {
       "surface": "האשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "pse"
+      "gloss": "Pse"
     },
     {
       "surface": "חשבתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ומדבר",
-      "gloss": "dhe duke folur"
+      "gloss": "duke folur"
     },
     {
       "surface": "המלך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "fjalën"
+      "gloss": "fjalë"
     },
     {
       "surface": "הזה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "כאשם",
-      "gloss": "si një fajtor"
+      "gloss": "si një i fajshëm"
     },
     {
       "surface": "לבלתי",
-      "gloss": "të mos"
+      "gloss": "ngaqë nuk"
     },
     {
       "surface": "השיב",
-      "gloss": "kthejë"
+      "gloss": "kthen"
     },
     {
       "surface": "המלך",
@@ -74,13 +74,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "të dëbuarin e tij"
+      "marks": "të dëbuarin e tij (נדחו)"
     },
     {
       "surface": "נדחו",
       "gloss": "të dëbuarin e tij"
     }
   ],
-  "timestamp": "2026-09-27T15:24:57.232740160Z",
+  "timestamp": "2026-09-27T19:00:32.000305746Z",
   "model": "glm-5.3"
 }

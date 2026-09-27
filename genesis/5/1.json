@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 5,
-  "translation": "Kjo është libri i gjenealogjisë së Adamit. Në ditën që krijoi Elohim ⟨את⟩ njeriun, në ngjashmërinë e Elohim e bëri ⟨את⟩ atë.",
+  "translation": "Ky është libri i gjenealogjisë së Adamit: në ditën kur Elohim krijoi njeriun, në ngjashmëri me Elohim e bëri atë ⟨את⟩.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "Kjo"
+      "gloss": "Ky"
     },
     {
       "surface": "ספר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תולדת",
-      "gloss": "gjenealogjisë"
+      "gloss": "i gjenealogjisë"
     },
     {
       "surface": "אדם",
-      "gloss": "Adamit"
+      "gloss": "të Adamit"
     },
     {
       "surface": "ביום",
-      "gloss": "Në ditën"
+      "gloss": "në ditën"
     },
     {
       "surface": "ברא",
@@ -41,22 +41,22 @@
     },
     {
       "surface": "בדמות",
-      "gloss": "në ngjashmërinë"
+      "gloss": "në ngjashmëri"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "me Elohim"
     },
     {
       "surface": "עשה",
-      "gloss": "bëri"
+      "gloss": "e bëri"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë"
+      "marks": "atë (njeriun)"
     }
   ],
-  "timestamp": "2026-09-27T13:47:51.943530246Z",
+  "timestamp": "2026-09-27T19:04:17.589074689Z",
   "model": "glm-5.3"
 }

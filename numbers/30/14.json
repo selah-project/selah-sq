@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 30,
-  "translation": "Çdo betim dhe çdo lidhje me be, çdo detyrim për të përulur ⟨את⟩ shpirtin — burri i saj mund ta vërtetojë atë, dhe burri i saj mund ta shfuqizojë atë.",
+  "translation": "Çdo flijim-premtim dhe çdo betim lidhjeje për të shtrënguar ⟨את⟩ shpirtin, burri i saj mund ta përforcojë ⟨atë⟩, dhe burri i saj mund ta prishë ⟨atë⟩.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נדר",
-      "gloss": "betim"
+      "gloss": "flijim-premtim"
     },
     {
       "surface": "וכל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "lidhje me be"
+      "gloss": "betim"
     },
     {
       "surface": "אסר",
-      "gloss": "detyrim"
+      "gloss": "lidhjeje"
     },
     {
       "surface": "לענת",
-      "gloss": "për të përulur"
+      "gloss": "për të shtrënguar"
     },
     {
       "surface": "נפש",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יקימנו",
-      "gloss": "mund ta vërtetojë atë"
+      "gloss": "ta përforcojë"
     },
     {
       "surface": "ואישה",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "יפרנו",
-      "gloss": "mund ta shfuqizojë atë"
+      "gloss": "ta prishë"
     }
   ],
-  "timestamp": "2026-09-27T18:21:17.509964246Z",
+  "timestamp": "2026-09-27T19:08:17.645794753Z",
   "model": "glm-5.3"
 }

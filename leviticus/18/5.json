@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Do t'i ruani ⟨את⟩ statutet e mia dhe ⟨את⟩ vendimet e mia, që njeriu t'i bëjë ⟨את⟩ ato dhe të jetojë nëpërmjet tyre; unë jam Jahve.",
+  "translation": "Do t'i ruani ⟨את⟩ statutet e mia dhe ⟨את⟩ vendimet e mia, të cilat njeriu do t'i bëjë ⟨אתם⟩ dhe do të jetojë nëpërmjet tyre; unë jam Jahve.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Do t'i ruani"
+      "gloss": "do t'i ruani"
     },
     {
       "surface": "את",
@@ -31,16 +31,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "të cilat"
     },
     {
       "surface": "יעשה",
-      "gloss": "t'i bëjë"
+      "gloss": "do të bëjë"
     },
     {
       "surface": "אתם",
       "gloss": "⟨אתם⟩",
-      "marks": "ato (statutet dhe vendimet)"
+      "marks": "njeriu"
     },
     {
       "surface": "האדם",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "dhe të jetojë"
+      "gloss": "dhe do të jetojë"
     },
     {
       "surface": "בהם",
@@ -63,6 +63,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-09-27T14:23:20.475561830Z",
+  "timestamp": "2026-09-27T19:06:33.670017109Z",
   "model": "glm-5.3"
 }

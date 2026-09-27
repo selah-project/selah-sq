@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 22,
-  "translation": "Nëse gjendet një burrë duke fjetur me ⟨את⟩ një grua të martuar me burrë, atëherë do të vdesin që të dy — burri që futi me ⟨את⟩ gruan dhe gruaja — dhe do të heqësh ⟨e keqen⟩ nga Israel.",
+  "translation": "Nëse gjendet një burrë që shkon me ⟨⟨ një grua të martuar me një burrë, të dy do të vdesin — burri që shkoi me ⟨⟩ gruan dhe gruaja — dhe do të zhdukësh të keqen nga Izraeli.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "gjendet"
+      "gloss": "gendet"
     },
     {
       "surface": "איש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "duke fjetur"
+      "gloss": "që shkon me"
     },
     {
       "surface": "עם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בעלת",
-      "gloss": "e martuar"
+      "gloss": "e martuar me"
     },
     {
       "surface": "בעל",
-      "gloss": "me burrë"
+      "gloss": "një burrë (bashkëshort)"
     },
     {
       "surface": "ומתו",
-      "gloss": "do të vdesin"
+      "gloss": "të dy do të vdesin"
     },
     {
       "surface": "גם",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "që të dy"
+      "gloss": "të dy"
     },
     {
       "surface": "האיש",
-      "gloss": "burri"
+      "gloss": "burrin"
     },
     {
       "surface": "השכב",
-      "gloss": "që futi"
+      "gloss": "që shkoi me"
     },
     {
       "surface": "עם",
@@ -69,21 +69,21 @@
     },
     {
       "surface": "והאשה",
-      "gloss": "dhe gruaja"
+      "gloss": "dhe gruan"
     },
     {
       "surface": "ובערת",
-      "gloss": "dhe do të heqësh"
+      "gloss": "dhe do të zhdukësh"
     },
     {
       "surface": "הרע",
-      "gloss": "e keqen"
+      "gloss": "të keqen"
     },
     {
       "surface": "מישראל",
-      "gloss": "nga Israel"
+      "gloss": "nga Izraeli"
     }
   ],
-  "timestamp": "2026-09-27T14:50:36.058100977Z",
+  "timestamp": "2026-09-27T19:01:56.927296632Z",
   "model": "glm-5.3"
 }

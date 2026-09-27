@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Dhe do të sjellë nga flijimi i shelamimit një flijim zjarri për Jahve: yndyrën e tij, bishtin e trashë të plotë — pranë kockës së bishtit do ta heqë ⟨את⟩ — dhe ⟨את⟩ yndyrën që mbulon ⟨את⟩ zorrët, dhe ⟨את⟩ të gjithë yndyrën që ⟨is⟩ mbi zorrët.",
+  "translation": "Dhe do të sjellë nga flijimi i Shelamimit një flijim me zjarr për Jahven: yndyrën e tij, bishtin e plotë të yndyrshëm — ngjitur me kockën e kockës së bishtit do ta heqë atë — dhe ⟨את⟩ yndyrën që mbulon ⟨את⟩ zorrët, dhe ⟨את⟩ krejt yndyrën që është mbi zorrët.",
   "tokens": [
     {
       "surface": "והקריב",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "nga flijimi"
+      "gloss": "flijimi"
     },
     {
       "surface": "השלמים",
-      "gloss": "i shelamimit"
+      "gloss": "i Shelamimit"
     },
     {
       "surface": "אשה",
-      "gloss": "flijim zjarri"
+      "gloss": "flijim me zjarr"
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "për Jahven"
     },
     {
       "surface": "חלבו",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "האליה",
-      "gloss": "bishtin e trashë"
+      "gloss": "bishti i yndyrshëm"
     },
     {
       "surface": "תמימה",
-      "gloss": "të plotë"
+      "gloss": "i plotë"
     },
     {
       "surface": "לעמת",
-      "gloss": "pranë"
+      "gloss": "ngjitur me"
     },
     {
       "surface": "העצה",
-      "gloss": "kockës së bishtit"
+      "gloss": "kockën e bishtit"
     },
     {
       "surface": "יסירנה",
-      "gloss": "do ta heqë"
+      "gloss": "do ta heqë atë"
     },
     {
       "surface": "ואת",
@@ -76,11 +76,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "të gjithë yndyrën"
+      "marks": "krejt yndyrën"
     },
     {
       "surface": "כל",
-      "gloss": "të gjithë"
+      "gloss": "krejt"
     },
     {
       "surface": "החלב",
@@ -99,6 +99,6 @@
       "gloss": "zorrët"
     }
   ],
-  "timestamp": "2026-09-27T14:18:28.477110204Z",
+  "timestamp": "2026-09-27T19:07:27.968825869Z",
   "model": "glm-5.3"
 }

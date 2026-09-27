@@ -5,11 +5,35 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Dhe nëse shtëpia ⟨është⟩ e vogël sa ⟨të marrë⟩ një, atëherë do të marrë ⟨ai⟩ dhe fqinji i tij, ai që ⟨është⟩ më i afërti ndaj shtëpisë së tij, sipas numrit të shpirtrave: secili sipas ngrënies së tij do ta përllogarisni për të ngordhurit.",
+  "translation": "Dhe nëse shtëpia ⟨është⟩ e vogël për të qenë ⟨nga⟩ një qengj, ai dhe fqinji i tij, i afërti ndaj shtëpisë së tij, do ta marrin ⟨את⟩ sipas numrit të shpirtrave; secili njeri sipas të ngrenit të tij do të bëni llogarinë për qengjin.",
   "tokens": [
     {
-      "surface": "ויקחו",
-      "gloss": "dhe do të marrë"
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "është e vogël"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "משה",
+      "gloss": "një qengj"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "do ta marrë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
     },
     {
       "surface": "ושכנו",
@@ -37,7 +61,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "secili"
+      "gloss": "secili njeri"
     },
     {
       "surface": "לפי",
@@ -45,11 +69,11 @@
     },
     {
       "surface": "אכלו",
-      "gloss": "ngrënies së tij"
+      "gloss": "të ngrenit të tij"
     },
     {
       "surface": "תכסו",
-      "gloss": "do ta përllogarisni"
+      "gloss": "do të bëni llogarinë"
     },
     {
       "surface": "על",
@@ -57,9 +81,9 @@
     },
     {
       "surface": "השה",
-      "gloss": "mijën"
+      "gloss": "qengjin"
     }
   ],
-  "timestamp": "2026-09-27T14:06:37.473916977Z",
+  "timestamp": "2026-09-27T19:02:41.869603930Z",
   "model": "glm-5.3"
 }

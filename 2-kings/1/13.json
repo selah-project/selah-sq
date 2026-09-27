@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe ai u kthye dhe dërgoi ⟨את⟩ kryetarin e pesëdhjetës së tretë me pesëdhjetëvet e tij; dhe kryetari i tretë i pesëdhjetës u ngjit dhe erdhi dhe ra mbi gjunjët e tij përballë Elia, dhe i luti atë dhe i foli atij: Njeri i Elohim, të lutem, u bëftë e çmueshme shpirti im dhe shpirti i shërbëtorëve të tu, këta pesëdhjetë, në sytë e tu.",
+  "translation": "Dhe ai u kthye dhe dërgoi ⟨i tretin⟩ komandant të pesëdhjetëshit me pesëdhjetë ⟨njerëzit⟩ e tij; dhe komandanti i tretë i pesëdhjetëshit u ngjit dhe erdhi dhe ra në gjunjët e tij përballë Elijahut, e luti atë dhe i foli atij: o njeri i Elohimit, të lutem, të bëhet e çmuar shpirti im dhe shpirti i shërbëtorëve të tu — këta pesëdhjetë — në sytë e tu.",
   "tokens": [
     {
       "surface": "וישב",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "שר",
-      "gloss": "kryetar"
+      "gloss": "komandant"
     },
     {
       "surface": "חמשים",
-      "gloss": "të pesëdhjetës"
+      "gloss": "pesëdhjetëshit"
     },
     {
       "surface": "שלשים",
-      "gloss": "të tretë"
+      "gloss": "i tretin"
     },
     {
       "surface": "וחמשיו",
-      "gloss": "me pesëdhjetëvet e tij"
+      "gloss": "me pesëdhjetë ⟨njerëzit⟩ e tij"
     },
     {
       "surface": "ויעל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "kryetari"
+      "gloss": "komandanti"
     },
     {
       "surface": "החמשים",
-      "gloss": "i pesëdhjetës"
+      "gloss": "i pesëdhjetëshit"
     },
     {
       "surface": "השלישי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": "mbi"
+      "gloss": "në"
     },
     {
       "surface": "ברכיו",
-      "gloss": "gjunjët e tij"
+      "gloss": "gjunjtë e tij"
     },
     {
       "surface": "לנגד",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "Elia"
+      "gloss": "Elijahut"
     },
     {
       "surface": "ויתחנן",
-      "gloss": "dhe i luti"
+      "gloss": "dhe e luti"
     },
     {
       "surface": "אליו",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "Njeri"
+      "gloss": "o njeri"
     },
     {
       "surface": "האלהים",
-      "gloss": "i Elohim"
+      "gloss": "i Elohimit"
     },
     {
       "surface": "תיקר",
-      "gloss": "u bëftë e çmueshme"
+      "gloss": "të bëhet e çmuar"
     },
     {
       "surface": "נא",
@@ -128,6 +128,6 @@
       "gloss": "në sytë e tu"
     }
   ],
-  "timestamp": "2026-09-27T15:41:07.760577365Z",
+  "timestamp": "2026-09-27T19:00:55.120426295Z",
   "model": "glm-5.3"
 }

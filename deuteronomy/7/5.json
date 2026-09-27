@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Por kështu do t'u bëni atyre: altarët e tyre do t'i rrëzojnë ⟨את⟩, shtyllat e tyre të ngritura do t'i thyejnë, Asherat e tyre do t'i prisni, idhujt e tyre të gdhendur do t'i digjni në zjarr.",
+  "translation": "Por kështu do t'u bëni atyre: altarët e tyre do t'i rrëzoni, shtyllat e tyre do t'i thërmnoni, Asherat e tyre do t'i prisni, dhe idhujt e tyre të gdhendur do t'i digjni në zjarr.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "por"
+      "gloss": "Por"
     },
     {
       "surface": "אם",
-      "gloss": "(përkundra)"
+      "gloss": "kështu"
     },
     {
       "surface": "כה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "תתצו",
-      "gloss": "do t'i rrëzojnë"
+      "gloss": "do t'i rrëzoni"
     },
     {
       "surface": "ומצבתם",
-      "gloss": "shtyllat e tyre të ngritura"
+      "gloss": "dhe shtyllat e tyre"
     },
     {
       "surface": "תשברו",
-      "gloss": "do t'i thyejnë"
+      "gloss": "do t'i thërmnoni"
     },
     {
       "surface": "ואשירהם",
-      "gloss": "Asherat e tyre"
+      "gloss": "dhe Asherat e tyre"
     },
     {
       "surface": "תגדעון",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ופסיליהם",
-      "gloss": "idhujt e tyre të gdhendur"
+      "gloss": "dhe idhujt e tyre të gdhendur"
     },
     {
       "surface": "תשרפון",
@@ -64,6 +64,6 @@
       "gloss": "në zjarr"
     }
   ],
-  "timestamp": "2026-09-27T14:44:08.729013822Z",
+  "timestamp": "2026-09-27T19:01:51.686979710Z",
   "model": "glm-5.3"
 }

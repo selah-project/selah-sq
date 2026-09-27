@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Gëzu me zë të lartë dhe këndo, o banuese e Sionit, sepse i madh është në mesin tënd ⟨i Shquari i Shenjtë⟩ i Izraelit.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Gëzu me zë të lartë"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "dhe këndo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "o banuese"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "e Sionit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "në mesin tënd"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i Shenjtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T19:03:57.742728548Z",
+  "model": "glm-5.3"
+}

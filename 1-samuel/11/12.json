@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Dhe populli i tha Samuelit: Kush është ai që tha: Sauli të mbretërojë mbi ne? Jepni ⟨את⟩ ata njerëz dhe do t'i vrasim.",
+  "translation": "Dhe populli i tha Samuelit: «Kush është ai që tha se Sauli ⟨s’duhet⟩ të mbretërojë mbi ne? Jepni ⟨⟩ njerëzit që t'i vrasim.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dhe i tha"
+      "gloss": "Dhe … i tha"
     },
     {
       "surface": "העם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "te"
     },
     {
       "surface": "שמואל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מי",
-      "gloss": "kush"
+      "gloss": "Kush"
     },
     {
       "surface": "האמר",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "תנו",
-      "gloss": "jepni"
+      "gloss": "Jepni"
     },
     {
       "surface": "האנשים",
-      "gloss": "ata njerëz"
+      "gloss": "njerëzit"
     },
     {
       "surface": "ונמיתם",
-      "gloss": "dhe do t'i vrasim"
+      "gloss": "që t'i vrasim"
     }
   ],
-  "timestamp": "2026-09-27T15:13:13.450311626Z",
+  "timestamp": "2026-09-27T18:57:57.077674209Z",
   "model": "glm-5.3"
 }

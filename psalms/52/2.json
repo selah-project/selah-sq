@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 52,
-  "translation": "Kur erdhi Doegu, edomiti, dhe e njoftoi ⟨את⟩ Saulin dhe i tha: «Davidi erdhi në shtëpinë e Ahimelekut.»",
+  "translation": "Kur erdhi Doegu edomiti dhe i njoftoi Saulit, dhe i tha atij: \"Davidi erdhi në shtëpinë e Ahimelekut.\"",
   "tokens": [
     {
       "surface": "בבוא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "dhe e njoftoi"
+      "gloss": "dhe i njoftoi"
     },
     {
       "surface": "לשאול",
-      "gloss": "Saulin"
+      "gloss": "Saulit"
     },
     {
       "surface": "ויאמר",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אחימלך",
-      "gloss": "e Ahimelekut"
+      "gloss": "Ahimelekut"
     }
   ],
-  "timestamp": "2026-09-27T17:04:12.169222979Z",
+  "timestamp": "2026-09-27T19:09:44.443762909Z",
   "model": "glm-5.3"
 }

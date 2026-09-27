@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe Amnoni i tha Tamarsë: \"Sill ⟨את⟩ gjellën në dhomën e brendshme, që të ha nga dora jote.\" Dhe Tamara mori ⟨את⟩ kuzhinat që kishte bërë dhe i solli Amnonit, vëllait të saj, në dhomën e brendshme.",
+  "translation": "Dhe Amnoni i tha Tamars: «Sille ⟨të⟩ ngrohtë ⟨në⟩ dhomën, që të ha nga dora jote.» Dhe Tamara mori ⟨את⟩ kuzhinat që kishte bërë dhe ia çoi Amnonit, vëllait të saj, në dhomë.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dhe tha"
+      "gloss": "dhe i tha"
     },
     {
       "surface": "אמנון",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "për"
+      "gloss": "drejt"
     },
     {
       "surface": "תמר",
-      "gloss": "Tamara"
+      "gloss": "Tamars"
     },
     {
       "surface": "הביאי",
-      "gloss": "sill"
+      "gloss": "sille"
     },
     {
       "surface": "הבריה",
-      "gloss": "gjellën"
+      "gloss": "të ngrohtë"
     },
     {
       "surface": "החדר",
-      "gloss": "në dhomën e brendshme"
+      "gloss": "⟨në⟩ dhomën"
     },
     {
       "surface": "ואברה",
-      "gloss": "që të ha"
+      "gloss": "dhe të ha"
     },
     {
       "surface": "מידך",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuzhinat"
+      "marks": "kuzhinat (הלבבות)"
     },
     {
       "surface": "הלבבות",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "dhe solli"
+      "gloss": "dhe çoi"
     },
     {
       "surface": "לאמנון",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "החדרה",
-      "gloss": "në dhomën e brendshme"
+      "gloss": "në dhomë"
     }
   ],
-  "timestamp": "2026-09-27T15:23:31.964041114Z",
+  "timestamp": "2026-09-27T19:00:20.275303704Z",
   "model": "glm-5.3"
 }

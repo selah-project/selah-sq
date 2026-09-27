@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 4,
-  "translation": "dhe ⟨את⟩ perdet e oborrit, dhe ⟨את⟩ perden e hyrjes së portës së oborrit që është pranë Mishkanit dhe pranë altarit rreth e rrotull, dhe ⟨את》 litarët e tyre, dhe ⟨את⟩ të gjitha veglat e shërbimit të tyre, dhe ⟨את⟩ gjithçka që duhet bërë për ta; dhe ata do të shërbejnë.",
+  "translation": "dhe ⟨את⟩ perdet e oborrit, dhe ⟨את⟩ mbulesën e hyrjes së portës së oborrit, e cila ⟨është⟩ pranë Mishkanit dhe pranë altarit rreth e rrotull, dhe ⟨את⟩ litarët e tyre, dhe ⟨את⟩ të gjitha veglat e shërbimit të tyre, dhe ⟨את⟩ gjithçka që do të bëhet me to — dhe ata do të shërbejnë.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "perdet e oborrit"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
-      "marks": "perden e hyrjes"
+      "gloss": "⟨את⟩",
+      "marks": "mbulesën"
     },
     {
       "surface": "מסך",
-      "gloss": "perden"
+      "gloss": "mbulesën"
     },
     {
       "surface": "פתח",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "të portës"
+      "gloss": "së portës"
     },
     {
       "surface": "החצר",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "e cila"
     },
     {
       "surface": "על",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "litarët e tyre"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "të gjitha veglat"
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "surface": "עבדתם",
-      "gloss": "e shërbimit të tyre"
+      "gloss": "të shërbimit të tyre"
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
-      "marks": "gjithçka që duhet bërë"
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
     },
     {
       "surface": "כל",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "duhet bërë"
+      "gloss": "do të bëhet"
     },
     {
       "surface": "להם",
-      "gloss": "për ta"
+      "gloss": "me to"
     },
     {
       "surface": "ועבדו",
-      "gloss": "dhe do të shërbejnë"
+      "gloss": "dhe ata do të shërbejnë"
     }
   ],
-  "timestamp": "2026-09-27T14:29:43.869300803Z",
+  "timestamp": "2026-09-27T19:08:18.909402088Z",
   "model": "glm-5.3"
 }

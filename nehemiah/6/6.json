@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "sq",
   "chapter": 6,
-  "translation": "⟨Ishte⟩ shkruar në të: Në mes të kombeve është dëgjuar, dhe Gashmu thotë, se ti dhe judenjtë po mendoni të rebeloheni; prandaj ti po ndërton ⟨את⟩ murin; dhe ti do të bëhesh atyre për mbret, sipas këtyre fjalëve.",
+  "translation": "Në ⟨të⟩ ishte shkruar: «Ndër kombet është dëgjuar, dhe Gashmu po thotë, se ti dhe judenjtë po mendoni të rebeloheni; prandaj ti po ndërton ⟨murin⟩, dhe ti do të bëhesh mbret për ta, sipas këtyre fjalëve».",
   "tokens": [
     {
       "surface": "כתוב",
-      "gloss": "shkruar"
+      "gloss": "ishte shkruar"
     },
     {
       "surface": "בה",
-      "gloss": "në të"
+      "gloss": "në ⟨të⟩"
     },
     {
       "surface": "בגוים",
-      "gloss": "në mes të kombeve"
+      "gloss": "ndër kombet"
     },
     {
       "surface": "נשמע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "thotë"
+      "gloss": "po thotë"
     },
     {
       "surface": "אתה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "על",
-      "gloss": "kundër"
+      "gloss": "prandaj (për këtë arsye)"
     },
     {
       "surface": "כן",
-      "gloss": "prandaj"
+      "gloss": "(bëhet një me «על»)"
     },
     {
       "surface": "אתה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "החומה",
-      "gloss": "murin"
+      "gloss": "⟨murin⟩"
     },
     {
       "surface": "ואתה",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "הוה",
-      "gloss": "do të bëhesh"
+      "gloss": "do të bëhesh (je duke u bërë)"
     },
     {
       "surface": "להם",
-      "gloss": "atyre"
+      "gloss": "për ta"
     },
     {
       "surface": "למלך",
-      "gloss": "për mbret"
+      "gloss": "mbret"
     },
     {
       "surface": "כדברים",
@@ -92,6 +92,6 @@
       "gloss": "këtyre"
     }
   ],
-  "timestamp": "2026-09-27T17:56:32.799957857Z",
+  "timestamp": "2026-09-27T19:07:46.392104090Z",
   "model": "glm-5.3"
 }

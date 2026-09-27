@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 27,
-  "translation": "Dhe nëse ⟨ai⟩ është shumë i varfër për vlerësimin tënd, atëherë ⟨ai⟩ do të paraqitet para priftit, dhe prifti do ta vlerësojë ⟨את⟩ atë; sipas asaj që arrin dora e ai që bëri lögen, do ta vlerësojë prifti.",
+  "translation": "Dhe nëse ⟨ai⟩ është i varfër përballë vlerësimit tënd, do ta paraqesin atë përpara priftit, dhe prifti do ta vlerësojë ⟨את⟩ atë; në masën që arrin dora e atij që ka premtuar, do ta vlerësojë prifti.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "מך",
-      "gloss": "është shumë i varfër"
+      "gloss": "i varfër"
     },
     {
       "surface": "הוא",
-      "gloss": "ai"
+      "gloss": "⟨ai⟩"
     },
     {
       "surface": "מערכך",
-      "gloss": "për vlerësimin tënd"
+      "gloss": "vlerësimi yt"
     },
     {
       "surface": "והעמידו",
-      "gloss": "do të paraqitet"
+      "gloss": "do ta paraqesin"
     },
     {
       "surface": "לפני",
-      "gloss": "para"
+      "gloss": "përpara"
     },
     {
       "surface": "הכהן",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "והעריך",
-      "gloss": "dhe do ta vlerësojë"
+      "gloss": "do ta vlerësojë"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë (personin e varfër të paraqitur)"
+      "marks": "atë (personin e varfër që paraqitet)"
     },
     {
       "surface": "הכהן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "asaj që"
+      "gloss": "në masën"
     },
     {
       "surface": "אשר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "יד",
-      "gloss": "dora e"
+      "gloss": "dora"
     },
     {
       "surface": "הנדר",
-      "gloss": "ai që bëri lögen (nadörin)"
+      "gloss": "i atij që ka premtuar"
     },
     {
       "surface": "יעריכנו",
@@ -81,6 +81,6 @@
       "gloss": "prifti"
     }
   ],
-  "timestamp": "2026-09-27T14:28:20.027137712Z",
+  "timestamp": "2026-09-27T19:07:28.225659566Z",
   "model": "glm-5.3"
 }

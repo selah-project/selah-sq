@@ -5,8 +5,29 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Edhe një herë填写 — placeholder",
-  "tokens": [],
-  "timestamp": "2026-09-27T18:03:40.083429231Z",
+  "translation": "Dhe filistët shtuan edhe një herë, dhe u shtrinë në luginë.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "dhe shtuan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe një herë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "dhe u shtrinë"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "në luginë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:57:39.076525710Z",
   "model": "glm-5.3"
 }

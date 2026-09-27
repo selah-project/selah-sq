@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe Sauli i tha popullit që ishte ⟨me⟩ ⟨את⟩ tij: «Numëroni tani dhe shihni kush është larguar nga ne.» Dhe numëruan, dhe ja, Jonatani dhe ai që mbante ⟨את⟩ armët e tij nuk ishin aty.",
+  "translation": "Dhe Sauli u tha popullit që ishte ⟨me⟩ ⟨את⟩ të: «Bëni thirrjen, ju lutem, dhe shihni kush është larguar nga ne.» Dhe bënë thirrjen, dhe ja, Jonatani dhe ai që i mbante armët nuk ishin aty.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "tha"
+      "gloss": "Dhe … u tha"
     },
     {
       "surface": "שאול",
@@ -25,16 +25,15 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ me të",
-      "marks": "popullit që ishte me të"
+      "gloss": "⟨את⟩ me të"
     },
     {
       "surface": "פקדו",
-      "gloss": "numëroni"
+      "gloss": "Bëni thirrjen"
     },
     {
       "surface": "נא",
-      "gloss": "tani"
+      "gloss": "ju lutem"
     },
     {
       "surface": "וראו",
@@ -54,7 +53,7 @@
     },
     {
       "surface": "ויפקדו",
-      "gloss": "dhe numëruan"
+      "gloss": "Dhe bënë thirrjen"
     },
     {
       "surface": "והנה",
@@ -77,6 +76,6 @@
       "gloss": "armët e tij"
     }
   ],
-  "timestamp": "2026-09-27T15:15:17.873296950Z",
+  "timestamp": "2026-09-27T18:57:57.995272744Z",
   "model": "glm-5.3"
 }

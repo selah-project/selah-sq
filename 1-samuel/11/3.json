@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Dhe i thanë atij pleqtë e Jabeshit: «Na jep ⟨afat⟩ shtatë ditë, që të dërgojmë lajmëtarë në ⟨të gjithë⟩ kufirin e Izraelit; dhe nëse nuk ka shpëtimtar ⟨për ne⟩ ⟨נֶגֶד⟩ ⟨אתנו⟩ — ונשלחה — atëherë do të dalim te ti.»",
+  "translation": "Dhe i thanë pleqtë e Jabeshit: «Na lër shtatë ditë që të dërgojmë lajmëtarë në gjithë kufirin e Izraelit; dhe nëse nuk ka kush të na shpëtojë ⟨את⟩, do të dalim te ti.»",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הרף",
-      "gloss": "na jep afat (pushim)"
+      "gloss": "na lër"
     },
     {
       "surface": "לנו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ונשלחה",
-      "gloss": "që të dërgojmë"
+      "gloss": "dhe të dërgojmë"
     },
     {
       "surface": "מלאכים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "në të gjithë"
+      "gloss": "në gjithë"
     },
     {
       "surface": "גבול",
@@ -69,12 +69,12 @@
     },
     {
       "surface": "מושיע",
-      "gloss": "shpëtimtar"
+      "gloss": "kush të shpëtojë"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "neve (kundrinori i 'shpëtimtar' — 'nuk ka shpëtimtar neve')"
+      "gloss": "⟨את⟩",
+      "marks": "neve (objekt i «të na shpëtojë»)"
     },
     {
       "surface": "ויצאנו",
@@ -85,6 +85,6 @@
       "gloss": "te ti"
     }
   ],
-  "timestamp": "2026-09-27T15:14:02.078738435Z",
+  "timestamp": "2026-09-27T18:58:01.933346138Z",
   "model": "glm-5.3"
 }

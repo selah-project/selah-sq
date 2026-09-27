@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Ja unë: dëshmoni kundër meje para Jahvesë dhe para të vajosurit të Tij: ⟨את⟩ ka dëttë më mora? ⟨את⟩ gomarit të kujt i mora? ⟨את⟩ kë e shtypa? ⟨את⟩ kë shkelça? Dhe nga dora e kujt mora ryshfet dhe e mbylla syrin tim ndaj tij? Dhe do t'jua kthej juve.",
+  "translation": "Ja, unë jam: dëshmoni kundër meje përpara Jahvesë dhe përpara Mashiachit të tij: ⟨את⟩ një ka kam marrë nga kush? ose një gomar kam marrë nga kush? dhe ⟨את⟩ kemi shtypur? ⟨את⟩ kemi shkelur? dhe nga dora e kujt kam marrë ryshfet dhe kam mbuluar sytë e mi me të? — dhe do t'jua kthej juve.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "ja unë"
+      "gloss": "Ja, unë jam"
     },
     {
       "surface": "ענו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נגד",
-      "gloss": "para"
+      "gloss": "përpara"
     },
     {
       "surface": "יהוה",
@@ -29,66 +29,66 @@
     },
     {
       "surface": "ונגד",
-      "gloss": "dhe para"
+      "gloss": "dhe përpara"
     },
     {
       "surface": "משיחו",
-      "gloss": "të vajosurit të Tij"
+      "gloss": "Mashiachit të tij"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ka"
+      "marks": "një ka (שור)"
     },
     {
       "surface": "שור",
-      "gloss": "dëttë"
+      "gloss": "një ka"
     },
     {
       "surface": "מי",
-      "gloss": "më"
+      "gloss": "nga kush"
     },
     {
       "surface": "לקחתי",
-      "gloss": "mora"
+      "gloss": "kam marrë"
     },
     {
       "surface": "וחמור",
-      "gloss": "dhe gomarit"
+      "gloss": "dhe një gomar"
     },
     {
       "surface": "מי",
-      "gloss": "të kujt"
+      "gloss": "nga kush"
     },
     {
       "surface": "לקחתי",
-      "gloss": "i mora"
+      "gloss": "kam marrë"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "kë"
+      "marks": "kush (מי) — i shtypuri"
     },
     {
       "surface": "מי",
-      "gloss": "kë"
+      "gloss": "kush"
     },
     {
       "surface": "עשקתי",
-      "gloss": "e shtypa"
+      "gloss": "kam shtypur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kë"
+      "marks": "kush (מי) — i shkeluri"
     },
     {
       "surface": "מי",
-      "gloss": "kë"
+      "gloss": "kush"
     },
     {
       "surface": "רצותי",
-      "gloss": "shkelça"
+      "gloss": "kam shkelur"
     },
     {
       "surface": "ומיד",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "לקחתי",
-      "gloss": "mora"
+      "gloss": "kam marrë"
     },
     {
       "surface": "כפר",
@@ -108,25 +108,25 @@
     },
     {
       "surface": "ואעלים",
-      "gloss": "dhe e mbylla"
+      "gloss": "dhe kam mbuluar"
     },
     {
       "surface": "עיני",
-      "gloss": "sytin tim"
+      "gloss": "sytë e mi"
     },
     {
       "surface": "בו",
-      "gloss": "ndaj tij"
+      "gloss": "me të"
     },
     {
       "surface": "ואשיב",
-      "gloss": "dhe do ta kthej"
+      "gloss": "dhe do t'jua kthej"
     },
     {
       "surface": "לכם",
       "gloss": "juve"
     }
   ],
-  "timestamp": "2026-09-27T15:13:52.333820200Z",
+  "timestamp": "2026-09-27T18:58:14.220196644Z",
   "model": "glm-5.3"
 }

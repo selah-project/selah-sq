@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 5,
-  "translation": "Dhe nëse dora e tij nuk arrin deri sa ⟨të blejë⟩ një të rinj nga bagëtia, atëherë do të sjellë ⟨את⟩ flijimin e tij të fajit që ka mëkatuar, dy turtulla ose dy pëllumba të rinj, për Jahve: një për flijimin e mëkatit dhe një për olokaustin.",
+  "translation": "Dhe nëse dora e tij nuk arrin ⟨deri te⟩ një dele, atëherë do të sjellë flijimin e fajit të vet, të cilin e ka bërë mëkat, dy turtuj ose dy pij të rinj për Jahven, një për flijimin e mëkatit dhe një për flijimin e djegur — ⟨את⟩ flijimin e fajit të vet.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "dhe nëse"
+      "gloss": "Dhe nëse"
     },
     {
       "surface": "לא",
-      "gloss": "jo"
+      "gloss": "nuk"
     },
     {
       "surface": "תגיע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "די",
-      "gloss": "deri sa"
+      "gloss": "⟨deri te⟩ sa duhet për"
     },
     {
       "surface": "שה",
-      "gloss": "një të rinj nga bagëtia"
+      "gloss": "një dele"
     },
     {
       "surface": "והביא",
@@ -38,19 +38,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "flijimin e tij të fajit"
+      "marks": "flijimin e fajit të vet"
     },
     {
       "surface": "אשמו",
-      "gloss": "flijimin e tij të fajit"
+      "gloss": "flijimin e fajit të vet"
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "të cilin"
     },
     {
       "surface": "חטא",
-      "gloss": "ka mëkatuar"
+      "gloss": "e ka bërë mëkat"
     },
     {
       "surface": "שתי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "תרים",
-      "gloss": "turtulla"
+      "gloss": "turtuj"
     },
     {
       "surface": "או",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "pëllumba të rinj"
+      "gloss": "pij të rinj"
     },
     {
       "surface": "יונה",
-      "gloss": "pëllumb"
+      "gloss": "turtujve (pëllumbave)"
     },
     {
       "surface": "ליהוה",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "për olokaustin"
+      "gloss": "për flijimin e djegur"
     }
   ],
-  "timestamp": "2026-09-27T14:20:02.161703104Z",
+  "timestamp": "2026-09-27T19:07:46.662367963Z",
   "model": "glm-5.3"
 }

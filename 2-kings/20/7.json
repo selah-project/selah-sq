@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe Isaia tha: «Merrni një tortë fiqish të shtypur.» Dhe morën ⟨את⟩ dhe e vunë mbi ënjtjen, dhe ai u shërua.",
+  "translation": "Dhe Isaia tha: \"Merrni një ⊕shtrydhje ficësh.\" Dhe ata e morën dhe e vunë mbi ×ulkun, dhe ai u shërua.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "דבלת",
-      "gloss": "tortë fiqish të shtypur"
+      "gloss": "shtrydhje"
     },
     {
       "surface": "תאנים",
-      "gloss": "fiqish"
+      "gloss": "ficësh"
     },
     {
       "surface": "ויקחו",
-      "gloss": "dhe morën"
+      "gloss": "dhe ata e morën"
     },
     {
       "surface": "וישימו",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "השחין",
-      "gloss": "ënjtjen"
+      "gloss": "ulkun"
     },
     {
       "surface": "ויחי",
       "gloss": "dhe ai u shërua"
     }
   ],
-  "timestamp": "2026-09-27T15:47:35.908729622Z",
+  "timestamp": "2026-09-27T19:00:18.130256210Z",
   "model": "glm-5.3"
 }

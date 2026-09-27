@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 15,
-  "translation": "Dhe Samueli zgjoi herët në mëngjes për të takuar ⟨את⟩ Saulin, dhe iu raportua Samuelit, duke thënë: Sauli erdhi në ⟨the⟩ Karmel, dhe ja, po ngriton për vete një dorë ⟨pikeçinje⟩, dhe u kthye, dhe kaloi, dhe zbriti në ⟨the⟩ Gilgal.",
+  "translation": "Dhe Samueli zgjoi herët në mëngjes për të parë Saulin, dhe iu lajmërua Samuelit, duke thënë: Sauli erdhi në Karmel, dhe ja, po ngrit për vete një monument, dhe u kthye, kaloi tutje dhe zbriti në Gilgal.",
   "tokens": [
     {
       "surface": "וישכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "për të takuar"
+      "gloss": "për të parë"
     },
     {
       "surface": "שאול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "dhe iu raportua"
+      "gloss": "dhe iu lajmërua"
     },
     {
       "surface": "לשמואל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מציב",
-      "gloss": "po ngriton"
+      "gloss": "po ngrit"
     },
     {
       "surface": "לו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "një dorë (pikeçinje)"
+      "gloss": "monument"
     },
     {
       "surface": "ויסב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ויעבר",
-      "gloss": "dhe kaloi"
+      "gloss": "kaloi tutje"
     },
     {
       "surface": "וירד",
@@ -84,6 +84,6 @@
       "gloss": "në Gilgal"
     }
   ],
-  "timestamp": "2026-09-27T18:23:49.715143301Z",
+  "timestamp": "2026-09-27T18:58:07.515424666Z",
   "model": "glm-5.3"
 }

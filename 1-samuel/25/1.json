@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 25,
-  "translation": "Dhe Samueli vdiq, dhe gjithë Izraeli u mblodh dhe e mbajti zi ⟨për të⟩, dhe e varrosën ⟨את⟩ në shtëpinë e tij në Ramah; dhe Davidi u ngrit dhe zbriti në shkretëtirën e Paranit.",
+  "translation": "Dhe Samueli vdiq, dhe mblidh të gjithë Izraeli, dhe e ngjallën zi për të, dhe e varrosën në shtëpinë e tij në Rama. Dhe Davidi u ngrit dhe zbriti në shkretëtirën e Paranit.",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "Dhe vdiq"
+      "gloss": "dhe vdiq"
     },
     {
       "surface": "שמואל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויקבצו",
-      "gloss": "dhe u mblodh"
+      "gloss": "dhe mblidh"
     },
     {
       "surface": "כל",
-      "gloss": "gjithë"
+      "gloss": "të gjithë"
     },
     {
       "surface": "ישראל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויספדו",
-      "gloss": "dhe e mbajti zi"
+      "gloss": "dhe e ngjallën zi"
     },
     {
       "surface": "לו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ברמה",
-      "gloss": "në Ramah"
+      "gloss": "në Rama"
     },
     {
       "surface": "ויקם",
@@ -72,6 +72,6 @@
       "gloss": "e Paranit"
     }
   ],
-  "timestamp": "2026-09-27T15:18:35.899575222Z",
+  "timestamp": "2026-09-27T18:58:38.200298747Z",
   "model": "glm-5.3"
 }

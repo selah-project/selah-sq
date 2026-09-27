@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 8,
-  "translation": "Por bijtë e tij nuk ecën në rrugët e tij, dhe shmangën pas fitimit të padrejtë, dhe morën ryshfet, dhe shtrembëruan ⟨את⟩ gjykimin.",
+  "translation": "Dhe bijtë e tij nuk ecën në rrugët e tij, por u kthyen pas përfitimit dhe morën ryshfet dhe shtrembëruan ⟨gjykimin⟩.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Por ... nuk"
+      "gloss": "dhe nuk"
     },
     {
       "surface": "הלכו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויטו",
-      "gloss": "dhe shmangën"
+      "gloss": "u kthyen"
     },
     {
       "surface": "אחרי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הבצע",
-      "gloss": "fitimit të padrejtë"
+      "gloss": "përfitimit"
     },
     {
       "surface": "ויקחו",
-      "gloss": "dhe morën"
+      "gloss": "morën"
     },
     {
       "surface": "שחד",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ויטו",
-      "gloss": "dhe shtrembëruan"
+      "gloss": "shtrembëruan"
     },
     {
       "surface": "משפט",
       "gloss": "gjykimin"
     }
   ],
-  "timestamp": "2026-09-27T15:11:38.164415600Z",
+  "timestamp": "2026-09-27T18:58:23.797660765Z",
   "model": "glm-5.3"
 }

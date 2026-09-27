@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Ndërsa ai po fliste ende me ta, ja, lajmëtari zbriste te ai, dhe ai tha: Ja, kjo e keqe është nga ⟨את⟩ Jahve; të pres edhe ⟨את⟩ Jahve më gjatë? — çfarë të pres përpara?",
+  "translation": "Ndërsa ⟨ai⟩ po fliste ende me ta, ja, lajmëtari po zbriste te ⟨ai⟩, dhe tha: Ja, kjo e keqja ⟨vjen⟩ ⟨מאת⟩ Jahve; ç'të pres ⟨nga⟩ Jahve më?",
   "tokens": [
     {
       "surface": "עודנו",
-      "gloss": "ende ai"
+      "gloss": "ende"
     },
     {
       "surface": "מדבר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ירד",
-      "gloss": "zbriste"
+      "gloss": "po zbriste"
     },
     {
       "surface": "אליו",
-      "gloss": "te ai"
+      "gloss": "te ⟨ai⟩"
     },
     {
       "surface": "ויאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "nga ⟨את⟩",
+      "gloss": "⟨מאת⟩",
       "marks": "Jahve"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "çfarë"
+      "gloss": "ç'"
     },
     {
       "surface": "אוחיל",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "⟨nga⟩ Jahve"
     },
     {
       "surface": "עוד",
-      "gloss": "edhe më gjatë"
+      "gloss": "më"
     }
   ],
-  "timestamp": "2026-09-27T18:24:23.523460846Z",
+  "timestamp": "2026-09-27T19:00:21.551912676Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Dhe tani jep ⟨את⟩ pengje, të lutem, ⟨את⟩ zotërinë tim, ⟨את⟩ mbretin e Asirisë, dhe do të të jap ty dy mijë kuaj, nëse mund të vendosësh për ty kalorës mbi ta.",
+  "translation": "Dhe tani bëj ⟨⟨ב⟩⟩je, të lutem, ⟨את⟩ zotërisë sate, ⟨את⟩ mbretit të Ashurit, dhe do të të jap dy mijë kuaj, nëse mundesh të dish për vete kalorës mbi ta.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Dhe tani"
+      "gloss": "dhe tani"
     },
     {
       "surface": "התערב",
-      "gloss": "jep pengje"
+      "gloss": "bëj je"
     },
     {
       "surface": "נא",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zotërinë tim"
+      "marks": "zotërisë sate"
     },
     {
       "surface": "אדני",
-      "gloss": "zotërinë tim"
+      "gloss": "zotërisë sate"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mbretin e Asirisë"
+      "marks": "mbretit të Ashurit"
     },
     {
       "surface": "מלך",
-      "gloss": "mbretin"
+      "gloss": "mbretit"
     },
     {
       "surface": "אשור",
-      "gloss": "të Asirisë"
+      "gloss": "të Ashurit"
     },
     {
       "surface": "ואתנה",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "mund"
+      "gloss": "mundesh"
     },
     {
       "surface": "לתת",
-      "gloss": "të vendosësh"
+      "gloss": "të dish"
     },
     {
       "surface": "לך",
-      "gloss": "për ty"
+      "gloss": "për vete"
     },
     {
       "surface": "רכבים",
@@ -82,6 +82,6 @@
       "gloss": "mbi ta"
     }
   ],
-  "timestamp": "2026-09-27T15:47:30.633288201Z",
+  "timestamp": "2026-09-27T19:00:53.622691906Z",
   "model": "glm-5.3"
 }

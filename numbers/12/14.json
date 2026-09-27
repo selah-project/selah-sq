@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 12,
-  "translation": "Dhe Jahve i tha Moisit: Sikur babai i saj të kishte pështyrë në fytyrën e saj — a nuk do të mbushej me turp shtatë ditë? Le të mbyllet shtatë ditë jashtë kampit, dhe pastaj le të pranohet.",
+  "translation": "Dhe Jahve i tha Moisit: «Nëse babai i saj do të kishte pështyrë pështyrë në fytyrën e saj, a nuk do të mbante turp ⟨shtatë ditë⟩? Le të mbyllet jashtë kampit shtatë ditë, dhe pas kësaj le të pranohet.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,27 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Moisit (drejtimi)"
+      "gloss": "te"
     },
     {
       "surface": "משה",
       "gloss": "Moisi"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
-      "surface": "יהוה",
-      "gloss": ""
-    },
-    {
-      "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "משה",
-      "gloss": ""
     },
     {
       "surface": "ואביה",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "ירק",
-      "gloss": "pështyrë (potencialis)"
+      "gloss": "do të kishte pështyrë"
     },
     {
       "surface": "ירק",
-      "gloss": "pështyu"
+      "gloss": "pështyrë"
     },
     {
       "surface": "בפניה",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "תכלם",
-      "gloss": "do të mbushej me turp"
+      "gloss": "do të mbante turp"
     },
     {
       "surface": "שבעת",
@@ -82,8 +66,24 @@
     {
       "surface": "ימים",
       "gloss": "ditë"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe pas kësaj"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "le të pranohet"
     }
   ],
-  "timestamp": "2026-09-27T14:32:36.666807216Z",
+  "timestamp": "2026-09-27T19:07:39.927044077Z",
   "model": "glm-5.3"
 }

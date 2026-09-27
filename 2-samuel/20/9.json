@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe Joabi i tha Amasait: A je mirë, o vëllai im? Dhe dora e djathtë e Joabit e kapi ⟨את⟩ mjekrën e Amasait për ta puthur atë.",
+  "translation": "Dhe Joabi i tha Amasait: «A je mirë, vëllai im?» Dhe dora e djathtë e Joabit e kapi ⟨את⟩ mjekrën e Amasait për ta puthur atë.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בזקן",
-      "gloss": "mjekrën"
+      "gloss": "mjekrën e"
     },
     {
       "surface": "עמשא",
-      "gloss": "të Amasait"
+      "gloss": "Amasait"
     },
     {
       "surface": "לנשק",
@@ -64,6 +64,6 @@
       "gloss": "atë"
     }
   ],
-  "timestamp": "2026-09-27T15:27:00.961820368Z",
+  "timestamp": "2026-09-27T19:00:47.516028629Z",
   "model": "glm-5.3"
 }

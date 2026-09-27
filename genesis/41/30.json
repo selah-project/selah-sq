@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 41,
-  "translation": "Dhe do të ngrihen pas tyre shtatë vjet uri, dhe gjithë bollëku do të harrohet në token e Egjiptit, dhe uria do të shkatërrojë ⟨את⟩ token.",
+  "translation": "Dhe do të ngrihen shtatë vjet uri pas tyre, dhe gjithë bolli ⟨do⟩ harrohet në vendin e Egjiptit, dhe uria do ta përfundojë ⟨את⟩ ⟨vendin⟩.",
   "tokens": [
     {
       "surface": "וקמו",
-      "gloss": "Dhe do të ngrihen"
+      "gloss": "dhe do të ngrihen"
     },
     {
       "surface": "שבע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונשכח",
-      "gloss": "dhe do të harrohet"
+      "gloss": "dhe harrohet"
     },
     {
       "surface": "כל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "השבע",
-      "gloss": "bollëku"
+      "gloss": "bolli"
     },
     {
       "surface": "בארץ",
-      "gloss": "në token"
+      "gloss": "në vendin"
     },
     {
       "surface": "מצרים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וכלה",
-      "gloss": "dhe do të shkatërrojë"
+      "gloss": "dhe do ta përfundojë"
     },
     {
       "surface": "הרעב",
@@ -58,13 +58,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "token"
+      "marks": "vendin"
     },
     {
       "surface": "הארץ",
-      "gloss": "token"
+      "gloss": "⟨vendin⟩"
     }
   ],
-  "timestamp": "2026-09-27T13:59:45.721292189Z",
+  "timestamp": "2026-09-27T19:03:25.623836375Z",
   "model": "glm-5.3"
 }

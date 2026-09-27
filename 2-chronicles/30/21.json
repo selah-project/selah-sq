@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 30,
-  "translation": "Dhe bënë bijtë e Izraelit që u gjetën në Jeruzalem ⟨את⟩ festën e bukëve të pañdorme shtatë ditë, me gëzim të madh; dhe Levitët e priftërinjtë lëvdonin Jahve ditë për ditë, me vegla të fuqisë, ndaj Jahvesë.",
+  "translation": "Dhe bijtë e Izraelit që u gjetën në Jerusalem bënë ⟨את⟩ festën e bukëve të padjura shtatë ditë me gëzim të madh, dhe Levitët dhe priftërinjtë lëvdonin Jahvenë ditë pas dite me vegla të fortësisë përpara Jahves.",
   "tokens": [
     {
       "surface": "ויעשו",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "në Jeruzalem"
+      "gloss": "në Jerusalem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "festën e bukëve të pañdorme"
+      "marks": "festën (e bukëve të padjura)"
     },
     {
       "surface": "חג",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "המצות",
-      "gloss": "e bukëve të pañdorme"
+      "gloss": "e bukëve të padjura"
     },
     {
       "surface": "שבעת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvenë"
     },
     {
       "surface": "יום",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "për ditë"
+      "gloss": "pas dite"
     },
     {
       "surface": "הלוים",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "והכהנים",
-      "gloss": "e priftërinjtë"
+      "gloss": "dhe priftërinjtë"
     },
     {
       "surface": "בכלי",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "עז",
-      "gloss": "të fuqisë"
+      "gloss": "të fortësisë"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ndaj Jahvesë"
+      "gloss": "përpara Jahves"
     }
   ],
-  "timestamp": "2026-09-27T18:16:36.325613081Z",
+  "timestamp": "2026-09-27T18:58:32.248844292Z",
   "model": "glm-5.3"
 }

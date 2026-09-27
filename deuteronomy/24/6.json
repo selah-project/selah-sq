@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 24,
-  "translation": "Të mos merret peng ⟨את⟩ gurin e poshtëm të bluarjes as guri i sipërm, sepse ⟨kjo do të thotë⟩ të marrësh peng një shpirt.",
+  "translation": "Le të mos merret ⟨si peng⟩ shqitaria e sipërme as e poshtme ⟨את⟩, sepse ⟨ai⟩ po merr peng ⟨את⟩ një shpirt.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "të mos"
+      "gloss": "jo"
     },
     {
       "surface": "יחבל",
-      "gloss": "merret peng"
+      "gloss": "të merret ⟨si peng⟩"
     },
     {
       "surface": "רחים",
-      "gloss": "gurin e poshtëm të bluarjes"
+      "gloss": "shqitaria (gurët e bluarjes)"
     },
     {
       "surface": "ורכב",
-      "gloss": "as guri i sipërm"
+      "gloss": "dhe guri i sipërm i shqitaries"
     },
     {
       "surface": "כי",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "נפש",
-      "gloss": "një shpirt"
+      "gloss": "shpirt"
     },
     {
       "surface": "הוא",
-      "gloss": "kjo do të thotë"
+      "gloss": "⟨ai⟩"
     },
     {
       "surface": "חבל",
-      "gloss": "të marrësh peng"
+      "gloss": "po merr peng"
     }
   ],
-  "timestamp": "2026-09-27T14:49:52.137799438Z",
+  "timestamp": "2026-09-27T19:01:40.122846929Z",
   "model": "glm-5.3"
 }

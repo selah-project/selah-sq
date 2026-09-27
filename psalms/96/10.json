@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 96,
-  "translation": "Thuajini midis kombeve: «Jahve mbretëron!» Po, ⟨token> bota është vendosur, nuk do të lëkundet; ai do të gjykojë popujt me drejtësi.",
+  "translation": "Thuajini midis kombeve: Jahve mbretëron! Po, ⟨ Toka ⟩ e banuar qëndron e ndërtuar, nuk do të lëkundet fare; Ai do të gjykojë popujt me drejtësi.",
   "tokens": [
     {
       "surface": "אמרו",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "תכון",
-      "gloss": "është vendosur"
+      "gloss": "qëndron e ndërtuar"
     },
     {
       "surface": "תבל",
-      "gloss": "⟨token> bota"
+      "gloss": "⟨Toka⟩ e banuar"
     },
     {
       "surface": "בל",
-      "gloss": "nuk do të"
+      "gloss": "fare"
     },
     {
       "surface": "תמוט",
-      "gloss": "lëkundet"
+      "gloss": "do të lëkundet"
     },
     {
       "surface": "ידין",
@@ -56,6 +56,6 @@
       "gloss": "me drejtësi"
     }
   ],
-  "timestamp": "2026-09-27T17:10:25.416160117Z",
+  "timestamp": "2026-09-27T19:09:04.548231130Z",
   "model": "glm-5.3"
 }

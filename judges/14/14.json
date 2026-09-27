@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe u tha atyre: Nga ngrënësi doli ushqim, dhe nga i forti doli ëmbëlsi. Dhe nuk munden të tregonin ⟨את⟩ gjëegjëzën për tri ditë.",
+  "translation": "Dhe u tha atyre: Nga ⟨ai që ha⟩ doli ushqim, dhe nga i forti doli ëmbëlsi; dhe nuk mundën ta shpjegonin ⟨את⟩ enigmën për tri ditë.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מהאכל",
-      "gloss": "nga ngrënësi"
+      "gloss": "nga ⟨ai që ha⟩"
     },
     {
       "surface": "יצא",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "יכלו",
-      "gloss": "munden"
+      "gloss": "mundën"
     },
     {
       "surface": "להגיד",
-      "gloss": "të tregonin"
+      "gloss": "ta shpjegonin"
     },
     {
       "surface": "החידה",
-      "gloss": "gjëegjëzën"
+      "gloss": "enigmën"
     },
     {
       "surface": "שלשת",
@@ -64,6 +64,6 @@
       "gloss": "ditë"
     }
   ],
-  "timestamp": "2026-09-27T15:07:51.571254317Z",
+  "timestamp": "2026-09-27T19:06:20.236284847Z",
   "model": "glm-5.3"
 }

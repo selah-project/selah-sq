@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Dhe Davidi rrinte ulur mes ⟨את⟩ dy dyerve, dhe roja shkoi në çatinë e portës, mbi mur, dhe i ngriti ⟨את⟩ sytë e tij dhe pa, dhe ja, një njeri që vraponte vetëm.",
+  "translation": "Dhe Davidi rrinte ulur mes ⟨dy⟩ dyerve, dhe roja shkoi në çatinë mbi portë, te muri, dhe ngriti ⟨את⟩ sytë e tij dhe pa, dhe ja, një njeri vraponte vetëm.",
   "tokens": [
     {
       "surface": "ודוד",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "השער",
-      "gloss": "e portës"
+      "gloss": "mbi portë"
     },
     {
       "surface": "אל",
-      "gloss": "mbi"
+      "gloss": "te"
     },
     {
       "surface": "החומה",
-      "gloss": "murit"
+      "gloss": "muri"
     },
     {
       "surface": "וישא",
-      "gloss": "dhe i ngriti"
+      "gloss": "dhe ngriti"
     },
     {
       "surface": "את",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "רץ",
-      "gloss": "që vraponte"
+      "gloss": "vraponte"
     },
     {
       "surface": "לבדו",
       "gloss": "vetëm"
     }
   ],
-  "timestamp": "2026-09-27T15:26:57.255274654Z",
+  "timestamp": "2026-09-27T19:00:19.867194577Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Nëse fshihet një njeri në vendet e fshehta dhe unë të mos e shoh atë?, fjalë e Jahvesë. A nuk i mbush ⟨את⟩ qiejt dhe ⟨את⟩ token, unë?, fjalë e Jahvesë.",
+  "translation": "Nëse fshihet ⟨ai⟩ një njeri në vende të fshehta e unë të mos e shoh? — fjalë e Jahvesë. A nuk i mbush ⟨את⟩ qiejt dhe ⟨את⟩ tokën unë? — fjalë e Jahvesë.",
   "tokens": [
     {
       "surface": "אם",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "במסתרים",
-      "gloss": "në vendet e fshehta"
+      "gloss": "në vende të fshehta"
     },
     {
       "surface": "ואני",
-      "gloss": "dhe unë"
+      "gloss": "e unë"
     },
     {
       "surface": "לא",
-      "gloss": "të mos"
+      "gloss": "jo \/ të mos"
     },
     {
       "surface": "אראנו",
-      "gloss": "e shoh atë"
+      "gloss": "e shoh"
     },
     {
       "surface": "נאם",
-      "gloss": "fjalë"
+      "gloss": "fjalë (orakull)"
     },
     {
       "surface": "יהוה",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qiejt"
+      "marks": "qiejt (השמים)"
     },
     {
       "surface": "השמים",
@@ -59,11 +59,11 @@
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "token"
+      "marks": "tokën (הארץ)"
     },
     {
       "surface": "הארץ",
-      "gloss": "token"
+      "gloss": "tokën"
     },
     {
       "surface": "אני",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "fjalë"
+      "gloss": "fjalë (orakull)"
     },
     {
       "surface": "יהוה",
       "gloss": "e Jahvesë"
     }
   ],
-  "timestamp": "2026-09-27T16:14:30.709910892Z",
+  "timestamp": "2026-09-27T19:04:48.945227987Z",
   "model": "glm-5.3"
 }

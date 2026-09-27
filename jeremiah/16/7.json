@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Dhe nuk do t'u ndahet bukë ⟨את⟩ atyre që janë në zi për t'i ngushëlluar për të vdekurin, dhe nuk do t'u jepet ⟨את⟩ tyre të pinë kupën e ngushëllimit për të atin e tij dhe për të ëmën e tij.",
+  "translation": "Dhe nuk do t'u ndajnë atyre bukë në zi, për t'i ngushëlluar për ⟨të⟩ vdekurin, dhe nuk do t'u japin atyre ⟨את⟩ kupën e ngushëllimit për të atin e për të ëmën.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יפרסו",
-      "gloss": "do t'u ndahet"
+      "gloss": "do të ndajnë (bukë)"
     },
     {
       "surface": "להם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "që janë në zi"
+      "gloss": "për"
     },
     {
       "surface": "אבל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לנחמו",
-      "gloss": "për t'i ngushëlluar"
+      "gloss": "për ta ngushëlluar"
     },
     {
       "surface": "על",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ישקו",
-      "gloss": "do t'u jepet të pinë"
+      "gloss": "do t'u japin të pinë"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "tyre"
+      "marks": "atyre (kupën)"
     },
     {
       "surface": "כוס",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "תנחומים",
-      "gloss": "e ngushëllimit"
+      "gloss": "të ngushëllimit"
     },
     {
       "surface": "על",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "të atin e tij"
+      "gloss": "të atin"
     },
     {
       "surface": "ועל",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "אמו",
-      "gloss": "të ëmën e tij"
+      "gloss": "të ëmën"
     }
   ],
-  "timestamp": "2026-09-27T16:11:47.550652488Z",
+  "timestamp": "2026-09-27T19:05:07.129126929Z",
   "model": "glm-5.3"
 }

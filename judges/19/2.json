@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 19,
-  "translation": "Dhe planëroikundër tij пленгешеja e tij — concubine — dhe u largua nga ai ⟨מאתו⟩ në shtëpinë e babait të saj, në Bet-Lehemin e Judës; dhe qëndroi aty ditë — katër muaj.",
+  "translation": "Dashnorja e tij i bëri shkelje besnikërie kundër tij dhe u largua ⟨את⟩ prej tij në shtëpinë e babait të saj, në Beit-Lechem të Judës, dhe qëndroi atje ditë — katër muaj.",
   "tokens": [
     {
-      "surface": "ותזנה",
-      "gloss": "Dhe planëroi"
+      "surface": "ויתזנה",
+      "gloss": "i bëri shkelje besnikërie"
     },
     {
       "surface": "עליו",
@@ -17,28 +17,16 @@
     },
     {
       "surface": "פילגשו",
-      "gloss": "плегешeja e tij — concubine"
+      "gloss": "dashnorja e tij"
     },
     {
-      "surface": "ותלך",
+      "surface": "ויתלך",
       "gloss": "dhe u largua"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩",
-      "marks": "nga ai"
-    },
-    {
-      "surface": "אל",
-      "gloss": "drejt"
-    },
-    {
-      "surface": "בית",
-      "gloss": "shtëpisë"
-    },
-    {
-      "surface": "אביה",
-      "gloss": "të babait të saj"
+      "gloss": "⟨את⟩ prej tij",
+      "marks": "prej tij — largimi nga bashkëshorti"
     },
     {
       "surface": "אל",
@@ -46,23 +34,35 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-Lehemin"
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "babait të saj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
     },
     {
       "surface": "לחם",
-      "gloss": "të Judës"
+      "gloss": "Lechem"
     },
     {
       "surface": "יהודה",
-      "gloss": "—"
+      "gloss": "të Judës"
     },
     {
-      "surface": "ותהי",
+      "surface": "ויתהי",
       "gloss": "dhe qëndroi"
     },
     {
       "surface": "שם",
-      "gloss": "aty"
+      "gloss": "atje"
     },
     {
       "surface": "ימים",
@@ -77,6 +77,6 @@
       "gloss": "muaj"
     }
   ],
-  "timestamp": "2026-09-27T18:23:20.767845045Z",
+  "timestamp": "2026-09-27T19:06:46.339716465Z",
   "model": "glm-5.3"
 }

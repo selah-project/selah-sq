@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "sq",
   "chapter": 38,
-  "translation": "Kush përgatit korbit ⟨את⟩ gjahun e tij, kur i vegjlit e tij bërtasin drejt El-it, enden pa ushqim?",
+  "translation": "Kush i përgatiton korbit të ushqimit? Kur të vegjlit e tij i bërtasin El-it, ata enden pa ushqim.",
   "tokens": [
     {
       "surface": "מי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לערב",
-      "gloss": "për korbin"
+      "gloss": "korb"
     },
     {
       "surface": "צידו",
-      "gloss": "gjahu i tij"
+      "gloss": "gjuetisë së tij (të ushqimit)"
     },
     {
       "surface": "כי",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ילדו",
-      "gloss": "i vegjlit e tij"
+      "gloss": "të vegjlit e tij"
     },
     {
       "surface": "אל",
-      "gloss": "drejt"
+      "gloss": "te"
     },
     {
       "surface": "אל",
-      "gloss": "El-it"
+      "gloss": "El"
     },
     {
       "surface": "ישועו",
-      "gloss": "bërtasin"
+      "gloss": "i bërtasin"
     },
     {
       "surface": "יתעו",
@@ -56,6 +56,6 @@
       "gloss": "ushqim"
     }
   ],
-  "timestamp": "2026-09-27T17:35:54.867853420Z",
+  "timestamp": "2026-09-27T19:06:02.823792270Z",
   "model": "glm-5.3"
 }

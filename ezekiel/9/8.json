@@ -5,42 +5,103 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Dhe ndodhi, ndërsa goditnin dhe unë mbetasha i vetëm, që rashë përmbi fytyrën time dhe bërtita dhe thashë: Ah, Adonai Jahve, a ke për të shkatërruar ⟨את⟩ gjithë mbetjen e Izraelit, derisa derdh ⟨את⟩ zemërimin tënd mbi Jeruzalem?",
+  "translation": "Dhe ndodhi që, ndërsa ata goditnin dhe unë mbeta, rashë përmbys mbi fytyrën time, bërtita dhe thashë: Ah, Adonai Jahve, a po shkatërron ti ⟨את⟩ gjithë mbetjen e Izraelit, duke derdhur ti ⟨את⟩ tërbimin tënd mbi Jeruzalemin?",
   "tokens": [
     {
-      "surface": "ומלאו",
-      "gloss": "dhe mbushni"
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi që"
+    },
+    {
+      "surface": "כהכותם",
+      "gloss": "ndërsa ata goditnin"
+    },
+    {
+      "surface": "ונאשאר",
+      "gloss": "dhe unë mbeta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "rashë përmbys"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "bërtita"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "a po shkatërron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oborret"
+      "marks": "gjithë mbetjen e Izraelit"
     },
     {
-      "surface": "החצרות",
-      "gloss": "oborret"
+      "surface": "כל",
+      "gloss": "gjithë"
     },
     {
-      "surface": "חללים",
-      "gloss": "me të vrarë"
+      "surface": "שארית",
+      "gloss": "mbetjen"
     },
     {
-      "surface": "צאו",
-      "gloss": "dilni"
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
     },
     {
-      "surface": "ויצאו",
-      "gloss": "dhe dolën"
+      "surface": "בשפכך",
+      "gloss": "duke derdhur ti"
     },
     {
-      "surface": "והכו",
-      "gloss": "dhe goditën"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërbimin tënd"
     },
     {
-      "surface": "בעיר",
-      "gloss": "në qytet"
+      "surface": "חמתך",
+      "gloss": "tërbimin tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemin"
     }
   ],
-  "timestamp": "2026-09-27T16:28:55.432531286Z",
+  "timestamp": "2026-09-27T19:03:10.588892812Z",
   "model": "glm-5.3"
 }

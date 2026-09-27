@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Sepse kushdo ha yndyrë nga kafsha nga e cila sillet ⟨⟨את⟩⟩-flijimi me zjarr për Jahven, do të pritet ajo shpirtja që e ha nga mesi i popullit të vet.",
+  "translation": "Sepse kushdo që ha yndyrën e kafshës nga e cila sillet flijim zjarri për Jahve, edhe shpirti që e hanë ⟨את⟩ do të pritet nga populli i tij.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אכל",
-      "gloss": "ha"
+      "gloss": "që ha"
     },
     {
       "surface": "חלב",
-      "gloss": "yndyrë"
+      "gloss": "yndyrën"
     },
     {
       "surface": "מן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "kafsha"
+      "gloss": "e kafshës"
     },
     {
       "surface": "אשר",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ממנה",
-      "gloss": "nga ajo"
+      "gloss": "nga e"
     },
     {
       "surface": "אשה",
-      "gloss": "flijim me zjarr"
+      "gloss": "flijim zjarri"
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahven"
+      "gloss": "për Jahve"
     },
     {
       "surface": "ונכרתה",
@@ -57,17 +57,18 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "ajo shpirtja"
+      "gloss": "shpirti"
     },
     {
       "surface": "האכלת",
-      "gloss": "që e ha"
+      "gloss": "që e hanë ⟨את⟩",
+      "marks": "shpirti që ha yndyrën"
     },
     {
       "surface": "מעמיה",
-      "gloss": "nga mesi i popullit të vet"
+      "gloss": "nga populli i tij"
     }
   ],
-  "timestamp": "2026-09-27T14:19:41.182472140Z",
+  "timestamp": "2026-09-27T19:07:19.407187984Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Dhe Balaku i tha: «Të lutem, eja me ⟨את⟩ mua në një vend tjetër, nga ku do t'i shohësh ⟨את⟩ ata; vetëm skajin e tyre do ta shohësh, dhe gjithësinë nuk do ta shohësh — dhe mallko ma prej andej.»",
+  "translation": "Dhe Balaku i tha atij: Eja, të lutem, me ⟨את⟩ mua në një vend tjetër, nga ku do t'i shohësh ⟨את⟩ ata; skajin e tyre do ta shohësh, dhe gjithësinë nuk do ta shohësh; dhe mallkomi ⟨את⟩ ata për mua prej andej.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dhe i tha"
+      "gloss": "Dhe…tha"
     },
     {
       "surface": "אליו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "shko"
+      "gloss": "Eja"
     },
     {
       "surface": "נא",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "me ⟨את⟩"
+      "gloss": "me ⟨את⟩ mua",
+      "marks": "një vend tjetër"
     },
     {
       "surface": "אל",
@@ -57,7 +58,7 @@
     },
     {
       "surface": "אפס",
-      "gloss": "vetëm"
+      "gloss": "vetëm (skaji)"
     },
     {
       "surface": "קצהו",
@@ -69,11 +70,11 @@
     },
     {
       "surface": "וכלו",
-      "gloss": "dhe gjithësinë"
+      "gloss": "dhe gjithësinë e tyre"
     },
     {
       "surface": "לא",
-      "gloss": "jo"
+      "gloss": "nuk"
     },
     {
       "surface": "תראה",
@@ -81,17 +82,17 @@
     },
     {
       "surface": "וקבנו",
-      "gloss": "dhe mallko"
+      "gloss": "dhe mallkoji ata"
     },
     {
       "surface": "לי",
-      "gloss": "ma"
+      "gloss": "për mua"
     },
     {
       "surface": "משם",
       "gloss": "prej andej"
     }
   ],
-  "timestamp": "2026-09-27T14:37:30.083213007Z",
+  "timestamp": "2026-09-27T19:07:25.678455635Z",
   "model": "glm-5.3"
 }

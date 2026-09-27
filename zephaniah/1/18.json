@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Edhe argjendi i tyre, edhe ari i tyre nuk do të mund t'i shpëtojë në ditën e indinjatës së Jahvesë; dhe në zjarrin e xhelozisë së tij do të përpihet e gjithë tokena; sepse një fund të shpejtë do t'u bëjë ⟨את⟩ të gjithë banorëve të tokenës.",
+  "translation": "Edhe argjendi i tyre, edhe ari i tyre nuk do të mund t'i shpëtojë ata në ditën e zemërimit të Jahvesë; dhe në zjarrin e xhelozisë së tij do të hahet e gjithë ⟨e⟩ toka, sepse një fund, po, një fund i shpejtë do të bëjë ⟨את⟩ me të gjithë banorët e tokës.",
   "tokens": [
     {
       "surface": "גם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "nuk"
+      "gloss": "jo"
     },
     {
       "surface": "יוכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "להצילם",
-      "gloss": "t'i shpëtojë"
+      "gloss": "t'i shpëtojë ata"
     },
     {
       "surface": "ביום",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "עברת",
-      "gloss": "e indinjatës"
+      "gloss": "e zemërimit"
     },
     {
       "surface": "יהוה",
-      "gloss": "e Jahvesë"
+      "gloss": "të Jahvesë"
     },
     {
       "surface": "ובאש",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "do të përpihet"
+      "gloss": "do të hahet"
     },
     {
       "surface": "כל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tokena"
+      "gloss": "toka"
     },
     {
       "surface": "כי",
@@ -77,20 +77,20 @@
     },
     {
       "surface": "אך",
-      "gloss": "të shpejtë"
+      "gloss": "po, me të vërtetë"
     },
     {
       "surface": "נבהלה",
-      "gloss": "të ngutshëm"
+      "gloss": "i shpejtë \/ i furishëm"
     },
     {
       "surface": "יעשה",
-      "gloss": "do t'u bëjë"
+      "gloss": "do të bëjë"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "të gjithë banorëve të tokenës"
+      "marks": "me të gjithë banorët e tokës"
     },
     {
       "surface": "כל",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "banorëve"
+      "gloss": "banorët"
     },
     {
       "surface": "הארץ",
-      "gloss": "të tokenës"
+      "gloss": "të tokës"
     }
   ],
-  "timestamp": "2026-09-27T16:50:55.819552565Z",
+  "timestamp": "2026-09-27T19:09:36.442666294Z",
   "model": "glm-5.3"
 }

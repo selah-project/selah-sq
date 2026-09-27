@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 39,
-  "translation": "⟨את⟩ menoranë ⟨e⟩ pastër, ⟨את⟩ lampat e saj, lampat e rreshtimit, ו⟨את⟩ të gjitha enët e saj, ו⟨את⟩ vajin e ndriçimit;",
+  "translation": "⟨את⟩ menoranë ⟨e⟩ pastër, ⟨את⟩ llambat e saj, llambat e renditura, dhe ⟨את⟩ të gjitha veglat e saj, dhe ⟨את⟩ vajin e ndriçimit",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "menoranë e pastër"
+      "marks": "menoranë"
     },
     {
       "surface": "המנרה",
@@ -23,24 +23,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lampat e saj"
+      "marks": "llambat e saj"
     },
     {
       "surface": "נרתיה",
-      "gloss": "lampat e saj"
+      "gloss": "llambat e saj"
     },
     {
       "surface": "נרת",
-      "gloss": "lampat"
+      "gloss": "llambat"
     },
     {
       "surface": "המערכה",
-      "gloss": "të rreshtimit"
+      "gloss": "të renditura"
     },
     {
       "surface": "ואת",
-      "gloss": "וגjithashtu ⟨את⟩",
-      "marks": "të gjitha enët e saj"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat e saj"
     },
     {
       "surface": "כל",
@@ -48,12 +48,12 @@
     },
     {
       "surface": "כליה",
-      "gloss": "enët e saj"
+      "gloss": "veglat e saj"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "vajin e ndriçimit"
+      "marks": "vajin"
     },
     {
       "surface": "שמן",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "המאור",
-      "gloss": "të ndriçimit"
+      "gloss": "e ndriçimit"
     }
   ],
-  "timestamp": "2026-09-27T14:17:49.800835276Z",
+  "timestamp": "2026-09-27T19:02:10.611158254Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "job",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Vallë, ti ⟨את⟩ nuk e ke rrethuar me gardh atë dhe shtëpinë e tij dhe gjithçka që ka, nga të gjitha anët? Veprën e duarve të tij e ke bekuar, dhe bagëtia e tij është shpërthyer në ⟨të⟩ tokë.",
+  "translation": "A nuk e ke rrethuar ti ⟨את⟩ përreth, dhe përreth shtëpisë së tij, dhe përreth gjithçkaje që ka nga çdo anë? Punën e duarve të tij e ke bekuar, dhe bagëtia e tij ka përtërirë në vend.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "vallë nuk"
+      "gloss": "A nuk"
     },
     {
       "surface": "את",
       "gloss": "ti",
-      "marks": "שכת (e ke rrethuar)"
+      "marks": "⟨את⟩ — përemri i vetës së dytë 'ti', jo shenja e kundrinorit; bie mbi foljen 'i ke rrethuar'"
     },
     {
       "surface": "שכת",
-      "gloss": "e ke rrethuar me gardh"
+      "gloss": "i ke rrethuar"
     },
     {
       "surface": "בעדו",
-      "gloss": "atë"
+      "gloss": "përreth atij (atë)"
     },
     {
       "surface": "ובעד",
-      "gloss": "dhe rreth"
+      "gloss": "dhe përreth"
     },
     {
       "surface": "ביתו",
-      "gloss": "shtëpinë e tij"
+      "gloss": "shtëpisë së tij"
     },
     {
       "surface": "ובעד",
-      "gloss": "dhe rreth"
+      "gloss": "dhe përreth"
     },
     {
       "surface": "כל",
-      "gloss": "gjithçka"
+      "gloss": "gjithçkaje"
     },
     {
       "surface": "אשר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "ka"
+      "gloss": "ka (për të)"
     },
     {
       "surface": "מסביב",
-      "gloss": "nga të gjitha anët"
+      "gloss": "nga çdo anë"
     },
     {
       "surface": "מעשה",
-      "gloss": "veprën"
+      "gloss": "punën"
     },
     {
       "surface": "ידיו",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "është shpërthyer"
+      "gloss": "ka përtërirë (është shpërthyer)"
     },
     {
       "surface": "בארץ",
-      "gloss": "në tokë"
+      "gloss": "në vend"
     }
   ],
-  "timestamp": "2026-09-27T17:27:04.902168481Z",
+  "timestamp": "2026-09-27T19:05:33.668861974Z",
   "model": "glm-5.3"
 }

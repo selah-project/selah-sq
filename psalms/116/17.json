@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 116,
-  "translation": "Ty do të pres ⟨⟨את⟩⟩ flijimin e falënderimit, dhe në emrin e Jahves do të thërras.",
+  "translation": "Ty do të të flijoj një flijim falënderimi, dhe në emrin e Jahves do të thërras.",
   "tokens": [
     {
       "surface": "לך",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "אזבח",
-      "gloss": "do të pres"
+      "gloss": "do të flijoj"
     },
     {
       "surface": "זבח",
-      "gloss": "flijimin"
+      "gloss": "flijim"
     },
     {
       "surface": "תודה",
-      "gloss": "e falënderimit"
+      "gloss": "falënderimi"
     },
     {
       "surface": "ובשם",
-      "gloss": "dhe në emrin"
+      "gloss": "dhe në emrin e"
     },
     {
       "surface": "יהוה",
-      "gloss": "e Jahves"
+      "gloss": "Jahves"
     },
     {
       "surface": "אקרא",
       "gloss": "do të thërras"
     }
   ],
-  "timestamp": "2026-09-27T17:13:51.767306529Z",
+  "timestamp": "2026-09-27T19:08:34.040466037Z",
   "model": "glm-5.3"
 }

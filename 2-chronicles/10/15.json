@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sq",
   "chapter": 10,
-  "translation": "Dhe mbreti nuk i dëgjoi ⟨את⟩ njerëzit, sepse rrethana ishte nga Elohim, që të ngrihej Jahve ⟨את⟩ fjalën e tij që kishte folur nëpërmjet Ahiahut të Shilos drejt Jeroboamit, birit të Nebatit.",
+  "translation": "Dhe mbreti nuk i dëgjoi ⟨⟩ popullin, sepse rrjedha ishte nga Elohim, që Jahve ta përmbushte ⟨את⟩ fjalën e tij që kishte folur nëpërmjet Ahiahut shilonitit ndaj Jeroboamit, birit të Nebatit.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "dhe nuk"
+      "gloss": "Dhe nuk"
     },
     {
       "surface": "שמע",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "drejt"
+      "gloss": "i dëgjoi"
     },
     {
       "surface": "העם",
-      "gloss": "njerëzit"
+      "gloss": "popullin"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נסבה",
-      "gloss": "rrethana"
+      "gloss": "rrjedha"
     },
     {
       "surface": "מעם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "që të"
+      "gloss": "që"
     },
     {
       "surface": "הקים",
-      "gloss": "ngrihej"
+      "gloss": "ta përmbushte"
     },
     {
       "surface": "יהוה",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "אחיהו",
-      "gloss": "Ahiahu"
+      "gloss": "Ahiahut"
     },
     {
       "surface": "השלוני",
-      "gloss": "të Shilos"
+      "gloss": "shilonitit"
     },
     {
       "surface": "אל",
-      "gloss": "drejt"
+      "gloss": "ndaj"
     },
     {
       "surface": "ירבעם",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "נבט",
-      "gloss": "të Nebatit"
+      "gloss": "Nebatit"
     }
   ],
-  "timestamp": "2026-09-27T18:10:23.244063342Z",
+  "timestamp": "2026-09-27T18:58:30.942993008Z",
   "model": "glm-5.3"
 }

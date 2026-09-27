@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 27,
-  "translation": "I mallkuar ⟨është⟩ ai që shkon me ⟨⟨cdo⟩ kafshë, dhe do të thotë gjithë populli: Amen.",
+  "translation": "I mallkuar që fle ⟨me⟩ çdo kafshë; dhe të gjithë populli do të thotë: Amen.",
   "tokens": [
     {
       "surface": "ארור",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "שכב",
-      "gloss": "që shkon me"
+      "gloss": "fle"
     },
     {
       "surface": "עם",
-      "gloss": "me"
+      "gloss": "⟨me⟩"
     },
     {
       "surface": "כל",
-      "gloss": "cdo"
+      "gloss": "çdo"
     },
     {
       "surface": "בהמה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "gjithë"
+      "gloss": "të gjithë"
     },
     {
       "surface": "העם",
@@ -44,6 +44,6 @@
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-09-27T14:50:58.758704899Z",
+  "timestamp": "2026-09-27T19:01:38.163732080Z",
   "model": "glm-5.3"
 }

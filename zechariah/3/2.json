@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Dhe tha Jahve drejt Satanit: «Të qortoftë Jahve, o Satan, po, të qortoftë Jahve, ai që zgjodhi ⟨את⟩ Jeruzalemin! A nuk është ky një drur i shkulur nga zjarri?»",
+  "translation": "Dhe Jahve i tha Satanit: Të qortoftë Jahve, o Satan, dhe të qortoftë Jahve, ⟨ai⟩ që zgjodhi Jerusalemin! A nuk është ky një drith i shkulur nga zjarri?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dhe tha"
+      "gloss": "Dhe … i tha"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "drejt"
+      "gloss": "për"
     },
     {
       "surface": "השטן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ויגער",
-      "gloss": "po, të qortoftë"
+      "gloss": "dhe të qortoftë"
     },
     {
       "surface": "יהוה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הבחר",
-      "gloss": "ai që zgjodhi"
+      "gloss": "⟨ai⟩ që zgjodhi"
     },
     {
       "surface": "בירושלם",
-      "gloss": "Jeruzalemin"
+      "gloss": "Jerusalemin"
     },
     {
       "surface": "הלוא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אוד",
-      "gloss": "një drur"
+      "gloss": "një drith"
     },
     {
       "surface": "מצל",
@@ -80,6 +80,6 @@
       "gloss": "nga zjarri"
     }
   ],
-  "timestamp": "2026-09-27T16:53:02.888402569Z",
+  "timestamp": "2026-09-27T19:09:26.753209544Z",
   "model": "glm-5.3"
 }

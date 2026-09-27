@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 10,
-  "translation": "A lavdërohet për vete sëpata mbi atë që pret me të? A madhësohet sharrja mbi atë që e tund — sikur shkopi të valëviste ⟨את⟩ ngritësit e tij, sikur çingeli të ngrinte lart ⟨את⟩, si të mos ishte drur!",
+  "translation": "A lavdërohet sëpja kundër atij që qëllon me të? A madhësohet shpila kundër atij që e valëvit? Sikur shkopi të tundte ⟨את⟩ atë që e ngre, sikur bastuni të ngrinte atë që s'është dru!",
   "tokens": [
     {
       "surface": "היתפאר",
-      "gloss": "a lavdërohet për vete"
+      "gloss": "a lavdërohet"
     },
     {
       "surface": "הגרזן",
-      "gloss": "sëpata"
+      "gloss": "sëpja"
     },
     {
       "surface": "על",
-      "gloss": "mbi"
+      "gloss": "kundër"
     },
     {
       "surface": "החצב",
-      "gloss": "atë që pret"
+      "gloss": "ai që qëllon"
     },
     {
       "surface": "בו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "המשור",
-      "gloss": "sharrja"
+      "gloss": "shpila"
     },
     {
       "surface": "על",
-      "gloss": "mbi"
+      "gloss": "kundër"
     },
     {
       "surface": "מניפו",
-      "gloss": "atë që e tund"
+      "gloss": "ai që e valëvit"
     },
     {
       "surface": "כהניף",
-      "gloss": "si të valëviste"
+      "gloss": "si të tundte"
     },
     {
       "surface": "שבט",
@@ -58,19 +58,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ngritësit e tij"
+      "marks": "atë që e ngre (מרימיו)"
     },
     {
       "surface": "מרימיו",
-      "gloss": "ngritësit e tij"
+      "gloss": "atë që e ngre"
     },
     {
       "surface": "כהרים",
-      "gloss": "si të ngrinte lart"
+      "gloss": "si të ngrinte"
     },
     {
       "surface": "מטה",
-      "gloss": "çingeli"
+      "gloss": "bastuni"
     },
     {
       "surface": "לא",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "עץ",
-      "gloss": "drur"
+      "gloss": "dru"
     }
   ],
-  "timestamp": "2026-09-27T15:52:51.030139500Z",
+  "timestamp": "2026-09-27T19:09:58.612592269Z",
   "model": "glm-5.3"
 }

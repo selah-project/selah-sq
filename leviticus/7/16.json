@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 7,
-  "translation": "Dhe nëse flijimi i ofertës së tij është një löjdije (gjë e premtuar) ose një ofertë vullnetare, në ditën kur sjell afër ⟨את⟩ flijimin e tij do të hahet; dhe në mëngjesin e nesërm, dhe pjesa e mbetur nga ai do të hahet.",
+  "translation": "Dhe nëse ⟨Është⟩ një premtim ose një flijim vullnetar, flijimi i flijimit të tij — në ditën që ai e sjell ⟨את⟩ flijimin e tij, do të hahet; dhe nesër ⟨edhe⟩ ajo që ka mbetur nga ai do të hahet.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "dhe nëse"
+      "gloss": "Dhe nëse"
     },
     {
       "surface": "נדר",
-      "gloss": "gjë e premtuar"
+      "gloss": "një premtim"
     },
     {
       "surface": "או",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "ofertë vullnetare"
+      "gloss": "një flijim vullnetar"
     },
     {
       "surface": "זבח",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "i ofertës së tij"
+      "gloss": "i flijimit të tij"
     },
     {
       "surface": "ביום",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הקריבו",
-      "gloss": "kur sjell afër"
+      "gloss": "ai e sjell"
     },
     {
       "surface": "את",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "וממחרת",
-      "gloss": "dhe në mëngjesin e nesërm"
+      "gloss": "dhe nesër"
     },
     {
       "surface": "והנותר",
-      "gloss": "dhe pjesa e mbetur"
+      "gloss": "edhe ajo që ka mbetur"
     },
     {
       "surface": "ממנו",
@@ -69,6 +69,6 @@
       "gloss": "do të hahet"
     }
   ],
-  "timestamp": "2026-09-27T14:19:26.566228616Z",
+  "timestamp": "2026-09-27T19:07:18.616462348Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Jahve do të hyjë në gjyq me pleqtë e popullit të tij dhe me princat e tij; dhe ju keni djegur ⟨את⟩ vreshtin — plaçka e të varfrit është në shtëpitë tuaja.",
+  "translation": "Jahve hyn në gjyq me pleqtë e popullit të tij dhe me parinë e tij: «⟨ju⟩ keni përbirë vreshtin; plaçka e të varfrit është në shtëpitë tuaja.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "do të hyjë"
+      "gloss": "hyn"
     },
     {
       "surface": "עם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ושריו",
-      "gloss": "dhe princat e tij"
+      "gloss": "dhe me parinë e tij"
     },
     {
       "surface": "ואתם",
-      "gloss": "dhe ju"
+      "gloss": "⟨ju⟩"
     },
     {
       "surface": "בערתם",
-      "gloss": "keni djegur"
+      "gloss": "keni përbirë"
     },
     {
       "surface": "הכרם",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "גזלת",
-      "gloss": "plaçka e"
+      "gloss": "plaçka"
     },
     {
       "surface": "העני",
-      "gloss": "të varfrit"
+      "gloss": "e të varfrit"
     },
     {
       "surface": "בבתיכם",
       "gloss": "në shtëpitë tuaja"
     }
   ],
-  "timestamp": "2026-09-27T15:50:31.761419045Z",
+  "timestamp": "2026-09-27T19:04:06.604977820Z",
   "model": "glm-5.3"
 }

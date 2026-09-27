@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 7,
-  "translation": "dhe t'i japë Jahve, Elohim i yt, në dorën tënde, dhe t'i rriş — shfarosje do t'i shfarosësh ⟨את⟩ ata; mos u bëj besëlidhje dhe mos u trego mëshirë.",
+  "translation": "dhe Jahve, Elohim i yt, do t'i japë ⟨ato⟩ para teje, dhe ti do t'i biesh — në shfarosje të plotë do t'i shfarosësh ⟨את⟩ ata; nuk do të lidhësh me ta besëlidhje dhe nuk do t'u tregosh meshirë.",
   "tokens": [
     {
       "surface": "ונתנם",
-      "gloss": "dhe t'i japë"
+      "gloss": "dhe do t'i japë ⟨ato⟩"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "përballë teje"
+      "gloss": "para teje"
     },
     {
       "surface": "והכיתם",
-      "gloss": "dhe t'i rrish"
+      "gloss": "dhe do t'i biesh"
     },
     {
       "surface": "החרם",
-      "gloss": "shfarosje"
+      "gloss": "në shfarosje të plotë"
     },
     {
       "surface": "תחרים",
@@ -38,19 +38,19 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ata"
+      "marks": "ata (kombet e përmendura në vargun 7:1)"
     },
     {
       "surface": "לא",
-      "gloss": "mos"
+      "gloss": "nuk"
     },
     {
       "surface": "תכרת",
-      "gloss": "u bëj"
+      "gloss": "do të lidhësh"
     },
     {
       "surface": "להם",
-      "gloss": "atyre"
+      "gloss": "me ta"
     },
     {
       "surface": "ברית",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "dhe mos"
+      "gloss": "dhe nuk"
     },
     {
       "surface": "תחנם",
-      "gloss": "u trego mëshirë"
+      "gloss": "do t'u tregosh meshirë"
     }
   ],
-  "timestamp": "2026-09-27T14:44:06.427025247Z",
+  "timestamp": "2026-09-27T19:01:50.357860049Z",
   "model": "glm-5.3"
 }

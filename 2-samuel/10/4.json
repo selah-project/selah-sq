@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 10,
-  "translation": "Atëherë Hanuni i mori ⟨את⟩ shërbëtorët e Davidit, u rroi ⟨את⟩ gjysmën e mjekrave të tyre, ua preu ⟨את› rrobat e tyre në mes, deri në ijët e tyre, dhe i dërgoi të shkonin.",
+  "translation": "Atëherë Hanuni i mori ⟨את⟩ shërbëtorët e Davidit, i rroi ⟨את⟩ gjysmën e mjekrrave të tyre, ua preu ⟨את⟩ rrobat e tyre në mes, deri në ijët e tyre, dhe i dërgoi ata.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "i mori"
+      "gloss": "Atëherë … mori"
     },
     {
       "surface": "חנון",
@@ -22,28 +22,28 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "shërbëtorët"
+      "gloss": "shërbëtorët e"
     },
     {
       "surface": "דוד",
-      "gloss": "e Davidit"
+      "gloss": "Davidit"
     },
     {
       "surface": "ויגלח",
-      "gloss": "u rroi"
+      "gloss": "i rroi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gjysmën e mjekrave të tyre"
+      "marks": "gjysmën e mjekrrave"
     },
     {
       "surface": "חצי",
-      "gloss": "gjysmën"
+      "gloss": "gjysmën e"
     },
     {
       "surface": "זקנם",
-      "gloss": "e mjekrave të tyre"
+      "gloss": "mjekrrave të tyre"
     },
     {
       "surface": "ויכרת",
@@ -52,11 +52,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rrobat e tyre"
+      "marks": "robat e tyre"
     },
     {
       "surface": "מדויהם",
-      "gloss": "rrobat e tyre"
+      "gloss": "robat e tyre"
     },
     {
       "surface": "בחצי",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "וישלחם",
-      "gloss": "dhe i dërgoi të shkonin"
+      "gloss": "dhe i dërgoi ata"
     }
   ],
-  "timestamp": "2026-09-27T15:23:00.279886320Z",
+  "timestamp": "2026-09-27T19:00:50.383410679Z",
   "model": "glm-5.3"
 }

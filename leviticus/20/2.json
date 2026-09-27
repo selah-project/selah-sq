@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe bijve të Izraelit do t'u thuash: Çdo njeri nga bijtë e Izraelit dhe nga i huaji që banon si i huaj në Izrael, që i jep ⟨את⟩ një nga fëmijët e vet Molekhit, do të dënohet me vdekje; populli i vendit do t'i vërë atë gurë.",
+  "translation": "Dhe bijve të Izraelit do të thuash: çdo njeri nga bijtë e Izraelit dhe nga i huaji që banon si pronë në Izrael, që jep nga pasardhja e tij Molokut, duke vdekur do të vdesë; populli i vendit do ta gjejë me gurë.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "dhe për"
+      "gloss": "dhe bijve"
     },
     {
       "surface": "בני",
-      "gloss": "bijtë"
+      "gloss": "të Izraelit (bijve)"
     },
     {
       "surface": "ישראל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "(dublim)"
+      "gloss": "(çdo) njeri"
     },
     {
       "surface": "מבני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הגר",
-      "gloss": "që banon si i huaj"
+      "gloss": "që banon si prono"
     },
     {
       "surface": "בישראל",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "מזרעו",
-      "gloss": "nga fëmijët e vet"
+      "gloss": "nga pasardhja e tij"
     },
     {
       "surface": "למלך",
-      "gloss": "Molekhit"
+      "gloss": "Molokut"
     },
     {
       "surface": "מות",
-      "gloss": "me vdekje"
+      "gloss": "duke vdekur"
     },
     {
       "surface": "יומת",
-      "gloss": "do të dënohet"
+      "gloss": "do të vdesë"
     },
     {
       "surface": "עם",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "ירגמהו",
-      "gloss": "do t'i vërë gurë"
+      "gloss": "do ta gjejë me gurë"
     },
     {
       "surface": "באבן",
       "gloss": "me gurë"
     }
   ],
-  "timestamp": "2026-09-27T14:25:40.547888894Z",
+  "timestamp": "2026-09-27T19:07:03.722415791Z",
   "model": "glm-5.3"
 }

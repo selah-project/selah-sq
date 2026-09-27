@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe do të merrni ⟨את⟩ Arkën e Jahvesë dhe do ta vini ⟨את⟩ atë mbi qerre, dhe ⟨את]] objektet e arit që ia ktheni atij si fajësim do t'i vendosni në kutinë në anën e saj, dhe do ta nisni ⟨את⟩ atë dhe ajo do të shkojë.",
+  "translation": "Dhe do të merrni ⟨את⟩ arken e Jahvesë dhe do ta vendosni ⟨את⟩ mbi qerren; dhe ⟨את⟩ enët e arta që i ktheni atij si shpagim, do t'i vendosni në një arkëz në anën e saj; dhe do ta lëshoni ⟨את⟩ dhe ajo do të shkojë.",
   "tokens": [
     {
       "surface": "ולקחתם",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Arkën e Jahvesë"
+      "marks": "arken e Jahvesë"
     },
     {
       "surface": "ארון",
-      "gloss": "Arkën"
+      "gloss": "arken"
     },
     {
       "surface": "יהוה",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "dhe do ta vini"
+      "gloss": "dhe do ta vendosni"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë"
+      "marks": "mbi qerren"
     },
     {
       "surface": "אל",
@@ -39,20 +39,20 @@
     },
     {
       "surface": "העגלה",
-      "gloss": "qerre"
+      "gloss": "qerren"
     },
     {
       "surface": "ואת",
       "gloss": "dhe ⟨את⟩",
-      "marks": "objektet e arit"
+      "marks": "enët e arta"
     },
     {
       "surface": "כלי",
-      "gloss": "objektet e"
+      "gloss": "enët"
     },
     {
       "surface": "הזהב",
-      "gloss": "arit"
+      "gloss": "e arta"
     },
     {
       "surface": "אשר",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "השבתם",
-      "gloss": "ia ktheni"
+      "gloss": "i ktheni"
     },
     {
       "surface": "לו",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "אשם",
-      "gloss": "si fajësim"
+      "gloss": "si shpagim"
     },
     {
       "surface": "תשימו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "בארגז",
-      "gloss": "në kutinë"
+      "gloss": "në një arkëz"
     },
     {
       "surface": "מצדו",
@@ -84,18 +84,18 @@
     },
     {
       "surface": "ושלחתם",
-      "gloss": "dhe do ta nisni"
+      "gloss": "dhe do ta lëshoni"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë"
+      "marks": "arka (do ta lëshoni arken)"
     },
     {
       "surface": "והלך",
       "gloss": "dhe ajo do të shkojë"
     }
   ],
-  "timestamp": "2026-09-27T15:12:33.994264903Z",
+  "timestamp": "2026-09-27T18:58:41.069388599Z",
   "model": "glm-5.3"
 }

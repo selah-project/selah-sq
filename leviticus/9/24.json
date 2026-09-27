@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Dhe doli zjarr nga prania e Jahvesë dhe përbëri mbi altar ⟨את⟩ olokaustin dhe ⟨את]] yndyrat; dhe e pa të gjithë populli dhe klithën dhe ranë përmbys mbi fytyrat e tyre.",
+  "translation": "Doli zjarr nga prania e Jahvesë dhe përbëri mbi altar flijimin e djegur ⟨את⟩ dhe ⟨את⟩ yndyrat; dhe e pa gjithë populli dhe britmuan dhe ranë përmbys mbi fytyrat e tyre.",
   "tokens": [
     {
       "surface": "ותצא",
@@ -24,9 +24,8 @@
       "gloss": "Jahvesë"
     },
     {
-      "surface": "ויתאכל",
-      "gloss": "",
-      "rationale": ""
+      "surface": "ותאכל",
+      "gloss": "përbëri"
     },
     {
       "surface": "על",
@@ -39,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olokaustin"
+      "marks": "flijimin e djegur"
     },
     {
       "surface": "העלה",
-      "gloss": "olokaustin"
+      "gloss": "flijimin e djegur"
     },
     {
       "surface": "ואת",
@@ -56,11 +55,11 @@
     },
     {
       "surface": "וירא",
-      "gloss": "e pa"
+      "gloss": "dhe e pa"
     },
     {
       "surface": "כל",
-      "gloss": "të gjithë"
+      "gloss": "gjithë"
     },
     {
       "surface": "העם",
@@ -68,7 +67,7 @@
     },
     {
       "surface": "וירנו",
-      "gloss": "klithën"
+      "gloss": "britmuan"
     },
     {
       "surface": "ויפלו",
@@ -83,6 +82,6 @@
       "gloss": "fytyrat e tyre"
     }
   ],
-  "timestamp": "2026-09-27T14:21:02.221243745Z",
+  "timestamp": "2026-09-27T19:07:35.749586945Z",
   "model": "glm-5.3"
 }

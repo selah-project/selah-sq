@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 28,
-  "translation": "Grua do të fejosh, dhe një burrë tjetër do të bijë me ⟨את⟩ të; shtëpi do të ndërtosh dhe nuk do të banosh në të; vresht do të mbjellësh dhe nuk do ta shfrytëzosh atë.",
+  "translation": "Një grua do të fejosh, dhe një burrë tjetër do të flejë me të; një shtëpi do të ndërtosh, dhe nuk do të banosh në të; një vresht do të mbjellësh, dhe nuk do ta shfrytëzosh atë.",
   "tokens": [
     {
       "surface": "אשה",
-      "gloss": "grua"
+      "gloss": "një grua"
     },
     {
       "surface": "תארש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישגלנה",
-      "gloss": "do të bijë me të"
+      "gloss": "do të flejë me të"
     },
     {
       "surface": "בית",
-      "gloss": "shtëpi"
+      "gloss": "një shtëpi"
     },
     {
       "surface": "תבנה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כרם",
-      "gloss": "vresht"
+      "gloss": "një vresht"
     },
     {
       "surface": "תטע",
@@ -64,6 +64,6 @@
       "gloss": "do ta shfrytëzosh atë"
     }
   ],
-  "timestamp": "2026-09-27T14:51:59.002133708Z",
+  "timestamp": "2026-09-27T19:02:02.533291227Z",
   "model": "glm-5.3"
 }

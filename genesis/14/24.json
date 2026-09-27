@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 14,
-  "translation": "përveç vetëm asaj që hëngrën të rinjtë, dhe pjesa e burrave që shkuan ⟨את⟩ ⟨me mu⟩ — Aneri, Eshkoli dhe Mamre — le ta marrin ⟨את⟩ pjesën e tyre.",
+  "translation": "Përveç vetëm asaj që hanë të rinjtë, dhe pjesës së burrave që shkuan ⟨את⟩ me mua — Aner, Eshkol dhe Mamre — ata le të marrin pjesën e tyre.",
   "tokens": [
     {
       "surface": "בלעדי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "asaj që"
+      "gloss": "që"
     },
     {
       "surface": "אכלו",
-      "gloss": "hëngrën"
+      "gloss": "hanë"
     },
     {
       "surface": "הנערים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וחלק",
-      "gloss": "dhe pjesa"
+      "gloss": "dhe pjesës"
     },
     {
       "surface": "האנשים",
@@ -45,15 +45,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨me mu⟩"
+      "gloss": "⟨את⟩ me mua",
+      "marks": "me mua — parafjala e afërsisë H854, jo shënja e kundrinorit"
     },
     {
       "surface": "ענר",
-      "gloss": "Aneri"
+      "gloss": "Aner"
     },
     {
       "surface": "אשכל",
-      "gloss": "Eshkoli"
+      "gloss": "Eshkol"
     },
     {
       "surface": "וממרא",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "יקחו",
-      "gloss": "le ta marrin"
+      "gloss": "të marrin"
     },
     {
       "surface": "חלקם",
       "gloss": "pjesën e tyre"
     }
   ],
-  "timestamp": "2026-09-27T13:50:16.483456658Z",
+  "timestamp": "2026-09-27T19:03:38.471803145Z",
   "model": "glm-5.3"
 }

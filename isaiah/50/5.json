@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 50,
-  "translation": "Adonai Jahve më hapi ⟨⟨את⟩⟩ veshin, dhe unë nuk u binda me forcë, pas nuk u tërhoqa.",
+  "translation": "Adonai Jahve më hapi ⟨të⟩ veshin, dhe unë nuk u bëra i kryeneç, prapa nuk tërhoqa ⟨këmbën⟩.",
   "tokens": [
     {
       "surface": "אדני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "hapi"
+      "gloss": "hui"
     },
     {
       "surface": "לי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מריתי",
-      "gloss": "u rebelua"
+      "gloss": "u bëra i kryeneç"
     },
     {
       "surface": "אחור",
-      "gloss": "pas"
+      "gloss": "prapa"
     },
     {
       "surface": "לא",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "נסוגתי",
-      "gloss": "u tërhoqa"
+      "gloss": "tërhoqa këmbën"
     }
   ],
-  "timestamp": "2026-09-27T18:26:16.586617078Z",
+  "timestamp": "2026-09-27T19:04:48.852384234Z",
   "model": "glm-5.3"
 }

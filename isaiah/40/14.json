@@ -5,16 +5,16 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 40,
-  "translation": "Me ⟨את⟩ cilin u këshillua dhe ai e bëri të kuptonte? Kush e mësoi në rrugën e gjyqit, e mësoi ⟨את⟩ dijen dhe rrugën e kuptimeve ia njohoi?",
+  "translation": "⟨את⟩ këshilloi me kë, dhe kush e bëri ⟨atë⟩ të kuptonte, dhe e mësoi në rrugën e gjykatës, dhe e mësoi atë me dije, dhe rrugën e mendjes ia dha të njohur?",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cilin"
+      "marks": "kë (מי)"
     },
     {
       "surface": "מי",
-      "gloss": "cilin"
+      "gloss": "kë"
     },
     {
       "surface": "נועץ",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וילמדהו",
-      "gloss": "e mësoi"
+      "gloss": "dhe e mësoi"
     },
     {
       "surface": "בארח",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "משפט",
-      "gloss": "e gjyqit"
+      "gloss": "e gjykatës"
     },
     {
       "surface": "וילמדהו",
-      "gloss": "e mësoi"
+      "gloss": "dhe e mësoi"
     },
     {
       "surface": "דעת",
-      "gloss": "dijen"
+      "gloss": "dije"
     },
     {
       "surface": "ודרך",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "תבונות",
-      "gloss": "e kuptimeve"
+      "gloss": "e mendjes"
     },
     {
       "surface": "יודיענו",
-      "gloss": "ia njohoi"
+      "gloss": "ia dha të njohur"
     }
   ],
-  "timestamp": "2026-09-27T15:59:52.783667313Z",
+  "timestamp": "2026-09-27T19:09:57.266047475Z",
   "model": "glm-5.3"
 }

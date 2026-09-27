@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 8,
-  "translation": "Dhe u tha njerëzve të Sukotit: «Jepni, ju lutem, bukë ⟨את⟩ popullit që është në këmbët e mia, sepse të lodhur janë, dhe unë po ndjek pas Zebackut dhe Çalmunës, mbretërit e Midianit.»",
+  "translation": "Dhe u tha njerëzve të Sukotit: «Jepni, ju lutem, bukë ⟨të⟩ popullit që është në këmbët e mia, sepse të lodhur janë, dhe unë po ndjek pas Zebahut dhe Ccalmunas, mbretërit e Midianit.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ככרות",
-      "gloss": "bukë (trakta)"
+      "gloss": "bukë të rrumbullakëta"
     },
     {
       "surface": "לחם",
-      "gloss": "ushqim"
+      "gloss": "bukë"
     },
     {
       "surface": "לעם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "זבח",
-      "gloss": "Zebackut"
+      "gloss": "Zebahut"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "dhe Çalmunës"
+      "gloss": "dhe Ccalmunas"
     },
     {
       "surface": "מלכי",
@@ -88,6 +88,6 @@
       "gloss": "Midianit"
     }
   ],
-  "timestamp": "2026-09-27T15:04:35.843020065Z",
+  "timestamp": "2026-09-27T19:06:58.029122985Z",
   "model": "glm-5.3"
 }

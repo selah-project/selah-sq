@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Nuk do të bëjnë keq dhe nuk do të shkatërrojnë në tërë malin e shenjtë të im, sepse ⟨është⟩ plot toka me njohjen e ⟨את⟩ Jahves, si ujërat që mbulojnë ⟨את⟩ detin.",
+  "translation": "Nuk do të bëjnë të keqe dhe nuk do të shkatërrojnë në gjithë malin e shenjtë të im; sepse toka do të jetë plot me njohjen e ⟨את⟩ Jahve, ashtu si ujet mbulojnë ⟨të⟩ detin.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ירעו",
-      "gloss": "do të bëjnë keq"
+      "gloss": "do të bëjnë të keqe"
     },
     {
       "surface": "ולא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "në tërë"
+      "gloss": "në gjithë"
     },
     {
       "surface": "הר",
-      "gloss": "malit"
+      "gloss": "malin"
     },
     {
       "surface": "קדשי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מלאה",
-      "gloss": "⟨është⟩ plot"
+      "gloss": "do të jetë plot"
     },
     {
       "surface": "הארץ",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "כמים",
-      "gloss": "si ujërat"
+      "gloss": "ashtu si ujet"
     },
     {
       "surface": "לים",
-      "gloss": "detin"
+      "gloss": "⟨të⟩ detin"
     },
     {
       "surface": "מכסים",
-      "gloss": "që mbulojnë"
+      "gloss": "mbulojnë"
     }
   ],
-  "timestamp": "2026-09-27T15:52:07.742785291Z",
+  "timestamp": "2026-09-27T19:04:08.842263732Z",
   "model": "glm-5.3"
 }

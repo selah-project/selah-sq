@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 1,
-  "translation": "Dhe Juda shkoi ⟨את⟩ bashkë me ⟨את⟩ Shimonin, vëllain e tij, dhe mundën ⟨את⟩ kananeanin që banonte në Tsefat, dhe ia dhanë shkatërrimit të plotë ⟨את⟩ atë, dhe e quajtën ⟨את⟩ emrin e qytetit Horma.",
+  "translation": "Dhe Juda shkoi ⟨את⟩ Simeonin, vëllain e tij, dhe rrahën ⟨את⟩ kananeanin që banonte në Tsefat, dhe e kushtuan shkatërrimit ⟨את⟩-e; dhe quajti ⟨את⟩ emrin e qytetit Horma.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "dhe shkoi"
+      "gloss": "Dhe shkoi"
     },
     {
       "surface": "יהודה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ bashkë me",
-      "marks": "Shimonin"
+      "gloss": "⟨את⟩",
+      "marks": "Simeonin"
     },
     {
       "surface": "שמעון",
-      "gloss": "Shimonin"
+      "gloss": "Simeonin"
     },
     {
       "surface": "אחיו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "dhe mundën"
+      "gloss": "dhe rrahën"
     },
     {
       "surface": "את",
@@ -51,15 +51,16 @@
     },
     {
       "surface": "ויחרימו",
-      "gloss": "dhe ia dhanë shkatërrimit"
+      "gloss": "dhe e kushtuan shkatërrimit"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ atë"
+      "gloss": "⟨את⟩-e",
+      "marks": "e (qytetit, Tsefatin)"
     },
     {
       "surface": "ויקרא",
-      "gloss": "dhe e quajtën"
+      "gloss": "dhe quajti"
     },
     {
       "surface": "את",
@@ -79,6 +80,6 @@
       "gloss": "Horma"
     }
   ],
-  "timestamp": "2026-09-27T15:02:36.374365312Z",
+  "timestamp": "2026-09-27T19:06:17.047736043Z",
   "model": "glm-5.3"
 }

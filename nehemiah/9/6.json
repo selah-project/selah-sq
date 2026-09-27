@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Ti ⟨je⟩ ai, Jahve, vetëm Ti; ⟨ti⟩ ke bërë ⟨את⟩ qiejt, qiejt e qiejve dhe gjithë ushtrinë e tyre, ⟨את⟩ tokën dhe gjithçka që është mbi të, ⟨את⟩ detet dhe gjithçka që është në to; dhe Ti u jep jetë ⟨את⟩ të gjithëve, dhe ushtria e qiejve të përulet para Teje.",
+  "translation": "Ti vetë ⟨je⟩ Jahve, vetëm ti; ti bëre ⟨את⟩ qiejt, qiejt e qiejve dhe gjithë ushtrinë e tyre, ⟨את⟩ token dhe gjithçka që ⟨është⟩ mbi të, ⟨את⟩ detet dhe gjithçka që ⟨është⟩ në to; dhe ti i ngjall ⟨את⟩ të gjithë, dhe ushtria e qiejve përulet ty.",
   "tokens": [
     {
       "surface": "אתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨je⟩ ai"
+      "gloss": "vetë"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "vetëm Ti"
+      "gloss": "vetëm ti"
     },
     {
       "surface": "את",
-      "gloss": "⟨ti⟩"
+      "gloss": "ti"
     },
     {
       "surface": "עשית",
-      "gloss": "ke bërë"
+      "gloss": "bëre"
     },
     {
       "surface": "את",
@@ -49,7 +49,7 @@
       "gloss": "qiejve"
     },
     {
-      "surface": "וכל",
+      "surface": "ווכל",
       "gloss": "dhe gjithë"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "toka"
+      "gloss": "token"
     },
     {
       "surface": "וכל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "është mbi të"
+      "gloss": "mbi të"
     },
     {
       "surface": "הימים",
@@ -86,24 +86,24 @@
     },
     {
       "surface": "בהם",
-      "gloss": "është në to"
+      "gloss": "në to"
     },
     {
       "surface": "ואתה",
-      "gloss": "dhe Ti"
+      "gloss": "dhe ti"
     },
     {
       "surface": "מחיה",
-      "gloss": "u jep jetë"
+      "gloss": "i ngjall"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "të gjithëve"
+      "marks": "të gjithë"
     },
     {
       "surface": "כלם",
-      "gloss": "të gjithëve"
+      "gloss": "të gjithë"
     },
     {
       "surface": "וצבא",
@@ -115,13 +115,13 @@
     },
     {
       "surface": "לך",
-      "gloss": "para Teje"
+      "gloss": "ty"
     },
     {
       "surface": "משתחוים",
-      "gloss": "të përulet"
+      "gloss": "përulet"
     }
   ],
-  "timestamp": "2026-09-27T18:36:50.425770435Z",
+  "timestamp": "2026-09-27T19:07:52.438005180Z",
   "model": "glm-5.3"
 }

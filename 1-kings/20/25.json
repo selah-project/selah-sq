@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 20,
-  "translation": "Dhe ti numëro për vete ⟨את⟩ një ushtri, si ushtria që ra prej teje ⟨את⟩, dhe kalë për kalë, dhe qerë për qerë; dhe do të luftojmë kundër tyre ⟨את⟩ në fushë — a nuk jemi më të fortë se ata? Dhe ai dëgjoi zërin e tyre dhe bëri kështu.",
+  "translation": "Dhe ti njehso për vete një ushtri, si ushtria që të ra ⟨את⟩, dhe kalë për kalë, dhe qerre për qerre; dhe do të luftojmë kundër tyre ⟨את⟩ në fushën e hapur — a nuk jemi ne më të fortë se ata? Dhe ai dëgjoi zërin e tyre dhe veproi kështu.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תמנה",
-      "gloss": "numëro"
+      "gloss": "njehso"
     },
     {
       "surface": "לך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "një ushtri"
+      "gloss": "ushtri"
     },
     {
       "surface": "כחיל",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "מאותך",
-      "gloss": "⟨את⟩ prej teje",
-      "marks": "ushtria e rënë"
+      "gloss": "⟨את⟩",
+      "marks": "kalë (dhe qerre) — ushtria e humbur prej teje"
     },
     {
       "surface": "וסוס",
@@ -46,24 +46,24 @@
     },
     {
       "surface": "ורכב",
-      "gloss": "dhe qerë"
+      "gloss": "dhe qerre"
     },
     {
       "surface": "כרכב",
-      "gloss": "për qerë"
+      "gloss": "për qerre"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "dhe do të luftojmë"
+      "gloss": "do të luftojmë"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ata",
-      "marks": "ata"
+      "gloss": "⟨את⟩",
+      "marks": "në fushën e hapur (kundër tyre)"
     },
     {
       "surface": "במישור",
-      "gloss": "në fushë"
+      "gloss": "në fushën e hapur"
     },
     {
       "surface": "אם",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "jo"
+      "gloss": "nuk"
     },
     {
       "surface": "נחזק",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "dhe bëri"
+      "gloss": "dhe veproi"
     },
     {
       "surface": "כן",
       "gloss": "kështu"
     }
   ],
-  "timestamp": "2026-09-27T15:39:46.589076912Z",
+  "timestamp": "2026-09-27T18:58:07.074966141Z",
   "model": "glm-5.3"
 }

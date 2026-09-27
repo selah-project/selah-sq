@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Në shenjtërinë e shenjtërive do ta hash ⟨את⟩ atë; çdo mashull do ta hajë ⟨את⟩ atë; i shenjtë do të jetë për ty.",
+  "translation": "Në shenjtërinë e shenjtërve do ta hash ⟨את⟩; çdo mashkull do ta hajë ⟨את⟩; i shenjtë do të jetë për ty.",
   "tokens": [
     {
       "surface": "בקדש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "e shenjtërive"
+      "gloss": "e shenjtërve"
     },
     {
       "surface": "תאכלנו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זכר",
-      "gloss": "mashull"
+      "gloss": "mashkull"
     },
     {
       "surface": "יאכל",
@@ -34,7 +34,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "atë (flijimin e shenjtë)"
+      "marks": "i shenjti (gjëra e shenjtë)"
     },
     {
       "surface": "קדש",
@@ -49,6 +49,6 @@
       "gloss": "për ty"
     }
   ],
-  "timestamp": "2026-09-27T14:34:51.828937849Z",
+  "timestamp": "2026-09-27T19:07:26.560359725Z",
   "model": "glm-5.3"
 }

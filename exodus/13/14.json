@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe do të ndodhë që, kur biri yt të pyetë nesër, duke thënë: Çfarë ⟨është⟩ kjo? — do t'i thuash atij: Me dorë ⟨të⟩ fortë nxori Jehovai ⟨ata⟩ nga Egjipti, nga shtëpia e robërve.",
+  "translation": "Dhe do të ndodhë ⟨që⟩, kur të pyetë biri yt nesër, duke thënë: Ç'është kjo? — ti do t'i thuash atij: Me dorë të fortë nxori Jahve ⟨⟩ neve nga Egjipti, nga shtëpia e robërve.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "dhe do të ndodhë"
+      "gloss": "Dhe do të ndodhë"
     },
     {
       "surface": "כי",
-      "gloss": "që, kur"
+      "gloss": "⟨që⟩ kur"
     },
     {
       "surface": "ישאלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "çfarë"
+      "gloss": "Ç'"
     },
     {
       "surface": "זאת",
-      "gloss": "kjo"
+      "gloss": "është kjo"
     },
     {
       "surface": "ואמרת",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בחזק",
-      "gloss": "me ⟨të⟩ fortë"
+      "gloss": "Me ... të fortë"
     },
     {
       "surface": "יד",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "הוציאנו",
-      "gloss": "nxori ⟨ata⟩"
+      "gloss": "nxori ... neve"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehovai"
+      "gloss": "Jahve"
     },
     {
       "surface": "ממצרים",
@@ -76,6 +76,6 @@
       "gloss": "e robërve"
     }
   ],
-  "timestamp": "2026-09-27T14:07:55.104758478Z",
+  "timestamp": "2026-09-27T19:02:25.615270318Z",
   "model": "glm-5.3"
 }

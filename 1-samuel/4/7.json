@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 4,
-  "translation": "Dhe filistët u frikësuan, sepse thanë: «Elohim ⟨is⟩⟩ erdhur në kamp.» Dhe thanë: «Mjerë ne! Sepse ⟨is⟩⟩⟩ nuk ka qenë kështu dje e pare dje.",
+  "translation": "Dhe filistët u frikësuan, sepse thanë: «Elohim ka ardhur në ⟨lagje⟩.» Dhe thanë: «Mjerë ne! Sepse nuk ka qenë kështu ⟨as dje, as pardje⟩.»",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "dhe u frikësuan"
+      "gloss": "u frikësuan"
     },
     {
       "surface": "הפלשתים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "erdhë"
+      "gloss": "ka ardhur"
     },
     {
       "surface": "אלהים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "kamp"
+      "gloss": "⟨lagjen⟩"
     },
     {
       "surface": "ויאמרו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אוי",
-      "gloss": "mjerë"
+      "gloss": "Mjerë"
     },
     {
       "surface": "לנו",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שלשם",
-      "gloss": "e pare dje"
+      "gloss": "pardje"
     }
   ],
-  "timestamp": "2026-09-27T15:11:52.432005998Z",
+  "timestamp": "2026-09-27T18:58:29.281119075Z",
   "model": "glm-5.3"
 }
