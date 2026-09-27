@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Të mos ketë ⟨asnjë⟩ prostituar të shenjtë mes vajzave të Izraelit, as të mos ketë prostituar të shenjtë mes djemve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "prostituar të shenjtë (femër)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mes vajzave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as të mos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "prostituar të shenjtë (mashkull)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mes djemve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:26.912181611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ai gjykonte ⟨את⟩ Israelin njëzet e tre vjet; dhe vdiq, dhe u varros në Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjykonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e tre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "në Shamir"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:47.310115232Z",
+  "model": "glm-5.3"
+}

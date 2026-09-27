@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Kap mburojën e madhe dhe ⟨të⟩ vogël, dhe çohu në ndihmën time.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Kap"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mburojën e vogël"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "dhe ⟨mburojën e madhe⟩"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "dhe çohu"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "në ndihmën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:47.373015826Z",
+  "model": "glm-5.3"
+}

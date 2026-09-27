@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Elohim, mos rri i heshtur përpara teje, mos mbulo ⟨me⟩ heshtje dhe mos qetësohu, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "i heshtur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "përpara teje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mos mburo heshtje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "qetësohu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.845345228Z",
+  "model": "glm-5.3"
+}

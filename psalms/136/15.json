@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "dhe rrëzoi Faraonin dhe ushtrinë e tij në Detin e Kallamishtes, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "וְנִ֘עֵ֤ר",
+      "gloss": "dhe rrëzoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "dhe ushtrinë e tij"
+    },
+    {
+      "surface": "בים",
+      "gloss": "në Detin"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "e Kallamishtes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:52.544873119Z",
+  "model": "glm-5.3"
+}

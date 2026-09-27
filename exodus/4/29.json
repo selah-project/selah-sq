@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Moisiu dhe Aroni shkuan dhe mblodhën ⟨את⟩ të gjithë pleqtë e bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aroni"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mblodhën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë pleqtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:27.754522806Z",
+  "model": "glm-5.3"
+}

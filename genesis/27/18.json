@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Erdhi te i ati dhe tha: «Ati im!» E ai tha: «Ja, unë jam. Kush je ti, bir im?»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i ati"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ati im"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bir im"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:04.842982827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Kur të rrahësh ullinjtë e tu, mos e kalo pas vetes; i të huajit, i jetimit dhe i së ëmës së vejë le të jetë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "të rrahësh"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ullinjtë e tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "e kalo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas vetes"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "i të huajit"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "i jetimit"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "dhe i së ëmës së vejë"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "le të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:37.740887690Z",
+  "model": "glm-5.3"
+}

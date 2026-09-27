@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Zbulo sytë e mi, dhe do të shikoj çudira nga Tora jote.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "zbulo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "dhe do të shikoj"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "çudira"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "nga Tora jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.549221165Z",
+  "model": "glm-5.3"
+}

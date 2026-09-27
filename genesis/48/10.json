@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe sytë e Izraelit ishin rënduar nga plakëria, nuk mund të shihte; dhe ai i afroi ⟨את⟩ ata te vetja, dhe i puthi ata dhe i përqafoi ata.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "dhe sytë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ishin rënduar"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "nga plakëria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shihte"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "afroi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (bërët)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te vetja"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "i puthi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "i përqafoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:47.497110630Z",
+  "model": "glm-5.3"
+}

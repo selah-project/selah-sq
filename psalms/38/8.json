@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Sepse ijët e mia janë mbushur me djegje dhe nuk ka ⟨asgjë⟩ të shëndetshme në mishin tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ijët e mia"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "janë mbushur"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "me djegje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "asgjë të shëndetshme"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "në mishin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:42.165196614Z",
+  "model": "glm-5.3"
+}

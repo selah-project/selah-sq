@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Ti ke njohur uljen time dhe ngritjen time; ⟨i⟩ kupton mendimet e mia nga larg.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ke njohur"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "uljen time"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "dhe ngritjen time"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "⟨i⟩ kupton"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "mendimet e mia"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga larg"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:58.460453766Z",
+  "model": "glm-5.3"
+}

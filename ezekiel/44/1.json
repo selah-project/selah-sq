@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe më ktheoi ⟨את⟩ mua në rrugën e portës së shenjtërores së jashtme, e cila shikon nga lindja, dhe ⟨ajo⟩ ishte e mbyllur.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe më ktheoi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua (objekti i drejtë i kthimit në rrugën e portës)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portës"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "të shenjtërores"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "të jashtme"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "e cila shikon"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "nga lindja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨ajo⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ishte e mbyllur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:40:59.145030612Z",
+  "model": "glm-5.3"
+}

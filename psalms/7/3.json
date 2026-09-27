@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Që të mos shqyejë si luani shpirtin tim, duke e grimcuar ⟨kur⟩ s'ka asnjeri që çliron.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "shqyejë"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "si luani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "duke e grimcuar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "asnjeri që çliron"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.635104157Z",
+  "model": "glm-5.3"
+}

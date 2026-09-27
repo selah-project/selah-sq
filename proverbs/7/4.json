@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Thuaj urtësisë: motra ime ⟨את⟩ je ti; dhe njohjen quaje mik të familjes.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "urtësisë"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "motra ime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "dhe njohjen"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "të kuptuarit"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "quaje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:43.002055864Z",
+  "model": "glm-5.3"
+}

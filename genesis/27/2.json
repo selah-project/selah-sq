@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe ai tha: «Ja, tani që jam plakur, nuk e di ditën e vdekjes sime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "jam plakur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e di"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "të vdekjes sime"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:31.388095237Z",
+  "model": "glm-5.3"
+}

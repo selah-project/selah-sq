@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe tha ati ynë: Kthehuni, blini për ne një pak ushqim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ati ynë"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kthehuni"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "blini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "një pak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:21.077435614Z",
+  "model": "glm-5.3"
+}

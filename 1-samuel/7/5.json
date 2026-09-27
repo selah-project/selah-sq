@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Samueli tha: \"Mblidhni ⟨את⟩ gjithë Izraelin në Mitspa, dhe unë do të luteni për ju te Jahve.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Mblidhni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "në Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "dhe do të luteni"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:09.300928548Z",
+  "model": "glm-5.3"
+}

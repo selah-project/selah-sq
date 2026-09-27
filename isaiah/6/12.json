@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe Jahve të ketë larguar ⟨את⟩ njeriun, dhe braktisja të jetë e madhe në mes të vendit.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "dhe të ketë larguar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "dhe të jetë e madhe"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "braktisja"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:09.661762554Z",
+  "model": "glm-5.3"
+}

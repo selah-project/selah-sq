@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe ai e dha ⟨את⟩ zërin e tij në qarje; dhe Egjipti e dëgjoi, dhe shtëpia e Faraonit e dëgjoi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e tij"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "zërin e tij"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "në qarje"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:03.004839056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ndodhi që, kur Salomon mbaroi të ndërtonte ⟨את⟩ shtëpinë e Jahvesë dhe ⟨את⟩ shtëpinë e mbretit, dhe ⟨את⟩ krejt dëshirën e Salomonit që kënaqej të bënte,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kur mbaroi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "të ndërtonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e mbretit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krejt dëshirën e Salomonit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "dëshirën"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kënaqej"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bënte"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:33.337337245Z",
+  "model": "glm-5.3"
+}

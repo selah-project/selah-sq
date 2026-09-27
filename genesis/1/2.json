@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe toka ishte e shkretë dhe bosh, dhe errësira mbi faqen e thellësisë, dhe Fryma e Elohimit fluturonte mbi faqen e ujërave.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dhe toka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "e shkretë"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "dhe bosh"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "dhe errësira"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "thellësisë"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dhe Fryma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohimit"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "fluturonte"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërave"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:19.878610720Z",
+  "model": "glm-5.3"
+}

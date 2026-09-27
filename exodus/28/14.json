@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "dhe dy zinxhirë prej ari të pastër, me skaje, do t'i bësh ⟨אתם⟩ si punë fijesh të tjerrura, dhe do t'i vesh ⟨את⟩ zinxhirët e fijeve të tjerrura mbi montimet.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "dhe dy"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "zinxhirë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "prej ari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "me skaje"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do t'i bësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "zinxhirët"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "si punë"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "fijeve të tjerrura"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dhe do t'i vesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinxhirët e fijeve të tjerrura"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "zinxhirët"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "e fijeve të tjerrura"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "montimet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:56.178958353Z",
+  "model": "glm-5.3"
+}

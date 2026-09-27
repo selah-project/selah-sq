@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u ngrit dhe erdhi dhe shkoi në Shomron; ai ⟨is⟩ te Bait-Eked-i, shtëpia e qethjes së barinjve, në rrugë.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe u ngrit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "në Shomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "te Bait-…-i, shtëpia"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "e barinjve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:22.575760246Z",
+  "model": "glm-5.3"
+}

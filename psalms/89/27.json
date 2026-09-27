@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Ai do të më thërrasë: «Atë im, ti ⟨je⟩; El-i im dhe shkëmbi i shpëtimit tim.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "do të më thërrasë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atë im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-i im"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dhe shkëmbi"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "i shpëtimit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.099719314Z",
+  "model": "glm-5.3"
+}

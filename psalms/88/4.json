@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Sepse shpirti im ⟨is⟩ ngopur me të këqija, dhe jeta ime ka arritur deri te Sheoli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "⟨is⟩ ngopur"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "me të këqija"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "dhe jeta ime"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "deri te Sheoli"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ka arritur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:12.070240618Z",
+  "model": "glm-5.3"
+}

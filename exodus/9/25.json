@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe breshëri goditi në gjithë ⟨tokën⟩ e Egjiptit ⟨את⟩ gjithë çfarë ⟨ishte⟩ në fushë, nga njeriu e deri te kafsha; dhe ⟨את⟩ gjithë barin e fushës e goditi breshëri, dhe ⟨את⟩ gjithë pemën e fushës e theu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "goditi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "breshëri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë çfarë ishte në fushë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri te"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafsha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë barin e fushës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "barin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "e goditi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "breshëri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë pemën e fushës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pemën"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "e theu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:44.389442404Z",
+  "model": "glm-5.3"
+}

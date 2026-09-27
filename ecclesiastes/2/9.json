@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe u bëra i madh dhe u shtova mbi të gjithë ⟨ata⟩ që ishin para meje në Jeruzalem; madje edhe dituria ime më qëndroi pranë.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "u bëra i madh"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "u shtova"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjithë"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "që ishin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "madje edhe"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "dituria ime"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "qëndroi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më pranë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:15.290435442Z",
+  "model": "glm-5.3"
+}

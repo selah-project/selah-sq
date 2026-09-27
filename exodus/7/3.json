@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe unë do t'ia ngurtësoj ⟨את⟩ zemrën faraonit dhe do të shumoj ⟨את⟩ shenjat e mia dhe ⟨את⟩ çuditë e mia në vendin e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "do të ngurtësoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonit"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "dhe do të shumoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shenjat e mia"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "shenjat e mia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çuditë e mia"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "çuditë e mia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:03.640401279Z",
+  "model": "glm-5.3"
+}

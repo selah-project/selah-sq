@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe i thanë atij: Një ëndërr ëndërruam, dhe s'ka kush ta shpjegojë ⟨אתו⟩. Dhe Jozifi u tha atyre: A nuk u përkasin Elohim shpjegimet? Tregojani mua, ju lutem.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "një ëndërr"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "ëndërruam"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "dhe shpjegues"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shpjegues"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "shpjegimet"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tregojani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ju lutem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:04.168937052Z",
+  "model": "glm-5.3"
+}

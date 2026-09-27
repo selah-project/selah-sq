@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Del yndyrë nga sytë e tyre; kapërcejnë çdo imagjinate të zemrës.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "del"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "yndyrë"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "sytë e tyre"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kanë kapërcyer"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "imagjinate"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemrës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:55.643178214Z",
+  "model": "glm-5.3"
+}

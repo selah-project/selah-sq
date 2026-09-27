@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe u dhanë atyre ⟨את⟩ Hebronin në tokën e Judës, dhe ⟨את⟩ kullotat e tij rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dhe u dhanë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tij"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kullotat e tij"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "rrëth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:15.108424507Z",
+  "model": "glm-5.3"
+}

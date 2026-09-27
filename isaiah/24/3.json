@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Zbrazjet e tërë do të zbret toka dhe plaçkitje e tërë do të plaçkitet, sepse Jahve foli ⟨את⟩ fjalën këtë.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Zbrazjet e tërë"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "do të zbret"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "dhe plaçkitje e tërë"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "do të plaçkitet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:54.498278459Z",
+  "model": "glm-5.3"
+}

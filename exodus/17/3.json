@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe iu thatë aty populli për ujë, dhe populli ankohej kundër Moisit, dhe tha: «Përse e ngjite na nga Egjipti, për të mbytur ⟨את⟩ mua dhe ⟨את⟩ bijtë e mi dhe ⟨את⟩ gjedhët e mi me thatësi?»",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "dhe iu thatë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "למים",
+      "gloss": "për ujë"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "dhe ankohej"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "përse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "e ngjite na"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "për të mbytur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "וואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gedhët e mi"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "gedhët e mi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "me thatësi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:38.688352483Z",
+  "model": "glm-5.3"
+}

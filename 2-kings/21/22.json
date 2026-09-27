@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe e braktisi ⟨את⟩ Jahve, Elohim i etërve të tij, dhe nuk eci në rrugën e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "dhe e braktisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërve të tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "eci"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:33.534832464Z",
+  "model": "glm-5.3"
+}

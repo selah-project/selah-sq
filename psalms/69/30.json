@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Por unë jam i varfër dhe në dhimbje; shpëtimi yt, o Elohim, do të më ngre lart.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "dhe në dhimbje"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "shpëtimi yt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "do të më ngre lart"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:34.110988794Z",
+  "model": "glm-5.3"
+}

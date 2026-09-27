@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Mordeai i tregoi atij ⟨את⟩ gjithçka që i kishte ndodhur, dhe ⟨את⟩ shumën e parasë që Hamani kishte thënë të peshohej mbi thesaret e mbretit për hebrenjtë, për t'i shfarosur ata.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i tregoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "i kishte ndodhur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shumën e parasë"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "shumën e"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "parasë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kishte thënë"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "të peshohej"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "thesaret e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "për hebrenjtë"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "për t'i shfarosur ata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:53.369345781Z",
+  "model": "glm-5.3"
+}

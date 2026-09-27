@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Si një shkorbunë që shkrinë duke ecur ⟨të shkojë⟩, si një fetus i humbur i ⟨një⟩ gruaje që s'panë dot diellin.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Si"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "shkorbunë"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "që shkrinë"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "duke ecur"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fetus i humbur"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "i gruas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "s'"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "panë"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "diellin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:03.378770046Z",
+  "model": "glm-5.3"
+}

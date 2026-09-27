@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Se jo përjetë do të harrohet i varfri; shpresa e përulurve nuk do të humbet në jetë të jetëve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "do të harrohet"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "i varfri"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "shpresa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "e përulurve"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "do të humbet"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "në jetë të jetëve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.419506908Z",
+  "model": "glm-5.3"
+}

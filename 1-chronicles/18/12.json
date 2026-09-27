@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Edhe Abishai, bir i Tserujës, goditi ⟨את⟩ Edomin në Luginën e Kripës — tetëmbëdhjetë mijë.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Edhe Abishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "i Tserujës"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "në Luginën"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "e Kripës"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:05.898666532Z",
+  "model": "glm-5.3"
+}

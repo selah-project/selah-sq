@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe mbreti Salomon dërgoi dhe e mori ⟨את⟩ Hiramin nga Cari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiramin"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirami"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nga Cari"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:29.472860187Z",
+  "model": "glm-5.3"
+}

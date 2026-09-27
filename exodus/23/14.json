@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Tre herë në vit do të më festosh ⟨festat⟩.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tre"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "herë (feste)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "do të festosh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "në vit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:48.659988325Z",
+  "model": "glm-5.3"
+}

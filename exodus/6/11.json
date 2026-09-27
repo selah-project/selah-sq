@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Hyr, i fol Faraonit, mbretit të Egjiptit, dhe ⟨ai⟩ do t'i lëshojë ⟨את⟩ bijtë e Izraelit nga vendi i tij.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "hyr"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe do të lëshojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "nga vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:55.506579575Z",
+  "model": "glm-5.3"
+}

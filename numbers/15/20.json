@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "të parat e brumë tuaj, një kukurez, do të ngreni si ofertë ngritjeje; si ofertën e lëmisë, ashtu do ta ngreni ⟨אתה⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "të parat"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "e brumë tuaj"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "një kukurez"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "do të ngreni"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ofertë ngritjeje"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "si ofertën"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "të lëmisë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "do ta ngreni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "atë (kukurezën)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:34:33.761177491Z",
+  "model": "glm-5.3"
+}

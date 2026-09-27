@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Lutje e të shtrënguarit, kur ⟨ai⟩ mbulohet, dhe para Jahvesë derdh meditimin e vet.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Lutje"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "e të shtrënguarit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "mbulohet"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dhe para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "derdh"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "meditimin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.040527830Z",
+  "model": "glm-5.3"
+}

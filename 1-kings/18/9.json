@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ai tha: Çfarë faji kam bërë, që ti po dorëzon ⟨את⟩ shërbëtorin tënd në dorën e Ahabit, për të më mbysur?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kamdha faji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po dorëzon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tënd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "e Ahabit"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "për të më mbysur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:45.903011422Z",
+  "model": "glm-5.3"
+}

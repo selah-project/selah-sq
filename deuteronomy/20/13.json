@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "dhe Jahve, Elohim-i yt, do të ta japë ⟨atë⟩ në dorën tënde, dhe do të biesh ⟨את⟩ çdo mashkull të saj me anë të shpatës.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "dhe do të ta japë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "dhe do të biesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo mashkull të saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "mashkull të saj"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:36.892077765Z",
+  "model": "glm-5.3"
+}

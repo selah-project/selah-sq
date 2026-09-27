@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Pa faj ⟨në mua⟩ ata vrapojnë dhe përgatiten; zgjohu të dalësh përpara meje dhe shih.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "faj"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ata vrapojnë"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "dhe përgatiten"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "zgjohu"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "për të dalësh përpara meje"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe shih"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:41.720743879Z",
+  "model": "glm-5.3"
+}

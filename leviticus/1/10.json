@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe nëse flijimi i tij ⟨është⟩ nga kopeja, nga deljet ose nga dhitë, për flijim të pjekur — mashkull pa të metë do të sjellë atë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kopeja"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "flijimi i tij"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "deljet"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dhitë"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "për flijim të pjekur"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "pa të metë"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "do të sjellë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:26.158126764Z",
+  "model": "glm-5.3"
+}

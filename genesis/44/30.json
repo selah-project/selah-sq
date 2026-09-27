@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe tani, kur të vij te shërbëtori yt, ati im, dhe djali të mos jetë ⟨את⟩ ⟨me⟩ ne — sepse shpirti i tij është i lidhur me shpirtin e tij —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "kur të vij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori yt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati im"
+    },
+    {
+      "surface": "ו הנער → והנער",
+      "gloss": "dhe djali"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "të mos jetë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨me⟩ ne"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "sepse shpirti i tij"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "është i lidhur"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "me shpirtin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:34.134667661Z",
+  "model": "glm-5.3"
+}

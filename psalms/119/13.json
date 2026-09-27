@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Me buzët e mia kam rrëfyer ⟨të⟩ gjitha vendimet e gojës sate.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "me buzët e mia"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "kam rrëfyer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "vendimet"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "e gojës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.153602256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Vajza ishte shumë e bukur, dhe i bëhet mbretit kujdestare dhe e shërbente atë, por mbreti nuk e ⟨njohu⟩ atë.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "dhe vajza"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "e bukur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe i bëhet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "kujdestare"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "dhe e shërbente atë"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "e njohu atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:46.838149877Z",
+  "model": "glm-5.3"
+}

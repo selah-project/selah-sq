@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Demat tanë të ngarkuar rëndë; s'ka thyerje, dhe s'ka dalje, dhe s'ka britmë në sheshet tona.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "demat tanë"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "të ngarkuar rëndë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "thyerje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "dalje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "britmë"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "në sheshet tona"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:57.768315541Z",
+  "model": "glm-5.3"
+}

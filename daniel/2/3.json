@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe mbreti u tha atyre: Pata një ëndërr, dhe fryma ime është e shqetësuar për të njohur ⟨את⟩ ëndrrën.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u atyre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "një ëndërr"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "pata"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "dhe është e shqetësuar"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "fryma ime"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "për të njohur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ëndrrën"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ëndrrën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:52.413404716Z",
+  "model": "glm-5.3"
+}

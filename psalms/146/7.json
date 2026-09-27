@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "bën drejtësi për të shtypurit, u jep bukë të uriturve; Jahve i liron të lidhurit.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "për të shtypurit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "të uriturve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "i liron"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "të lidhurit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:26.628793461Z",
+  "model": "glm-5.3"
+}

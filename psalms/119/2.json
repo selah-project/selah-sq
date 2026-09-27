@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Sa të bekuar ⟨janë⟩ ata që ruajnë dëshmitë e tij, që e kërkojnë atë me gjithë zemrën!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sa të bekuar"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "që ruajnë"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "dëshmitë e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "e kërkojnë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:17.945020891Z",
+  "model": "glm-5.3"
+}

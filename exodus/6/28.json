@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ndodhi në ditën kur i foli Jahve Moisit në vendin e Egjiptit,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kur foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:10.016816713Z",
+  "model": "glm-5.3"
+}

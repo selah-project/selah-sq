@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Dhe briria tim ke ngritur si bual i egër; ⟨jam⟩ vajosur me vaj të freskët.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ke ngritur"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "si bual i egër"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "briria tim"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨jam⟩ vajosur"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "të freskët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.398572609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ndodhi që, kur arka e besëlidhjes së Jahvesë erdhi në kamp, tërë Izraeli lëshoi një britmë të madhe, dhe toku u dridh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kur erdhi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "e besëlidhjes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "lëshoi britmë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "britmë"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "dhe u dridh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toku"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:52.431560095Z",
+  "model": "glm-5.3"
+}

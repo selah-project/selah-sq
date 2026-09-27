@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Kush janë këta që fluturojnë si re, si pëllumbat drejt dritareve të tyre?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "si re"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "që fluturojnë"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "si pëllumbat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "dritareve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:44.478249882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 46:25",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Ka thënë Jahve Tsevaot, Elohim i Izraelit: Ja, unë po vë në peshë ⟨את⟩ Amonin e No-s, dhe Faraonin, dhe Egjiptin, dhe perënditë e tij, dhe mbretërit e tij, dhe Faraonin, dhe ata që besojnë në të.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    },
+    {
+      "surface": "פוקד",
+      "gloss": "po vë në peshë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Amonin e No-s"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonin"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "e No-s"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "perënditë e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "mbretërit e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ata që besojnë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:22.355336185Z",
+  "model": "glm-5.3"
+}

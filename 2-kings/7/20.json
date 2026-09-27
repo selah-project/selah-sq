@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe i ndodhi ⟨kështu⟩: dhe populli e shkeli ⟨את⟩ atë në portë dhe ai vdiq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe i ndodhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨kështu⟩"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "dhe e shkelën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (oficerin)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "në portë"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:16.713627503Z",
+  "model": "glm-5.3"
+}

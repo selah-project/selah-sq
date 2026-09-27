@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim bëri ⟨את⟩ gjitarët e tokës sipas llojit të tyre, dhe ⟨את⟩ bagëtinë sipas llojit të saj, dhe ⟨את⟩ çdo gjë të zvarritur të dheut sipas llojit të tij; dhe Elohim pa që ⟨ishte⟩ mirë.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjitarët e tokës"
+    },
+    {
+      "surface": "חית",
+      "gloss": "gjitarët"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sipas llojit të saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bagëtinë"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bagëtinë"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sipas llojit të saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo gjë të zvarritur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gjë të zvarritur"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "të dheut"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të tij"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:15.195687473Z",
+  "model": "glm-5.3"
+}

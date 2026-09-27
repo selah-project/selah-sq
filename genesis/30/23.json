@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Ajo mbeti shtatzënë dhe lindi një djalë, dhe tha: «Elohim më ka hequr ⟨את⟩ turpin tim.»",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "mbeti shtatzënë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "më ka hequr"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turpin tim"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "turpin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:03.607772201Z",
+  "model": "glm-5.3"
+}

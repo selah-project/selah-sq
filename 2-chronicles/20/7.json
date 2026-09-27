@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "A nuk je ti Elohim ynë, që dëbove ⟨את⟩ banorët e kësaj toke para popullit tënd, Izraelit, dhe e dhe pasardhësve të Abrahamit, të atij që të do, për gjithmonë?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ynë"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "dëbove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e kësaj toke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullit tënd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "dhe e dhe"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "pasardhësve"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "të Abrahamit"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "të atij që të do"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për gjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:13:00.219849318Z",
+  "model": "glm-5.3"
+}

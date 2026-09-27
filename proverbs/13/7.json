@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Ka ⟨njeri⟩ që duket i pasur e s'ka asgjë; ka që duket i varfër e ka pasuri të mëdha.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "duket i pasur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e s'ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asgjë"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "duket i varfër"
+    },
+    {
+      "surface": "והון",
+      "gloss": "e ka pasuri"
+    },
+    {
+      "surface": "רב",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:11.676743310Z",
+  "model": "glm-5.3"
+}

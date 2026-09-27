@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Jahve i tha Moisit: «Shko te populli dhe i shenjtëro sot dhe nesër, dhe le të lajnë rrobat e tyre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "dhe i shenjtëro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "dhe nesër"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "dhe le të lajnë"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "robat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:36.209071698Z",
+  "model": "glm-5.3"
+}

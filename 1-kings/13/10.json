@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe shkoi në një rrugë tjetër dhe nuk u kthye në rrugën nga ku kishte ardhur në Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Bet-El)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:12.919147259Z",
+  "model": "glm-5.3"
+}

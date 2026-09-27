@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Dhe dogji ⟨את⟩ shtëpinë e Jahvesë dhe ⟨את⟩ shtëpinë e mbretit, dhe ⟨את⟩ të gjitha shtëpitë e Jerusalemit — dhe ⟨את⟩ çdo shtëpi të madhe e dogji me zjarr.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "dhe dogji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e mbretit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha shtëpitë e Jerusalemit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo shtëpi të madhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "e dogji"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    }
+  ],
+  "timestamp": "2026-09-27T18:28:33.280663214Z",
+  "model": "glm-5.3"
+}

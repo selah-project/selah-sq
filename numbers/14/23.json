@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Sigurisht, nuk do të shohin ⟨את⟩ tokën për të cilën u betova etërve të tyre, dhe asnjë nga përbuzësit e mi nuk do ta shohin atë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sigurisht"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "do të shohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilën"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "u betova"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe asnjë nga"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "përbuzësit e mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "do ta shohin atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:58.802010930Z",
+  "model": "glm-5.3"
+}

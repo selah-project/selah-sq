@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Të gjithë popujve, bieni duart; ulëritni për Elohim me zë rilindjeje.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bieni"
+    },
+    {
+      "surface": "כף",
+      "gloss": "duart (pëllëmbën)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ulëritni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "për Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "me zë"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rilindjeje (thirrje gëzimi)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:00.618345074Z",
+  "model": "glm-5.3"
+}

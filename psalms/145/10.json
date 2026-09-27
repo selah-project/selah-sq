@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Të falënderojnë ty, Jahve, të gjitha veprat e tua, dhe besnikët e tij të bekojnë ty.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "të falënderojnë ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dhe besnikët e tij"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "të bekojnë ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:49.800816609Z",
+  "model": "glm-5.3"
+}

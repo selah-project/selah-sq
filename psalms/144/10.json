@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "⟨Ai⟩ që jep shpëtim mbretërve, që çliron ⟨את⟩ Davidin, shërbëtorin e tij, nga shpata e keqe.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "që jep"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "shpëtim"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "mbretërve"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "që çliron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:08.420303420Z",
+  "model": "glm-5.3"
+}

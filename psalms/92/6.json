@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Sa të mëdha janë veprat e tua, o Jahve! Shumë të thella janë mendimet e tua!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "të mëdha janë"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "të thella janë"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "mendimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.504758458Z",
+  "model": "glm-5.3"
+}

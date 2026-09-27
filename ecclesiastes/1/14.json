@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Pashë ⟨את⟩ të gjitha veprat që bëhen nën diell, dhe ja, e tëra është kotësi dhe ndjekje e erës.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha veprat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "që bëhen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "e tëra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kotësi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dhe ndjekje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "e erës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:09.265057933Z",
+  "model": "glm-5.3"
+}

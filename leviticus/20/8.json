@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ruani ⟨את⟩ statutet e mia dhe i zbatoni ⟨את⟩ ato; unë jam Jahve që ju shenjtëron.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e mia"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe i zbatoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "që ju shenjtëron"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:12.704441581Z",
+  "model": "glm-5.3"
+}

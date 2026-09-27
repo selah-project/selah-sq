@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe e shtriu ⟨את⟩ kufomën e tij në varrin e tij, dhe mbajtën zi për të, duke thënë: «Ah, vëllai im!»",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "dhe e shtriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kufomën e tij"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "kufomën e tij"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "në varrin e tij"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "dhe mbajtën zi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai im"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:13.076811897Z",
+  "model": "glm-5.3"
+}

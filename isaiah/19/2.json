@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Do të nxit egjiptianët kundër egjiptianëve dhe do të luftojnë secili kundër vëllait të vet dhe secili kundër të afërmit të vet, qytet kundër qyteti, mbretëri kundër mbretërisë.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Do të nxit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kundër egjiptianëve"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "dhe do të luftojnë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kundër vëllait të vet"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe secili"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "kundër të afërmit të vet"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kundër qyteti"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mbretëri"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "kundër mbretërisë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:27.097971509Z",
+  "model": "glm-5.3"
+}

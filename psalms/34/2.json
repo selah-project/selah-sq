@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Do të bekoj ⟨את⟩ Jahven në çdo kohë, vazhdimisht lëvdata e tij ⟨is⟩ në gojën time.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Do të bekoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lëvdata e tij"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:31.916462095Z",
+  "model": "glm-5.3"
+}

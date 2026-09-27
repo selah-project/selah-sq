@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Samueli i tha Saulit: Mua më dërgoi Jahve të të vajosë për mbret mbi popullin e tij, mbi Izraelin; dhe tani dëgjo ⟨zërin⟩ e fjalëve të Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua (objekt i dërgimit)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "të të vajosë"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për mbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalëve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:08.566033718Z",
+  "model": "glm-5.3"
+}

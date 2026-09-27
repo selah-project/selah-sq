@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Në çdo kohë rrobat e tua të jenë të bardha dhe vaji mbi kokën tënde të mos mungojë.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "të jenë"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "robat e tua"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "të bardha"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dhe vaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kokën tënde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mungojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:10.090463762Z",
+  "model": "glm-5.3"
+}

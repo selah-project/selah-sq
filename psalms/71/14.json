@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Ndërsa unë do të shpresoj pa pushim, dhe do të shtoj ⟨mbi⟩ çdo lavdërim tënd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ndërsa unë"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pa pushim"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "do të shpresoj"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "dhe do të shtoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mbi⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lavdërim tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:05.975759702Z",
+  "model": "glm-5.3"
+}

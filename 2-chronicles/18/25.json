@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe mbreti i Izraelit tha: «Merrni ⟨את⟩ Mikajahun dhe kthenie te Amoni, kryetari i qytetit, dhe te Joashi, i biri i mbretit.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "merrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajahun"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahun"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "dhe kthenie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i qytetit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe te"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i biri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "i mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:28.662213946Z",
+  "model": "glm-5.3"
+}

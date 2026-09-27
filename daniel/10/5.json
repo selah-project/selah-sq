@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ngrita ⟨את⟩ sytë e mi dhe pashë, dhe ja, një njeri i veshur me liri, dhe ijet e tij ishin të lidhura me brez prej ari të Ofazit.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "dhe ngrita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "i veshur"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "me liri"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "dhe ijet e tij"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "të lidhura me brez"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "prej ari"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "të Ofazit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:02.006987972Z",
+  "model": "glm-5.3"
+}

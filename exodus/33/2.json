@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "dhe do të dërgoj përpara teje një engjëll, dhe do të përzj ⟨את⟩ Kanaanitin, Emoritin, Hitin, Perizitin, Hivin dhe Jevusin.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dhe do të dërgoj"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "përpara teje"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "një engjëll"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "dhe do të përzj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanitin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanitin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoritin"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dhe Hitin"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dhe Perizitin"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivin"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dhe Jevusin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:26.905348174Z",
+  "model": "glm-5.3"
+}

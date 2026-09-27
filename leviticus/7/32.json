@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ⟨את⟩ këmbën e djathtë do t'ia jepni si dhuratë të ngritur priftit, nga flijimet e falenderimeve tuaja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dhe ⟨את⟩",
+      "marks": "këmbën e djathtë"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "këmbën"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "e djathtë"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "do t'ia jepni"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "si dhuratë të ngritur"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "nga flijimet"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "e falenderimeve tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:03.872753321Z",
+  "model": "glm-5.3"
+}

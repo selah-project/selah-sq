@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨את⟩ Arvaditin, dhe ⟨את⟩ Zemaritin, dhe ⟨את⟩ Hamatitin; dhe më pas u shpërndanë fiset e Kanaanit",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Arvaditin"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvaditin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Zemaritin"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemaritin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hamatitin"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatitin"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe më pas"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "u shpërndanë"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "të Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.011723636Z",
+  "model": "glm-5.3"
+}

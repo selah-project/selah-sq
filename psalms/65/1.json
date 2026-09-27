@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Për dirigjentin. Mizmor i Davidit. Këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:17.115387259Z",
+  "model": "glm-5.3"
+}

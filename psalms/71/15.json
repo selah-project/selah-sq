@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Goja ime do të tregojë drejtësinë tënde, gjithë ditën shpëtimin tënd, sepse nuk i njoh numërimet ⟨e tyre⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "goja ime"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "do të tregojë"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësinë tënde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "shpëtimin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "njoh"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "numërimet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.981062049Z",
+  "model": "glm-5.3"
+}

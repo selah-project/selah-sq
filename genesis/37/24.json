@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe e morën dhe e hodhën ⟨את⟩ atë në pus; e pusi ishte bosh, nuk kishte ujë në të.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "dhe e morën"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "dhe e hodhën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "në pus"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "e pusi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ishte bosh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk kishte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:09.628749831Z",
+  "model": "glm-5.3"
+}

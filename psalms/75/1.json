@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Për dirigjentin, sipas «Mos e shkatërro»; mizmor i Asafit, një këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sipas «Mos"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "e shkatërro»"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:19.198762085Z",
+  "model": "glm-5.3"
+}

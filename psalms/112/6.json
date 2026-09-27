@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "Sepse përjetë nuk do të lëkundet; i drejti do të jetë në kujtim të përjetshëm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "do të lëkundet"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "në kujtim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të përjetshëm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.864779923Z",
+  "model": "glm-5.3"
+}

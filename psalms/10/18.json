@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "për të gjykuar jetimin dhe të shtypurin, që njeriu i dheut të mos frikësojë më kurrë ⟨prej⟩ dheut.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "për të gjykuar"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "jetimin"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "dhe të shtypurin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "... më kurrë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "të frikësojë"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨prej⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i dheut \/ dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:34.143317076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe mbreti i tha Esterit, edhe në ditën e dytë, në festën e verës: «Cila ⟨është⟩ lutja jote, Ester, o mbretëreshë? Do të të jepet. Dhe cila ⟨është⟩ kërkesa jote? Deri në gjysmën e mbretërisë — do të bëhet.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השני",
+      "gloss": "të dytë"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "në festën"
+    },
+    {
+      "surface": "היין",
+      "gloss": "e verës"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "lutja jote"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "o mbretëreshë"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "do të jepet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe ç'"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "kërkesa jote"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gjysmën"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "të mbretërisë"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "do të bëhet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:29.425390785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Bekim-i rrejë dhe vrasës e vjedhës e kurorëshkelës janë shpërthyer, dhe gjak mbi gjak është prekur.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bekim-i rrejë"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "dhe gënjeshtra"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "dhe vrasja"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "dhe vjedhja"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "dhe kurorëshkelja"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "janë shpërthyer"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dhe gjak"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mbi gjak"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "është prekur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:41.126623303Z",
+  "model": "glm-5.3"
+}

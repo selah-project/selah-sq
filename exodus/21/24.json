@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "sy për sy, dhëmb për dhëmb, dorë për dorë, këmbë për këmbë.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "për"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dhëmb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "për"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dhëmb"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "për"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "këmbë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "për"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "këmbë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:09.958377213Z",
+  "model": "glm-5.3"
+}

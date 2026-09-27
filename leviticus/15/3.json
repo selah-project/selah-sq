@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe kjo do të jetë papastërtia e tij në rrjedhjen e tij: kur mishi i tij rrjedh ⟨me⟩ ⟨את⟩ rrjedhjen e tij, ose mishi i tij është bllokuar nga rrjedhja e tij — kjo ⟨është⟩ papastërtia e tij.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "papastërtia e tij"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "në rrjedhjen e tij"
+    },
+    {
+      "surface": "רר",
+      "gloss": "rrjedh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishi i tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrjedhjen e tij"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "rrjedhjen e tij"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "është bllokuar"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishi i tij"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "nga rrjedhja e tij"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "papastërtia e tij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:00.894237026Z",
+  "model": "glm-5.3"
+}

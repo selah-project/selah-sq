@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "O Elohim, dëgjo lutjen ⟨time⟩, veshu veshin për fjalët ⟨e⟩ gojës ⟨sime⟩!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "veshu veshin"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "për fjalët"
+    },
+    {
+      "surface": "פי",
+      "gloss": "të gojës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:52.475342610Z",
+  "model": "glm-5.3"
+}

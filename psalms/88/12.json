@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "A do të tregohet hesed-i yt në varr, besnikëria jote në Avaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "a do të tregohet"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "në varr"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "besnikëria jote"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "në Avaddon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.912120847Z",
+  "model": "glm-5.3"
+}

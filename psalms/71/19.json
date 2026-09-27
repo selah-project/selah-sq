@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Dhe drejtësia jote, o Elohim, ⟨arrin⟩ deri në lartësi; ti ke bërë gjëra të mëdha; o Elohim, kush ⟨është⟩ si ti?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "dhe drejtësia jote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "lartësi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti që"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gjëra të mëdha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:15.077658758Z",
+  "model": "glm-5.3"
+}

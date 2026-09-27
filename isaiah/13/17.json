@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Ja, unë po zgjoj kundër tyre ⟨את⟩ medët, të cilët argjendin nuk e çmojnë dhe arin nuk e dëshirojnë.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "po zgjoj"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medët"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "medët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "e çmojnë"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe arin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "e dëshirojnë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:24.832030212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Sepse atje robërgenit tanë na kërkuan fjalë kënge, dhe shkatërruesit tanë ⟨kërkuan⟩ gëzim, duke thënë: «Këndoni neve një nga këngët e Sionit.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "na kërkuan"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "robërgenit tanë"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kënge"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "dhe shkatërruesit tanë"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gëzim"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "një nga këngët"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "e Sionit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:21.770325911Z",
+  "model": "glm-5.3"
+}

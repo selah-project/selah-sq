@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Zëri i Jahvesë ⟨është⟩ mbi ujërat; El i lavdisë bubullon; Jahve mbi ujëra të shumta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "i lavdisë"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "bubullon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujëra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:25.538035718Z",
+  "model": "glm-5.3"
+}

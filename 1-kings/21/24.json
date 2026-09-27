@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Atë që vdes nga shtëpia e Ahabit në qytet do ta hanë qentë, dhe atë që vdes në fushë do ta hajë shpendi i qiellit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Atë që vdes"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "nga Ahabi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do ta hanë"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "qentë"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "dhe atë që vdes"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do ta hajë"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shpendi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i qiellit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:05.152510960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe kush e mallkon ⟨את⟩ atin e tij dhe ⟨את⟩ nënën e tij, sigurisht do të vdesë.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "dhe kush e mallkon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atin e tij"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dhe ⟨את⟩ nënën e tij"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:44.630374265Z",
+  "model": "glm-5.3"
+}

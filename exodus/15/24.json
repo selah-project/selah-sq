@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe populli murmuroi kundër Moisit, duke thënë: Ç'do të pimë?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "dhe murmuroi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "do të pimë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:11.620063994Z",
+  "model": "glm-5.3"
+}

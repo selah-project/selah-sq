@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "dhe ⟨את⟩ gjithë Neftalinë, dhe ⟨את⟩ tokën e Efraimit dhe të Manasit, dhe ⟨את⟩ gjithë tokën e Judës, deri në detin e fundit;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë Neftalinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën e Efraimit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "e Efraimit"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "dhe të Manasit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë tokën e Judës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "e fundit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:37.513599075Z",
+  "model": "glm-5.3"
+}

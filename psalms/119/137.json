@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I drejtë je ti, o Jahve, dhe të ndershme ⟨janë⟩ gjykimet e tua.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dhe të ndershme"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:14.224381788Z",
+  "model": "glm-5.3"
+}

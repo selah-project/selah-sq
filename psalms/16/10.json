@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Sepse nuk do të braktisësh shpirtin tim në Sheol, nuk do t'i lejosh besnikut tënd të shohë gropën.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "do të braktisësh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "do t'i lejosh"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "besnikut tënd"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shohë"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gropën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:40.962469330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Abiathari i tregoi Davidit se Sauli kishte vrarë ⟨את⟩ priftërinjtë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i tregoi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kishte vrarë"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priftërinjtë"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:42.059151254Z",
+  "model": "glm-5.3"
+}

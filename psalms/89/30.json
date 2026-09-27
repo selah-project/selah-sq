@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Dhe pasardjen e tij do ta vendos ⟨për⟩ përjetë, dhe fronin e tij si ditët e qiejve.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "dhe do ta vendos"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨për⟩ përjetë"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "pasardjen e tij"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "dhe fronin e tij"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "si ditët"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "e qiejve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:38.745247635Z",
+  "model": "glm-5.3"
+}

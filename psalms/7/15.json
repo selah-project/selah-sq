@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Shih, ai pëson dhembje lindjeje nga pavërtetësia, mbeti shtatzënë me telash dhe lindi gënjeshtër.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Shih"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "pëson dhembje lindjeje"
+    },
+    {
+      "surface": "און",
+      "gloss": "nga pavërtetësia"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "dhe mbeti shtatzënë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "me telash"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtër"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:20.077948956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "dhe e kaloi ⟨את⟩ Izraelin nëpër mesin e tij, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "dhe e kaloi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "nëpër mesin e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:52.544729374Z",
+  "model": "glm-5.3"
+}

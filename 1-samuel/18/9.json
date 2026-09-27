@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Sauli mbajti syrin e keq mbi ⟨את⟩ Davidin nga ajo ditë e më tej.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "me sy (të keq)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "nga dita"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "dhe më tej"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:29.024034781Z",
+  "model": "glm-5.3"
+}

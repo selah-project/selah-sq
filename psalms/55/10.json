@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Gëlltit, o Adonai, ndaj gjuhën e tyre, sepse pashë dhunë dhe grindje në qytet.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "gëlltit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "o Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuhën e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunë"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "dhe grindje"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:53.188202236Z",
+  "model": "glm-5.3"
+}

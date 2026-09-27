@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Një mijë për çdo fis, një mijë për çdo fis, për të gjitha fiset e Israelit, do të dërgoni për ushtri.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "për çdo fis"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "për çdo fis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Israelit"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "do të dërgoni"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "për ushtri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:54.087130051Z",
+  "model": "glm-5.3"
+}

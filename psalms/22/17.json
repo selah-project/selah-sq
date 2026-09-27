@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Sepse më kanë rrethuar qenët; një tubim keqbërësish më ka rrethuar; si luanin ⟨e kanë⟩ duart e mia dhe këmbët e mia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "më kanë rrethuar"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "qenët"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "një tubim"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "keqbërësish"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "më ka rrethuar"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "si luanin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "duart e mia"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "dhe këmbët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:16.860923116Z",
+  "model": "glm-5.3"
+}

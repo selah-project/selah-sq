@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe ⟨את⟩ bazat i bëri, dhe ⟨את⟩ kovat i bëri mbi bazat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bazat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bazat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i bëri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kovat"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "kovat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i bëri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bazat"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:36.373434297Z",
+  "model": "glm-5.3"
+}

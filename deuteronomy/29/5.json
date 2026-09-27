@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Bukë nuk keni ngrënë, as verë e pije të dehshme nuk keni pirë, që të dini se unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Bukë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "keni ngrënë"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "as verë"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e pije të dehshme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "keni pirë"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:24.509382419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe fëmijët e Izraelit i shërbyen ⟨את⟩ Eglonit, mbretit të Moabit, tetëmbëdhjetë vjet.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "dhe i shërbyen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fëmijët e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglonit"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "të Moabit"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:04.887420529Z",
+  "model": "glm-5.3"
+}

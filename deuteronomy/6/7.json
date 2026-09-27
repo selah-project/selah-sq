@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe t'i mësosh vazhdimisht bijtë e tu, dhe të flasësh për to kur ulesh në shtëpinë tënde, kur ecën në rrugë, kur shtrihesh dhe kur ngrihesh.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "dhe t'i mësosh vazhdimisht"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "bijtë e tu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dhe të flasësh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "për to"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kur ulesh"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "kur ecën"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "kur shtrihesh"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "dhe kur ngrihesh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:03.178742847Z",
+  "model": "glm-5.3"
+}

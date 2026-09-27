@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Këta janë bijtë e Hamit, sipërfisht të tyre, sipërgjuhëve të tyre, në tokat e tyre, në kombet e tyre",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamit"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipërfisht të tyre"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "sipërgjuhëve të tyre"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "në tokat e tyre"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "në kombet e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.012033827Z",
+  "model": "glm-5.3"
+}

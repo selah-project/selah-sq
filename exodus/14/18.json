@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe egjiptianët do të dinë se unë jam Jahve, kur të shquhem mbi Faraonin, mbi qerret e tij dhe mbi kalorësit e tij.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dhe do të dinë"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "kur të shquhem"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mbi Faraonin"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "mbi qerret e tij"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dhe mbi kalorësit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:04.413515492Z",
+  "model": "glm-5.3"
+}

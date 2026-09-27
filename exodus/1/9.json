@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ai i tha popullit të vet: Ja, populli i bijve të Izraelit është i shumtë dhe më i fortë se ne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullit të vet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i shumtë"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "dhe i fortë"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se ne"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:42.553343562Z",
+  "model": "glm-5.3"
+}

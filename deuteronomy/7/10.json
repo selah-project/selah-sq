@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe shpaguan ndaj atyre që e urrejnë atë, në fytyrën e tyre, për t'i shfarosur; nuk do të vonojë për atë që e urren — në fytyrën e tij do t'i shpagojë atij.",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "dhe shpaguan"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "ndaj atyre që e urrejnë atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "në fytyrën e tyre"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "për t'i shfarosur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "do të vonojë"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "për atë që e urren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "në fytyrën e tij"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do t'i shpagojë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:32.713958986Z",
+  "model": "glm-5.3"
+}

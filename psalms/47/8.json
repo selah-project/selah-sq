@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Sepse mbret i gjithë ⟨t⟩ tokës ⟨është⟩ Elohim — këndoni një maskil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "t tokës"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "një maskil"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:01.060301169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe të gjitha shpirtrat që dolën nga ijet e Jakobit ishin shtatëdhjetë shpirtra; dhe Jozifi ⟨ishte⟩ në Egjipt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ... ishin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtrat"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "që dolën"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "nga ijet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "shtatëdhjetë"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtra"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dhe Jozifi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:47.428255469Z",
+  "model": "glm-5.3"
+}

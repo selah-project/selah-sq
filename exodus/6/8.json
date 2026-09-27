@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do t'ju çoj ⟨את⟩ ju në ⟨të⟩ tokën për të cilën ngrita ⟨את⟩ dorën time që ta jap ⟨את⟩ atë Avrahamit, Isakut dhe Jakobit; dhe do ta jap ⟨את⟩ atë juve si trashëgimi; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Dhe do t'ju çoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilën"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngrita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "që ta jap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamit"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "dhe Jakobit"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do ta jap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "si trashëgimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:16.166102941Z",
+  "model": "glm-5.3"
+}

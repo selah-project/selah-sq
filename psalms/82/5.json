@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Nuk dinë dhe nuk kuptojnë; në errësirë ecin; dridhen të gjitha themelet e tokës.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dinë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "kuptojnë"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ecin"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "dridhen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "themelet e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:19.122708286Z",
+  "model": "glm-5.3"
+}

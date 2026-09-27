@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Dhe i bekuar ⟨qoftë⟩ emri i lavdisë së tij përjetë; dhe të mbushet me lavdinë e tij ⟨את⟩ gjithë ⟨të⟩ tokën. Amin, dhe amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "dhe i bekuar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "i lavdisë së tij"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dhe të mbushet"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "me lavdinë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë të tokën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokën"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dhe amin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:27.497566666Z",
+  "model": "glm-5.3"
+}

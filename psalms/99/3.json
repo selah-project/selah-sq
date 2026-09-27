@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 99,
+  "translation": "Le të lëvdoshin ata emrin tënd — të madh dhe të frikshëm; i shenjtë ⟨është⟩ ai.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "le të lëvdoshin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dhe të frikshëm"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:07.404228658Z",
+  "model": "glm-5.3"
+}

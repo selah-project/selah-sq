@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Dhe Jahve ⟨is⟩ për mua strehë e lartë, dhe Elohim i imi shkëmb i strehimit tim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "strehë e lartë"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe Elohim i imi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "shkëmb"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "i strehimit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:07.855292101Z",
+  "model": "glm-5.3"
+}

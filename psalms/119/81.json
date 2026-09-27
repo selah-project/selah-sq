@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "U sos ⟨shpirti⟩ im për shpëtimin tënd; për fjalën tënde kam shpresë.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "u sos"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "për shpëtimin tënd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "për fjalën tënde"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "kam shpresë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:00.632653938Z",
+  "model": "glm-5.3"
+}

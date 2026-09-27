@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Rri i zgjuar pa fjetur dhe bëra si zog i vetëm mbi kulm.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Rri i zgjuar pa fjetur"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dhe bëra si"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "zog"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גג",
+      "gloss": "kulm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:03.434133691Z",
+  "model": "glm-5.3"
+}

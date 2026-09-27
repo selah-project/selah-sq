@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "I Davidit. Mësim. Sa të bekuar janë ata të cilëve është falur kryengritja, të cilëve mëkati është mbuluar.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mësim"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Sa të bekuar"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "është falur (ngritur)"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kryengritja"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "është mbuluar"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "mëkati"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:49.931342433Z",
+  "model": "glm-5.3"
+}

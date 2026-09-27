@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Lavdinë e mbretërisë sime do ta thonë, dhe fuqinë time do ta flasin.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "lavdinë"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "të mbretërisë sime"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "do ta thonë"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "dhe fuqinë time"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "do ta flasin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:49.800971530Z",
+  "model": "glm-5.3"
+}

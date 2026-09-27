@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "bënë luftë me ⟨את⟩ Beran, mbretin e Sodomës, dhe me ⟨את⟩ Birshën, mbretin e Gomorës, Shinabin, mbretin e Admahut, dhe Shemeberin, mbretin e Tsevoimit, dhe mbretin e Belasë — ajo ⟨është⟩ Tsoari.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beran, mbretin e Sodomës"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Beran"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "me ⟨את⟩",
+      "marks": "Birshën, mbretin e Gomorës"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birshën"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorës"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admahut"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "dhe Shemeberin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoimit"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbretin"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belasë"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:04.983389384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Mos ta zëvendësojë atë dhe mos ta ndërrojë ⟨את⟩ — të mirën me të keqen, ose të keqen me të mirën; dhe nëse me të vërtetë ndërron kafshë me kafshë, atëherë ajo dhe zëvendësimi i saj do të jenë ⟨të shenjta⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "ta zëvendësojë atë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ta ndërrojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "të mirën"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "me të keqen"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "me të mirën"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "המר",
+      "gloss": "me të vërtetë ndërruar"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ndërron"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshë"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "me kafshë"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "dhe zëvendësimi i saj"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:23.056029522Z",
+  "model": "glm-5.3"
+}

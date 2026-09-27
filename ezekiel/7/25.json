@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Tmerrimi vjen; dhe do të kërkojnë paqen, dhe ⟨nuk⟩ ⟨ka⟩ asnjë.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Tmerrimi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "dhe do të kërkojnë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka asnjë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:55.845542932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I malluar që e bën të trembësin të humbasë rrugën; dhe gjithë populli do të thotë: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i malluar"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "bën të humbasë"
+    },
+    {
+      "surface": "עור",
+      "gloss": "të trembësin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe do të thotë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:59.635713008Z",
+  "model": "glm-5.3"
+}

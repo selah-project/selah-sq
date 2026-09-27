@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe ushqimi i tij, ushqim i vazhdueshëm, i jepjej atij nga ⟨את⟩ mbreti, pjesa e një dite në ditën e vet, gjithë ditët e jetës së tij.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "dhe ushqimi i tij"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i vazhdueshëm"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "i jepjej"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pjesa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "e një dite"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "në ditën e vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "e jetës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:46.005508964Z",
+  "model": "glm-5.3"
+}

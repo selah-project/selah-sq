@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Sepse shigjetat e tua më kanë zhytur në mua, dhe dora jote ka rënë rëndë mbi mua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "shigjetat e tua"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "më kanë zhytur"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "dhe ka rënë rëndë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:46.947631370Z",
+  "model": "glm-5.3"
+}

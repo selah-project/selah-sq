@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Lumenjtë të duartrokitnin, bashkarisht kodrat të këndonin nga gëzimi.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Lumenjtë"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "të duartrokitnin"
+    },
+    {
+      "surface": "כף",
+      "gloss": "duar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kodrat"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "të këndonin nga gëzimi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:14.858230142Z",
+  "model": "glm-5.3"
+}

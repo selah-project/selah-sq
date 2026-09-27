@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe do të vajtojnë peshkatarët, dhe të gjithë që hedhin grep në kanale do të mbeten të pikëlluar, dhe ata që shtrijnë rrjeta mbi faqen e ujrave do të veniten.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "dhe do të vajtojnë"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "peshkatarët"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "dhe do të mbeten të pikëlluar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "që hedhin"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "në kanale"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "grep"
+    },
+    {
+      "surface": "ופורשי",
+      "gloss": "dhe ata që shtrijnë"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "rrjeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "do të veniten"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:30.339814699Z",
+  "model": "glm-5.3"
+}

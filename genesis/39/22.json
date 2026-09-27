@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe kryetari i shtëpisë së burgut dha në dorën e Jozefit ⟨את⟩ të gjithë të burgosurit që ishin në shtëpinë e burgut; dhe ⟨את⟩ gjithçka që bënin atje, ai ishte bërësi i saj.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i shtëpisë"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "së burgut"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "e Jozefit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të burgosurit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "të burgosurit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "e burgut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka që bënin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bënin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërësi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:48.636502494Z",
+  "model": "glm-5.3"
+}

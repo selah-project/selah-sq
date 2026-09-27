@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe mbartët ⟨את⟩ Sukut, mbretin tuaj, dhe ⟨את⟩ Kiun, idhujt tuaj — yllin e perëndive tuaja, të cilët i bëtë për vete.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "dhe mbartët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mbretin tuaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "idhujt tuaj"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "yllin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "e perëndive tuaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "i bëtë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për vete"
+    }
+  ],
+  "timestamp": "2026-09-27T16:46:20.088302427Z",
+  "model": "glm-5.3"
+}

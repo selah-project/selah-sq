@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 133,
+  "translation": "Si vaji i mirë mbi ⟨kokën⟩, që zbret mbi mjekrën, mjekra e Aaronit, që zbret mbi skajet e rrobave të tij.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Si vaji"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "mjekrën"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mjekra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "që zbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "e rrobave të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:12.294348595Z",
+  "model": "glm-5.3"
+}

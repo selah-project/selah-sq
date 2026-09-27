@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe ndodhi, kur mbaruan të hanin ⟨את⟩ drithin që kishin sjellë nga Egjipti, që babai i tyre u tha atyre: Kthehuni, shitni-porositni për ne pak ushqim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mbaruan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "të hanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drithin"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "drithin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "kishin sjellë"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u atyre"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "babai i tyre"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Kthehuni"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "porositni drithë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:48.429656756Z",
+  "model": "glm-5.3"
+}

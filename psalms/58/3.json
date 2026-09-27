@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Po, në zemër punoni paudhësi; në tokë peshoni dhunën e duarve tuaja.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Po"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "në zemër"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "punoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunën"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "të duarve tuaja"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "peshoni"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:28.371774393Z",
+  "model": "glm-5.3"
+}

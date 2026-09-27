@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Le të mos jetë ⟨te⟩ ti zot i huaj, dhe mos rrihu përballë një zoti të huaj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Le të mos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jetë"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zot"
+    },
+    {
+      "surface": "זר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "rrihu përballë"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "përballë një zoti"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:14.550361705Z",
+  "model": "glm-5.3"
+}

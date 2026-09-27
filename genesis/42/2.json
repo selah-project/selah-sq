@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe tha: Ja, dëgjova se ka drithë në Egjipt; zbritni atje dhe blini për ne prej andej, që të jetojmë e të mos vdesim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "drithë"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "zbritni"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "dhe blini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "që të jetojmë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e të mos"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "vdesim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:33.194884088Z",
+  "model": "glm-5.3"
+}

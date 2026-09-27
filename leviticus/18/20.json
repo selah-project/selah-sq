@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe me gruan e shokut tënd të mos japësh shtratin tënd për farë, për t'u ndotur me ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan e"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "shokut tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "japësh"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "shtratin tënd"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "për farë"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "për t'u ndotur"
+    },
+    {
+      "surface": "בה",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:39.196301923Z",
+  "model": "glm-5.3"
+}

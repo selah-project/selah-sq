@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe në ditën e tetëdo të rrethpritet mishi i paraprirjes së tij.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "dhe në ditën"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "të tetë"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "do të rrethpritet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishi"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "i paraprirjes së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:20.875027842Z",
+  "model": "glm-5.3"
+}

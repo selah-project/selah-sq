@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe tha: «Përse dora ⟨is⟩ mbi fronin e Jahut: luftë e Jahvesë kundër Amalekut, brez pas brezi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "përse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כס",
+      "gloss": "fronin e"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahut"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "kundër Amalekut"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "דר",
+      "gloss": "brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:31.689952482Z",
+  "model": "glm-5.3"
+}

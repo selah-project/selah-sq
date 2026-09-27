@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "«Provo, të lutem, ⟨את⟩ shërbëtorët e tu dhjetë ditë; dhe le të na japin nga farat e mbjella dhe të hamë, dhe ujë dhe të pimë.»",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "provo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "shërbëtorët e tu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dhe le të japin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "farat e mbjella"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "dhe të hamë"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dhe ujë"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "dhe të pimë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:27.481294406Z",
+  "model": "glm-5.3"
+}

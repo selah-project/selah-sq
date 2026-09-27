@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe zbritën dhjetë vëllezër të Jozefit për të blerë drithë nga Egjipti.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "dhe zbritën"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllezër"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "të Jozefit"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "për të blerë"
+    },
+    {
+      "surface": "בר",
+      "gloss": "drithë"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:33.195036843Z",
+  "model": "glm-5.3"
+}

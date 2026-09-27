@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "dhe ⟨את⟩ tryezën me të gjitha veglat e saj, dhe ⟨את⟩ shandarin me të gjitha veglat e tij, dhe ⟨את⟩ altarinn e temjanit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tryezën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryezën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shandarin"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "shandarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "veglat e tij"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "veglat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "altarinn e temjanit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarinn"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "e temjanit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:14.089684763Z",
+  "model": "glm-5.3"
+}

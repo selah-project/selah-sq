@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Jahve, Elohim i shpëtimit tim, ditën që kam bërtitur, natën para teje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "shpëtimit tim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "kam bërtitur"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "në natën"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "para teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:12.069938251Z",
+  "model": "glm-5.3"
+}

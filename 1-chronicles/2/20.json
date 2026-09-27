@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Huri lindi ⟨את⟩ Urin, dhe Uri lindi ⟨את⟩Betsalelin.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Dhe Huri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urin"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urin"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "dhe Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalelin"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalelin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:55.512900880Z",
+  "model": "glm-5.3"
+}

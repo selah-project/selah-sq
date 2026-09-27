@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-kings 8:66",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Në ditën e tetë ai i lejoi ⟨את⟩ popullin, dhe ata bekuan ⟨את⟩ mbretin, dhe shkuan në çadrat e tyre të gëzuar e me zemër të mirë, për të gjithë të mirën që kishte bërë Jahve për Davidin, shërbëtorin e tij, dhe për Izraelin, popullin e tij.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ai lejoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "dhe ata bekuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "në çadrat e tyre"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "të gëzuar"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "dhe me zemër"
+    },
+    {
+      "surface": "לב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "për Davidin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "dhe për Izraelin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:08.874333797Z",
+  "model": "glm-5.3"
+}

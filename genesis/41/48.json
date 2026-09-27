@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 41:48",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe ai mblodhi ⟨את⟩ të gjithë ushqimin e shtatë viteve që ishin në tokën e Egjiptit, dhe vuri ushqimin në qytete; ushqimin e fushës që ⟨ndodhej⟩ rreth secilit qytet, e vuri brenda në të.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë ushqimin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqimin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "viteve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqimin"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "në qytete"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqimin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "secilit qytet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "rreth tij"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e vuri"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "brenda në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:17.264513358Z",
+  "model": "glm-5.3"
+}

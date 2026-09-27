@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Edhe gjuha ime gjithë ditën do të përmendë drejtësinë tënde, sepse u turpëruan, sepse u mbuluan me turp ata që kërkojnë të keqen time.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuha ime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "do të përmendë (përsëris me zë të ulët)"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësinë tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "u turpëruan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "u mbuluan me turp"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ata që kërkojnë"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "të keqen time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:51.788029795Z",
+  "model": "glm-5.3"
+}

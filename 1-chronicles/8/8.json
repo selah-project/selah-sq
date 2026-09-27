@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Shaharaimi lindi fëmijë në fushën e Moabit, pasi i dëboi ⟨את⟩ ato — Hushimin dhe ⟨את⟩ Baaran, gratë e tij.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Dhe Shaharaimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushën e"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "i dëboi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "ato (Hushimin dhe Baaran)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baaran"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baaran"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "gratë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:16.364084228Z",
+  "model": "glm-5.3"
+}

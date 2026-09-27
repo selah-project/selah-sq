@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe ⟨את⟩ Kedemothin dhe ⟨את⟩ kullotat e saj, dhe ⟨את⟩ Mefaathin dhe ⟨את⟩ kullotat e saj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kedemothin"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemothin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kullotat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Mefaathin"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaathin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kullotat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:43.171234836Z",
+  "model": "glm-5.3"
+}

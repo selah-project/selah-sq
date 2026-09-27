@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe bretkosat do të largohen nga ti, dhe nga shtëpitë e tua, dhe nga shërbëtorët e tu, dhe nga populli yt; vetëm në lumë do të mbeten.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "Dhe … do të largohen"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bretkosat"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nga ti"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "dhe nga shtëpitë e tua"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "dhe nga shërbëtorët e tu"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "dhe nga populli yt"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "në lumë"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "do të mbeten"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:29.575717861Z",
+  "model": "glm-5.3"
+}

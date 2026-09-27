@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Jozuefi e solli Jakobin ⟨את⟩, atin e tij, dhe e vuri atë përballë Faraonit; dhe Jakobi e bekoi ⟨את⟩ Faraonin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dhe e solli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atin e tij"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "dhe e vuri atë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe e bekoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraonin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:08.982833472Z",
+  "model": "glm-5.3"
+}

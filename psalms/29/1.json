@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Mizmor i Davidit. Jepni Jahvesë, o bij të El-ëve, jepni Jahvesë lavdi e forcë.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Jepni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o bij"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "të El-ëve"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdi"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e forcë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:25.537624249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Për dirigjentin, për bijtë e Korachit, një mizmor",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "një mizmor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:09.131538033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe unë vetë do ta shkretëroj vendin ⟨את⟩, dhe armiqtë tuaj që banojnë në të do të mbeten të mahnitur mbi të.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "dhe do ta shkretëroj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë vetë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "do të mbeten të mahnitur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "armiqtë tuaj"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "që banojnë"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:50.945642742Z",
+  "model": "glm-5.3"
+}

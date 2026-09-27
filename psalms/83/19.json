@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Dhe ⟨le⟩ të dinë se ti — emri yt ⟨është⟩ Jahve vetëm — ⟨je⟩ i Larti mbi gjithë ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Dhe le të dinë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "i Larti"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:14.644388803Z",
+  "model": "glm-5.3"
+}

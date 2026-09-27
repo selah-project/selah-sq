@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Më ço në të vërtetën tënde dhe më mëso, se ti ⟨është⟩ Elohim i shpëtimit tim; ⟨את⟩ ty të kam pritur ⟨me shpresë⟩ gjithë ditën.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "më ço"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "në të vërtetën tënde"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "dhe më mëso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "shpëtimit tim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "të kam pritur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:24.696570728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe ndodhi pas këtyre fjalëve, që iu tha Jozefit: Ja, ati yt është i sëmurë; dhe ai mori ⟨את⟩ të dy bijtë e vet me vete, ⟨את⟩ Manasen dhe ⟨את⟩ Efraimin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalëve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "iu tha"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ati yt"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "është i sëmurë"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe ai mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të dy bijtë e vet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e vet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me vete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasen"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Efraimin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:15.176332878Z",
+  "model": "glm-5.3"
+}

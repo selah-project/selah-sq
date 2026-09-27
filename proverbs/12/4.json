@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Gruaja e fortë ⟨është⟩ kurora e burrit të saj, po si kalbëzira në eshtrat e tij ⟨është⟩ ajo që e turpëron.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "e fortë"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kurora"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "e burrit të saj"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "po si kalbëzira"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "në eshtrat e tij"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ajo që e turpëron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:42.650849089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi pas vdekjes së Moisit, shërbëtorit të Jahves, që Jahve foli te Jozue, bir i Nunit, shërbyesit të Moisit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjes"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtorit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "që foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נון",
+      "gloss": "i Nunit"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "shërbyesit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "të Moisit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:28.259979596Z",
+  "model": "glm-5.3"
+}

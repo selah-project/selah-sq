@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Dhe thonë: «Si di El, a ka njohuri te Elyoni?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Dhe thonë"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "njohuri"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "te Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:47.491755465Z",
+  "model": "glm-5.3"
+}

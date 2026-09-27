@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ai që ha nga ⟨ajo⟩ do të mbajë paudhësinë e vet, sepse ⟨gjë⟩ e shenjtë të Jahves ka përdhunuar; dhe ajo shpirt do të pritet nga populli i vet.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "dhe ai që ha nga ajo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "paudhësinë e vet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "do të mbajë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjë e shenjtë të Jahves"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "gjë e shenjtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ka përdhunuar"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "dhe do të pritet"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ajo shpirt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "nga populli i vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:01.336931770Z",
+  "model": "glm-5.3"
+}

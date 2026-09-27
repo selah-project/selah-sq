@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨את⟩ Detin e vendoi nga ana e djathtë, në lindje, përballë në jug.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Detin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e vendoi"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "nga ana"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "e djathtë"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "në lindje"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "në jug"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:20.680853629Z",
+  "model": "glm-5.3"
+}

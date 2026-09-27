@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Sepse mbreti do të dëgjojë, për të shpëtuar ⟨את⟩ shërbëtoren e tij nga dora e njeriut që kërkon të më shkatërrojë ⟨את⟩ mua dhe ⟨את⟩ birin tim bashkë nga trashëgimia e Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjojë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "për të shpëtuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtoren e tij"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "shërbëtoren e tij"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "për të shkatërruar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "birin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birin tim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "nga trashëgimia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:57.233455743Z",
+  "model": "glm-5.3"
+}

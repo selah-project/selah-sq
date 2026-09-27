@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim e mori ⟨את⟩ njeriun dhe e vendosi në kopshtin e Edenit, që ta punonte dhe ta ruante atë.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe ... mori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "dhe e vendosi (i dha pushim)"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "në kopshtin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "të Edenit"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "që ta punonte"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "dhe ta ruante"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:05.815101031Z",
+  "model": "glm-5.3"
+}

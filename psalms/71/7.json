@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Si një mrekulli u bëra për shumë veta, por ti ⟨je⟩ streha ime, forca ime.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "si një mrekulli"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "u bëra"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "për shumë veta"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forca ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:41.886798268Z",
+  "model": "glm-5.3"
+}

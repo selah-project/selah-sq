@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe çdo kafshë që e ndan këmbën e çarë dhe e çan ⟨the⟩ çarjen në dy pjesë këmbë, dhe përtyp ⟨את⟩ ⟨gjellën⟩ në mes të kafshëve — ⟨atë⟩ mund ta hani.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshë"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "që e ndan këmbën"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "këmbë e çarë"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dhe e çan plotësisht"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "çarje"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "pjesë këmbë"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "përtyp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨gjellën⟩"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "në mes të kafshëve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (kafshën e tillë)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mund ta hani"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:17.268776562Z",
+  "model": "glm-5.3"
+}

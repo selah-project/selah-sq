@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Ja, Ai ndalon ujrat dhe thahen; i lëshon ata dhe përmbysin ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ndalon"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ujrat"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dhe thahen"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i lëshon ata"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dhe përmbysin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨tokën⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:19.481093529Z",
+  "model": "glm-5.3"
+}

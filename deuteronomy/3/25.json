@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Të kaloj, të lutem, dhe të shoh ⟨את⟩ ⟨e⟩ tokën e mirë që është në anën tjetër të Jordanit, këtë mal të mirë dhe Libanin.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "të kaloj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dhe të shoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e mirë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "në anën tjetër"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "të Jordanit"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "dhe Libanin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:24.918581389Z",
+  "model": "glm-5.3"
+}

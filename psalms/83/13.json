@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "që thanë: «Le t'i zotërojmë për vete ⟨את⟩ kullotat e Elohimit».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Le t'i zotërojmë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullotat"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "kullotat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohimit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.707140669Z",
+  "model": "glm-5.3"
+}

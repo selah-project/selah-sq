@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe do të godasësh ⟨את⟩ shtëpinë e Ahabit, zotërinë tënd, dhe unë do të hakem gjakun e shërbëtorëve të mi, profetëve, dhe gjakun e të gjithë shërbëtorëve të Jahves, nga dora e Izebelit.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "do të godasësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Ahabit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "e Ahabit"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "zotërinë tënd"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "dhe do të hakem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "e shërbëtorëve"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profetëve"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "dhe gjakun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorëve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "e Izebelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:42.032669849Z",
+  "model": "glm-5.3"
+}

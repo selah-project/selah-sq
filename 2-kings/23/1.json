@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe mbreti dërgoi, dhe i mblodhën pranë tij të gjithë pleqtë e Judës dhe të Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i mblodhën"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pranë tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe të Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:03.915943905Z",
+  "model": "glm-5.3"
+}

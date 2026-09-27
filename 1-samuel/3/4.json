@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Jahve e thirri Samuelin, dhe ai tha: «Ja, unë jam këtu.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e thirri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam këtu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:56.644940135Z",
+  "model": "glm-5.3"
+}

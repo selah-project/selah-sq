@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Ndihem i turpëruar, o Sidon, sepse deti foli, kështjella e detit, duke thënë: Nuk përvëlova dhe nuk lindja, dhe nuk i rrita djemtë e rinj, nuk i ngrita vajzat.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Ndihem i turpëruar"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "o Sidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kështjella"
+    },
+    {
+      "surface": "הים",
+      "gloss": "e detit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "përvëlova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "lindja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "i rrita"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "djemtë e rinj"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ngrita"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "vajzat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:38.917922008Z",
+  "model": "glm-5.3"
+}

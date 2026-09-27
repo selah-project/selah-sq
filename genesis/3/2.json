@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe gruaja i tha gjarprit: Ne hamë ⟨pemët⟩ e frytit të pemëve të kopshtit.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "gjarprit"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "nga fryti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "i pemëve"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "të kopshtit"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "hamë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:41.371694774Z",
+  "model": "glm-5.3"
+}

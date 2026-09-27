@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe mbreti i tha gruas: Shko në shtëpinë tënde, dhe unë do të jap urdhër për ty.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruas"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Shko"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "do të jap urdhër"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:50.688834124Z",
+  "model": "glm-5.3"
+}

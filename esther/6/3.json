@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 6:3",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe mbreti tha: Çfarë nderi a madhështie i është bërë Mordekaivt për këtë? Dhe shërbëtorët e mbretit, ata që i shërbenin, thanë: Nuk i është bërë asgjë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "është bërë"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "nderi"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "a madhështie"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaivt"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ata që i shërbenin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "është bërë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i është ... atij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:56.238294262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe ju do të më jeni mbretëri priftërinjsh dhe komb i shenjtë. Këto janë fjalët që do t'i thuash bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "do të jeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "mbretëri"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priftërinjsh"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "dhe komb"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "do të thuash"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara\/bijve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:55.629957800Z",
+  "model": "glm-5.3"
+}

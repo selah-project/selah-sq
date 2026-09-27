@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe bijve të Aaronit, priftit, u dhanë ⟨את⟩ qytetin e strehimit të vrasësit, ⟨את⟩ Hebronin me kullotat e veta, dhe ⟨את⟩ Libnahun me kullotat e veta.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "dhe bijve"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "të Aaronit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u dhanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin e strehimit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "i strehimit"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "të vrasësit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Libnahun"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:47.487352790Z",
+  "model": "glm-5.3"
+}

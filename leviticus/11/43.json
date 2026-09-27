@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Mos bëni neveri ⟨את⟩ shpirtrat tuaj me ndonjë gjë të zvarritur që zvarritet, dhe mos u ndotni me to, dhe të mos ndoteni nëpërmjet tyre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bëni neveri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtrat tuaj"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "shpirtrat tuaj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me ndonjë"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "gjë të zvarritur"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "që zvarritet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "u ndotni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "të mos ndoteni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nëpërmjet tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:45.082580164Z",
+  "model": "glm-5.3"
+}

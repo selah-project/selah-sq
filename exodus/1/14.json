@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ua bënë jetën të hidhur me punë të rëndë, në balte dhe në tulla dhe në çdo punë në fushë; ⟨את⟩ të gjithë punën e tyre që punuan në të, me ashpërsi.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "ua bënë të hidhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jetën e tyre"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "jetën e tyre"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "me punë"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "të rëndë"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "në balte"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "dhe në tulla"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe në çdo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë punën e tyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "punën e tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "punuan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në të"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "me ashpërsi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:01.557461142Z",
+  "model": "glm-5.3"
+}

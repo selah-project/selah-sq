@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Dhe ecën nga një komb në një komb tjetër, nga një mbretëri te një popull tjetër.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "dhe ecën"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nga një komb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "një komb"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "nga një mbretëri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עם",
+      "gloss": "një popull"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.783148374Z",
+  "model": "glm-5.3"
+}

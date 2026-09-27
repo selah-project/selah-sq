@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Në fakt, për shkakun tënd jemi vrarë gjithë ditën; jemi llogaritur si dele për therje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Në fakt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "për shkakun tënd"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "jemi vrarë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "jemi llogaritur"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "si dele"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "për therje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:23.884164034Z",
+  "model": "glm-5.3"
+}

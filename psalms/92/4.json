@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Mbi asor-in dhe mbi nevel, mbi tingëllim të butë ⟨të⟩ kinnar-it.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Mbi"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor-in"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "tingëllim të butë"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "⟨të⟩ kinnar-it"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:38.534216222Z",
+  "model": "glm-5.3"
+}

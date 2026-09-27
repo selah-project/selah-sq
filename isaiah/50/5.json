@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Adonai Jahve më hapi ⟨⟨את⟩⟩ veshin, dhe unë nuk u binda me forcë, pas nuk u tërhoqa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "veshin"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "u rebelua"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "u tërhoqa"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:16.586617078Z",
+  "model": "glm-5.3"
+}

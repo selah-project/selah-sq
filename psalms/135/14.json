@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Sepse Jahve do të gjykojë popullin e vet dhe për shërbëtorët e vet do të ngushëllohet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e vet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e vet"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "do të ngushëllohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:41.472785388Z",
+  "model": "glm-5.3"
+}

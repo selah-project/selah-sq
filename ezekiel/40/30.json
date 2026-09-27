@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "dhe portiket rreth e rrotull: gjatësia njëzet e pesë kubitë dhe gjerësia pesë kubitë.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "dhe portiket"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gjatësia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dhe njëzet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dhe gjerësia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:08.676183974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe ju do të ngriheni nga prita dhe do ta pushtoni ⟨את⟩ qytetin; dhe Jahve, Elohim i juaji, do t'jua japë atë në dorën tuaj.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "do të ngriheni"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "nga prita"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "dhe do ta pushtoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dhe do ta japë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "në dorën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:57.148606093Z",
+  "model": "glm-5.3"
+}

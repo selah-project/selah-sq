@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Sepse zemërimi i njeriut do të të lëvdojë; mbetjen e zemërimit do ta ngjeshësh me rrip.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zemërimi i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "do të të lëvdojë"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "mbetjen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "e zemërimit"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "do ta ngjeshësh me rrip"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:02.187423264Z",
+  "model": "glm-5.3"
+}

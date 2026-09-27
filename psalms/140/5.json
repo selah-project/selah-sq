@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Më ruaj, o Jahve, nga duart e të ligut; më mbro nga njeri i dhunës, të cilët kanë përgatitur të më rrëzojnë hapat e mi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "më ruaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga duart e"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të ligut"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nga njeri i"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "dhunës"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "më mbro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "kanë përgatitur"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "të rrëzojnë"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "hapat e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:13.114326509Z",
+  "model": "glm-5.3"
+}

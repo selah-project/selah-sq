@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe e mashtronin ⟨Atë⟩ me gojën e tyre, dhe me gjuhën e tyre i gënjeshtronin.",
+  "tokens": [
+    {
+      "surface": "וַיְפַתּוּהוּ",
+      "gloss": "e mashtronin ⟨Atë⟩"
+    },
+    {
+      "surface": "בְּפִיהֶם",
+      "gloss": "me gojën e tyre"
+    },
+    {
+      "surface": "וּבִלְשׁוֹנָם",
+      "gloss": "dhe me gjuhën e tyre"
+    },
+    {
+      "surface": "יְכַזְּבוּ",
+      "gloss": "i gënjeshtronin"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:02.758607941Z",
+  "model": "glm-5.3"
+}

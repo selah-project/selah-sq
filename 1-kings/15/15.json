@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "dhe solli ⟨את⟩ gjërat e shenjta të të atit dhe gjërat e veta të shenjta në shtëpinë e Jahves: argjend, ar dhe enë.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe solli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjërat e shenjta të të atit"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "gjërat e shenjta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të të atit"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "dhe gjërat e veta të shenjta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe ar"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "dhe enë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:48.096999898Z",
+  "model": "glm-5.3"
+}

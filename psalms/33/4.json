@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Sepse e drejtë ⟨është⟩ fjala e Jahvesë, dhe gjithë veprat e tij ⟨janë⟩ në besnikëri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "veprat e tij"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "në besnikëri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:52.080010485Z",
+  "model": "glm-5.3"
+}

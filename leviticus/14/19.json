@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti do të bëjë ⟨את⟩ flijimin për mëkatin dhe do të bëjë shpengimin për atë që pastrohet nga papastërtia e tij; dhe më pas do të therë ⟨את⟩ flijimin e djegies.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe do të bëjë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin për mëkatin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "flijimin për mëkatin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dhe do të bëjë shpengimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "atë që pastrohet"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "nga papastërtia e tij"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe më pas"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "do të therë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegies"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegies"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:13.253752638Z",
+  "model": "glm-5.3"
+}

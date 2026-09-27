@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Më vonë ajo lindi një vajzë dhe e quajti ⟨את⟩ emrin e saj Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "më vonë"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajzë"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e saj"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "emrin e saj"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:03.607300454Z",
+  "model": "glm-5.3"
+}

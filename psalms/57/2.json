@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Më falësh mëshirë, o Elohim, më falësh mëshirë, sepse shpirti im strehohet te ti; po, nën hijen e krahëve të tua do të strehohem, deri sa të kalojnë shkatërrimet.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Më falësh mëshirë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "më falësh mëshirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "strehohet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "po, nën hijen e"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "krahëve të tua"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "do të strehohem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "të kalojnë"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "shkatërrimet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.842383290Z",
+  "model": "glm-5.3"
+}

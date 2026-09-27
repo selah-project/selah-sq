@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "bir i Amariahut, bir i Azariahut, bir i Merajothit.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "i Amariahut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "i Azariahut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "i Merajothit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:47.045550033Z",
+  "model": "glm-5.3"
+}

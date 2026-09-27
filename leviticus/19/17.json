@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos e urrej ⟨את⟩ vëllanë tënd në zemrën tënde; qortoije me të vërtetë ⟨את⟩ shokun tënd, dhe mos mbaj mëkat për shkak të tij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "urrej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllanë tënd"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllanë tënd"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "në zemrën tënde"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "qortoije"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "me të vërtetë (do ta qortosh)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shokun tënd"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "shokun tënd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mbaj"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për shkak të tij (mbi të)"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkat"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:13.517510766Z",
+  "model": "glm-5.3"
+}

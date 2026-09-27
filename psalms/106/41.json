@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe i dori ⟨את⟩-i te dora e kombeve, dhe i urryerit e tyre sunduan mbi ta.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "dhe i dori"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "te dora e"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "dhe sunduan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "i urryerit e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:28.104284431Z",
+  "model": "glm-5.3"
+}

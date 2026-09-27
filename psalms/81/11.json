@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Unë ⟨jam⟩ Jahve, Elohim i yt, ai që të ngjiti nga vendi i Egjiptit; hap fort gojën tënde dhe unë do ta mbush.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ai që të ngjiti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "hap fort"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gojën tënde"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "dhe unë do ta mbush"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:14.550517184Z",
+  "model": "glm-5.3"
+}

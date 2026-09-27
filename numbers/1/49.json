@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Vetëm ⟨את⟩ fisin e Levit nuk do ta numërosh, dhe ⟨את⟩ numrin e tyre nuk do ta marrësh në mes të bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fisin e Levit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fisin"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "do ta numërosh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "numrin e tyre"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "numrin e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "do ta marrësh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:40.245236274Z",
+  "model": "glm-5.3"
+}

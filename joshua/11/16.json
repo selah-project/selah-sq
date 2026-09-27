@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe mori Jozue ⟨את⟩ gjithë këtë tokë: ⟨i⟩ mali dhe ⟨את⟩ gjithë Negevin, dhe ⟨את⟩ gjithë tokën e Goshenit, dhe ⟨את⟩ Shfelanë, dhe ⟨את⟩ Arabahun, dhe ⟨את⟩ malin e Izraelit dhe Shfelanë e tij.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë këtë tokë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë Negevin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negevin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë tokën e Goshenit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën e"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshenit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shfelanë"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Shfelanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Arabahun"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "malin e Izraelit"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "dhe Shfelanë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:03.386831309Z",
+  "model": "glm-5.3"
+}

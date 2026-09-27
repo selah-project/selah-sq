@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Gënjeshtër flasin njëri ⟨את⟩ i afërmi i tij; buzë të lëmuara, me zemër e zemër flasin.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Gënjeshtër"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i afërmi i tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "i afërmi i tij"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "buzë"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "të lëmuara"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "me zemër"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dhe zemër"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:54.931229282Z",
+  "model": "glm-5.3"
+}

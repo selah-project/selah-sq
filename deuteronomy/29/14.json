@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Por ⟨me⟩ ⟨את⟩ atë që është këtu me ne, duke qëndruar sot përballë Jahve, Elohim-it tonë, dhe ⟨me⟩ ⟨את⟩ atë që nuk është këtu me ne sot —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që është këtu me ne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "është"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "duke qëndruar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-it tonë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "atë që nuk është këtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:38.247235504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Do t'i bësh ata si furrë zjarri në kohën e fytyrës sate, Jahve; në zemërimin e tij ai do t'i gëlltisë, dhe zjarri do t'i përbijë.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "do t'i bësh ata"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "si furrë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "në kohën e"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrës sate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në zemërimin e tij"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "do t'i gëlltisë"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "dhe do t'i përbijë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:50.334473412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Të drejtit do të trashëgojnë ⟨të⟩ tokën dhe do të banojnë në të përjetë.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "do të trashëgojnë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "dhe do të banojnë"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:16.589662887Z",
+  "model": "glm-5.3"
+}

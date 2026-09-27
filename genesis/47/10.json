@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Jaakobi bekoi ⟨את⟩ Faraonin dhe doli nga para Faraonit.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraonin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nga para"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:40.618584533Z",
+  "model": "glm-5.3"
+}

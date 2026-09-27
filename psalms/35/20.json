@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Sepse nuk flasin paqen, dhe kundër të qetëve të dheut fjalë mashtrimesh pinë në mendje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe kundër"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "të qetëve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të dheut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "mashtrimesh"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "pinë në mendje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:46.848188991Z",
+  "model": "glm-5.3"
+}

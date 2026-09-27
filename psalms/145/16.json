@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Ti hap ⟨את⟩ dorën tënde dhe ngop me dashamirësi çdo gjë të gjallë.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "hap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "dhe ngop"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gjë të gjallë"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "me dashamirësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:58.120840411Z",
+  "model": "glm-5.3"
+}

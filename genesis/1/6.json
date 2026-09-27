@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim tha: «Le të jetë një hapësirë në mes të ujrave, dhe le të ndajë ujrat nga ujrat.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Le të jetë"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "hapësirë"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe le të jetë"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "që ndajë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ndërmjet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "למים",
+      "gloss": "nga ujrat"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.265455394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ajo tha: A kërkova prej ⟨את⟩ zotërisë tim një djalë? A nuk thashë: Mos më mashtro ⟨אתי⟩?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "a kërkova"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "prej ⟨את⟩",
+      "marks": "zotërisë tim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotërisë tim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "më mashtro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:47.323908797Z",
+  "model": "glm-5.3"
+}

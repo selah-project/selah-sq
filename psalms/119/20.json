@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Shpirti im ⟨eshtë⟩ i thyer nga dëshira për gjykatat e tua në çdo kohë.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "i thyer"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "nga dëshira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykatat e tua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.549514663Z",
+  "model": "glm-5.3"
+}

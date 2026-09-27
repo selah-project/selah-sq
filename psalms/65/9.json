@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Banorët e skajeve të largëta druhen nga shenjat e tua; daljet e mëngjesit dhe të mbrëmjes i bën të këndojnë.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "druhen"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "të skajeve të largëta"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "nga shenjat e tua"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "daljet e"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesit"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "dhe të mbrëmjes"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "i bën të këndojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:04.779755349Z",
+  "model": "glm-5.3"
+}

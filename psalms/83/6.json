@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Sepse kanë marrë këshillë me zemër të një, kundër teje kanë bërë besëlidhje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "kanë marrë këshillë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "me zemër"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "të një"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "יזכר... יכרתו",
+      "gloss": "kanë bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.577956331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Nuk i shkatërruan ⟨את⟩ popujt, për të cilët kishte thënë Jahve për ta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "i shkatërruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popujt"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilët"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kishte thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.020796138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe Bela, bir i Azazit, bir i Shemas, bir i Joelit; ⟨ai⟩ banonte në Aroer, deri në Nebo dhe Baal-Meon.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "dhe Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "i Azazit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i Shemas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "i Joelit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ai⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banonte"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "në Aroer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dhe Baal-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-Meon"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:21.024473214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Çfarë përfitimi ⟨ka⟩ në gjakun tim, kur zbrit në gropën e shkatërrimit? A të lavdëron pluhuri? A shpall ⟨ai⟩ të vërtetën tënde?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "përfitimi"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "në gjakun tim"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "kur zbrit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gropën e shkatërrimit"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "a të lavdëron"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhuri"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "a shpall"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "të vërtetën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:11.969080858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Jeruzalemi, i ndërtuar si qytet që ⟨është⟩ lidhur bashkë për vete, i bashkuar.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemi"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "i ndërtuar"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "si qytet"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "që ⟨është⟩ lidhur bashkë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "i bashkuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:42.089011575Z",
+  "model": "glm-5.3"
+}

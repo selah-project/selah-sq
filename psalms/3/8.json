@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ngrihu, Jahve! Shpëtomë, Elohim i imi, se ke goditur ⟨את⟩ të gjithë armiqtë e mi në faqe; dhëmbët e të pabesëve i ke thyer.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Shpëtomë"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i imi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ke goditur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë armiqtë e mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "në faqe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dhëmbët"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesëve"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "i ke thyer"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:44.233008597Z",
+  "model": "glm-5.3"
+}

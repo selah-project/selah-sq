@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sa i bekuar ⟨është⟩ njeriu që nuk ecën në këshillin e të pabesëve, në rrugën e mëkatarëve nuk qëndroi, e në vendin e tallësve nuk u ul.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sa i bekuar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "në këshillin e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesëve"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "në rrugën e"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mëkatarëve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "qëndroi"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e në vendin e"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "tallësve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "u ul"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.561219179Z",
+  "model": "glm-5.3"
+}

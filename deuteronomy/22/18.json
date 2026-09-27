@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe pleqtë e atij qyteti do të marrin ⟨את⟩ atë burrë dhe do ta ndëshkojnë ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "dhe do të marrin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë burrë"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "burrë"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "dhe do ta ndëshkojnë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:37.610096852Z",
+  "model": "glm-5.3"
+}

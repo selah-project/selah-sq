@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të bëjë ⟨את⟩ ⟨e⟩ njërën nga bletët e egra ose nga të vegjlit e pëllumbit, sipas asaj që arrin dora e tij.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe do të bëjë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njërën (nga bletët ose pëllumbat)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërën"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "bletët e egra"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të vegjlit e"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pëllumbit"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sipas asaj që"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "arrin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:58.983678659Z",
+  "model": "glm-5.3"
+}

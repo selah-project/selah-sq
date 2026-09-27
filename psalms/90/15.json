@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Na gëzo sa ditët që na ke munduar, sa vitet që pamë të keqen.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Na gëzo"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "sa ditët"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "që na ke munduar"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sa vitet"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "që pamë"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:22.766663136Z",
+  "model": "glm-5.3"
+}

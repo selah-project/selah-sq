@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Unë ⟨jam⟩ Jahve, ⟨i Shënjtë⟩ juaj, Krijuesi i Izraelit, Mbreti juaj.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "i Shënjtë juaj"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Krijuesi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Mbreti juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:06.502160078Z",
+  "model": "glm-5.3"
+}

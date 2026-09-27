@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "«Urdhëro ⟨את⟩ priftërinjtë, mbajtësit e arkës së dëshmisë, dhe le të ngjiten nga Jordani.»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Urdhëro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priftërinjtë"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mbajtësit e"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkës së"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "dëshmisë"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dhe le të ngjiten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:23.374361875Z",
+  "model": "glm-5.3"
+}

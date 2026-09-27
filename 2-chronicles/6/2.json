@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "«Dhe unë të ndërtova ty një shtëpi banimi, një vend për të qëndruar ty përjetë.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "të ndërtova"
+    },
+    {
+      "surface": "בית",
+      "gloss": "një shtëpi"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "banimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "dhe një vend"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "për të qëndruar ty"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:48.047562625Z",
+  "model": "glm-5.3"
+}

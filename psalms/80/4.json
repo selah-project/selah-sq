@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Elohim, ktheji! Bëj të shkëlqejë fytyra jote, dhe do të shpëtojmë!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ktheji"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "bëj të shkëlqejë"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyra jote"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "do të shpëtojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:39.169457652Z",
+  "model": "glm-5.3"
+}

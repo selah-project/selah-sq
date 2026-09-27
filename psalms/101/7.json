@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Nuk do të rrojë në mes të shtëpisë sime bërësi i mashtrimit; folësi i gënjeshtrave nuk do të qëndrojë para syve të mi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "do të rrojë"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "shtëpisë sime"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërësi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "i mashtrimit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "folësi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "i gënjeshtrave"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "do të qëndrojë"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syve të mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:48.490042592Z",
+  "model": "glm-5.3"
+}

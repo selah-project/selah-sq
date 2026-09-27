@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jahve, Elohim i etërve tuaj, të shtojë mbi ju sa jeni, një mijë herë, dhe të ju bekojë ⟨אתכם⟩, siç ju ka folur!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "etërve tuaj"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "të shtojë"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "sa jeni"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe të bekojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (përemri i kundrinës)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:47.637018948Z",
+  "model": "glm-5.3"
+}

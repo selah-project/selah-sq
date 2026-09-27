@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Por nuk u larguan nga mëkatet e shtëpisë së Jarobeamit, me të cilat ai bëri ⟨את⟩ Izraelin të mëkatojë; në to ecën, dhe madje Ashera qëndronte në Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Por"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "u larguan"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "nga mëkatet e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeamit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilat"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "bëri të mëkatojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në to"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe madje"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "qëndronte"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "në Shomron"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:35.865756620Z",
+  "model": "glm-5.3"
+}

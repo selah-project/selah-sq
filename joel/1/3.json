@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Për këtë u tregoni bijve tuaj, dhe bijtë tuaj bijve të tyre, dhe bijtë e tyre brezit tjetër.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Për këtë"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "bijve tuaj"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "u tregoni (rrëfeni)"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "dhe bijtë tuaj"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bijve të tyre"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "dhe bijtë e tyre"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brezit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:17.658613869Z",
+  "model": "glm-5.3"
+}

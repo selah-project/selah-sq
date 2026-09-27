@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do t'u thuash ⟨את⟩ fjalët e mia atyre — nëse dëgjojnë, dhe nëse tërhiqen — sepse kryenece ⟨janë⟩ ata.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Dhe do të flasësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e mia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dëgjojnë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "tërhiqen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "kryenece"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:39.186399772Z",
+  "model": "glm-5.3"
+}

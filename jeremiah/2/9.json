@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Prandaj edhe do të grindem ⟨את⟩ me ju, thotë Jahve, dhe me ⟨את⟩ bijtë e bijve tuaj do të grindem.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Prandaj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "edje"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "do të grindem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e bijve tuaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bijve tuaj"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "do të grindem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:05.089558990Z",
+  "model": "glm-5.3"
+}

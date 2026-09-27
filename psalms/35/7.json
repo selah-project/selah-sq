@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Sepse pa shkak më fshehën ⟨atë⟩ gropë — rrjetën e tyre; pa shkak gërmuan ⟨gropë⟩ për shpirtin tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa shkak"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "më fshehën"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨atë⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gropë"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "rrjetën e tyre"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa shkak"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "gërmuan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "për shpirtin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.617377143Z",
+  "model": "glm-5.3"
+}

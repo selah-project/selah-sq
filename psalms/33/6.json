@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Nëpërmjet fjalës së Jahvesë u bënë qiejt, dhe me frymën e gojës së tij të gjitha ushtritë e tyre.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "nëpërmjet fjalës së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "u bënë"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "dhe me frymën e"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gojës së tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ushtritë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.341371121Z",
+  "model": "glm-5.3"
+}

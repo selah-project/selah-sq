@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Jahve dëgjoi zërin e Izraelit dhe dha ⟨את⟩ Kanaanitin në dorën e tyre, dhe i shfarosi ⟨את⟩ ata dhe ⟨את⟩ qytetet e tyre; dhe e quajti emrin e vendit Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanitin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanitin"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "dhe i shfarosi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata (Kanaanitët)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qytetet e tyre"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "qytetet e tyre"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "të vendit"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:57.149178376Z",
+  "model": "glm-5.3"
+}

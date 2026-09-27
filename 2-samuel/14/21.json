@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe mbreti i tha Joabit: Shiko, të lutem, ke bërë ⟨את⟩ këtë punë; shko, kthe ⟨את⟩ të birin e ri, ⟨את⟩ Avshalomin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë punë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dhe shko"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kthe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të birin e ri"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "të birin e ri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:08.522636774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Dhe e vërteta u zhduk, dhe ai që largohet nga e keqja bëhet plaçkë; dhe Jahve pa, dhe i peshoi keq në sytë e ⟨tij⟩, se nuk ka gjykim.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "dhe u zhduk"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "e vërteta"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "u zhduk"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dhe largohet"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nga e keqja"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "bëhet plaçkë"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "dhe i peshoi keq"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:51.012208424Z",
+  "model": "glm-5.3"
+}

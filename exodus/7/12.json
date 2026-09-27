@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe hodhi secili shkopin e vet, dhe u bënë gjarpërinj; dhe shkopi i Aaronit gëlltiti ⟨את⟩ shkopinjtë e tyre.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "dhe hodhi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "shkopin e vet"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe u bënë"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "gjarpërinj"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "dhe gëlltiti"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "shkopi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aaronit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopinjtë e tyre"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "shkopinjtë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:13.120868027Z",
+  "model": "glm-5.3"
+}

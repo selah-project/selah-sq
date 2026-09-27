@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Ah, Jahve, sepse unë ⟨jam⟩ shërbyesi yt, unë ⟨jam⟩ shërbyesi yt, bir i shërbëtores sate; ti i çelve lisat e mia.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbyesi yt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbyesi yt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "i shërbëtores sate"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ti i çelve"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "lisat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:03.093211370Z",
+  "model": "glm-5.3"
+}

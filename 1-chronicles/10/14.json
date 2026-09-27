@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe nuk pyeti te Jahve; pra Ai e vrau atë dhe e kaloi ⟨את⟩ mbretërinë te Davidi, bir i Isait.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "te Jahve"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "prandaj e vrau atë"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dhe e kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretërinë"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mbretërinë"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "te Davidi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "i Isait"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:57.832175443Z",
+  "model": "glm-5.3"
+}

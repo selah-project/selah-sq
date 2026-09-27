@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "E bëre ⟨atë⟩ pak më pak se Elohim, dhe me lavdi e madhështi e kurorëzove ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "e bëre pak më pak"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "se Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dhe me lavdi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e madhështi"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "e kurorëzove"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:37.356206539Z",
+  "model": "glm-5.3"
+}

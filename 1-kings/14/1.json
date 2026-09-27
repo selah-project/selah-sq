@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Në atë kohë sëmuri Abijah, biri i Jeroboamit.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sëmuri"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "i Jeroboamit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:13.956579736Z",
+  "model": "glm-5.3"
+}

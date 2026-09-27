@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Sytë e Jahve-sit ⟨janë⟩ mbi të drejtitë dhe veshët e tij drejt britmës së tyre.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtitë"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "dhe veshët e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "britmës së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:26.214632964Z",
+  "model": "glm-5.3"
+}

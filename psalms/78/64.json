@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "priftërinjtë e tij ranë nga shpata, dhe vejushat e tij nuk qanin ⟨asaj⟩.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "priftërinjtë e tij"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "dhe vejushat e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "qanin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:01.906089826Z",
+  "model": "glm-5.3"
+}

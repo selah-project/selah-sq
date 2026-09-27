@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "atëherë pleqtë e qytetit të tij do të dërgojnë e do ta marrin ⟨את⟩ atë prej andej dhe do ta japin ⟨את⟩ atë në dorë të shpenguesit të gjakut, dhe ai vdes.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "do të dërgojnë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "qytetit të tij"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "dhe do ta marrin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe do ta japin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "të shpenguesit"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "të gjakut"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe ai vdes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:27.182145873Z",
+  "model": "glm-5.3"
+}

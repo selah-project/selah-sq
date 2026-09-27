@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe nga më të varfrit e vendit la kryetherësi vreshtarë e bujq.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "dhe nga më të varfrit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e vendit"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "la"
+    },
+    {
+      "surface": "רב",
+      "gloss": "krye-"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "therësi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "vreshtarë"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "e bujq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:13.588101162Z",
+  "model": "glm-5.3"
+}

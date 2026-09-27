@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Ditë e natë e rrethojnë ⟨ata⟩ mbi muret e saj, dhe paudhësi dhe punë e keqe ⟨janë⟩ në mes të saj.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e natë"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "e rrethojnë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "muret e saj"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "dhe paudhësi"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "dhe punë e keqe"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "në mes të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:53.188387331Z",
+  "model": "glm-5.3"
+}

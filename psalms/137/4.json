@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Si të këndojmë ⟨את⟩ këngën e Jahves mbi dhè të huaj?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "si"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "të këndojmë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këngën e Jahves"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dhè"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:21.770582598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi, kur unë, Daniel, pashë ⟨את⟩ vegimin, të kërkoja kuptim, dhe ja, po qëndronte para meje si pamja e një burri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kur pashë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vegimin"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "vegimin"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "të kërkoja"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kuptim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "po qëndronte"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "si pamja"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "e një burri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:01.216268181Z",
+  "model": "glm-5.3"
+}

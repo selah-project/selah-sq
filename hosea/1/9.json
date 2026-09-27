@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ tha: «I vini emrin Lo-Ami, sepse ju nuk jeni populli im, dhe as unë nuk do të jem i juaji.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "I vini emrin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami (populli im)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jeni populli im"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe as unë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "do të jem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T16:41:31.105037035Z",
+  "model": "glm-5.3"
+}

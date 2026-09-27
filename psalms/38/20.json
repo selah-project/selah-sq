@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe armiqtë e mi janë gjallë dhe të fortë, dhe ata që më urrejnë pa faj janë shumuar.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "dhe armiqtë e mi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gjallë"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "janë shumuar"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ata që më urrejnë"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pa faj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:32.125924713Z",
+  "model": "glm-5.3"
+}

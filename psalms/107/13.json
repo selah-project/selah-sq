@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Atëherë bërtitën drejt Jahvesë në pikëllimin e tyre, dhe nga ngushticat e tyre i shpëtoi.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "bërtitën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "në pikëllimin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "nga ngushticat e tyre"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "i shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:41.222996368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Por populli im nuk dëgjoi zërin tim, dhe Izraeli s' donte ⟨të ma dëgjonte⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Por… nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe Izraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "donte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "të ma dëgjonte"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:14.550648008Z",
+  "model": "glm-5.3"
+}

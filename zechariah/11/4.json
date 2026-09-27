@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Kështu ka thënë Jahve, Elohim i im: Kullot ⟨את⟩ tufën e therrjes!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i im"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Kullot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufën e therrjes"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tufën"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "e therrjes"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:48.912182644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "dhe u shërbenin ⟨את⟩ idhujve të tyre, dhe këta u bënë për ta një kurth.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "u shërbenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idhujve të tyre"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "idhujve të tyre"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u bënë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "një kurth"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.021154662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe dëgjo, o Israel, dhe kujdesu t'i bësh, që të të shkojë mirë dhe që të shumëzoheni shumë, siç foli Jahve, Elohim i etërve të tu, ⟨për ty⟩ — një vend që rrjedh qumësht dhe mjaltë.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Dhe dëgjo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Israel"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dhe kujdesu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "t'i bësh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "të të shkojë mirë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "të shumëzoheni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "etërve të tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "që rrjedh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "qumësht"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:00.680752589Z",
+  "model": "glm-5.3"
+}

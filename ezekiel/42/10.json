@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Në gjerësinë e murit të oborrit, rruga nga lindja, përballë vendit të veçuar dhe përballë ndërtesës — dhoma.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "në gjerësinë"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "e murit"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "të oborrit"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "nga lindja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "báll"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "vendit të veçuar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "báll"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ndërtesës"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "dhoma"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:04.131603543Z",
+  "model": "glm-5.3"
+}

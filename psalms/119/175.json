@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Le të jetojë shpirti im dhe ⟨ai⟩ të të lavdërojë, dhe gjykimet e tua të më ndihmojnë.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "le të jetojë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "dhe të të lavdërojë"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dhe gjykimet e tua"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "të më ndihmojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:53.637560568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Mos i vër gozhdë gojës së demit gjatë këmbëzimit të tij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "i vër gozhdë gojës"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "gjatë këmbëzimit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:13.418774076Z",
+  "model": "glm-5.3"
+}

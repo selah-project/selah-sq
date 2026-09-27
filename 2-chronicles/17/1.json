@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jozafati, biri i tij, mbretëroi në vend të tij, dhe u forcua mbi Izraelin.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jozafati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "dhe u forcua"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:44.953602503Z",
+  "model": "glm-5.3"
+}

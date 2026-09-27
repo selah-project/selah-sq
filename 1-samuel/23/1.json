@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe i treguan Davidit, duke thënë: Ja, Filistët po luftojnë kundër Qeilasë, dhe po plaçkitin ⟨את⟩ lëmetë.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "i treguan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistët"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "po luftojnë"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "kundër Qeilasë"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dhe ata"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "po plaçkitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lëmetë"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lëmetë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:01.192705848Z",
+  "model": "glm-5.3"
+}

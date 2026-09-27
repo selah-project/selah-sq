@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Sepse ti na ke shpëtuar nga armiqtë tanë dhe i ke turpëruar ata që na urrejnë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "na ke shpëtuar"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "nga armiqtë tanë"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "dhe ata që na urrejnë"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "i ke turpëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:08.056240413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe tani dërgo, streho ⟨את⟩ kafshët e tua dhe ⟨את⟩ gjithçka që ke në fushë; çdo njeri dhe kafshë që gjendet në fushë dhe nuk mbledhet brenda në shtëpi — mbi ta do të bjerë breshëri dhe do të vdesin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "העז",
+      "gloss": "strehoi\/i ço brenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kafshët e tua"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "kafshët e tua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "dhe kafshë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "mbledhet"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "brenda në shtëpi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "do të bjerë"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "breshëri"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dhe do të vdesin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:15.679296497Z",
+  "model": "glm-5.3"
+}

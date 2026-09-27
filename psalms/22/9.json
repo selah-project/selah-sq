@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "«Rrokja i dorëzohet Jahvesë — le të çmojë atë, le ta shpëtojë atë, sepse ai gëzon atë!»",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rrokja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "le të çmojë atë"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "le ta shpëtojë atë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gëzon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:56.154603715Z",
+  "model": "glm-5.3"
+}

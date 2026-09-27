@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe ⟨bijtë⟩ e Cidekiahut i therën para syve të tij; dhe ⟨sytë⟩ e Cidekiahut i verboi, dhe e lidhën me pranga bronzi dhe e çuan në Babilon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Cidekiahut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "e Cidekiahut"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "i therën"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "para syve të tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e Cidekiahut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "e Cidekiahut"
+    },
+    {
+      "surface": "עור",
+      "gloss": "i verboi"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "dhe e lidhën"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "me pranga bronzi"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "në Babilon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:11.394811745Z",
+  "model": "glm-5.3"
+}

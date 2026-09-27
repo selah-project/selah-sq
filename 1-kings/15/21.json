@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe ndodhi që, kur e dëgjoi Baasha, ndali nga ndërtimi i ⟨את⟩ Ramahs, dhe u vendos në Tircë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur e dëgjoi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ndali"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "nga ndërtimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramahs"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramahs"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u vendos"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "në Tircë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:24.259900223Z",
+  "model": "glm-5.3"
+}

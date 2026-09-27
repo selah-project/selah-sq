@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Sepse nëse ti refuzon t'i lëshosh, dhe ende i mban fort ato,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuzon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "t'i lëshosh"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "dhe ende ti"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "i mban fort"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:57.678924781Z",
+  "model": "glm-5.3"
+}

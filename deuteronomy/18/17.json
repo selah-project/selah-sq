@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jahve më tha ⟨mua⟩: Kanë folur mirë atë që kanë folur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "kanë folur mirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kanë folur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:20.399999907Z",
+  "model": "glm-5.3"
+}

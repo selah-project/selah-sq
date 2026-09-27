@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Ngrihu, o Gjyqtar i ⟨tokës⟩; kthe shpërblimin mbi kryelartët!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Gjyqtar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i tokës"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kthe"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "shpërblimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kryelartët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.084964086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe u ndez zemërimi i Jahvesë ndaj popullit të tij, dhe e urrei trashëgiminë e tij ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dhe u ndez (zemërimi)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemërimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ndaj popullit të tij"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "dhe e urreji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë e tij"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "trashëgiminë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:10.582268832Z",
+  "model": "glm-5.3"
+}

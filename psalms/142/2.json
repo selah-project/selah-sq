@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 142,
+  "translation": "Zëri im te Jahve bërtas, zëri im te Jahve përvillohem.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Zëri im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "bërtas"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zëri im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "përvillohem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:09.977322719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Kështu ai u kthye ⟨את⟩ me të, hëngri bukë në shtëpinë e tij dhe pi ujë.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "njeriu i Perëndisë"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "hëngri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "në shtëpinë e tij"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dhe pi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:42.289872905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "dhe ju afroi ty dhe ⟨את⟩ të gjithë vëllezërit e tu, bijtë e Levit, bashkë me ty — dhe kërkoni edhe priftërinë?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe ju afroi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ty",
+      "marks": "ty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "të gjithë vëllezërit e tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllezërit e tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bashkë me ty"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "dhe kërkoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "priftërinë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:34:30.208120101Z",
+  "model": "glm-5.3"
+}

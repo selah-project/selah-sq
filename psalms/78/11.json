@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe harruan veprat e tij dhe çuditë e tij që u tregoi atyre.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "dhe harruan"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "veprat e tij"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dhe çuditë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "u tregoi atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:39.097745377Z",
+  "model": "glm-5.3"
+}

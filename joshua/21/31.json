@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "⟨את⟩ Helkathin ⟨me⟩ vathët e tij, dhe ⟨את⟩ Rehobin ⟨me⟩ vathët e tij — katër qytete.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helkathin"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkathin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vathët e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "vathët e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Rehobin"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vathët e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "vathët e tij"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:50.739223774Z",
+  "model": "glm-5.3"
+}

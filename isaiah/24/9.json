@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Me këngë nuk pinë verë; e hidhët bëhet pija e fortë për ata që e pinë.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "Me këngë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "pinë"
+    },
+    {
+      "surface": "יין",
+      "gloss": "verë"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bëhet e hidhët"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pija e fortë"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "për ata që e pinë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:09.065049530Z",
+  "model": "glm-5.3"
+}

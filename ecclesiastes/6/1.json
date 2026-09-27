@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Ka një të keqe që pashë nën diell, dhe ajo është e madhe mbi njeriun.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "një të keqe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "dhe e madhe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:32.584808113Z",
+  "model": "glm-5.3"
+}

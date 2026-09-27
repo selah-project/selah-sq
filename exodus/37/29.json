@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe bëri ⟨את⟩ vajin e vajimit të shenjtë, dhe ⟨את⟩ temjanin e erëave të mira, të pastër — vepër e parfumierit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajin e vajimit"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "e vajimit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "temjanin"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "temjanin"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "të erëave"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "vepër"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "e parfumierit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:11.295955908Z",
+  "model": "glm-5.3"
+}

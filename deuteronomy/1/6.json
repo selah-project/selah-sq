@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jahve, Elohim i ynë, na foli në Horeb, duke thënë: Mjaft u qëndruat në këtë mal.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "në Horeb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mjaft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "qëndruat"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në këtë mal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:29.717094927Z",
+  "model": "glm-5.3"
+}

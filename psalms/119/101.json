@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Nga çdo rrugë e keqe i kam ndalur këmbët e mia, që të ruaj fjalën tënde.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "nga çdo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "i kam ndalur"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbët e mia"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "të ruaj"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "fjalën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:42.097680479Z",
+  "model": "glm-5.3"
+}

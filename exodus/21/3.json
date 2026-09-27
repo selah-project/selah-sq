@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Nëse vete më trupin e vet, me trupin e vet do të dalë; nëse ⟨është⟩ zotëri i një gruaje, atëherë gruaja e tij do të dalë me të.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "me trupin e vet"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "me trupin e vet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "do të dalë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "zotëri i"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një gruaje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "dhe do të dalë"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruaja e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:08.757094051Z",
+  "model": "glm-5.3"
+}

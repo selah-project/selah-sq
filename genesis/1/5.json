@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim e quajti dritën Ditë, dhe errësirën e quajti Natë; dhe u bë mbrëmja dhe u bë mëngjesi — ditë një.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e quajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ditë"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "dhe errësirën"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "e quajti"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Natë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbrëmja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.265200382Z",
+  "model": "glm-5.3"
+}

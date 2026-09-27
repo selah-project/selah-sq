@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "I Davidit, një psalëm. E Jahvesë ⟨është⟩ toka dhe plotësia e saj; bota dhe banorët e saj.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalëm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "וּמְלוֹאָהּ",
+      "gloss": "dhe plotësia e saj"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "bota"
+    },
+    {
+      "surface": "וְיֹשְׁבֵי",
+      "gloss": "dhe banorët"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:49.692966785Z",
+  "model": "glm-5.3"
+}

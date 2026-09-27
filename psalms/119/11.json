@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Në zemrën time kam fshehur fjalën tënde, që të mos mëkatoj ndaj teje.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "në zemrën time"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "kam fshehur"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "fjalën tënde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "mëkatoj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndaj teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.391668780Z",
+  "model": "glm-5.3"
+}

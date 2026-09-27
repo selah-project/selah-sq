@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Avrami udhëtoi, duke ecur e duke udhëtuar, drejt jugut.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "udhëtoi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "duke ecur"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "e duke udhëtuar"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "drejt jugut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:54.744815294Z",
+  "model": "glm-5.3"
+}

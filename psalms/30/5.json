@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Këndoni me vegla muzikore Jahvesë, o të shenjtërit e tij, dhe falënderoni ⟨për⟩ kujtimin e shenjtërisë së tij.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Këndoni me vegla muzikore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "të shenjtërit e tij"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "dhe falënderoni"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨për⟩ kujtimin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "e shenjtërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:48.576398400Z",
+  "model": "glm-5.3"
+}

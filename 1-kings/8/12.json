@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Atëherë Salomonoi: «Jahve ⟨ka⟩ thënë se do të banojë ⟨në⟩ errësirën e trashë.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "të banojë"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "në errësirën e trashë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:40.982450134Z",
+  "model": "glm-5.3"
+}

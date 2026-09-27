@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe do të futen ⟨את⟩ shkopinjtë e tij në unazat; dhe shkopinjtë do të jenë mbi dy anët e altarit, kur ⟨ai⟩ mbahet lart.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "dhe do të futen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopinjtë e tij"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "shkopinjtë e tij"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "në unazat"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shkopinjtë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "anët"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "të altarit"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "kur mbahet lart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (altar-in)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:24.694850278Z",
+  "model": "glm-5.3"
+}

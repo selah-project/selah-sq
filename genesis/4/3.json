@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ndodhi, në fund të ditëve, që Kaini solli nga fryti i tokës një minha për Jahven.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "në fund"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "të ditëve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "që solli"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "nga fryti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "i tokës"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "një minha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:45.100888099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "A do të ngritni fytyrën e tij, a do të pandisni për ⟨El⟩-in?",
+  "tokens": [
+    {
+      "surface": "הפניו",
+      "gloss": "fytyrën e tij (pyetës)"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "do të ngritni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "për El-in"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "do të pandisni"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:15.253749020Z",
+  "model": "glm-5.3"
+}

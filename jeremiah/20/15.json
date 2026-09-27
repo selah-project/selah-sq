@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "I mallkuar qoftë njeriu që i përgjoi ⟨את⟩ atin tim, duke thënë: «Të është lindur një djalë, një mashkull», duke e gëzuar atë me gëzim.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i mallkuar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "përgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atin tim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atin tim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "është lindur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "duke e gëzuar"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "me gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:53.628048774Z",
+  "model": "glm-5.3"
+}

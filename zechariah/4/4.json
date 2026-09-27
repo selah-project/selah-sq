@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe unë u përgjigja dhe iiva engjëllit që fliste me mua, duke thënë: Çfarë janë këta, zotëria ime?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "dhe u përgjigja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "engjëlli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "që fliste"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria ime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:59.313286875Z",
+  "model": "glm-5.3"
+}

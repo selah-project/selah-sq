@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Moisi shkoi e foli ⟨את⟩ fjalët këto drejt gjithë Izraelit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dhe shkoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e foli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:36.960668993Z",
+  "model": "glm-5.3"
+}

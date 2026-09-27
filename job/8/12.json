@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Sa është ende i njomë dhe nuk është prerë, thahet para çdo barishteje.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "sa është ende"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "i njomë (në lulën e tij)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "pritet"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dhe para"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "barishteje"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "thahet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:51.228051426Z",
+  "model": "glm-5.3"
+}

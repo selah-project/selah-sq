@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Si ⟨the⟩ reja që mbaron dhe ikën, kështu ai që zbrit në Sheol nuk ngjitet më.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "mbaron"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "reja"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "zbrit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ngjitet më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:52.347099545Z",
+  "model": "glm-5.3"
+}

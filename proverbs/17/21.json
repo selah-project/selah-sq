@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Kush lind një të mendjeçuar, ⟨e lind⟩ për të keq për veten, dhe ati i një të pamend nuk do të gëzojë.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "Kush lind"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "një të mendjeçuar"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "për të keq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për veten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "do të gëzojë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "një të pamend"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:20.017631156Z",
+  "model": "glm-5.3"
+}

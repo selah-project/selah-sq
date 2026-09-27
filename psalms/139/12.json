@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Edhe errësira nuk errësohet dot prej teje, dhe nata shkëlqen si dita; si errësira, ashtu edhe drita.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "errësohet dot"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "prej teje"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe nata"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si dita"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "shkëlqen"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "si errësira"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ashtu edhe drita"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:47.986983302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Rojë ⟨i⟩ të pafajshmit ⟨është⟩ Jahve; u dobëtova, dhe më shpëtoi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "rojë"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "të pafajshmit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "u dobëtova"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dhe mua"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "më shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:11.754259166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe ndodhi në mbrëmje: hynë shqupat dhe mbuluan ⟨את⟩ kampin; dhe në mëngjes kishte ⟨is⟩ një shtresë vese rreth kampit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "hynë"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "shqupat"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dhe mbuluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampin"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampin"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dhe në mëngjes"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "një shtresë"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "vesë"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:22.480654611Z",
+  "model": "glm-5.3"
+}

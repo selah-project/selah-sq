@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "vepra çuditshme në vendin e Kamit, vepra të frikshme mbi Detin e Kuq.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "vepra çuditshme"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "חם",
+      "gloss": "e Kamit"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "vepra të frikshme"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Detin"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "e Kuq"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:50.293254664Z",
+  "model": "glm-5.3"
+}

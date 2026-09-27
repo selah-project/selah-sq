@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tha Jahve: Duke parë pashë ⟨את⟩ mundimin e popullit tim që ⟨është⟩ në Egjipt, dhe ⟨את⟩ britmën e tyre e dëgjova për shkak të ngarësve të tyre, sepse njoh ⟨את⟩ dhimbjet e tyre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "duke parë"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mundimin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mundimin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e popullit tim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "britmën"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "britmën e tyre"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ngarësit e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "njoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhimbjet"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "dhimbjet e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:55.710926231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Dhe qiejt do të falënderojnë çudirat e tua, Jahve, edhe besnikërinë tënde në kuvendin e të shenjtërve.",
+  "tokens": [
+    {
+      "surface": "ושמים",
+      "gloss": "dhe qiejt"
+    },
+    {
+      "surface": "ויודו",
+      "gloss": "do të falënderojnë"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "çudirat e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "besnikërinë tënde"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "në kuvendin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e të shenjtërve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:19.618571963Z",
+  "model": "glm-5.3"
+}

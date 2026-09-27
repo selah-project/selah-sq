@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Ahabi dërgoi në mes të gjithë bijve të Izraelit dhe i mblodhi ⟨את⟩ profetët në malin e Karmelit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dhe dërgoi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në mes të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "dhe i mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profetët"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profetët"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "e Karmelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:09.407986514Z",
+  "model": "glm-5.3"
+}

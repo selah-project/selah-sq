@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe e ktheu ⟨את⟩ krye-pijetorin në detyrën e tij të pijetorit, dhe ai i dha kupën në pëllëmbën e Faraonit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe e ktheu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krye-pijetorin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "krye-"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "pijetorin"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "detyrën e tij të pijetorit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe ai dha"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kupën"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pëllëmbën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:31.445913111Z",
+  "model": "glm-5.3"
+}

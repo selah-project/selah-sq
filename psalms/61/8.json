@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Ai do të banojë përjetë përballë Elohim-it; hesed-i dhe besa ⟨të caktuara⟩ do ta ruajnë atë.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "do të banojë"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed-i"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe besa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨të caktuara⟩"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "do ta ruajnë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:00.933710005Z",
+  "model": "glm-5.3"
+}

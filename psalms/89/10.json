@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Ti sundon mbi kryelartësinë e detit; kur ngrihen valët e tij, ti i qetëson ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "sundon"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "mbi kryelartësinë e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detit"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "kur ngrihen"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "valët e tij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "i qetëson"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:26.105065828Z",
+  "model": "glm-5.3"
+}

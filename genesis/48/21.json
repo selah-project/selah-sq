@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe Izraeli i tha Jozefit: Ja, unë po vdes, por Elohim do të jetë me ju dhe do t'ju kthejë ⟨את⟩ në tokën e etërve tuaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe…i tha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מת",
+      "gloss": "po vdes"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dhe do të kthejë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "e etërve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:28.915070479Z",
+  "model": "glm-5.3"
+}

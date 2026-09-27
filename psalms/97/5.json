@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Malet u shkrinë si dylli përpara Jahves, përpara Adonait të gjithë ⟨të⟩ tokës.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Malet"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "si dylli"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "u shkrinë"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:41.612307546Z",
+  "model": "glm-5.3"
+}

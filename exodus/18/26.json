@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe gjykonin ⟨את⟩ popullin në çdo kohë; ⟨את⟩ çështjen e vështirë ia çonin Moisit, por çdo çështje të vogël e gjykonin vetë ata.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "dhe gjykonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çështjen e vështirë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "çështjen"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "të vështirë"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ia çonin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "por çdo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "çështje"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "të vogël"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "e gjykonin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "vetë ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:20.017910185Z",
+  "model": "glm-5.3"
+}

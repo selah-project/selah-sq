@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe populli i ⟨i⟩ vendit vrau ⟨את⟩ të gjithë komplotistit kundër mbretit Amon; dhe populli i vendit e bëri mbret ⟨את⟩ Josiahun, birin e tij, në vend të tij.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "vrau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë komplotistit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "komplotistit"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "e bëri mbret"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josiahun"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josiahun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:54.994973800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse të gjitha gjykimet e tij ⟨janë⟩ përpara meje, dhe statutet e tij nuk i largoj nga unë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "gjykimet e tij"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "përpara meje"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "dhe statutet e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "i largoj"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga unë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:45.064434217Z",
+  "model": "glm-5.3"
+}

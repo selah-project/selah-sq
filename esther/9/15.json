@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe jehuditë që ⟨ishin⟩ në Shushan u mblodhën edhe në ditën e katërmbëdhjetë të muajit Adar, dhe mbytën në Shushan treqind veta; dhe mbi plaçkën nuk e shtrinë ⟨את⟩ dorën e tyre.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "jehuditë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "në Shushan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "të katërmbëdhjetë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "dhe mbytën"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "në Shushan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "treqind"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "veta"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "dhe mbi plaçkën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e shtrinë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tyre"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dorën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:47:00.437722717Z",
+  "model": "glm-5.3"
+}

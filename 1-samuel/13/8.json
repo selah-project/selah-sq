@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ai priti shtatë ditë, sipas afatit të caktuar që ⟨kishte caktuar⟩ Samueli; por Samueli nuk erdhi në Gilgal, dhe populli u shpërnda prej tij.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Dhe ai priti"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sipas afatit të caktuar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "në Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "dhe u shpërnda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:58.382602436Z",
+  "model": "glm-5.3"
+}

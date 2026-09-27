@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "⟨E keqja⟩ ndjek mëkatarët, por ⟨את⟩ të drejtët ⟨Elohim⟩ u shpërblen me të mirë",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "mëkatarët"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ndjek"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtët"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtët"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "shpërblen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:22.992036998Z",
+  "model": "glm-5.3"
+}

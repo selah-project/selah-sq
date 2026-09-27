@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Sepse ja, Jahve me zjarr do të vijë, dhe si një stuhi qerret e tij, për të kthyer me tërbim zemërimin e tij, dhe qortimin e tij në flakë zjarri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "dhe si një stuhi"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "qerret e tij"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "për të kthyer"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "me tërbim"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimin e tij"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "dhe qortimin e tij"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "në flakë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:53.019328509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Moisi foli ⟨את⟩ kohët e caktuara të Jahvesë bijve të Israelit.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohët e caktuara të Jahvesë"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "kohët e caktuara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:21.756677922Z",
+  "model": "glm-5.3"
+}

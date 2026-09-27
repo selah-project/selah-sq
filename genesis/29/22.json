@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Labani mblodhi ⟨את⟩ të gjithë burrat e vendit dhe bëri një dasmë.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë burrat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "e vendit"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "dasmë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:39.236209096Z",
+  "model": "glm-5.3"
+}

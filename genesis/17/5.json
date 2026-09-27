@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe emri yt të mos quhet më ⟨את⟩ Avram, por emri yt do të jetë Avraham, sepse atë të shumë kombesh të bëra ty.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "quhet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emri yt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "por do të jetë"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atë"
+    },
+    {
+      "surface": "המון",
+      "gloss": "i shumë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombesh"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "të bëra ty"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:30.751719577Z",
+  "model": "glm-5.3"
+}

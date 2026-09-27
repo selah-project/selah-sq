@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ju do të doni ⟨את⟩ të ardhurin, sepse ju ishit të ardhur në vendin e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "dhe ju do të doni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të ardhurin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "të ardhurin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "të ardhur"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ishit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:45.668706361Z",
+  "model": "glm-5.3"
+}

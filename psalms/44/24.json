@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Zgjohu! Pse fle, o Adonai? Çohu, mos na hedh poshtë përjetë!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Zgjohu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "fle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "o Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Çohu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "na hedh poshtë"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:23.884307151Z",
+  "model": "glm-5.3"
+}

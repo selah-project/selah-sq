@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Kush është kjo që ngjitet nga shkretëtira, duke u mbështetur mbi të dashurin e saj? Nën pemën e mollës të zgjova ty; atje të lindi nënë jote, atje lindi ajo që të lindi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngjitet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtira"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "duke u mbështetur"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "të dashurin e saj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "pemën e mollës"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "të zgjova ty"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "të lindi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nënë jote"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ajo që të lindi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:49.685318338Z",
+  "model": "glm-5.3"
+}

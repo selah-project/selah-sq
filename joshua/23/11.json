@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe ruhuni shumë fort për shpirtërat tuaj, të dashuroni ⟨את⟩ Jahve, Elohim-in tuaj.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "dhe ruhuni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë fort"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "për shpirtërat tuaj"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "të dashuroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim-in tuaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-in tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:48.876682915Z",
+  "model": "glm-5.3"
+}

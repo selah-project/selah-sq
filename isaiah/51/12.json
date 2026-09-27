@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Unë, po unë jam ⟨ai⟩ që ju ngushëllon. Kush je ⟨ti⟩ që të frikësohesh nga njeriu që vdes, dhe nga biri i njeriut që jepet si bar?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "po unë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "që ju ngushëllon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti",
+      "marks": "që të frikësohesh (ותיראי) — përemri, jo shenja e kundrinorit"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "që të frikësohesh"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "që vdes"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "dhe nga biri i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "si bar"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "që jepet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:59.790621287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Sepse ngritja nuk vjen as nga dalja (e diellit) e as nga perëndimi, e as nga shkretëtira e maleve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "nga dalja"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "e as nga perëndimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e as"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "nga shkretëtira"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "e maleve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:21.882637464Z",
+  "model": "glm-5.3"
+}

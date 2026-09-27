@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Për dirigjentin. Një psalm i Davidit, një këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:36.588135079Z",
+  "model": "glm-5.3"
+}

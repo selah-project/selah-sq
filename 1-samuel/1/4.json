@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe erdhi dita, dhe Elkanah flijoi, dhe dha Peninës, gruan e tij, dhe gjithë bijve e bijave të saj, pjesë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "dhe flijoi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninës"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bijve të saj"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "e bijave të saj"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "pjesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:46.142174534Z",
+  "model": "glm-5.3"
+}

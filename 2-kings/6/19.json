@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Eliseu u tha atyre: Nuk ⟨është⟩ kjo rruga, dhe nuk ⟨është⟩ kjo qyteti; ejani pas meje dhe do t'ju çoj ⟨את⟩ te njeriu që kërkoni. Dhe i çoi ⟨את⟩ në Samari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u atyre"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ejani"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas meje"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "dhe do t'ju çoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (te njeriu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "kërkoni"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe i çoi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (në Samari)"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "në Samari"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:21.707508250Z",
+  "model": "glm-5.3"
+}

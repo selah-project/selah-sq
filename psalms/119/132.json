@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Kthehu nga unë dhe më shfaq hir, siç ⟨është⟩ zakoni ndaj atyre që e duan emrin tënd.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dhe më shfaq hir"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "siç është zakoni"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ndaj atyre që e duan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:04.462215044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Kështu tha Jahve Tsevaot: pyet, të lutem, ⟨את⟩ priftërit për Torën, duke thënë:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pyet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priftërit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërit"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "për Torën"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:03.852205914Z",
+  "model": "glm-5.3"
+}

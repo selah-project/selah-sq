@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe i vuri ⟨את⟩ të gjithë ata që u gjetën në Jerusalem dhe në Beniamin të qëndronin në të; dhe banorët e Jerusalemit vepruan sipas besëlidhjes së Elohit, Elohit të etërve të tyre.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i vuri të qëndronin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "që u gjetën"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dhe në Beniamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe vepruan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "sipas besëlidhjes së"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohit të"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "etërve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:31.725424788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe këto janë emrat e bijve të Aaronit: i parëlinduri Nadabi, dhe Abihu, Elazari dhe Itamari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "të Aaronit"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "i parëlinduri"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "dhe Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "dhe Itamari"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:33.226338837Z",
+  "model": "glm-5.3"
+}

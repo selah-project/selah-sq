@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe gjycoi ⟨את⟩ Israelin në ditët e Filistëve njëzet vjet.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjycoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "e Filistëve"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:21.455519164Z",
+  "model": "glm-5.3"
+}

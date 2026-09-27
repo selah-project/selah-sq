@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të kujdeseni t'i zbatoni ⟨את⟩ të gjitha statutet dhe ⟨את⟩ dispozitat që unë po vë para jush sot.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do të kujdeseni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "t'i zbatoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha statutet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dispozitat"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dispozitat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po vë"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:29.295530267Z",
+  "model": "glm-5.3"
+}

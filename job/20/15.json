@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Pasuri gëlltiti, dhe do ta vjellë ⟨atë⟩; El do ta zhdukë atë nga barku i tij.",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "Pasuri"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "gëlltiti"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "dhe do ta vjellë"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "nga barku i tij"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "do ta zhdukë atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:41.857381260Z",
+  "model": "glm-5.3"
+}

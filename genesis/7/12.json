@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe shiu ra mbi ⟨tokën⟩ dyzet ditë dhe dyzet netë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "shiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "dhe dyzet"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "netë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:23.147708490Z",
+  "model": "glm-5.3"
+}

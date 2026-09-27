@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "E kanë dhënë ⟨את⟩ trupin e vdekur të shërbëtorëve të si ushqim për shpendët e qiellit, mishin e të devotshmëve të tillë për bishat e tokës.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "E kanë dhënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupin e vdekur të shërbëtorëve të"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "trupin e vdekur të"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorëve të"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "si ushqim"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "për shpendët e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiellit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin e"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "të devotshmëve të"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "të tillë për bishat e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:44.464694452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Zemra e të diturit ⟨është⟩ në të djathtën e tij, dhe zemra e të marrit në të majtën e tij.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "e të diturit"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "në të djathtën e tij"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dhe zemra"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "e të marrit"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "në të majtën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:05.331245848Z",
+  "model": "glm-5.3"
+}

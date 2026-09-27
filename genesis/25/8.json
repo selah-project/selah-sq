@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Avraham nxorri frymën dhe vdiq në një pleqëri të mirë, plak dhe i ngopur me ditë, dhe u mblodh te populli i tij.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "nxorri frymën"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "në pleqëri"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "plak"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dhe i ngopur"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "dhe u mblodh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "populli i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:53.615916526Z",
+  "model": "glm-5.3"
+}

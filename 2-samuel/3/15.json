@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Ish-Bosheti dërgoi dhe e mori ⟨את⟩ atë nga burri i saj, nga Paltieli, bir i Lajshit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burri"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltieli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "i Lajshit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:30.345668309Z",
+  "model": "glm-5.3"
+}

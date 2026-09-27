@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Më shpëtoi nga armiku im i fortë dhe nga urrejtësit e mi, sepse ishin më të fortë se unë.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Më shpëtoi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "nga armiku im"
+    },
+    {
+      "surface": "עז",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "dhe nga urrejtësit e mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ishin të fortë"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "se unë (më fortë se unë)"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:00.796517719Z",
+  "model": "glm-5.3"
+}

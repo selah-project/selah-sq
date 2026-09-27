@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ajo tha: \"Një lutje të vogël po kërkoj ⟨את⟩ nga ti; mos kthe mbrapsht ⟨את⟩ fytyrën time.\" Dhe mbreti i tha asaj: \"Kërko, o nëna ime, sepse unë nuk do të kthej mbrapsht ⟨את⟩ fytyrën tënde.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "lutje"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "të vogël"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "po kërkoj"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "nga ti ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kthe mbrapsht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "kërko"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "o nëna ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do të kthej mbrapsht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:05.177597886Z",
+  "model": "glm-5.3"
+}

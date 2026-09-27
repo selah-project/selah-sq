@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Me gurë të plotë do të ndërtosh ⟨את⟩ altarit të Jahvesë, Elohim tënd, dhe do të ngjish mbi të flijime të djegura për Jahve, Elohimin tënd.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "të plotë"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "do të ndërtosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tënd"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "dhe do të ngjish"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "flijime të djegura"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:15.269903428Z",
+  "model": "glm-5.3"
+}

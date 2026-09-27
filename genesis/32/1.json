@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Labani u ngrit herët në mëngjes, dhe puthi bijtë e tij dhe bijat e tij, dhe i bekoi ⟨את⟩ atë; dhe shkoi, dhe u kthye Labani në vendin e tij.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "u ngrit herët"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "dhe puthi"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "dhe bijat e tij"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (bijtë dhe bijat)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "në vendin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:45.703005850Z",
+  "model": "glm-5.3"
+}

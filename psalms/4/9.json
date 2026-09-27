@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Në paqe, bashkë, do të shtrihem dhe do të fle, se ti, Jahve, vetëm, në siguri më bën të banoj.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "në paqe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "do të shtrihem"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "dhe do të fle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "në siguri"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "më bën të banoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:09.595735506Z",
+  "model": "glm-5.3"
+}

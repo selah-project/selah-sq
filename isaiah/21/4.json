@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Zemra ime u shkund, tmerrimi më shqetësoi; muzgun e kënaqësisë sime e ktheu në dridhje për mua ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "u shkund"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tmerrimi"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "më shqetësoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muzgun e kënaqësisë sime"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "muzgun"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "e kënaqësisë sime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "e ktheu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "në dridhje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:15.702511831Z",
+  "model": "glm-5.3"
+}

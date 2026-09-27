@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe bëri ⟨את⟩ altar-in e flijimit të pjekur nga drurë akacieje: pesë kubitë gjatësia e tij dhe pesë kubitë gjerësia e tij — katërkëndësh — dhe tre kubitë lartësia e tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar-in e flijimit të pjekur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar-in"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "të flijimit të pjekur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nga drurë"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacieje"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e tij"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dhe pesë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e tij"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "katërkëndësh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dhe tre"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "lartësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:52.738810983Z",
+  "model": "glm-5.3"
+}

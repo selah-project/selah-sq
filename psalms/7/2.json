@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Jahve, Elohim im, te ti kam gjetur strehim; më shpëto nga të gjithë ndjekësit e mi dhe më çliro.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kam gjetur strehim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjithë"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ndjekësit e mi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dhe më çliro"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.634956290Z",
+  "model": "glm-5.3"
+}

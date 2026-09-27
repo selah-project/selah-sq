@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "⟨את⟩ Tavolinën, ⟨את⟩ të gjitha veglat e saj, dhe ⟨את⟩ bukën e pranisë.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavolinën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Tavolinën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha veglat e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bukën e pranisë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "e pranisë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:38.500117644Z",
+  "model": "glm-5.3"
+}

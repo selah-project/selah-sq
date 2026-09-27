@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe lart ishin gurë të çmueshëm, sipas masave të gurëve të gdhendur, dhe dru kedri.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "dhe lart"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "të çmueshëm"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "sipas masave"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "të gdhendur"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "dhe dru kedri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:33.902340120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do t'i vesh ⟨את⟩ ato mbi një shportë, dhe do t'i afrosh ⟨את⟩ ato në shportë, dhe ⟨את⟩ demin dhe ⟨את⟩ të dy deshët.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "do t'i vesh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "סל",
+      "gloss": "shportë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "do t'i afrosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "në shportë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "demin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të dy deshët"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "deshët"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:47.693078820Z",
+  "model": "glm-5.3"
+}

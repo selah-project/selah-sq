@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Jakobi tha: «Shitmë siç ⟨është⟩ dita ⟨את⟩ të drejtën e të parëlindurit tënd mua.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Shitmë"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "siç ⟨është⟩ dita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtën e të parëlindurit"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "të drejtën e të parëlindurit tënd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:49.674467658Z",
+  "model": "glm-5.3"
+}

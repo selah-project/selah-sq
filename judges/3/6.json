@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe morën ⟨את⟩ bijat e tyre për vete si gra, dhe ⟨את⟩ bijat e tyre i dhanë bijve të tyre, dhe i shërbyen ⟨את⟩ perëndive të tyre.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dhe morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijat e tyre (të parat)"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bijat e tyre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "si gra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijat e tyre (të dytat)"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bijat e tyre"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "i dhanë"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bijve të tyre"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dhe i shërbyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perëndive të tyre"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "perëndive të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:47.000716272Z",
+  "model": "glm-5.3"
+}

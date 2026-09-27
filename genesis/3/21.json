@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jahve Elohim bëri për Adamin dhe për gruan e tij këmisha të lëkurës, dhe ⟨i⟩ veshi ato.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "për Adamin"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "dhe për gruan e tij"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "këmisha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "të lëkurës"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "dhe ⟨i⟩ veshi ato"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.056811281Z",
+  "model": "glm-5.3"
+}

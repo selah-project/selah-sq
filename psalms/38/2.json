@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Jahve, mos më qorto në tërbimin tënd, dhe në hidhërimin tënd mos më ndëshko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "në tërbimin tënd"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "më qorto"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dhe në hidhërimin tënd"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "më ndëshko"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:46.947400386Z",
+  "model": "glm-5.3"
+}

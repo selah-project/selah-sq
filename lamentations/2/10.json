@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 2:10",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Rrijnë në tokë e heshtin plakët e bijës së Sionit; hodhën pluhur mbi kokat e tyre, u mbështollën me thesa; vashat e Jeruzalemit e ulën kokën e tyre deri në tokë.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "rrijnë"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "e heshtin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "plakët e"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijës së"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionit"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hodhën"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kokat e tyre"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "u mbështollën"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "me thesa"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "e ulën"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "deri në tokë"
+    },
+    {
+      "surface": "ראשן",
+      "gloss": "kokën e tyre"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "vashat e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:44.697475618Z",
+  "model": "glm-5.3"
+}

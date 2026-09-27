@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨is⟩ e gjithë ⟨tokia⟩ një buzë dhe fjalët një ⟨janë të gjitha një⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ⟨is⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokia⟩"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "buzë"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "dhe fjalët"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "një ⟨janë të gjitha një⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:09.072298335Z",
+  "model": "glm-5.3"
+}

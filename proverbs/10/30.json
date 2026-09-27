@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "I drejti përjetësisht nuk do të lëkundet, dhe të pabesët nuk do të banohen ⟨në⟩ tokë.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "do të lëkundet"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "dhe të pabesët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "do të banohen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:00.456432072Z",
+  "model": "glm-5.3"
+}

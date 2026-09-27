@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Do ta ruani ⟨את⟩ Shabbatin, sepse ⟨është⟩ i shenjtë për ju; sepse kushdo që e përdhos atë, do të vdesë sigurisht; sepse çdo njeri që punon në të punë, ajo shpirt do të pritet nga mesi i popullit të tij.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Do ta ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "e përdhos atë"
+    },
+    {
+      "surface": "מות",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sigurisht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "njeri që punon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "do të pritet"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ajo shpirt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "popullit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:05.291461120Z",
+  "model": "glm-5.3"
+}

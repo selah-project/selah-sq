@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Ai ndërtoi ⟨את⟩ Elatin dhe e ktheu atë për Judën, pasi mbreti pushoi me etërit e tij.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elatin"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elatin"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "dhe e ktheu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "për Judën"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "pushoi (ra në gjumë)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:00.092459425Z",
+  "model": "glm-5.3"
+}

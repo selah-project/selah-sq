@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Sepse për çdo dëshirë ka kohë dhe gjyq, sepse e keqja e njeriut është e madhe mbi të.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për çdo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dëshirë"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe gjyq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "është e madhe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:04.907895232Z",
+  "model": "glm-5.3"
+}

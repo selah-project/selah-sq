@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do të ndodhë ⟨kështu⟩: pasi t'i kem shkulur ⟨את⟩, do të kthehem dhe do të kem mëshirë për ta, dhe do t'i sjell përsëri, secili në trashëgiminë e vet dhe secili në vendin e vet.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dhe do të ndodhë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "t'i kem shkulur"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i (ata)"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "do të kthehem"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "dhe do të kem mëshirë për ta"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "dhe do t'i sjell përsëri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "në trashëgiminë e vet"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe secili"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "në vendin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:47.873208263Z",
+  "model": "glm-5.3"
+}

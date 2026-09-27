@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Më ke vënë në gropën e poshtme, në errësira, në thellësi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "më ke vënë"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "në gropën"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "e poshtme"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "në errësira"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "në thellësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:31.872554565Z",
+  "model": "glm-5.3"
+}

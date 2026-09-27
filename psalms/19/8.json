@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Tora e Jahvesë ⟨është⟩ e përkryer, duke rikthyer shpirtin; dëshmia e Jahvesë ⟨është⟩ e besueshme, duke bërë të mençur të thjeshtin.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "e përkryer"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "duke rikthyer"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "dëshmia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "e besueshme"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "duke bërë të mençur"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "të thjeshtin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:43.301379107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Kafshët e egra dhe të gjitha kafshët e buta, gjarpërinjtë dhe shpendët me krahë",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "Kafshët e egra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshët e buta"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gjarpërinjtë"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "dhe shpendët"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "me krahë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:52.280157183Z",
+  "model": "glm-5.3"
+}

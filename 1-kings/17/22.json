@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jahve dëgjoi zërin e Elias, dhe shpirti i fëmijës u kthye brenda në trupin e tij, dhe ai u ngjall.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "e Elias"
+    },
+    {
+      "surface": "ויתשב→ותשב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "i fëmijës"
+    },
+    {
+      "surface": "על",
+      "gloss": "brenda në"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "trupin e tij"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dhe ai u ngjall"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:45.743366380Z",
+  "model": "glm-5.3"
+}

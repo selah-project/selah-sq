@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Jahve ⟨është⟩ pjesa e peshuar e trashëgimisë sime dhe kupa ime; Ti përkrah shortin tim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pjesa e peshuar"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "e trashëgimisë sime"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "dhe kupa ime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "përkrah"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "shortin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:17.253022699Z",
+  "model": "glm-5.3"
+}

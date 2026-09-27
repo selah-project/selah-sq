@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai e ngriti dhe e çoi te nëna e tij, dhe ai ndenji mbi gjunjët e saj deri në mesditë, dhe vdiq.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "dhe e ngriti"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dhe e çoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nëna e tij"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe ndenji"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "gjunjtë e saj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "në mesditë"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:35.918676769Z",
+  "model": "glm-5.3"
+}

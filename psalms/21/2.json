@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Jahve, në forcën tënde gëzon mbreti, dhe në shpëtimin tënd sa fremon ai!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "në forcën tënde"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gëzon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "dhe në shpëtimin tënd"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "fremon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:28.679579309Z",
+  "model": "glm-5.3"
+}

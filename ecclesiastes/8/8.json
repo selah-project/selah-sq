@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "S'ka njeri që sundon mbi Frymën për ta ndalur ⟨את⟩ frymën, dhe s'ka pushtet në ditën e vdekjes, dhe s'ka lëshim nga lufta, dhe ligësia nuk do të shpëtojë ⟨את⟩ zotëruesit e vet.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "S'ka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "që sundon"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mbi Frymën"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "për ta ndalur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frymën"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "frymën"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "pushtet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "המות",
+      "gloss": "e vdekjes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "lëshim"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nga lufta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "do të shpëtojë"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ligësia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zotëruesit e vet"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zotëruesit e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:04.908294547Z",
+  "model": "glm-5.3"
+}

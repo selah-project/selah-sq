@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Zëri i Jahvesë i trazon çelikat dhe zhvesh pyjet; dhe në tempullin e Tij të gjithë thonë: «Lavdi!»",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "i trazon"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "çelikat"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "dhe zhvesh"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "pyjet"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "dhe në tempullin e Tij"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Lavdi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:57.762179591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Zbehet nga zemërimi syri im; plaket nga të gjithë armiqtë e mi.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Zbehet"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "nga zemërimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "plaket"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nga të gjithë"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "armiqtë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:27.766621415Z",
+  "model": "glm-5.3"
+}

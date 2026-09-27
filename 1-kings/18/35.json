@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe uji shkoi rreth altarit, dhe edhe ⟨את⟩ hendekun e mbushi me ujë.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "uji"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendekun"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "hendekun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e mbushi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "me ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:18.288979375Z",
+  "model": "glm-5.3"
+}

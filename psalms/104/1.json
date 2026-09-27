@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Beko, shpirti im, ⟨את⟩ Jahven; o Jahve, Elohai im, ⟨je⟩ shumë i madh; je veshur me madhështi dhe bukuri.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Beko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai im"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "⟨je⟩ shumë i madh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "me madhështi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dhe bukuri"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "je veshur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.420749437Z",
+  "model": "glm-5.3"
+}

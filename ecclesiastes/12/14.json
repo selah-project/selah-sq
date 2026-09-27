@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Sepse Elohim do të sjellë në gjyq ⟨את⟩ çdo vepër, mbi çdo gjë të fshehur, qoftë e mirë a e keqe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo vepër"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "vepër"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "do të sjellë"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në gjyq"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gjë të fshehur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:46.469738676Z",
+  "model": "glm-5.3"
+}

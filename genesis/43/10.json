@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "se po të mos kishim vonuar, tashmë do të kishim qenë kthyer këtë herë të dytë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "po të mos"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "kishim vonuar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨tashmë⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "do të kishim qenë kthyer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë të dytë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:03.522357666Z",
+  "model": "glm-5.3"
+}

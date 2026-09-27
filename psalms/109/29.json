@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Le të vishen kundërshtarët e mi me ⟨turbë⟩, dhe le të mbulohen si me një mantel me poshtërimin e tyre.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "le të vishen"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "kundërshtarët e mi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "me turp"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "dhe le të mbulohen"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "si me një mantel"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "me poshtërimin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.991457817Z",
+  "model": "glm-5.3"
+}

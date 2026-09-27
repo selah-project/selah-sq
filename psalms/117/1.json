@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 117,
+  "translation": "Lëvdoni ⟨את⟩ Jahve, të gjithë kombet; madhërojeni atë, të gjithë popujt.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "madhërojeni atë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "popujt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:47.535738611Z",
+  "model": "glm-5.3"
+}

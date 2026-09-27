@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "i cili u betua para Jahvesë, i dha fjalën të Fortit të Jakobit:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "u betua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para Jahvesë"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "i dha fjalën"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "të Fortit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "të Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:59.064660169Z",
+  "model": "glm-5.3"
+}

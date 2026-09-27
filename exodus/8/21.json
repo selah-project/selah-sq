@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Faraoni thirri Moisin dhe Aaronin dhe tha: \"Shkoni, flijoni për Elohimit tuaj në ⟨këtë⟩ vend.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    },
+    {
+      "surface": "ו לאהרן",
+      "gloss": "dhe Aaronin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "flijoni"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "për Elohimit tuaj"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:30.621147506Z",
+  "model": "glm-5.3"
+}

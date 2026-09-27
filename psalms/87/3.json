@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 87,
+  "translation": "Gjëra të lavdërme ⟨fliten⟩ për ty, o qytet i Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "gjëra të lavdërme"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨fliten⟩ për"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o qytet"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.050206531Z",
+  "model": "glm-5.3"
+}

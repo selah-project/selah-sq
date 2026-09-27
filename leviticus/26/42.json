@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të kujtoj ⟨את⟩ besëlidhjen time me Jakobin, edhe ⟨את⟩ besëlidhjen time me Isakun, edhe ⟨את⟩ besëlidhjen time me Abrahamin do të kujtoj, dhe tokën do të kujtoj.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "dhe do të kujtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "do të kujtoj"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhe tokën"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "do të kujtoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:57.673231116Z",
+  "model": "glm-5.3"
+}

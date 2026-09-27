@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të pastrojë ⟨את⟩ shtëpinë me gjakun e zogut, me ujin e gjallë, me zogun e gjallë, me drurin e cedrit, me isojën dhe me të kuqen skarlati.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "dhe do të pastrojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "me gjakun"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "e zogut"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dhe me ujin"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "dhe me zogun"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "e gjallë"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "dhe me drurin"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "e cedrit"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "dhe me isojën"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "dhe me të kuqen"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "skarlati"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:47.558205270Z",
+  "model": "glm-5.3"
+}

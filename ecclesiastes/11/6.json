@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Në mëngjes mbill ⟨את⟩ farën tënde, dhe në mbrëmje mos e pusho dorën tënde, sepse nuk di ti cili do të suksedojë — ky apo ai — dhe nëse të dyja bashkë, ⟨janë⟩ të mira.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farën tënde"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farën tënde"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "dhe në mbrëmje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "e pusho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nuk di ti"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "di"
+    },
+    {
+      "surface": "אי",
+      "gloss": "cili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "do të suksedojë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "או",
+      "gloss": "apo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dyja"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "të mira"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:17.478826508Z",
+  "model": "glm-5.3"
+}

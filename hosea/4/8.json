@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Mëkatin e popullit tim e hanë, dhe drejt paudhësisë së tyre e ngrenë shpirtin e tyre.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "mëkatin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e popullit tim"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "e hanë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe drejt"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "paudhësisë së tyre"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "e ngrenë"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirtin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:26.603788019Z",
+  "model": "glm-5.3"
+}

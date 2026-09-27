@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe bëri ⟨את⟩ shkopinjtë prej druri akacieje dhe i mbuloi ⟨את⟩ ata me ar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopinjtë"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shkopinjtë"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "prej druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacieje"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i mbuloi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata (shkopinjtë)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:59.176246472Z",
+  "model": "glm-5.3"
+}

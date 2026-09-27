@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Joktan lindi ⟨את⟩ Almodad, dhe ⟨את⟩ Shelef, dhe ⟨את⟩ Hatsarmavet, dhe ⟨את⟩ Jerah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Dhe Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerah"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:25.290033891Z",
+  "model": "glm-5.3"
+}

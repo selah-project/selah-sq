@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Gjërat e para nga atëherë i kam shpallur, dhe nga goja ime kanë dalë dhe i kam bërë të dëgjohen; befas i bëra dhe ato erdhën.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Gjërat e para"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "nga atëherë"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "i kam shpallur"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "dhe nga goja ime"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kanë dalë"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "dhe i kam bërë të dëgjohen"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "befas"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i bëra"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "dhe ato erdhën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:26.753522458Z",
+  "model": "glm-5.3"
+}

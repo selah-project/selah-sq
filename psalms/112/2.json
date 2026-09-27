@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "I fuqishëm në ⟨të⟩ tokën do të jetë fara e tij; brezi i të drejtëve do të bekohet.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "I fuqishëm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "fara e tij"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "i të drejtëve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "do të bekohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.286982213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ata që njohin emrin tënd do të mbështeten në ty, sepse nuk i ke braktisur ata që të kërkojnë, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "do të mbështeten"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ata që njohin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "i ke braktisur"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ata që të kërkojnë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.199807429Z",
+  "model": "glm-5.3"
+}

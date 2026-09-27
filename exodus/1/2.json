@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Rubeni, Simeoni, Levi dhe Juda.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Rubeni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:16.553455771Z",
+  "model": "glm-5.3"
+}

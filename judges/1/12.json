@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Kalebi tha: «Kushdo që godet ⟨את⟩ Kirjat-Seferin dhe e zë atë, do t'i jap ⟨את⟩ Aksa-në, vajzën time, për grua.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "godet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Seferin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferin"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "dhe e zë atë"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "do t'i jap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa-në"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa-në"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "vajzën time"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:52.876834529Z",
+  "model": "glm-5.3"
+}

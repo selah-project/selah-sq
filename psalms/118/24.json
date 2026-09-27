@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Ky është dita që bëri Jahve; do të gëzohemi dhe do të lumtohemi në ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "do të gëzohemi"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "dhe do të lumtohemi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në ⟨të⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:54.483436329Z",
+  "model": "glm-5.3"
+}

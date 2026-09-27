@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Jahve dërgoi në mes të popullit ⟨את⟩ gjarpërinjtë e ndezur, dhe ata kafshuan ⟨את⟩ popullin, dhe vdiq një pjesë e madhe e popullit nga Israeli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "në mes të popullit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjarpërinjtë e ndezur"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "gjarpërinjtë"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "e ndezur"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "dhe ata kafshuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "një pjesë e popullit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nga Israeli"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:23.617458654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jahve Elohim thirri drejt njeriut dhe i tha atij: «Ku je?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ku je"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.076131784Z",
+  "model": "glm-5.3"
+}

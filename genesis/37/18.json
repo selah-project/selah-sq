@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe e panë ⟨אתו⟩ nga larg, dhe përpara se t'u afrohej atyre, komplotuan kundër ⟨אתו⟩ për ta vrarë atë.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dhe e panë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Jozifin)"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "dhe përpara se"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "t'u afrohej"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "komplotuan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kundër tij"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "për ta vrarë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:11.851392765Z",
+  "model": "glm-5.3"
+}

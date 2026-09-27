@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Sigurisht, shpëtimi i tij është afër atyre që i frikësohen atij, që lavdia të banojë në tokën tonë.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sigurisht"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "afër"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "atyre që i frikësohen atij"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "shpëtimi i tij"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "të banojë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "në tokën tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:00.890439944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe tani, kur t'ju vijë kjo letër — dhe ⟨את⟩ ju janë bijtë e zotërisë suaj, dhe ⟨את⟩ ju keni qerret dhe kuajt, dhe një qytet të fortifikuar dhe armatim —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kur të vijë"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kjo letër"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "dhe ⟨את⟩ ju",
+      "marks": "bijtë e zotërisë suaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "e zotërisë suaj"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "dhe ⟨את⟩ ju",
+      "marks": "qerret dhe kuajt"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "dhe kuajt"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dhe një qytet"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "i fortifikuar"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "dhe armatim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:03.810631882Z",
+  "model": "glm-5.3"
+}

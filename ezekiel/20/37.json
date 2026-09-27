@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe do t'ju bëj të kaloni ⟨את⟩ ju nën shkopin, dhe do t'ju sjell ⟨את⟩ ju nën lidhjet e besëlidhjes.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "dhe do t'ju bëj të kaloni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (nën shkopin)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "shkopin"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "dhe do t'ju sjell"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (në lidhjet e besëlidhjes)"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "nën lidhjet"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "të besëlidhjes"
+    }
+  ],
+  "timestamp": "2026-09-27T18:28:45.804143969Z",
+  "model": "glm-5.3"
+}

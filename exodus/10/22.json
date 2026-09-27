@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Moisi shtriu ⟨את⟩ dorën e tij drejt qiejve, dhe u bë errësirë e zezë në të gjithë tokën e Egjiptit tri ditë.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dhe shtriu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qeijve"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësirë"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "e zezë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:00.995304173Z",
+  "model": "glm-5.3"
+}

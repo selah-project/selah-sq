@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe lindi nga Hodesh ⟨e⟩ gruaja e tij ⟨את⟩ Jovabin, ⟨את⟩ Tsibian, ⟨את⟩ Meishan dhe ⟨את⟩ Malkamin.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "e gruaja e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovabin"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tsibian"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsibian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Meishan"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meishan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Malkamin"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:07.217016354Z",
+  "model": "glm-5.3"
+}

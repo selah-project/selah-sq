@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe të gjithë populli përgjigjën bashkarisht dhe thanë: «Gjithçka që ka folur Jahve, do ta bëjmë.» Dhe Moisi i ktheu ⟨את⟩ fjalët e popullit te Jahve.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "përgjigjën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "do ta bëjmë"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ktheu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e popullit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:55.631524887Z",
+  "model": "glm-5.3"
+}

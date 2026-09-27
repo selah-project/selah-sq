@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Me mençurinë tënde dhe me kuptimin tënd ke bërë për vete pasuri, dhe ke grumbulluar ar dhe argjend në thesaret e tua.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Me mençurinë tënde"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "dhe me kuptimin tënd"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasuri"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "dhe ke grumbulluar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dhe argjend"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "në thesaret e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:35:14.117635900Z",
+  "model": "glm-5.3"
+}

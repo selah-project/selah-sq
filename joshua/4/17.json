@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jozue urdhëroi ⟨את⟩ priftërinjtë, duke thënë: \"Ngjihu nga Jordani.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priftërinjtë"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Ngjihu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:29.586254239Z",
+  "model": "glm-5.3"
+}

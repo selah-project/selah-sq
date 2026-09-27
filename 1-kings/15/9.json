@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe në vitin e njëzetë të Jeroboamit, mbretit të Izraelit, mbretëroi Asa, mbret i Judës.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "dhe në vitin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "e njëzetë"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "të Jeroboamit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:26.735961303Z",
+  "model": "glm-5.3"
+}

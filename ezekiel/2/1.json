@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe më tha: Bir njeriu, qëndro mbi këmbët e tua dhe unë do të flas ⟨אתך⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "qëndro"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "këmbët e tua"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "dhe unë do të flas"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:45.469436499Z",
+  "model": "glm-5.3"
+}

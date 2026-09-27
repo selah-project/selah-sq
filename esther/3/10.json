@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atëherë mbreti e hoqi ⟨את⟩ unazën e vulosjes nga dora e tij dhe ia dha atë Hamanit, birit të Hamedatës, Agagitit, armikut të judenjve.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "e hoqi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unazën e vulosjes"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "unazën e vulosjes"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ia dha atë"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "të Hamedatës"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagitit"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "armikut"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "të judenjve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:15.952747607Z",
+  "model": "glm-5.3"
+}

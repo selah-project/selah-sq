@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "dhe do t'i shërbejnë ⟨את⟩ Jahve, Elohim të tyre, dhe ⟨את⟩ Davidit, mbretit të tyre, të cilin do ta ngjall për ta.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "dhe do t'i shërbejnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim të tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mbretin e tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "do ta ngjall"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:58.804736694Z",
+  "model": "glm-5.3"
+}

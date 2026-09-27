@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe bijtë e Gadit ndërtuan ⟨את⟩ Dibonin, ⟨את⟩ Atarotin dhe ⟨את⟩ Aroerin.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ndërtuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibonin"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atarotin"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aroerin"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:49.336168465Z",
+  "model": "glm-5.3"
+}

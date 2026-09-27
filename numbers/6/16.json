@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe prifti do t'i afrojë ato përpara Jahves, dhe do të bëjë ⟨את⟩ flijimin e tij të mëkatit dhe ⟨את⟩ flijimin e tij të përbërë.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do t'i afrojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe do të bëjë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e tij të mëkatit"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "flijimin e tij të mëkatit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e tij të përbërë"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "flijimin e tij të përbërë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:24.791129404Z",
+  "model": "glm-5.3"
+}

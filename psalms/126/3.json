@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 126,
+  "translation": "Jahve ka bërë gjëra të mëdha me ne; ne ishim të gëzuar.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ka bërë gjëra të mëdha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bëjë"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ne ishim"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "të gëzuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:03.003404284Z",
+  "model": "glm-5.3"
+}

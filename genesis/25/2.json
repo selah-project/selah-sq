@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ajo i lindi atij ⟨את⟩ Zimranin, dhe ⟨את⟩ Jokshanin, dhe ⟨את⟩ Medanin, dhe ⟨את⟩ Midianin, dhe ⟨את⟩ Ishbakun, dhe ⟨את⟩ Shuahun.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhe ajo lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimranin"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimranin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jokshanin"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokshanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Medanin"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Midianin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ishbakun"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Ishbakun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shuahun"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuahun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:02.730685234Z",
+  "model": "glm-5.3"
+}

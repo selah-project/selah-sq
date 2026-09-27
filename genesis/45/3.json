@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe Jozuei u tha vëllezërve të tij: «Unë jam Jozuei! A jeton ende babai im?» Dhe vëllezërit e tij nuk mundën t'i përgjigjeshin ⟨את⟩-atij, sepse u tronditën nga prania e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u tha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërve të tij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babai im"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jeton"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mundën"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "t'i përgjigjeshin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atij (t'i përgjigjeshin atij)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "u tronditën"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nga prania e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:03.005090086Z",
+  "model": "glm-5.3"
+}

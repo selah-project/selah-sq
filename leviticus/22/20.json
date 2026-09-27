@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Çdo gjë që ka në vete të metë, të mos e sillni, sepse nuk do të jetë e pranueshme për ju.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në vete"
+    },
+    {
+      "surface": "מום",
+      "gloss": "të metë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "të mos e sillni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "e pranueshme"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:55.854576082Z",
+  "model": "glm-5.3"
+}

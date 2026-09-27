@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Kini frikë ⟨את⟩ Jahve, o të shenjtërit e tij, se nuk ka mungesë për ata që e kanë frikën.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Kini frikë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "të shenjtërit e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "mungesë"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "për ata që e kanë frikën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:13.859288847Z",
+  "model": "glm-5.3"
+}

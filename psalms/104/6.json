@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Me tehomin si petk e mbulove ⟨atë⟩; mbi male qëndronin ujërat.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "tehomin"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "si petk"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "e mbulove"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "male"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "qëndronin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:54.474026796Z",
+  "model": "glm-5.3"
+}

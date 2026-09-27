@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Eliseu i tha atij: Merr një hark dhe shigjeta. Dhe ai mori te ai një hark dhe shigjeta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i atij"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Merr"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "një hark"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "dhe shigjeta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "një hark"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "dhe shigjeta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:04.785993799Z",
+  "model": "glm-5.3"
+}

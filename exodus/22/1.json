@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse në ⟨të⟩ çarë ⟨në⟩ mur gjendet hajduti dhe ⟨ai⟩ rrihet dhe vdes, nuk ka ⟨për të⟩ gjak (faj).",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "në çarje muri"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "hajduti"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dhe rrihet"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe vdes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "gjak (faj)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:52.620171140Z",
+  "model": "glm-5.3"
+}

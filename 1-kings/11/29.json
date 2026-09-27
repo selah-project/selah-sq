@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 11:29",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ndodhi në atë kohë, kur Jeroboami doli nga Jeruzalemi, që Ahia Shiloniti, profeti, e gjeti ⟨את⟩ atë në rrugë; dhe ai ishte i mbështjellë me një mantel të ri; dhe të dy ishin vetëm në fushë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "kur Jeroboami"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "nga Jeruzalemi"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dhe e gjeti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Ahia Shiloniti e gjeti atë (Jeroboamin)"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahia"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Shiloniti"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "מתכסה",
+      "gloss": "i mbështjellë"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "me mantel"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "të ri"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "dhe të dy"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:48.121599865Z",
+  "model": "glm-5.3"
+}

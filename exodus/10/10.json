@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ⟨Faraoni⟩ u tha atyre: Kështu qofsh Jahve me ju, siç do t'ju lë të shkoni ⟨אתכם⟩ dhe ⟨את⟩ fëmijët tuaj — shihni, sepse e keqja ⟨është⟩ përpara fytyrave tuaja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u tha atyre"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qofsh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "do t'ju lë të shkoni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fëmijët tuaj"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "fëmijët tuaj"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "shihni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fytyrave tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:29.838396017Z",
+  "model": "glm-5.3"
+}

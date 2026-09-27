@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 99,
+  "translation": "Jahve ⟨është⟩ i madh në Zion, dhe i lartë ⟨është⟩ ai mbi të gjithë popujt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Zion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "dhe i lartë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:07.404086031Z",
+  "model": "glm-5.3"
+}

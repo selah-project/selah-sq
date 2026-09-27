@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Kjo ⟨Është⟩ rruga e tyre, marrëzia ⟨e⟩ tyre; dhe pasuesit e tyre me gojën e tyre kënaqen. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kjo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "rruga e tyre"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "marrëzia"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "dhe pasuesit e tyre"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "me gojën e tyre"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kënaqen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:54.534052169Z",
+  "model": "glm-5.3"
+}

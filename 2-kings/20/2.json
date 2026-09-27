@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe e ktheu ⟨את⟩ fytyrën e tij kah muri, dhe u lute Jahvesh, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dhe e ktheu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e tij"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kah"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "muri"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dhe u lute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:56.205900897Z",
+  "model": "glm-5.3"
+}

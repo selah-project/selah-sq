@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Elohim bën të vetmuarit të banojnë në shtëpi, nxjerr të burgosurit në begati; por të pandehurit banojnë në një vend të thatë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "bën të banojnë"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "të vetmuarit"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "nxjerr"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "të burgosurit"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "në begati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "por"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "të pandehurit"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "banojnë"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "në vend të thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:45.264145320Z",
+  "model": "glm-5.3"
+}

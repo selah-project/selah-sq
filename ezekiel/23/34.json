@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 23:34",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Do ta pish ⟨את⟩ atë dhe do ta thithësh deri në fund, dhe ⟨את⟩ copat e saj të balte do t'i grimconi, dhe gjoksin tënd do ta shqyesh, sepse unë fola, fjalë e Adonai Jahves.",
+  "tokens": [
+    {
+      "surface": "ושתית",
+      "gloss": "do ta pish"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "אותה → ajo (kupë, femëroj)"
+    },
+    {
+      "surface": "ומצית",
+      "gloss": "dhe do ta thithësh deri në fund"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "copat e saj të balte"
+    },
+    {
+      "surface": "חרשיה",
+      "gloss": "copat e saj të balte"
+    },
+    {
+      "surface": "תגרמי",
+      "gloss": "do t'i grimconi"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "dhe gjoksin tënd"
+    },
+    {
+      "surface": "תנתקי",
+      "gloss": "do ta shqyesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "folova"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fjalë (orakull) e"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T16:33:02.314809436Z",
+  "model": "glm-5.3"
+}

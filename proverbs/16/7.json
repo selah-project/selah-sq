@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Kur rrugët e një njeriu i pëlqejnë Jahvesë, edhe armiqtë e tij i bën ⟨të jetë⟩ në paqe ⟨את⟩ ⟨me të⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Kur i pëlqejnë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "armiqtë e tij"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "i bën në paqe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨me të⟩",
+      "marks": "me të (armiqtë në paqe me njeriun)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:23.090562078Z",
+  "model": "glm-5.3"
+}

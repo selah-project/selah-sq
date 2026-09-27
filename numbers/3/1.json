@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Këto janë ⟨të⟩ gjenezat e Aaronit dhe të Moisiut, në ditën kur Jahve foli ⟨את⟩ Moisiun në malin e Sinait.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Këto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "gjenezat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "dhe Moisiut"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "e Sinait"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:33.226066573Z",
+  "model": "glm-5.3"
+}

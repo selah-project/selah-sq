@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ mbretin e Hait e zunë të gjallë, dhe e çuan ⟨את⟩ atë te Jozue.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mbretin e Hait"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "העי",
+      "gloss": "e Hait"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "e zunë"
+    },
+    {
+      "surface": "חי",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:15.258011269Z",
+  "model": "glm-5.3"
+}

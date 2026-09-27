@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ⟨ndodhi⟩ pas shtatë ditësh, dhe ujërat e përmbytjes erdhën mbi ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ⟨ndodhi⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "pas shtatë"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditësh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe ujërat e"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "përmbytjes"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erdhën mbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:23.147258256Z",
+  "model": "glm-5.3"
+}

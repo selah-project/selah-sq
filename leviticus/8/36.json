@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Aaroni dhe bijtë e tij bënë ⟨את⟩ të gjitha fjalët që kishte urdhëruar Jahve nëpërmjet dorës së Moisit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe bënë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet dorës"
+    },
+    {
+      "surface": "משה",
+      "gloss": "së Moisit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:24.479720090Z",
+  "model": "glm-5.3"
+}

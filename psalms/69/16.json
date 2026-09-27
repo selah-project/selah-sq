@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Të mos më përmbytë rrjedha e ujërave, dhe të mos më gëlltisë thellësia, dhe të mos mbyllet mbi mua puthja e gropës.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "më përmbytë"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "rrjedha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "e ujërave"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "më gëlltisë"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "thellësia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "mbyllet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "באר",
+      "gloss": "e gropës"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "puthja e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:56.501963746Z",
+  "model": "glm-5.3"
+}

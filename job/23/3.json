@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Kush do të japë që unë ta di dhe ta gjej atë, të vij deri te vendi i tij i përgatitur?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ta di"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "dhe ta gjej atë"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "të vij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "vendi i tij i përgatitur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:32:09.474128344Z",
+  "model": "glm-5.3"
+}

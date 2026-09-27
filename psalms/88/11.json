@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "A do t'u bësh ⟨ndonjë⟩ çudi të vdekurve? A do të ngrihen refaimët dhe do të të lëvdojnë? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "a do t'i... të vdekurve"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "çudi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimët"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "do të ngrihen"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "do të të lëvdojnë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.911998406Z",
+  "model": "glm-5.3"
+}

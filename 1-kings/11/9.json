@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve u zemërua me Salomonun, sepse zemra e tij ishte kthyer larg nga Jahve, Elohim i Izraelit, i cili i ishte shfaqur atij dy herë.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "u zemërua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "me Salomonun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ishte kthyer"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "larg nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "i cili ishte shfaqur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dy herë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.230036151Z",
+  "model": "glm-5.3"
+}

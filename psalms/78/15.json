@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "E çau shkëmbinjtë në shkretëtirë dhe u dha të pinin aq sa thellësitë e mëdha.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "E çau"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "shkëmbinjtë"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dhe u dha të pinin"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sa thellësitë"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "e mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:41.478073143Z",
+  "model": "glm-5.3"
+}

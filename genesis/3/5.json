@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Sepse Elohim di se në ditën kur të hani nga ai, do t'ju hapen sytë dhe do të jeni si Elohim, duke ditur të mirën dhe të keqen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "kur të hani"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ai"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "do t'ju hapen"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dhe do të jeni"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "duke ditur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "dhe të keqen"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:01.507405683Z",
+  "model": "glm-5.3"
+}

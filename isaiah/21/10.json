@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "O ⟨ty⟩ e shkelura ime, dhe ⟨ty⟩ bir i lëmisë sime — çfarë dëgjova nga ⟨את⟩ Jahve Tsevaot, Elohim i Izraelit, ju e tregova.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "e shkelura ime"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dhe bir i"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lëmisë sime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩",
+      "marks": "Jahve Tsevaot, Elohim i Izraelit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "tregova"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:33.363689557Z",
+  "model": "glm-5.3"
+}

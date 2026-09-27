@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "dhe ⟨את⟩ altarinn e djegies së flijimit me ⟨את⟩ të gjitha veglat e tij, dhe ⟨את⟩ legenin dhe ⟨את⟩ bazën e tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "altarinn e djegies së flijimit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarinn"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e djegies së flijimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "legenin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "legenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bazën e tij"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bazën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:14.090027223Z",
+  "model": "glm-5.3"
+}

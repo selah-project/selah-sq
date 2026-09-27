@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe këta nismëtarë mbanin me ushqim ⟨את⟩ mbretin Salomon dhe ⟨את⟩ gjithë ⟨atë⟩ që afrohej në tavolinën e mbretit Salomon, secili në muajin e vet; nuk u mungonte asgjë.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "mbanin me ushqim"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "nismëtarët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë ⟨atë⟩ që afrohej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "që afrohej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tavolinën e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "në muajin e vet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "u mungonte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:35.049697784Z",
+  "model": "glm-5.3"
+}

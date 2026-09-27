@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Davidi u ngjit sipas fjalës së Gadit, të cilën ai foli në emrin e Jahves.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Dhe u ngjit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "גד",
+      "gloss": "të Gadit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:09.859549943Z",
+  "model": "glm-5.3"
+}

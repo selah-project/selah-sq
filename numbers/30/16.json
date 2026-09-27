@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Por nëse ai i shfuqizon ⟨את⟩ ⟨ato⟩ pasi t'i ketë dëgjuar, atëherë ai do të mbajë ⟨את⟩ përgjegjësinë e saj.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "por nëse"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "i shfuqizon krejt"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "i shfuqizon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ato⟩",
+      "marks": "premtimet dhe detyrimet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "t'i ketë dëgjuar"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "do të mbajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "përgjegjësinë e saj"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "përgjegjësinë e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:21.321801558Z",
+  "model": "glm-5.3"
+}

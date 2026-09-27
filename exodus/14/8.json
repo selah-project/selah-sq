@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jahve e forcoi ⟨את⟩ zemrën e Faraoit, mbretit të Egjiptit, dhe ai ndoqi pas bijve të Israelit; dhe bijtë e Israelit po dilnin me dorë të lartë.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe e forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e Faraoit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraoit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "dhe ai ndoqi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "po dilnin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorë"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "të lartë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:24.502041105Z",
+  "model": "glm-5.3"
+}

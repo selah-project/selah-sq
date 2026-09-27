@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Të bekuar janë ata që ruajnë të drejtën, që bëjnë drejtësi në çdo kohë.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Të bekuar"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ata që ruajnë"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "të drejtën"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bëjnë"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:32.142253155Z",
+  "model": "glm-5.3"
+}

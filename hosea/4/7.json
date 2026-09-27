@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sipas shumimit të tyre, kështu mëkatan kundër meje; lavdinë e tyre në turp do ta këmbej.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "sipas shumimit të tyre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mëkatan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "lavdinë e tyre"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "në turp"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "do ta këmbej"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:26.603659641Z",
+  "model": "glm-5.3"
+}

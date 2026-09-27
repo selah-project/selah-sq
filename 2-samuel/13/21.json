@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe mbreti Davidi e dëgjoi ⟨את⟩ të gjitha fjalët këto, dhe iu ndez zemërimi fort.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "e dëgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "iu ndez zemërimi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fort"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:04.614424743Z",
+  "model": "glm-5.3"
+}

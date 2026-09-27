@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Jahve nga qiejt ua ka kthyer shikimin mbi bijtë e njeriut, për të parë nëse ⟨ka⟩ një të mendar, që kërkon ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "nga qiejt"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ua ka kthyer shikimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "היש",
+      "gloss": "nëse ka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "një të mendar"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "që kërkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:13.851996641Z",
+  "model": "glm-5.3"
+}

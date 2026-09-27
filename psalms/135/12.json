@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "dhe dha tokën e tyre si trashëgimi, trashëgimi për Izraelin, popullin e tij.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tokën e tyre"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "si trashëgimi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "trashëgimi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:27.408268880Z",
+  "model": "glm-5.3"
+}

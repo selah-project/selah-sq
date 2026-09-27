@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Prova ⟨i⟩ besëlidhjen me të zgjedhurin tim, u betova për Davidin, shërbëtorin tim",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Prova"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "me të zgjedhurin tim"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "u betova"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "për Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:31.594403031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Të gjithë kombet që ke bërë do të vijnë dhe do të përulen përpara teje, o Adonai, dhe do ta lartësojnë emrin tënd.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "do të vijnë"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dhe do të përulen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "përpara teje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "dhe do ta lartësojnë"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "emrin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.094127764Z",
+  "model": "glm-5.3"
+}

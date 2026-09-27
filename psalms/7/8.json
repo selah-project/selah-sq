@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe bashkësia e popujve le të të rrethojë, dhe mbi të kthehu në lartësi.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "dhe bashkësia"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "e popujve"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "le të të rrethojë"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "dhe mbi të"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "në lartësi"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kthehu"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:59.048260528Z",
+  "model": "glm-5.3"
+}

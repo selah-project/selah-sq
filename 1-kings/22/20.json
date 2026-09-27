@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Jahve tha: Kush do ta mashtrojë ⟨את⟩ Ahabin, që të ngjitet e të bjerë në Ramot të Gileadit? Dhe një tha kështu, dhe tjetri po thoshte kështu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe… tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "do ta mashtrojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "që të ngjitet"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e të bjerë"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "në Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "të Gileadit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe… tha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "një"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dhe tjetri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "po thoshte"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kështu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:33.946345330Z",
+  "model": "glm-5.3"
+}

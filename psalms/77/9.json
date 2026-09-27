@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "A mbaroi përgjithmonë hesed-i i tij? A dështoi premtimi për brez e brez?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "a mbaroi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përgjithmonë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a dështoi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "premtimi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "për brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e brez"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.006354091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Toi, mbreti i Hamatit, dëgjoi se Davidi i kish rrahur ⟨את⟩ gjithë ushtrinë e Hadadezerit.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "i Hamatit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kish rrahur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë ushtrinë e Hadadezerit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ushtrinë"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "e Hadadezerit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:22.981373341Z",
+  "model": "glm-5.3"
+}

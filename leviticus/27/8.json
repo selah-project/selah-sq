@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse ⟨ai⟩ është shumë i varfër për vlerësimin tënd, atëherë ⟨ai⟩ do të paraqitet para priftit, dhe prifti do ta vlerësojë ⟨את⟩ atë; sipas asaj që arrin dora e ai që bëri lögen, do ta vlerësojë prifti.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "מך",
+      "gloss": "është shumë i varfër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "për vlerësimin tënd"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "do të paraqitet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "dhe do ta vlerësojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (personin e varfër të paraqitur)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "asaj që"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "arrin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora e"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "ai që bëri lögen (nadörin)"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "do ta vlerësojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:20.027137712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Se një mijë vjet në sytë e tu ⟨janë⟩ si dje, dita që kalon, dhe si një roje në natë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "në sytë e tu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si dje"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "dje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kalon"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "dhe si një roje"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "në natë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:33.222708948Z",
+  "model": "glm-5.3"
+}

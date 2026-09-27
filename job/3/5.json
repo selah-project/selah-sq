@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Le ta shpengojnë atë errësira dhe hije-vdekja; të banojë mbi të ⟨re⟩ një re; le ta trembin atë hidhërimet e ditës.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "le ta shpengojnë atë"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësira"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "dhe hije-vdekja"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "të banojë"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "⟨re⟩"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "le ta trembin atë"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "hidhërimet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "e ditës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:49.051506608Z",
+  "model": "glm-5.3"
+}

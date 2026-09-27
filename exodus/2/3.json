@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe nuk mundi më të fshehte atë, dhe mori për të një arkë prej papirusi, dhe e lyeni me baltë katrani dhe me një lëndë ngjitëse; dhe e vuri ⟨את⟩ fëmijën në të, dhe e vuri në kallamaishte, mbi bregun e lumit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "të fshehte atë"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "një arkë"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "prej papirusi"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "dhe e lyeni"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "me baltë katrani"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "dhe me një lëndë ngjitëse"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijën"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmijën"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "në kallamaishte"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bregun"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "të lumit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:38.830333842Z",
+  "model": "glm-5.3"
+}

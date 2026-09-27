@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Jahve foli me Manasin dhe me popullin e tij, por ata nuk dëgjuan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "dëgjuan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:37:08.636873528Z",
+  "model": "glm-5.3"
+}

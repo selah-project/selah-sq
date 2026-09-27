@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Sepse ti je zbukurimi i forcës së tyre, dhe me favorin tënd bri i ynë do të ngrihet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "zbukurimi"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "i forcës së tyre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "dhe me favorin tënd"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "do të ngrihet"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "bri i ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:39.449669489Z",
+  "model": "glm-5.3"
+}

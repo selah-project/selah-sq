@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Sepse ai ngop shpirtin që pangopet, dhe shpirtin e uritur e mbush me të mira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ngop"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "që pangopet"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dhe shpirtin"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "e uritur"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbush"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "me të mira"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.438709689Z",
+  "model": "glm-5.3"
+}

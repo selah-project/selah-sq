@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe mbreti e dha ⟨את⟩ argjendin dhe ⟨את⟩ arin në Jerusalem si gurët, dhe ⟨את⟩ qederat i dha si fiqtë e Egjiptit që janë në fushë, në shumicë.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe e dha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjendin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "si gurët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qederat"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "qederat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i dha"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "si fiqtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "në shumicë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:07:37.252682528Z",
+  "model": "glm-5.3"
+}

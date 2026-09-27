@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe ky ⟨është⟩ bekimi me të cilin Moisi, njeriu i Elohit, bekoi ⟨את⟩ bijtë e Israelit përpara vdekjes së tij.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "dhe ky"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bekimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilin"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bekoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Israelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Israelit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "vdekjes së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:16.647847623Z",
+  "model": "glm-5.3"
+}

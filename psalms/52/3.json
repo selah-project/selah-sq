@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Përse lëvdohesh në të keqe, o iegu i fortë? Hesedi i El-it zgjat gjithë ditën.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Përse"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "lëvdohesh"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "në të keqe"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "o i fortë"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i El-it"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:12.169721408Z",
+  "model": "glm-5.3"
+}

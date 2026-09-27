@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe këto fjalë që unë të urdhëroj sot ⟨duhet⟩ ⟨të jenë⟩ mbi zemrën tënde.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "dhe të jenë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:03.178564249Z",
+  "model": "glm-5.3"
+}

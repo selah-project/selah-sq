@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ndero ⟨את⟩ Jahve nga pasuria jote dhe nga të parat e të gjitha fryteve të tua;",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ndero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "nga pasuria jote"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "dhe nga të parat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e të gjitha"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "fryteve të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:52.181360448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe ⟨את⟩ të gjithë mbretërit e Arabisë, dhe ⟨את⟩ të gjithë mbretërit e popullit të përzier që banon ⟨në⟩ shkretëtirën",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e Arabisë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabisë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e popullit të përzier"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "popullit të përzier"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "që banon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:28.382911193Z",
+  "model": "glm-5.3"
+}

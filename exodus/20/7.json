@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Mos e ngre ⟨את⟩ emrin e Jahvesë, Elohim të tand, për kotësi, sepse Jahve nuk do ta lërë të pa ndëshkuar atë ⟨את⟩ që ngre ⟨את⟩ emrin e tij për kotësi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "e ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim të tand"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "për kotësi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "do ta lërë të pa ndëshkuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "për kotësi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:29.912605281Z",
+  "model": "glm-5.3"
+}

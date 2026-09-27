@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Dhe thonë: «Jah nuk sheh, dhe Elohim i Jakobit nuk kupton.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dhe thonë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sheh"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kupton"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:10.526903808Z",
+  "model": "glm-5.3"
+}

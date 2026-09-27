@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Te Davidit. Tek ti, Jahve, po thërres; shkëmbi im, mos ⟨u⟩ hesht ndaj meje, që të mos heshtësh ndaj meje dhe të bëhem i ngjashëm me ata që zbresin në gropë.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "te Davidit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tek ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "po thërres"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨u⟩ hesht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ndaj meje"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "heshtësh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ndaj meje"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "dhe të bëhem i ngjashëm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ata që zbresin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "në gropë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.229764749Z",
+  "model": "glm-5.3"
+}

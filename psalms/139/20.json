@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "që të përmendin me mendjezi, që e ngrenë kot armiqtë e tu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "të përmendin ty"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "me mendjezi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "e ngrenë"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kot"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "armiqtë e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:10.040049099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jahve i foli Moisit dhe Aaronit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... i foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨asaj⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe ⟨asaj⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:10.979716406Z",
+  "model": "glm-5.3"
+}

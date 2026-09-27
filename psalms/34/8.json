@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Engjëlli i Jahvet ndodhet rreth e rrotull atyre që i frikësohen atij, dhe i çliron.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "ndodhet (fushon)"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engjëlli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvet"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "atyre që i frikësohen atij"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "dhe i çliron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.806166244Z",
+  "model": "glm-5.3"
+}

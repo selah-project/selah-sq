@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 120,
+  "translation": "Shumë gjatë ka banuar shpirti im me ⟨ata⟩ që urrejnë paqen.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Shumë gjatë"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ka banuar"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "që urrejnë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:18.105737772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Lëvdoni Jah-in, falënderoni Jahve-n, se ⟨është⟩ i mirë, se përjetësisht hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "falënderoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:32.141822548Z",
+  "model": "glm-5.3"
+}

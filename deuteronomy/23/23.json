@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe kur të përmbahesh nga të bërit prijë, nuk do të ketë mbi ty mëkat.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe kur"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "të përmbahesh"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "nga të bërit prijë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkat"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:35.243181379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sytë e mi ⟨janë⟩ vazhdimisht drejt Jahvesë, sepse ai do t'i nxjerrë këmbët e mia nga rrjeta.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Sytë e mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "do t'i nxjerrë"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "nga rrjeta"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.314806928Z",
+  "model": "glm-5.3"
+}

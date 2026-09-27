@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Më i mirë ⟨është⟩ hidhërimi se të qeshurit, sepse me zi i fytyrës zemra bëhet më e mirë.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më i mirë"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "hidhërimi"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "se të qeshurit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "me zi i"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bëhet më e mirë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:57.183213044Z",
+  "model": "glm-5.3"
+}

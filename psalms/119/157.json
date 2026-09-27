@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Shumë janë përndjekësit e mi dhe kundërshtarët e mi, por nga dëshmitë e tua nuk kam shmangur.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "përndjekësit e mi"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "dhe kundërshtarët e mi"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "nga dëshmitë e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "kam shmangur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:17.548645449Z",
+  "model": "glm-5.3"
+}

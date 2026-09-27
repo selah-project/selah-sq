@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Fito dituri, fito mend; mos harro dhe mos shmangu nga fjalët e gojës sime.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Fito"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dituri"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "fito"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "mend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "harro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תט",
+      "gloss": "shmangu"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "nga fjalët"
+    },
+    {
+      "surface": "פי",
+      "gloss": "e gojës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:15.193105276Z",
+  "model": "glm-5.3"
+}

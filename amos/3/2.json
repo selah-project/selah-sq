@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Vetëm ju njoha nga të gjitha familjet e dheut; prandaj do të kërkoj llogari mbi ju për ⟨את⟩ të gjitha paudhësitë tuaja.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju njoha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "njoha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "familjet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e dheut"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj (על כן = për këtë arsyeje)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "do të kërkoj llogari"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha paudhësitë tuaja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "paudhësitë tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:38.046601724Z",
+  "model": "glm-5.3"
+}

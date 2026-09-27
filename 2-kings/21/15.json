@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "meqë bën ⟨את⟩ të keqen në sytë e mi dhe ishin të mërzitur ⟨את⟩ mua, nga dita që dolën etërit e tyre nga Egjipti e deri në ditën e këtë.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "meqë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bëjnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të keqen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e mi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "të mërzitur (provokues)"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dolën"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "etërit e tyre"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:24.836629560Z",
+  "model": "glm-5.3"
+}

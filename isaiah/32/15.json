@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "derisa të derdhet mbi ne Fryma nga lart; dhe shkretëtira do të bëhet kopsht i frytshëm, dhe kopshti i frytshëm do të llogaritet si pyll.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "të derdhet"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "nga lart"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të bëhet"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtira"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "kopsht i frytshëm"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "dhe kopshti i frytshëm"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "si pyll"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "do të llogaritet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:31.793953686Z",
+  "model": "glm-5.3"
+}

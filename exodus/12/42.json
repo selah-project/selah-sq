@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Një natë ruajtjesh ⟨është⟩ ajo për Jahve, për t'i nxjerrë ata nga vendi i Egjiptit; ajo ⟨është⟩ kjo natë për Jahve — ruajtje për të gjithë bijtë e Israelit, për brezat e tyre.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "një natë"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ruajtjesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "për t'i nxjerrë ata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kjo natë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ruajtje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Israelit"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "për brezat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:00.131810628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Le të gëzojnë me vrull të përkushtuarit në lavdi, të këndojnë me britma në shtretërit e tyre.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "le të gëzojnë me vrull"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "të përkushtuarit"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "në lavdi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "të këndojnë me britma"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "shtretërit e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:05.471762259Z",
+  "model": "glm-5.3"
+}

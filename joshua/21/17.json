@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nga fisi i Binjaminit ⟨את⟩ Gibeonin me kullotat e saj, ⟨את⟩ Gebanë me kullotat e saj,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dhe nga fisi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "i Binjaminit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeonin"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e saj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebanë"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:36.003144389Z",
+  "model": "glm-5.3"
+}

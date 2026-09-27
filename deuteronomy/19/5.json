@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe kush shkon ⟨את⟩ shokun e tij në pyll për të prerë drurë, dhe i rrëshqit dora e tij me sëpatën për të prerë drunjin, dhe hekuri bie nga druri, dhe e gjen ⟨את⟩ shokun e tij dhe ai vdes — ai do të iket në një nga këto qytete dhe do të jetojë.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dhe kush"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shokun e tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shokun e tij"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "në pyll"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "për të prerë"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drurë"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "dhe i rrëshqit"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "me sëpatë"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "për të prerë"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drunjin"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "dhe bie"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hekuri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "druri"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "dhe e gjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shokun e tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shokun e tij"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe vdes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "do të iket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nga qytetet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dhe do të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:54.511553095Z",
+  "model": "glm-5.3"
+}

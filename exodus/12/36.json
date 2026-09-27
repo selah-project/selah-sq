@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jahve dha ⟨את⟩ hirin e popullit në sytë e Egjiptit, dhe ata ua dhanë atë që kërkuan; dhe i zbrazën ⟨את⟩ Egjiptin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirin e popullit"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "dhe ata ua dhanë atë që kërkuan"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "dhe i zbrazën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:22.220695498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Zotëria ime pyeti ⟨את⟩ shërbëtorët e tij, duke thënë: A kini babë, a vëlla?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "zotëria ime"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "היש",
+      "gloss": "a kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "אב",
+      "gloss": "babë"
+    },
+    {
+      "surface": "או",
+      "gloss": "a"
+    },
+    {
+      "surface": "אח",
+      "gloss": "vëlla"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:08.212922840Z",
+  "model": "glm-5.3"
+}

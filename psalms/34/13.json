@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Kush është njeriu që dëshiron jetën, që do shumë ditë për të parë të mirën?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "që dëshiron"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jetën"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "që do"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:26.214029834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "dhe i vuri ⟨ata⟩ të qëndrojnë për gjithmonë e moti; dha një sundim dhe ⟨ata⟩ nuk do të kalojnë.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "dhe i vuri të qëndrojnë"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "për gjithmonë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "e moti"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sundim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "do të kalojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:09.889275005Z",
+  "model": "glm-5.3"
+}

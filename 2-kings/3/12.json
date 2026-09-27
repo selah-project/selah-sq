@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jehoshafati tha: ⟨Fjala⟩ e Jahvesë ⟨ështכ⟩ me të. Dhe zbritën tek ai mbreti i Izraelit, dhe Jehoshafati, dhe mbreti i Edomit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "është"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Fjala e Jahvesë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "dhe zbritën"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tek ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "dhe Jehoshafati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "i Edomit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:34.260181232Z",
+  "model": "glm-5.3"
+}

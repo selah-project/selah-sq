@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ajo vazhdoi të lindte ⟨את⟩ vëllain e tij, ⟨את⟩ Hebelin; dhe Hebeli u bë bari i deleve, dhe Kaini ishte punëtor i tokës.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "dhe ajo vazhdoi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "të lindte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllain e tij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllain e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebelin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebelin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bari"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "i deleve"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "dhe Kaini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "punëtor"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "i tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:45.100744284Z",
+  "model": "glm-5.3"
+}

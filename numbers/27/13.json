@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 27:13",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe e sheh atë ⟨את⟩, dhe mblidhesh te populli yt, edhe ti, siç u mblodh Aaron, vëllai yt.",
+  "tokens": [
+    {
+      "surface": "וראיתה",
+      "gloss": "dhe e sheh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (atë — tokeni i parë אתה është shenja e kundrinorit, jo përemri)"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "dhe mblidhesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "populli yt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "u mblodh"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:50.466868160Z",
+  "model": "glm-5.3"
+}

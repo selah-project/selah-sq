@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Maleve le të bartin paqen për popullin, dhe kodrat me drejtësi.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "le të bartin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maleve"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "për popullin"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "dhe kodrat"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "me drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.985947087Z",
+  "model": "glm-5.3"
+}

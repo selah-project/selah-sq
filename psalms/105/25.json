@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Ai ktheu zemrën e tyre për të urryer popullin e tij, për të intriguar kundër shërbëtorëve të tij.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ktheu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemrën e tyre"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "për të urryer"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "për të intriguar"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "kundër shërbëtorëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:29.580502136Z",
+  "model": "glm-5.3"
+}

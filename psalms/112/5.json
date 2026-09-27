@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "I mirë ⟨është⟩ njeriu që tregon hir dhe jep me kamatë; ai i mbështet çështjet e tij me gjykim.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "tregon hir"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "dhe jep me kamatë"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "i mbështet"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "çështjet e tij"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "me gjykim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.864544329Z",
+  "model": "glm-5.3"
+}

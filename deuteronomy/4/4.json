@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ju, që i ngjiteshit Jahvesë, Elohut tuaj, ⟨jeni⟩ të gjallë të gjithë ju edhe sot.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "që i ngjiteshit"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohut tuaj"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "të gjithë ju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "edhe sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:28.879002234Z",
+  "model": "glm-5.3"
+}

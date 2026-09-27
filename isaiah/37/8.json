@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Ravshakehu u kthye dhe e gjeti ⟨את⟩ mbretin e Asirisë duke luftuar kundër Libnës, sepse dëgjoi se ishte nisur nga Lakishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Dhe … u kthye"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-shakehu"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dhe … e gjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin e Asirisë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin e"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirisë"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "duke luftuar"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnës"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ishte nisur"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "nga Lakishi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:56.243883497Z",
+  "model": "glm-5.3"
+}

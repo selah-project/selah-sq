@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Në dorën e të cilit ⟨janë⟩ thellësitë e tokës, dhe lartësitë e maleve ⟨janë⟩ të tijat.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i cilit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "Në dorën e"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "thellësitë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokës"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "dhe lartësitë"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "të maleve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "të tijat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.651816149Z",
+  "model": "glm-5.3"
+}

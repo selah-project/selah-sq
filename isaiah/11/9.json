@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Nuk do të bëjnë keq dhe nuk do të shkatërrojnë në tërë malin e shenjtë të im, sepse ⟨është⟩ plot toka me njohjen e ⟨את⟩ Jahves, si ujërat që mbulojnë ⟨את⟩ detin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "do të bëjnë keq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "do të shkatërrojnë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në tërë"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malit"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "të shenjtë të im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨është⟩ plot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "me njohjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "si ujërat"
+    },
+    {
+      "surface": "לים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "që mbulojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:07.742785291Z",
+  "model": "glm-5.3"
+}

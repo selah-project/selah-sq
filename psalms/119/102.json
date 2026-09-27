@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Nga gjykimet e tua nuk jam larguar, sepse ti më ke mësuar.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "nga gjykimet e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "jam larguar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "më ke mësuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:42.097893792Z",
+  "model": "glm-5.3"
+}

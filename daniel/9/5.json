@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Mëkatuan, bëmë paudhësi, vepruan ligësisht, u rebeluam dhe u larguam nga urdhrat e tu dhe nga gjykimet e tua.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "mëkatuan"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "bëmë paudhësi"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "vepruan ligësisht"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "u rebeluam"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "dhe u larguam"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "nga urdhrat e tu"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "dhe nga gjykimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:32.999700588Z",
+  "model": "glm-5.3"
+}

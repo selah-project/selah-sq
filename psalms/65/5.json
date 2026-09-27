@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Lum ai që ti zgjedh dhe e afron ⟨që⟩ të banojë në oborret e tua; do të ngopemi me të mirat e shtëpisë sate, ⟨me⟩ shenjtërinë e tempullit tënd.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lum"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "zgjedh"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "dhe e afron"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "të banojë"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "në oborret e tua"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "do të ngopemi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "me të mirat"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e shtëpisë sate"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "shenjtërinë"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "të tempullit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:23.516222441Z",
+  "model": "glm-5.3"
+}

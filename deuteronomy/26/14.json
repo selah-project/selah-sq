@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 26:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "«Nuk kam ngrënë nga ajo në pikëllimin tim, as nuk kam hequr nga ajo në papastërti, as nuk i kam dhënë nga saj të vdekurit; kam dëgjuar në zërin e Jahve, Elohim-it tim, dhe kam bërë sipas të gjithës që më ke urdhëruar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "kam ngrënë"
+    },
+    {
+      "surface": "באני",
+      "gloss": "në pikëllimin tim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "kam hequr"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "בטמא",
+      "gloss": "në papastërti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kam dhënë"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "למת",
+      "gloss": "të vdekurit"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kam dëgjuar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "në zërin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-it tim"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kam bërë"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "më ke urdhëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:59.651420734Z",
+  "model": "glm-5.3"
+}

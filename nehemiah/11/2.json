@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe populli bekoi të gjithë burrat që u ofruan vullnetarisht për të banuar në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "bekoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "që u ofruan vullnetarisht"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "për të banuar"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:49.776795802Z",
+  "model": "glm-5.3"
+}

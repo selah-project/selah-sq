@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe tha: «I bekuar qoftë Jahve, Elohim i Izraelit, që foli me gojën e tij me ⟨את⟩ Davidin, atin tim, dhe me duart e tij e plotësoi, duke thënë:»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "me gojën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ me",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atin tim"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "dhe me duart e tij"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e plotësoi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:48.048632957Z",
+  "model": "glm-5.3"
+}

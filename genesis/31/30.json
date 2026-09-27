@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe tani — shkove, sepse të mallkoi zemra për shtëpinë e të atit; pse ⟨mi⟩ vodhe ⟨את⟩ perënditë e mia?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkove"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "vërtet shkove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "të mallkoi zemra"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "vërtet të mallkoi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "për shtëpinë"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "e të atit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "vodhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perënditë e mia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:46.251237220Z",
+  "model": "glm-5.3"
+}

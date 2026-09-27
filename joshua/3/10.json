@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jozueu tha: Me këtë do të dini se ⟨një⟩ El i gjallë ⟨ësht⟩ në mesin tuaj, dhe se do të dëbojë pa dyshim para jush ⟨את⟩ Kananeanin dhe ⟨את⟩ Hititin dhe ⟨את⟩ Hivitin dhe ⟨את⟩ Perizitin dhe ⟨את⟩ Girgashitin dhe ⟨את⟩ Emorean dhe ⟨את⟩ Jebusean.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueu"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "me këtë"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "do të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "në mesin tuaj"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "dhe do të dëbojë"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "pa dyshim"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kananeanin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananeanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hititin"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hititin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hivitin"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Perizitin"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Girgashitin"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashitin"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dhe Emorean"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dhe Jebusean"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:30.386397359Z",
+  "model": "glm-5.3"
+}

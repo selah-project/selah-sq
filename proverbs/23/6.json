@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Mos ha ⟨את⟩ bukën e atij me sy të keq, dhe mos dëshiro delikatesat e tij;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukën"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keq"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "dëshiro"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "delikatesat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:33.844060217Z",
+  "model": "glm-5.3"
+}

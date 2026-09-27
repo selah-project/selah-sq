@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe qaati, dhe ⟨את⟩ rahamaja, dhe ⟨את⟩ shalaku;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "dhe qaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rahamaja"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahamaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shalaku"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaku"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:09.889639162Z",
+  "model": "glm-5.3"
+}

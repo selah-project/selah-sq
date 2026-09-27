@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Kush derdh gjak njeriu, nga njeriu do të derdhet gjaku i tij; sepse në shëmbëllimin e Elohit ⟨את⟩ njeriun e bëri.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "derdh"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjaki i tij"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "do të derdhet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "në shëmbëllimin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:08.913293089Z",
+  "model": "glm-5.3"
+}

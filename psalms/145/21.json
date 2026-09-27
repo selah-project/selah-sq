@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Lavdërimin e Jahves do ta flasë goja ime, dhe çdo mish të bekojë emrin e shenjtë të tij, përjetë e përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "lavdërimin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "do ta flasë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja ime"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe të bekojë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "e shenjtë të tij"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:42.977704408Z",
+  "model": "glm-5.3"
+}

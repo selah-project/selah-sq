@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Do të të falënderoj përjetë, sepse ti e bëre ⟨kët⟩; dhe do të pres në emrin tënd, sepse ⟨është⟩ i mirë para të shenjtëve të tu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Do të të falënderoj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "e bëre"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "dhe do të pres"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "në emrin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "të shenjtëve të tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:37.555001541Z",
+  "model": "glm-5.3"
+}

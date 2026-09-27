@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve bëri ⟨את⟩ këtë fjalë të nesërmen, dhe vdiq i gjithë bagëtia e Egjiptit; por nga bagëtia e bijve të Izraelit nuk vdiq as një.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "të nesërmen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "bagëtia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "por nga bagëtia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מת",
+      "gloss": "vdiq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "as një"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:47.631157892Z",
+  "model": "glm-5.3"
+}

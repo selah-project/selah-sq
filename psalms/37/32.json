@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "I ligu vrojton të drejtin dhe kërkon ta vrasë ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "vrojton"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i ligu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "dhe kërkon"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ta vrasë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:16.590218381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "dhe ⟨את⟩ dashin do ta copëtosh në copat e tij, dhe do të lashë barkun e tij dhe këmbët e tij, dhe do t'i vësh mbi copat e tij dhe mbi kokën e tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dashin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "do ta copëtosh"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "në copat e tij"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "dhe do të lashë"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "barkun e tij"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "dhe këmbët e tij"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do t'i vësh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "copat e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:52.863529392Z",
+  "model": "glm-5.3"
+}

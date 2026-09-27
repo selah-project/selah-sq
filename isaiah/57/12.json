@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Unë do të shpall drejtësinë tënde dhe ⟨את⟩ veprat e tua, dhe nuk do të të sjellin dobi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "do të shpall"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësinë tënde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "veprat e tua"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "do të të sjellin dobi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:04.142201961Z",
+  "model": "glm-5.3"
+}

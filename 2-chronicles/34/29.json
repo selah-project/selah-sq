@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe mbreti dërgoi dhe mblodhi ⟨את⟩ të gjithë pleqtë e Judës dhe të Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë pleqtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:31.723920146Z",
+  "model": "glm-5.3"
+}

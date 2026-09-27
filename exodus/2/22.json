@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ajo lindi një djalë, dhe ai quajti ⟨את⟩ emrin e tij Gersham, sepse tha: «I huaj kam qenë në një tokë të huaj.»",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ajo lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ai quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "גר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kam qenë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në një tokë"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:26.164259997Z",
+  "model": "glm-5.3"
+}

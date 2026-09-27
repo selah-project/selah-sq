@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dëshirën e zemrës së tij ia dhe, dhe lutjen e buzëve të tij nuk ia mbushe ⟨të mos ia japesh⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "dëshirën"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "e zemrës së tij"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ia dhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "dhe lutjen"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "e buzëve të tij"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ia mbushe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:28.679746942Z",
+  "model": "glm-5.3"
+}

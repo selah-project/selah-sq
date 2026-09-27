@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Prandaj ⟨unë⟩ i shpërfill ⟨fjalët e mia⟩ dhe pendohem mbi pluhur dhe hi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "prandaj (mbi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "shpërfill"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "dhe pendohem"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "dhe hi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:20.785002587Z",
+  "model": "glm-5.3"
+}

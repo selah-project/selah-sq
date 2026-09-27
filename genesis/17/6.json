@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe do të të bëj ⟨את⟩ ty shumë frytdhënës, dhe do të të jap për kombe, dhe mbretër nga ty do të dalin.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "dhe do të të bëj frytdhënës"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ty",
+      "marks": "ty"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "së tepërmi"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "dhe do të të jap"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "për kombe"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "dhe mbretër"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nga ty"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "do të dalin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:30.752001130Z",
+  "model": "glm-5.3"
+}

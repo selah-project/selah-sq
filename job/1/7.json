@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jahve i tha Satanit: Nga vjen? Dhe Satani i përgjigj ⟨את⟩ Jahve dhe tha: Nga bredhja nëpër tokë dhe nga ecja lart e poshtë nëpër të.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "nga bredhja (rrëmqja)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nëpër tokë"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "dhe nga ecja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lart e poshtë nëpër të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:28.524620739Z",
+  "model": "glm-5.3"
+}

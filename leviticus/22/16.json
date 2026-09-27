@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "dhe t'i bëjnë të bartin fajin e fajësisë kur hanë ⟨את⟩ të shenjtat e tyre; se unë jam Jahve që i shenjtëron ato.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "dhe t'i bëjnë të bartin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ i ato",
+      "marks": "fajin e fajësisë"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fajin"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "e fajësisë"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "kur hanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të shenjtat e tyre"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "të shenjtat e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "i shenjtëron ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:35.863002274Z",
+  "model": "glm-5.3"
+}

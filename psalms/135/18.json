@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Si ata ⟨janë⟩ bërësit e tyre, kushdo që beson në ta.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "si ata"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨janë⟩"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "bërësit e tyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "beson"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:56.861329724Z",
+  "model": "glm-5.3"
+}

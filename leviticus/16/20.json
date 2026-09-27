@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe kur të ketë mbaruar së shpenguari ⟨את⟩ vendin e shenjtë, ⟨ואת⟩ çadrën e takimit dhe ⟨ואת⟩ altarit, do të sjellë ⟨את⟩ cjapin e gjallë.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "dhe kur të ketë mbaruar"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "së shpenguari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendit të shenjtë"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vendin e shenjtë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "çadrës së takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "altarit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do të sjellë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cjapit"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "cjapin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "e gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:04.515402963Z",
+  "model": "glm-5.3"
+}

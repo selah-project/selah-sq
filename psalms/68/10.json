@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Shi dhuratash të vullnetshme shkunde ti, o Elohim; trashëgimia jote u lodh, dhe ti e vendose atë.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "dhuratash të vullnetshme"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "shkunde ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "trashëgimia jote"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "u lodh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "e vendose atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:46.223213890Z",
+  "model": "glm-5.3"
+}

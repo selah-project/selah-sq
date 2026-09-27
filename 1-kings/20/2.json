@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ai dërgoi lajmëtarë te Ahabi, mbreti i Izraelit, brenda në ⟨qytet⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lajmëtarë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "brenda në qytet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:51.525739326Z",
+  "model": "glm-5.3"
+}

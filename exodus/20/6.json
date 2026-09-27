@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "dhe bëj hesed për një mijë ⟨brezni⟩, për ata që më duan dhe që ruajnë urdhrat e mi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "për një mijë"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "për ata që më duan"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "dhe që ruajnë"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhrat e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:29.912307942Z",
+  "model": "glm-5.3"
+}

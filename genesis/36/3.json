@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "dhe ⟨את⟩ Basmatin, bijë të Ismailit, motër të Nebajotit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Basmatin"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmatin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "të Ismailit"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "motër"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "të Nebajotit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:31.187811945Z",
+  "model": "glm-5.3"
+}

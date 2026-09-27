@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Armikut të tim — jo: Armiqtë e mi thonë të keqe për mua: «Kur do të vdesë dhe emri i tij do të zhduket?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Armiqtë e mi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "dhe do të zhduket"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.480951954Z",
+  "model": "glm-5.3"
+}

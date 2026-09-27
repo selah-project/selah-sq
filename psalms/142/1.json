@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 142,
+  "translation": "Mësim i Davidit, lutje, kur ⟨ishte⟩ ai në shpellë.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Mësim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kur ⟨ishte⟩ ai"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "në shpellë"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lutje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:09.977023495Z",
+  "model": "glm-5.3"
+}

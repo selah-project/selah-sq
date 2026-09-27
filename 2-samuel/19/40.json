@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe gjithë populli kaloi ⟨את⟩ Jordanin, dhe mbreti kaloi; dhe mbreti puthi Barzillain dhe e bekoi atë, dhe ai u kthye në vendin e vet.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "dhe kaloi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dhe puthi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzillain"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "dhe e bekoi atë"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "në vendin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:38.195415768Z",
+  "model": "glm-5.3"
+}

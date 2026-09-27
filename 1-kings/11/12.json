@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Vetëm në ditët e tua nuk do ta bëj, për hir të Davidit, atit tënd; nga dora e birit tënd do ta gris atë.»",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "në ditët e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "do ta bëj"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atit tënd"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "birit tënd"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "do ta gris atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.230729033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Shami të kryes, dhe vargjet e këmbëve, dhe rrobat lidhëse, dhe kutitë e parfumeve, dhe hajmalitë.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "Shami të kryes"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "dhe vargjet e këmbëve"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "dhe rrobat lidhëse"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "dhe kutitë"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "të parfumeve"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "dhe hajmalitë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:21.670035449Z",
+  "model": "glm-5.3"
+}

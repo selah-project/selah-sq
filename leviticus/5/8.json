@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do t'i sjellë ⟨את⟩ ato te prifti, dhe ai do të afrojë ⟨את⟩ atë që është për mëkatin të parën, dhe do t'i këpusë ⟨את⟩ kokën nga krahu i qafës së tij, por nuk do ta ndajë.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dhe do t'i sjellë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do të afrojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që është për mëkatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "për mëkatin"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "të parën"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "dhe do t'i këpusë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "nga krahu i"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "qafës së tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por jo"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "do ta ndajë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:02.161884357Z",
+  "model": "glm-5.3"
+}

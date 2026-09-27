@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse njeriu s'ka të drejtë mbi tokë që bën mirë dhe nuk mëkaton.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mbi tokë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "mëkaton"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:58.448254137Z",
+  "model": "glm-5.3"
+}

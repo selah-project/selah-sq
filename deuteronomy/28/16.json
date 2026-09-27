@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Mallkuar je ⟨ti⟩ në qytet dhe mallkuar je ⟨ti⟩ në fushë",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Mallkuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ⟨ti⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "dhe mallkuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ⟨ti⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:04.793376704Z",
+  "model": "glm-5.3"
+}

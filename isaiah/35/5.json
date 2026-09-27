@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Atëherë do të hapen sytë e të verbërve dhe veshët e të shurdhërve do të çelen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "do të hapen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "të verbërve"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dhe veshët e"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "të shurdhërve"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "do të çelen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:47.837426659Z",
+  "model": "glm-5.3"
+}

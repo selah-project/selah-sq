@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Njeriu i ngjan ⟨avullit⟩ të kothëtisë; ditët e tij ⟨janë⟩ si një hije që kalon.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Njeriu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "avulli i kothëtisë"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "i ngjan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ditët e tij"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "si një hije"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "që kalon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.111423040Z",
+  "model": "glm-5.3"
+}

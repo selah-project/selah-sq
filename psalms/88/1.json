@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Këngë, psalm i bijve të Korahut, për drejtorin, sipas «Mahalat Leannoth», mësimdhënës, i Hemanit Ezrahiti.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i bijve të"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahut"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "për drejtorin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth (për t'u përgjigjur)"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mësimdhënës"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "i Hemanit"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahiti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:12.069683658Z",
+  "model": "glm-5.3"
+}

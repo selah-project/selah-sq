@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jahve i tha Jozuesë: «Ngrihu! Pse ke rënë kështu përmbys mbi fytyrën tënde?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuesë"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vetë"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ke rënë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:37.407539520Z",
+  "model": "glm-5.3"
+}

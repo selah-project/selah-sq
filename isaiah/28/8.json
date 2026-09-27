@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Sepse të gjitha tavolinat janë mbushur me vjellje e papastërti — pa asnjë ⟨vend të pastër⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "tavolinat"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "janë mbushur"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "vjellje"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "papastërti"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "asnjë vend"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:02.858115109Z",
+  "model": "glm-5.3"
+}

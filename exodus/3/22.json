@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe një grua do të kërkojë nga fqinja e saj dhe nga mikpritja e shtëpisë së saj enë argjendi dhe enë ari dhe rroba; dhe do t'i vini mbi bijtë tuaj dhe mbi bijat tuaja, dhe do të plaçkitni ⟨את⟩ Egjiptin.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "dhe do të kërkojë"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "nga fqinja e saj"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "dhe nga mikpritja"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "e shtëpisë së saj"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "enë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "dhe enë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "dhe rroba"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "dhe do t'i vini"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bijtë tuaj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bijat tuaja"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "dhe do të plaçkitni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:50.197628607Z",
+  "model": "glm-5.3"
+}

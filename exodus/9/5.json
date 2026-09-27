@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve caktoi një kohë të caktuar, duke thënë: Nesër Jahve do të bëjë ⟨את⟩ këtë fjalë në vend.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dhe caktoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "një kohë të caktuar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Nesër"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëjë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:47.630881298Z",
+  "model": "glm-5.3"
+}

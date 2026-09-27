@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Ata rrëshqasin anash, fshihen, i përgjojnë gjurmet e mia — siç kanë pritur ⟨për⟩ shpirtin tim.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "rrëshqasin anash"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "fshihen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "gjurmet e mia"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "i përgjojnë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "kanë pritur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:22.475541836Z",
+  "model": "glm-5.3"
+}

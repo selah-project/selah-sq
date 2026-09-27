@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe vuri ⟨את⟩ altarin e artë në çadrën e takimit, përpara perdes.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarin e artë"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "të artë"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:40.739504296Z",
+  "model": "glm-5.3"
+}

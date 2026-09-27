@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "A është kjo ⟨e⟩ juaja, ⟨qyteti⟩ i gëzuar? Nga ditët e hershme ⟨është⟩ lashtësia e saj; këmbët e saj e çojnë ⟨atë⟩ larg, për të banuar si e huaj.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juaja"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "i gëzuar"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nga ditët"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "të hershme"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "lashtësia e saj"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "e çojnë"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "këmbët e saj"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "larg"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "për të banuar si e huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:41.787394225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Moisi e përcolli ⟨את⟩ dhëndrrin e vet, dhe ai shkoi ⟨për vete⟩ në vendin e vet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe e përcolli \/ dërgoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhëndrrin e vet"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "dhëndrrin e vet"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨për vete⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "vendin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:20.018071183Z",
+  "model": "glm-5.3"
+}

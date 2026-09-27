@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Të mjerë ata që i thonë të keqes «mirë» dhe të mirës «keq»; që vënë errësinë për dritë dhe dritën për errësinë, që vënë të hidhën për të ëmbël dhe të ëmbëlën për të hidhën!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Të mjerë"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ata që i thonë"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "të keqes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "«mirë»"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "dhe të mirës"
+    },
+    {
+      "surface": "רע",
+      "gloss": "«keq»"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "që vënë"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësinë"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "për dritë"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dhe dritën"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "për errësinë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "që vënë"
+    },
+    {
+      "surface": "מר",
+      "gloss": "të hidhën"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "për të ëmbël"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "dhe të ëmbëlën"
+    },
+    {
+      "surface": "למר",
+      "gloss": "për të hidhën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:14.185362371Z",
+  "model": "glm-5.3"
+}

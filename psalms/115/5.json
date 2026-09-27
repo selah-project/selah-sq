@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Goje kanë, por nuk flasin; sy kanë, por nuk shohin.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "goje"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "shohin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:29.854189639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Zëri i Jahvesë gdhend flakë zjarri.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "gdhend"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "flakë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:21.933704197Z",
+  "model": "glm-5.3"
+}

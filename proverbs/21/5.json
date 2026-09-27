@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Mendimet e të zellshmit janë vetëm për tepricë, por të gjitha të nxituarit vetëm për mungesë.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mendimet"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "e të zellshmit"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "për tepricë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "por të gjitha"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "të nxituarit"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "për mungesë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:13.393602187Z",
+  "model": "glm-5.3"
+}

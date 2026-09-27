@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ shërbëtorët tuaj dhe ⟨את⟩ shërbëtoret tuaja dhe ⟨את⟩ të rinjtë tuaj të mirë dhe ⟨את⟩ gomarët tuaj do t'i marrë, dhe do t'i vërë në punën e tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët tuaj"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "shërbëtorët tuaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtoret tuaja"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "shërbëtoret tuaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të rinjtë tuaj"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "të rinjtë tuaj"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gomarët tuaj"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "gomarët tuaj"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do t'i marrë"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "do t'i vërë"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "në punën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:16.139628346Z",
+  "model": "glm-5.3"
+}

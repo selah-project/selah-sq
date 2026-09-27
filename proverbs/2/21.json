@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Sepse të drejtët do të banojnë në ⟨të⟩ tokën, dhe të paspritmit do të mbeten në të.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "të drejtët"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "do të banojnë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "dhe të paspritmit"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "do të mbeten"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:49.530580054Z",
+  "model": "glm-5.3"
+}

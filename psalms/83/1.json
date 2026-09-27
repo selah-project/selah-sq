@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Këngë, psalm i Asafit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.845095036Z",
+  "model": "glm-5.3"
+}

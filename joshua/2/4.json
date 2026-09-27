@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe gruaja mori ⟨את⟩ të dy njerëzit dhe i fshehu ata, dhe tha kështu: Vërtet, njerëzit erdhën te unë, dhe nuk e dija nga ishin ata.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të dy njerëzit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "ויצפנו",
+      "gloss": "dhe i fshehu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "באו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e dija"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ishin ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:26.147600909Z",
+  "model": "glm-5.3"
+}

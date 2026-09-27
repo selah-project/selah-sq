@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Shiko vuajtjen time dhe mundimin tim, dhe fal ⟨të gjitha⟩ mëkatet e mia.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Shiko"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "vuajtjen time"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "dhe mundimin tim"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "dhe fal"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨të gjitha⟩"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "mëkatet e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:59.721036266Z",
+  "model": "glm-5.3"
+}

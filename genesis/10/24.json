@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Arpakshadi lindi ⟨את⟩ Shelahun, dhe Shelahu lindi ⟨את⟩ Eberin.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dhe Arpakshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahun"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahun"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dhe Shelahu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:22.669742163Z",
+  "model": "glm-5.3"
+}

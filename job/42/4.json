@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dëgjo, të lutem, dhe unë do të flas; do të të pyes, dhe më bëj të di.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "do të flas"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "do të të pyes"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "dhe më bëj të di"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:05.967352807Z",
+  "model": "glm-5.3"
+}

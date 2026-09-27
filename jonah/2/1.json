@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve përgatiti një peshk të madh për të gëlljtur ⟨את⟩ Jonanë, dhe Jona qe në barkun e peshkut tri ditë e tri netë.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "përgatiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "peshk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "për të gëlljtur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonanë"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonanë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "qe"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "në barkun"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "e peshkut"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "e tri"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "netë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:57.533616154Z",
+  "model": "glm-5.3"
+}

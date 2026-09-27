@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 17:21",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Kështu ka thënë Jahve: Ruajini shpirtrat tuaj dhe mos mbartni barë në ditën e Shabatit dhe mos sillni ⟨את⟩ nëpër portat e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ruajini"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "shpirtrat tuaj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "mbartni"
+    },
+    {
+      "surface": "משא",
+      "gloss": "barë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatit"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "dhe mos sillni"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "nëpër portat e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:12:45.046507121Z",
+  "model": "glm-5.3"
+}

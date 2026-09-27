@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "U heshta, nuk e hapën gojën time, sepse Ti ⟨ke⟩ bërë ⟨këtë⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "u heshta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "e hapën"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:35.898757176Z",
+  "model": "glm-5.3"
+}

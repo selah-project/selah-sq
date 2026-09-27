@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Shpejt lirohet ecësi i përkulur, dhe nuk do të vdesë ⟨në⟩ gropë, dhe nuk do t'i mungojë buka e tij.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "shpejt"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "ecësi i përkulur"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "lirohet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "në gropë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "do t'i mungojë"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "buka e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:36.251442565Z",
+  "model": "glm-5.3"
+}

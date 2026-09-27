@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Në gjithë ⟨të⟩ tokën doli vija e tyre, dhe në skajin e botës fjalët e tyre; për diellin ⟨ai⟩ vuri një çadër në ta.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vija e tyre"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "dhe në skajin e"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botës"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "fjalët e tyre"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "për diellin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadër"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:43.300593117Z",
+  "model": "glm-5.3"
+}

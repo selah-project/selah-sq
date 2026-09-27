@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ja, muri ⟨ka⟩ rënë; a nuk do t'ju thuhet: Ku ⟨është⟩ mbulesa që mbuluat?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ka rënë"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "muri"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do t'ju thuhet"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "mbulesa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "mbuluat"
+    }
+  ],
+  "timestamp": "2026-09-27T18:28:39.055245041Z",
+  "model": "glm-5.3"
+}

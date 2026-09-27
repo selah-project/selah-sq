@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe e mblidhnin ⟨את⟩ atë mëngjes për mëngjes, secili sipas gojës së tij për të ngrënë; dhe kur dielli nxehtej, ajo shkrihej.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "dhe e mblidhnin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (mannën)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "për mëngjes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sipas gojës"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "për të ngrënë"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "dhe kur nxehtej"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "וונמס",
+      "gloss": "dhe shkrihej"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:33.543856299Z",
+  "model": "glm-5.3"
+}

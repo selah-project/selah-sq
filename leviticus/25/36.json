@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Mos merr prej ⟨את⟩ tij kamatë as fitim, dhe frikësohu nga Elohim yt, dhe vëllai yt do të jetojë me ty.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "prej ⟨את⟩ tij",
+      "marks": "tij (vëllai i varfër)"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatë"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "as fitim"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "dhe frikësohu"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "nga Elohim yt"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dhe do të jetojë"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:48.697758865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe e gjithë ⟨e⟩ Izraeli, nga Dani e deri në Beer-Sheban, e dinte se Samueli ishte vërtetuar si profet për Jahvenë.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "dhe e dinte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "nga Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ishte vërtetuar"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "si profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:23.743343978Z",
+  "model": "glm-5.3"
+}

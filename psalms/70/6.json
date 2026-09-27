@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Ndërsa unë ⟨jam⟩ i varfër dhe i nevojshëm; Elohim, nxit te unë! Ti ⟨je⟩ ndihma ime dhe shpenguesi im — Jahve, mos u vono!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ndërsa unë"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe i nevojshëm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "nxit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ndihma ime"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dhe shpenguesi im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "u vono"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:39.591979256Z",
+  "model": "glm-5.3"
+}

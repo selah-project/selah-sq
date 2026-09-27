@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Do të derdhen mbi nën të shpatës, do të bëhen pjesë e çakallëve.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "do të derdhen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nën (dorës)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pjesë e"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "çakallëve"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të bëhen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:50.997243417Z",
+  "model": "glm-5.3"
+}

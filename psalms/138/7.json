@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Nëse ec në mes të ngushticës, më ngjall; kundër zemërimit të armiqve të mi do të shtrish dorën tënde, dhe e djathta jote do të më shpëtojë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ec"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ngushticës"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "më ngjall"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemërimit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "të armiqve të mi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "do të shtrish"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "dhe do të më shpëtojë"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "e djathta jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:11.044354636Z",
+  "model": "glm-5.3"
+}

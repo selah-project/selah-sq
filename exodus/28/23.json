@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do të bësh mbi pezull dy unaza ari, dhe do të vesh ⟨את⟩ dy unazat mbi dy skajet e pezullit.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pezull"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "unaza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do të vesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dy unazat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "unazat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "të pezullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:42.612424576Z",
+  "model": "glm-5.3"
+}

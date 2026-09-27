@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Unë po shkoj në rrugën e gjithë ⟨t⟩okës; ti bëhu i fortë dhe bëhu burrë.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "po shkoj"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "dhe ti bëhu i fortë"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dhe bëhu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "burrë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:48.741384426Z",
+  "model": "glm-5.3"
+}

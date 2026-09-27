@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe nxorën ⟨את⟩ shtyllat e shtëpisë së Baalit dhe i djegën ato.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe nxorën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "shtyllat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "të Baalit"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "dhe i djegën ato"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:40.201072099Z",
+  "model": "glm-5.3"
+}

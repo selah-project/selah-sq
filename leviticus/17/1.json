@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jahve i foli Moisit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:03.232673348Z",
+  "model": "glm-5.3"
+}

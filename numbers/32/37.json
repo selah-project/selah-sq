@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe bijtë e Rubenit ndërtuan ⟨את⟩ Heshbonin dhe ⟨את⟩ Elaleun dhe ⟨את⟩ Kirjataimin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dhe bijtë e"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ndërtuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshbonin"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Elaleun"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elaleun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kirjataimin"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjataimin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:42.594820634Z",
+  "model": "glm-5.3"
+}

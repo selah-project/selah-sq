@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do të dërgoj zjarr mbi muret e Gazës, dhe ai do të përpijë pallatet e saj.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dhe do të dërgoj"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mbi muret"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "e Gazës"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe ai do të përpijë"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "pallatet e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:34.278170446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Një rrjetë përgatitën për hapat e mi; shpirti im ⟨është⟩ i përkulur; një gropë hapën para meje — ranë në mes të saj. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "rrjetë"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "përgatitën"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "për hapat e mi"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "i përkulur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "hapën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "gropë"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "në mes të saj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:27.337304595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Davidi lutej te ⟨Elohim⟩ për ⟨djalin⟩; dhe Davidi agjëroi një agjërim, hyri brenda, kaloi natën dhe u shtri për tokë.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Dhe … lutej te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "për"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djalin"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "dhe … agjëroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "një agjërim"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "hyri brenda"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "kaloi natën"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "dhe … u shtri"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "për tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:06.131942457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Becej ⟨את⟩ Jahve, që më këshillon; edhe netëve veshkat e mia më mësojnë.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Becej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "më këshillon"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "netëve"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "më mësojnë"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "veshkat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:17.253501641Z",
+  "model": "glm-5.3"
+}

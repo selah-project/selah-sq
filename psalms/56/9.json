@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Rrëshqitjet e mia i ke numëruar ti; vëri lotët e mi në thas-in ⟨tënd⟩; a nuk janë ata në librin ⟨tënd⟩?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "rrëshqitjet e mia"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "i ke numëruar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "vëri"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "lotët e mi"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "në thas-in tënd"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "në librin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.232970565Z",
+  "model": "glm-5.3"
+}

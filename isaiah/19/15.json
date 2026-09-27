@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe nuk do të ketë punë për Egjiptin, të cilën ta bëjë koka a bishti, dega e palmës a kalëmi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe nuk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "për Egjiptin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ta bëjë"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "koka"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "a bishti"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dega e palmës"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "a kalëmi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:55.033557373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "I Davidit. Beko, shpirti im, ⟨את⟩ Jahve, dhe gjithë brendësia ime ⟨את⟩ emrin e shenjtë të tij.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Beko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "brendësia ime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e shenjtë të tij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të shenjtë të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:32.862215167Z",
+  "model": "glm-5.3"
+}

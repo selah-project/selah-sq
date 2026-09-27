@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨את⟩ fushën e qytetit dhe ⟨את⟩ fushat e tij të jashtme ia dhanë Kalebit, birit të Jefuneut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fushën e qytetit"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fushën"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fushat e tij të jashtme"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "fushat e tij të jashtme"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dhanë"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "të Jefuneut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:06.503896325Z",
+  "model": "glm-5.3"
+}

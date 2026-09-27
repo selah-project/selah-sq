@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Tha në zemrën e tij: «El ka harruar, e ka fshehur fytyrën e tij; kurrë s'do të shohë.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ka harruar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "e ka fshehur"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kurrsesi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "do të shohë"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kurrë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:44.757238800Z",
+  "model": "glm-5.3"
+}

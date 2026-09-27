@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Kështu Jahve shpëtoi ⟨את⟩ Ezekianë dhe ⟨את⟩ banorët e Jeruzalemit nga dora e Sanherit, mbretit të Asirisë, dhe nga dora e të gjithëve; dhe i priu ata rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "shpëtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ezekianë"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Ezekianë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e Jeruzalemit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jeruzalemit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dera e…",
+      "gloss_comment": null
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "e Sanherit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Asirisë"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dhe nga dora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e të gjithëve"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "i priu ata"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rrëth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T18:37:13.684258286Z",
+  "model": "glm-5.3"
+}

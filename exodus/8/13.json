@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe bënë ashtu; dhe Aaroni zgjati ⟨את⟩ dorën e tij me shkopin e tij dhe rrahu ⟨את⟩ pluhurin e dheut, dhe mora u bënë në njeriun dhe në kafshën; gjithë pluhuri i dheut u bë mora në gjithë ⟨e⟩ tokën e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dhe zgjati"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "me shkopin e tij"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe rrahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pluhurin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhurin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të dheut"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe u bënë"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "mora"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "në njeriun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "dhe në kafshën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhuri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i dheut"
+    },
+    {
+      "surface": "היה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:16.250529129Z",
+  "model": "glm-5.3"
+}

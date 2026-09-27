@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Të përballuaraqëndrojnë për gjithnjë e përgjithmonë, të bëra me të vërtetë e drejtësi.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "të përballuara qëndrojnë"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "për gjithnjë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "e përgjithmonë"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "të bëra"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:12.739939489Z",
+  "model": "glm-5.3"
+}

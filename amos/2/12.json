@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ju i bëtë ⟨את⟩ nazirejtë të pinin verë, dhe profetëve u dhatë urdhër, duke thënë: Mos profetizoni!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "dhe i bëtë të pinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirejtë"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirejtë"
+    },
+    {
+      "surface": "יין",
+      "gloss": "verë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profetët"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "u dhatë urdhër"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "profetizoni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:59.541960298Z",
+  "model": "glm-5.3"
+}

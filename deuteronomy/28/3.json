@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "I bekuar je ti në qytet, dhe i bekuar je ti në fushë.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "dhe i bekuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:36.882135662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Davidi e dinte se Sauli po kurdishte fshehurazi të keqen kundër tij, dhe i tha Abiatharit, priftit: «Sillja afër efodin.»",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "po kurdishte fshehurazi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatharit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "sillja afër"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:36.791233226Z",
+  "model": "glm-5.3"
+}

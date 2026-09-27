@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jahve goditi ⟨את⟩ popullin, sepse bënë ⟨את⟩ vicin që bëri Aaroni.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vicin"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "vicin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:40.612699366Z",
+  "model": "glm-5.3"
+}

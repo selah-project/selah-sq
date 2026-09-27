@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Bijtë e shërbëtorëve të tu do të banojnë, dhe pasardhësit e tyre do të qëndrojnë të vendosur para teje.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "e shërbëtorëve të tu"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "do të banojnë"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "dhe pasardhësit e tyre"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "do të qëndrojnë të vendosur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:55.275501486Z",
+  "model": "glm-5.3"
+}

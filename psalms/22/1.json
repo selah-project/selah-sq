@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Për dirigjentin, sipas «Çoja e agimit», një mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "çojës"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "të agimit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:30.809548624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Pse e tërheq dorën tënde, madje të djathtën tënde, nga gjiri yt? Shkatërroji!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "e tërheq"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "madje të djathtën tënde"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "gjirit tënd"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "shkatërroji"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:01.519026064Z",
+  "model": "glm-5.3"
+}

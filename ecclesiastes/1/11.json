@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Nuk ka kujtim të të parëve; dhe as për të mëvonshmit që do të vijnë, nuk do të ketë kujtim bashkë me ata që do të vijnë më pas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nuk ka"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kujtim"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "të të parëve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "për të mëvonshmit"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "që do të vijnë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kujtim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ata që do të vijnë"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "më pas"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:55.357352933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe çdo enë balte, në të cilën bie ndonjë prej tyre brenda saj — çdo gjë që ⟨është⟩ brenda saj do të papastrohet, dhe ⟨את⟩ atë do ta thyejni.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "enë"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "balte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilën"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bie"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "brenda saj"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "do të papastrohet"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "enën e baltes — do ta thyejni"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "do ta thyejni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:25.647877035Z",
+  "model": "glm-5.3"
+}

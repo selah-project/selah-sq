@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Labani shkoi të rroste ⟨את⟩ delet e tij, dhe Rahela vodhi ⟨את⟩ terafimët që kishte i ati i saj.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Dhe Labani"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "të rroste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delet e tij"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "delet e tij"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "dhe vodhi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimët"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "kishte i ati i saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:13.825755330Z",
+  "model": "glm-5.3"
+}

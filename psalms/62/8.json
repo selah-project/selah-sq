@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Mbi Elohim pushon shpëtimi im dhe lavdia ime; shkëmbi i forcës sime, streha ime ⟨është⟩ në Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "shpëtimi im"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "dhe lavdia ime"
+    },
+    {
+      "surface": "צור",
+      "gloss": "shkëmb"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "i forcës sime"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.650140481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Pse më pritën gjunjët? Dhe çfarë ishin gjinjtë, që të pi ⟨që aty⟩?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "më pritën"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "gjunjët"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "gjinjtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "të pi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:43.681285308Z",
+  "model": "glm-5.3"
+}

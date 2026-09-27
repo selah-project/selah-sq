@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Vetëm nga kryelartësia vjen grindja, por ⟨me⟩ ⟨את⟩ ata që marrin këshillë ⟨ka⟩ urtësi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "nga kryelartësia"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "grindja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ata që marrin këshillë"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ata që marrin këshillë"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:09.087615165Z",
+  "model": "glm-5.3"
+}

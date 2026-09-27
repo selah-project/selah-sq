@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 120,
+  "translation": "Mjerë mua, se kam jetuar si i huaj në Meshek, kam banuar me çadrat e Kedarit!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "kam jetuar si i huaj"
+    },
+    {
+      "surface": "משך",
+      "gloss": "në Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "kam banuar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadrat"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "e Kedarit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:18.105367164Z",
+  "model": "glm-5.3"
+}

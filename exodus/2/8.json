@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe vajza e Faraonit i tha asaj: «Shko.» Dhe e reja shkoi dhe thirri ⟨את⟩ nënën e fëmijës.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Shko"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "e reja"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nënën e fëmijës"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nënën"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "të fëmijës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.829090383Z",
+  "model": "glm-5.3"
+}

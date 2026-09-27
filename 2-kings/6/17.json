@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Eliseu luti dhe tha: Jahve, hap ⟨את⟩ sytë e tij, të shohë ⟨edhe⟩. Dhe Jahve hapi ⟨את⟩ sytë e të riut, dhe ai shikoi, dhe ja, mali ishte plot me kuaj dhe qerre zjarri rreth e rrotull Eliseut.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "dhe luti"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "hap"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e tij"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sytë e tij"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "dhe ai do të shohë"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e të riut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "e të riut"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe ai shikoi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ishte plot"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "me kuaj"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "dhe qerre"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "rrëth e rrotull"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseut"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:21.706944446Z",
+  "model": "glm-5.3"
+}

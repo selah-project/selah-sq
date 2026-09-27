@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tek unë një fjalë u soll fshehurazi, dhe veshi im kapi një pëshpërim të saj.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Dhe tek unë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "një fjalë"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "u soll fshehurazi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dhe kapi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "veshi im"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "një pëshpërim"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:41.542144004Z",
+  "model": "glm-5.3"
+}

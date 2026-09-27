@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Si për një shok, si për një vëlla për mua, rronja veten; si një zvarritës i nënës së tij, i mjekërrzi e përkula duke qarë.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "si për një shok"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "si për një vëlla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "rronja veten"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "si një zvarritës"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i nënës"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "i mjekërrzi"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "përkula duke qarë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:25.115289013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më mëso, o Jahve, rrugën e statuteve të tua, dhe unë do ta ruaj ⟨deri në⟩ fund.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Më mëso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "e statuteve të tua"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "dhe do ta ruaj"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "deri në fund"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:21.485280954Z",
+  "model": "glm-5.3"
+}

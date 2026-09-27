@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Besova, se do të flas — unë qeshva në pikëllim të madh.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Besova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "do të flas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "qeshva në pikëllim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "të madh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:49.547571955Z",
+  "model": "glm-5.3"
+}

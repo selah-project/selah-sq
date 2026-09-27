@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe dërgoi ⟨përmes⟩ dorës së Natanit profet, dhe e quajti ⟨את⟩ emrin e tij Jedidjah, për hir të Jahvesë",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "përmes dorës së"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanit"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidjah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:31.813168188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe shkoi Avimeleku te Tevesi, dhe e rrethoi Tevesin, dhe e pushtoi ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevesi"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "dhe e rrethoi"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevesin"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "dhe e pushtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:04.127682549Z",
+  "model": "glm-5.3"
+}

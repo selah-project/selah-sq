@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Gëzo shpirtin e shërbëtorit tënd, sepse te ty, Adonai, shpirtin tim ⟨e⟩ ngrit ⟨lart⟩.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Gëzo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "e shërbëtorit tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ty"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ngrit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:46.809990639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Fsheh mua nga ⟨sesodi⟩ i të ligëve, nga trazira e punëtorëve të paudhësisë.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "fsheh mua"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "nga ⟨sesodi⟩ (këshilla e fshehtë)"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "i të ligëve"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "nga trazira"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "e punëtorëve"
+    },
+    {
+      "surface": "און",
+      "gloss": "të paudhësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:14.693233964Z",
+  "model": "glm-5.3"
+}

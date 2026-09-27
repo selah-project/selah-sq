@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Në ëndërr, në vegim nate, kur gjumi i thellë bie mbi njerëzit, në përgjumje mbi shtrat;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "Në ëndërr"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "vegim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nate"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "kur bie"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "gjumi i thellë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "në përgjumje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "shtrat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:31.299958782Z",
+  "model": "glm-5.3"
+}

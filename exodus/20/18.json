@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe gjithë populli shihte ⟨את⟩ zërat dhe ⟨את⟩ pishtarët dhe ⟨את⟩ zërin e boricës dhe ⟨את⟩ malin që tymoste; dhe populli pa ⟨këtë⟩ dhe u dridh dhe qëndroi larg.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dhe gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "shihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërat"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "zërat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pishtarët"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "pishtarët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "të boricës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "që tymoste"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "dhe u dridh"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "larg"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:32.614718434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Idhujt e tyre ⟨janë⟩ argjend dhe ar, punë e duarve të njeriut.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Idhujt e tyre"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe ar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "e duarve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:43.574207880Z",
+  "model": "glm-5.3"
+}

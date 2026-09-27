@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Zgjohu, o harpë dhe kinor! Unë do ta zgjoj agimin.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Zgjohu"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "harpë"
+    },
+    {
+      "surface": "وכנור",
+      "gloss": "dhe kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "do ta zgjoj"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "agimin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.172549771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Ti e udhëboveve popullin tënd si një tufë, me dorën e Moisit dhe të Aaronit.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "e udhëboveve"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "si një tufë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorën"
+    },
+    {
+      "surface": "משה",
+      "gloss": "të Moisit"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe të Aaronit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:32.743695973Z",
+  "model": "glm-5.3"
+}

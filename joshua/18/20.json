@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "dhe Jordani e kufizonte ⟨את⟩ atë në anën lindore. Kjo ishte trashëgimia e bijve të Beniaminit, sipas kufijve të saj përreth, sipas familjeve të tyre",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "dhe Jordani"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "e kufizonte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Beniaminin)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "në anën"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "lindore"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "trashëgimia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "të Beniaminit"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "sipas kufijve të saj"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipas familjeve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:49.322679636Z",
+  "model": "glm-5.3"
+}

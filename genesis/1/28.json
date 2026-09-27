@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim i bekoi ⟨את⟩ ata, dhe Elohim u tha atyre: «Vëzhoni e shumëzohuni, mbushni ⟨את⟩ tokën dhe nënshtrojeni atë; dhe sundoni mbi peshqit e detit, mbi shpendët e qiejve dhe mbi çdo gjalle që lëviz mbi tokë.»",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (njeriu dhe gruaja)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u tha atyre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "vëzhoni (jepni fryt)"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe shumëzohuni"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe mbushni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "dhe nënshtrojeni atë"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "dhe sundoni"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "mbi peshqit e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detit"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "dhe mbi shpendët e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qeujve"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe mbi çdo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gjallesë"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "që lëviz (zvarritet)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:15.196476185Z",
+  "model": "glm-5.3"
+}

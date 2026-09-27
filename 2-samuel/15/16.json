@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe mbreti doli dhe gjithë shtëpia e tij pas këmbëve të tij; dhe mbreti la ⟨את⟩ dhjetë gra, konkubina, për të ruajtur shtëpinë.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpia e tij"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "pas këmbëve të tij"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "dhe la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhjetë gra, konkubina"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "gra"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "konkubina"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "për të ruajtur"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:14.902457908Z",
+  "model": "glm-5.3"
+}

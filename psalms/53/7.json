@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Kush do të jepte nga Sioni shpëtimin e Izraelit! Kur Elohim kthen robërinë e popullit të vet, Jakobi do të gëzojë, Izraeli do të gloriohet.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të jepte"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "nga Sioni"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "shpëtimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Kur kthen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e popullit të vet"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "do të gëzojë"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "do të gloriohet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:07.180338554Z",
+  "model": "glm-5.3"
+}

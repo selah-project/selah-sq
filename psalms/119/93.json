@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Përjetë nuk do t'i harroj urdhërimet e tua, sepse me to më ke ngjallur.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "do të harroj"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "urdhërimet e tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "më ke ngjallur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:32.459186268Z",
+  "model": "glm-5.3"
+}

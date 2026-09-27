@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Të lodhurit nuk e njom me ujë, dhe të uriturit ia mban bukën.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "me ujë"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "të lodhurit"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "e njom"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "dhe të uriturit"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ia mban"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:17.349830773Z",
+  "model": "glm-5.3"
+}

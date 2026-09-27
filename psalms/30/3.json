@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "O Jahve, Elohim im, të thirra dhe më shërove.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "O Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "të thirra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "drejt teje"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "dhe më shërove"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:39.313251714Z",
+  "model": "glm-5.3"
+}

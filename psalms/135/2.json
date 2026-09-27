@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "ju që qëndroni në shtëpinë e Jahvesë, në oborret e shtëpisë së Elohim tonë!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "që qëndroni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "në oborret"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "të Elohim tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.613432268Z",
+  "model": "glm-5.3"
+}

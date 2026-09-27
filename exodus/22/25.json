@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse marrje peng merr ping rrobën e të afërmit tënd, deri në perëndim të diellit do t'ia kthesh ⟨atij⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "marrje peng"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "merr ping"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "rroba"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "e të afërmit tënd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "בא",
+      "gloss": "në perëndim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "të diellit"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "do t'ia kthesh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:08.552572999Z",
+  "model": "glm-5.3"
+}

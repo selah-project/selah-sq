@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe u ngrit Joabi dhe shkoi në Geshur dhe solli ⟨את⟩ Avshalomin në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "në Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe solli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:08.523078975Z",
+  "model": "glm-5.3"
+}

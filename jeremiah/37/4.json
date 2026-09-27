@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Jeremia hynte e dilte në mes të popullit, sepse nuk e kishin hedhur ⟨את⟩ atë në shtëpinë e burgut.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Dhe Jeremia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hynte"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe dilte"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "të popullit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sepse nuk"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kishin hedhur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (Jereminë)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "e burgut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:19:32.583858787Z",
+  "model": "glm-5.3"
+}

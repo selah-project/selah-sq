@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Ti, i tmerrshmi je ti; dhe kush do të qëndrojë para teje prej çastit që zemëron zemërimi yt?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i tmerrshmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe kush"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "do të qëndrojë"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "prej çastit që"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "zemëron zemërimi yt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:15.215665281Z",
+  "model": "glm-5.3"
+}

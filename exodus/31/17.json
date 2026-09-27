@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Ndërmjet meje dhe bijve të Israelit ⟨është⟩ shenjë përjetë, sepse për gjashtë ditë bëri Jahve ⟨את⟩ qiejt dhe ⟨את⟩ tokën, dhe në ditën e shtatë pushoi dhe u çlodh.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "ndërmjet meje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "אות",
+      "gloss": "shenjë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dhe në ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "dhe u çlodh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:38.318361691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Kanë gërmuar për mua gabimtarët gropat, që ⟨nuk janë⟩ sipas Torës sate.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "kanë gërmuar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "gabimtarët"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "gropat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "sipas Torës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:12.523736944Z",
+  "model": "glm-5.3"
+}

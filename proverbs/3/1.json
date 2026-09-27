@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "O bir im, Toren time mos e harro, dhe urdhrat e mi zemra jote t'i ruajë.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bir im"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Toren time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "të harrosh"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dhe urdhrat e mi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "t'i ruajë"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zemra jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:38.512743655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai tha: I mallkuar qoftë Kanaani; shërbëtor i shërbëtorëve do të jetë ⟨ai⟩ për vëllezërit e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "i mallkuar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtor"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "i shërbëtorëve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "për vëllezërit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:24.981499918Z",
+  "model": "glm-5.3"
+}

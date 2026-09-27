@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mbreti i Aramit urdhëroi ⟨את⟩ krerët e qerres që kishte — tridhjetë e dy — duke thënë: «Mos luftoni ⟨את⟩ të voglin as ⟨את⟩ të madhin, por vetëm ⟨את⟩ mbretin e Izraelit vetëm.»",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i Aramit"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krerët e qerres"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "krerët"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "e qerres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e dy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "luftoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të voglin"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "të voglin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ as"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madhin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin e Izraelit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:03.104150010Z",
+  "model": "glm-5.3"
+}

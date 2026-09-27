@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe Jozuei u tha vëllezërve të tij: «Ejani afër meje, ju lutem.» Dhe ata erdhën afër. Dhe ai tha: «Unë jam Jozuei, vëllai juaj, të cilin e shitët ⟨את⟩-mua në Egjipt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u tha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërve të tij"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ejani afër"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ju lutem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meje"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "erdhën afër"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllai juaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "shitët"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua (e shitët mua)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:03.005337833Z",
+  "model": "glm-5.3"
+}

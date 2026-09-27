@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti do të dalë ⟨te⟩ jashtë i ⟨nga⟩ kampi, dhe prifti do të shikojë, dhe ja, nëse plaga e lebës është shëruar ⟨nga⟩ i smuri,",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe do të dalë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë i"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨nga⟩ kampi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe do të shikojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "është shëruar"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "e lebës"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "i smuri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:03.723872523Z",
+  "model": "glm-5.3"
+}

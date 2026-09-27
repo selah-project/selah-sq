@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Do të ndërtojnë shtëpi dhe do të banojnë ⟨në to⟩; do të mbjellin vreshta dhe do të hanë frutat e tyre.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "do të ndërtojnë"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe do të banojnë"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "do të mbjellin"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vreshta"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dhe do të hanë"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "frutat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:10.089459553Z",
+  "model": "glm-5.3"
+}

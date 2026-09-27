@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe Jeremia erdhi te Gedalia, bir i Ahikamit, në Mizpa, dhe qëndroi me ⟨את⟩ të në mes të popullit që mbeti në vend.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedalia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "i Ahikamit"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "në Mizpa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "me të — parafjalë 'me'"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "që mbeti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T16:20:52.972641790Z",
+  "model": "glm-5.3"
+}

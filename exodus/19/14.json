@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe zbriti Moisi nga mali te populli, dhe shenjtëroi ⟨את⟩ popullin, dhe lanë rrobat e tyre.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dhe shenjtëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "dhe lanë"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "robat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:03.265686424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Rrëbeni të rrojë dhe të mos vdesë, dhe njerëzit e tij të jenë ⟨të paktë⟩ në numër.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "të rrojë"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rrëbeni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "vdesë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe të jenë"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "njerëzit e tij"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨të paktë⟩ në numër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:44.282299764Z",
+  "model": "glm-5.3"
+}

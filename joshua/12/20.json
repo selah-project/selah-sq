@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "mbreti i Shimron-Meronit, një; mbreti i Akshafit, një;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meronit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "i Akshafit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:00.336667544Z",
+  "model": "glm-5.3"
+}

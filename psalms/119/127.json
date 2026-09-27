@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Prandaj i dova urdhrat e tua mbi ⟨të⟩ artin, po, mbi ardhënë e pastër.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "dova"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhrat e tua"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "artin"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "po, mbi ardhënë e pastër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:45.592558792Z",
+  "model": "glm-5.3"
+}

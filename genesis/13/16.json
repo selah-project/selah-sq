@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe do të bëj ⟨את⟩ farën tëte si pluhurin e tokës: nëse dikush mund të numërojë ⟨את⟩ pluhurin e tokës, edhe fara jote do të numërohet.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Dhe do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farën tëte"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farën tëte"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "si pluhurin e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nëse (i lidhur me אם)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dikush"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "të numërojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pluhurin e tokës"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhurin e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "fara jote"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "do të numërohet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:47.310338648Z",
+  "model": "glm-5.3"
+}

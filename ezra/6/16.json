@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe bënë bijtë e Izraelit, priftërinjtë dhe levitët dhe pjesa tjetër e bijve të mërgimit, përurimin e kësaj shtëpie të Elahut, me gëzim.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "dhe levitët"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "dhe pjesa tjetër"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "të mërgimit"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "përurimin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "të Elahut"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "me gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:31.343295909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "sepse tani do të kisha zgjatur ⟨את⟩ dorën time dhe do të të kisha goditur ⟨את⟩ ty dhe ⟨את⟩ popullin tënd me murtajën, dhe do të ishe shfarosur nga ⟨të⟩ dheu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "do të kisha zgjatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "dhe do të të kisha goditur"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tënd"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "me murtajën"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "dhe do të ishe shfarosur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:02.477086159Z",
+  "model": "glm-5.3"
+}

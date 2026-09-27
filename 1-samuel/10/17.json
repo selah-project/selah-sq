@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Samueli thirri ⟨atë⟩ ⟨את⟩ popullin para Jahvesë, në Micpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "në Micpa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:57.177635273Z",
+  "model": "glm-5.3"
+}

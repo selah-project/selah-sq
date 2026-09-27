@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Reaja, bir i Shovalit, lindi ⟨את⟩ Jahatin; dhe Jahati lindi ⟨את⟩ Ahumain ⟨את⟩ dhe Lahad. Këto janë familjet e tsoreathitit.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "dhe Reaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "i Shovalit"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahatin"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahati"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "dhe Jahati"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Këto"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "familjet"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "e tsoreathitit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:40.767433344Z",
+  "model": "glm-5.3"
+}

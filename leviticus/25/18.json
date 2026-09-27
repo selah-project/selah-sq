@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe të bëni ⟨את⟩ statuteve të mia dhe ⟨את⟩ gjykatat e mia të ruani, dhe t'i bëni ⟨את⟩ ato; dhe do të banoni mbi ⟨të⟩ tokën me siguri.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe të bëni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e mia"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjykatat e mia"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykatat e mia"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "të ruani"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe të bëni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "statutet dhe gjykatat"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dhe do të banoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "me siguri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:02.239763912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Faraoni pa se kishte ardhur lehtësimi, dhe e rëndoi ⟨את⟩ zemrën e tij dhe nuk u dëgjoi atyre, siç kishte folur Jahve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "lehtësimi"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "dhe e rëndoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e tij"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "u dëgjoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:36.254533890Z",
+  "model": "glm-5.3"
+}

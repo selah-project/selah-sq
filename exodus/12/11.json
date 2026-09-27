@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe kështu do ta hani ⟨את⟩: ijët të ngjeshura, sandalet në këmbët tuaja dhe shkopinjtë në duart tuaja; dhe do ta hani ⟨את⟩ me nxitim — është Pashaja e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Dhe kështu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do ta hani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (dashin)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ijët tuaja"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "të ngjeshura"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandalet tuaja"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "në këmbët tuaja"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "dhe shkopinjtë tuaj"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "në duart tuaja"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "dhe do ta hani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (dashin)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "me nxitim"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pashaja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:39.680907869Z",
+  "model": "glm-5.3"
+}

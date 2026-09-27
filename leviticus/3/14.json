@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të sjellë prej tij flijimin e vet, flijim me zjarr për Jahven: ⟨את⟩ yndyrën që mbulon ⟨את⟩ zorrët, dhe ⟨את⟩ krejt yndyrën që është mbi zorrët.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do të sjellë"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "flijimin e vet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim me zjarr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyra"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "që mbulon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zorrët"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zorrët (të brendshmet)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "krejt yndyrën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zorrët"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:24.692495451Z",
+  "model": "glm-5.3"
+}

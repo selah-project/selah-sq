@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe minha e Judës dhe e Jerusalemit do t'i pëlqejë Jahves, si ditët e përjetshme dhe si vitet e mëparshme.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "dhe do t'i pëlqejë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe e Jerusalemit"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "si ditët e"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetshme"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "dhe si vitet"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "e mëparshme"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:19.543435078Z",
+  "model": "glm-5.3"
+}

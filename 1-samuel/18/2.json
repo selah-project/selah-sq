@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Sauli e mori ⟨atë⟩ në atë ditë dhe nuk i dha ⟨leje⟩ të kthehej në shtëpinë e atit të tij.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "dhe e mori ⟨atë⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "i dha ⟨leje⟩"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "të kthehej"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e atit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:45.444634947Z",
+  "model": "glm-5.3"
+}

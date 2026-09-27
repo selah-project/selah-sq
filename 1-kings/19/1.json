@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Ahabi i tregoi Izevelit ⟨את⟩ të gjitha ato që bëri Elia, dhe ⟨את⟩ të gjitha ato që vra me shpatë ⟨את⟩ të gjithë profetët.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i tregoi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izevelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ato që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ato që"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "vra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë profetët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profetët"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:59.880842373Z",
+  "model": "glm-5.3"
+}

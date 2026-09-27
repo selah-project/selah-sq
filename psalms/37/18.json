@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Jahve i njeh ditët e të pafajshmëve, dhe trashëgimia e tyre do të jetë ⟨për⟩jetë.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "i njeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "e të pafajshmëve"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "dhe trashëgimia e tyre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨për⟩jetë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:21.006891792Z",
+  "model": "glm-5.3"
+}

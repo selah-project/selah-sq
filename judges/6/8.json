@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Jahve dërgoi një njeri, profet, te bijtë e Izraelit, dhe u tha atyre: Kështu tha Jahve, Elohim i Izraelit: Unë ju nxora lart ⟨אתכם⟩ nga Egjipti dhe ju nxora jashtë ⟨אתכם⟩ nga shtëpia e robërve.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nxora lart"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nga Egjipti)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "dhe nxora jashtë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nga shtëpia e robërve)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "e robërve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:46.893583261Z",
+  "model": "glm-5.3"
+}

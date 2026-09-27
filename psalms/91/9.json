@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Sepse ti, Jahve, je streha ime; ⟨i⟩ Eljon ⟨e⟩ bëre banesën tënde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "bëre"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "banesën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:34.815437436Z",
+  "model": "glm-5.3"
+}

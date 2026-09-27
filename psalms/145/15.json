@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Sytë e të gjithëve shpresojnë në ty, dhe ti u jep atyre ⟨את⟩ ushqimin e tyre në kohën e vet.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Sytë e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithëve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "shpresojnë"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "u jep"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushqimin e tyre"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ushhqimin e tyre"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "në kohën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:58.120689472Z",
+  "model": "glm-5.3"
+}

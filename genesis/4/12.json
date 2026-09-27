@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Kur të punosh ⟨את⟩ tokën, ajo nuk do të japë më fuqinë e vet për ty; i endur dhe i shpërndarë do të jesh në tokë.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תעבod",
+      "gloss": "të punosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "do të japë më"
+    },
+    {
+      "surface": "תת",
+      "gloss": "të japë"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "fuqinë e vet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "נע",
+      "gloss": "i endur"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "dhe i shpërndarë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jesh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.007132777Z",
+  "model": "glm-5.3"
+}

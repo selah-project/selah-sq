@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "dhe u shërbyen idhujve, për të cilët Jahve u kishte thënë: «Mos bëni ⟨את⟩ këtë gjë.»",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "dhe u shërbyen"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "idhujve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilët"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kishte thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë gjë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gjënë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:11.143045503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ju urdhërova ⟨את⟩ juve në atë kohë, duke thënë: Jahve, Elohim i juaj, ju ka dhënë ⟨את⟩ këtë tokë për ta zotëruar; të armatosur do të kaloni para vëllezërve tuaj, bijve të Izraelit, të gjithë bijtë e fuqisë.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "dhe urdhërova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve (kundoresha e urdhrit)"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ka dhënë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë tokë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "për ta zotëruar"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "të armatosur"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "do të kaloni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllezërve tuaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "e fuqisë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:58.306042776Z",
+  "model": "glm-5.3"
+}

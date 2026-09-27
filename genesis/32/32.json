@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe i lindi dielli kur kaloi ⟨את⟩ Penielin, dhe ai çaliste mbi kofshën e tij.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penielin"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penielin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "çaliste"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "kofshën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:48.659200925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe u foli bijve të vet, duke thënë: Shaloni ⟨את⟩ gjedhin për mua. Dhe e shaluan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe u foli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të vet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "shaloni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjedhin"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "gjedhin"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "dhe e shaluan"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:04.360034088Z",
+  "model": "glm-5.3"
+}

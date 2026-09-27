@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Prita me durim Jahven, dhe ⟨ai⟩ u përkul drejt meje dhe dëgjoi britmën time.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Prita"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "me durim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dhe u përkul"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "britmën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:51.775688991Z",
+  "model": "glm-5.3"
+}

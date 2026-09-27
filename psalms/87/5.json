@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 87,
+  "translation": "Dhe për Zionin do të thuhet: njeri e njeri u lind në të, dhe ⟨Ai⟩, Eljon, e themelon ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "dhe për Zionin"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do të thuhet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe njeri"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "u lind"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨Ai⟩"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "e themelon ⟨atë⟩"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:21.688473044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Bërtitni lart për Jahven, gjithë ⟨tokia⟩; shpërtheni në gjëmim e gëzim dhe këndoni lavde.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Bërtitni lart"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokia⟩"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "shpërtheni"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "dhe gjëmim e gëzim"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "dhe këndoni lavde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.629559465Z",
+  "model": "glm-5.3"
+}

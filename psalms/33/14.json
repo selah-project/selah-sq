@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Nga vendndodhja e qëndrimit të tij vëzhgon drejt të gjithë banorëve të tokës.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "nga vendndodhja"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "e qëndrimit të tij"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "vëzhgon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.544352069Z",
+  "model": "glm-5.3"
+}

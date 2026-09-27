@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve ⟨është⟩ forca ime dhe mburoja ime; në të besoi zemra ime dhe u ndihmova, dhe zemra ime gëzohet, dhe me këngën time e lëvdoj atë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "forca ime"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "dhe mburoja ime"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "besoi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "dhe u ndihmova"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "dhe gëzohet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "dhe me këngën time"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "e lëvdoj atë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:26.411833915Z",
+  "model": "glm-5.3"
+}

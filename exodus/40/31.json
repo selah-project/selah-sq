@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe lanë prej tij Moisi dhe Aaroni dhe bijtë e tij ⟨את⟩ duart e tyre dhe ⟨את]] këmbët e tyre.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dhe lanë"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "këmbët e tyre"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "këmbët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:58.430709244Z",
+  "model": "glm-5.3"
+}

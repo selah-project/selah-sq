@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Zemrën time e prove, natën e vizituve, më shkriove në provë — asgjë nuk gjet; plani im nuk do të kalojë gojën time.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "e prove"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "e vizituve"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naten"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "me shkriove ne prove"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asgje"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nuk gjet"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "plani im"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "do te kaloje"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:36.252029228Z",
+  "model": "glm-5.3"
+}

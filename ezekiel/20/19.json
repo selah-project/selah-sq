@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Unë jam Jahve, Elohim i juaj: në statutet e mi ecni, dhe ⟨את⟩ gjykimet e mi i ruani dhe i bëni ato.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "në statutet e mia"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ecni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjykimet e mia"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimet e mia"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "i ruani"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "dhe bëni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ i ato"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:33.920993546Z",
+  "model": "glm-5.3"
+}

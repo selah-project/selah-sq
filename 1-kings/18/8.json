@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ai i tha: «Unë ⟨jam⟩. Shko, i thuaj zotërisë tënd: Ja, Elia!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë ⟨jam⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i thuaj"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "zotërisë tënd"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:40.330239843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe mos u lini ⟨את⟩ nga Hizkiahu t'u bëjë të besoni në Jahve, duke thënë: 'Sigurisht do na shpëtojë Jahve; ky qytet nuk do të jepet në dorën e mbretit të Ashurit.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dhe mos"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "të besoni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (objekt i bindjes)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Sigurisht do shpëtojë"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "do na shpëtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "do të jepet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ky qytet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ky"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Ashurit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:48.303194087Z",
+  "model": "glm-5.3"
+}

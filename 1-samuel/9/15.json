@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve ia kishte zbuluar ⟨את⟩ veshin Samuelit një ditë përpara ardhjes së Saulit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "kishte zbuluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veshin"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "veshin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ardhjes"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "së Saulit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:53.349367176Z",
+  "model": "glm-5.3"
+}

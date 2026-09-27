@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Lutja ime le të vijë para fytyrës sate; inklino veshin tënd te britma e ime.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "le të vijë"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para fytyrës sate"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutja ime"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "inklino"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "veshin tënd"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "te britma e ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:12.070087583Z",
+  "model": "glm-5.3"
+}

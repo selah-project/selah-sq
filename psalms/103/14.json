@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Sepse ai e njeh formën tonë; kujton se pluhur jemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "formën tonë"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "kujton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jemi (ne)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:35.913450646Z",
+  "model": "glm-5.3"
+}

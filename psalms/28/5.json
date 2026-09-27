@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Sepse nuk e kuptojnë veprën e Jahvesë dhe as punën e duarve të tij — ⟨ai⟩ do t'i shembë ato dhe nuk do t'i rindërtojë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "e kuptojnë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(për) veprën"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe as (për) punën"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punën"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "e duarve të tij"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "do t'i shembë ato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "do t'i rindërtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:26.411419372Z",
+  "model": "glm-5.3"
+}

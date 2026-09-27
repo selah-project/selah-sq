@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse me të vërtetë grihet e copëtuar, do ta sjellë ⟨atë⟩ si dëshmi; ⟨kafsha⟩ e copëtuar nuk do të paguajë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "me të vërtetë grihet"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "copëtohet"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "do ta sjellë ⟨atë⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si dëshmi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "e copëtuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të paguajë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:05.718037930Z",
+  "model": "glm-5.3"
+}

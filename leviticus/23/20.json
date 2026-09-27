@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe prifti do t'i valëzojë ⟨את⟩ ato bashkë me bukën e fryteve të para, si valëzim përballë Jahves, bashkë me dy qengjat; të shenjta do të jenë për Jahven, për priftin.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "dhe do të valëzojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dy qengjat (dhe bukën e fryteve të para)"
+    },
+    {
+      "surface": "על",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "të fryteve të para"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "valëzim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "qengjat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjta"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "për priftin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:28.136351479Z",
+  "model": "glm-5.3"
+}

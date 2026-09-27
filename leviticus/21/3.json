@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe për motrën e tij, virgjën e afërt me të, që nuk i ka qenë ⟨e njohur⟩ nga një burrë — për të ai papëtohet.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "dhe për motrën e tij"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "virgjën"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "e afërt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nga një burrë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për të"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "papëtohet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:17.262450666Z",
+  "model": "glm-5.3"
+}

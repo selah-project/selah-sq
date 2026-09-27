@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Hizkiahu mbreti ngjiti në mëngjes dhe mblodhi ⟨את⟩ parinë e qytetit, dhe u ngjit në shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ngjiti në mëngjes"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "dhe mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parinë e qytetit"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "parinë"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:15:26.598954914Z",
+  "model": "glm-5.3"
+}

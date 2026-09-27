@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe tani, çfarë prisja unë? O Adonai, shpresa ime në ty ⟨është⟩ ajo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "prisja unë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "shpresa ime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:04.837025622Z",
+  "model": "glm-5.3"
+}

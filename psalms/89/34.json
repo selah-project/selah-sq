@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Por hesed-in tim nuk do ta zhduk prej tij, dhe nuk do të gënjej në besnikërinë time.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "por hesed-in tim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "do ta zhduk"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "do të gënjej"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "në besnikërinë time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.395895054Z",
+  "model": "glm-5.3"
+}

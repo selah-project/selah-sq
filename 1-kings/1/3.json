@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kështu kërkuan një vajzë të bukur në të gjithë kufirin e Izraelit, dhe gjetën ⟨את⟩ Abishagun, Shunamitja, dhe e çuan ⟨את⟩ atë te mbreti.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "kërkuan"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "një vajzë"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "të bukur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjithë"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dhe gjetën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishagun"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishagun"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamitja"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "te mbreti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:46.837984270Z",
+  "model": "glm-5.3"
+}

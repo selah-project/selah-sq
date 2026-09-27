@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Davidi dërgoi dhe pyeti për gruan, dhe i thanë ⟨atij⟩: A nuk është kjo Bat-Sheba, bija e Eliamit, gruaja e Uriahut hititi?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "dhe pyeti"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për gruan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bija e"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliamit"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruaja e"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriahut"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:38.805973524Z",
+  "model": "glm-5.3"
+}

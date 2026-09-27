@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe qiejt do të shpallin drejtësinë e tij, sepse Elohim, gjyqtar ⟨është⟩ ai. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "dhe do të shpallin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "drejtësinë e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "gjyqtar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.969693341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Dhe njeriu do të thotë: Vërtet, ka fryt për të drejtin; me të vërtetë ka Elohim që gjykon mbi tokë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe do të thotë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fryt"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "për të drejtin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "që gjykon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mbi tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:03.379410334Z",
+  "model": "glm-5.3"
+}

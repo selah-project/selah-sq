@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "⟨את⟩ argjentin tënd mos ia jep atij me kamatë, dhe me fitim mos jep ⟨atë⟩ ushqimin tënd.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjentin tënd"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "argjentin tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "me kamatë"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "dhe me fitim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ushqimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:43.631818953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do të bësh ⟨את⟩ shufrat prej druri akacie, dhe do t'i veshësh ⟨אתם⟩ me ar.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "prej druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "וצצית",
+      "gloss": "dhe do t'i veshësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat (me ar)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:01.459346634Z",
+  "model": "glm-5.3"
+}

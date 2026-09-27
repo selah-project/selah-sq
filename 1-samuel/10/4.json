@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe do të të pyesin për shëndetin tënd dhe do të të japin dy bukë, dhe do t'i marrësh nga dora e tyre.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "dhe do të të pyesin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "për shëndetin"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe do të të japin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dhe do t'i marrësh"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nga dora e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:33.174691700Z",
+  "model": "glm-5.3"
+}

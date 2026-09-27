@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mbreti tha: Vdekje do të vdesësh, Ahimeleku, ti dhe e gjithë shtëpia e atit tënd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekje"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "do të vdesësh"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe e gjithë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "e atit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:07.862185475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Faraon Nekoh e bëri mbret ⟨את⟩ Eljakim, birin e Joshijahut, në vend të Joshijahut, të atit të tij; dhe ai ia ndryshoi ⟨את⟩ emrin në Jehojakim; ndërsa ⟨את⟩ Jehoahazin e mori dhe ai shkoi në Egjipt dhe vdiç atje.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "dhe e bëri mbret"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "e Joshijahut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joshijahut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit të tij"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dhe ia ndryshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "në Jehojakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe ai shkoi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiç"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:19.068799037Z",
+  "model": "glm-5.3"
+}

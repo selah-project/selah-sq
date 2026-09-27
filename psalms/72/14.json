@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Nga shtypja dhe nga dhuna do t'i shpengojë shpirtin e tyre, dhe i çmueshëm do të jetë gjaku i tyre në sytë e tij.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "nga mes"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "dhe nga dhuna"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "do të shpengojë"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirtin e tyre"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "dhe i çmueshëm"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "gjaku i tyre"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.702358730Z",
+  "model": "glm-5.3"
+}

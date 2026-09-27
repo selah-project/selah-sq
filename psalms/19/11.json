@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "⟨Ato⟩ janë më të dëshirueshme se ari, po edhe se shumë ar i kulluar; dhe më të ëmbla se mjalti dhe pikimet e koshereve.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "më të dëshirueshme"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "se ari"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "dhe se ar i kulluar"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "dhe më të ëmbla"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "se mjalti"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "dhe pikimet"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "e koshereve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:46.153771423Z",
+  "model": "glm-5.3"
+}

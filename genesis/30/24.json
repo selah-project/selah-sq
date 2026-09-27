@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe e quajti ⟨את⟩ emrin e tij Jozef, duke thënë: «Jahve të më shtojë një djalë tjetër.»",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "të më shtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בן",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:03.607914479Z",
+  "model": "glm-5.3"
+}

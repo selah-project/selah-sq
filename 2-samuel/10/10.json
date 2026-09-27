@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ⟨את⟩ pjesën e mbetur të popullit e dha në dorën e Abishait, vëllait të tij, dhe ai i renditi përballë beniamoneve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pjesën e mbetur të popullit"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "pjesën e mbetur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "të popullit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e dha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "të Abishait"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllait të tij"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "dhe i renditi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "beni"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "të Amonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:35.898989455Z",
+  "model": "glm-5.3"
+}

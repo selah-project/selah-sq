@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe Jahve i përgjigj ⟨את⟩ Iovit nga stuhia dhe tha:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe i përgjigj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iovit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iovit"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "stuhia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:58.956740985Z",
+  "model": "glm-5.3"
+}

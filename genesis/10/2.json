@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Bijtë e Jafetit: Gomeri, Magogu, Madai, Javani, Tubali, Mesheku dhe Tirasi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bijtë e"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafetit"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "dhe Magogu"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "dhe Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "dhe Javani"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "dhe Tubali"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "dhe Mesheku"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "dhe Tirasi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:00.476824305Z",
+  "model": "glm-5.3"
+}

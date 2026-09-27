@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai që dërgon urdhërimin e vet në tokë — shumë shpejt vrapon fjala e tij.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ai që dërgon"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "urdhërimin e vet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "shpejt"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "vrapon"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjala e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.316851091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Bekoni Jahven, gjithë veprat e tij, në çdo vend të sundimit të tij; bekoje, shpirti im, ⟨את⟩ Jahven.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bekoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "veprat e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "vend"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "të sundimit të tij"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bekoje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:03.223664783Z",
+  "model": "glm-5.3"
+}

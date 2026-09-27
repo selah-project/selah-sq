@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ja, bëra ⟨את⟩ fytyrën tënde të fortë përballë fytyrave të tyre, dhe ⟨את⟩ ballin tënd të fortë përballë ballit të tyre.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fytyrave të tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "ballin tënd"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ballin tënd"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ballit të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:42.139902967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Kur një plagë caracie të jetë në një njeri, ⟨ai⟩ do të sillet te prifti.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "plagë"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "caracie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "në një njeri"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "do të sillet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:50.967294552Z",
+  "model": "glm-5.3"
+}

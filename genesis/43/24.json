@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe njeriui i çoi ⟨את⟩ njerëzit në shtëpinë e Jozefit, dhe u dha ujë, dhe lanë këmbët e tyre; dhe u dha ushqim gomarëve të tyre.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe i çoi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "e Jozefit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "dhe lanë"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "këmbët e tyre"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ushqim (foragj)"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "gomarëve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:01.784678522Z",
+  "model": "glm-5.3"
+}

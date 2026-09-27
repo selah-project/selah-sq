@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Të mos të ketë ⟨në⟩ çantën tënde gur dhe gur, ⟨një⟩ i madh dhe ⟨një⟩ i vogël.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "në çantën tënde"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "gur"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe gur"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "dhe i vogël"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:41.559168512Z",
+  "model": "glm-5.3"
+}

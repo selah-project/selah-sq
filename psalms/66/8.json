@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Bekoni, o popuj, Elohun tonë, dhe bëjini të dëgjohet zëri i lavdërimit të tij.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bekoni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "o popuj"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohun tonë"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "dhe bëjini të dëgjohet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zëri"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "i lavdërimit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:31.361853850Z",
+  "model": "glm-5.3"
+}

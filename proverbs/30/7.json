@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dy gjëra kërkova prej teje ⟨את⟩; mos m'i moho para se të vdes.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dy"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kërkova"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "prej teje ⟨את⟩",
+      "marks": "ti (Eloah)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "m'i moho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mua"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "para se"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "të vdes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:58.520681627Z",
+  "model": "glm-5.3"
+}

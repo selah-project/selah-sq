@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Ky i varfër thirri, dhe Jahve dëgjoi, dhe nga të gjitha ngushticat e tij e shpëtoi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dhe nga të gjitha"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ngushticat e tij"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "e shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.806050857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Kështu bënë etërit tuaj, kur i dërgova unë ⟨אתם⟩ nga Kadeshi-Barnea për të parë ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "etërit tuaj"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "kur i dërgova unë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i dërgova"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nga Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:41.131086873Z",
+  "model": "glm-5.3"
+}

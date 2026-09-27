@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe do të marrë ⟨את⟩ dy cjekët dhe do t'i vërë të ndalten ⟨את⟩ para Jahvesë, në hyrjen e çadrit të takimit.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do të marrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dy cjekët"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "cjekët"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "do t'i vërë të ndalten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dy cjekët (ata)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "në hyrjen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të çadrit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:44.582490632Z",
+  "model": "glm-5.3"
+}

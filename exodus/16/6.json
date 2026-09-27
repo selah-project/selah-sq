@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Moisi dhe Aaroni i thanë gjithë bijve të Izraelit: ⟨Në⟩ mbrëmje do të dini se Jahve nxori ⟨את⟩ ⟨ju⟩ nga toka e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbrëmje"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "do të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ju⟩",
+      "marks": "ju (kundrinori: nxori ju nga toka e Egjiptit)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:27.712048256Z",
+  "model": "glm-5.3"
+}

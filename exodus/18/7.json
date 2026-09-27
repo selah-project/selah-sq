@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Moisi doli për të dalë përpara dhëndrit të vet, dhe bëu përulje dhe e puthi atë; dhe pyeti secili shokun e vet për shëndetin, dhe hyri ⟨të dy⟩ në çadër.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "për të dalë përpara"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "dhëndrit të vet"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "bëu përulje"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "e puthi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "shokun e vet"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "për shëndetin"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hyri"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "në çadër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:58.649168438Z",
+  "model": "glm-5.3"
+}

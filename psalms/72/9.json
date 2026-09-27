@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Para tyre do të përulen banorët e shkretëtirës, dhe armiqtë e tij do të lëpijnë pluhurin.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "do të përulen"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "banorët e shkretëtirës"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "dhe armiqtë e tij"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "do të lëpijnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:55.056465965Z",
+  "model": "glm-5.3"
+}

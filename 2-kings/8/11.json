@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ai ia drejtoi ⟨את⟩ fytyrën drejt e tij dhe e mbajti kështu derisa ai u turpërua, dhe njeriu i Elohit qau.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe e drejtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e tij"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe e mbajti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "בש",
+      "gloss": "u turpërua"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dhe qau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:59.778199484Z",
+  "model": "glm-5.3"
+}

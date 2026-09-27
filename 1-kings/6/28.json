@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ai i mbuloi me ar ⟨את⟩ kerubët.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "dhe i mbuloi me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubët"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubët"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:35.190220472Z",
+  "model": "glm-5.3"
+}

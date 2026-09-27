@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Le t'i japin lavdi Jahvesë dhe lavdërimin e tij në ishujt ta shpallin.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "Le t'i japin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdi"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "dhe lavdërimin e tij"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "në ishujt"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ta shpallin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:41.293376407Z",
+  "model": "glm-5.3"
+}

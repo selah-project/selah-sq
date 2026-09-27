@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi në fund të dyzetë ditëve, që Noeu hapi ⟨את⟩ dritaren e arkës që kishte bërë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "në fund të"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzetë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditëve"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noeu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dritaren"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "dritaren"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "e arkës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:45.219058331Z",
+  "model": "glm-5.3"
+}

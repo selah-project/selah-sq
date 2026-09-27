@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Sepse ai e themeloi ⟨atë⟩ mbi detet, dhe mbi lumenjtë e ftoi të qëndrojë ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יַמִּים",
+      "gloss": "detet"
+    },
+    {
+      "surface": "יְסָדָהּ",
+      "gloss": "e themeloi"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "יְכוֹנְנֶהָ",
+      "gloss": "e ftoi të qëndrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:49.693222076Z",
+  "model": "glm-5.3"
+}

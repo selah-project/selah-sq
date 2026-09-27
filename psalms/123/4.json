@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 123,
+  "translation": "Shumë u ngop shpirti jonë me talljen e të qetëve, me përbuzjen e kryelartëve.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "u ngop"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "shpirti jonë"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "me talljen e"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "të qetëve"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "me përbuzjen e"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "kryelartëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:17.787224954Z",
+  "model": "glm-5.3"
+}

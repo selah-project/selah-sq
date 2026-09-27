@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "dhe dita e shtatë është Shabat për Jahve, Elohin tënd; nuk do të bësh asnjë punë — as ti, as biri yt, as vajza jote, as shërbëtori yt, as shërbëtorja jote, as kafsha jote, as i huaji yt që ⟨është⟩ brenda portave të tua:",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "dhe dita"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "e shtatë"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohin tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "as ti"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "as biri yt"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "as vajza jote"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "as shërbëtori yt"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "as shërbëtorja jote"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "as kafsha jote"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "as i huaji yt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "brenda portave të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:20.431407644Z",
+  "model": "glm-5.3"
+}

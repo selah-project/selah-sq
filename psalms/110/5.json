@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Adonai është në të djathtën tënde; ⟨ai⟩ mëshkon mbretërit në ditën e zemërimit të tij.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "të djathtën tënde"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mëshkon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimit të tij"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretërit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.223236723Z",
+  "model": "glm-5.3"
+}

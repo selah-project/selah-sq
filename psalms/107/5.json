@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Të uritur, edhe të etur, shpirti i tyre brenda tyre u ligështua.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Të uritur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "të etur"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirti i tyre"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "brenda tyre"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "u ligështua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:43.135592568Z",
+  "model": "glm-5.3"
+}

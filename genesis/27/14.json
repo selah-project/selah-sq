@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe ai shkoi, e mori dhe ia solli nënës së tij; dhe nëna e tij përgatiti gjellë të shijshme, siç e donte i ati.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe ai shkoi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ia solli"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "nënës së tij"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "dhe përgatiti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nëna e tij"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "gjellë të shijshme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "e donte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i ati"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:56.723572340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe prisni ⟨את⟩ parafshin e zemrës suaj, dhe qafën tuaj ta bëni të ashpër mos më.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Dhe prisni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parafshin e zemrës suaj"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "parafshin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "të zemrës suaj"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "dhe qafën tuaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ta bëni të ashpër"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:35.631297732Z",
+  "model": "glm-5.3"
+}

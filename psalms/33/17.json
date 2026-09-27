@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Gënjeshtër ⟨është⟩ kali për shpëtim, dhe nga shumësia e forcës së tij nuk do të shpëtojë.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Gënjeshtër"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kali"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "për shpëtim"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "dhe nga shumësia"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "e forcës së tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "do të shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:30.420370561Z",
+  "model": "glm-5.3"
+}

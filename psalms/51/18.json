@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Sepse nuk dëshiron flijim, përndryshe do të jepja ⟨atë⟩; oloça nuk e ke për të mirë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "dëshiron"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijim"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "përndryshe do të jepja"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "oloça"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "e ke për të mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.083330410Z",
+  "model": "glm-5.3"
+}

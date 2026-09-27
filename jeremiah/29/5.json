@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Ndërtoni shtëpi dhe banoni në to; dhe mbillni kopshte dhe hani ⟨את⟩ frutat e tyre.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Ndërtoni"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dhe banoni"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "dhe mbillni"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kopshte"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dhe hani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frutat e tyre"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "frutat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:04.100043768Z",
+  "model": "glm-5.3"
+}

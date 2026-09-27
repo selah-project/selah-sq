@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Jahve po ndërton Jerusalemin, ⟨dhe⟩ i përmbledh të shpërndarët e Izraelit.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "po ndërton"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "të shpërndarët"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "i përmbledh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:22.343547337Z",
+  "model": "glm-5.3"
+}

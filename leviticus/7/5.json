@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe prifti do t'i djegë ⟨אתם⟩ mbi altar, flijim me zjarr për Jahve; flijim faji ⟨është⟩ ai.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "do t'i djegë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i (ata — pjesët e dhënëve)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim me zjarr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "flijim faji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:59.051353870Z",
+  "model": "glm-5.3"
+}

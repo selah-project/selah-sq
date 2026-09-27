@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe të mos hyjnë të shohin, edhe për një çast, ⟨את⟩ të shenjten, dhe të vdesin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hyjnë"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shohin"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "edhe për një çast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të shenjten"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "të shenjten"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dhe të vdesin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:20.535144579Z",
+  "model": "glm-5.3"
+}

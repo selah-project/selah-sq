@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Le të thonë ⟨atë⟩ shpenguarit e Jahves, të cilët Ai i shpengoi nga dora e armikut ⟨të ngushtë⟩.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Le të thonë"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "shpenguarit e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "i shpengoi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "צר",
+      "gloss": "armikut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:40.982647484Z",
+  "model": "glm-5.3"
+}

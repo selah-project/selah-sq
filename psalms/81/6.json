@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Dëshmi në Jozefin e vendoi ⟨ate⟩, në daljen e tij mbi tokën e Egjiptit; ⟨një⟩ buzë që nuk e njihja — e dëgjoj.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "dëshmi"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "në Jozefin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "e vendoi"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "në daljen e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "buzë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e njihja"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "e dëgjoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:43.028547447Z",
+  "model": "glm-5.3"
+}

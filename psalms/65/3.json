@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Dëgjuesi i lutjes — deri te ti do të vijë çdo mish.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjuesi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "i lutjes"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "deri te ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "do të vijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:17.115756889Z",
+  "model": "glm-5.3"
+}

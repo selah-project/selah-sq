@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ja, fryma e fryrë ⟨nuk⟩ është e drejtë brenda tij; por i drejti në besnikërinë e tij do të jetojë.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "e fryrë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nuk⟩"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "është e drejtë"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "fryma e tij"
+    },
+    {
+      "surface": "בו",
+      "gloss": "brenda tij"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "por i drejti"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "në besnikërinë e tij"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "do të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:13.361950149Z",
+  "model": "glm-5.3"
+}

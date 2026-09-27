@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe prifti do të zhytë gishtin e tij në gjak dhe do të spërkasë shtatë herë përpara Jahvesë ⟨את⟩ fytyrën e perdes.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "dhe do të zhytë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "gishtin e tij"
+    },
+    {
+      "surface": "מן",
+      "gloss": "në"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjak"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "dhe do të spërkasë"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e perdes"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "e perdes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:12.472292373Z",
+  "model": "glm-5.3"
+}

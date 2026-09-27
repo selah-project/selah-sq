@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jahve i tha Moisit: Fol Aaronit: Shtrije ⟨את⟩ shkopin tënd dhe rrihe ⟨את⟩ pluhurin e tokës, dhe ai do të bëhet mushkonja në gjithë tokën e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për te"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "shtrije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopin tënd"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "shkopin tënd"
+    },
+    {
+      "surface": "והך",
+      "gloss": "dhe rrihe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pluhurin e tokës"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhurin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të bëhet"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "mushkonja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:36.254734001Z",
+  "model": "glm-5.3"
+}

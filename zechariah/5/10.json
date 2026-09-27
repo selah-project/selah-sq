@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe i thashë engjëllit që fliste në mua: Ku po e çojnë ato ⟨את⟩ efahën?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe i thashë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "engjëllin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "që fliste"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ato"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "po e çojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efahën"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efahën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:25.982187179Z",
+  "model": "glm-5.3"
+}

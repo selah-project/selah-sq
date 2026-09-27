@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Salomon kërkoi ta vrasë ⟨את⟩ Jeroboamin; dhe Jeroboami u ngrit dhe iku në Egjipt, te Shishaku, mbreti i Egjiptit, dhe qëndroi në Egjipt deri në vdekjen e Salomonit.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "dhe kërkoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ta vrasë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroboamin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboami"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishaku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:02.829756956Z",
+  "model": "glm-5.3"
+}

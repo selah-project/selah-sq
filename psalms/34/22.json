@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "E keqja do t'i vrasë të ligët, dhe ata që urrejnë të drejtin do të dënohen.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "do t'i vrasë"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të ligët"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "dhe ata që urrejnë"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "do të dënohen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.047740947Z",
+  "model": "glm-5.3"
+}

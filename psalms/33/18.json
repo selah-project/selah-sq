@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Ja, syri i Jahvesë ⟨është⟩ mbi ata që i frikësohen atij, mbi ata që shpresojnë në hesedin e tij.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עין",
+      "gloss": "syri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ata që i frikësohen atij"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "mbi ata që shpresojnë"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "në hesedin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:30.420666363Z",
+  "model": "glm-5.3"
+}

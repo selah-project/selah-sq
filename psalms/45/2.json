@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Zemra ime valon ⟨një⟩ fjalë të mirë; po them: veprat e mia ⟨janë⟩ për mbretin; gjuha ime ⟨është⟩ pena e një shkrimtari të shpejtë.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "valon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Zemra ime"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "po them"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat e mia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për mbretin"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuha ime"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pena"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "e një shkrimtari"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "të shpejtë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:23.842027166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Mos ther mbi majë ⟨gjakun⟩ e flijimit tim; dhe të mos mbetet deri në mëngjes flijimi i festës së Pesahut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ther"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "majë (i brumëtuar)"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "e flijimit tim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mbetet"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "deri në mëngjes"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijimi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "i festës"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "të Pesahut"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:39.607913538Z",
+  "model": "glm-5.3"
+}

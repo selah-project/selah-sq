@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do të ndodhë në atë ditë, se do të thyej ⟨את⟩ harkun e Izraelit në luginën e Jizreelit.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "do të ndodhë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "do të thyej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harkun"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "harkun e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "në luginën"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "e Jizreelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:44.835930563Z",
+  "model": "glm-5.3"
+}

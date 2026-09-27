@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Andaj u betova në zemërimin tim: nuk do të hyjnë në prehjin tim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Andaj"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "u betova"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "në zemërimin tim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nuk⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "do të hyjnë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "prehjin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:14.699426342Z",
+  "model": "glm-5.3"
+}

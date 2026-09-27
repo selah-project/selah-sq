@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Më pastro me izop dhe do të pastrohem, më lau dhe do të bardhohem më shumë se bora.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "më pastro nga mëkati"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "me izop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "dhe do të pastrohem"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "më lau"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "dhe më shumë se bora"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "do të bardhohem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.474778376Z",
+  "model": "glm-5.3"
+}

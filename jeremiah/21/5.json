@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe unë vetë do të luftoj ⟨את⟩ ju (kundër jush) me dorë të shtrirë dhe me krah të fortë, dhe në zemërim, dhe në tërbim, dhe në zemërim të madh.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "dhe do të luftoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë vetë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju (kundër jush)",
+      "marks": "ju"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorë"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "të shtrirë"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "dhe me krah"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "dhe në zemërim"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "dhe në tërbim"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "dhe në zemërim të"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "madh"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:13.138738902Z",
+  "model": "glm-5.3"
+}

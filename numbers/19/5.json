@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ⟨do⟩ djegë ⟨את⟩ lopën para syve të tij; ⟨את⟩ lëkurën e saj dhe ⟨את⟩ mishin e saj dhe ⟨את⟩ gjakun e saj, mbi ndyrësinë e saj do ta djegë.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "do ta djegë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lopën"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lopën"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "para syve të tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lëkurën e saj"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "lëkurën e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mishin e saj"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "mishin e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjakun e saj"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "gjakun e saj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ndyrësinë e saj"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "do ta djegë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:43.417863856Z",
+  "model": "glm-5.3"
+}

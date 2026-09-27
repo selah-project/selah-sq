@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai u bëri kështu, dhe i shpëtoi ⟨את⟩ ata nga dora e bijve të Israelit, dhe nuk i vranë.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u (atyre)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dhe i shpëtoi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (Gibeonitët)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "i vranë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:15.885440322Z",
+  "model": "glm-5.3"
+}

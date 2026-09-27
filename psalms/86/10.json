@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Sepse ti ⟨je⟩ i madh dhe bën çudira; ti vetëm, vetëm ⟨je⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bën"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "çudira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm, vetëm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.094351554Z",
+  "model": "glm-5.3"
+}

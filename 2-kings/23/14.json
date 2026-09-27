@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe theu ⟨את⟩ shtyllat e gurta, preri ⟨את⟩ Asherimët dhe mbushi ⟨את⟩ vendet e tyre me eshtra njerëzish.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Dhe theu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat e gurta"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "shtyllat e gurta"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "preri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherimët"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherimët"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dhe mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendet e tyre"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "vendet e tyre"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "me eshtra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzish"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:05.675795232Z",
+  "model": "glm-5.3"
+}

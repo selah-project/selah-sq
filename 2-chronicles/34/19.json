@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe ndodhi që, kur mbreti dëgjoi fjalët e Torës, ai grisi rrobat e tij.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e Torës"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e Torës"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tij"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:37:59.216123751Z",
+  "model": "glm-5.3"
+}

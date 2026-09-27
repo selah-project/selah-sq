@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ndodhi pas disa ditësh, dhe bijtë e Amonit u luftuan kundër Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "pas disa ditësh"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dhe u luftuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:03.388168567Z",
+  "model": "glm-5.3"
+}

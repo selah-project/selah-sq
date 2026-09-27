@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jozueu tha: «Hapni ⟨את⟩ gojën e shpellës dhe nxirrni mua ⟨את⟩ këta pesë mbretër nga shpella.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueu"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "hapni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën e shpellës"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën e"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "shpellës"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "dhe nxirrni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këta pesë mbretër"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretër"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "shpella"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:26.410175546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Faraoni tha: Kush ⟨është⟩ Jahve, që t'i dëgjoj zërin për të lëshuar ⟨את⟩ Izraelin? Nuk e njeh ⟨את⟩ Jahvenë dhe as ⟨את⟩ Izraelin nuk do ta lëshoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "t'i dëgjoj"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "zërin e tij"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "për të lëshuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "do ta lëshoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:02.175571397Z",
+  "model": "glm-5.3"
+}

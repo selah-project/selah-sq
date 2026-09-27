@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Kofshët e tij ⟨isnin⟩ të hekurt, këmbët e tij pjesërisht prej hekuri dhe pjesërisht prej balte.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "kofshët e tij"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨isnin⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "të hekurt"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "këmbët e tij"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "pjesërisht prej"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "hekuri"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "dhe pjesërisht prej"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "balte"
+    }
+  ],
+  "timestamp": "2026-09-27T17:47:53.537281542Z",
+  "model": "glm-5.3"
+}

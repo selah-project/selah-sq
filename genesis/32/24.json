@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe i mori ata dhe i kaloi ⟨את⟩ përroi, dhe kaloi ⟨את⟩ çdo gjë që kishte.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "dhe i mori ata"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "dhe i kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forrin"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "forrin"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dhe kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo gjë që kishte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kishte"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:11.358585672Z",
+  "model": "glm-5.3"
+}

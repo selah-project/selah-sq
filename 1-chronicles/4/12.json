@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Eshtoni lindi ⟨את⟩ Beit-Rafan, dhe ⟨את⟩ Paseahun, dhe ⟨את⟩ Tehinahën, atin e Ir-Nahashit; këta janë njerëzit e Rekahut.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "dhe Eshtoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseahun"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tehinahën"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehinahën"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahashit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekahut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:36.899036812Z",
+  "model": "glm-5.3"
+}

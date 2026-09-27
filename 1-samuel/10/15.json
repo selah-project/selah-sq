@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe xhaxhai i Saulit tha: Tregomë, të lutem, çfarë ju tha Samueli?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "xhaxhai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "i Saulit"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "trego"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:14.046363248Z",
+  "model": "glm-5.3"
+}

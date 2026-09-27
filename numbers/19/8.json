@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ai që e djeg ⟨את⟩ atë ⟨do⟩ lajë rrobat e tij në ujë, dhe ⟨do⟩ lajë trupin e tij në ujë, dhe ⟨është⟩ i papastër deri në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "dhe ai që djeg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (lopën)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhe do të lajë"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupin e tij"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dhe i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "në mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:43.418601231Z",
+  "model": "glm-5.3"
+}

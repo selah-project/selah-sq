@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Jozefi i tha popullit: Ja, sot ju kam blerë ⟨את⟩ ju dhe ⟨את⟩ tokën tuaj për Faraonin; ja, ju keni farë — dhe do të mbillni ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "kam blerë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën tuaj"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tokën tuaj"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "për Faraonin"
+    },
+    {
+      "surface": "הא",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju keni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "dhe do të mbillni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:26.470527738Z",
+  "model": "glm-5.3"
+}

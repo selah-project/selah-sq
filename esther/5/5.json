@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe mbreti tha: \"Shpejtoni ⟨את⟩ Hamanin, për të bërë ⟨את⟩ fjalën e Esterit.\" Dhe mbreti dhe Hamani erdhën në banketin që kishte përgatitur Esteri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Shpejtoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamanin"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të bërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "e Esterit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dhe Hamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "banketin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kishte përgatitur"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:33.290422103Z",
+  "model": "glm-5.3"
+}

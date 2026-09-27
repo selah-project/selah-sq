@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Kush ka formuar ⟨një⟩ El, dhe ka derdhur një idhull të derdhur, ⟨që⟩ të mos bëjë dobi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ka formuar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "dhe një idhull"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "të derdhur"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "bëjë dobi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:27.333066586Z",
+  "model": "glm-5.3"
+}

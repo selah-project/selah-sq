@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe njeriu u përkul, dhe burri u përul, dhe sytë e mendjemëdhenjve do të përulen.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Dhe u përkul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "dhe u përul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burri"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "dhe sytë e"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "mendjemëdhenjve"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "do të përulen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:59.565133385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 10:12",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Ai bën ⟨e⟩ tokën me fuqinë e tij, përgatit ⟨e⟩ botën me diturinë e tij, dhe me kuptimin e tij zgjati qiejt.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "me fuqinë e tij"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "përgatit"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botën"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "me diturinë e tij"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "dhe me kuptimin e tij"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "zgjati"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    }
+  ],
+  "timestamp": "2026-09-27T16:09:43.735424656Z",
+  "model": "glm-5.3"
+}

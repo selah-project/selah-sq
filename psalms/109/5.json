@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe më vunë mbi mua të keqen në vend të të mirës, dhe urrejtje në vend të dashurisë sime.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dhe vunë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "të mirës"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "dhe urrejtje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "të dashurisë sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.410490465Z",
+  "model": "glm-5.3"
+}

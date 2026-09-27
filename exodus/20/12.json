@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Ndero ⟨את⟩ atin tënd dhe ⟨את⟩ nënën tënde, që ditët të tu të zgjaten mbi tokën që Jahve, Elohi yt, po të jep ty:",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ndero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atin tënd"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atin tënd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "nënën tënde"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nënën tënde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "të zgjaten"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ditët e tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohi yt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po të jep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:20.431872894Z",
+  "model": "glm-5.3"
+}

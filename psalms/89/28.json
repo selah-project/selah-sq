@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Edhe unë do ta bëj atë të parëlindur, më të lartën e mbretërve të tokës.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "të parëlindur"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "do ta bëj atë"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "më të lartën"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "e mbretërve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.099871440Z",
+  "model": "glm-5.3"
+}

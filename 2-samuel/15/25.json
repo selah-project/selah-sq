@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe mbreti i tha Sadokut: «Kthe ⟨את⟩ arkën e Elohimit në ⟨the⟩ qytet. Nëse gjej hir në sytë e Jahvesë, Ai do të më kthejë dhe do të më tregojë atë ⟨את⟩ dhe ⟨את⟩ banimin e Tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe…tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Sadokut"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Kthe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Elohimit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Elohimit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "gjej"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "do të më kthejë"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "do të më tregojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "atë ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "banimin e Tij"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "banimin e Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:25.926137034Z",
+  "model": "glm-5.3"
+}

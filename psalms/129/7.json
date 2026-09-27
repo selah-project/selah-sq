@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 129,
+  "translation": "Që korrësi nuk e mbush ⟨me të⟩ dorën e tij, as gjinorin e tij ai që lidh kollinjtë.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "që nuk"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e mbush"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "korrësi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "as gjinorin e tij"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ai që lidh kollinjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:00.234319207Z",
+  "model": "glm-5.3"
+}

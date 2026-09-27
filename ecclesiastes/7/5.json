@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Më mirë ⟨është⟩ të dëgjosh qortimin e të urtit, sesa një njeri që dëgjon këngën e të marrëve.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më mirë"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "të dëgjosh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "qortimin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "të urtit"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "sesa një njeri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "që dëgjon"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngën"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "të marrëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:21.830427767Z",
+  "model": "glm-5.3"
+}

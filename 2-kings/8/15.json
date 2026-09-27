@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi të nesërmen, dhe Chazaeli mori ⟨את⟩ mbulesën dhe e zhyti në ujë dhe e shtriu mbi fytyrën e tij, dhe ai vdiq; dhe Chazaeli mbretëroi në vend të tij.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "të nesërmen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "mbulesën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbulesën"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "dhe e zhyti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "dhe e shtriu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:57.618499430Z",
+  "model": "glm-5.3"
+}

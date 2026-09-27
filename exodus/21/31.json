@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Ose do të shpuajë një djalë, ose do të shpuajë një vajzë — sipas këtij gjykatit do t'i bëhet atij.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Ose"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "do të shpuajë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "בת",
+      "gloss": "një vajzë"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "do të shpuajë"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas gjykatit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëhet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndaj tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:09.397326245Z",
+  "model": "glm-5.3"
+}

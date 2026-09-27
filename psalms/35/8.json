@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "E gjen shkatërrimi pa e ditur ⟨ai⟩, dhe rrjeta që fshehu e kap ⟨atë⟩; në atë shkatërrim bie ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "E gjen"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "shkatërrimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e ditur"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "dhe rrjeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "fshehu"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "e kap"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "në shkatërrim"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.617538909Z",
+  "model": "glm-5.3"
+}

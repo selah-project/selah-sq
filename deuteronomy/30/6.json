@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Jahve, Elohim-i yt, do të rrethpresë ⟨את⟩ zemrën tënde dhe ⟨את⟩ zemrën e farës sate, për të dashur ⟨את⟩ Jahve, Elohim-in tënd, me gjithë zemrën tënde dhe me gjithë shpirtin tënd, për hir të jetës sate.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "dhe do të rrethpresë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën tënde"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "zemrën e farës sate"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "e farës sate"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "për të dashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim-in tënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jetës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:22.169369394Z",
+  "model": "glm-5.3"
+}

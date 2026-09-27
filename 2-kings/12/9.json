@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe priftërit ranë në udi të mos merrnin më argjend ⟨את⟩ nga populli, dhe të mos riparonin ⟨את⟩ çarjet e shtëpisë.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "dhe ranë në udi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "merrnin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ (nga)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "riparonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çarjet"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çarjet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:36.545112157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Mua ⟨את⟩ më çoi dhe më bëri të shkoj në errësirë, e jo në dritë.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Mua"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "më çoi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "më bëri të shkoj"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "në dritë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:19.448123154Z",
+  "model": "glm-5.3"
+}

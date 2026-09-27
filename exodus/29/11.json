@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do të therësh ⟨את⟩ demin para Jahves, në hyrje të Çadrës së Takimit.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "dhe do të therësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "në hyrje"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:03.371474425Z",
+  "model": "glm-5.3"
+}

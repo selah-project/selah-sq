@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Edhe nëse vërtet kam gabuar, gabimi im mbetet ⟨te⟩ ⟨më⟩.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "kam gabuar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "te më (gabimi mbetet me mua)"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "mbetet"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "gabimi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:00.951827246Z",
+  "model": "glm-5.3"
+}

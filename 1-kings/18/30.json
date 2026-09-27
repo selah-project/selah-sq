@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Elija i tha të gjithë popullit: «Afrohuni te unë.» Dhe iu afrua i gjithë populli te ai; dhe ai riparoi ⟨את⟩ altar-in e Jahves, ⟨atë⟩ që ishte rrënuar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe… i tha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Afrohuni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Dhe iu afrua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dhe riparoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar-in e Jahves"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar-in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "që ishte rrënuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:30.647471006Z",
+  "model": "glm-5.3"
+}

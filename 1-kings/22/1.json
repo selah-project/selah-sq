@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe uleshin ⟨ata⟩ tre vjet pa luftë ndërmjet Aramit dhe Izraelit.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "uleshin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ndërmjet"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe ndërmjet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:10.304470286Z",
+  "model": "glm-5.3"
+}

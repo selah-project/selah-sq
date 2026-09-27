@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe erdhën Ezekia dhe parët, dhe panë ⟨את⟩ grumbujt, dhe bekuan ⟨את⟩ Jahven dhe ⟨את⟩ popullin e tij, Izraelin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Dhe erdhën"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Ezekia"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "dhe parët"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dhe panë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grumbujt"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "grumbujt"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "dhe bekuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "popullin e tij, Izraelin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:12.826219162Z",
+  "model": "glm-5.3"
+}

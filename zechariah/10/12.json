@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe do t'i bëj të fortë në Jahve, dhe në emrin e tij do të ecin, thotë Jahve.",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "dhe do t'i bëj të fortë"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "dhe në emrin e tij"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "do të ecin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:48.803818919Z",
+  "model": "glm-5.3"
+}

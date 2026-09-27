@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 13:24",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Absalomi shkoi te mbreti dhe tha: Ja, të lutem, robi yt ka rroje dhentë; të vijë, të lutem, mbreti dhe robërit e tij me robin tënd.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "גזזים",
+      "gloss": "rroje dhentë"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "robi yt ka"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "të vijë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויעבדיו → ועבדיו",
+      "gloss": "dhe robërit e tij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:04.615503321Z",
+  "model": "glm-5.3"
+}

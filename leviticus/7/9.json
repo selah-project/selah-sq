@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe çdo ofertë-minha që piqet në furrë, dhe çdo gjë e përgatitur në tigan dhe në paell — priftit që e paraqet ⟨את⟩, për të do të jetë.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ofertë-minha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "piqet"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "në furrë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "e përgatitur"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "në tigan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "paell"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "që e paraqet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e paraqet (objekti: oferta-minha)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:13.443064401Z",
+  "model": "glm-5.3"
+}

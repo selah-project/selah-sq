@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe Jakobi e quajti ⟨את⟩ emrin e vendit ku foli ⟨me⟩ ⟨את⟩ atë atje Elohim: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e quajti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "të vendit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:38.767882397Z",
+  "model": "glm-5.3"
+}

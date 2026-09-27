@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Mbi duar do të të mbajnë lart, që të mos e godasësh këmbën tënde në gur.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mbi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "duar (pëllëmba)"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "do të të ngritin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "godasësh"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "në gur"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "këmbën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:53.442065330Z",
+  "model": "glm-5.3"
+}

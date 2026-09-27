@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Nga ⟨את⟩ të parëlindurit e bijve të Izraelit ai mori ⟨את⟩ argjendin: pesë dhe gjashtëdhjetë dhe treqind dhe një mijë, sipas siklit të shenjtërores.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "të parëlindurit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ai mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjendin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dhe gjashtëdhjetë"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dhe tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind (treqind)"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dhe një mijë"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sipas siklit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "të shenjtërores"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:00.082927087Z",
+  "model": "glm-5.3"
+}

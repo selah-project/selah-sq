@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jonatani e zhveshtri ⟨את⟩ mantelin që kishte ⟨mbathur⟩ dhe ia dha Davidit, edhe rrobat e tij të luftës, deri në shpatën e tij, deri në harkun e tij dhe deri në rrypin e tij.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "dhe e zhveshtri veten"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantelin"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "mantelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kishte ⟨mbathur⟩"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "dhe ia dha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "edhe rrobat e tij"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "shpatën e tij"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "harkun e tij"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "rrypin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:45.445031329Z",
+  "model": "glm-5.3"
+}

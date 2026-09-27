@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe tani Jahve le të bëjë me ju hesed dhe të vërtetë, dhe edhe unë do t'ju bëj ⟨אתכם⟩ këtë të mirë, sepse bëtë ⟨këtë⟩ veprim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "le të bëjë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe të vërtetë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (të mirën ndaj jush)"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "këtë të mirë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "bëtë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "veprimin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:03.620459004Z",
+  "model": "glm-5.3"
+}

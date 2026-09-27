@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Shumë thonë: «Kush do të na tregojë ⟨të⟩ mirën?» Ngri mbi ne dritën e fytyrës sate, Jahve.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "do të na tregojë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Ngri"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "e fytyrës sate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:44.591509281Z",
+  "model": "glm-5.3"
+}

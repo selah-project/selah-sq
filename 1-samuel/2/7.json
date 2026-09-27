@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Jahve bën të varfër dhe bën të pasur, ul poshtë dhe përsëri larton.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "bën të varfër"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "dhe bën të pasur"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ul poshtë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "dhe përsëri"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "larton"
+    }
+  ],
+  "timestamp": "2026-09-27T15:09:55.842332472Z",
+  "model": "glm-5.3"
+}

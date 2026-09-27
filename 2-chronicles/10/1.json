@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe shkoi Roboami në Sikem, sepse në Sikem kishin ardhur gjithë Izraeli për ta bërë atë mbret ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Roboami"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "në Sikem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "në Sikem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kishin ardhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "për ta bërë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:52.171608111Z",
+  "model": "glm-5.3"
+}

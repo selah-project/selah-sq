@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Mizmor i Davidit. Jahve, të kam thirrur — ngutmu drejt meje; vëri veshin zërit tim, kur të thërres.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "të kam thirrur"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ngutmu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "vëri veshin"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërit tim"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kur të thërres"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:23.239867238Z",
+  "model": "glm-5.3"
+}

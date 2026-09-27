@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Le t'i presë Jahve të gjitha buzët e lëmuara, ⟨את⟩ gjuhën që flet gjëra të mëdha.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Le t'i presë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "e lëmuara"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuhën"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "që flet"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gjëra të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:54.931415913Z",
+  "model": "glm-5.3"
+}

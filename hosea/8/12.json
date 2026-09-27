@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "I shkrova atij mijëra rregulla të Torës sime, por u llogaritën si gjë e huaj.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "i shkrova"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "mijëra"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "rregulla të Torës sime"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "זר",
+      "gloss": "gjë e huaj"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "u llogaritën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:07.920718401Z",
+  "model": "glm-5.3"
+}

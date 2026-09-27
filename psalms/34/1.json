@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "I Davidit, kur ndryshoi sjelljen e tij ⟨את⟩ para Avimelekut, dhe ai e dëboi dhe ai iku.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "kur ndryshoi sjelljen e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjelljen e tij"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "sjelljen e tij (të penguarit e tij)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekut"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "dhe e dëboi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe iku"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:31.915997053Z",
+  "model": "glm-5.3"
+}

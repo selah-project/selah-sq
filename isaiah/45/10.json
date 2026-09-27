@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Mjerë ai që i thotë atit: «Çfarë po lind?» dhe gruas: «Çfarë po sjell në jetë?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "që i thotë"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "atit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "po lind"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "dhe gruas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "po sjell në jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:21.585313503Z",
+  "model": "glm-5.3"
+}

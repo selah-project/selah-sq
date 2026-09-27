@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe erdhi Moisi dhe foli ⟨את⟩ të gjitha fjalët e kësaj kënge në veshët e popullit, ai dhe Hoshea, bir i Nunit.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dhe erdhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e kësaj kënge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "e kësaj kënge"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "në veshët"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "dhe Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נון",
+      "gloss": "i Nunit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:59.759153766Z",
+  "model": "glm-5.3"
+}

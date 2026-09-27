@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvdojeni atë, o diell dhe hënë; lëvdojeni atë, të gjithë yjet e dritës.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dhe hënë"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "yjet"
+    },
+    {
+      "surface": "אור",
+      "gloss": "e dritës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:11.565306255Z",
+  "model": "glm-5.3"
+}

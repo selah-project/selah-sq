@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Elohim foli ⟨את⟩ të gjitha fjalët这些 këto, duke thënë:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:17.648260769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Tek ti, o Jahve, jam strehuar; të mos turpërohem kurrë ⟨përjetë⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "tek ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jam strehuar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "turpërohem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kurrë ⟨përjetë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:08.712262797Z",
+  "model": "glm-5.3"
+}

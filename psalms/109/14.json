@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Le të kujtohet paudhësia e etërve të tij te Jahve, dhe mëkati i nënës së tij të mos fshihet.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "le të kujtohet"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësia"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "e etërve të tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "dhe mëkati"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "i nënës së tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "fshihet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:38.161949841Z",
+  "model": "glm-5.3"
+}

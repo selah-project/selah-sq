@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Më fal mua, o Jahve, se jam në ngushticë; syri im është shterur nga hidhërimi, po edhe shpirti im dhe barku im.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "më fal mua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "צר",
+      "gloss": "jam në ngushticë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "është shterur"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "nga hidhërimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "dhe barku im"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.959447246Z",
+  "model": "glm-5.3"
+}

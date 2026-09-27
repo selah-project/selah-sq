@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Jahve tha: Do të fshij ⟨את⟩ njeriun që kam krijuar nga përballë tokës, nga njeriu deri te bagëtia, deri te zvarraniku e deri te shpendët e qiellit, sepse më vjen keq që i bëra ata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "do të fshij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kam krijuar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bagëtia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvarraniku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri te"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shpendët"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "e qiellit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "më vjen keq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "i bëra ata"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:21.092764162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Ti më bën të njoh rrugën e jetës; ngopje gëzimesh ⟨is⟩ me ⟨את⟩ fytyrën tënde, kënaqësi në të djathtën tënde për gjithmonë.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Ti më bën të njoh"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "e jetës"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ngopje"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "gëzimesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "me ⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "kënaqësi"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "në të djathtën tënde"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "për gjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:40.962731327Z",
+  "model": "glm-5.3"
+}

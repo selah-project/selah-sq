@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ruani ⟨את⟩ kujdesin tim, duke mos bërë asnjë nga statute të neveritshme që u bënë përpara jush, dhe mos u ndotni me to; unë jam Jahve, Elohim-i juaj.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujdesin tim"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "kujdesin tim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "duke mos"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "bërë"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "asnjë nga statute"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "të neveritshme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "u bënë"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "përpara jush"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "u ndotni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-i juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:09.914818193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Do të ngopen me shëndetësinë e shtëpisë sate, dhe nga përroi i kënaqësive të tua do t'i bësh të pinë.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "do të ngopen"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "me shëndetësi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e shtëpisë sate"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "dhe nga përroi"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "i kënaqësive të tua"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "do t'i bësh të pinë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:07.879473687Z",
+  "model": "glm-5.3"
+}

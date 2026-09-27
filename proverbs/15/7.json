@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Buza e të urtëve shpërndan njohurinë, por zemra e të pamëditurve nuk ⟨është⟩ ashtu.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "buza"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "e të urtëve"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "shpërndan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "njohurinë"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "por zemra"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "e të pamëditurve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:10.835431637Z",
+  "model": "glm-5.3"
+}

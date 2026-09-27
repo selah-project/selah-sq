@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Psalm i Davidit. Jahve ⟨është⟩ bariu im — nuk do të më mungojë asgjë.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "bariu im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "do të më mungojë asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:34.948764325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Dhe do t'i përgjigjem një fjalë atij që më nëpërkëmbet, sepse e kam mbështetur fjalën ⟨tënde⟩.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "dhe do t'i përgjigjem"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "atij që më nëpërkëmbet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "një fjalë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "e kam mbështetur"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "në fjalën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:09.469016647Z",
+  "model": "glm-5.3"
+}

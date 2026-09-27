@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 125,
+  "translation": "Bëj mirë, o Jahve, të mirëve dhe të drejtëve në zemrat e tyre.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Bëj mirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "të mirëve"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "dhe të drejtëve"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "në zemrat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.500095794Z",
+  "model": "glm-5.3"
+}

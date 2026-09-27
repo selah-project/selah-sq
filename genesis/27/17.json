@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Ajo i dha ⟨את⟩ pjekjet e shijshme dhe ⟨את⟩ bukën që kishte përgatitur, në dorën e Jakobit, birit të saj.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjekjet e shijshme"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "pjekjet e shijshme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bukën"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kishte përgatitur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "birit të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:04.842749119Z",
+  "model": "glm-5.3"
+}

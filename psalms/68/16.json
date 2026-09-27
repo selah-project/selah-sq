@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Mal i Elohim është mali i Bashanit, mal me maja të larta është mali i Bashanit.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Mal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "i Bashanit"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "me maja të larta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "i Bashanit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:06.058752487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numërituarit e tij ⟨isnin⟩ gjashtë e dyzet mijë e pesëqind.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "dhe të numërituarit e tij"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e dyzet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e pesë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:49.748682994Z",
+  "model": "glm-5.3"
+}

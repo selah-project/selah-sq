@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Fundi i çështjes: të gjitha janë dëgjuar — druaju ⟨את⟩ Elohim-it dhe kujto ⟨את⟩ urdhërimet e tij, sepse kjo është e tëra e njeriut.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Fundi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i çështjes"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "janë dëgjuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-it"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "druaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "urdhërimet e tij"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "urdhërimet e tij"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "kujto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e tëra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "e njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:46.469417869Z",
+  "model": "glm-5.3"
+}

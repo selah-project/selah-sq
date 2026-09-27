@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Në ditën e parë do të keni një ftesë të shenjtë; çdo punë shërbimi të mos bëni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ftesë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "punë"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "shërbimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "të bëni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:50.536843824Z",
+  "model": "glm-5.3"
+}

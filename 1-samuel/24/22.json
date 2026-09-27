@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe tani betomu për ⟨në⟩ Jahve se nuk do të shkëpusësh ⟨את⟩ pasardhësit e mi pas meje, dhe se nuk do të zhdukësh ⟨את⟩ emrin tim nga shtëpia e atit tim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "betomu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "për ⟨në⟩ Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "do të shkëpusësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasardhësit e mi"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "pasardhësit e mi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas meje"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe se"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "do të zhdukësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tim"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrin tim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "e atit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:16.439016885Z",
+  "model": "glm-5.3"
+}

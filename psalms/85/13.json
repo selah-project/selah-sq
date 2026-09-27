@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Edhe Jahve do të japë ⟨të⟩ mirën, dhe toka jonë do të japë frytin e saj.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨të⟩ mirën"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "dhe toka jonë"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "frytin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:55.195992692Z",
+  "model": "glm-5.3"
+}

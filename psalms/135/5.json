@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Sepse unë e di se i madh është Jahve, dhe Adonai ynë ⟨është⟩ mbi të gjithë elohimët.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "dhe Adonai ynë"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjithë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:11.326252765Z",
+  "model": "glm-5.3"
+}

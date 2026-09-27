@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe mbreti i shtriu Esterit ⟨את⟩ skeptërín e artë; dhe Esteri u ngrit dhe qëndroi para mbretit.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "i shtriu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skeptërín e artë"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "skeptërín"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "të artë"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:40.068117536Z",
+  "model": "glm-5.3"
+}

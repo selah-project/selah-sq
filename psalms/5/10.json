@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse nuk ka ⟨asgjë⟩ të qëndrueshme në gojën e tyre; brendësia e tyre ⟨është⟩ shkatërrim; varr i hapur ⟨është⟩ gryka e tyre; me gjuhën e tyre bëjnë fjalë të lëmuara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "në gojën e tyre"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "të qëndrueshme"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "brendësia e tyre"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "shkatërrim"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "varr"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "i hapur"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "gryka e tyre"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuhën e tyre"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "bëjnë fjalë të lëmuara"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:27.379892601Z",
+  "model": "glm-5.3"
+}

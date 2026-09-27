@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe do ta kthej ⟨את⟩ Izraelin në kullotën e tij, dhe do të kullosë në Karmel dhe në Bashan, dhe në malin e Efraimit dhe në Gilead do të ngopet shpirti i tij.",
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "do ta kthej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "kullotën e tij"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "do të kullosë"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "në Karmel"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "dhe në Bashan"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "dhe në malin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "të Efraimit"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "dhe në Gilead"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "do të ngopet"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirti i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:23:29.506264529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Davidi i tha Saulit: «Pse dëgjon ⟨את⟩ fjalët e njerëzve që thonë: Ja, Davidi kërkon të keqen tënde?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "e njerëzve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "që thonë"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "kërkon"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "të keqen tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:35.350189610Z",
+  "model": "glm-5.3"
+}

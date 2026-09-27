@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe Adonai u zgjua si një i fjetur, si një trim që ulërin nga vera.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "dhe u zgjua"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "si një i fjetur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "si një trim"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "që ulërin"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "nga vera"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:56.833718138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Jahve do të të ruajë nga çdo e keqe: ai do të ruajë ⟨את⟩ shpirtin tënd.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "do të të ruajë"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga çdo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "do të ruajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin tënd"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:55.180277004Z",
+  "model": "glm-5.3"
+}

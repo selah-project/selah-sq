@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Kur ishin vetëm njerëz të pakët në numër, pothuaj të paktë, dhe të huaj në të.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "kur ishin"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "njerëz"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "të pakët në numër"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pothuaj të paktë"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "dhe të huaj"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:04.820855160Z",
+  "model": "glm-5.3"
+}

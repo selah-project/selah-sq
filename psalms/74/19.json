@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Mos e dorëzo shpirtin e turtullit tënd egërsisë; kopenë e të varfërve të tu mos e harro përjetë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "e dorëzo"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "egërsisë"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "e turtullit tënd"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kopenë"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "e të varfërve të tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "e harro"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:22.216973792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe një njeri e pa ⟨את⟩ dhe i njoftoi Joabit, dhe tha: Ja, pashë ⟨את⟩ Avshalomin të varur në lis.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe e pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i njoftoi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joabit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalomin"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "të varur"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "në lis"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:11.801678751Z",
+  "model": "glm-5.3"
+}

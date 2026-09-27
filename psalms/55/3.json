@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Vër mi veshin dhe më përgjigju-mua; jam-i-shqetësuar në ankimimin tim dhe ulërij.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "vër mi veshin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dhe më përgjigju"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "jam-i-shqetësuar"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "në ankimimin tim"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "dhe ulërij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:15.524168425Z",
+  "model": "glm-5.3"
+}

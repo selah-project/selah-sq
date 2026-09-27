@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Përmenda ditët e dikurshme, vitet e shekujve të lashtë.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "përmenda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "e dikurshme"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "vitet"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "të shekujve të lashtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:56.611891224Z",
+  "model": "glm-5.3"
+}

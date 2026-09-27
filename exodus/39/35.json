@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "⟨את⟩ Arkën e dëshmisë dhe ⟨את]] shufrat e saj, dhe ⟨את⟩ kapakun e shpengimit.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën e dëshmisë"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Arkën"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "e dëshmisë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shufrat e saj"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "shufrat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kapakun e shpengimit"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapakun e shpengimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:38.499974528Z",
+  "model": "glm-5.3"
+}

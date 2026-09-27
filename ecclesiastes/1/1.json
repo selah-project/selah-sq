@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Fjalët e Koheletit, birit të Davidit, mbretit në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Fjalët"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheletit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "të Davidit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:09.103435661Z",
+  "model": "glm-5.3"
+}

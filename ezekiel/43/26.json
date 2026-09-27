@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Shtatë ditë do të pajtojnë ⟨את⟩ altarit dhe do ta pastrojnë ⟨את⟩-at, dhe do ta mbushin dorën e tij.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "do të pajtojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "dhe do ta pastrojnë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-at e tij",
+      "marks": "altarit"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe do ta mbushin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:40:22.525935791Z",
+  "model": "glm-5.3"
+}

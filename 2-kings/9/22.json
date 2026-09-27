@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ndodhi që, kur Jhorami pa ⟨את⟩ Jehun, tha: «A paqë, Jehu?» Dhe ai tha: «Çfarë paqe, deri sa kurorëshkeljet e Izebelit, nëna e tide, dhe shumë magjitë e saj?»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi që"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kur… pa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jhorami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "A paqë"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe… tha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "paqe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "kurorëshkeljet"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "e Izebelit"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nëna e tide"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "dhe magjitë e saj"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "të shumta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:56.189901030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Por nëse nuk dëgjoni zërin e Jahvesë dhe e shkelni ⟨את⟩ gojën e Jahvesë, atëherë dora e Jahvesë do të jetë kundër jush dhe kundër etërve tuaj.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Por nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "dhe e shkelni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kundër jush"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "dhe kundër etërve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:35.708650411Z",
+  "model": "glm-5.3"
+}

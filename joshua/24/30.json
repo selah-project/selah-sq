@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe e varrosën ⟨את⟩ atë në kufirin të trashëgimisë së tij, në Timnat-Serah, që ⟨është⟩ në malin e Efraimit, në veri të malit Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Jozuen (_OBJ)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "në kufirin"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "të trashëgimisë së tij"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "në Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "e Efraimit"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "në veri"
+    },
+    {
+      "surface": "להר",
+      "gloss": "të malit"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaash"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:39.934739140Z",
+  "model": "glm-5.3"
+}

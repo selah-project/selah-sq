@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Mos harro zërin e kundërshtarëve të tu, zhurmën e atyre që ngrihen kundër teje, që ngjitet vazhdimisht.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "harro"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "e kundërshtarëve të tu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "zhurmën"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "e atyre që ngrihen kundër teje"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngjitet"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:56.814170349Z",
+  "model": "glm-5.3"
+}

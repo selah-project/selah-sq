@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe tani do t'ju bëj të ditur, ju lutem, ⟨את⟩ atë që unë po bëj me vreshtin tim: do ta heq gardhin e tij dhe do të jetë për djegien; do ta shpuj murin e tij dhe do të jetë për shkeljen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "do t'ju bëj të ditur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ju lutem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që unë po bëj me vreshtin tim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "po bëj"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "me vreshtin tim"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "do ta heq"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "gardhin e tij"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "për djegien"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "do ta shpuj"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "murin e tij"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "për shkeljen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:11.308396242Z",
+  "model": "glm-5.3"
+}

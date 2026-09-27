@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 113,
+  "translation": "Nga lindja e diellit deri në perëndimin e tij, i lëvduar është emri i Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Nga lindja"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "e diellit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "perëndimin e tij"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "i lëvduar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:58.793971857Z",
+  "model": "glm-5.3"
+}

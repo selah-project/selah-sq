@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Dhe Ai bëri ⟨את⟩ popullin e tij shumë të shumtë, dhe i bëri më të fortë se shtypësit e tij.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "dhe e bëri shumë të frytshëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "dhe e bëri më të fortë"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "se shtypësit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:37.203899386Z",
+  "model": "glm-5.3"
+}

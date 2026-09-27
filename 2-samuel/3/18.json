@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani bëjeni, sepse Jahve foli Davidit, duke thënë: Me dorën e Davidit, shërbëtorit tim, do të shpëtoj ⟨את⟩ popullin tim Izraelin nga dora e filistejve dhe nga dora e të gjithë armiqve të tyre.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bëjeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorën"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorit tim"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "do të shpëtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim Izraelin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dhe nga dora e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "armiqve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:49.803792303Z",
+  "model": "glm-5.3"
+}

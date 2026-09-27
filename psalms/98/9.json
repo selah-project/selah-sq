@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Para Jahvesë, sepse ⟨ai⟩ vjen të gjykojë ⟨të⟩ ⟨tokën⟩; ⟨ai⟩ do të gjykojë botën me drejtësi dhe popujt me ndershmëri.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "të gjykojë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ ⟨tokën⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botën"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "dhe popujt"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "me ndershmëri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:55.048751935Z",
+  "model": "glm-5.3"
+}

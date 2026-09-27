@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe ti, o Jahve, më shfaq meshirë dhe më ngre, dhe unë do t'u shpërblej ata.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "më shfaq meshirë"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "dhe më ngre"
+    },
+    {
+      "surface": "ו אשלמה",
+      "gloss": "dhe unë do të shpërblej"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:44.440218971Z",
+  "model": "glm-5.3"
+}

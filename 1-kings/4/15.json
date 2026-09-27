@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ahimaatsi, në Neftali; edhe ai mori ⟨את⟩ Bashemathin, bijë të Salomonit, për grua.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaatsi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "në Neftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashemathin"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemathin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "të Salomonit"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:23.346955347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Samueli tha: E pse më pyet, kurse Jahve është larguar nga ti dhe është bërë armiku yt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e pse"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "më pyet"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "סר",
+      "gloss": "është larguar"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "nga ti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe është bërë"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "armiku yt"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:23.529404002Z",
+  "model": "glm-5.3"
+}

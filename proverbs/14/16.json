@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "I urti frikësohet dhe shmanget nga e keqja, por i marri kapërcen ⟨kufirin⟩ dhe ⟨ec⟩ i sigurt.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "i urti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frikësohet"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dhe shmanget"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nga e keqja"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "por i marri"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "kapërcen"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "dhe i sigurt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:48.593246201Z",
+  "model": "glm-5.3"
+}

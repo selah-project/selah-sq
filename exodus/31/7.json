@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "⟨את⟩ çadrën e takimit, dhe ⟨את⟩ arkën e dëshmisë, dhe ⟨את⟩ kaportun që ⟨ësht⟩ mbi të, dhe ⟨את⟩ të gjitha veglat e çadrës —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrën"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "e dëshmisë"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kafortin"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafortin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "veglat"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "e çadrës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:07.530682745Z",
+  "model": "glm-5.3"
+}

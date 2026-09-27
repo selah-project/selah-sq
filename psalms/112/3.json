@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "Pasuri dhe begati ⟨janë⟩ në shtëpinë e tij, dhe drejtësia e tij qëndron përjetë.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Pasuri"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dhe begati"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "në shtëpinë e tij"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dhe drejtësia e tij"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.287117297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Dhe mos e hiq ⟨krejt⟩ nga goja ime fjalën e së vërtetës, sepse në gjykimet e tua kam shpresuar.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "e hiq"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "nga goja ime"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të së vërtetës"
+    },
+    {
+      "surface": "עד",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(krejt)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "në gjykimet e tua"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "kam shpresuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:09.469178343Z",
+  "model": "glm-5.3"
+}

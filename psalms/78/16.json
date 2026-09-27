@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "dhe nxorri rrjedhje nga shkëmbi, dhe zbriti ujërat si lumenj.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxorri"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "rrjedhje"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "nga shkëmbi"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "si lumenj"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:41.478219543Z",
+  "model": "glm-5.3"
+}

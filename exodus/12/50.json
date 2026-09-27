@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe bënë të gjithë bijtë e Izraelit ashtu siç urdhëroi Jahve ⟨את⟩ Moisiun dhe ⟨את⟩ Aaronin; ashtu bënë.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dhe bënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:31.715465081Z",
+  "model": "glm-5.3"
+}

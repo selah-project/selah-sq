@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "dhe rreshtoi mbi të një rresht bukë para Jahvesë, siç urdhëroi Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "dhe rreshtoi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "një rresht"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:37.525519895Z",
+  "model": "glm-5.3"
+}

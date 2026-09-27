@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨ai⟩ tha: «Nesër». Dhe tha: «Sipas fjalës sate — që të dish se nuk ka ⟨asnë⟩ si Jahve, Elohim i ynë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ⟨ai⟩ tha"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Nesër"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sipas fjalës sate"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "të dish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka ⟨asnë⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "si Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:29.575591788Z",
+  "model": "glm-5.3"
+}

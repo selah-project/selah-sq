@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Le të shohin të përulurit dhe të gëzohen; ju që kërkoni Elohim, zemra juaj le të jetë!",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "le të shohin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "të gëzohen"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "ju që kërkoni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "le të jetë"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zemra juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:54.248197115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe i tha Engjëlli i Jahves: Shumë do ta shumoj ⟨את⟩ pasardhësin tënd, dhe nuk do të numërohet nga shumësia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Engjëlli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahves"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "do ta shumoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasardhësin tënd"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pasardhësin tënd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "do të numërohet"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nga shumësia"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:48.719030283Z",
+  "model": "glm-5.3"
+}

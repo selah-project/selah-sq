@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨את⟩ lëkurën e demit, dhe ⟨את⟩ të gjithë mishin e tij, mbi kokën e tij dhe mbi këmbët e tij, dhe të brendshmet e tij dhe jashtëqitjen e tij,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lëkurën"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lëkurën"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "e demit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë mishin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishin e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "këmbët e tij"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "dhe të brendshmet e tij"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "dhe jashtëqitjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:56.761283653Z",
+  "model": "glm-5.3"
+}

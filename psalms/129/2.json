@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 129,
+  "translation": "shumë herë më kanë ngjeshur nga rinia ime, por nuk më kanë mundur.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "shumë herë"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "më kanë ngjeshur"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "nga rinia ime"
+    },
+    {
+      "surface": "גם",
+      "gloss": "por"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "më kanë mundur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:15.128198312Z",
+  "model": "glm-5.3"
+}

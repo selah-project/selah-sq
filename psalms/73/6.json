@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Prandaj krenaria u vjen atyre si gjerdan, dhe dhuna i mbulon si një petk.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Prandaj"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "u vjen si gjerdan"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "krenaria"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "i mbulon"
+    },
+    {
+      "surface": "שית",
+      "gloss": "si petk"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhuna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:55.643030558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të bësh pjatat e tij, kupat e tij, mbulesat e tij dhe enët e tij të derdhjes, me të cilat derdhet; me ar të pastër do t'i bësh ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dhe do të bësh"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "pjatat e tij"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "kupat e tij"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "mbulesat e tij"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "enët e tij të derdhjes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilat"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "derdhet"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "me to"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i (pjatat, kupat, mbulesat, enët)"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:12.906693606Z",
+  "model": "glm-5.3"
+}

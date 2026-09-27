@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Çdo njeri nga shtëpia e Izraelit që ther një ka, ose një dele, ose një dhie, brenda në kamp, ose që ther jashtë kampit,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ther"
+    },
+    {
+      "surface": "שור",
+      "gloss": "një ka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "një dele"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עז",
+      "gloss": "një dhie"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "brenda në kamp"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ther"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:03.233190565Z",
+  "model": "glm-5.3"
+}

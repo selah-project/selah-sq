@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Juda do të banojë përjetë, dhe Jeruzalemi brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "do të banojë"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jeruzalemi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:12.370055129Z",
+  "model": "glm-5.3"
+}

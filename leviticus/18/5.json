@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Do t'i ruani ⟨את⟩ statutet e mia dhe ⟨את⟩ vendimet e mia, që njeriu t'i bëjë ⟨את⟩ ato dhe të jetojë nëpërmjet tyre; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Do t'i ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e mia"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vendimet e mia"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "vendimet e mia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "t'i bëjë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ato (statutet dhe vendimet)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dhe të jetojë"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nëpërmjet tyre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:20.475561830Z",
+  "model": "glm-5.3"
+}

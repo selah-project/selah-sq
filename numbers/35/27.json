@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe e gjen ⟨את⟩ atë shpenguesi i gjakut jashtë kufirit të qytetit të strehimit të tij, dhe shpenguesi i gjakut vret ⟨את⟩ vrasësin — nuk ka gjak për të.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "dhe e gjen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "shpenguesi i gjakut e gjen vrasësin"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpenguesi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "i gjakut"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "kufirit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "të strehimit të tij"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "dhe vret"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpenguesi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "i gjakut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrasësin"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vrasësi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjak"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:32.229990192Z",
+  "model": "glm-5.3"
+}

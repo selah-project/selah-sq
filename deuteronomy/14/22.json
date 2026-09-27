@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Ndaqdija do të ndajdhjetësh ⟨את⟩ të gjithë frytin e farës sate, atë që del nga fusha, vit për vit.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Ndaqdija"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "do të ndajdhjetësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë frytin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "frytin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "e farës sate"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "që del"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nga fusha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "për vit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:32.023074975Z",
+  "model": "glm-5.3"
+}

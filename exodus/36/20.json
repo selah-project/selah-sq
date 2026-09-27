@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe bëri ⟨את⟩ dërrasat për Mishkanin, drur akacie, në këmbë.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dërrasat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dërrasat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "për Mishkanin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drur"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "në këmbë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:04.780300213Z",
+  "model": "glm-5.3"
+}

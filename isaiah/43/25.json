@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Unë, unë ⟨jam⟩ ai që i fshij kryengritjet e tua për hir të vetes sime, dhe mëkatet e tua nuk do t'i kujtoj.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "i fshij"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "kryengritjet e tua"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "për hir të vetes sime"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "dhe mëkatet e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "do t'i kujtoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:40.278903893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Davidi mblodhi ⟨את⟩ të gjithë popullin dhe shkoi në Rabahun, dhe luftoi kundër saj, dhe e pushtoi atë.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "dhe mblodhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "në Rabah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "dhe luftoi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kundër saj"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "dhe e pushtoi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:17.737040167Z",
+  "model": "glm-5.3"
+}

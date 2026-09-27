@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Nëse bijtë e tij e lënë Torën time dhe në gjykimet e mia nuk ecin,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "e lënë"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torën time"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "dhe në gjykimet e mia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ecin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:38.745405978Z",
+  "model": "glm-5.3"
+}

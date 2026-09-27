@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të fusësh ⟨את⟩ shkopinjtë në unazat mbi anët e Arkës, për të mbartur ⟨את⟩ Arkën me ta.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "dhe do të fusësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopinjtë"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shkopinjtë"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "në unazat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "anët"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "të Arkës"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për të mbartur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arkën"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me ta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:49.905116820Z",
+  "model": "glm-5.3"
+}

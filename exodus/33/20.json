@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Ai tha: Nuk mund të shohësh ⟨את⟩ fytyrën time, sepse nuk më sheh njeriu dhe jeton.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "të shohësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "më sheh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dhe jeton"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:45.433730139Z",
+  "model": "glm-5.3"
+}

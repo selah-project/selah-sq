@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "I nëmiku përfundoi — gërmadha për fundmi; dhe qytetet i rrënove, kujtimi i tyre humbi bashkë me ta.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "i nëmiku"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "përfundoi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "gërmadha"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "për fundmi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "dhe qytetet"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "i rrënove"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "humbi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kujtimi i tyre"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bashkë me ta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:50.357306857Z",
+  "model": "glm-5.3"
+}

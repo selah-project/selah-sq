@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Ditën Jahve do të urdhërojë hesed-in e tij, dhe natën një këngë ⟨është⟩ me mua — një lutje drejt El-it të jetës sime.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "do të urdhërojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-in e tij"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "dhe natën"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lutje"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "për El-in"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "të jetës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:03.563256296Z",
+  "model": "glm-5.3"
+}

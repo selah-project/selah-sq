@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Ja, në paudhësi u lindja, dhe në mëkat më mbeti në bark nëna ime.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "në paudhësi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "u lindja"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "dhe në mëkat"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "më mbeti në bark"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nëna ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:46.791173257Z",
+  "model": "glm-5.3"
+}

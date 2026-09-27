@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Flijime të djegura me dhjamë do të të ngjiz me tymi i dashisë; do të bëj de me cjep. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "Flijime të djegura"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "me dhjamë"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "do të ngjiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tymi i"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dashisë"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "עתודIM",
+      "gloss": "cjep"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:07.952803211Z",
+  "model": "glm-5.3"
+}

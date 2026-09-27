@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "O Izrael, beso në Jahve — ndihma e tyre dhe mburoja e tyre është Ai.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "beso"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ndihma e tyre"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "dhe mburoja e tyre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:01.864526191Z",
+  "model": "glm-5.3"
+}

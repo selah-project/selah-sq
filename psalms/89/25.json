@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Besueshmëria ime dhe hesed-i im ⟨do të jenë⟩ me të, dhe në emrin tim bri i tij ⟨do të⟩ ngrihet.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Besueshmëria ime"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "dhe hesed-i im"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "dhe në emrin tim"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "⟨do të⟩ ngrihet"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "bri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.099266495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 29:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Sepse kështu ka thënë Jahve: Kur të plotësohen për Babiloninë shtatëdhjetë vjet, do t'ju vizitoj ⟨אתכם⟩ dhe do të ngre mbi ju fjalën time të mirë, për t'ju kthyer ⟨אתכם⟩ në këtë vend.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sipas plotësimit"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "të plotësohen"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "për Babiloninë"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "shtatëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "do t'ju vizitoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "juve (objekt i vizitës)"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "do të ngre"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën time të mirë"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalën time"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "për t'ju kthyer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "juve (objekt i kthimit)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:20.092128620Z",
+  "model": "glm-5.3"
+}

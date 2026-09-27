@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dëshmitari i besueshëm nuk gënjen, por dëshmitari i rrejshëm përfshin gënjeshtëra.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dëshmitari"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "i besueshëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "gënjen"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "por përfshin"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "gënjeshtëra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dëshmitari"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "i rrejshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:53.170923179Z",
+  "model": "glm-5.3"
+}

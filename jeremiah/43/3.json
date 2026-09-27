@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "por Baruku, bir i Nerijasë, po të nxit ⟨אתך⟩ kundër nesh, që të na dorëzojë ⟨אתנו⟩ në dorën e Kaldeasve, për të na vrarë ⟨אתנו⟩ dhe për të na deportuar ⟨אתנו⟩ në Babilon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerijasë"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "po të nxit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ti (Jeremiahai)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kundër nesh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "תת",
+      "gloss": "na dorëzojë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën e"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kaldeasve"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "për të vrarë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "dhe për të deportuar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "në Babilon"
+    }
+  ],
+  "timestamp": "2026-09-27T16:21:23.415533254Z",
+  "model": "glm-5.3"
+}

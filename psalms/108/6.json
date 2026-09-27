@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Ngrihu lart mbi ⟨qiellin⟩, o Elohim, dhe mbi gjithë ⟨tokën⟩ lavdia jote.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ngrihu lart"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiellin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "lavdia jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:17.429349995Z",
+  "model": "glm-5.3"
+}

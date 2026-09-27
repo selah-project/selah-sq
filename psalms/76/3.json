@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Dhe ⟨ishte⟩ në Shalem kasollja e tij, dhe banesa e tij në Zion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ⟨ishte⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "në Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "kasollja e tij"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "dhe banesa e tij"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Zion"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:04.620253362Z",
+  "model": "glm-5.3"
+}

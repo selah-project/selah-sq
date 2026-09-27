@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe njeriu shtrihet dhe nuk ngrihet; derisa qiejt të mos jenë më, nuk do të zgjohen dhe nuk do të çilen nga gjumi i tyre.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe njeriu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "shtrihet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngrihet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mos jenë më"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "do të zgjohen"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "dhe nuk",
+      "note": "surface is ולא"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "do të çilen"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "nga gjumi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:42.010534292Z",
+  "model": "glm-5.3"
+}

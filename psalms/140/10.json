@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Kryet e atyre që më rrethojnë — mundimi i buzëve të tyre ⟨i mbuloftë⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Kryet"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "më rrethojnë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundimi"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "buzëve të tyre"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "i mbuloftë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:51.608318818Z",
+  "model": "glm-5.3"
+}

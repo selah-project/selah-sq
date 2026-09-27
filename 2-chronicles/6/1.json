@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Atëherë Salomoni tha: «Jahve tha të banonte në errësirën e trashë.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "të banonte"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "në errësirën e trashë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:48.047074256Z",
+  "model": "glm-5.3"
+}

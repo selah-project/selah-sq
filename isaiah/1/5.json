@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Përse do të goditeni edhe më? Do të shtoni ⟨edhe⟩ më kryengritje! I gjithë koka ⟨është⟩ e sëmurë dhe i gjithë zemra ⟨është⟩ e dërmuar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "përse (mbi çfarë)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "do të goditeni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edje më"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "do të shtoni"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "kryengritje (shkëputje)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "koka"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "e sëmurë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe i gjithë"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "e dërmuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:58.672053136Z",
+  "model": "glm-5.3"
+}

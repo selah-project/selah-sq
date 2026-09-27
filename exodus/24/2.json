@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe do t'i afrohet Moisi vetëm ai të Jahves, por ata nuk do të afrohen; dhe populli nuk do të ngjitet me të.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "dhe do t'i afrohet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm ai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "por ata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "do të afrohen"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dhe populli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "do të ngjitet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:33.079534096Z",
+  "model": "glm-5.3"
+}

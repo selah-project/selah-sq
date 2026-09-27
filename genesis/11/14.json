@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Shelahu jetoi tridhjetë vjet, dhe lindi ⟨את⟩ Eberin.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Dhe Shelahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jetoi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:36.198165954Z",
+  "model": "glm-5.3"
+}

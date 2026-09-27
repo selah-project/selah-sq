@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Do të hanë të përulurit dhe do të ngopën; do të lëvdojnë Jahve ata që e kërkojnë atë; jeta juaj e zemrës përjetë!",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hanë"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "dhe do të ngopën"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "do të lëvdojnë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "ata që e kërkojnë atë"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "jetë!"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zemra juaj"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:29.751981804Z",
+  "model": "glm-5.3"
+}

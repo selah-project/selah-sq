@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Vetëm ai ⟨është⟩ shkëmbi im dhe shpëtimi im, vendi im i lartë i strehimit; nuk do të lëkundem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "dhe shpëtimi im"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "vendi im i lartë i strehimit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "do të lëkundem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.649887565Z",
+  "model": "glm-5.3"
+}

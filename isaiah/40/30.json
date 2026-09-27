@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Edhe të rinjtë do të lodhen dhe do të shterrojnë, dhe djalët e rinj do të rrëzohen krejt.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "do të lodhen"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "të rinjtë"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "dhe do të shterrojnë"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "dhe djalët e rinj"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "krejt (rrëzim)"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "do të rrëzohen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:20.994402726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Ai dërgoi shigjetat e Tij dhe i shpërndau ⟨ata⟩; dhe rrufe të dendura dhe i shqyen ⟨ata⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dhe dërgoi"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "shigjetat e Tij"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "dhe i shpërndau"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "dhe rrufe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "të dendura"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "dhe i shqyen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:07.680741685Z",
+  "model": "glm-5.3"
+}

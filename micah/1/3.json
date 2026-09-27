@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse ja, Jahve po del nga vendi i tij, dhe do të zbresë dhe do të shkelë mbi vendet e larta të tokës.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "po del"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "nga vendi i tij"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe do të zbresë"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "dhe do të shkelë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "vendeth e larta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:49.392766088Z",
+  "model": "glm-5.3"
+}

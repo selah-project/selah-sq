@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Dhe në Emrin e Jahves thirra: Të lutem, o Jahve, shpëtoje shpirtin tim!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "dhe në Emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "thirra"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Të lutem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "shpëtoje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:18.190706489Z",
+  "model": "glm-5.3"
+}

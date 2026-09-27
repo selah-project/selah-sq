@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe do të bëjnë ⟨את⟩ qengjin, dhe ⟨את⟩ minhanë, dhe ⟨את⟩ vajin, mëngjes për mëngjes, flijim të ngjitur të vazhdueshëm.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dhe do të bëjnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qengjin"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qengjin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "minhanë"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vajin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "për mëngjes"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "flijim të ngjitur"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "të vazhdueshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T16:40:58.742855468Z",
+  "model": "glm-5.3"
+}

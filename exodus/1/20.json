@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim u bëri mirë mamiçave, dhe populli u shumua dhe u forcua shumë fort.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "u bëri mirë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "mamiçave"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "dhe u shumua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "dhe u forcua"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë fort"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:24.297362984Z",
+  "model": "glm-5.3"
+}

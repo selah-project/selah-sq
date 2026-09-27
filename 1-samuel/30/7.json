@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Davidi i tha Avjatarit priftit, birit të Ahimelekut: «Sillma, të lutem, efodin.» Dhe Avjatari e solli ⟨את⟩ efodin te Davidi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri i"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekut"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "sillma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "solli"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:20.917797864Z",
+  "model": "glm-5.3"
+}

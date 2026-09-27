@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ndodhi kur dëgjuan ⟨את⟩ Torën, që ata ndanë çdo të përzier nga Izraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "kur dëgjuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torën"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torën"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "që ata ndanë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "të përzier"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nga Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:06.791973470Z",
+  "model": "glm-5.3"
+}

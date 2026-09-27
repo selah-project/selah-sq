@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "⟨את⟩ bekimin, kur të dëgjoni në urdhërimet e Jahvesë, Elohim i juaj, të cilat unë po ju urdhëroj sot —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekimin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bekimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "të dëgjoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhërimet e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "po urdhëroj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:56.092143927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Sepse hesed-i yt ⟨është⟩ i madh mbi mua, dhe ke shpëtuar shpirtin tim nga Sheoli i poshtëm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "dhe ke shpëtuar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "nga Sheoli"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "i poshtëm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.778586491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Në statutet e tua do të kënaqem, fjalën tënde nuk do ta harroj.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "në statutet e tua"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "do të kënaqem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "do ta harroj"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "fjalën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.154066110Z",
+  "model": "glm-5.3"
+}

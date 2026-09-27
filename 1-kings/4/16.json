@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Baana, bir i Hushait, në Asher dhe në Bealot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "i Hushait"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "në Asher"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "dhe në Bealot"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:23.347075553Z",
+  "model": "glm-5.3"
+}

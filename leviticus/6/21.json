@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe një enë balte ⟨që⟩ zihet në të, do të thyelet; por nëse zihet në një enë bakri, do të fërkohet dhe do të shpëlahet në ujë.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Dhe një enë"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "balte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "zihet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "do të thyelet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "por nëse"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "në një enë"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bakri"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "zihet"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "do të fërkohet"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "do të shpëlahet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:31.688565128Z",
+  "model": "glm-5.3"
+}

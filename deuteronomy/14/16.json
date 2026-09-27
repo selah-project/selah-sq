@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "⟨את⟩ kukuvajkën e vogël, dhe ⟨את⟩ kukuvajkën e madhe, dhe\tbufinën,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuvajkën e vogël"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kukuvajkën e vogël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kukuvajkën e madhe"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "kukuvajkën e madhe"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "dhe\tbufinën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:09.312836403Z",
+  "model": "glm-5.3"
+}

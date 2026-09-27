@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Sepse mbreti beson në Jahve, dhe në hesed-in e Elyonit ai nuk do të lëkundet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "beson"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "dhe në hesed-in"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "të Elyonit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "do të lëkundet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:18.348987926Z",
+  "model": "glm-5.3"
+}

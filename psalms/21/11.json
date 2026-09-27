@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Frytin e tyre do ta zhdukësh nga toka, dhe pasardhësit e tyre nga bijtë e njeriut.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "frytin e tyre"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "do ta zhdukësh"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "dhe pasardhësit e tyre"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nga bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:50.334758039Z",
+  "model": "glm-5.3"
+}

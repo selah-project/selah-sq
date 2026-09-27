@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filisteu tha: Unë e përbuza ⟨את⟩ radhën e luftës së Izraelit sot; jepni mua një njeri, dhe le të luftojmë bashkë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... tha"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "e përbuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "radhën e luftës"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "radhën e luftës"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "dhe le të luftojmë"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:11.053257866Z",
+  "model": "glm-5.3"
+}

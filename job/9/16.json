@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nëse do ta thirra dhe ai m'u ⟨përgjigj⟩, nuk do të besoja se i vuri veshin zërit tim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "do ta thirra"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "dhe ai m'u përgjigj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "do të besoja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "i vuri veshin"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:37.510160701Z",
+  "model": "glm-5.3"
+}

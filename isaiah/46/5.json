@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Me kë do të më krahasoni, dhe do të më barazoni, dhe do të më ngjasoni, që të ngjajmë?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "me kë"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "do të më krahasoni"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "dhe do të më barazoni"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "dhe do të më ngjasoni"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "që të ngjajmë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:48.735344294Z",
+  "model": "glm-5.3"
+}

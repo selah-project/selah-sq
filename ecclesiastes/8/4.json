@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Ku ⟨është⟩ fjala e mbretit, aty ⟨është⟩ pushteti; dhe kush mund t'i thotë atij: Çfarë po bën?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "pushteti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe kush"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mund t'i thotë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "po bën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:49.062118501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jahve i tha Gideonit: me treqind burrat që lëpynin do t'⟨את⟩ ju shpëtoj, dhe do të jap ⟨את⟩ Madianin në dorën tënde; dhe gjithë populli të shkojë secili në vendin e vet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideonit"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "me tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "që lëpynin"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "do t'ju shpëtoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (objekti i shpëtimit)"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do të jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madianin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madianin"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "të shkojë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "në vendin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:27.591957040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Elohim foli me Moisin dhe i tha atij: «Unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:45.953282686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "⟨את⟩ Jahve e kanë frikën, dhe ⟨את⟩ perënditë e tyre i shërbejnë, sipas rregullit të kombeve të cilat i mërguan ⟨אתם⟩ prej andej.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i kanë"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "frikën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "perënditë e tyre"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "perënditë e tyre"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "shërbejnë"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas rregullit"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "të kombeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "i mërguan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i mërguan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:44.604260851Z",
+  "model": "glm-5.3"
+}

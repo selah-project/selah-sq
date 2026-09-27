@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Ato lidhi mbi gishtat e tua, i shkruaj mbi ⟨tabelën⟩ e zemrës së tënde.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "lidhi i"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "gishtat e tua"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "i shkruaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "⟨tabelën⟩"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "e zemrës së tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:43.001922946Z",
+  "model": "glm-5.3"
+}

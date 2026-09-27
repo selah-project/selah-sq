@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Mizmor i Davidit, kur ikte nga përballë Avshalomit, birit të tij.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kur ikte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga përballë"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:45.161045910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Unë, Nebukadnetsari, isha i qetë në shtëpinë time dhe lulëzuar në pallatin tim.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsari"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "i qetë"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "isha"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "në shtëpinë time"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "dhe lulëzuar"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "në pallatin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:49:02.100340524Z",
+  "model": "glm-5.3"
+}

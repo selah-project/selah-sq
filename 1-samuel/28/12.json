@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe gruaja pa ⟨את⟩ Samuelin dhe bërtiti me zë të madh; dhe gruaja i tha Saulit, duke thënë: Pse më mashtruar dhe ti je Sauli?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelin"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "dhe bërtiti"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "me zë"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "më mashtruar"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:07.518586942Z",
+  "model": "glm-5.3"
+}

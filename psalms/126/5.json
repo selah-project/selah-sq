@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 126,
+  "translation": "Ata që mbjellin me lotë, do të korrin me tera.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ata që mbjellin"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "me lotë"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "me tera"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "do të korrin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:36.430658475Z",
+  "model": "glm-5.3"
+}

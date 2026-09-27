@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe të mos flijojnë më ⟨את⟩ flijimet e tyre për capat e tyre, pas të cilëve ⟨ata⟩ kurvërojnë; ligj e përjetshme do të jetë kjo për ta, brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "flijojnë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimet e tyre"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "flijimet e tyre"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "për capat e tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pas të cilëve"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ata⟩"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "kurvërojnë"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pas tyre"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ligj"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e përjetshme"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "brez pas brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:13.871001847Z",
+  "model": "glm-5.3"
+}

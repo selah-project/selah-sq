@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jahve foli ⟨me⟩ Moisi dhe ⟨me⟩ Aaron, duke thënë:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨me⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe ⟨me⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:18.859626397Z",
+  "model": "glm-5.3"
+}

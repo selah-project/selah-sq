@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe ⟨את⟩ altarin e flijimit të djegur me ⟨את⟩ të gjitha veglat e tij, dhe ⟨את⟩ legenin dhe ⟨את⟩ bazën e tij",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "të flijimit të djegur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "veglat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "legenin"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "legenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bazën"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bazën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:08.366329836Z",
+  "model": "glm-5.3"
+}

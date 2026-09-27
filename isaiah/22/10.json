@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ⟨את⟩ shtëpitë e Jerusalemit i keni numëruar, dhe shtëpitë i keni rrënuar për të forcuar murin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpitë"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "keni numëruar"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "i keni rrënuar"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "për të forcuar"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "murin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:00.929910504Z",
+  "model": "glm-5.3"
+}

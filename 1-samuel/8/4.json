@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe u mblodhën të gjithë pleqtë e Izraelit dhe erdhën te Samueli në Rama.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe erdhën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "në Rama"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:38.164621718Z",
+  "model": "glm-5.3"
+}

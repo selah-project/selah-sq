@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "të cilin e bekoi Jahve Tsevaot, duke thënë: I bekuar është populli im Egjipti, dhe vepra e duarve të mia Ashuri, dhe trashëgimia ime ⟨is⟩ Izraeli.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "e bekoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "dhe vepra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "e duarve të mia"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "dhe trashëgimia ime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:08.525554144Z",
+  "model": "glm-5.3"
+}

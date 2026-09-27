@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Thoni për të drejtin se ⟨do të jetë⟩ mirë, sepse frytin e veprave të tyre do të hanë.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "thoni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frytin"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "e veprave të tyre"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hanë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:58.855970404Z",
+  "model": "glm-5.3"
+}

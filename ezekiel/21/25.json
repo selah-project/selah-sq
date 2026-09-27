@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Do të bësh një rrugë që të vijë ⟨את⟩ shpata: Rabata e bijve të Amonit, dhe ⟨את⟩ Judën në Jeruzalem ⟨të⟩ fortifikuar.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "që të vijë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabata e bijve të Amonit"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "të Amonit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Judën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "të fortifikuar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:24.476497286Z",
+  "model": "glm-5.3"
+}

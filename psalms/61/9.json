@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Kështu do të këndoj ⟨për⟩ emrin tënd përjetë, duke plotësuar premtimet e mia ditë e ditë.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "duke plotësuar"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "premtimet e mia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "e ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:35.756649126Z",
+  "model": "glm-5.3"
+}

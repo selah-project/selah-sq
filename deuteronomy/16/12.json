@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe do të kujtosh se rob ⟨ishe⟩ në Egjipt, dhe do t'i ruash dhe t'i bësh ⟨את⟩ statute këto.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "dhe do të kujtosh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ishe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dhe do t'i ruash"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe t'i bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statute këto"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statute"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:27.125191732Z",
+  "model": "glm-5.3"
+}

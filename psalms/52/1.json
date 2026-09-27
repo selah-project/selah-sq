@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Për dirigjentin, një maskil i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:12.168422113Z",
+  "model": "glm-5.3"
+}

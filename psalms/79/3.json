@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Kanë derdhur gjakun e tyre si ujë rreth e rrotull Jerusalemit, dhe s'ka kush për t'i varrosur.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Kanë derdhur"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "gjakun e tyre"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "si ujë"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "kush për t'i varrosur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:44.464865507Z",
+  "model": "glm-5.3"
+}

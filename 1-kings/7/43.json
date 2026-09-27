@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe ⟨את⟩ dhjetë bazat, dhe ⟨את⟩ dhjetë legenët mbi bazat;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dhjetë bazat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bazat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dhjetë legenët"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "legenët"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bazat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:34.107369836Z",
+  "model": "glm-5.3"
+}

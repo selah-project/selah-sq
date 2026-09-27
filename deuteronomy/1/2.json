@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Njëmbëdhjetë ditë ⟨udhëtim⟩ nga Horebi, rrugës së malit të Seirit, deri në Kades-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Një-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga Horebi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugës së"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malit"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "të Seirit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:37.332465607Z",
+  "model": "glm-5.3"
+}

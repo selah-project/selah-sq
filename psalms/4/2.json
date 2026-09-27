@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Kur të thërras, më përgjigju, Elohim i drejtësisë sime; në ngushticë ma zgjate ⟨hapësirën⟩ për mua; më dhuro ⟨hir⟩ dhe dëgjo lutjen time.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Kur të thërras"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "më përgjigju"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "i drejtësisë sime"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "në ngushticë"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ma zgjate hapësirën"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "më dhuro ⟨hir⟩"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:19.077601597Z",
+  "model": "glm-5.3"
+}

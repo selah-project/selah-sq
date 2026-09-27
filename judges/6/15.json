@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ai i tha atij: «Të lutem, Adonai, me çfarë do ta shpëtoj ⟨את⟩ Izraelin? Ja, njëmijëshi im është më i varfri në Manase, dhe unë jam më i vogli në shtëpinë e atit tim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בי",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "במה",
+      "gloss": "me çfarë"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "do ta shpëtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "njëmijëshi im"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "më i varfri"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "në Manase"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "më i vogli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë e"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:42.760739374Z",
+  "model": "glm-5.3"
+}

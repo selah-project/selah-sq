@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Jo kështu; shkoni tani vetëm burrat dhe shërbejini ⟨את⟩ Jahvesë, sepse këtë ⟨את⟩ ju kërkoni. Dhe ⟨Faraoni⟩ i dëboi ata ⟨את⟩ nga ⟨pranë⟩ pranisë së Faraonit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dhe shërbejini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "këtë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "kërkoni"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "dhe i dëboi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ nga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pranisë"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "së Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:29.838634964Z",
+  "model": "glm-5.3"
+}

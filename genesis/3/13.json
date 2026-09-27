@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jahve Elohim i tha gruas: Çfarë është kjo që ke bërë? Dhe gruaja tha: Gjarpri më mashtroi, dhe unë hënga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "gruas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "gjarpri"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "më mashtroi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe hënga"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.915147894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Por ⟨את⟩ Nathan profetin, dhe Benaiahun, dhe ⟨את⟩ trima, dhe ⟨את⟩ Solomonin vëllain e tij, nuk i thirri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "por ⟨את⟩",
+      "marks": "Nathan profetin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetin"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "dhe Benaiahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "trima"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "trima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Solomonin vëllain e tij"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomonin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllain e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "i thirri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:45.406900946Z",
+  "model": "glm-5.3"
+}

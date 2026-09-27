@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Për dirigjentin, për Jeduthun. Një mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "për Jeduthun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:51.122573135Z",
+  "model": "glm-5.3"
+}

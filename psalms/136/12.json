@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "me dorë të fortë dhe me krah të shtrirë, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "me dorë"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "dhe me krah"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "të shtrirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:38.364824804Z",
+  "model": "glm-5.3"
+}

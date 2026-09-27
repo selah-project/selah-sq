@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Kaloi korrja, mbaroi vera, dhe ne nuk u shpëtuam.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Kaloi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "korrja"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mbaroi"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "vera"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "dhe ne"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "u shpëtuam"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:40.853492688Z",
+  "model": "glm-5.3"
+}

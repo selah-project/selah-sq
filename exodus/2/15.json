@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe e dëgjoi Faraoni ⟨את⟩ këtë çështje, dhe kërkoi të vriste ⟨את⟩ Moisiun; dhe Moisiu iku nga fytyra e Faraonit dhe u vendos në tokën e Midianit, dhe rroi pranë burimit.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe e dëgjoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çështjen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "çështjen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "dhe kërkoi"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "të vriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga fytyra e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u vendos"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën e"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe rroi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "burimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:25.713997596Z",
+  "model": "glm-5.3"
+}

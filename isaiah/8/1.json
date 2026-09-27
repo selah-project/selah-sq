@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jahve më tha: «Merr për vete një pllakë të madhe dhe shkruaj mbi të me pen të njeriut: Maher-Shalal-Hash-Baz».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Merr"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "një pllakë"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "dhe shkruaj"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "me pen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:01.552465500Z",
+  "model": "glm-5.3"
+}

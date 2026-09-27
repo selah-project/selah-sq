@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Ti — me dorën tënde i zhduke kombeve dhe i mbolle ⟨ata⟩; i godite popujt dhe i dbove ⟨ata⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "me dorën tënde"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "i zhduke"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "dhe i mbolle"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "i godite"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "dhe i dbove"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:20.454777979Z",
+  "model": "glm-5.3"
+}

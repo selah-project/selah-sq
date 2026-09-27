@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Ruaju vetes, që të mos harrosh ⟨את⟩ Jahve, Elohim-in tënd, duke mos ruajtur urdhërimet e tij, dhe gjykimet e tij, dhe statutet e tij që unë të urdhëroj sot.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ruaju"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vetes"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "harrosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "duke mos"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruajtur"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "urdhërimet e tij"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "dhe gjykimet e tij"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "dhe statutet e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:23.300508121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe thanë: Gjak ⟨ky⟩ ⟨is⟩; shkatërruar janë shkatërruar me shpatë mbretërit, dhe kishin rrahur njëri ⟨את⟩ tjetrin; dhe tani, Moab, për plaçkë!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "me shpatë"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "janë shkatërruar"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe kishin rrahur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjetrin"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tjetrin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "për plaçkë"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:16.748649060Z",
+  "model": "glm-5.3"
+}

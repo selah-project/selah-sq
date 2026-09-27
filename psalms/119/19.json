@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I huaj ⟨jam⟩ unë në tokë; mos m'i fsheh urdhrat e tu nga unë.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "m'i fsheh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhrat e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.549359672Z",
+  "model": "glm-5.3"
+}

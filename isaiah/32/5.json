@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Nuk do të quhet më i pabesi ⟨i bujshëm⟩, dhe për koprracin nuk do të thuhet «i pasur».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "do të quhet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "i bujshëm"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "dhe për koprracin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do të thuhet"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "«i pasur»"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:55.386718379Z",
+  "model": "glm-5.3"
+}

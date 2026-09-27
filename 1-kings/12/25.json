@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jeroboami ndërtoi ⟨את⟩ Shekemin, në malin e Efraimit, dhe banoi aty; dhe doli prej andej dhe ndërtoi ⟨את⟩ Penuelin.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "të Efraimit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelin"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:20.083918833Z",
+  "model": "glm-5.3"
+}

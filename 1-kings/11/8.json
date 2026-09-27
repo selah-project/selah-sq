@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe kështu bëri për të gjitha gratë e tij të huaja, të cilat digjnin temjan dhe flijonin perëndive të tyre.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Dhe kështu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "gratë e tij"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "të huaja"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "digjnin temjan"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "dhe flijonin"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "perëndive të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:20.044120449Z",
+  "model": "glm-5.3"
+}

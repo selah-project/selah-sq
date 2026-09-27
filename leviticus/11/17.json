@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ kukuvajkën, dhe ⟨את⟩ kormorantin, dhe ⟨את⟩ bufin e madh,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kukuvajkën"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kukuvajkën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kormorantin"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormorantin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bufin e madh"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "bufin e madh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:04.640104060Z",
+  "model": "glm-5.3"
+}

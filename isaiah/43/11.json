@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Unë, unë ⟨jam⟩ Jahve, dhe përveç meje nuk ka shpëtimtar.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "përveç meje"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "shpëtimtar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:53.430543884Z",
+  "model": "glm-5.3"
+}

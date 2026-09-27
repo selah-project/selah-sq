@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Do të përulen përpara pallatit të shenjtë tënd dhe do të falënderoj ⟨את⟩ emrin tënd, për hesed-in tënd dhe për të vërtetën tënde, sepse e bëre të madhe mbi gjithë emrin tënd fjalën tënde.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "do të përulet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pallatit"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "të shenjtë tënd"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "dhe do të falënderoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tënd"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in tënd"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "të vërtetën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "e bëre të madhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "fjalën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:20.840294494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨i⟩ peshoi keq një e keqe e madhe Jona, dhe zemërimi ndezi në të.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "dhe peshoi keq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "një e keqe"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dhe zemërimi ndezi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:07.030734542Z",
+  "model": "glm-5.3"
+}

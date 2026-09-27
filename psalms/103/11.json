@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Sepse sa e lartë ⟨është⟩ qielli mbi ⟨të⟩ dhé, aq e fortë ⟨është⟩ hesed-i i tij mbi ata që i frikësohen atij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sa e lartë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qielli"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ dhé"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "aq e fortë ⟨është⟩"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ata që i frikësohen atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:15.560884729Z",
+  "model": "glm-5.3"
+}

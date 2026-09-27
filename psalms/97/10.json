@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "O ju që e doni Jahvenë, urryeni të keqen; ⟨Ai⟩ ruan shpirtrat e të devotshmëve të tij, nga dora e të pabesëve i shpëton.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "që e doni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "urryeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruan"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "shpirtrat"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "të devotshmëve të tij"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të pabesëve"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "i shpëton"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:06.122919167Z",
+  "model": "glm-5.3"
+}

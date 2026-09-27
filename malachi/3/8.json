@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "A mund të mashtrojë njeriu Elohim-in? Sepse ju po më mashtroni ⟨את⟩ mua. Por ju keni thënë: Me çfarë të mashtruam ty? Me të dhjetën dhe me darën.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "a mund të mashtrojë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "po mashtroni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "dhe ju keni thënë"
+    },
+    {
+      "surface": "במה",
+      "gloss": "me çfarë"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "të mashtruam ty"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "me të dhjetën"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "dhe me darën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:17.654601830Z",
+  "model": "glm-5.3"
+}

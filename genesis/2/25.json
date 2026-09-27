@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe qenë të dy të zhveshur, njeriu dhe gruaja e tij, dhe nuk u turpëruan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe qenë"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "të zhveshur"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dhe gruaja e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "u turpëruan"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:34.412789188Z",
+  "model": "glm-5.3"
+}

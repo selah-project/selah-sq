@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Nëse thonë: «Eja me ⟨את⟩ ne, të zëmë pritë për gjak, fshihemi pritë për të pafajshmin pa shkak».",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Eja"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne",
+      "marks": "me ne"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "të zëmë pritë"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "për gjak"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "fshihemi pritë"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "për të pafajshmin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa shkak"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:14.498238270Z",
+  "model": "glm-5.3"
+}

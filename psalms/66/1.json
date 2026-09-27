@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Për të parin e këngëtarëve. Këngë, mizmor. Bërtitni Elohimit, gjithë ⟨e⟩ toka!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për të parin e këngëtarëve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Bërtitni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:29.446835445Z",
+  "model": "glm-5.3"
+}

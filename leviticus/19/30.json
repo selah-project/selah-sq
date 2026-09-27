@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "⟨את⟩ Shabatet e mia t'i ruani, dhe shenjtërorin tim ta nderoni me frikë; unë jam Jahve",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatet e mia"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatet e mia"
+    },
+    {
+      "surface": "תשמרu",
+      "gloss": "t'i ruani"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dhe shenjtërorin tim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ta nderoni me frikë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:47.127389848Z",
+  "model": "glm-5.3"
+}

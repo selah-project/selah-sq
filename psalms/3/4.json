@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "E ti, Jahve, ⟨je⟩ mburojë përreth meje, lavdia ime dhe ai që e ngre kokën time.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mburojë"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "përreth meje"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "lavdia ime"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "dhe ai që e ngre"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kokën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:45.161523455Z",
+  "model": "glm-5.3"
+}

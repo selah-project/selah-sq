@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "⟨את⟩ Ucin, të parëlindurit e tij, dhe ⟨את⟩ Buzin, vëllain e tij, dhe ⟨את⟩ Kemuelin, atin e Aramit.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ucin"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uci"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "të parëlindurit e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Buzin"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllain e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kemuelin"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:16.953985613Z",
+  "model": "glm-5.3"
+}

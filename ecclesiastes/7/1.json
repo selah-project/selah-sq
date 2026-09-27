@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Më i mirë ⟨është⟩ emri se vaji i mirë, dhe dita e vdekjes se dita e lindjes së tij.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më i mirë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "se vaji"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "dhe dita"
+    },
+    {
+      "surface": "המות",
+      "gloss": "e vdekjes"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "se dita"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "e lindjes së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:57.182848931Z",
+  "model": "glm-5.3"
+}

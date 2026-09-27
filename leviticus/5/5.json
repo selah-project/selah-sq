@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do të jetë, kur të bëhet fajtor për njërën nga këto, të rrëfejë atë që ka mëkatuar mbi të.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "të bëhet fajtor"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "për njërën"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "nga këto"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "të rrëfejë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ka mëkatuar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:02.160958815Z",
+  "model": "glm-5.3"
+}

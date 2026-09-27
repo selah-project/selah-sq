@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Omri bëri të keqen në sytë e Jahves, dhe bëri keq mbi të gjithë ⟨ata⟩ që ⟨ishin⟩ para tij.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Dhe bëri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "dhe bëri keq"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:54.118949419Z",
+  "model": "glm-5.3"
+}

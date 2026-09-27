@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Ky ⟨është⟩ shorti yt, pjesa e matjes sate ⟨prej meje⟩, thotë Jahve, sepse harrove ⟨את⟩ mua dhe u besove gënjestrës.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ky"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "shorti yt"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pjesa"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "e matjes sate"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ prej meje",
+      "marks": "shorti yt, pjesa e matjes sate"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "harrove"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "dhe u besove"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "gënjestrës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:23.794088583Z",
+  "model": "glm-5.3"
+}

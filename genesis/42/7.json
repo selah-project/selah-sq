@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jozefi i pa ⟨את⟩ vëllezërit e vet dhe i njohu, por u tregua i panjohur ndaj tyre dhe u foli atyre ⟨את⟩ ashpër; dhe u tha atyre: «Nga keni ardhur?» Dhe ata thanë: «Nga vendi i Kanaanit, për të blerë ushqim.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe i pa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e vet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e vet"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "dhe i njohu"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "por u tregua i panjohur"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ndaj tyre"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe u foli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "atyre"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ashpër"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "keni ardhur"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dhe thanë"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Nga vendi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "i Kanaanit"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "për të blerë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:15.393050878Z",
+  "model": "glm-5.3"
+}

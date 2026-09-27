@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Helmueshmëria e tyre ⟨është⟩ si helmueshmëria e një gjarpëri, si kobra e shurdhër që i mbyll veshët e vet.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "helmueshmëria"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "si"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "helmueshmëria"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "e një gjarpëri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "kobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "e shurdhër"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "i mbyll"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "veshët e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:27.310189966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Mbi ty u hodha nga mitra; nga barku i nënës sime — El im je ti.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Mbi ty"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "u hodha"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nga mitra"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "i nënës sime"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:56.155015184Z",
+  "model": "glm-5.3"
+}

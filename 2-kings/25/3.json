@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Në të nëntën e muajit uria u përkeqësua në qytet, dhe nuk kishte bukë për popullin e vendit.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "në të nëntën"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe u përkeqësua"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uria"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "për popullin e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:02.831098418Z",
+  "model": "glm-5.3"
+}

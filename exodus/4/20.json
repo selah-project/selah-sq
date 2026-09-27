@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe mori Moisi ⟨את⟩ gruan e tij dhe ⟨את⟩ bijtë e tij, dhe i mbajti mbi gomar, dhe u kthye në drejtim të tokës së Egjiptit; dhe mori Moisi ⟨את⟩ shkopin e Elohimit në dorën e tij.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e tij"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "dhe i mbajti mbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "gomarin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "në drejtim të tokës"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "së Egjiptit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopin e Elohimit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "shkopin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohimit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:33.658316409Z",
+  "model": "glm-5.3"
+}

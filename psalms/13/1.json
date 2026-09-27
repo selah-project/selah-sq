@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Për dirigjentin. Mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.169993071Z",
+  "model": "glm-5.3"
+}

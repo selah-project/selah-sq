@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe çdo shalë mbi të cilën ngjitet ai që ka rrjedhjen do të jetë i papastër.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "shala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbi të cilën"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ngjitet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ai që ka rrjedhjen"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "do të jetë i papastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:34.302469057Z",
+  "model": "glm-5.3"
+}

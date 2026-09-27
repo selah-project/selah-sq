@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe gjithë populli i Judës mori Azarianë, ⟨ai⟩ ishte bir gjashtëmbëdhjetë vjeç, dhe e bënë mbret ⟨אתו⟩ në vend të të atit Amacia.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarianë"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarianë"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e bënë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (Azarianë)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacia"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:00.092064441Z",
+  "model": "glm-5.3"
+}

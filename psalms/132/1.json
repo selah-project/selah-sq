@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Këngë e ngjitjeve. Kujto, Jahve, për Davidin, ⟨את⟩ të gjitha mundimet e tij.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "për Davidin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha mundimet e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "mundimet e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:59.064238643Z",
+  "model": "glm-5.3"
+}

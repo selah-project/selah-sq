@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 43:32",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe i vunë atij veç e veç, dhe atyre veç e veç, dhe egjiptianëve që hanin ⟨את⟩ me të, veç e veç, sepse nuk mundin egjiptianët të hanin bukë me ⟨את⟩ hebrejtë, sepse neveri është ajo për egjiptianët.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i vunë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "veç e veç (për të)"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "dhe atyre"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "veç e veç (për ta)"
+    },
+    {
+      "surface": "ולמצרים",
+      "gloss": "dhe egjiptianëve"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "që hanin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "egjiptianët që hanin me të"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "veç e veç (për ta)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "mundin"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "të hanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hebrejtë"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebrejtë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është ajo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "për egjiptianët"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:47.174171898Z",
+  "model": "glm-5.3"
+}

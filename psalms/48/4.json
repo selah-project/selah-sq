@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Elohim në pallatet e saj ⟨është⟩ njohur si strehë e lartë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "në pallatet e saj"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "njohur"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "si strehë e lartë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:09.069723149Z",
+  "model": "glm-5.3"
+}

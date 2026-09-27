@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Prandaj kështu thotë Jahve: Shtroja në të cilën ke ngjitur, nga ajo nuk do të zbrisë, sepse do të vdesësh vërtet. Dhe Elijah u largua.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "shtroja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilën"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ke ngjitur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "do të zbrisë"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מות",
+      "gloss": "do të vdesësh"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe u largua"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elijah"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:54.356177106Z",
+  "model": "glm-5.3"
+}

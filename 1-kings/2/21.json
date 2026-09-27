@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ajo tha: Le të jepet ⟨את⟩ Abishagu, Shunamitja, Adonijahut, vëllait tënd, për grua.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "le të jepet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishagu"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishagu"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Shunamitja"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijahut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllait tënd"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:32.988364500Z",
+  "model": "glm-5.3"
+}

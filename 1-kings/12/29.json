@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe e vuri ⟨את⟩ njërin në Bet-El, dhe ⟨את⟩ tjetrin e vendosi në Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njërin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tjetrin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tjetrin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e vendosi"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "në Dan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:23.737055492Z",
+  "model": "glm-5.3"
+}

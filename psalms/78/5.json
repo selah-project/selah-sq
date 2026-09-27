@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe ai ngriti ⟨një⟩ dëshmi në Jakob dhe vendosi ⟨një⟩ Tora në Izrael, të cilën ai urdhëroi ⟨את⟩ etërve tanë, për t'ua bërë të njohur bijve të tyre.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe ai ngriti"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "dëshmi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "në Jakob"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "dhe ⟨një⟩ Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vendosi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etërve tanë"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "etërve tanë"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "për t'ua bërë të njohur"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bijve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:38.078211654Z",
+  "model": "glm-5.3"
+}

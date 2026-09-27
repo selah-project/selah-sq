@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Le të mos lërë ⟨ai⟩ të rrëshqasë këmba jote, le të mos përgjumet ai që të ruan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Le të mos"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lërë"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "të rrëshqasë"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "këmba jote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le të mos"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "përgjumet"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ai që të ruan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:30.796855393Z",
+  "model": "glm-5.3"
+}

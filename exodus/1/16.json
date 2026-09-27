@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe tha: Kur do t'u ndihmoni ⟨את⟩ gratë hebreje të lindin dhe do t'i shihni mbi gurët e lindjes — nëse ⟨është⟩ djalë, atëherë vriteni ⟨את⟩ atë; dhe nëse vajzë, atëherë le të jetojë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "kur u ndihmoni të lindin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gratë hebreje"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "gratë hebreje"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "dhe do t'i shihni"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurët e lindjes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "vriteni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "djalën"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajzë"
+    },
+    {
+      "surface": "היא",
+      "gloss": "është"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "le të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:01.557923738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 93,
+  "translation": "Ngritën lumenjtë, o Jahve, ngritën lumenjtë zërin e tyre, ngrenë lumenjtë përplasjet e tyre të vrullshme.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "zërin e tyre"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ngrenë"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "përplasjet e tyre të vrullshme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:57.859388842Z",
+  "model": "glm-5.3"
+}

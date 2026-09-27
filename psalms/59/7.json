@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Kthehen në muzg, ulërinë si qen dhe rrethojnë ⟨rreth⟩ qytetit.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kthehen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "në muzg"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ulërinë"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "si qen"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "dhe rrethojnë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:41.721209968Z",
+  "model": "glm-5.3"
+}

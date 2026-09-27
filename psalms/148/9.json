@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Malet dhe të gjitha kodrat, pemët e ⟨me⟩ fruta dhe të gjitha qedrat",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Malet"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kodrat"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pemët"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "qedrat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:52.279846992Z",
+  "model": "glm-5.3"
+}

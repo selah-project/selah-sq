@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe shëruan ⟨את⟩ thyerjen e popullit tim sipërësisht, duke thënë: «Shalom, shalom», e shalom nuk ka.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "dhe shëruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thyerjen"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "thyerjen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e popullit tim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "sipërësisht"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e nuk ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-27T16:08:34.533799490Z",
+  "model": "glm-5.3"
+}

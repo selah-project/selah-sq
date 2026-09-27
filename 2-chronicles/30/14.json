@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe u ngritën dhe i hoqën ⟨את⟩ altarët që ishin në Jeruzalem; dhe ⟨את⟩ të gjitha altarët e temjanit i hoqën dhe i hodhën në përroin Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "dhe u ngritën"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "dhe i hoqën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarët"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha altarët e temjanit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "altarët e temjanit"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "i hoqën"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "dhe i hodhën"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "në përroin"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-09-27T18:15:59.895643618Z",
+  "model": "glm-5.3"
+}

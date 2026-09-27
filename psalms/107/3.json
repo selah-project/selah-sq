@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "dhe i mblodhi nga vendet, nga lindja dhe nga perëndimi, nga veriu dhe nga deti.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "dhe nga vendet"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "i mblodhi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "nga lindja"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dhe nga perëndimi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "nga veriu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dhe nga deti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:40.982841728Z",
+  "model": "glm-5.3"
+}

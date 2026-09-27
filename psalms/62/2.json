@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Vetëm ndaj Elohim shpirti im ⟨është⟩ në heshtje; prej Tij ⟨vjen⟩ shpëtimi im.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "në heshtje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej Tij"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "shpëtimi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:18.683460009Z",
+  "model": "glm-5.3"
+}

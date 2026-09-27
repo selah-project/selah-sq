@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe mbreti i tha asaj: «Çfarë ke, Ester, o mbretëreshë? Dhe cili është lutja jote? Deri në gjysmën e mbretërisë — dhe do të të jepet.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe … tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i asaj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "o mbretëreshë"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Dhe cili"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "është lutja jote"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Deri në"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gjysmën"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "të mbretërisë"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "dhe do të jepet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:57.114056837Z",
+  "model": "glm-5.3"
+}

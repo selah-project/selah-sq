@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Sauli dërgoi ⟨te⟩ Isai, duke thënë: «Le të qëndrojë, të lutem, Davidi para meje, sepse gjeti hir në sytë e mi.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "le të qëndrojë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "gjeti"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:23.220605331Z",
+  "model": "glm-5.3"
+}

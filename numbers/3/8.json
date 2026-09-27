@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të ruajnë ⟨את⟩ të gjitha ojet e çadrës së takimit dhe ⟨את⟩ rojen e bijve të Israelit, për të kryer ⟨את⟩ shërbimin e Mishkanit.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Dhe do të ruajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha ojet e çadrës së takimit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ojet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rojen e bijve të Israelit"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "rojen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të kryer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbimin e Mishkanit"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "shërbimin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "e Mishkanit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:22.544775240Z",
+  "model": "glm-5.3"
+}

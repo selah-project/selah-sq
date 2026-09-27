@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim e quajti hapësirën Qiell; dhe u bë mbrëmja dhe u bë mëngjesi — ditë e dytë.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e quajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "hapësirën"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Qiell"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbrëmja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "e dytë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.265822509Z",
+  "model": "glm-5.3"
+}

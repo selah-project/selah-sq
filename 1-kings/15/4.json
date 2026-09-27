@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Sepse për hir të Davidit, Jahve, Elohim i tij, i dha atij një llambë në Jeruzalem, për të ngritur ⟨את⟩ birin e tij pas tij dhe për ta përforcuar ⟨את⟩ Jeruzalemin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i dha atij"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "një llambë"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "për të ngritur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin e tij"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "dhe për ta përforcuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:26.357361239Z",
+  "model": "glm-5.3"
+}

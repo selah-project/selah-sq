@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe reja mbuloi ⟨את⟩ tendën e takimit, dhe lavdia e Jahves mbushi ⟨את⟩ Mishkanin.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "Dhe mbuloi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "reja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendën"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dhe lavdia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:01.163856354Z",
+  "model": "glm-5.3"
+}

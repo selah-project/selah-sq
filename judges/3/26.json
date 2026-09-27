@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "E Ehudi i shpëtoi gjatë ngurimit të tyre; ai kaloi ⟨te⟩ ⟨את⟩ idhujt dhe iku drejt Seirahut.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "E Ehudi"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "i shpëtoi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gjatë"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "ngurimit të tyre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idhujt"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "idhujt"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "drejt Seirahut"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:13.619656507Z",
+  "model": "glm-5.3"
+}

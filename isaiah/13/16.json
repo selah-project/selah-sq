@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Foshnjat e tyre do të shkëmbehen (të copëtohen) para syve të tyre; shtëpitë e tyre do të plaçkiten dhe gratë e tyre do të dhunohen.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "foshnjat e tyre"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "do të copëtohen"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "para syve të tyre"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "do të plaçkiten"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "shtëpitë e tyre"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dhe gratë e tyre"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "do të dhunohen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:17.390720661Z",
+  "model": "glm-5.3"
+}

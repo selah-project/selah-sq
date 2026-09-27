@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe nëse ti refuzon t'i lëshosh, ja, unë po godas ⟨את⟩ të gjithë kufirin tënd me bretkosa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuzon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "t'i lëshosh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "po godas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë kufirin tënd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "kufirin tënd"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "me bretkosa"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:20.313819439Z",
+  "model": "glm-5.3"
+}

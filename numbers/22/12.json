@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe tha Elohim te Bilami: Mos shko me ta dhe mos mallko ⟨את⟩ popullin, sepse ⟨ai⟩ është i bekuar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos shko"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos mallko"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mallko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:20.946346744Z",
+  "model": "glm-5.3"
+}

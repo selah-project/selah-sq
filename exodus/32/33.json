@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jahve i tha Moisit: «Kushdo që ka mëkatuar kundër meje, atë do ta fshij nga libri im.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ka mëkatuar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "do ta fshij"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "nga libri im"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:40.611131231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "trimin dhe njeriun e luftës, gjyqtarin dhe profetin, fallxhorin dhe plakun,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "trimin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe njeriun"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "e luftës"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "gjyqtarin"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "dhe profetin"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "dhe fallxhorin"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "dhe plakun"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:05.345724643Z",
+  "model": "glm-5.3"
+}

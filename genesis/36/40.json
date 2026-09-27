@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe këta janë emrat e krerëve të Esavit, sipas familjeve të tyre, sipas vendbanimeve të tyre, me emrat e tyre: krye Timna, krye Alva, krye Jetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "janë emrat"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "e krerëve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "të Esavit"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipas familjeve të tyre"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "sipas vendbanimeve të tyre"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "me emrat e tyre"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "krye"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "krye"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "krye"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:15.841378511Z",
+  "model": "glm-5.3"
+}

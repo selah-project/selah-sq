@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "A më mungojnë të çmendurit, që të keni sjellë ⟨את⟩ këtë të çmendet përpara meje? A do të hyjë ky në shtëpinë time?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "a më mungojnë"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "të çmendurit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "keni sjellë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "të çmendet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "përpara meje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të hyjë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "shtëpinë time"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:28.621820929Z",
+  "model": "glm-5.3"
+}

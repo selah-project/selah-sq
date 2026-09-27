@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Shihni, dora e Jahves nuk është shkurtuar sa të mos shpengojë, dhe veshi i tij nuk është rënduar sa të mos dëgjojë;",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Shihni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "është shkurtuar"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "sa të mos shpengojë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "është rënduar"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "veshi i tij"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa të mos dëgjojë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:08.850787917Z",
+  "model": "glm-5.3"
+}

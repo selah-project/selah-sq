@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe patë ⟨את⟩ gjërat e tyre të neveritshme dhe ⟨את⟩ idhujt e tyre — dru dhe gur, argjend dhe ar — që ishin ⟨me⟩ ta.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "dhe patë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjërat e tyre të neveritshme"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "të neveritshmet e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "idhujt e tyre"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "idhujt e tyre"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dru"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe gur"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe ar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "me ta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:38.247681197Z",
+  "model": "glm-5.3"
+}

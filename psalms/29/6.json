@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "dhe ⟨i bën të kërcasin⟩ si një viç — Libanin dhe Sirionin, si një bual i egër i ri.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "dhe i bën të kërcasin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "një viç"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanin"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "dhe Sirionin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një të bir"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "bualësh të egër"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:21.933587203Z",
+  "model": "glm-5.3"
+}

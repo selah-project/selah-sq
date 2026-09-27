@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Abrahami shtoi dhe mori ⟨את⟩ një grua, dhe emri i saj ishte Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "shtoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dhe emri i saj"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:02.730371342Z",
+  "model": "glm-5.3"
+}

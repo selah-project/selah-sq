@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Faraoni i foli Jozuefit, duke thënë: Ati yt dhe vëllezërit e tu kanë ardhur te ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i foli"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuefi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Ati yt"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "dhe vëllezërit e tu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kanë ardhur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:08.982237817Z",
+  "model": "glm-5.3"
+}

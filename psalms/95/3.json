@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Sepse El i madh ⟨është⟩ Jahve, dhe mbret i madh mbi të gjithë perënditë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbret"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perënditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.651671566Z",
+  "model": "glm-5.3"
+}

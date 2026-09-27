@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ngrita ⟨את⟩ sytë e mi dhe pashë, dhe ja, katër brirë.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ngrita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "brirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:58.938005972Z",
+  "model": "glm-5.3"
+}

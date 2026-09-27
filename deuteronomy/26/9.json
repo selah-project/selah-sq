@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe ai na çoi në këtë vend dhe na dha ⟨את⟩ këtë tokë, një tokë që rrjedh qumësht dhe mjaltë.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "dhe na çoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë tokë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "që rrjedh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "qumësht"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:08.473375757Z",
+  "model": "glm-5.3"
+}

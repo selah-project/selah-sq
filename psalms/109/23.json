@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Si hija kur po bie, kështu jam shkuar; jam shqyer e tundur si karkaleci.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Si hija"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "kur po bie"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "jam shkuar"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "jam shqyer e tundur"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "si karkaleci"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.773466238Z",
+  "model": "glm-5.3"
+}

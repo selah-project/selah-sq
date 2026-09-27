@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe Jozefi urdhëroi ⟨את⟩ shërbëtorët e tij, mjekët, të balsamonin ⟨את⟩ të atin; dhe mjekët e balsamuan ⟨את⟩ Izraelin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dhe urdhëroi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjekët"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mjekët"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "të balsamonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "dhe e balsamuan"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mjekët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:36.658112524Z",
+  "model": "glm-5.3"
+}

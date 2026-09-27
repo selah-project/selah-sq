@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe e preku mbi gojën time dhe tha: Ja, kjo ka prekur buzët e tua, dhe paudhësia jote ⟨është⟩ hequr, dhe mëkati yt do të shpërblehet.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "dhe e preku"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ka prekur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "buzët e tua"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dhe është hequr"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "paudhësia jote"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "dhe mëkati yt"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "do të shpërblehet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:24.649057644Z",
+  "model": "glm-5.3"
+}

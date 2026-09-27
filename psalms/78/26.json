@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "E bëri të lëvizë erën e lindjes në qiej dhe me fuqinë e tij e udhëhoqi erën e jugut.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "E bëri të lëvizë"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "erën e lindjes"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "e udhëhoqi"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "me fuqinë e tij"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "erën e jugut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:42.288805503Z",
+  "model": "glm-5.3"
+}

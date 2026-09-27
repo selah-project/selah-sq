@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Urtësia në shesh thërret me zë, në rrugët e gjera i jep zërin e saj.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Urtësia"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "në shesh të jashtëm"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "thërret me zë"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "në rrugët e gjera"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "zërin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:31.148684429Z",
+  "model": "glm-5.3"
+}

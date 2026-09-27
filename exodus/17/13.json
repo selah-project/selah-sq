@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jozuei i shparttoi ⟨את⟩ Amalekun dhe ⟨את⟩ popullin e tij me gojën e shpatës.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "i shpartanoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "popullin e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me gojën e"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:31.689352078Z",
+  "model": "glm-5.3"
+}

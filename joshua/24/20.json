@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Nëse e braktisni ⟨את⟩ Jahvenë dhe u shërbeni perëndive të huaja, ai do të kthehet dhe do t'ju bëjë keq dhe do t'ju shfarosë, pasi ju ka bërë mirë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "e braktisni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "dhe u shërbeni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perëndive"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huaja"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "dhe do të bëjë keq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dhe do të shfarosë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ka bërë mirë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:28.799375963Z",
+  "model": "glm-5.3"
+}

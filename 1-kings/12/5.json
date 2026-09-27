@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe u tha atyre: Shkoni ⟨për⟩ edhe tri ditë dhe kthehuni te unë. Dhe shkoi ⟨i⟩ populli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "edhe ⟨për⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "dhe kthehuni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨i⟩ populli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:50.339219497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të bësh ⟨את⟩ shufrat nga drurit të akacisë, dhe do t'i mbulosh ⟨את⟩ at me ar, dhe tryeza do të mbahet me to ⟨את⟩ tryeza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drurit"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacisë"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dhe do t'i mbulosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (shufrat)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dhe do të mbahet"
+    },
+    {
+      "surface": "בם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tryeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryeza"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:44.325856734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe nëse jo, të dalë zjarr nga Avimeleku dhe të përbiejë ⟨את⟩ zotërit e Shekemit dhe ⟨את⟩ shtëpinë e Millos, dhe të dalë zjarr nga zotërit e Shekemit dhe nga shtëpia e Millos dhe të përbiejë ⟨את⟩ Avimelekun",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "të dalë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "nga Avimeleku"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe të përbiejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zotërit e Shekemit"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "zotërit"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "të Shekemit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Millos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "e Millos"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "dhe të dalë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "nga zotërit"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "e Shekemit"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "dhe nga shtëpia"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "e Millos"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe të përbiejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekun"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekun"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:39.097920986Z",
+  "model": "glm-5.3"
+}

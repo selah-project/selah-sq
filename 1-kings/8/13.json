@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Me ndërtim të vërtetë të ndërtova një shtëpi banimi për ty, një vend të fiksuar për të qëndruar ty në të përjetësisht.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "me ndërtim"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "të ndërtova"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "banimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "vend të fiksuar"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "për të qëndruar ty"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "përjetësisht"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:49.074035083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Në atë ditë njeriu do të hedhë ⟨את⟩ idhujt e argjendit të tij dhe ⟨את⟩ idhujt e arit të tij, të cilët i bënë për vete për t'u përulur, te minjtë e dheut dhe te lakuriqët e natës.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "do të hedhë"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idhujt e argjendit të tij"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "idhujt e"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "argjendit të tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idhujt e arit të tij"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "idhujt e"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "arit të tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i bënë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "për t'u përulur"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "te minjtë e dheut"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "dhe te lakuriqët e natës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:26.971850027Z",
+  "model": "glm-5.3"
+}

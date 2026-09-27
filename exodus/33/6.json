@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe bijtë e Izraelit e zhveshën ⟨את⟩ stolitë e tyre që nga mali Horeb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "e zhveshën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stolitë e tyre"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "stolitë e tyre"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nga mali"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horeb"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:02.030014724Z",
+  "model": "glm-5.3"
+}

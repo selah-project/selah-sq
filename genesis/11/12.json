@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Arpakshadi jetoi tridhjetë e pesë vjet, dhe lindi ⟨את⟩ Shelahun.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dhe Arpakshadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jetoi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahun"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:35.768179242Z",
+  "model": "glm-5.3"
+}

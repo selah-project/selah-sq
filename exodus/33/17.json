@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Jahve i tha Moisiut: Edhe ⟨את⟩ fjalën këtë që ke folur, do ta bëj, sepse ke gjetur hir para syve të mi dhe të njoh me emër.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën këtë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ke folur"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do ta bëj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ke gjetur"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "para syve të mi"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "dhe të njoh"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "me emër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:45.433102284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jozefi u tha atyre ditën e tretë: «Bëjeni këtë dhe do të jetoni: ⟨את⟩ Elohim unë e frikësohem.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "e tretë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bëjeni"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dhe do të jetoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "e frikësohem"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:19.845852326Z",
+  "model": "glm-5.3"
+}

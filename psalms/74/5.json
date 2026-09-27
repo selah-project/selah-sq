@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Duhet ⟨se⟩ njeriu i njohur si ai që ngre lart sëpata mbi pyllin e dendur.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "duhet të njihet"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "si ai që sjell"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "lart"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "mbi pyllin e dendur"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pemë"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "sëpata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.875185896Z",
+  "model": "glm-5.3"
+}

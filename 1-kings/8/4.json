@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ngjitën ⟨את⟩ arkën e Jahvesë dhe ⟨את⟩ tendën e takimit dhe ⟨את⟩ të gjitha veglat e shenta që ishin në tendë; dhe i ngjitën ⟨את⟩ ato priftërinjtë dhe levitët.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ngjitën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Jahvesë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tendën e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendën e"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha veglat e shenuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "veglat e"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "shenuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në tendë"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i ngjitën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dhe levitët"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:07.846136286Z",
+  "model": "glm-5.3"
+}

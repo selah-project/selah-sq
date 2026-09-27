@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "I afërt ⟨është⟩ Jahve ndaj atyre me zemër të thyer, dhe ⟨את⟩ të shtypurit në frymë i shpëton.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "I afërt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ndaj atyre me... të thyer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemër"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të shtypurit në frymë"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "të shtypurit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "në frymë"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "i shpëton"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:28.999099166Z",
+  "model": "glm-5.3"
+}

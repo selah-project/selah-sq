@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atë që e ndau Detin e Kallamishtes ⟨në⟩ pjesë, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Atë që e ndau"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Detin"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "e Kallamishtes"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "në pjesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:52.544475480Z",
+  "model": "glm-5.3"
+}

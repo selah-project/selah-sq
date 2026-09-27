@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe emri i vëllait të tij ⟨ishte⟩ Jubal; ai u bë ati i çdo duarushi të kinnorit dhe të ugavit.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i vëllait të tij"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Jubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i çdo"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "duarushi i"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnorit"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "dhe ugavit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:28.801177323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Iu ke dhënë atyre ⟨את⟩ bukë lotësh dhe i ke futur të pinë me lotë ⟨trefisht⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "iu ke dhënë atyre të hanë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "lotësh"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "dhe i ke futur të pinë"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "me lotë"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "⟨trefisht⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:34.836840419Z",
+  "model": "glm-5.3"
+}

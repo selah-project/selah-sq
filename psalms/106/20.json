@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Kështu shkëmbyen ⟨את⟩ lavdinë e tyre me formën e një ka që ha bar.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "shkëmbyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavdinë e tyre"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "lavdinë e tyre"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "me formën"
+    },
+    {
+      "surface": "שור",
+      "gloss": "e një ka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "që ha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:28.348751498Z",
+  "model": "glm-5.3"
+}

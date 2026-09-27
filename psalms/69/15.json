@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Shpëtomë nga baltata, dhe të mos fundosem; le të çlirohem nga ata që më urrejnë dhe nga thellësitë e ujërave.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "shpëtomë"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "nga baltata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "fundosem"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "le të çlirohem"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "nga ata që më urrejnë"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "dhe nga thellësitë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "e ujërave"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:56.501826077Z",
+  "model": "glm-5.3"
+}

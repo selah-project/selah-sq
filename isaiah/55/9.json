@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Sepse si ⟨qiejt⟩ janë më të lartë se ⟨toka⟩, kështu rrugët e mia janë më të larta se rrugët tuaja, dhe mendimet e mia ⟨janë më të larta⟩ se mendimet tuaja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "janë më të lartë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "se toka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "janë më të larta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "se rrugët tuaja"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "dhe mendimet e mia"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "se mendimet tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:52.112262098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe mbi parinë e bijve të Izraelit nuk e shtriu dorën e tij; dhe e shikuan ⟨את⟩ Elohim, dhe hanë dhe pinë.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "parinë e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "e shtriu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "dhe e shikuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dhe hanë"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "dhe pinë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:40.569734392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai i tha babait të tij: «Koka ime, koka ime!» Dhe ai i tha djaloshit: «Ngrije dhe çoje te nëna e tij.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babai i tij"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "koka ime"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "koka ime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djaloshi"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "ngrije dhe çoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nëna e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:35.918395216Z",
+  "model": "glm-5.3"
+}

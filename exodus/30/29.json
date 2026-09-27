@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do t'i shenjtërosh ⟨את⟩ ato, dhe do të jenë shenjtëri e shenjtnive; kushdo që prek në to do të shenjtërohet.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "dhe do t'i shenjtërosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ato (gjithë pajisjet e altarëve)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "shenjtëri"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtnive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "që prek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në to"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "do të shenjtërohet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:27.431594101Z",
+  "model": "glm-5.3"
+}

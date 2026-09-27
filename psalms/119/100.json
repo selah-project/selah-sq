@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më shumë se të moshuarit kuptoj, sepse urdhrat e tua i kam ruajtur.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "më shumë se të moshuarit"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kuptoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "urdhrat e tua"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "i kam ruajtur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:59.011781837Z",
+  "model": "glm-5.3"
+}

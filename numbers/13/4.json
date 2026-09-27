@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe këto ishin emrat e tyre: për fisin e Rubenit, Shamua bir i Zakurit.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këto"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "emrat e tyre"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "për fisin e"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenit"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shamua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "i Zakurit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:03.149889686Z",
+  "model": "glm-5.3"
+}

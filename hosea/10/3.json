@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Sepse tani do të thonë: Nuk kemi mbret, sepse s'e kemi frikësuar ⟨את⟩ Jahven; e mbreti — çfarë do të bëjë për ne?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "do të thonë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk kemi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'e"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "kemi frikësuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëjë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:25.341133358Z",
+  "model": "glm-5.3"
+}

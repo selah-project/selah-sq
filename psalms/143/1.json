@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Psalm i Davidit. Jahve, dëgjo lutjen time, veshu tejngadhjetjet e mia; në besnikërinë tënde më përgjigju, në drejtësinë tënde.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "veshu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tej"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ngadhënjet e mia"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "në besnikërinë tënde"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "më përgjigju"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "në drejtësinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.870332580Z",
+  "model": "glm-5.3"
+}

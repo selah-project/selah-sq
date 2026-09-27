@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "ℹ️ Shqip: Kafsha e tufës duhet të jetë e palëkundur, mashkull, njëvjeç, për ju; nga qengjat ose nga dhitë do ta merrni.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "kafsha e tufës"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e palëkundur"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "duhet të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "qengjat"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ose nga"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dhitë"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "do ta merrni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:36.016525748Z",
+  "model": "glm-5.3"
+}

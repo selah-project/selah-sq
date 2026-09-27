@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Të gjitha fjalët ⟨janë⟩ të lodhshme; nuk mund ⟨asnjë⟩ njeri t'i thotë ⟨ato⟩; syri nuk ngopet nga të parit dhe veshi nuk mbushet nga të dëgjuarit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "të lodhshme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "t'i thotë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ngopet"
+    },
+    {
+      "surface": "עין",
+      "gloss": "syri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga të parit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mbushet"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "veshi"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "nga të dëgjuarit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:05.234286628Z",
+  "model": "glm-5.3"
+}

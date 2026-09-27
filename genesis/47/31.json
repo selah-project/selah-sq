@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe ⟨Jakobi⟩ tha: «Betohu mua.» Dhe ai i betoi ⟨atij⟩; dhe Izraeli u përkul mbi krye të shtratit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "betohu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dhe i betoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe u përkul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "krye"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "të shtratit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:42.526005401Z",
+  "model": "glm-5.3"
+}

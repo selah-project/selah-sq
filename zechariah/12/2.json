@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Ja, unë po vë Jerusalemin ⟨את⟩ si prag tronditjeje për të gjithë popujt përreth; dhe edhe mbi Judën do të jetë në rrethim kundër Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "po vë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemin"
+    },
+    {
+      "surface": "סף",
+      "gloss": "si prag"
+    },
+    {
+      "surface": "רעل",
+      "gloss": "tronditjeje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "në rrethim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:32.876137392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Shallumi, bir i Jabeshit, kurdisi komplot kundër tij, e ra atë përballë popullit dhe e vrau, dhe mbretëroi në vend të tij.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "kurdisi komplot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallumi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "i Jabeshit"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e ra atë"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e vrau"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:44.768628584Z",
+  "model": "glm-5.3"
+}

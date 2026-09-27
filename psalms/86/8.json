@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Nuk ka ⟨ndonjë⟩ si ti midis perëndive, Adonai, dhe nuk ka vepra si veprat e tua.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "midis perëndive"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "si veprat e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.863772616Z",
+  "model": "glm-5.3"
+}

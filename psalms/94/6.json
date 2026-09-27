@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Vejën dhe të huajin i mbysin, dhe jetimët i vrasin.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Vejën"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "dhe të huajin"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "i mbysin"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "dhe jetimët"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "i vrasin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:10.526749516Z",
+  "model": "glm-5.3"
+}

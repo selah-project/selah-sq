@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe vunë ⟨את⟩ yndyrat mbi kraharorët, dhe ai djegi si tymixë yndyrat mbi altar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dhe vunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrat"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "yndyrat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "kraharorët"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dhe djegi si tymixë"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "yndyrat"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:46.658570348Z",
+  "model": "glm-5.3"
+}

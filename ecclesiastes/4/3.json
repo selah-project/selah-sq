@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe më i mirë se të dy është ⟨את⟩ ai që ende nuk ka qenë, që nuk ka parë ⟨את⟩ punën e keqe që bëhet nën diell.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "dhe më i mirë"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "se të dy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai që ende nuk ka qenë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ka parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punën e keqe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "punën"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bëhet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:45.733824624Z",
+  "model": "glm-5.3"
+}

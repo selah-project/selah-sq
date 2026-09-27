@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 133,
+  "translation": "Si vesa e Hermonit, që zbret mbi malet e Sionit, sepse aty urdhëroi Jahve ⟨את⟩ ⟨bekimin⟩ — jetë deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Si vesa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "e Hermonit"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "që zbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "e Sionit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekimin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bekimin"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jetë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:12.294579020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Nëse rerat mbushen me shi, mbi tokë i lëshojnë ⟨atë⟩; dhe nëse një pemë bie në jug, a në veri, në vendin ku bie pemja, aty ⟨është⟩ ajo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "mbushen"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "rerat"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "me shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "i lëshojnë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bie"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "një pemë"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "në jug"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a nëse"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "në veri"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ku bie"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pemja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨është⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:55.861550171Z",
+  "model": "glm-5.3"
+}

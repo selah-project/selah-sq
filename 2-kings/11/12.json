@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe nxori ⟨את⟩ birin e mbretit dhe vuri mbi të ⟨את⟩ kurorën dhe ⟨את⟩ dëshminë, dhe e bënë mbret ⟨את⟩ dhe e vajosën, dhe duartrokitën, dhe thanë: Rroftë mbreti!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin e mbretit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurorën"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "kurorën"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe ⟨את⟩"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "dëshminë"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dhe e bënë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (birin e mbretit)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "dhe e vajosën"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe goditën"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pëllëmbën"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Rroftë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:21.316939005Z",
+  "model": "glm-5.3"
+}

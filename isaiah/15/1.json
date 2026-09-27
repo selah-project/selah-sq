@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Barra e Moabit: sepse në një natë u shkatërrua Ari i Moabit, u shua; sepse në një natë u shkatërrua Kiri i Moabit, u shua.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Barra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "e Moabit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "në një natë"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "u shkatërrua"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moabit"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "u shua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "në një natë"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "u shkatërrua"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kiri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moabit"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "u shua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:47.563649106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Tek i cili nga shërbëtorët të tu gjendet ⟨me⟩ ⟨את⟩-in, le të vdesë, dhe edhe ne do të bëhemi robër të zotërisë së tonë.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tek i cili"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "ai (shërbëtori te i cili gjendet"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "nga shërbëtorët të tu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe le të vdesë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "do të bëhemi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "të zotërisë"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "robër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:22.367171632Z",
+  "model": "glm-5.3"
+}

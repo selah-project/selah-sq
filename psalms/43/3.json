@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dërgo dritën tënde dhe të vërtetën tënde; ato do më udhëheqin, do më sjellin në malin e shenjtërisë tënde dhe në Mishkanet e tua.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "dritën tënde"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "dhe të vërtetën tënde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ato"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "do më udhëheqin"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "do më sjellin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e shenjtërisë tënde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Mishkanet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:05.025663174Z",
+  "model": "glm-5.3"
+}

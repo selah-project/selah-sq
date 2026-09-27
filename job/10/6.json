@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "që kërkon paushëm mëkatin tim dhe heton fajin tim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "kërkon paushëm"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mëkatin tim"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "dhe fajin tim"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "heton"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:05.925125932Z",
+  "model": "glm-5.3"
+}

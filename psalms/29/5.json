@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Zëri i Jahvesë thyen qarret; po, Jahve thyen ⟨את⟩ qarret e Libanit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "thyen"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "qarret"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "po, thyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarret e Libanit"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "qarret e"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:21.933274008Z",
+  "model": "glm-5.3"
+}

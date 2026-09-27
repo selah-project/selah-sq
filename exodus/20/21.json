@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe populli qëndroi nga larg, ndërsa Moisiu u afrua drejt errësirës së trashë, ku ishte atje Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e Moisiu"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "u afrua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "errësirës së trashë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:36.414806241Z",
+  "model": "glm-5.3"
+}

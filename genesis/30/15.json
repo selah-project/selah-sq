@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ajo i tha asaj: «⟨Është⟩ pak të marrësh ⟨את⟩ burrin tim dhe të marrësh edhe ⟨את⟩ dukaaímit e birit tim?» Dhe Raheli tha: «Prandaj ai do të flejë me te natën në shkëmbim të dukaaímve të birit tënd».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "(është) pak"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "marrja jote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burrin tim (אישי)"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "burrin tim"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dhe të marrësh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukaaímit e birit tim (דודאי בני)"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dukaaímit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të birit tim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "do të flejë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nata (kjo natë)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në shkëmbim të"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dukaaímve"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "të birit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:40.411690315Z",
+  "model": "glm-5.3"
+}

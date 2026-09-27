@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Të lumtur ⟨është⟩ njeriu që e vuri Jahven si besimin e vet, dhe nuk u drejtua nga arrogantët e nga ata që shmangen te gënjeshtra.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "të lumtur"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "besimin e vet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "u drejtua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "arrogantët"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "dhe ata që shmangen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "te gënjeshtra"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:07.901759273Z",
+  "model": "glm-5.3"
+}

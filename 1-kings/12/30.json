@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe kjo gjë u bë mëkat; dhe populli shkoi para njërit ⟨prej tyre⟩ deri në Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kjo gjë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mëkat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:23.737314554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "fushën që bleu Avraham ⟨מאת⟩ bijve të Hetit; atje u varros Avraham dhe Sara, gruaja e tij.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "fushën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bleu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "nga bijtë e Hetit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetit"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "u varros"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "dhe Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruaja e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:33.353694118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "në duart e të cilëve ⟨është⟩ plan i keq, dhe e djathta e tyre ⟨është⟩ plot me ryshfet.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilëve"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "në duart e tyre"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "plan i keq"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "dhe e djathta e tyre"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plot"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "me ryshfet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:09.342039677Z",
+  "model": "glm-5.3"
+}

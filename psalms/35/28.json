@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe gjuha ime do të përmendë drejtësinë tënde, lavdërimin tënd gjithë ditën.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "dhe gjuha ime"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "do të përmendë (përkujtojë me zë)"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "drejtësinë tënde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lavdërimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:50.876974068Z",
+  "model": "glm-5.3"
+}

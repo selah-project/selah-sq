@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Sa të bekuar ⟨janë⟩ ata që janë të patmet në rrugën e tyre, që ecin në Torën e Jahvesë!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sa të bekuar"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "të patmet"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "që ecin"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "në Torën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:17.944749745Z",
+  "model": "glm-5.3"
+}

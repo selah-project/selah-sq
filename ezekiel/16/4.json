@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Sa për lindjen tënde, në ditën kur lindje ti, kordoni i kërthizës sate nuk u prere, dhe me ujë nuk u la për pastrim, dhe me kripë nuk u kripëse fare, dhe me pëlhura nuk u mbështille fare.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Sa për lindjen tënde"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "kur lindje"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "u prere"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "kordoni i kërthizës sate"
+    },
+    {
+      "surface": "ו במים",
+      "gloss": "dhe me ujë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "u la"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "për pastrim"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "dhe me kripë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "u kripëse fare"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "dhe me pëlhura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "u mbështille fare"
+    }
+  ],
+  "timestamp": "2026-09-27T16:29:26.833067961Z",
+  "model": "glm-5.3"
+}

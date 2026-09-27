@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "I Davidit. Gjykomë, o Jahve, sepse unë në pafajësinë time kam ecur dhe në Jahve kam besuar; nuk do të lëkundem.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Gjykomë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "në pafajësinë time"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "kam ecur"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "dhe në Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam besuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "do të lëkundem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:32.173591719Z",
+  "model": "glm-5.3"
+}

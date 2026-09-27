@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Mizraimi lindi ⟨את⟩ luditët, ⟨את⟩ anamitët, ⟨את⟩ lehabitët dhe ⟨את⟩ naftuhitët.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mizraimi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luditët"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "luditët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anamitët"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lehabitët"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naftuhitët"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuhitët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.921907054Z",
+  "model": "glm-5.3"
+}

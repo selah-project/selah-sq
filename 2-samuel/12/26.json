@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe luftoi Joabi kundër Rabbat-it të bijve të Amonit, dhe e zuri ⟨את⟩ qytetin e mbretërisë",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "dhe luftoi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "kundër Rabbat-it"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të bijve të"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonit"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dhe e zuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "e mbretërisë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:31.813501708Z",
+  "model": "glm-5.3"
+}

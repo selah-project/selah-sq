@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Po ti, o Jahve, mos u largofsh; forca ime, për në ndihmën time vrapo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "po ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "u largoftë"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "forca ime"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "për në ndihmën time"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "vrapo"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:16.861439147Z",
+  "model": "glm-5.3"
+}

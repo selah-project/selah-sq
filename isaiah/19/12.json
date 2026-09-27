@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Ku janë pra të urtët e tu? Le t'i tregojnë ty tani, dhe le ta dinë çfarë ka këshilluar Jahve Tsevaot kundër Egjiptit!",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "pra"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "të urtët e tu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "le t'i tregojnë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dhe le ta dinë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ka këshilluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:31.339545813Z",
+  "model": "glm-5.3"
+}

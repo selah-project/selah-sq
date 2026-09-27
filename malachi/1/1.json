@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Barë e fjalës së Jahvesë drejt Izraelit, nëpërmjet Malachit.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "barë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:46.192254749Z",
+  "model": "glm-5.3"
+}

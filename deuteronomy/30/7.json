@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Jahve, Elohim-i yt, do të vërë ⟨את⟩ të gjitha këto mallkime mbi armiqtë e tu dhe mbi ata që të urrejnë, të cilët të ndoqën.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dhe do të vërë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto mallkime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "mallkimet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ata që të urrejnë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "të ndoqën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:22.169574465Z",
+  "model": "glm-5.3"
+}

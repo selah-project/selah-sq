@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve do të dërgojë mbi ty ⟨את⟩ mallkimin, ⟨את⟩ ngatërresën dhe ⟨את⟩ qortimin, në çdo zgjatje të dorës sate që do të bësh, derisa të shkatërrohesh dhe të zhdukesh shpejt, për shkak të ligësisë së veprave të tua, me të cilat më ke lënë ⟨mua⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "do të dërgojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallkimin"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "mallkimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngatërresën"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "ngatërresën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qortimin"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "qortimin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "zgjatje"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "të dorës sate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "të shkatërrohesh"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe derisa"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "të zhdukesh"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shpejt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ligësisë"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "së veprave të tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilat"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "më ke lënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:23.694777808Z",
+  "model": "glm-5.3"
+}

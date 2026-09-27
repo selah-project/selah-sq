@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Që e mprehën si shpatë gjuhën e tyre, e ngritën shigjetën e tyre — fjalë e hidhur.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "e mprehën"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "si shpatë"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuhën e tyre"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "e ngritën (hënë të harkut)"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "shigjetën e tyre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "מר",
+      "gloss": "e hidhur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:14.693356476Z",
+  "model": "glm-5.3"
+}

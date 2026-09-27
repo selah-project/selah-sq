@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Fol bijve të Izraelit dhe u thuaj atyre: Kur të hyni në ⟨atë⟩ tokën që unë po ju jap, dhe të korrni ⟨את⟩ korrin e saj, atëherë do të sillni ⟨את⟩ omerin, frytet e para të korrit tuaj, te prifti.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dhe u thuaj"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "të hyni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po jap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "dhe të korrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korrin e saj"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "korrin e saj"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "dhe do të sillni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "frytet e para"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "të korrit tuaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:32.677258883Z",
+  "model": "glm-5.3"
+}

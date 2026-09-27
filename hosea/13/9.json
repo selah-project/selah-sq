@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Shkatërrimi yt, o Izrael — se vetëm nga ti; në mua është ndihma jote.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "shkatërrimi yt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "është ndihma jote"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:32.763941272Z",
+  "model": "glm-5.3"
+}

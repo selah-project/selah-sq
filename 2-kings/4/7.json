@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ajo shkoi dhe ia tregoi njeriut të Elohibit, dhe ai tha: «Shko, shit ⟨את⟩ vajin dhe pagua ⟨את⟩ borxhet e tua; dhe ti me bijtë e tu do të jetosh nga ajo që mbetet.»",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ajo shkoi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "dhe ia tregoi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Elohibit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "shko"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "shit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "dhe pagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borxhet e tua"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "borxhet e tua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "me bijtë e tu"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "do të jetosh"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "nga ajo që mbetet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:20.067833475Z",
+  "model": "glm-5.3"
+}

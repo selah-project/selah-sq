@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Sepse kush në qiell mund të krahasohet me Jahve? Kush është i ngjashëm me Jahve midis bijve të El-it?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "në qiell"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "mund të krahasohet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "me Jahve"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "është i ngjashëm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "me Jahve"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "midis bijve"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "të El-it"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:19.618751889Z",
+  "model": "glm-5.3"
+}

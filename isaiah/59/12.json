@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Sepse shkeljet tona janë shumëzuar para teje dhe mëkatet tonda dëshmojnë kundër nesh; se shkeljet tona janë ⟨את⟩ ⟨me ne⟩ dhe paudhësitë tona i njohim ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "janë shumëzuar"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "shkeljet tona"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "dhe mëkatet tonda"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "dëshmojnë"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kundër nesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "shkeljet tona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨me ne⟩",
+      "marks": "אתנו këtu është parashtesa 'me', jo shenja e kundrinorit את"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "dhe paudhësitë tona"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "i njohim ato"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:19.367146424Z",
+  "model": "glm-5.3"
+}

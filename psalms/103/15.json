@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Njeriu i vdekshëm — si bari ⟨janë⟩ ditët e tij; si lulja e fushës, ashtu lulëzon ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "njeriu i vdekshëm"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "si bari"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ditët e tij"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "si lulja"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "lulëzon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:35.913605218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Atëherë i çali do të kërcejë si dreri dhe gjuha e të mutit do të këndojë; sepse në shkretëtirë do të çelen ujra dhe përrenj në fushën e thatë.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "do të kërcejë"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "si dreri"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "i çali"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "dhe do të këndojë"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuha e"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "të mutit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "do të çelen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujra"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "dhe përrenj"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "në fushën e thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:47.837813820Z",
+  "model": "glm-5.3"
+}

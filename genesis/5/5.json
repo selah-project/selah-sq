@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe të gjitha ditët e Adamit që jetoi ⟨qenë⟩ nëntëqind e tridhjetë vjet, dhe vdiq.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "qenë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jetoi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nëntë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.487916045Z",
+  "model": "glm-5.3"
+}

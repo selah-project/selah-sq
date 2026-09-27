@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe përfitimi i tokës ⟨ësht⟩ për të gjitha: ⟨edhe⟩ mbreti — një fushë e punuar i shërben.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "dhe përfitimi i"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ësht⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "një fushë"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "e punuar i shërben"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:09.845604795Z",
+  "model": "glm-5.3"
+}

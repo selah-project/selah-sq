@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Edhe sot jam i fortë, si në ditën kur më dërgoi ⟨את⟩ Moisiu; ashtu siç ishte forca ime atëherë, kështu është forca ime tani, për luftë, për të dalë dhe për të hyrë.",
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "jam i fortë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "si forca ime"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "dhe si forca ime"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "për të dalë"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "dhe për të hyrë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:51.892747117Z",
+  "model": "glm-5.3"
+}

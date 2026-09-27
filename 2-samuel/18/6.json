@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe populli doli në fushë përballë Israelit, dhe lufta ⟨qe⟩ në pyllin e Efraimit.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "qe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lufta"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "në pyllin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "e Efraimit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:32.005975748Z",
+  "model": "glm-5.3"
+}

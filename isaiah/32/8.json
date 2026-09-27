@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe i bujshi këshillon gjëra bujare, dhe mbi gjëra bujare ai do të ngrihet.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "dhe i bujshi"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "gjëra bujare"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "këshillon"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "gjëra bujare"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "do të ngrihet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:55.387275268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Jam betuar dhe do ta përmbush ⟨atë⟩: të ruaj gjykimet e të drejtës sate.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "jam betuar"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "dhe do ta përmbush"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "të ruaj"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "e të drejtës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.591945299Z",
+  "model": "glm-5.3"
+}

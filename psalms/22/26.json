@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Prej ⟨את⟩-së sate vjen lëvdimi im, në kuvend të madh; fjalët e mia të dhëna i përmbush para atyre që i frikësohen atij.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ prej teje",
+      "marks": "lëvdimi im"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lëvdimi im"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "në kuvend"
+    },
+    {
+      "surface": "רב",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "fjalët e mia të dhëna"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "i përmbush"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "atyre që i frikësohen atij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:29.751797687Z",
+  "model": "glm-5.3"
+}

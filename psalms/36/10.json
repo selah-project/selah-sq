@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Sepse te ti është ⟨burimi⟩ i jetës; në dritën tënde do të shohim dritë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "⟨burimi⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i jetës"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "në dritën tënde"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "do të shohim"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:07.879716685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe mbreti i Izraelit u përgjigj dhe tha: «Sipas fjalës sate, zotëria im, o mbret: unë jam i yti, dhe gjithë çfarë kam është e jotja.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Dhe u përgjigj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sipas fjalës sate"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o mbret"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yti (të)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam (është e imja)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:51.526143391Z",
+  "model": "glm-5.3"
+}

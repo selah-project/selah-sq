@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 9:2",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "në vitin e parë të mbretërimit të tij, unë, Danieli, kuptova nga librat numrin e viteve për të cilat ishte fjala e Jahvesë te profeti Jeremia, për të plotësuar shkretëtirat e Jerusalemit: shtatëdhjetë vjet.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "në vitin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "të mbretërimit të tij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieli"
+    },
+    {
+      "surface": "בינתי",
+      "gloss": "kuptova"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "nga librat"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numrin"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "e viteve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "për të plotësuar"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "shkretëtirat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "shtatëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:40.711623548Z",
+  "model": "glm-5.3"
+}

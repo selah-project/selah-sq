@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe u forqua dora e Midianit mbi Israel; nga fytyra e Midianit bënë për vete bijtë e Israelit ⟨את⟩ rrugët e fshehta që në male, dhe ⟨את⟩ shpellat, dhe ⟨את⟩ kështjellat.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "dhe u forqua"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora e"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga fytyra e"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugët e fshehta"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "rrugët e fshehta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "në male"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shpellat"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "shpellat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kështjellat"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "kështjellat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:10.047881499Z",
+  "model": "glm-5.3"
+}

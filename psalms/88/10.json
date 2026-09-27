@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Syri më slogët nga mundimi; të kam thirrur, o Jahve, çdo ditë, të kam shtrirë duart e mënga pallmi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "syri më"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "slogët"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mundimi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "të kam thirrur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "kam shtrirë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "pallmi i mi (duart)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.911855429Z",
+  "model": "glm-5.3"
+}

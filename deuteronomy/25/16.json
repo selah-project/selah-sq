@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sepse neveri e Jahvesë, Elohim i tij, ⟨është⟩ kushdo që bën këto, kushdo që bën padrejtësi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "עול",
+      "gloss": "padrejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:41.559784980Z",
+  "model": "glm-5.3"
+}

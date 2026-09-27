@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Shpirti i përtacit dëshiron dhe s'ka asgjë, por shpirti i të zellshmit do të shijojë dhjam.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "dëshiron"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka asgjë"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Shpirti i"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "përtacit"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "por shpirti"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "i të zellshmit"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "do të shijojë dhjam"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:46.753658490Z",
+  "model": "glm-5.3"
+}

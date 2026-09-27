@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Një burrë i urtë gjykon ⟨me⟩ ⟨את⟩ një burrë të pamend, dhe ai inatoset dhe qesh, dhe nuk ka pushim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "një burrë"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i urtë"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "gjykon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një burrë të pamend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një burrë"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "të pamend"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "dhe inatoset"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "dhe qesh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "pushim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:09.075929193Z",
+  "model": "glm-5.3"
+}

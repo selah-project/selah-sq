@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jozue i rrahi ata nga Kades-Barnea deri në Gaza, dhe ⟨את⟩ gjithë ⟨të⟩ tokës së Goshenit deri në Gibeon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "dhe i rrahi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nga Kades"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë tokës së Goshenit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshenit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:16.813792452Z",
+  "model": "glm-5.3"
+}

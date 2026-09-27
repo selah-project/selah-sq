@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Për ty foli zemra ime: «Kërko fytyrën time»; fytyrën ⟨את⟩ tënde, o Jahve, unë do të kërkoj.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Për ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Kërko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "unë do të kërkoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:44.070508444Z",
+  "model": "glm-5.3"
+}

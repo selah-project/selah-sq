@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Elohim e kujtoi ⟨את⟩ Noan, dhe ⟨את⟩ çdo gjalle dhe ⟨את⟩ çdo bagëti që ⟨ishte⟩ ⟨את⟩-pranë tij në arkë; dhe Elohim bëri një erë të kalonte mbi ⟨të⟩ tokës, dhe ujet u qetësuan.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "dhe kujtoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo gjalle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gjalle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo bagëti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bagëti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-pranë"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "në arkë"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dhe bëri të kalonte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "dhe u qetësuan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:01.757947081Z",
+  "model": "glm-5.3"
+}

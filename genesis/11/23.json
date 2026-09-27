@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Serug jetoi, pasi lindi ⟨את⟩ Nahorin, dyqind vjet, dhe lindën djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "lindi ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahorin"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorin"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dyqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dhe vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:22.798384571Z",
+  "model": "glm-5.3"
+}

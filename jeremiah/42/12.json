@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "dhe do t'ju jap mëshirë, dhe do t'ju mëshirojë ⟨אתכם⟩, dhe do t'ju kthejë ⟨אתכם⟩ në tokën tuaj.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "dhe do t'ju jap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "mëshirë"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "dhe do të mëshirojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dhe do t'ju kthejë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tokën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:21:54.116181425Z",
+  "model": "glm-5.3"
+}

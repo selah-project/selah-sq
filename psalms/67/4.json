@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Popujt të lëvdoinë ty, Elohim; të gjithë popujt të lëvdoinë ty.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "të lëvdoinë ty"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "të lëvdoinë ty"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:21.856121185Z",
+  "model": "glm-5.3"
+}

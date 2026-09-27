@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse i shtypni ⟨את⟩ atë — po, nëse ai bërtet me të madhe drejt meje, do ta dëgjoj patjetër bërtitjen e tij;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "me e shtypur"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "i shtypni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (venë\/jetimin)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "me bërtitur"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bërtet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "me dëgjuar"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "do ta dëgjoj patjetër"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "bërtitjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:19.461074411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Për dirigjentin. Mizmor i Davidit. Jahve, më ke hetuar dhe ⟨më⟩ ke njohur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "më ke hetuar"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "dhe ⟨më⟩ ke njohur"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:58.460192120Z",
+  "model": "glm-5.3"
+}

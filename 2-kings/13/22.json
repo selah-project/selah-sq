@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Hazaeli, mbreti i Aramit, e shtypi ⟨את⟩-n e Izraelit gjithë ditët e Jehoahazit.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Dhe Hazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i Aramit"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "e shtypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:58.536662145Z",
+  "model": "glm-5.3"
+}

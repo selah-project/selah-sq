@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Një qytet i vogël, dhe pak burra në të; dhe erdhi kundër tij një mbret i madh, dhe e rrethoi ⟨אתה⟩, dhe ndëroi kundër tij kështjella të mëdha.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "i vogël"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "dhe burra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "dhe e rrethoi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (qytetin)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "dhe ndëroi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "kështjella rrethuese"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:39.403520441Z",
+  "model": "glm-5.3"
+}

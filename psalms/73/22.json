@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Dhe unë isha i pamend dhe nuk dija; një kafshë isha ⟨me⟩ ty.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "בער",
+      "gloss": "i pamend"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "dija"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "një kafshë"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "isha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.279491241Z",
+  "model": "glm-5.3"
+}

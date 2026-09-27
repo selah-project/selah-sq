@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe shpirti im është tmerruar shumë; e ti ⟨את⟩, o Jahve — deri kur?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Dhe shpirti im"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "është tmerruar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ti ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:38.611643049Z",
+  "model": "glm-5.3"
+}

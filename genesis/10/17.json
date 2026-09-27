@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨את⟩ Hivitin, dhe ⟨את⟩ Arkitin, dhe ⟨את⟩ Sinitin",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hivitin"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Arkitin"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Sinitin"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinitin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.011447252Z",
+  "model": "glm-5.3"
+}

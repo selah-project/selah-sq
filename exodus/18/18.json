@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Do të shterish plotësisht, edhe ti, edhe ky popull që ⟨është⟩ me ty, sepse ⟨gjëja⟩ është më e rëndë se sa ti; nuk mund ta bësh ⟨את⟩ vetëm i vetmi.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "do të shterish"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "plotësisht"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ky popull"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "është e rëndë"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "se sa ti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨gjëja⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ta bësh ⟨את⟩"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm i vetmi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:19.142671304Z",
+  "model": "glm-5.3"
+}

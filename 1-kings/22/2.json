@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ndodhi në vitin e tretë, dhe zbriti Jehoshafati, mbreti i Judës, te mbreti i Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "në vitin"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "e tretë"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:10.304695472Z",
+  "model": "glm-5.3"
+}

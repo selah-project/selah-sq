@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Samueli i afroi ⟨atë⟩ ⟨את⟩ të gjitha fiset e Izraelit, dhe u zgjodh fisi i Beniaminit.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i afroi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fiset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dhe u zgjodh me short"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fisi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "i Beniaminit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:57.178339750Z",
+  "model": "glm-5.3"
+}

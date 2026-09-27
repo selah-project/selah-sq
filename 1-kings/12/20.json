@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ndodhi që, kur gjithë Izraeli dëgjoi se ishte kthyer Jeroboami, ata dërguan e e thirrën ⟨את⟩ atë në kuvend, dhe e bënë mbret ⟨את⟩ atë mbi gjithë Izraelin. Nuk ndoqi asnjeri pas shtëpisë së Davidit, përveç fisit të Judës vetëm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ishte kthyer"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboami"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "e thirrën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Jeroboamin në kuvend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kuvend"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "e bënë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Jeroboamin mbi Izraelin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fisit të"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:57.841298491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Ngjitu ⟨me⟩ britmë ⟨është⟩ Elohim, Jahve ⟨ngjitu⟩ me zërin e borisë.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Ngjitu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "me britmë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "me zërin"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "e borisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:01.059902202Z",
+  "model": "glm-5.3"
+}

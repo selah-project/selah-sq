@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "A do të braktisë për jetë Adonai, dhe a nuk do të pëlqejë më kurrë?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "a do të … për jetë"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "braktisë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe a nuk"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "do të … më"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "pëlqejë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kurrë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:56.612234312Z",
+  "model": "glm-5.3"
+}

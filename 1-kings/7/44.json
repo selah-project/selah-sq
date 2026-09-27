@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe ⟨את⟩ detin e vetëm, dhe ⟨את⟩ dymbëdhjetë qetë nën detin;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "detin e vetëm"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e vetëm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dymbëdhjetë qetë"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "qetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dymbë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:34.107526992Z",
+  "model": "glm-5.3"
+}

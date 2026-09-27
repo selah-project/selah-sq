@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sepse bijtë e Izraelit ⟨janë⟩ shërbëtorët e mi — shërbëtorët e mi ⟨janë⟩ ata, të cilët i nxora ⟨אותם⟩ nga vendi i Egjiptit; unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "të mitë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "shërbëtorë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e mi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "i nxora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i nxora (kundrinori: bijtë e Izraelit)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:43.433873306Z",
+  "model": "glm-5.3"
+}

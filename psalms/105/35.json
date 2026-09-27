@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": " dhe hëngri çdo bar në vendin e tyre, dhe hëngri frytin e dheut të tyre.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "dhe hëngri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bar"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "në vendin e tyre"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dhe hëngri"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frytin"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "të dheut të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:04.753099782Z",
+  "model": "glm-5.3"
+}

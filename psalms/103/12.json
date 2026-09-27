@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Sa larg ⟨është⟩ lindja nga perëndimi, aq larg i largoi ⟨את⟩ kundërshtimet tona nga ne.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "sa larg"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "lindja"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "nga perëndimi"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "aq larg i largoi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundërshtimet tona"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "kundërshtimet tona"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:15.561170892Z",
+  "model": "glm-5.3"
+}

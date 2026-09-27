@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jozefi u tha atyre: «Pikërisht kjo është ajo që ju thashë, duke thënë: spiunë jeni ju.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pikërisht kjo është"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ju thashë"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spiunë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jeni ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:04.386224504Z",
+  "model": "glm-5.3"
+}

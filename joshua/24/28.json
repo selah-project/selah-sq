@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Jozue e lëshoi ⟨את⟩ popullin, çdo njeri në trashëgiminë e vet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e lëshoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "në trashëgiminë e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:39.293453714Z",
+  "model": "glm-5.3"
+}

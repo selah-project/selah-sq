@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Zemra jonë nuk është kthyer mbrapsht dhe hapat tanë nuk janë shmangur nga rruga jote.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "është kthyer mbrapsht"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mbrapsht"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "zemra jonë"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "dhe janë shmangur"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "hapat tanë"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "rruga jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:19.141716650Z",
+  "model": "glm-5.3"
+}

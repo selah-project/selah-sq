@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Drejtësia do të jetë rripi i ijëve të tij, dhe besnikëria rripi i belit të tij.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësia"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "rripi"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "i ijëve të tij"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "dhe besnikëria"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "rripi"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "i belit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:22.301920270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Sepse shpata ime u ngop në qiell; ja, mbi Edom do të zbresë, dhe mbi popullin e shfarosjes sime, për gjykim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "u ngop"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiell"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "shpata ime"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "do të zbresë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "e shfarosjes sime"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "për gjykim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:54.773784807Z",
+  "model": "glm-5.3"
+}

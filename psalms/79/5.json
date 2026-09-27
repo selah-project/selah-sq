@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Deri kur, o Jahve? Do të tëshesh i zemëruar ⟨për⟩ jetë? Do të digjet si zjarr xhelozia jote?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Deri kur"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "do të tëshesh i zemëruar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨për⟩ jetë"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "do të digjet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "xhelozia jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:45.191141704Z",
+  "model": "glm-5.3"
+}

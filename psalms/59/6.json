@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 59:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Dhe ti, Jahve, Elohim Tsevaot, Elohim i Izraelit, zgjohu të vizitosh ⟨të gjithë⟩ kombet; mos u trego i mëshirshëm ndaj ⟨asnjë⟩ tradhtari të paudhësisë. Selah.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "zgjohu"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "të vizitosh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨të gjithë⟩"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחן",
+      "gloss": "u trego i mëshirshëm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨asnjë⟩"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tradhtari"
+    },
+    {
+      "surface": "און",
+      "gloss": "paudhësisë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:41.721024385Z",
+  "model": "glm-5.3"
+}

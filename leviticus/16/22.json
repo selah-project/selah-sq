@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe cjapi do të mbajë mbi vete ⟨את⟩ të gjitha paudhësitë e tyre në një tokë të ndarë, dhe do ta lëshojë ⟨את⟩ cjapin në shkretëtirë.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "dhe do të mbajë"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "cjapi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi vete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha paudhësitë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "paudhësitë e tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "një tokë"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "të ndarë"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dhe do ta lëshojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cjapin"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "cjapin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:14.314561470Z",
+  "model": "glm-5.3"
+}

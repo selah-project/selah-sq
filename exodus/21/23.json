@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse ndodh fatkeqësi, do të japësh shpirt për shpirt,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "fatkeqësi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndodh"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "do të japësh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "për"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:09.958249602Z",
+  "model": "glm-5.3"
+}

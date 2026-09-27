@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Se Jahve po kthen ⟨את⟩ krenarinë e Jakovit, si krenarinë e Izraelit, se zbrazësit i kanë zbrazur dhe i kanë prishur hardhitë e tyre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שב",
+      "gloss": "po kthen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krenarinë e Jakovit"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "krenarinë"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakovit"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "si krenarinë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "zbrazësit"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "i kanë zbrazur"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "hardhitë e tyre"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "i kanë prishur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:38.503001615Z",
+  "model": "glm-5.3"
+}

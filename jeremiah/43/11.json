@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Do të vijë dhe do të godasë ⟨את⟩ tokën e Egjiptit: çfarë ⟨është⟩ për vdekje, për vdekje, dhe çfarë për robëri, për robëri, dhe çfarë për shpatë, për shpatë.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Do të vijë"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dhe do të godasë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Egjiptit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "למות",
+      "gloss": "për vdekje"
+    },
+    {
+      "surface": "למות",
+      "gloss": "për vdekje"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "për robëri"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "për robëri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "për shpatë"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "për shpatë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:22:00.419189895Z",
+  "model": "glm-5.3"
+}

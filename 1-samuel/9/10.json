@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Sauli i tha djalit të tij: «Fjala jote ⟨është⟩ e mirë; ejani, le të shkojmë.» Dhe shkuan në qytetin ku ishte njeriu i Elohim-it.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "djalit të tij"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "fjala jote"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ejani"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "le të shkojmë"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Dhe shkuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohim-it"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:08.369906806Z",
+  "model": "glm-5.3"
+}

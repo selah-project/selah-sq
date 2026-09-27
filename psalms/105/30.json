@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Toka e tyre u njëmbush me bretkosa, në dhomat e mbretërve të tyre.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "u njëmbush"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "toka e tyre"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "bretkosa"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "në dhomat"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "e mbretërve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:35.683162642Z",
+  "model": "glm-5.3"
+}

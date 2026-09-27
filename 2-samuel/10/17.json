@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe iu njoftua Davidit, dhe ai mblodhi ⟨את⟩ gjithë Israelin, kaloi ⟨את⟩ Jordanin dhe erdhi në Helam; dhe Arami u radhit në betejë përballë Davidit dhe luftoi me të.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "iu njoftua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "në Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "u radhit"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "luftoi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:32.370284282Z",
+  "model": "glm-5.3"
+}

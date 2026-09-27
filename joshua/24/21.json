@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe populli i tha Jozuesë: Jo, por ⟨את⟩ Jahve do t'i shërbejmë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... i tha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuesë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "do t'i shërbejmë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:41.174119371Z",
+  "model": "glm-5.3"
+}

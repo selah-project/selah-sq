@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Kështu Jehu shfarosi ⟨את⟩ Baalin nga Izraeli.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "dhe shfarosi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalin"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nga Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:40.201375584Z",
+  "model": "glm-5.3"
+}

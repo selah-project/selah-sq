@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe nëse shkojnë në robëri para armiqve të tyre, prej aty do të urdhëroj ⟨את⟩ shpatën, dhe ajo do t'i vrasë; dhe do të vendos syrin tim mbi ta për të keqe, e jo për të mirë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "shkojnë"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "në robëri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "armiqve të tyre"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej aty"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "do të urdhëroj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpatën"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "shpatën"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "dhe do t'i vrasë"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "dhe do të vendos"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syrin tim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "për të keqe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "për të mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:44.467966107Z",
+  "model": "glm-5.3"
+}

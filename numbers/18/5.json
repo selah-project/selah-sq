@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ju do të ruani ⟨את⟩ rojën e të shenjtave dhe ⟨את⟩ rojën e altarit, dhe nuk do të ketë më zemërim mbi bijtë e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe ju do të ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojën e të shenjtave"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "rojën"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e të shenjtave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rojën e altarit"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "rojën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "e altarit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "zemërim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:23.783163479Z",
+  "model": "glm-5.3"
+}

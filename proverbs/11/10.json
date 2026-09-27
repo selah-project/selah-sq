@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Në të mirën e të drejtëve qyteti gëzohet, dhe në shkatërrimin e të ligjve ⟨ka⟩ brohoritje.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "në të mirën"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "e të drejtëve"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "dhe në shkatërrimin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligjve"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "brohoritje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.033316873Z",
+  "model": "glm-5.3"
+}

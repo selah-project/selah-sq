@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe këto janë ⟨i⟩ judgment-et që do t'i vësh para tyre.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këto"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "do të vësh"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "para tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:08.755138265Z",
+  "model": "glm-5.3"
+}

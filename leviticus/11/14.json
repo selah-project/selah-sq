@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ kozmatin, dhe ⟨את⟩ gjerasin sipas llojit të vet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kozmatin"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "kozmatin (milan i zi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjerasin"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "gjerasin (sokolë)"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:20.900654844Z",
+  "model": "glm-5.3"
+}

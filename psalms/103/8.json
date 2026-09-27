@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "I mëshirshëm dhe i hirshëm ⟨është⟩ Jahve, i ngadalshëm në zemërim dhe i madh në hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "i mëshirshëm"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "dhe i hirshëm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "i ngadalshëm"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe i madh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "në hesed"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:20.286631359Z",
+  "model": "glm-5.3"
+}

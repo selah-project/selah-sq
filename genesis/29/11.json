@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi e puthi Rahelën, dhe ngriti ⟨את⟩ zërin e tij, dhe qau.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "dhe e puthi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahelën"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e tij"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "zërin e tij"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dhe qau"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:45.595352773Z",
+  "model": "glm-5.3"
+}

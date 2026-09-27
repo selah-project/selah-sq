@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 29:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do të të hedh në shkretëtirë, ty ⟨אותך⟩ dhe ⟨ואת⟩ gjithë peshqit e lumenjve të tu; mbi faqen e fushës do të biesh, nuk do të mblidhesh dhe nuk do të tubohesh; të egërsirave të tokës dhe të shpezëve të qiejve ty të kam dhënë për ushqim.",
+  "tokens": [
+    {
+      "surface": "ונטשתיך",
+      "gloss": "do të të hedh"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty",
+      "marks": "אותך — shenja kundrinori për 'ty' (Faraonin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë peshqit e lumenjve të tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "דגת",
+      "gloss": "peshqit"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "e lumenjve të tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "do të biesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "do të mblidhesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תקבץ",
+      "gloss": "do të tubohesh"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "të egërsirave"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "dhe të shpezëve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "e qiejve"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "të kam dhënë ty"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "për ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:34:47.599379088Z",
+  "model": "glm-5.3"
+}

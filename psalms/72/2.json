@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Ai do të gjykojë popullin tënd me drejtësi, dhe të varfërit e tu me gjykim.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "dhe të varfërit e tu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "me gjykim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.985808930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 125,
+  "translation": "Këngë e ngjitjeve. Ata që besojnë në Jahve janë si mali i Sionit — nuk do të lëkundet, por qëndron ⟨për⟩ jetë.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ata që besojnë"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "si mali"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "i Sionit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "do të lëkundet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨për⟩ jetë"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qëndron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.499590381Z",
+  "model": "glm-5.3"
+}

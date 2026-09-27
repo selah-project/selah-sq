@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jahve shtriu dorën e tij dhe e preku ⟨את⟩ gojën time; dhe Jahve më tha: «Ja, të kam vënë fjalët e mia në gojën tënde.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe shtriu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dhe preku"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kam vënë"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "në gojën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:13.486998179Z",
+  "model": "glm-5.3"
+}

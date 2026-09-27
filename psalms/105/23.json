@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Dhe Izraeli hyri në Egjipt, dhe Jakobi banoi si i huaj në vendin e Hamit.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dhe Jakobi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "banoi si i huaj"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "חם",
+      "gloss": "të Hamit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:37.203605121Z",
+  "model": "glm-5.3"
+}

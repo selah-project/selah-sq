@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Rrugën e besnikërisë zgjodha, gjykimet e tua i vura para meje.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "e besnikërisë"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "zgjodha"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimet e tua"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "i vura para meje"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:48.849853415Z",
+  "model": "glm-5.3"
+}

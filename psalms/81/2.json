@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Këndoni me gaz Elohimit, forcës sonë; bërtitni ⟨⟨ për ⟩⟩ Elohit të Jakobit!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Këndoni me gaz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "forcës sonë"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bërtitni"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohit të"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:32.671243858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Hesht përpara Jahve dhe prit me durim për atë; mos u ndez nga zemërimi për shkak të atij që ia lejohet rruga e tij, për shkak të njeriut që bën plane të këqija.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Hesht"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "përpara Jahve"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "dhe prit me durim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "u ndez nga zemërimi"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "që ia lejohet (rruga)"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rruga e tij"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "për shkak të njeriut"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "plane të këqija"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:51.814297459Z",
+  "model": "glm-5.3"
+}

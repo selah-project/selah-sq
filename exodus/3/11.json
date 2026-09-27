@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Moisi i tha Elohim-it: Kush jam unë që të shkoj te Faraoni dhe që të nxjerr ⟨את⟩ bijtë e Izraelit nga Egjipti?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "të shkoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "të nxjerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:32.543882140Z",
+  "model": "glm-5.3"
+}

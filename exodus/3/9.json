@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani, ja, britma e bijve të Izraelit ka ardhur te unë, dhe kam parë edhe ⟨את⟩ shtypjen me të cilën Egjiptianët i shtypin ata.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "britma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ka ardhur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kam parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtypjen"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "shtypjen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptianët"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "i shtypin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:32.543494210Z",
+  "model": "glm-5.3"
+}

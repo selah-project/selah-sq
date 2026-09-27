@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Attai lindi ⟨את⟩ Nathanin, dhe Nathanii lindi ⟨את⟩ Zabadin.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Dhe Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nathanin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathanin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe Nathanii"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadin"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:52.685765381Z",
+  "model": "glm-5.3"
+}

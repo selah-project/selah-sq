@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨i dyti⟩ kerub ishte dhjetë kubitë i ⟨lartë⟩; një masë dhe një formë të njëjtë kishin ⟨të dy⟩ kerubët.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "dhe dhjetë"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "në kubitë"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "i dyti"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "masë"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "dhe formë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "për të dy"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubët"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:35.189589964Z",
+  "model": "glm-5.3"
+}

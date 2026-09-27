@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jahve shpëtoi ⟨את⟩ Izraelin atë ditë; dhe beteja kaloi ⟨את⟩ përtej Beth-Avenit.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Dhe shpëtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "dhe beteja"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Avenin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:38.758773316Z",
+  "model": "glm-5.3"
+}

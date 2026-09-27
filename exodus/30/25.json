@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do ta bësh ⟨אתו⟩ një vaj vajosjeje të shenjtë, një parfum i përbërë, punë e një parfumieri; një vaj vajosjeje i shenjtë do të jetë.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do ta bësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "një vaj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "vajosjeje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "parfum"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "i përbërë"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "parfumieri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "vajosjeje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:14.088782271Z",
+  "model": "glm-5.3"
+}

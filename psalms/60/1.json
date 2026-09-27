@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Për dirigjentin, sipas «Shushan-Edut», mikhtam i Davidit, për t'u mësuar.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut (Dëshmisë)"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "për t'u mësuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:54.963432755Z",
+  "model": "glm-5.3"
+}

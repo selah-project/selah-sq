@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Do të shkatërroj vendet e larta tuajat ⟨את⟩, do t'i prerë shtyllat e diellit tuaja ⟨את⟩, do të hedh kufomat tuaja ⟨את⟩ mbi kufomat e idhujve tuaj, dhe shpirti im do t'ju neverisë ⟨את juaj⟩.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "do të shkatërroj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendt e larta tuajat"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "vendt e larta tuajat"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "do t'i prerë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat e diellit tuaja"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "shtyllat e diellit tuaja"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "do të hedh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kufomat tuaja"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "kufomat tuaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "kufomat"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "e idhujve tuaj"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "dhe do t'ju neverisë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את juaj⟩",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:50.945118541Z",
+  "model": "glm-5.3"
+}

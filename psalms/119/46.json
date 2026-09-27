@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "dhe do të flas për dëshmitë e tua përpara mbretërve, dhe nuk do të turpërohem.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "dhe do të flas"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "për dëshmitë e tua"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretërve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "do të turpërohem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.047916587Z",
+  "model": "glm-5.3"
+}

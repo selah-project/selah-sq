@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Unë, Predikuesi, kam qenë mbret mbi Izrael në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Predikuesi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kam qenë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:55.357546479Z",
+  "model": "glm-5.3"
+}

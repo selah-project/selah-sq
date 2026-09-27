@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jehu mblodhi ⟨את⟩ të gjithë popullin dhe u tha atyre: Ahabi i shërbeu ⟨את⟩ Baalit pak; Jehu do t'i shërbejë atij shumë.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "i shërbeu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalit"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalit"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "do t'i shërbejë atij"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:07.820525291Z",
+  "model": "glm-5.3"
+}

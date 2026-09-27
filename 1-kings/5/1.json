@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 5:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Salomoni sundonte mbi të gjitha mbretëritë, nga Lumi deri në tokën e filistejve dhe deri në kufirin e Egjiptit; ata sillnin barga dhe i shërbenin ⟨את⟩ Salomonit gjithë ditët e jetës së tij.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "Dhe Salomoni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "që nga"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "sundonte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mbi të gjitha"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "mbretëritë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Lumi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "sillnin"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "barga"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "dhe i shërbenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salomonit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jetës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:46.732725371Z",
+  "model": "glm-5.3"
+}

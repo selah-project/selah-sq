@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do ta braktisë ⟨את⟩ Izraelin për shkak të mëkateve të Jeroboamit, që ai mëkatoi dhe me të cilat bëri ⟨את⟩ Izraelin të mëkatojë.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe do ta braktisë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mëkateve"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "të Jeroboamit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkatoi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe me të cilat"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "bëri të mëkatojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:48.810988745Z",
+  "model": "glm-5.3"
+}

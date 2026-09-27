@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Ah, të qëndronin të fikuara rrugët e mia për të ruajtur statutet e tua!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, të (dëshira)"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "të qëndronin të fikuara"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "për të ruajtur"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:04.524394482Z",
+  "model": "glm-5.3"
+}

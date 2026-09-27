@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Sepse ne jemi shuar në tërbimin tënd dhe në furinë tënd jemi tronditur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "jemi shuar"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "në tërbimin tënd"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dhe në furinë tënd"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "jemi tronditur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:29.972844982Z",
+  "model": "glm-5.3"
+}

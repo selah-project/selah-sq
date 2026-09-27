@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe i thanë ⟨atij⟩: Ku është Sara, gruaja jote? Dhe ai tha: Ja, në çadër.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨atij⟩"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku është"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "gruaja jote"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në çadër"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:49.616037317Z",
+  "model": "glm-5.3"
+}

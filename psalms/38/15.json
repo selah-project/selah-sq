@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe u bëra si një njeri që nuk dëgjon, dhe në gojën e tij nuk ⟨ka⟩ qortime.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "dhe u bëra"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "si një njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ⟨ka⟩"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "në gojën e tij"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "qortime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:38.083824627Z",
+  "model": "glm-5.3"
+}

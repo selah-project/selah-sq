@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Kthehu, o Izrael, deri te Jahve, Elohim i yt, sepse ke rrëshqitur në fajin tënd.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Izrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ke rrëshqitur"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "në fajin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:02.723119540Z",
+  "model": "glm-5.3"
+}

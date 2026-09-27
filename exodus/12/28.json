@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe shkuan bijtë e Israelit dhe bënë sic kishte urdhëruar Jahve ⟨את⟩ Moisin dhe Aaronin; ashtu bënë.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Israelit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sic"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaronin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:39.669931240Z",
+  "model": "glm-5.3"
+}

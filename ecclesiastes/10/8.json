@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Kush gropos një gropë do të bjerë në ⟨të⟩, dhe kush thyen një mur do të kafshohet nga një gjarpër.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "kush gropos"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "një gropë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "do të bjerë"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "dhe kush thyen"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "një mur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "do të kafshohet"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nga një gjarpër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:35.579852575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Mos u bëni kështu për Jahve, Elohim tuaj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "u bëjni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:55.762915073Z",
+  "model": "glm-5.3"
+}

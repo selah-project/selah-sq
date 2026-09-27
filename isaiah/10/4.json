@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Vetëm të përkulur nën të burgosur dhe nën të vrarët do të bien. Me gjithë këtë zemërimi i tij nuk u kthye, dhe ende dora e tij është e shtrirë.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "të përkulur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "të burgosur"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dhe nën"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "të vrarët"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "do të bien"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Me gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo \/ nuk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimi i tij"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dhe ende"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "është e shtrirë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:47.502669900Z",
+  "model": "glm-5.3"
+}

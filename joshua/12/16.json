@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "mbreti i Makkedahut, një; mbreti i Beth-Elit, një;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkedahut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:59.237979725Z",
+  "model": "glm-5.3"
+}

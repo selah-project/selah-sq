@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Eliseu hyri ⟨në⟩ shtëpinë, dhe ja, djali ⟨ishte⟩ i vdekur, shtrirë mbi shtratin e tij.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨në⟩ shtëpinë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djali"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i vdekur"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "shtrirë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "shtratin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:38.594739368Z",
+  "model": "glm-5.3"
+}

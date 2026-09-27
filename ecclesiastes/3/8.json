@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Kohë për të dashuruar dhe kohë për të urryer; kohë për luftë dhe kohë për paqen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "për të dashuruar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe kohë"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "për të urryer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe kohë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "për paqen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:00.572204627Z",
+  "model": "glm-5.3"
+}

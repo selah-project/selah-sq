@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Mjerë, komb mëkatar, popull i rënduar me paudhësi, farë keqbërësish, bij shkatërrues! E braktisën ⟨את⟩ Jahvenë, e përbuzën ⟨את⟩ të Shenjtin e Izraelit, u kthyen prapa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "komb"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkatar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "i rënduar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "me paudhësi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "keqbërësish"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bij"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "shkatërrues"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "E braktisën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "e përbuzën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të Shenjtin e Izraelit"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "të Shenjtin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "u kthyen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "prapa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:02.210346664Z",
+  "model": "glm-5.3"
+}

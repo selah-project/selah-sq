@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe vaj për dritën, dhe erëra të mira për vajin e vajimit, dhe për temjanin e erës së mirë.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "dhe vaj"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "për dritën"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "dhe erëra të mira"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "për vajin"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "e vajimit"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "dhe për temjanin"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "të erës së mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:41.597022732Z",
+  "model": "glm-5.3"
+}

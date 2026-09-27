@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "I bekuar ⟨qoftë⟩ Jahve, Elohim, Elohim i Izraelit, që bën vetëm Ai vepra të mrekullueshme.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "vepra të mrekullueshme"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm Ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:27.497388975Z",
+  "model": "glm-5.3"
+}

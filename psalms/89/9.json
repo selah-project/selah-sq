@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Jahve, Elohim i Tsevaotit, kush ⟨është⟩ i fortë si ti, o Jah? Dhe besnikëria e jote ⟨është⟩ rreth e rrotull teje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaotit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "dhe besnikëria e jote"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "rreth e rrotull teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:26.104823948Z",
+  "model": "glm-5.3"
+}

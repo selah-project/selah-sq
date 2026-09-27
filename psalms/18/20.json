@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe më nxori në një vend të gjerë; më shpëtoi, sepse gëzoi kënaqësi në mua.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Dhe më nxori"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "në një vend të gjerë"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "më shpëtoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gëzoi kënaqësi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:00.796832171Z",
+  "model": "glm-5.3"
+}

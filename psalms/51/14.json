@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Kthema gëzimin e shpëtimit tënd, dhe me frymë bujare më mbështet.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "kthema"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gëzimin"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "e shpëtimit tënd"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dhe frymë"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "bujare"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "më mbështet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:48.003268002Z",
+  "model": "glm-5.3"
+}

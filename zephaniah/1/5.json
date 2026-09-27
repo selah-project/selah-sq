@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ ata që përulen mbi çatitë ndaj ushtrisë së qiellit, dhe ⟨את⟩ ata që përulen, që betohen për Jahve dhe që betohen për Malçamin e tyre;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ata që përulen mbi çatitë"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ata që përulen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "çatitë"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ndaj ushtrisë"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "të qiellit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ata që përulen dhe betohen"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ata që përulen"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "që betohen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "dhe që betohen"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "për Malçamin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:34.996580729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Unë të thirra, sepse ti do të më përgjigjesh, o El; anon veshin tënd kah unë, dëgjo fjalën time.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "të thirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "do të më përgjigjesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "anon"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "veshin tënd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kah unë"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "fjalën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:08.887130666Z",
+  "model": "glm-5.3"
+}

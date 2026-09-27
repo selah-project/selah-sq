@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Këta janë bijtë e Seirit, ⟨i⟩ Horit, banorë të ⟨tokës⟩: Lotan, Shoval, Tsibon dhe Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirit"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "⟨i⟩ Horit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorë të"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokës⟩"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "dhe Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "dhe Tsibon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "dhe Anah"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:36.960862010Z",
+  "model": "glm-5.3"
+}

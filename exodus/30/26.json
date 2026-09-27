@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do ta vajosh me të ⟨את⟩ çadrën e takimit dhe ⟨את⟩ arkën e dëshmisë.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do ta vajosh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrën e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arkën e dëshmisë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "e dëshmisë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:14.089004593Z",
+  "model": "glm-5.3"
+}

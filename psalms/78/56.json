@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Por e vunë në provë dhe i rebeluan kundër ⟨את⟩ Elohim-it Elijonit, dhe dëshmitë e tij nuk i ruajtën.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "e vunë në provë"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "i rebeluan kundër"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-it Elijonin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijonin"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "dhe dëshmitë e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "i ruajtën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:08.607597580Z",
+  "model": "glm-5.3"
+}

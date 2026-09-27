@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Faraoni do të thotë për bijtë e Izraelit: ⟨Ata⟩ ⟨ janë⟩ të hutuar në vend; fshata i ka mbyllur ata.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe do të thotë"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "të hutuar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ka mbyllur"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "fshata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:03.860832872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "I Davidit. Mos ndiz në zemër ⟨ndaj⟩ të ligëve, mos ki xhelozi ⟨ndaj⟩ bërësve të padrejtësisë.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ndiz në zemër"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ndaj të ligëve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ki xhelozi"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ndaj bërësve"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "të padrejtësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:56.483095818Z",
+  "model": "glm-5.3"
+}

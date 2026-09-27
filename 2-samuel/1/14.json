@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Davidi i tha: Si nuk pate frikë të shtrije dorën tënde për të shkatërruar ⟨את⟩ Mashiachin e Jahvesë?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pate frikë"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "të shtrije"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "për të shkatërruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiachin"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiachin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:57.817529325Z",
+  "model": "glm-5.3"
+}

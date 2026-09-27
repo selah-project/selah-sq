@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atë ditë do t'i thuhet Jerusalemit: Mos u frikëso, o Sion; të mos të lëshojnë duart e tua.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(atë)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do t'i thuhet"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "u frikëso"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "o Sion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "të lëshojnë"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "duart e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:00.956429889Z",
+  "model": "glm-5.3"
+}

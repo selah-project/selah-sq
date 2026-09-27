@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Kur erdhi tek ai Natan profeti, pasi ⟨ai⟩ shkoi te Bat-Sheba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Kur erdhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tek ai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.405885409Z",
+  "model": "glm-5.3"
+}

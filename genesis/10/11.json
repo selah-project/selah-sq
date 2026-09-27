@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Nga ajo tokë doli Ashuri dhe ndërtoi ⟨את⟩ Ninivenë, ⟨את⟩ Rehovot-Irin dhe ⟨את⟩ Kalahun.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninivenë"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivenë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rehovot-Irin"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "i qytetit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalahun"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:27.705733385Z",
+  "model": "glm-5.3"
+}

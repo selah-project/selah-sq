@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe u foli atyre sipas këshillës së të rinjve, duke thënë: Ati im e bëri të rëndë ⟨את⟩ zgjedhën tuaj, dhe unë do të shtoj mbi zgjedhën tuaj; ati im ju ndëshkoi ⟨אתכם⟩ me kamxhikë, e unë do t'ju ndëshkoj ⟨אתכם⟩ me akrepa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe u foli"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "sipas këshillës"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "së të rinjve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati im"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "e bëri të rëndë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgjedhën tuaj"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "zgjedhën tuaj"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "do të shtoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "zgjedhën tuaj"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati im"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ju ndëshkoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (kundrinor)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "me kamxhikë"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e unë"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "do t'ju ndëshkoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (kundrinor)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "me akrepa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:05.894985165Z",
+  "model": "glm-5.3"
+}

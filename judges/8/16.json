@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe mori ⟨את⟩ pleqt e qytetit dhe ⟨את⟩ gjembat e shkretëtirës dhe ⟨את⟩ ferrat, dhe i ndëshkoi me ta ⟨את⟩ burrat e Sukotit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleqt e qytetit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqt e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjembat e shkretëtirës"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "gjembat e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtirës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ferrat"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "ferrat"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i ndëshkoi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burrat e Sukotit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burrat e"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:26.690008736Z",
+  "model": "glm-5.3"
+}

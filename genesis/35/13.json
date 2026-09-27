@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe Elohim u ngjit prej tij, në vendin ku foli ⟨me⟩ ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "u ngjit"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:38.767331863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe u ngritën herët në mëngjes, dhe dielli shkëlqeu mbi ⟨ujërat⟩, dhe Moabi pa përballë ⟨את⟩ ujërat të kuqe si gjak.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "dhe u ngritën herët"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "dhe dielli"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "shkëlqeu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujërat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "të kuqe"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "si gjak"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:16.748450974Z",
+  "model": "glm-5.3"
+}

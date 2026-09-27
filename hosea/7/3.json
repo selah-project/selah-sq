@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Me të keqen e tyre ata gëzojnë mbretin, dhe me gënjeshtrat e tyre ⟨gëzojnë⟩ princat.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "me të keqen e tyre"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gëzojnë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "dhe me gënjeshtrat e tyre"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "⟨gëzojnë⟩ princat"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:52.477354965Z",
+  "model": "glm-5.3"
+}

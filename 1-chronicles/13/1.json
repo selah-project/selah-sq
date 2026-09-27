@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Davidi u këshillua me krerët e mijëve dhe të qindave, për secilin prijës.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "dhe u këshillua"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "krerët e"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "mijëve"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "dhe të qindave"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për secilin"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "prijës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:10.056773513Z",
+  "model": "glm-5.3"
+}

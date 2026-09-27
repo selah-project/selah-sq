@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Adonai Jahve më dha gjuhë të mësuarish, që të di të ndihmoj ⟨את⟩ të lodhurin me një fjalë; zgjon mëngjes për mëngjes, zgjon për mua veshin të dëgjojë si të mësuarit.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "më dha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuhë"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "të mësuarish"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "që të di"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "të ndihmoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të lodhurin"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "të lodhurin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "me një fjalë"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "zgjon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "për mëngjes"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "zgjon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "veshin"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "të dëgjojë"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "si të mësuarit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:44.140366598Z",
+  "model": "glm-5.3"
+}

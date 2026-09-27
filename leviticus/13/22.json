@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe nëse ajo përhapet shumë në lëkurë, prifti do ta shpallë ⟨את⟩ atë të papastër; një goditje ⟨ajo është⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "përhapet"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "në lëkurë"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "do ta shpallë të papastër"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (personin e prekur)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "goditje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:39.963823945Z",
+  "model": "glm-5.3"
+}

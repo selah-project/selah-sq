@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Përqeshësi kërkon urtësi, dhe ⟨s'ka⟩; por njohja ⟨i vjen lehtë⟩ të kuptueshmit.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "kërkon"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "përqeshësi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe ⟨s'ka⟩"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "por njohja"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "të kuptueshmit"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "⟨i vjen lehtë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:53.171130624Z",
+  "model": "glm-5.3"
+}

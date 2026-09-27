@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe një njeri, në qoftë se godet ndonjë shpirt njeriu, do të dënohet me vdekje.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dhe një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "në qoftë se"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "godet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndonjë"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të dënohet me vdekje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:31.003222730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe i dërguan ⟨fjalë⟩ Jezabelit, duke thënë: «Naboti është gjuajtur me gurë dhe ka vdekur.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezabeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "është gjuajtur me gurë"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe ka vdekur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:55.450306182Z",
+  "model": "glm-5.3"
+}

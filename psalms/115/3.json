@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Elohimi ynë ⟨është⟩ në qiej; gjithçka që i pëlqeu, ka bërë.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohimi ynë"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "i pëlqeu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:43.573960902Z",
+  "model": "glm-5.3"
+}

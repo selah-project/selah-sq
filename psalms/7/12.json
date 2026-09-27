@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Elohim ⟨është⟩ gjyqtar i drejtë, dhe El zemërohet çdo ditë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "gjyqtar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "zemërohet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:16.303954374Z",
+  "model": "glm-5.3"
+}

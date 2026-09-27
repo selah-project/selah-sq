@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Nuk sjellin dobi thesaret e të pabesës, por drejtësia shpëton nga vdekja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "sjellin dobi"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "thesaret"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "e të pabesës"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "por drejtësia"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "shpëton"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:51.707203829Z",
+  "model": "glm-5.3"
+}

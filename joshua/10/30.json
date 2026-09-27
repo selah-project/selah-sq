@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jahve e dha ⟨את⟩ edhe atë, dhe ⟨את⟩ mbretin e saj, në dorën e Izraelit; dhe e rrahu me skajin e shpatës, dhe ⟨את⟩ çdo shpirt që ishte në të; nuk la në të asnjë të mbijetuar; dhe i bëri mbretit të saj ashtu siç i bëri mbretit të Jerikos.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Libnahun (ënë femërore)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mbretin e saj"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mbretin e saj"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "dhe e rrahu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me skajin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo shpirt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "la"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "asnjë të mbijetuar"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "mbretit të saj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "të Jerikos"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:55.907296126Z",
+  "model": "glm-5.3"
+}

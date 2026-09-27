@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "dhe të jetonte ende përjetë, të mos shihte ⟨the⟩ gropën.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe të jetonte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "të shihte"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨the⟩ gropën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:37.305916201Z",
+  "model": "glm-5.3"
+}

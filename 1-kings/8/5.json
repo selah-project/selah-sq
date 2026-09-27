@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe mbreti Salomon dhe gjithë asambleja e Izraelit, të mbledhurit pranë tij, ishin ⟨me të⟩ para arkës, duke flijuar bagëti e gjedhë që nuk mundën të numërohen as të llogariten për shumësi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asambleja e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "të mbledhurit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pranë tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "me të (i afërt me të)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkës"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "duke flijuar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bagëti"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e gjedhë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "mundën të numërohen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "të llogariten"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "për shumësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:20.309827231Z",
+  "model": "glm-5.3"
+}

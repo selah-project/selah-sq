@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Këmba do ta shkelë atë — këmbët e të varfrit, hapat e të nevojshmit.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "do ta shkelë"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "këmba"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbët e"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "hapat e"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "të nevojshmit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:06.393695588Z",
+  "model": "glm-5.3"
+}

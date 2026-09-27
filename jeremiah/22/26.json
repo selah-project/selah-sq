@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe do të të hedh ⟨אתך⟩ dhe ⟨ואת⟩ nënën tënde që të lindi, mbi një tokë tjetër, ku nuk keni lindur; dhe aty do të vdisni.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "dhe do të të hedj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ty (ti vetë)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "nënën tënde"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nënën tënde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "të lindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "keni lindur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe aty"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "do të vdisni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:13:24.064762763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai tha: «Pse do të shkosh te ai sot? Nuk është as hëna e re as Shabati.» Dhe ajo tha: «Paqe.»",
+  "tokens": [
+    {
+      "surface": "ותאמר → ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "do të shkosh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "as hëna e re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "«Paqe.»"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:18.718244384Z",
+  "model": "glm-5.3"
+}

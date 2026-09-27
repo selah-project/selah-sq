@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Kur po luftonte kundër ⟨את⟩ Aramit të Dy Lumave dhe kundër ⟨את⟩ Aramit të Tsobës, dhe Joabi u kthye dhe goditi ⟨את⟩ Edomin në luginën e Kripës — dymbëdhjetë mijë.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Kur po luftonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramit të Dy Lumave"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "të Dy Lumave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Aramit të Tsobës"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "të Tsobës"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "në luginën"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "e Kripës"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhe dhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:54.963733446Z",
+  "model": "glm-5.3"
+}

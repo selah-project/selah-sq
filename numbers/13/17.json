@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Moisi i dërgoi ata ⟨את⟩ për të vëzhguar ⟨את⟩ tokën e Kanaanit, dhe u tha atyre: \"Ngjitu në këtë drejtim, në Negev, dhe do të ngjiteni ⟨את⟩ në mal,",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i dërgoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "për të vëzhguar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Kanaanit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Ngjitu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "në këtë drejtim"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "në Negev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "do të ngjiteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "në mal"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:23.308585725Z",
+  "model": "glm-5.3"
+}

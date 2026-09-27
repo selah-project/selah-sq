@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe nga ⟨את⟩ kuvendi i bijve të Izraelit ⟨ai⟩ do të marrë dy cjekë dhie për mëkatin, dhe një dash për flijimin e djegur.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "dhe nga ⟨את⟩",
+      "marks": "kuvendi i bijve të Izraelit"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kuvendin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do të marrë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "cjekë"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "dhie"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "për mëkatin"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dhe një dash"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "për flijimin e djegur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:44.582110106Z",
+  "model": "glm-5.3"
+}

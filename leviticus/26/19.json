@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do ta thyej ⟨את⟩ krenarinë e forcës suaj; do t'i bëj ⟨את⟩ qiejt tuaj si hekur dhe ⟨את⟩ tokën tuaj si bronx.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "dhe do ta thyej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krenarinë e forcës suaj"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "krenarinë"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "e forcës suaj"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "do t'i bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt tuaj"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "qiejt tuaj"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "si hekur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën tuaj"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tokën tuaj"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "si bronx"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:00.313578554Z",
+  "model": "glm-5.3"
+}

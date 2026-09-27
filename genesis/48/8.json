@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe Izraeli pa ⟨את⟩ bijtë e Jozefit dhe tha: «Kush janë këta?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Jozefit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "e Jozefit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "janë këta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:16.895689947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Dhe do të frikësohet çdo njeri, dhe do ta shpallin veprën e Elohim, dhe veprën e tij do ta kuptojnë me urtësi.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "do të frikësohen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "do ta shpallin"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "dhe veprën e tij"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "do ta kuptojnë me urtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:47.571642466Z",
+  "model": "glm-5.3"
+}

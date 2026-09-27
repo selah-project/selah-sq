@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "A nuk thërret urtia, dhe të kuptuarit a nuk jep zërin e vet?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtia"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "thërret"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "dhe të kuptuarit"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "zërin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:32.035224383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Bën të mbijë bari për kafshët, dhe bimët për shërbimin e njeriut, që të nxjerrë bukë nga toka.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Bën të mbijë"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "për kafshët"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "dhe bimët"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "për shërbimin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "që të nxjerrë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:47.137224051Z",
+  "model": "glm-5.3"
+}

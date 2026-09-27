@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe tani, ja, unë solla ⟨את⟩ frytet e para të prodhimit të tokës që më dhe ti, o Jahve; dhe do ta vendosësh ⟨atë⟩ para Jahve, Elohimit tënd, dhe do të përulësh para Jahve, Elohimit tënd.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "unë solla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frytet e para"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "frytet e para"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "të prodhimit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "të tokës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "më dhe ti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "dhe do ta vendosësh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimit tënd"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "dhe do të përulësh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:08.473752860Z",
+  "model": "glm-5.3"
+}

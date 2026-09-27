@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ajo mbeti shtatzënë edhe një herë dhe lindi një djalë, dhe ajo quajti ⟨את⟩ emrin e tij Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dhe ajo mbeti shtatzënë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe një herë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe ajo quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:55.195905604Z",
+  "model": "glm-5.3"
+}

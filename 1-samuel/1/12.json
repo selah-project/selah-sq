@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi, ndërsa ajo zgjati duke u lutur përballë Jahvesë, që Eli vëzhgonte ⟨את⟩ gojën e saj.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndërsa"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "ajo zgjati"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "duke u lutur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "dhe Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vëzhgonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën e saj"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gojën e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:11.264777355Z",
+  "model": "glm-5.3"
+}

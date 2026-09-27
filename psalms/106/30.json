@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe u ngrit Pinhas dhe ⟨veproi⟩ ndërmjetësim, dhe murtaja u ndal.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "dhe ndërmjetësoi"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "dhe u ndal"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "murtaja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:38.538449846Z",
+  "model": "glm-5.3"
+}

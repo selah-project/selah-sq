@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Vetëm vendet e larta nuk u hoqën; populli ende flijonte dhe digjnte temjan në vendet e larta.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendet e larta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "u hoqën"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "flijonte"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "dhe digjnte temjan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "në vendet e larta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:25.814660270Z",
+  "model": "glm-5.3"
+}

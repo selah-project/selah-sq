@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Ja, ai që ruan Izraelin nuk do të përgjumet dhe nuk do të flejë.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "do të përgjumet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "do të flejë"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ai që ruan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:30.796993620Z",
+  "model": "glm-5.3"
+}

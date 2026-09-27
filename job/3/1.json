@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Pas kësaj Jobi hapi ⟨את⟩ gojën e tij dhe mallkoi ⟨את⟩ ditën e tij.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën e tij"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gojën e tij"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "dhe mallkoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën e tij"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ditën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:58.694014557Z",
+  "model": "glm-5.3"
+}

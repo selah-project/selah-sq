@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Me ⟨את⟩ cilin u këshillua dhe ai e bëri të kuptonte? Kush e mësoi në rrugën e gjyqit, e mësoi ⟨את⟩ dijen dhe rrugën e kuptimeve ia njohoi?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cilin"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "u këshillua"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "dhe e bëri të kuptonte"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "e mësoi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "e gjyqit"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "e mësoi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dijen"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "dhe rrugën"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "e kuptimeve"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ia njohoi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:52.783667313Z",
+  "model": "glm-5.3"
+}

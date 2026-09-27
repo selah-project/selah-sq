@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Kur rronja heshtur, më konsumuan eshtrat e mia, nga ulërima ime gjithë ditën.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ronja heshtur"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "më konsumuan"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "eshtrat e mia"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "nga ulërima ime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:49.931883049Z",
+  "model": "glm-5.3"
+}

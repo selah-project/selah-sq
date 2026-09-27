@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe disa hebrej kaluan ⟨את⟩ Jordanin drejt tokës së Gadit dhe të Gileadit; ndërsa Sauli ishte ende në Gilgal, dhe gjithë populli dridhej pas tij.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Dhe disa hebrej"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kaluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "drejt tokës së"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadit"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "dhe të Gileadit"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ndërsa Sauli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ishte ende"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "në Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "dridhej"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:58.382443325Z",
+  "model": "glm-5.3"
+}

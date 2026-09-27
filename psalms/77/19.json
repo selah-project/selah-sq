@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Zëri i bubullimës sate qe në rrathë, vetëtimat ndriçuan botën, u dridh dhe u trondit toka.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "i bubullimës sate"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "në rrathë"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "ndriçuan"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "vetëtimat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botën"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "u dridh"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "dhe u trondit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:20.486045865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Mos jep, o Jahve, dëshirat e të ligut; planin e tij mos e ço në krye, që të mos lartësohen. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dëshirat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të ligut"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "planin e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ço në krye"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "lartësohen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:51.607992772Z",
+  "model": "glm-5.3"
+}

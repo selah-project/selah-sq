@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tani, i mallkuar je ti nga toka, e cila hapi ⟨את⟩ gojën e vet për të marrë ⟨את⟩ gjakun e vëllait tënd nga dora e jote.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "i mallkuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e cila"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën e vet"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gojën e vet"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "për të marrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e vëllait tënd"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "e vëllait tënd"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nga dora e jote"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.006965424Z",
+  "model": "glm-5.3"
+}

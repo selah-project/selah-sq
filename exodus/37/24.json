@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Nga një talent ari të pastër e bëri ⟨את⟩ atë, dhe ⟨את⟩ të gjitha enët e saj.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "një talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "i pastër"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bëri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "menoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha enët e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "enët e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:23.765205805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Sauli pa ⟨את⟩ kampin e filistejve, dhe u frikësua dhe zemra iu dridh shumë fort.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampin e filistejve"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "e filistejve"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "u frikësua"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "iu dridh"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë fort"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:04.065882518Z",
+  "model": "glm-5.3"
+}

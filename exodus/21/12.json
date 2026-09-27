@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Kush rreh një njeri dhe ai vdes, me vdekje ⟨do të⟩ vdesë.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Kush rreh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe ai vdes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "⟨do të⟩ vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:46.607632656Z",
+  "model": "glm-5.3"
+}

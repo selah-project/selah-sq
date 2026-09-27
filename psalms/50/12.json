@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Nëse do të kisha uri, nuk do të ta thoja ty, sepse e imja ⟨është⟩ bota dhe plotësia e saj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "do të kisha uri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "do të thoja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e imja"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bota"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dhe plotësia e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.093950339Z",
+  "model": "glm-5.3"
+}

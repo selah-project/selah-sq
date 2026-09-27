@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe e quajti atë në atë ditë Jerubbaal, duke thënë: Le të përleshet Baali me të, sepse i rrëzoi ⟨את⟩ altarit të tij.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e quajti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Le të përleshet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "i rrëzoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarit të tij"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "altarit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:22.122494095Z",
+  "model": "glm-5.3"
+}

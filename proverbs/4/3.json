@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sepse isha bir i atit tim, i butë dhe i vetmi përpara ⟨në⟩ sytë e nënës sime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "isha"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "i atit tim"
+    },
+    {
+      "surface": "רך",
+      "gloss": "i butë"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "dhe i vetmi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara ⟨në⟩ sytë e"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nënës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:41.636882071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe tha ta mësojnë bijtë e Judës ⟨את⟩ harkun; ja, ⟨ajo⟩ është shkruar në librin e Jasharit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ta mësojnë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "harkun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "është shkruar"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "librin"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "të Jasharit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:02.328875899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Të mjerë barinjtë që shkatërrojnë dhe shpërndajnë ⟨את⟩ tufën e kullotës sime, thotë Jahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Të mjerë"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "barinjtë"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "që shkatërrojnë"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "dhe shpërndajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufën"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tufën"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "të kullotës sime"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:12.198395462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Ejani, shihni veprat e Jahvesë, që bëri shkatërrime në ⟨tokë⟩",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "shihni"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "shkatërrime"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në ⟨tokë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:34.818399170Z",
+  "model": "glm-5.3"
+}

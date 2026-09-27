@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe tha: «Ngrije!» Dhe ai zgjati dorën e tij dhe e mori atë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Ngrije"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe zgjati"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "dhe e mori atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:14.823578034Z",
+  "model": "glm-5.3"
+}

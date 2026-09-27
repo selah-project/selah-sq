@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do të marrësh ⟨את⟩ dy gurë shoham, dhe do të gdhendësh mbi to emrat e bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dhe do të marrësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dy gurë shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "dhe do të gdhendësh"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi to"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:11.631007114Z",
+  "model": "glm-5.3"
+}

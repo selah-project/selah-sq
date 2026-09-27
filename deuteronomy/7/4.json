@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "sepse do ta largojë ⟨את⟩ të birin tënd nga pas meje, dhe do të shërbejnë perëndi të tjera; dhe do të ndizet zemërimi i Jahves kundër jush dhe do të të shfarosë shpejt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "do ta largojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të birin tënd"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "të birin tënd"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nga pas meje"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dhe do të shërbejnë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "dhe do të ndizet"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemërimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahves"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kundër jush"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "dhe do të të shfarosë"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shpejt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:06.427311479Z",
+  "model": "glm-5.3"
+}

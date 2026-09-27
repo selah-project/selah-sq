@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe unë, si një i shurdhët, nuk dëgjoj, dhe si një memec, nuk ⟨do të⟩ hap gojën e tij.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "si një i shurdhët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dëgjoj"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "dhe si një memec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "⟨do të⟩ hap"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gojën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:38.083644212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Kthehna, o Elohim i shpëtimit tonë, dhe asgjëso inatin tënd ndaj nesh.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Kthehna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "i shpëtimit tonë"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "dhe asgjëso"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "inatin tënd"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ndaj nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:15.937222906Z",
+  "model": "glm-5.3"
+}

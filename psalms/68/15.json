@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Kur Shadai i shpërndau mbretërit atje, ra si borë në Zalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "i shpërndau"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "ra si borë"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "në Zalmon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:06.058610488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Kopesha jote banoi në të; ti përgatit me mirësinë tënde për të varfërin, o Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Kopesha jote"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "banoi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ti përgatit"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "me mirësinë tënde"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "për të varfërin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:46.223354073Z",
+  "model": "glm-5.3"
+}

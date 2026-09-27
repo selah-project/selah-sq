@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "dhe ⟨את⟩ dy bijtë e saj, të cilëve emri i njërit ⟨ishte⟩ Gersham, sepse tha: «I huaj isha në një tokë të huaj.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dy bijtë e saj"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bijtë e saj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilëve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i njërit"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "גר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:23.390666264Z",
+  "model": "glm-5.3"
+}

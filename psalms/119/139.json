@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Zelli im më ka shkatërruar, sepse kundërshtarët e mi i kanë harruar fjalët e tua.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "më ka shkatërruar"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "zelli im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "i kanë harruar"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "fjalët e tua"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kundërshtarët e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:14.224738985Z",
+  "model": "glm-5.3"
+}

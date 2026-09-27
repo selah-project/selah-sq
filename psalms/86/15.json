@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Dhe ti, Adonai, ⟨je⟩ El i mëshirshëm dhe i dhimbshëm, i ngadaltë në zemërim dhe i pasur në hesed dhe në të vërtetë.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dhe ti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "i mëshirshëm"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "dhe i dhimbshëm"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "i ngadaltë"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe i pasur"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "në hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe në të vërtetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.779036236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ai i tha atij: «Eja me ⟨את⟩ mua në shtëpi dhe ha bukë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ec \/ eja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "me ⟨את⟩ mua"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe ha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:33.803895157Z",
+  "model": "glm-5.3"
+}

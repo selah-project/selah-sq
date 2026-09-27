@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Sepse shpenguesi i tyre është i fortë; ai do të mbajë ⟨את⟩ padinë e tyre ⟨את⟩ kundër teje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "shpenguesi i tyre"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "do të mbajë padinë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padinë e tyre"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "padinë e tyre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kundër teje ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:21.002773534Z",
+  "model": "glm-5.3"
+}

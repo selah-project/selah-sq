@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Një talent ari të pastër do të përdoret për ta bërë ⟨את⟩ atë, ⟨את⟩ të gjitha këto vegla.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "një talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të përdoret për të bërë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (menorahun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto vegla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "veglat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:43.143797578Z",
+  "model": "glm-5.3"
+}

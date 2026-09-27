@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Kanaani lindi ⟨את⟩ Sidonin, të parëlindurin e tij, dhe ⟨את⟩ Hetin.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Dhe Kanaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidonin"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidonin"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "të parëlindurin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hetin"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.057298531Z",
+  "model": "glm-5.3"
+}

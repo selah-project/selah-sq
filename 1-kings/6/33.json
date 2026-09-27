@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Kështu bëri edhe për hyrjen e ⟨ה⟩ tempullit shtylla dyersh nga dru ulliri, ⟨מאת⟩ një të katërtën.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "për hyrjen"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "e tempullit"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "shtylla dyersh"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dru"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulliri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "një të katërtën"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "një të katërtën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:56.470607513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Do ta falënderoj Jahve shumë me gojën time, dhe në mes të shumëve do ta lëvëroj ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "do ta falënderoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "me gojën time"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dhe në mes të"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "shumëve"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "do ta lëvëroj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.991677137Z",
+  "model": "glm-5.3"
+}

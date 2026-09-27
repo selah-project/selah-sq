@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe filistejtë morën ⟨את⟩ arkën e Elohit dhe e çuan atë nga Eben-Haezeri në Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Dhe filistejtë"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "e çuan atë"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "nga Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Haezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "në Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:32.830118814Z",
+  "model": "glm-5.3"
+}

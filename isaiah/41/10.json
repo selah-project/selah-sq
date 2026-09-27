@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Mos ki frikë, sepse unë jam me ty; mos shiko rreth e rrotull, sepse unë jam Elohim yt; të forcova, po, të ndihmova, po, të mbajta me të djathtën e drejtësisë sime.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ki frikë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "shiko rreth e rrotull"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim yt"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "të forcova"
+    },
+    {
+      "surface": "אף",
+      "gloss": "po"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "të ndihmova"
+    },
+    {
+      "surface": "אף",
+      "gloss": "po"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "të mbajta"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "me të djathtën"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "e drejtësisë sime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:08.103044194Z",
+  "model": "glm-5.3"
+}

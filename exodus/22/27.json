@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Elohim të mos e nënçmosh, dhe një princ në popullin tënd të mos e mallkosh.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "të nënçmosh"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "dhe një princ"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "në popullin tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "të mallkosh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:08.553100343Z",
+  "model": "glm-5.3"
+}

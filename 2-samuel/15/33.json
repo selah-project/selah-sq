@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Davidi i tha: «Nëse kalon ⟨me⟩ mua ⟨אתי⟩, do të më bëhesh barrë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "kalon"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩ me mua",
+      "marks": "mua — parafjala e afërsisë את me pronom të vetës së parë"
+    },
+    {
+      "surface": "והית",
+      "gloss": "do të jesh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "për barrë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:14.124334745Z",
+  "model": "glm-5.3"
+}

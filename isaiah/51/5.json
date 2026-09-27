@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Afër është drejtësia ime, ka dalë shpëtimi im, dhe krahët e mi do të gjykojnë popujt; në mua do të presin ishujt, dhe në krahun tim do të shpresojnë.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "afër"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "drejtësia ime"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ka dalë"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "shpëtimi im"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "dhe krahët e mi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "do të gjykojnë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ishujt"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "do të presin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "krahun tim"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "do të shpresojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:23.228531048Z",
+  "model": "glm-5.3"
+}

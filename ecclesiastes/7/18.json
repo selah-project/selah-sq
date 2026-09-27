@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Është e mirë ⟨që⟩ ta mbash këtë, dhe gjithashtu nga kjo mos e lësho ⟨את⟩ dorën tënde, sepse ai që i frikësohet Elohim-it do dalë nga ⟨את⟩ të gjitha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Është e mirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ta mbash"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga kjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lësho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i frikësohet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "do dalë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjitha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:58.447909232Z",
+  "model": "glm-5.3"
+}

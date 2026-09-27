@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "I ndjek, kalon ⟨në paqe⟩; një rrugë me këmbët e tij nuk hyn.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "I ndjek"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "kalon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "në paqe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "me këmbët e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hyn"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:54.752437120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Në Elohim do të bëjmë guxim, dhe ai do të shkelë armiqtë tanë.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Në Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "do të bëjmë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "guxim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "do të shkelë"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "armiqtë tanë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:35.830240406Z",
+  "model": "glm-5.3"
+}

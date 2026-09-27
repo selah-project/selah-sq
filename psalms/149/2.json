@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Izraeli gëzohet në Krijuesin e tij; bijtë e Sionit dhe lumturohen në mbretin e tyre.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "në Krijuesin e tij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionit"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "dhe lumturohen"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "në mbretin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:14.378265639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "I bekuar qoftë Jahve nga Sioni, banuesi i Jerusalemit. Lëvdoni Jah-in!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "nga Sioni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "banuesi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Jerusalemit"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-in"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:33.216684606Z",
+  "model": "glm-5.3"
+}

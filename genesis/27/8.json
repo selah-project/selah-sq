@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe tani, o bir i im, dëgjo zërin tim, në atë që unë të urdhëroj ⟨את⟩ ⟨ty⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o bir i im"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "në atë që"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:25.994951440Z",
+  "model": "glm-5.3"
+}

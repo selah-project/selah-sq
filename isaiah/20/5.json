@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ⟨ata⟩ do të tremben dhe do të turpërohen nga Kushi, shpresa e tyre, dhe nga Egjipti, lavdia e tyre.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "do të tremben"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "do të turpërohen"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "nga Kushi"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "shpresa e tyre"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "lavdia e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:22.821971700Z",
+  "model": "glm-5.3"
+}

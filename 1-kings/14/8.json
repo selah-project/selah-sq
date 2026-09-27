@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe shkyza ⟨את⟩ mbretërinë nga shtëpia e Davidit dhe ta dhashë ty; por ti nuk qe si Davidi, shërbëtori im, i cili ruajti urdhrat e mia dhe që e ndoqi pas me gjithë zemrën e tij, për të bërë vetëm atë që është e drejtë në sytë e mi;",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "dhe shkyza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretërinë"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretërinë"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dhe ta dhashë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "היית",
+      "gloss": "qe"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "si shërbëtori im"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruajti"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhrat e mia"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "e ndoqi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të bërë"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "atë që është e drejtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:28.009657991Z",
+  "model": "glm-5.3"
+}

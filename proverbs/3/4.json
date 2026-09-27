@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Kështu do të gjesh hir dhe kuptim të mirë në sytë e Elohimut dhe të njeriut.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "dhe do të gjesh"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "dhe kuptim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimut"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "dhe të njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:38.513300964Z",
+  "model": "glm-5.3"
+}

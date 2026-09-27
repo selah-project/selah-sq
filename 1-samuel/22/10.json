@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "dhe pyeti për te në Jahve, dhe i dha ushqim, dhe ⟨את⟩ shpatën e Goliatit Filistin i dha atij.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dhe pyeti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për te"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "dhe ushqim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shpatën e Goliatit"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatën e"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliatit"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:37.632060546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ai tha: Kjo është Pabesia. Dhe e hodhi ⟨אתה⟩ në mes të efahut, dhe hodhi ⟨את⟩ gurin e plumbit mbi gojën e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "Pabesia"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dhe e hodhi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Pabesinë)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mes të"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efahut"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dhe hodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurin e plumbit"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "gurin"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "e plumbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gojën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:06.443352755Z",
+  "model": "glm-5.3"
+}

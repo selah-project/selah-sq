@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe themeli ishte nga gurë të çmueshëm, gurë të mëdhenj, gurë nga dhjetë kubitë dhe gurë nga tetë kubitë.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "dhe themeli"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "të çmueshëm"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "të mëdhenj"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "dhe gurë"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:33.902186177Z",
+  "model": "glm-5.3"
+}

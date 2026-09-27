@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Mbi luanin dhe gjarpërin do të shkelësh; do të shypësh picërraku dhe dragoin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "luanin"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "dhe gjarpërin"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "do të shkelësh"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "do të shypësh"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "picërrakun"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "dhe dragoin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:26.031015005Z",
+  "model": "glm-5.3"
+}

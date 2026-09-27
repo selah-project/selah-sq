@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse ti shpëton popullin e përulur, dhe sytë krenarë i përul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "e përulur"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "shpëton"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "dhe sytë"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "krenarë"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "i përul"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:14.572667562Z",
+  "model": "glm-5.3"
+}

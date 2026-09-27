@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe asnjë i huaj të mos hajë ⟨diçka⟩ të shenjtë; banori i priftit dhe i pajtuari me pagesë të mos hajë ⟨diçka⟩ të shenjtë.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe asnjë"
+    },
+    {
+      "surface": "זר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hajë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "banori"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "i priftit"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dhe i pajtuari me pagesë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hajë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:12.151416231Z",
+  "model": "glm-5.3"
+}

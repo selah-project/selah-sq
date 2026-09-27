@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Tek ti, o Jahve, do të thërras, dhe te Adonai do të lutes ⟨për mëshirë⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "tek ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "do të thërras"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "do të lutes ⟨për mëshirë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:11.968811877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Jahve, Adonai, forca e shpëtimit tim, Ti ke mbuluar kokën time në ditën e luftës.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forca e"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "shpëtimit tim"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ke mbuluar"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kokën time"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "luftës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:13.114954294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Që i flet diellit dhe ai ⟨nuk⟩ lind, dhe yjet i vulos ⟨nën vulë⟩.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "që i flet"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "diellit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "lind"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "yjet"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "vulos"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:33.360140982Z",
+  "model": "glm-5.3"
+}

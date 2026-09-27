@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Mirë ⟨është⟩ të falënderosh Jahve dhe të këndosh me lavdërim ⟨emrit⟩ tënd, o Elijon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mirë"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "të falënderosh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "dhe të këndosh me lavdërim"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "⟨emrit⟩ tënd"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "o Elijon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:38.533970989Z",
+  "model": "glm-5.3"
+}

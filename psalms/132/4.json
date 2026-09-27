@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "nëse u jap gjumin syve të mi, vetullpalosje gjumit të kapuçve të mi;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "u jap"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gjumin"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "syve të mi"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kapuçve të mi"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "vetullpalosje gjumi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:47.052000969Z",
+  "model": "glm-5.3"
+}

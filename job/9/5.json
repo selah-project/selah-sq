@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Që zhvendos malet dhe ato ⟨nuk⟩ e dinë, ai që i përmbys ato në zemërimin e tij.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "që zhvendos"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "e dinë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "i përmbys ato"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në zemërimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:33.359526398Z",
+  "model": "glm-5.3"
+}

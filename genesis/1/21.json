@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim krijoi ⟨את⟩ tandrrekësat e mëdhenj, dhe ⟨את⟩ çdo shpirt të gjallë që zvarritet, të cilin ujërat e lëshuan me shumim sipas llojit të tyre, dhe ⟨את⟩ çdo shpend me krah sipas llojit të vet; dhe Elohim pa që ⟨ishte⟩ mirë.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "dhe krijoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tandrrekësat e mëdhenj"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "tandrrekësat"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "e mëdhenj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo shpirt të gjallë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "që zvarritet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "i lëshuan me shumim"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "sipas llojit të tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo shpend me krah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shpend"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "me krah"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të vet"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:52.804285334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Qytetet e shenjta të tua u bënë shkretëtirë, Cioni u bë shkretëtirë, Jerusalemi ⟨u bë⟩ vend i shkretuar.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e shenjta të tua"
+    },
+    {
+      "surface": "היו",
+      "gloss": "u bënë"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "vend i shkretuar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:59.715936266Z",
+  "model": "glm-5.3"
+}

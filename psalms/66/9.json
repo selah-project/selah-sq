@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "I cili e vuri shpirtin tonë në jetë dhe nuk i la këmbët tona të lëkundeshin.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "I cili e vuri"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "shpirtin tonë"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "në jetë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "la"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "të lëkundeshin"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "këmbët tona"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:33.984836130Z",
+  "model": "glm-5.3"
+}

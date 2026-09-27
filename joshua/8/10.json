@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jozueja zgjoi herët në mëngjes dhe kaloi në shqyrtim ⟨את⟩ popullin; dhe ai u ngjit, ai dhe pleqtë e Izraelit, përpara popullit, drejt Ait.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "dhe zgjoi herët"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueja"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe kaloi në shqyrtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dhe pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "העי",
+      "gloss": "drejt Ait"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:20.636269170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "dhe ⟨⟩ të varfërit mos e ndero në çështjen e tij.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "dhe të varfërit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "e ndero"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "në çështjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:40.798549733Z",
+  "model": "glm-5.3"
+}

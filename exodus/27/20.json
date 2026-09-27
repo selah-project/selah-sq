@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe ti urdhëro ⟨את⟩ bijtë e Israelit, dhe të sjellin te ti vaj ulliri të pastër, të rrahur, për dritaren, për të ngritur lart një pishtar vazhdimisht.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "urdhëro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Israelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe të sjellin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ulliri"
+    },
+    {
+      "surface": "זך",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "të rrahur"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "për dritën"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "për të ngritur lart"
+    },
+    {
+      "surface": "נר",
+      "gloss": "pishtar"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:02.878080361Z",
+  "model": "glm-5.3"
+}

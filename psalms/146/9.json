@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Jahve ruan ⟨את⟩ të huajt; jetimin dhe të venë i mban në këmbë; por rrugën e të ligjve e kthen përmbys.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të huajt"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "të huajt"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "jetimin"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dhe të venë"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "i mban në këmbë"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "por rrugën"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjve"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "e kthen përmbys"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:48.375587634Z",
+  "model": "glm-5.3"
+}

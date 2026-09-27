@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Hetoja mua, o El, dhe njih zemrën time; provo mua dhe njih shqetësimet e mia.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "hetoja mua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dhe njih"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "provo mua"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dhe njih"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "shqetësimet e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:21.919836593Z",
+  "model": "glm-5.3"
+}

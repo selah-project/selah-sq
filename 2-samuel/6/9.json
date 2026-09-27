@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Davidi u frikëua nga ⟨את⟩ Jahve në atë ditë, dhe tha: «Si do të vijë te unë arka e Jahvesë?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "u frikëua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "איך",
+      "gloss": "si"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:51.560952299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "I mëshirshëm ⟨është⟩ Jahve dhe i drejtë, po, Elohim-i ynë mëshiron.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "i mëshirshëm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dhe i drejtë"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "dhe Elohim-i ynë"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mëshiron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:11.754030557Z",
+  "model": "glm-5.3"
+}

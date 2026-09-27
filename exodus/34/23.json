@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Tri herë në vit do të shfaqet çdo mashkull i yti përpara ⟨את⟩ fytyrës ⟨së⟩ Adonai Jahve, Elohim i Izraelit.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "пעамים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "në vit"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "do të shfaqet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "mashkull i yti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrës së Adonai Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "të Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:56.738148060Z",
+  "model": "glm-5.3"
+}

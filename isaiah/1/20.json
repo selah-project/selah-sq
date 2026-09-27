@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Por nëse refuzoni dhe bëni kryengritje, shpata do t'ju gllabërojë; se goja e Jahves ka folur.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Por nëse"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "refuzoni"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "bëni kryengritje"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do t'ju gllabërojë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:53.231107948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Jahve do të gjykojë popujt; gjykomëni, o Jahve, sipas drejtësisë sime dhe sipas paqenies time mbi mua.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "gjykomëni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sipas drejtësisë sime"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "dhe sipas paqenies time"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:16.303087993Z",
+  "model": "glm-5.3"
+}

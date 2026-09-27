@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Gur ⟨e⟩ gur, efah ⟨e⟩ efah — neverojë për Jahven ⟨janë⟩ edhe të dyja bashkë.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "gur"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe gur"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efah"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "dhe efah"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "neverojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dyja bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:17.342475915Z",
+  "model": "glm-5.3"
+}

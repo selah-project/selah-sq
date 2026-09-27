@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "dhe shkoi në rrugën e mbretërve të Izraelit; madje ⟨את⟩ birin e vet e kaloi nëpër zjarr, sipas neverive të kombeve që Jahve i dëboi ⟨אתם⟩ para syve të bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën e"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "madje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin e vet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e vet"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "e kaloi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nëpër zjarr"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "sipas neverive"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "të kombeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "i dëboi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kombet (i dëboi)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "para syve të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:20.121732625Z",
+  "model": "glm-5.3"
+}

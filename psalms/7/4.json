@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Jahve, Elohim im, nëse bëra këtë, nëse ⟨ka⟩ padrejtësi në duart e mia —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ka⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "padrejtësi"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "në duart e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.635267390Z",
+  "model": "glm-5.3"
+}

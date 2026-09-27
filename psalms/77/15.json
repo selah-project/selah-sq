@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Ti ⟨je⟩ El-i që bën çudira; i bëre të njohura kombet fuqinë tënde.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "çudira"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "i bëre të njohura"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "fuqinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:12.693868254Z",
+  "model": "glm-5.3"
+}

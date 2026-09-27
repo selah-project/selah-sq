@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Rruga e të drejtit ⟨është⟩ drejtësi; o i Drejti, ti ia rrafshon shtegun e të drejtit.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "e të drejtit"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "o i Drejti"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "shtegun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ia rrafshon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:06.393879913Z",
+  "model": "glm-5.3"
+}

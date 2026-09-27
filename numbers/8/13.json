@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do t'i bësh të qëndrojnë ⟨את⟩ Levitët përballë Aaronit dhe përballë bijve të tij, dhe do t'i lëkundësh ⟨אתם⟩ si tenufa për Jahve.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "do t'i bësh të qëndrojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levitët"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitët"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dhe përballë"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të tij"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "do t'i lëkundësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i (Levitët)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "si tenufa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:01.088430797Z",
+  "model": "glm-5.3"
+}

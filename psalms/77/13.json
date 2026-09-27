@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Dhe do të meditoj për të gjitha veprat e tua, dhe për bëmat e tua do të bisedoj.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "dhe do të meditoj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "dhe për bëmat e tua"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "do të bisedoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:12.693514200Z",
+  "model": "glm-5.3"
+}

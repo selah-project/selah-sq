@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Ngrihu, Jahve! Mos e lër njeriun e vdekshëm të fuqizohet; le të gjykohen kombet para fytyrës sate.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "të fuqizohet"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "njeriun e vdekshëm"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "le të gjykohen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "על",
+      "gloss": "para"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.419659594Z",
+  "model": "glm-5.3"
+}

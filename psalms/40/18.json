@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Sa për mua, unë jam i varfër dhe i nevojshëm; Adonai më ka në mendje: ndihma ime dhe çlirimi im ⟨janë⟩ ti, Elohim im — mos u vono!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe sa për mua"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe i nevojshëm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "më ka në mendje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ndihma ime"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dhe çlirimi im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "u vono"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:34.390024797Z",
+  "model": "glm-5.3"
+}

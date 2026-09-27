@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Këndoni lavde Jahvesë, banuesit të Sionit; shpallni midis popujve veprat e tij.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Këndoni lavde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "banuesit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "të Sionit"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "shpallni"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "midis popujve"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.199961093Z",
+  "model": "glm-5.3"
+}

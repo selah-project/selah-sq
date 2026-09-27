@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe i thanë Jozuesë: Me të vërtetë Jahve ka dhënë në duart tona ⟨את⟩ të gjithë ⟨e⟩ vendin; dhe gjithashtu kanë shkrirë të gjithë banorët e vendit nga para jona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jozuesë"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ka dhënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "në duart tona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë vendin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "kanë shkrirë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "nga para jona"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:06.184391054Z",
+  "model": "glm-5.3"
+}

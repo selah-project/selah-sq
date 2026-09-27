@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Erdhi mbreti dhe Hamani të pinin ⟨me⟩ Esterin ⟨mbretëreshën⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dhe Hamani"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "të pinin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mbretëreshën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:29.425104761Z",
+  "model": "glm-5.3"
+}

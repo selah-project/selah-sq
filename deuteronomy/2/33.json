@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve, Elohim ynë, e dorëzoi atë para nesh, dhe e rramë ⟨אתו⟩ dhe ⟨את⟩ bijtë e tij dhe ⟨את⟩ gjithë popullin e tij.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "dhe e dorëzoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ynë"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "para nesh"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "dhe e rramë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Sihonin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë popullin e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:42.221064976Z",
+  "model": "glm-5.3"
+}

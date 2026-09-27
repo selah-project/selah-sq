@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ju çova dyzet vjet në shkretëtirë; rrobat tuaja nuk u konsumuan mbi ju, dhe sandalia i yt nuk u konsumua nga këmba jote.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "dhe ju çova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "u konsumuan"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "robat tuaja"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "dhe sandalia i yt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "u konsumua"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "këmba jote"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:50.680648684Z",
+  "model": "glm-5.3"
+}

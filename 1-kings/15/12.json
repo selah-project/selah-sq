@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "dhe dëboi të kurorëshkelurit e tempullit nga vendi, dhe hoqi ⟨את⟩ të gjithë idhujt që kishin bërë etërit e tij.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "dhe dëboi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "të kurorëshkelurit e tempullit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë idhujt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "idhujt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kishin bërë"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:50.194124191Z",
+  "model": "glm-5.3"
+}

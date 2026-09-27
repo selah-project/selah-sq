@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Bekuar qoftë Jahve përjetë. Amin dhe amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dhe amin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:57.103931328Z",
+  "model": "glm-5.3"
+}

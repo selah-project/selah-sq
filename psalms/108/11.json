@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Kush do të më shpjerpë në qytetin e fortifikuar? Kush do të më udhëheqë deri në Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "do të më shpjerpë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "të fortifikuar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "do të më udhëheqë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:00.434906735Z",
+  "model": "glm-5.3"
+}

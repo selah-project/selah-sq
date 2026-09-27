@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe mbreti tha: «Ç'kam unë me ju, o bij të Tserujahs? Le të fyejë, sepse Jahve i ka thënë atij: Fye ⟨את⟩ Davidin. E kush mund të thotë: Përse veçove kështu?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam unë"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o bij"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "të Tserujahs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "le të fyejë"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dhe se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "fye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e kush"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mund të thotë"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "përse"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "veçove"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:37.450140372Z",
+  "model": "glm-5.3"
+}

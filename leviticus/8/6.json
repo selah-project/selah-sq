@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Moisi e afroi ⟨את⟩ Aaronin dhe ⟨את⟩ bijtë e tij, dhe ⟨את⟩ i lau me ujë.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Dhe e afroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "dhe i lau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ i"
+    },
+    {
+      "surface": "במים",
+      "gloss": "me ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:57.539217694Z",
+  "model": "glm-5.3"
+}

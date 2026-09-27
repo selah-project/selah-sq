@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Jahve, përkul qiejt e tu dhe zbrit; prej malet dhe do të nxjerrin duhim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "përkul"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "qiejt e tu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "dhe zbrit"
+    },
+    {
+      "surface": "גע",
+      "gloss": "prej"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "dhe do të nxjerrin duhim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:25.480073207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Jahve, në të mirën tënde e bëre malin tim të qëndrojë i fortë; fshive fytyrën tënde — dhe u tremba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "në të mirën tënde"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "e bëre të qëndrojë"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "malin tim"
+    },
+    {
+      "surface": "עז",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "fshive"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "u"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tremba"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:48.576930426Z",
+  "model": "glm-5.3"
+}

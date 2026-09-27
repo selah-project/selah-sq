@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe çdo shërbëtor, njeri i blerë me argjend, dhe ta rrethpresësh ⟨את⟩ atë, atëherë ai mund të hajë prej tij.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neri"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "i blerë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "me argjend"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "dhe ta rrethpresësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mund të hajë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:00.132246892Z",
+  "model": "glm-5.3"
+}

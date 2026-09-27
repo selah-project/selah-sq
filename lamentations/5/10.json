@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Lëkura jonë, si një furrë, ⟨është⟩ djegur përballë vapës së urisë.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "lëkura jonë"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "si një furrë"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "djegur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "vapës"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "të urisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:42.228519185Z",
+  "model": "glm-5.3"
+}

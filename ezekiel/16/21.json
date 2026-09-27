@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe therrje ⟨את⟩ bijtë e mi, dhe i dhashe ato, duke i bërë të kalojnë ⟨את⟩ ata për ata?",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "dhe therrje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e mi"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "dhe i dhashe ato"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "duke i bërë të kalojnë"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:29:54.674214640Z",
+  "model": "glm-5.3"
+}

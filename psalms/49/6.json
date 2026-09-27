@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Pse të frikësohem në ditët e të keqes, kur pabesia në thembrat e mi më rrethon?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "të frikësohem"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët e"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqes"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pabesia"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "në thembrat e mi"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "më rrethon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:29.379865160Z",
+  "model": "glm-5.3"
+}

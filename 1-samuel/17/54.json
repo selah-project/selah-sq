@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Davidi mori ⟨את⟩ kokën e filisteut dhe e çoi atë në Jeruzalem, dhe ⟨את⟩ armët e tij i vuri në çadrën e vet.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "morri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën e filisteut"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "e filisteut"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dhe e çoi atë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "armët e tij"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armët e tij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "në çadrën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:56.495203575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Të braktisura janë qytetet e Aroerit; do të jenë për tufat, dhe ⟨ato⟩ do të shtrihen aty, e s'ka dikë që të trembet.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "Të braktisura"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet e"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerit"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "për tufat"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "dhe do të shtrihen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e s'ka"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "dikë që të trembet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:23.989865361Z",
+  "model": "glm-5.3"
+}

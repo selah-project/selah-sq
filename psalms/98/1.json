@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Një mizmor. Këndoni Jahvesë një këngë të re, sepse ⟨ai⟩ bëri çudi; shpëtimi për të erdhi nga dora e tij e djathtë dhe krahuri i tij i shenjtë.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "çudi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "shpëtimi erdhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për atë"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dora e tij e djathtë"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "dhe krahuri"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "i tij i shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.628924696Z",
+  "model": "glm-5.3"
+}

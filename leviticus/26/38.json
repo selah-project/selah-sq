@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të humbni mes kombeve, dhe toka e armiqve tuaj do t'ju hajë ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "dhe do të humbni"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mes kombeve"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju — kundrinori i drejtë i foljes 'do të hajë'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "e armiqve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:49.202460510Z",
+  "model": "glm-5.3"
+}

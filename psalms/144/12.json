@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Që bijtanë tanë të jenë si fidanë të rritur në rininë e tyre, bijat tona si gurë këndi të gdhendur sipas modelit të pallatit.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Që"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "bijtanë tanë"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "si fidanë"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "të rritur"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "në rininë e tyre"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "bijat tona"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "si gurë këndi"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "të gdhendur"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "modelit"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "të pallatit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:43.914747626Z",
+  "model": "glm-5.3"
+}

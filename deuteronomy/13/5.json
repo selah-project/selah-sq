@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Pas Jahve, Elohim tuaj, do të ecni, dhe ⟨את⟩ atë do të frikësoheni, dhe ⟨את⟩ urdhrat e tij do t'i ruani, dhe në zërin e tij do të dëgjoni, dhe ⟨את⟩ atë do ta shërbeni, dhe në të do të ngjiteni.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "do të ecni"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dhe ⟨את⟩ atë",
+      "marks": "do të frikësoheni (ati)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "do të frikësoheni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "urdhrat e tij"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "urdhrat e tij"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "do t'i ruani"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "dhe në zërin e tij"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "do të dëgjoni"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dhe ⟨את⟩ atë",
+      "marks": "do ta shërbeni (ati)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "do ta shërbeni"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "dhe në të"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "do të ngjiteni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:23.929997366Z",
+  "model": "glm-5.3"
+}

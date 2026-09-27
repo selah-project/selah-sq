@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Vërtet, në rrëshqitëse i vë ti ata, i rrëzove drejt shkatërrimit.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "në rrëshqitëse"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "i vë"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ata"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "i rrëzove"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "drejt shkatërrimit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:43.272207026Z",
+  "model": "glm-5.3"
+}

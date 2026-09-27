@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Sepse u xhelozova ndaj të marrëve, duke parë begatinë e të ligjve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "u xhelozova"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ndaj të marrëve"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "begatinë"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjve"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "duke parë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.498727654Z",
+  "model": "glm-5.3"
+}

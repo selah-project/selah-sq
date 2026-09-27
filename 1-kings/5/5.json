@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Juda dhe Izraeli banuan në siguri, secili nën hardhinë e vet dhe nën fiqin e vet, nga Dani e deri në Beer-Šeba, gjithë ditët e Salomonit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "banuan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe Izraeli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "në siguri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "hardhinë e vet"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dhe nën"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "fiqin e vet"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "nga Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "באר",
+      "gloss": "në Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:35.049051979Z",
+  "model": "glm-5.3"
+}

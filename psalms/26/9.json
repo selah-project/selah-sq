@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Mos mblidh ⟨me⟩ mëkatarët shpirtin tim, dhe ⟨me⟩ njerëzit e gjakut jetën time.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "mblidh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mëkatarët"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "ו",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "të gjakut"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jetën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:09.341753932Z",
+  "model": "glm-5.3"
+}

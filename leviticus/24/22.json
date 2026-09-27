@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Një gjykim i vetëm do të jetë për ju; si ⟨i⟩ huaji ashtu edhe i linduri në vend do të jetë; se unë jam Jahve, Elohim i juaj.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "si ⟨i⟩ huaji"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "si i linduri në vend"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:15.489729292Z",
+  "model": "glm-5.3"
+}

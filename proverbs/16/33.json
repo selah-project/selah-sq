@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Në prehr hidhet ⟨את⟩ shorti, por nga Jahve ⟨është⟩ i tëri vendimi i tij.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "Në prehr"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "hidhet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shorti"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "shorti"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "por nga Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i tëri"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "vendimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:54.306739473Z",
+  "model": "glm-5.3"
+}

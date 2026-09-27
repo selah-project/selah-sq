@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Paroni urdhëroi njerëzit për të, dhe ata e dëbuan ⟨את⟩ atë, dhe ⟨את⟩ gruan e tij, dhe ⟨את⟩ gjithçka që kishte.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroni"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dëbuan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Abram-in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gruan e tij"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kishte"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:45.501458129Z",
+  "model": "glm-5.3"
+}

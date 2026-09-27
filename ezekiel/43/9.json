@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Tani le t'i largojnë ⟨את⟩ kurorëshkeljen e tyre dhe kufomat e mbretërve të tyre prej meje, dhe unë do të banoj në mes tyre përjetë.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "le t'i largojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurorëshkeljen e tyre"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "kurorëshkeljen e tyre"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "dhe kufomat e"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mbretërve të tyre"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prej meje"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "dhe unë do të banoj"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "në mes tyre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:51.844997302Z",
+  "model": "glm-5.3"
+}

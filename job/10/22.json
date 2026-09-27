@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "tokë errësire si terr, ⟨hije⟩ vdekjeje, pa asnjë rend, dhe ⟨drita⟩ aty shkëlqen si terr.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "errësire"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "terr"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "hije vdekjeje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "asnjë rend"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "dhe shkëlqen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "terr"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:01.232147364Z",
+  "model": "glm-5.3"
+}

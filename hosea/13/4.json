@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe unë ⟨jam⟩ Jahve, Elohim-i yt, që nga toka e Egjiptit; dhe Perëndi përveç meje nuk do të dish, dhe shpengues nuk ka përveç ⟨meje⟩.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "që nga toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "dhe Perëndi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "përveç meje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "do të dish"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "dhe shpengues"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "përveç"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:00.837451161Z",
+  "model": "glm-5.3"
+}

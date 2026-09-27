@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Mos fye shërbëtorin te zotëria i tij, që të mos të mallkojë dhe të mbetesh fajtor.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "fye"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtorin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "zotëria i tij"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "të mallkojë"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "dhe të mbetesh fajtor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:35.931457025Z",
+  "model": "glm-5.3"
+}

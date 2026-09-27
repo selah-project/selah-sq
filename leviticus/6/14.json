@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Në tavë do të bëhet me vaj; e njomë, do ta sjellësh; copa të pjekura të minha-s së bukës do t'i paraqetësh si aromëpushim për Jahvenë.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Në"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "tavë"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bëhet"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "e njomë"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "do ta sjellësh"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "copa të pjekura"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "e minha-s"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "të bukës"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "do t'i paraqetësh"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "aromë"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "pushuese"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:37.479640429Z",
+  "model": "glm-5.3"
+}

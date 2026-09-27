@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Vërtet, ke thënë në veshët e mi, dhe zërin e fjalëve ⟨të tua⟩ e dëgjoj.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ke thënë"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "në veshët e mi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dhe zërin"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "e fjalëve"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "e dëgjoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:44.859986009Z",
+  "model": "glm-5.3"
+}

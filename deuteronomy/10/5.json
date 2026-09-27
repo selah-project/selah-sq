@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u ktheva dhe zbrita nga mali, dhe vura ⟨את⟩ tabletnë në arkën që kisha bërë; dhe ato janë atje, ashtu si më urdhëroi Jahve.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "dhe u ktheva"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "dhe zbrita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dhe vura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabletnë"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabletnë"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "në arkën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kisha bërë"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe janë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "më urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:53.218842186Z",
+  "model": "glm-5.3"
+}

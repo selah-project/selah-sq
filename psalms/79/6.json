@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Derdh tërbimin tënd mbi kombet që nuk të njohin ty, dhe mbi mbretëritë që emrin tënd nuk e kanë thirrur.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Derdh"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tërbimin tënd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "të njohin ty"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mbretëritë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "e kanë thirrur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:45.191415784Z",
+  "model": "glm-5.3"
+}

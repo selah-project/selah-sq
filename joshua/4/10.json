@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 4:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe priftërinjtë, mbajtësit e arkes, qëndronin në mes të Jordanit derisa përfundoi e gjithë ⟨e⟩ fjala që Jahve urdhëroi ⟨את⟩ Jozuenua t'i thoshte popullit, sipas gjithçkaje që Moisi urdhëroi ⟨את⟩ Jozuen; dhe populli ngjau dhe kaloi.",
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "dhe priftërinjtë"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mbajtësit e"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkes"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "qëndronin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "תם",
+      "gloss": "përfundoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "t'i thoshte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas gjithçkaje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuen"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "dhe ngjau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "dhe kaloi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:55.825856713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Dëftona hesed-in tënd, o Jahve, dhe shpëtimin tënd jepuna.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Dëftona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in tënd"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "dhe shpëtimin tënd"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jepuna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:15.937761985Z",
+  "model": "glm-5.3"
+}

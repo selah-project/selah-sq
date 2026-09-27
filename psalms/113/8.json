@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 113,
+  "translation": "Për ta ulur me parinë, me parinë e popullit të tij.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Për ta ulur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "parinë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "parinë e"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:59.850578148Z",
+  "model": "glm-5.3"
+}

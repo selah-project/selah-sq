@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe iu tregua Joabit: Ja, mbreti po qan dhe po vajton për Avshalomin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe iu tregua"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joabit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "po qan"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "dhe po vajton"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:13.411670186Z",
+  "model": "glm-5.3"
+}

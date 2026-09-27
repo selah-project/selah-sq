@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Kështu ka thënë Adonai Jahve: Do ta ndërprera ⟨את⟩ turmën e Egjiptit nga dora e Nebukadnetsarit, mbretit të Babilonisë.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Do ta ndërprera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turmën e Egjiptit"
+    },
+    {
+      "surface": "המון",
+      "gloss": "turmën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "e Nebukadnetsarit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "të Babilonisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:34:56.307826953Z",
+  "model": "glm-5.3"
+}

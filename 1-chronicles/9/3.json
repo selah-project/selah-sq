@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe në Jerusalem banuan nga bijtë e Judës, nga bijtë e Beniaminit, nga bijtë e Efraimit dhe të Manasit.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "dhe në Jerusalem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "banuan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminit"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimit"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "dhe të Manasit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:33.073449059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Prit te Jahve; ji i fortë dhe ⟨ai⟩ do ta forcojë zemrën tënde; po, prit te Jahve!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Prit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ji i fortë"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "dhe do ta forcojë"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "po, prit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:53.414396138Z",
+  "model": "glm-5.3"
+}

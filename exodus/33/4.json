@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe populli dëgjoi ⟨את⟩ lajmin e keq, dhe mbajtën zi, dhe askush nuk vuri mbi vete stolitë e veta.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lajmin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lajmin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "e keq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "dhe mbajtën zi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "askush"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "stolitë e veta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi vete"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:26.905764532Z",
+  "model": "glm-5.3"
+}

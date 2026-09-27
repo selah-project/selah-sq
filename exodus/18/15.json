@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Moisi i tha dhëndrit të vet: Sepse populli vjen te unë për të kërkuar Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "dhëndrit të vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:02.208311069Z",
+  "model": "glm-5.3"
+}

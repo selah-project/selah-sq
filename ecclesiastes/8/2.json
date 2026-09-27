@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Unë ⟨këshilloj⟩: ruaj ⟨fjalën⟩ e gojës së mbretit, dhe për shkak të betimit të Elohit.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "e gojës"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "të betimit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "të Elohit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:49.061853292Z",
+  "model": "glm-5.3"
+}

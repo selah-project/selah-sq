@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dëgjoni, o qiej, dhe vuri veshin, o tokë, sepse Jahve ka folur: Bij rrita dhe ngrita lart, por ata u rebeluan kundër meje.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dëgjoni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiej"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "dhe vuni veshin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Bij"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "rrita"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "dhe ngrita lart"
+    },
+    {
+      "surface": "והם",
+      "gloss": "por ata"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "u rebeluan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kundër meje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:02.209928910Z",
+  "model": "glm-5.3"
+}

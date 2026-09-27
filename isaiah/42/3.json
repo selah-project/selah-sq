@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Kallami i shtypur nuk do ta thyejë dhe llambën e zbehtë nuk do ta shuajë; sipas së vërtetës do të nxjerrë të drejtën.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Kallami"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "i shtypur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "do ta thyejë"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "dhe llambën"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "e zbehtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "do ta shuajë"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "sipas së vërtetës"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "do të nxjerrë"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "të drejtën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:38.022308621Z",
+  "model": "glm-5.3"
+}

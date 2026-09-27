@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ shenjat e tij dhe ⟨את⟩ veprat e tij që ai bëri në mes të Egjiptit, ndaj faraonit, mbretit të Egjiptit, dhe ndaj gjithë vendit të tij:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shenjat e tij"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "shenjat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "veprat e tij"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "veprat e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ai bëri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ndaj faraonit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dhe ndaj gjithë"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "vendit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:21.693463459Z",
+  "model": "glm-5.3"
+}

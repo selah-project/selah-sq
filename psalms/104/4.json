@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ai që i bën erërat lajmitarët e tij, flakët e zjarrit shërbëtorët e tij.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "lajmitarët e tij"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "erërat"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarrit"
+    },
+    {
+      "surface": "להט",
+      "gloss": "flakët e"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.421344953Z",
+  "model": "glm-5.3"
+}

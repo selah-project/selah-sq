@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe iu përgjigjën bijtë e Hetit ⟨את⟩ Abrahamit, duke i thënë:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Dhe iu përgjigjën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke i thënë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:50.454196872Z",
+  "model": "glm-5.3"
+}

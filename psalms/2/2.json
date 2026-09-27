@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ngrihen mbretërit e ⟨të⟩ tokës, dhe sundimtarët marrin këshillë bashkarisht, kundër Jahvesë dhe kundër Mashiachit të tij,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Ngrihen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "dhe sundimtarët"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "marrin këshillë bashkarisht"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe kundër"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiachit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:43.575053080Z",
+  "model": "glm-5.3"
+}

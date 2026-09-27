@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Sepse Jeruzalemi është rrëzuar dhe Juda ka rënë, sepse gjuha e tyre dhe veprat e tyre janë kundër Jahvesë, për të provokuar sytë e lavdisë së tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "është rrëzuar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ka rënë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuha e tyre"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "dhe veprat e tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "për të provokuar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sytë e"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lavdisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:24.272229884Z",
+  "model": "glm-5.3"
+}

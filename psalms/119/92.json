@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Sikur Tora jote të mos kishte qenë kënaqësia ime, atëherë do të kisha humbur në mundimin tim.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Sikur të mos"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora jote"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kënaqësia ime"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "do të kisha humbur"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "në mundimin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:44.458019241Z",
+  "model": "glm-5.3"
+}

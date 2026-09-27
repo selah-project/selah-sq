@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sepse nëse bien, njëri do ta ngrejë ⟨את⟩ shokun e tij; dhe po i vetmi bie — nuk ka të dytin për ta ngritur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bien"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "do ta ngrejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shokun e tij"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "shokun e tij"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "dhe po"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i vetmi"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "bie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të dytin"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "për ta ngritur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:59.697138270Z",
+  "model": "glm-5.3"
+}

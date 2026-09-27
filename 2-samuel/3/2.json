@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe i lindën bij Davidit në Hebron; dhe i parëlinduri i tij ⟨ishte⟩ Amnon, nga Ahinoamja izreelitja.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "dhe i lindën"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bij"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "në Hebron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "i parëlinduri i tij"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "nga Ahinoamja"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "izreelitja"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:14.094956501Z",
+  "model": "glm-5.3"
+}

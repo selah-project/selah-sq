@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Si të mbaj vetëm i vetmi barrën tuaj, dhe peshën tuaj, dhe grindjet tuaja?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "si"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "të mbaj"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vetëm i vetmi"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "barrën tuaj"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "dhe peshën tuaj"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "dhe grindjet tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:47.637184415Z",
+  "model": "glm-5.3"
+}

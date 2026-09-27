@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Këto janë familjet e bijve të Asherit sipas të numëruarve të tyre: pesëdhjetë e tre mijë e katërqind.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familjet e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asherit"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "sipas të numëruarve të tyre"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dhe pesëdhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dhe katër"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:12.439124863Z",
+  "model": "glm-5.3"
+}

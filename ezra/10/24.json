@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe nga këngëtarët: Eljashibi; dhe nga portierët: Shallumi, Telemi dhe Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "këngëtarët"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljashibi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "portierët"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallumi"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "dhe Telemi"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "dhe Uri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:54:42.400790659Z",
+  "model": "glm-5.3"
+}

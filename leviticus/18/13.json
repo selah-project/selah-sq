@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Lakuriqësinë e motrës së nënës tënde mos e zbulofsh, sepse ⟨ajo⟩ ⟨është⟩ mishi i nënës sate.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "lakuriqësi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "e motrës"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "e nënës tënde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "e zbulofsh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mishi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "i nënës sate"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:18.666962816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe ⟨את⟩ Baalath-in dhe ⟨את⟩ Tamar-in në shkretëtirë, në ⟨të⟩ vendin,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Baalath-in"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalath-in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tamar-in"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar-in"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:55.885882620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe me të vërtetë ⟨את⟩ gjakun tuaj, për jetët tuaja, do ta kërkoj; nga dora e çdo kafshe do ta kërkoj atë; dhe nga dora e njeriut, nga dora e çdo njeriu, vëllait të tij, do ta kërkoj ⟨את⟩ shpirtin e njeriut.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "dhe me të vërtetë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun tuaj"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "gjakun tuaj"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "për jetët tuaja"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "do ta kërkoj"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kafshes"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "do ta kërkoj atë"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dhe nga dora e"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeriu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllait të tij"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "do ta kërkoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin e njeriut"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "e njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:08.913036890Z",
+  "model": "glm-5.3"
+}

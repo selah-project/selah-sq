@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Jahve deshi, për hir të drejtësisë së Tij, të bëjë të madhe Torën dhe ta bëjë të lavdishme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "deshi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "drejtësisë së Tij"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "të bëjë të madhe"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torën"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "dhe ta bëjë të lavdishme"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:16.725648075Z",
+  "model": "glm-5.3"
+}

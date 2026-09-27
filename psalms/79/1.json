@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Psalm i Asafit. O Elohim, kombet kanë ardhur në trashëgiminë tënde, e kanë përdhosur ⟨את⟩ tempullin e shenjtë tënd, e kanë bërë ⟨את⟩ Jerusalemin gërmadha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kanë ardhur"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "në trashëgiminë tënde"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "e kanë përdhosur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempullin e shenjtë tënd"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempullin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e shenjtë tënd"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "e kanë bërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemin"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "gërmadha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:44.464388731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Pagu fort dhe gufo, sepse ti do t'i bësh trashëgimtar ⟨את⟩ popullin këtë të ⟨את⟩ tokën që u betova etërve të tyre për t'ua dhënë atyre.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "pagu fort"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "dhe gufo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "do t'i bësh trashëgimtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin këtë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "u betova"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për t'ua dhënë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:01.351766301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe të parëlindurit e gomarit do ta shpengosh me një qengj; dhe nëse nuk e shpengon, do t'i kesh pritur qafën. Çdo të parëlindur të bijve të tu do ta shpengosh; dhe askush nuk do të paraqitet përpara meje me duar bosh.",
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "Dhe të parëlindurit"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "e gomarit"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "do ta shpengosh"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "me një qengj"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "e shpengon"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "do t'i kesh pritur qafën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Çdo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "të parëlindur"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "të bijve të tu"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "do ta shpengosh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "do të paraqitet"
+    },
+    {
+      "surface": "פני",
+      "gloss": "përpara meje"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "me duar bosh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:46.056652997Z",
+  "model": "glm-5.3"
+}

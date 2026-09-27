@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Një gjë kërkova nga ⟨את⟩ Jahve — ⟨את⟩ atë e kërkoj: të banoj në shtëpinë e Jahvesë të gjitha ditët e jetës sime, për të soditur ëmbëlsinë e Jahvesë dhe për të vizituar tempullin e tij.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "një gjë"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kërkova"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (gjë të kërkuar)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "e kërkoj"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "të banoj"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "e jetës sime"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "për të soditur"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "ëmbëlsinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "dhe për të vizituar"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "tempullin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:47.771785025Z",
+  "model": "glm-5.3"
+}

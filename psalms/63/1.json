@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Një mizmor i Davidit, kur ishte ai në shkretëtirën e Judës.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kur ishte ai"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:28.621004939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "E njeriut Mois ⟨ishte⟩ shumë i përulur, më shumë se çdo njeri mbi faqen e dheut.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mois"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "i përulur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "më shumë se çdo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që ⟨është⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:24.474027466Z",
+  "model": "glm-5.3"
+}

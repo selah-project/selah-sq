@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do të bësh ⟨את⟩ mantelin e efodit, krejt nga e bluja.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantelin"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mantelin"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "e efodit"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "nga e bluja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:28.453002222Z",
+  "model": "glm-5.3"
+}

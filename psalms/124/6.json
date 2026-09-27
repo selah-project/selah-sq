@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "I bekuar qoftë Jahve, që s'na dha si copë grykës ⟨të⟩ dhëmbëve të tyre.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "I bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "na dha"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "si copë grykës"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "dhëmbëve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:52.485903416Z",
+  "model": "glm-5.3"
+}

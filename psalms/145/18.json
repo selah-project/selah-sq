@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Afër ⟨është⟩ Jahve për të gjithë ata që e thërrasin ⟨atë⟩, për të gjithë ata që e thërrasin ⟨atë⟩ në të vërtetën.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Afër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjithë"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "që e thërrasin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ata që"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "e thërrisin atë"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "në të vërtetën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:39.649464236Z",
+  "model": "glm-5.3"
+}

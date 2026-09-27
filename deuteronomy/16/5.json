@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Nuk mund të flijosh ⟨את⟩ Pesach-in në një nga portat e tua, të cilat Jahve, Elohim-i yt, të jep ty.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "të flijosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach-in"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach-in"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "në një nga"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "portat e tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "të jep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:56.712043883Z",
+  "model": "glm-5.3"
+}

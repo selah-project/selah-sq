@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Fjala e mëshirës së pashpallur ⟨thotë⟩:kreth mëkatit të të ligut — në brendësi të zemrës sime — s'ka frikë nga Elohim përpara syve të tij.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Fjala e mëshirës së pashpallur"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mëkat"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "i të ligut"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në brendësi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "të zemrës sime"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frikë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "syve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:16.398882836Z",
+  "model": "glm-5.3"
+}

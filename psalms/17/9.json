@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Nga fytyra e të ligëve që më shkatërrojnë, armiqtë e mi në shpirt rrethojnë kundër meje.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "nga fytyra e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligëve"
+    },
+    {
+      "surface": "זו",
+      "gloss": "që"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "më shkatërrojnë"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "në shpirt"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "rrethojnë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.722594542Z",
+  "model": "glm-5.3"
+}

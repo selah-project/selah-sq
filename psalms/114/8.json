@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 114,
+  "translation": "Ai që shndërroi shkëmbin në pellg uji, kremen në burim uji —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Ai që shndërroi"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "shkëmbin"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "pellg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "uji"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "kremen"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "burim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "uji"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.988448319Z",
+  "model": "glm-5.3"
+}

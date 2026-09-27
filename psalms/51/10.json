@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Bëjmë të dëgjoj gëzim dhe hare, që të gëzohen kockat që ti ke thyer.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "bëjmë të dëgjoj"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gëzim"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "dhe hare"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "të gëzohen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kockat"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ke thyer"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.475009290Z",
+  "model": "glm-5.3"
+}

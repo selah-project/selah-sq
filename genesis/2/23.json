@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe njeriu tha: Kjo, kësaj radhe, është kockë nga kockat e mia dhe mish nga mishi im; kjo do të quhet grua, sepse nga burri është marrë kjo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kësaj radhe"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kockë"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "nga kockat e mia"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dhe mish"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "nga mishi im"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "do të quhet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "grua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nga burri"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "është marrë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:14.552777177Z",
+  "model": "glm-5.3"
+}

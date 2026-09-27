@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe prifti do të urdhërojë, dhe do të nxjerrin ⟨את⟩ gurët në të cilët ⟨është⟩ goditja, dhe do t'i hedhin ⟨את⟩ ato jashtë qytetit, në një vend të papastër.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "dhe do të urdhërojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "dhe do të nxjerrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilët"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "goditja"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "dhe do t'i hedhin"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "të papastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:12.190801653Z",
+  "model": "glm-5.3"
+}

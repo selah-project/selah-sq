@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Sepse ai foli dhe ⟨u bë⟩; ai urdhëroi dhe qëndroi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ⟨u bë⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe qëndroi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:10.262329183Z",
+  "model": "glm-5.3"
+}

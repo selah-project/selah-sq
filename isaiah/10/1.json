@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Mjerë ata që dekretojnë dekrete paudhësie dhe shkruesit që shkruajnë mundim,",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ata që dekretojnë"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "dekrete"
+    },
+    {
+      "surface": "און",
+      "gloss": "paudhësie"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "dhe shkruesit që shkruajnë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundim"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "shkruajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:47.501984633Z",
+  "model": "glm-5.3"
+}

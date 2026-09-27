@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Jozafati i tha mbretit të Izraelit: «Kërko, të lutem, sot ⟨את⟩ fjalën e Jahve.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jozafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kërko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:31.462088071Z",
+  "model": "glm-5.3"
+}

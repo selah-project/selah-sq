@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe kjo është gjëja që do t'u bësh atyre për t'i shenjtëruar ⟨את⟩ ata për të më shërbyer si priftërinj: merr një dem, bir të lopës, dhe dy desh pa të meta.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gjëja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do t'u bësh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "për t'i shenjtëruar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "si priftërinj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "פר",
+      "gloss": "një dem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "të lopës"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "dhe dy desh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "pa të meta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:47.692113884Z",
+  "model": "glm-5.3"
+}

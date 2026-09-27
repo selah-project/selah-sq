@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Para se tenxheret tuaja të ndiejnë drerin e mprehtë, ai do t'i shpërqendrojë ⟨ata⟩ si me një stuhi, të gjallë dhe me flakë të zemëritjes.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Para se"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "të ndiejnë"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "tenxheret tuaja"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "dreri i mprehtë"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "חי",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "me"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "flakë të zemëritjes"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "do t'i shpërqendrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:03.379092600Z",
+  "model": "glm-5.3"
+}

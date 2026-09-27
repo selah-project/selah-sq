@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Do të vijnë dhe do të shpallin drejtësinë e tij një populli që do të lindet — sepse ⟨ai⟩ e bëri.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Do të vijnë"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dhe do të shpallin"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "drejtësinë e tij"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "një populli"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "që do të lindet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:40.963340889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe dërgoi ⟨את⟩ të rinjtë e bijve të Israelit, dhe ata ofruan flijime të djegura dhe therën flijime falënderimi për Jahve — mëshëta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të rinjtë e bijve të Israelit"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "të rinjtë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ofruan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "flijime të djegura"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "therën"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "flijime"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "falënderimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mëshëta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:57.129429770Z",
+  "model": "glm-5.3"
+}

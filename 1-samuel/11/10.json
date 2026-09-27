@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe burrat e Jabeshit thanë: Nesër do të dalim te ju, dhe do të na bëni gjithçka që ju duket e mirë në sytë tuaj.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burrat e"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabeshit"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nesër"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "do të dalim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "te ju"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do të bëni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gjithçka që"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "është e mirë"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "në sytë tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:13.449878226Z",
+  "model": "glm-5.3"
+}

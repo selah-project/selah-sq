@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 120,
+  "translation": "Unë ⟨jam⟩ paqe, por kur flas, ata ⟨janë⟩ për luftë.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "por kur"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "flas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:18.105960095Z",
+  "model": "glm-5.3"
+}

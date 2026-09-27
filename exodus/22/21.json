@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Çdo e ve dhe jetim — mos i shtypni.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "e ve"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dhe jetim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "i shtypni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:19.460762684Z",
+  "model": "glm-5.3"
+}

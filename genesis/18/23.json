@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Abrahami u afrua dhe tha: A do të shfarosësh ⟨vërtet⟩ të drejtin bashkë me të pabesin?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dhe u afrua"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האף",
+      "gloss": "a ⟨vërtet⟩"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "do të shfarosësh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të pabesin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:26.496082336Z",
+  "model": "glm-5.3"
+}

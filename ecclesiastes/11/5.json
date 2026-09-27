@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Ashtu siç nuk e di ti cila është rruga e erës, ashtu siç ⟨është⟩ me eshtrat në barkun e plotë, po ashtu nuk do t'i dish ⟨את⟩ veprat e Elohim-it, i cili bën ⟨את⟩ të gjitha.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nuk e di ti"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "e erës"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "siç ⟨është⟩ me eshtrat"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "në barkun"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "e plotë"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "po ashtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "do t'i dish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohim-it"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "të gjitha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:17.478421395Z",
+  "model": "glm-5.3"
+}

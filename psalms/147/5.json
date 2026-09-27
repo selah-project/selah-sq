@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "I madh është Adonai ynë dhe i fortë në fuqi; për të kuptuarit e tij nuk ka numër.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai ynë"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe i fortë"
+    },
+    {
+      "surface": "כח",
+      "gloss": "në fuqi"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "për të kuptuarit e tij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.262917991Z",
+  "model": "glm-5.3"
+}

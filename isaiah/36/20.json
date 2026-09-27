@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Kush nga të gjitha perënditë e këtyre vendeve e shpëtoi ⟨את⟩ vendin e vet nga dora ime, që ⟨të⟩ shpëtojë Jahve ⟨את⟩ Jeruzalemin nga dora ime?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "vendeve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e këtyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "e shpëtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin e vet"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "vendin e vet"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga dora ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "të shpëtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemin"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga dora ime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:39.766427046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Përgjigjmu, o Jahve, sepse e mirë ⟨është⟩ hesed-i yt; sipas shumësisë së mëshirave të tua kthehu kah unë.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Përgjigjmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sipas shumësisë"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "të mëshirave të tua"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kah unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:23.166939011Z",
+  "model": "glm-5.3"
+}

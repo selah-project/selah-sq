@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Në çdo vend ⟨janë⟩ sytë e Jahvesë, duke vëzhguar të këqijtë dhe të mirët.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "duke vëzhguar"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "të këqijtë"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "dhe të mirët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:36.263949902Z",
+  "model": "glm-5.3"
+}

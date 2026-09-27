@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe tani dëgjo, o Jakob, shërbëtori im, dhe Izrael, të cilin e zgjodha në të:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "o Jakob"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtori im"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe Izrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "e zgjodha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:48.539284167Z",
+  "model": "glm-5.3"
+}

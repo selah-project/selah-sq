@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "«Bëjnë bijtë e Israelit ⟨את⟩ Pashkën në kohën e caktuar të saj.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "bëjnë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pashkën"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pashkën"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "në kohën e caktuar të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:17.593428384Z",
+  "model": "glm-5.3"
+}

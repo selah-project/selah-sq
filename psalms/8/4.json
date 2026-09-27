@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Kur shoh qiejt e tu, veprat e gishtave të tu, hënën dhe yjet që ke vendosur —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "qiejt e tu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "e gishtave të tu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hënën"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dhe yjet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ke vendosur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:15.768370678Z",
+  "model": "glm-5.3"
+}

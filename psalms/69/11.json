@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Dhe qaja me agjërim, ⟨ky ishte⟩ agjërimi i shpirtit tim, dhe u bë fyerje për mua.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "dhe qaja"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "me agjërim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "i shpirtit tim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "fyerje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:49.623825223Z",
+  "model": "glm-5.3"
+}

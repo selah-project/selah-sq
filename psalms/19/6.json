@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ai ⟨është⟩ si nusi që del nga dhoma e tij; gëzohet si i forti për të vrapuar rrugën.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "si nusi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "del"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "nga dhoma e tij"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "si i forti"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "për të vrapuar"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rrugën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:43.301065424Z",
+  "model": "glm-5.3"
+}

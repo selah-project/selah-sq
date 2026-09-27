@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe do ta ruash ⟨את⟩ statutin këtë në kohën e caktuar të tij, nga ditë në ditë.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "dhe do ta ruash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutin këtë"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "statutin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "në kohën e caktuar të tij"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "nga ditë"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "në ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:22.582126274Z",
+  "model": "glm-5.3"
+}

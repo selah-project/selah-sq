@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "se pasuria nuk qëndron përjetë, dhe kurora — brez pas brezi ⟨nuk qëndron⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kurora"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:54.249967470Z",
+  "model": "glm-5.3"
+}

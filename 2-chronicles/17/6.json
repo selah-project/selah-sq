@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Zemra e tij u ngrit lart në rrugët e Jahves, dhe veç kësaj ai hoqi ⟨את⟩ vendet e larta dhe ⟨את⟩ Asherimët nga Juda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "u ngrit lart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "në rrugët e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dhe veç kësaj"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendet e larta"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendet e larta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asherimët"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherimët"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "nga Juda"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:05.200803103Z",
+  "model": "glm-5.3"
+}

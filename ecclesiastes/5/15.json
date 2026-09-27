@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Edhe kjo është një e keqe e sëmurë: sikurse erdhi, ashtu do të shkojë; dhe ç'fitim ka ai që mundohet për erën?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "e sëmurë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "siç"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "do të shkojë"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe ç'"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "fitim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ai"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "që mundohet"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "për erën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:32.336329856Z",
+  "model": "glm-5.3"
+}

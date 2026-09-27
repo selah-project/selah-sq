@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbretëresha e Shebës pa ⟨את⟩ të gjithë urtinë e Salomonit dhe shtëpinë që kishte ndërtuar.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mbretëresha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "e Shebës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë urtinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "urtinë"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dhe shtëpinë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kishte ndërtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:07.990893640Z",
+  "model": "glm-5.3"
+}

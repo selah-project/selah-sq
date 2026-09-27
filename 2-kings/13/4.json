@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe e qetësoi Jehoahazi ⟨את⟩ fytyrën e Jahves, dhe dëgjoi Jahve drejt tij, sepse pa ⟨את⟩ shtrëngimin e Izraelit, sepse i shtrëngoi ⟨את⟩ ata mbreti i Aramit.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dhe e qetësoi (lutu)"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e Jahves"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "drejt tij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtrëngimin e Izraelit"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "shtrëngimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "i shtrëngoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata (Izraelin)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i Aramit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:48.265003149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai numëron numrin e yjeve, të gjithëve u jep emra.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "numëron"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numrin"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "e yjeve"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "të gjithëve"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emra"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "u jep"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:22.343887352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Vënë gojën e tyre në qiej, dhe gjuha e tyre ecën nëpër tokë.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Vënë"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "gojën e tyre"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dhe gjuha e tyre"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nëpër tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:47.491293357Z",
+  "model": "glm-5.3"
+}

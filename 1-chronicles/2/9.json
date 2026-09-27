@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe bijtë e Chetsronit që i lindën atij: ⟨את⟩ Jerahmeel, dhe ⟨את⟩ Ram, dhe ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dhe bijtë e"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsronit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "lindën"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerahmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerahmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:45.175128106Z",
+  "model": "glm-5.3"
+}

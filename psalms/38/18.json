@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Sepse unë jam gati të lëkundem, dhe dhimbja ime ⟨është⟩ përpara meje gjithnjë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "gati të lëkundem"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "jam gati"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "dhe dhimbja ime"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "përpara meje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gjithnjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:32.125680179Z",
+  "model": "glm-5.3"
+}

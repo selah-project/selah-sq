@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Ata piqen në errësirë e jo në dritë, dhe Ai i bën të enden si të dehur.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "piqen (me duar)"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësirë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritë"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "dhe i bën të enden"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "si të dehur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:41.685338256Z",
+  "model": "glm-5.3"
+}

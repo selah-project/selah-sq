@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vendosësh ⟨את⟩ oborrin rreth e qark, dhe do të vërësh ⟨את⟩ perden e portës së oborrit.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Dhe do të vendosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oborrin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "oborrin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e qark"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do të vërësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden e portës së oborrit"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perden"
+    },
+    {
+      "surface": "שער",
+      "gloss": "e portës"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "së oborrit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:45.152649238Z",
+  "model": "glm-5.3"
+}

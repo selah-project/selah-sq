@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Sepse qëndron ⟨ai⟩ në të djathtën e të varfrit, për ta shpëtuar nga ata që dënojnë shpirtin e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "në të djathtën e"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "për ta shpëtuar"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "nga ata që dënojnë"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirtin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.991850427Z",
+  "model": "glm-5.3"
+}

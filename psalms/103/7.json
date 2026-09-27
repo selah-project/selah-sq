@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Bëri të njohura rrugët e tij Moisiut, bijve të Izraelit veprat e tij.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "bëri të njohura"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "rrugët e tij"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:20.286457999Z",
+  "model": "glm-5.3"
+}

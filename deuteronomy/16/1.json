@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Ruaj ⟨את⟩ muajin e avivit dhe bëj Pesach-un për Jahve, Elohimin tënd, sepse në muajin e avivit të nxori Jahve, Elohim i yt, nga Egjipti, natën.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ruaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muajin e avivit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "muajin"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "e avivit"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach-un"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në muajin"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "e avivit"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "të nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:00.911431434Z",
+  "model": "glm-5.3"
+}

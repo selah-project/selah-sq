@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse deri sa ⟨si⟩ gjemba të ndërthurur dhe si të dehur nga pija e tyre, do të gëlltiten si kallë i thatë i plotë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "giemba"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "të ndërthurur"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "dhe si pija e tyre"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "të dehur"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "do të gëlltiten"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "si kallë"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "i thatë"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i plotë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:49:18.251579120Z",
+  "model": "glm-5.3"
+}

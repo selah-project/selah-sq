@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Ai kujtoi përjetësisht besëlidhjen e tij, fjalën që urdhëroi për një mijë brezni.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ai kujtoi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "që urdhëroi"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "për një mijë"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezni"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:03.476231089Z",
+  "model": "glm-5.3"
+}

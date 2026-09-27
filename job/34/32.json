@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "«Përveç asaj që shoh, më mëso ti; nëse kam bërë paudhësi, nuk do të shtoj më.»",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "shoj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "më mëson"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "עול",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "kam bërë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "do të shtoj më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:46.826295430Z",
+  "model": "glm-5.3"
+}

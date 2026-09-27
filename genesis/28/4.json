@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe të japë ty ⟨את⟩ bekimin e Abrahamit, ty dhe pasardhësve të tu ⟨את⟩ ⟨me ty⟩, për të trashëguar ⟨את⟩ tokën e vendbanimeve të tua, të cilën Elohim ia dha Abrahamit.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "të japë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekimin"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bekimin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "dhe pasardhësve të tu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨me ty⟩"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "për të trashëguar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "e vendbanimeve të tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia dha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:24.433611649Z",
+  "model": "glm-5.3"
+}

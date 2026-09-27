@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe kështu do ta bësh ⟨את⟩ atë: tridhjetë ⟨metra kub⟩ — treqind kubitë gjatësi do të ketë arka, pesëdhjetë kubitë gjerësi dhe tridhjetë kubitë lartësi.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "dhe kështu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (arkën)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gjatësi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pesëdhjetë"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "gjerësi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "lartësi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:41.573796541Z",
+  "model": "glm-5.3"
+}

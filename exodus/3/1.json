@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Moisi ⟨ishte⟩ duke kullotur ⟨את⟩ tufën e Jetros, kunatit të tij, priftit të Madianit; dhe e çoi ⟨את⟩ tufan pas shkretëtirës, dhe erdhi në malin e Elohit, në Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Dhe Moisi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "duke kullotur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufën"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tufën"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetros"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "kunatit të tij"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "të Madianit"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dhe e çoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tufan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtirës"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "në Horeb"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:51.054736306Z",
+  "model": "glm-5.3"
+}

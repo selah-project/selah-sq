@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe gjithçka që nuk ka ````pingë```` dhe luspa nuk do ta hani; e papastër ⟨është⟩ për ju.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(atij)"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "````pingë````"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dhe luspa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do ta hani"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "e papastër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:06.185111994Z",
+  "model": "glm-5.3"
+}

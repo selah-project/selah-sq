@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ajo erdhi te vjehrra e saj, dhe ajo tha: «Kush je ti, bija ime?» Dhe ajo i tregoi asaj ⟨את⟩ gjithçka që njeriu i kishte bërë asaj.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "dhe ajo erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "vjehrra e saj"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bija ime"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "dhe ajo i tregoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:19.029954768Z",
+  "model": "glm-5.3"
+}

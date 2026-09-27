@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 15:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe i tha Avramit: «Duke ditur do të dish se pasardhësja jot ⟨do të jetë⟩ i huaj në një vend që s'është i tyre, dhe do t'i nënshtrojnë ⟨אתם⟩ dhe do t'i shtypin — katërqind vjet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avramit"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "duke ditur"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "do të dish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pasardhësja jot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në një vend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'është"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i tyre"
+    },
+    {
+      "surface": "ו עבדום",
+      "gloss": "dhe do t'i nënshtrojnë"
+    },
+    {
+      "surface": "ו ענו",
+      "gloss": "dhe do t'i shtypin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "do t'i shtypin (kundrinori)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:47.605347637Z",
+  "model": "glm-5.3"
+}

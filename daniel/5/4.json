@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Pinë verën dhe lëvduan perënditë e arit dhe të argjendit, të bakrit, të hekurit, të drurit dhe të gurit.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "Pinë"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "verën"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "dhe lëvduan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "e arit"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "dhe të argjendit"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "të bakrit"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "të hekurit"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "të drurit"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "dhe të gurit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:48:38.128705010Z",
+  "model": "glm-5.3"
+}

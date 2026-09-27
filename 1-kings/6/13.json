@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe do të banoj në mes të bijve të Israelit, dhe nuk do të braktis ⟨את⟩ popullin tim Izraelin.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "dhe do të banoj"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk do të"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "braktis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim Izraelin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:22.671446302Z",
+  "model": "glm-5.3"
+}

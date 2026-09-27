@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tani, o Izrael, dëgjo ⟨gjykimet⟩ dhe urdhëresat që unë po ju mësoj të zbatoni, që të jetoni dhe të hyni e të trashëgoni ⟨את⟩ vendin që Jahve, Elohu i etërve tuaj, ju jua jep.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe ndaj"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "urdhëresat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "po mësoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të zbatoni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "të jetoni"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "dhe të hyni"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "të trashëgoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohu i"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "etërve tuaj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:28.878280018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe biri i tij i parëlindur ishte Abdon, dhe Cur, dhe Kish, dhe Baal, dhe Nadab.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "dhe biri i tij"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "i parëlindur"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dhe Cur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "dhe Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dhe Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "dhe Nadab"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:32.535765243Z",
+  "model": "glm-5.3"
+}

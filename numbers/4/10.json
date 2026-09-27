@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe të vendosin ⟨את⟩ atë dhe ⟨את⟩ të gjitha enët e saj brenda një mbulese lëkure taḥash-i, dhe ta vënë mbi shkopin.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe të vendosin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (menorën)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha enët e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "enët e saj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "një mbulese"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lëkure"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "taḥash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe ta vënë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "shkopin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:44.903682222Z",
+  "model": "glm-5.3"
+}

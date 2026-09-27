@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Më i mirë ⟨është⟩ të qenit me frymë të përulur bashkë me ⟨את⟩ të varfrit, sesa të ndash plaçkën me ⟨את⟩ kryelartët.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më i mirë"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "të përulur"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "frymë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të varfrit"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "të ndash"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plaçkën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kryelartët"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kryelartët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:28.883939307Z",
+  "model": "glm-5.3"
+}

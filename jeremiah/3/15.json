@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do t'ju jap juve barinj sipas zemrës sime, dhe do t'ju kullosin ⟨את⟩ me dije dhe me kuptim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dhe do të jap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "barinj"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "sipas zemrës sime"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "dhe do t'ju kullosin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "me dije"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "dhe me kuptim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:08:48.097932912Z",
+  "model": "glm-5.3"
+}

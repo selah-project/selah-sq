@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "atëherë prifti do të urdhërojë që të lahet ⟨את⟩ ajo ku është plaga, dhe do ta mbyllë izoluar shtatë ditë për të dytën herë.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "do të urdhërojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "të lahet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajo ku është plaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku është"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "do ta mbyllë izoluar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "për të dytën herë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:08.260646106Z",
+  "model": "glm-5.3"
+}

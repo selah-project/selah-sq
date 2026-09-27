@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe nëse flijimi yt ⟨është⟩ minha mbi tavan, të jetë miell i imët i përzier me vaj, ⟨bukë⟩ pa maja.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "tavan"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "flijimi yt"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "miell i imët"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "i përzier"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "pa maja"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:23.672279797Z",
+  "model": "glm-5.3"
+}

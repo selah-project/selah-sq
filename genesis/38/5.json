@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "A shtoi edhe një herë dhe lindi një djalë, dhe e quajti ⟨את⟩ emrin e tij Shela; dhe ⟨ai⟩ ndodhej në Kzib kur ajo e lindi ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "A shtoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe një herë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe ndodhej"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "në Kzib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "kur lindi ajo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:45.478982778Z",
+  "model": "glm-5.3"
+}

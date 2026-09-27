@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Ngela i lidhur me heshtje, rrova i qetë; u përmbaja edhe nga e mira, dhe dhembja ime u trazua.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ngela i lidhur"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "me heshtje"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "rrova i qetë"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "edhe nga e mira"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "dhe dhembja ime"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "u trazua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:51.123024277Z",
+  "model": "glm-5.3"
+}

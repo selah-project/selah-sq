@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jahve riktheu ⟨את⟩ robërinë e Jobit, kur ai lutej për miqtë e tij; dhe Jahve shtoi ⟨את⟩ gjithçka që kishte Jobi, sa dyfish.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dhe Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "riktheu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robërinë e Jobit"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "e Jobit"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "kur ai lutej"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "për"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "miqtë e tij"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dhe shtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "kishte Jobi"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "sa dyfish"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:56.883496189Z",
+  "model": "glm-5.3"
+}

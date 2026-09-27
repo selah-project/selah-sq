@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "⟨את⟩ Detin e vetin, dhe ⟨את⟩ dymbëdhjetë qetë nën të.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Detin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e vetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dymbëdhjetë qetë"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "qetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nën të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:36.373936495Z",
+  "model": "glm-5.3"
+}

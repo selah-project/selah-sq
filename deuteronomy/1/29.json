@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe unë ju thashë: Mos u trembni dhe mos u frikësoni nga ata.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe unë thashë"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "u trembni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "u frikësoni"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nga ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:07.555006993Z",
+  "model": "glm-5.3"
+}

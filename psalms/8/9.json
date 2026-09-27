@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Zogjtë e qiellit dhe peshqit e detit, çdo gjë që kalon nëpër shtigjet e deteve.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "zogjtë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "e qiellit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "dhe peshqit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "e detit"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "që kalon"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nëpër shtigjet"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "e deteve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:32.901296234Z",
+  "model": "glm-5.3"
+}

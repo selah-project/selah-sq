@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "dhe të kthejmë ⟨את⟩ arkën e Elohim-it tonë te ne, sepse nuk e kërkuam ⟨atë⟩ në ditët e Saulit.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "dhe të kthejmë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "të Elohim-it tonë"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "te ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "e kërkuam atë"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:10.057207959Z",
+  "model": "glm-5.3"
+}

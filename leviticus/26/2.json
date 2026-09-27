@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabbatët e mia t'i ruani, dhe faloren time të nderoni me frikë; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatët e mia"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabbatët e mia"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "t'i ruani"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dhe faloren time"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "të nderoni me frikë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:27.252284155Z",
+  "model": "glm-5.3"
+}

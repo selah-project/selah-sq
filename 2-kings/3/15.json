@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "«Dhe tani më sillni një muzikant.» Dhe ndodhi, sapo muzikanti po luante, se dora e Jahvesë erdhi mbi ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "sillni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "një muzikant"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "sapo…luante"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "muzikanti"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi ⟨të⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dora e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:40.077299023Z",
+  "model": "glm-5.3"
+}

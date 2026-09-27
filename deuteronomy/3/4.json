@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe pushtuam ⟨את⟩ të gjitha qytetet e tij në atë kohë; nuk kishte qytet që të mos e marrim ⟨מאתם⟩ prej tyre: gjashtëdhjetë qytete, e tërë krahina e Argobit, mbretëria e Ogut në Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "dhe pushtuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha qytetet e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "qytetet e tij"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "e marrim"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨מאתם⟩ prej tyre"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "gjashtëdhjetë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e tërë"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "krahina"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "e Argobit"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "e Ogut"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "në Bashan"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:52.833998404Z",
+  "model": "glm-5.3"
+}

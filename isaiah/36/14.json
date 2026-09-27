@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Kështu thotë mbreti: Mos ju lërë Hizkiahu ⟨את⟩ të mashtroheni, sepse ai nuk do të mundet t'ju shpëtojë.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "të mashtroheni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "do të mundet"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "t'ju shpëtojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (kundrinori i shpëtimit)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:48.302952067Z",
+  "model": "glm-5.3"
+}

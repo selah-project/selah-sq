@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe ngriti dorën e tij kundër tyre, për t'i rrëzuar ⟨את⟩ ata në shkretëtirë.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "doren e tij"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "për të rrëzuar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:57.950913622Z",
+  "model": "glm-5.3"
+}

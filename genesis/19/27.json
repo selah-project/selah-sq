@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Abrahami ngjiti hershëm në mëngjes drejt vendit ku kishte qëndruar aty para ⟨את⟩ fytyrës së Jahves.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "dhe ngjiti hershëm"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kishte qëndruar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrës"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:33.374543463Z",
+  "model": "glm-5.3"
+}

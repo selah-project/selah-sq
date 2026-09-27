@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Dhe thashë: «Sëmundja ime është kjo: se ndryshuan vitet e dorës së djathtë të Elyon-it.»",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "חַלּוֹתִי",
+      "gloss": "sëmundja ime"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "është kjo"
+    },
+    {
+      "surface": "שְׁנוֹת",
+      "gloss": "ndryshuan vitet"
+    },
+    {
+      "surface": "יְמִין",
+      "gloss": "dora e djathtë"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Elyon-it"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.006804046Z",
+  "model": "glm-5.3"
+}

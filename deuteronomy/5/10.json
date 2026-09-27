@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe bëj hesed deri në një mijë breza për ata që më duan dhe që ruajnë urdhrat e mi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "në një mijë breza"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "për ata që më duan"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "dhe që ruajnë"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "urdhrat e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:08.564630492Z",
+  "model": "glm-5.3"
+}

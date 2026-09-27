@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do të më thërrisni ⟨את⟩ ⟨אותי⟩, dhe do të shkoni dhe do të luteni mua, dhe unë do t'ju dëgjoj.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "do të më thërrisni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "mua (objekt i thërritjes)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "do të shkoni"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "do të luteni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "do të dëgjoj"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "juve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:20.092595268Z",
+  "model": "glm-5.3"
+}

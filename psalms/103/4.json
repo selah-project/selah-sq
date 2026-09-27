@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "⟨Ai⟩ që të shpengon jetën tënde nga shkatërrimi, ⟨ai⟩ që të kurorëzon me hesed dhe mëshira.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "që të shpengon"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "nga shkatërrimi"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "jetën tënde"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "që të kurorëzon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "dhe mëshira"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:32.863130373Z",
+  "model": "glm-5.3"
+}

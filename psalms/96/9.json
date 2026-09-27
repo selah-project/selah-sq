@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Përuluni përpara Jahvesë në ⟨pora⟩ të shenjtërisë; dridhuni para fytyrës së tij, gjithë ⟨token> Toka.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Përuluni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "përpara Jahvesë"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "në ⟨pora⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtërisë"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "dridhuni"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "para fytyrës së tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨token> Toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:25.415831138Z",
+  "model": "glm-5.3"
+}

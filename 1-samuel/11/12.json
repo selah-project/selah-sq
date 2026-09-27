@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe populli i tha Samuelit: Kush është ai që tha: Sauli të mbretërojë mbi ne? Jepni ⟨את⟩ ata njerëz dhe do t'i vrasim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "që tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "të mbretërojë"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ata njerëz"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "dhe do t'i vrasim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:13.450311626Z",
+  "model": "glm-5.3"
+}

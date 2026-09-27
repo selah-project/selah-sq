@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe ndodhi të nesërmen, erdhën filistejtë për t'i zhveshur ⟨את⟩ të vrarët, dhe gjetën ⟨את⟩ Saulin dhe ⟨את⟩ tre bijtë e tij të rënë në malin Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "të nesërmen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "për t'i zhveshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të vrarët"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "të vrarët"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "gjetën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tre bijtë"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "të rënë"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:59.904361840Z",
+  "model": "glm-5.3"
+}

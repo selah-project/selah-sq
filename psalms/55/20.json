@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "El do të dëgjojë dhe do t'i përgjigjet atyre, dhe Ai që rron prej kohës së vjetër. Selah. Ata që s'kanë ndryshime, dhe s'frikojnë Elohim-in.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjojë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "dhe do t'i përgjigjet atyre"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe Ai që rron"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "prej kohës së vjetër"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ata që"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'kanë"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "ndryshime"
+    },
+    {
+      "surface": "למו",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe s'"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "frikohen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-in"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:13.555142966Z",
+  "model": "glm-5.3"
+}

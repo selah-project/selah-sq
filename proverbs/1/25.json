@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe e hodhët poshtë gjithë këshillën time, e qortimin tim nuk e deshët.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "hodhët poshtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "këshillën time"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "e qortimin tim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "e deshët"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:44.879012270Z",
+  "model": "glm-5.3"
+}

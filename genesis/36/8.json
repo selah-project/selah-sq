@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "dhe Esau banoi në malin e Seirit — Esau ⟨is⟩ Edomi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "e Seirit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ ai"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:29.506143859Z",
+  "model": "glm-5.3"
+}

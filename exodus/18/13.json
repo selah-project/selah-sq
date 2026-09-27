@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ndodhi të nesërmen, dhe Moisi u ul të gjykonte ⟨את⟩ popullin, dhe populli qëndroi pranë Moisit, nga mëngjesi deri në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "të nesërmen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u ul"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "të gjykonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mëngjesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:02.207414653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Nebuzaradani, kreu i rojeve, i mori ⟨את⟩ ata dhe i çoi te mbreti i Babilonisë, në Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe i mori"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kreu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "i rojeve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe i çoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonisë"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "në Ribla"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:58.166888265Z",
+  "model": "glm-5.3"
+}

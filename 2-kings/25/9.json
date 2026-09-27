@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe dogi ⟨את⟩ shtëpinë e Jahvesë, dhe ⟨את⟩ shtëpinë e mbretit, dhe ⟨את⟩ të gjitha shtëpitë e Jerusalemit; dhe ⟨את⟩ çdo shtëpi të madhe e dogi me zjarr.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "dhe dogi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e mbretit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha shtëpitë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çdo shtëpi të madhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "e dogi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:13.587503831Z",
+  "model": "glm-5.3"
+}

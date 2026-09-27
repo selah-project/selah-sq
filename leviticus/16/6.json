@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Aaroni do të sjellë ⟨את⟩ demin e mëkatit që është për vete, dhe do të bëjë shpengim për vete dhe për shtëpinë e tij.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "do të sjellë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demin e mëkatit"
+    },
+    {
+      "surface": "פר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "e mëkatit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "do të bëjë shpengim"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:44.582308401Z",
+  "model": "glm-5.3"
+}

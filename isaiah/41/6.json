@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Secili ndihmon ⟨את⟩ shokut të vet dhe i thotë vëllait të vet: «Bëhu i fortë!»",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shokut të vet"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shokut të vet"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ndihmon"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dhe vëllait të vet"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i thotë"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bëhu i fortë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:54.606918255Z",
+  "model": "glm-5.3"
+}

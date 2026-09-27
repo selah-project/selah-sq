@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Njeriu me gjuhë të keqe të mos ⟨qëndrojë⟩ në tokë; njeriun e dhunës e keqja do ta gjuajë deri në shkatërrim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Njeriu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "me gjuhë"
+    },
+    {
+      "surface": "בל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "qëndrojë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "i dhunës"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "do ta gjuajë"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "deri në shkatërrim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:51.608781764Z",
+  "model": "glm-5.3"
+}

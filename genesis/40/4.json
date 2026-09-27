@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe kryetari i rojës caktoi ⟨את⟩ Jozifin me ⟨את⟩ ta, dhe ai u shërbente ⟨את⟩ atyre; dhe kaluan ditë në kujdes.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Dhe caktoi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetari"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "i rojës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozifin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ me ta"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "dhe u shërbente"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "atyre"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "në kujdes"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:42.536261180Z",
+  "model": "glm-5.3"
+}

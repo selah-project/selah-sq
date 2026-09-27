@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Sipas numrit që ⟨do⟩ përgatitni, kështu ⟨do⟩ bëni për secilin, sipas numrit të tyre.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "sipas numrit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "⟨do⟩ përgatitni\/bëni"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "⟨do⟩ bëni"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "për secilin"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sipas numrit të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:34:01.181715569Z",
+  "model": "glm-5.3"
+}

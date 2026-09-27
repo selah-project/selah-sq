@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "E ke parë, Jahve; mos hesht; Adonai, mos u largo nga unë.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "E ke parë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hesht"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "u largo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.831115630Z",
+  "model": "glm-5.3"
+}

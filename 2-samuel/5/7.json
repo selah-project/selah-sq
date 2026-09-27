@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Davidi e pushtoi ⟨את⟩ kështjellën e Sionit — ⟨kjo⟩ është qyteti i Davidit.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Dhe pushtoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kështjellën e Sionit"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "kështjellën"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "e Sionit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kjo⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:30.917831043Z",
+  "model": "glm-5.3"
+}

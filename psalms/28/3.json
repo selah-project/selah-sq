@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Mos më tërhiq me të ligjtë dhe me punëtorët e paudhësisë, që flasin paqen ⟨me⟩ shokët e tyre, ndërsa e keqja ⟨është⟩ në zemrën e tyre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "më tërhiq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "punëtorët"
+    },
+    {
+      "surface": "און",
+      "gloss": "e paudhësisë"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "që flasin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨me⟩"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "shokët e tyre"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ndërsa e keqja"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "në zemrën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.230208767Z",
+  "model": "glm-5.3"
+}

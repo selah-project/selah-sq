@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u tregoi atyre ⟨את⟩ hyrjen e qytetit, dhe e zunë ⟨את⟩ qytetin me anë të shpatës, por ⟨את⟩ njeriun dhe ⟨את⟩ tërë familjen e tij i lanë të shkonin.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "u tregoi atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyrjen"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "hyrjen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e zunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "por ⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tërë familjen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "familjen e tij"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "i lanë të shkonin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:37.465674408Z",
+  "model": "glm-5.3"
+}

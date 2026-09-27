@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe të dërguarit u kthyen te ai, dhe ai u tha atyre: Ç'është kjo, që u ktheve?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dhe u kthyen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "të dërguarit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'është"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "që u ktheve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:59.602429831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse gjendet, gjendet me të vërtetë në dorën e tij ⟨e⟩ vjedhura, nga qetë deri në gomar deri në dele — të gjalla — dyfish do të shpërblejë ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "gjendet me të vërtetë"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "e vjedhura"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nga qetë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "gomar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "שה",
+      "gloss": "dele"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "të gjalla"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dyfish"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të shpërblejë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:52.622085506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Për ⟨udhëheqësin e korusit⟩. Mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për udhëheqësin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:19.328870253Z",
+  "model": "glm-5.3"
+}

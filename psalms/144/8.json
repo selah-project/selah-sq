@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Goja e të cilëve flet kot, dhe e djathta e tyre ⟨is⟩ një e djathtë gënjeshtre.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilëve"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "goja e tyre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "flet"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kot"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "dhe e djathta e tyre"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "një e djathtë"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:25.480587770Z",
+  "model": "glm-5.3"
+}

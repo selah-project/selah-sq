@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe do t'ju çoj ⟨את⟩ ju në shkretëtirën e popujve, dhe do të gjykoj ⟨את⟩ me ju atje, fytyrë përballë fytyre.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "dhe do t'ju çoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirën"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "e popujve"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "dhe do të gjykoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "me ju ⟨את⟩",
+      "marks": "ju (gjykimi)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyrë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:40.689841371Z",
+  "model": "glm-5.3"
+}

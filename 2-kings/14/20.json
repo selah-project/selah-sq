@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe e mbartën ⟨אתו⟩ mbi kuaj, dhe u varros në Jerusalem bashkë me etërit e tij, në qytetin e Davidit.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e mbartën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Amatsjahun)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuaj"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "u varros"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:03.195655029Z",
+  "model": "glm-5.3"
+}

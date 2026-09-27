@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ndodhi në mëngjes, kur po ngrihej minhaha, ja, ujëra vinin nga rruga e Edomit, dhe vendi u mbush ⟨את⟩ me ujëra.",
+  "tokens": [
+    {
+      "surface": "וההי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "kur po ngrihej"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhaha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujëra"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vinin"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "nga rruga e"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomit"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ujëra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "me ujëra"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:00.501424757Z",
+  "model": "glm-5.3"
+}

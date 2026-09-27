@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Gëzohu, o të drejtë, në Jahve, dhe falënderoni në kujtimin e shenjtërisë së tij.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Gëzohu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "o të drejtë"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "dhe falënderoni"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "në kujtimin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të shenjtërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:06.123228170Z",
+  "model": "glm-5.3"
+}

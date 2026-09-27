@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe tani rroni në këmbë, që unë të gjykoj ⟨את⟩ ju para Jahvesë ⟨את⟩ të gjitha drejtësitë e Jahvesë që bëri ⟨את⟩ me ju ⟨את⟩ dhe me baballarët tuaj.",
+  "tokens": [
+    {
+      "surface": "וועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "rroni në këmbë"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "dhe unë të gjykoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha drejtësitë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "drejtësitë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe me"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baballarët tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:57.170956051Z",
+  "model": "glm-5.3"
+}

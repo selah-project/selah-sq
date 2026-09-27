@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Dhe tani ⟨את⟩ gdhendjet e tij bashkarisht me sëpata e sëpata të vogla i thyenin plotësisht.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "gdhendjet e tij"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "me sëpata"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "dhe me sëpata të vogla"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "i thyenin plotësisht"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.875458649Z",
+  "model": "glm-5.3"
+}

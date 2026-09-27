@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Gjithë kjo na ka ardhur, e nuk të kemi harruar dhe nuk kemi genjtur në besëlidhjen tënde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "na ka ardhur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "të kemi harruar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kemi genjtur"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "në besëlidhjen tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:19.141525129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe ai bashkoi ⟨את⟩ pesë perdet një me një tjetër, dhe pesë perde bashkoi një me një tjetër.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "dhe bashkoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesë perdet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një tjetër"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dhe pesë"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "perde"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bashkoi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:46.493279864Z",
+  "model": "glm-5.3"
+}

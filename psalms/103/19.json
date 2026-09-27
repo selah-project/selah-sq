@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Jahve në qiej e ka përgatitur fronin e tij, dhe mbretëria e tij mbi çdo gjë sundon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ka përgatitur"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "fronin e tij"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "dhe mbretëria e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mbi çdo gjë"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "sundon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.682602257Z",
+  "model": "glm-5.3"
+}

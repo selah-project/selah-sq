@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Bërtasin, por nuk ka shpëtimtar; drejt Jahvesë, por ai nuk u përgjigjet atyre.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Bërtasin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "por nuk ka"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "shpëtimtar"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "u përgjigjet atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:05.039848577Z",
+  "model": "glm-5.3"
+}

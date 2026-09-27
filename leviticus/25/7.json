@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe për bagëtinë tënde dhe për kafshën e egër që është në tokën tënde; i gjithë prodhimi i saj do të jetë për ushqim.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "dhe për bagëtinë tënde"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "dhe për kafshën e egër"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "në tokën tënde"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "prodhimi i saj"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:41.725235159Z",
+  "model": "glm-5.3"
+}

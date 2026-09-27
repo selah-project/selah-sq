@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Çfarë do t'i ktheja Jahvesë, për të gjitha dhuratat e tij ndaj meje?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do t'i ktheja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "dhuratat e tij"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ndaj meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:49.547886406Z",
+  "model": "glm-5.3"
+}

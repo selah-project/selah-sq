@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ju shpalli ⟨את⟩ besëlidhjen e tij, të cilën ju urdhëroi ⟨אתכם⟩ të bënit — dhjetë fjalët — dhe i shkroi ato mbi dy tabela prej guri.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe shpalli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen e tij"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "të bënit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bënit"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "dhe i shkroi ato"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "tabela"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "prej guri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:08.351302060Z",
+  "model": "glm-5.3"
+}

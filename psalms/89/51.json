@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Kujto, Adonai, fyerjen e shërbëtorëve të tu; unë e mbaj në gji ⟨fyerjen⟩ ⟨nga⟩ i gjithë popujt e shumtë.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "fyerjen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "e shërbëtorëve të tu"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "unë e mbaj"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "në gji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumtë"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.796732074Z",
+  "model": "glm-5.3"
+}

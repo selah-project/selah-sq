@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 84,
+  "translation": "Për dirigjentin, sipas ⟨Gititit⟩; për bijtë e Korachit, një psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨Gititit⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "një psalm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:52.962632921Z",
+  "model": "glm-5.3"
+}

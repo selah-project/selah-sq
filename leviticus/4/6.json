@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe prifti do të zhytë ⟨את⟩ gishtin e tij në gjak dhe do të spërkasë nga gjaku shtatë herë para Jahvesë, ⟨את⟩ përballë perdes së shenjtë.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "do të zhytë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gishtin e tij"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "gishtin e tij"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "në gjak"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "do të spërkasë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjaku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "përballë (perdes së shenjtë)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "përballë \/ faqen e"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdes"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "së shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:48.225025071Z",
+  "model": "glm-5.3"
+}

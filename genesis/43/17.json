@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe njeriu veproi siç tha Jozefi, dhe njeriu i futi ⟨את⟩ burrat në shtëpinë e Jozefit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "veproi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i futi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burrat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "të Jozefit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:42.340108647Z",
+  "model": "glm-5.3"
+}

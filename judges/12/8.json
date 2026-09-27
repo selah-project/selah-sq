@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe pas tij gjykoiti ⟨את⟩ Izraelin Ibcani nga Beth-Lehemi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dhe gjykoiti"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibcani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukës (Beth-Lehem)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:00.954752710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe në Shushanin, kështjellës, judenjtë mbytën dhe shkatërruan pesëqind veta.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "dhe në Shushanin"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kështjellës"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "mbytën"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judenjtë"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "dhe shkatërruan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "veta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:05.396819834Z",
+  "model": "glm-5.3"
+}

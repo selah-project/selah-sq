@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe ata u ngutën dhe çdo njeri zbriti ⟨את⟩ çantën e tij për tokë, dhe çdo njeri hapi çantën e tij.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "dhe ata u ngutën"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "dhe zbritën"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çantën e tij"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çantën e tij"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "për tokë"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çantën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:22.368046955Z",
+  "model": "glm-5.3"
+}

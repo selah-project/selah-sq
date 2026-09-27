@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe mori, dhe e vuri ⟨את⟩ dëshminë në arken, dhe i vuri ⟨את⟩ shufrat mbi arken, dhe e vuri ⟨את⟩ kapërcylen mbi arken, lart nga përtej.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dëshminë"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "dëshminë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe i vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapërcylen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapërcylen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lart nga përtej"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:41.338638140Z",
+  "model": "glm-5.3"
+}

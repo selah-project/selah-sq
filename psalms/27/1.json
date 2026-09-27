@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I Davidit. Jahve ⟨është⟩ drita ime dhe shpëtimi im — nga kush do të frikësohem? Jahve ⟨është⟩ kështjella e jetës sime — nga kush do të trembem?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "drita ime"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "dhe shpëtimi im"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nga kush"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "do të frikësohem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kështjella"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "e jetës sime"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nga kush"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "do të trembem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:47.770984647Z",
+  "model": "glm-5.3"
+}

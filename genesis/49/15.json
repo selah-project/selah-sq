@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Dhe pa se pushimi ⟨ishte⟩ i mirë, dhe ⟨את⟩ tokën se ⟨ishte⟩ e këndshme, dhe përkuli shpinën e vet për të mbarttur, dhe u bë rob nën haraç.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pushimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "e këndshme"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dhe përkuli"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "shpinën e vet (qafen)"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "për të mbarttur"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "למס",
+      "gloss": "nën haraç"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:39.616678704Z",
+  "model": "glm-5.3"
+}

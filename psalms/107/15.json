@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Le të falënderojnë Jahvenë për hesedin e tij, dhe veprat e tij të mrekullueshme për bijtë e njeriut!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Le të falënderojnë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "për hesedin e tij"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dhe veprat e tij të mrekullueshme"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:41.223341342Z",
+  "model": "glm-5.3"
+}

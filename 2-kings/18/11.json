@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe mbreti i Ashurit i dëboi ⟨את⟩ Izraelin në Ashur dhe i vendosi në Halah dhe në Habor, lumin e Gozanit, dhe në qytetet e Medisë.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Dhe i dëboi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "i Ashurit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "në Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dhe i vendosi"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "në Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "dhe në Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "lumin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "të Gozanit"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "dhe në qytetet"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "të Medisë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:10.739961674Z",
+  "model": "glm-5.3"
+}

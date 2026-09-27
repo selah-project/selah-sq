@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "sepse pasuria e tyre ishte aq e madhe sa të banonin bashkë, dhe toka e jetëbërjes së tyre nuk mund t'i mbante ⟨אתם⟩ për shkak të bagëtisë së tyre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "pasuria e tyre"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aq e madhe"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "sa të banonin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "e jetëbërjes së tyre"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "t'i mbante"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ata (Esau dhe Jakobi)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "bagëtisë së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:29.506019043Z",
+  "model": "glm-5.3"
+}

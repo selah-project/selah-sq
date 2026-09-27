@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mëshka më pa dhe u kthye anash para meje këtë herë të tretë; nëse nuk do të kthehej nga para meje, tani do të kisha vrarë ⟨אתכה⟩ edhe ty ⟨את⟩ dhe ⟨אותה⟩ atë do ta kisha lënë gjallë.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "dhe më pa"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "mëshka"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "dhe u kthye anash"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "të tretë"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "do të kthehej"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga para meje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨אתכה⟩",
+      "marks": "ty (objekt i 'do të kisha vrarë')"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "do të kisha vrarë"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ dhe ⟨אותה⟩",
+      "marks": "atë (mëshkën, objekt i 'do ta kisha lënë gjallë')"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "do ta kisha lënë gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:29.696106223Z",
+  "model": "glm-5.3"
+}

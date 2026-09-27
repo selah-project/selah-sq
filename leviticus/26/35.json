@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Të gjitha ditët e shkretërimit të saj do të pushojë ⟨את⟩ atë që nuk pushoi në Shabatet tuaja, ndërsa banonit mbi të.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "shkretërimit të saj"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "do të pushojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që nuk pushoi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "në Shabatet tuaja"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "ndërsa banonit"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:48.816616423Z",
+  "model": "glm-5.3"
+}

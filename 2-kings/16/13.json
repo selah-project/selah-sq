@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe djegi ⟨את⟩ flijimin e tij të pjekur dhe ⟨את⟩ minhan e tij, dhe derdhi ⟨את⟩ libacionin e tij, dhe spërkati ⟨את⟩ gjakun e flijimeve të falënderimit që ishte i tiji, mbi altar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "djegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e tij të pjekur"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "flijimin e tij të pjekur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minhan e tij"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minhan e tij"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "derdhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libacionin e tij"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "libacionin e tij"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "spërkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "të flijimeve të falënderimit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i tiji"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:35.342523458Z",
+  "model": "glm-5.3"
+}

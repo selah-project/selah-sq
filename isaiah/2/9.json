@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe njeriu u përkul dhe burri u përulë — dhe mos t'i leshosh ⟨ato⟩ të pandëshkuar.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "u përkul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "u përulë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "t'i leshosh të pandëshkuar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ato"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:52.779056456Z",
+  "model": "glm-5.3"
+}

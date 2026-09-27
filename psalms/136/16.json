@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atë që e çoi ⟨את⟩ popullin e tij në shkretëtirë, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Atë që e çoi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:52.545003803Z",
+  "model": "glm-5.3"
+}

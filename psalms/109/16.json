@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Ngaqë nuk kujtoi të bëjë hesed, por ndoqi njeri të varfër dhe nevojtar, dhe të thyer në zemër, për t'i vrarë.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ngaqë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kujtoi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "të bëjë"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "dhe ndoqi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të varfër"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe nevojtar"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "dhe të thyer"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "në zemër"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "për t'i vrarë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:38.162311509Z",
+  "model": "glm-5.3"
+}

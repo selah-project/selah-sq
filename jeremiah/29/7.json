@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe kërkoni ⟨את⟩ paqen e qytetit ku ju dëbova atje, dhe luteni për te te Jahve, sepse në paqen e tij do të ketë për ju paqe.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "Dhe kërkoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paqen e qytetit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "ju dëbova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "dhe luteni"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "për te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "në paqen e tij"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqe"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:04.100540380Z",
+  "model": "glm-5.3"
+}

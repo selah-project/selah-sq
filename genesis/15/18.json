@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Atë ditë Jahve ndërtoi ⟨את⟩ një besëlidhje me Avramin, duke thënë: Përmbjesët të ta kam dhënë ⟨את⟩ këtë tokë, nga lumi i Egjiptit deri në lumin e madh, lumin Prat:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ndërtoi (priti)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "përmbjesët të ta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kam dhënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë tokë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "nga lumi i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "lumin"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e madh"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "lumin"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:38.839086498Z",
+  "model": "glm-5.3"
+}

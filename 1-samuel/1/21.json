@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe burri Elkanah shkoi lart, ai me gjithë shtëpinë e tij, për të flijuar Jahves ⟨את⟩ flijimin e ditëve dhe ⟨את⟩ premtimin e tij.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "dhe shkoi lart"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "burri"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "për të flijuar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e ditëve"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijimin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "e ditëve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "premtimin e tij"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "premtimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:45.547653622Z",
+  "model": "glm-5.3"
+}

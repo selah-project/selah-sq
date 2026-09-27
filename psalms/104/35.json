@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Le të përfundojnë mëkatarët nga ⟨toka⟩, dhe të ligjtë të mos jenë më! Beko, o shpirti im, ⟨את⟩ Jahvenë. Haleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "le të përfundojnë"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mëkatarët"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨toka⟩"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "dhe të ligjtë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "të mos jenë"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Beko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:00.818042096Z",
+  "model": "glm-5.3"
+}

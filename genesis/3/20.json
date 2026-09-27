@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe njeriu emëroi gruan e tij Hava, sepse ajo ishte nëna e çdo gjallese.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dhe emëroi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "e gruas së tij"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e çdo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gjallese"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:39.864327685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Jahve na mbajti mend — ⟨ai⟩ do të bekojë, do të bekojë ⟨את⟩ shtëpinë e Izraelit, do të bekojë ⟨את⟩ shtëpinë e Aaronit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "na mbajti mend"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "do të bekojë"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "do të bekojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Izraelit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "do të bekojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Aaronit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:01.865301143Z",
+  "model": "glm-5.3"
+}

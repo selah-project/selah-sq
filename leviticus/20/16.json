@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një grua që i afrohet çdo kafshe për të rënë me të ⟨את⟩ — do të vrasësh ⟨את⟩ gruan dhe ⟨את⟩ kafshën; me vdekje do të vdesin, gjaku i tyre është mbi ta.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "dhe një grua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "i afrohet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshe"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "për të rënë me të"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "dhe do të vrasësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kafshën"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshën"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "do të vdesin"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "gjaku i tyre"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:47.103632506Z",
+  "model": "glm-5.3"
+}

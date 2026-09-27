@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Ti i ke përmbytur si me një vërshim; ⟨ata⟩ janë si një gjumë; në mëngjes, si bari, ai kalon.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "i ke përmbytur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gjumë"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "janë"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "si bari"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "kalon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:29.972512580Z",
+  "model": "glm-5.3"
+}

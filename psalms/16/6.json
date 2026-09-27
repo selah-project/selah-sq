@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Litarët e matjes më ranë në vende të këndshme; po, një trashëgimi e bukur ⟨është⟩ mbi mua.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "litarët e matjes"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "në vende të këndshme"
+    },
+    {
+      "surface": "אף",
+      "gloss": "po"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "një trashëgimi"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "e bukur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:17.253305999Z",
+  "model": "glm-5.3"
+}

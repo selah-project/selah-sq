@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Elohimin ⟨את⟩ përkujtova dhe pëllcësha; meditova dhe fryma ime u mbingarkua. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "përkujtova"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "dhe pëllcësha"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "meditova"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "dhe u mbingarkua"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "fryma ime"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:30.223198868Z",
+  "model": "glm-5.3"
+}

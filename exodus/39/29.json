@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe ⟨את⟩ rrypin prej liri të hollë të përdredhur, dhe ngjyrës së kaltër, dhe të purpurt, dhe të kuqes së krimbit — vepër e qëndistarit — ashtu si urdhëroi Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dhe ⟨את⟩",
+      "marks": "rrrypin"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "rrypin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "liri të hollë"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "të përdredhur"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "dhe ngjyrës së kaltër"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dhe të purpurt"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dhe të kuqes së krimbit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(të kuqe e thellë)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "vepër"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "e qëndistarit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:59.304948829Z",
+  "model": "glm-5.3"
+}

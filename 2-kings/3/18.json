@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨kjo⟩ ⟨është⟩ e lehtë në sytë e Jahvesë, dhe ai do të japë ⟨את⟩ Moabin në duart tuaja.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "dhe e lehtë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe do të japë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "në duart tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:00.500997503Z",
+  "model": "glm-5.3"
+}

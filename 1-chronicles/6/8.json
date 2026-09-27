@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Elkana, biri i tij; Evi-Asafi, biri i tij; dhe Asiri, biri i tij.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "dhe Evi-Asafi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "dhe Asiri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:45.381757656Z",
+  "model": "glm-5.3"
+}

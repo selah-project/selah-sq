@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse ti nuk ⟨je⟩ një El që gëzon keqen; e keqja nuk do të banojë pranë teje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "që gëzon"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "keqen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "do të banojë pranë teje"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqja"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.327851946Z",
+  "model": "glm-5.3"
+}

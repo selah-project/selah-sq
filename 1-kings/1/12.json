@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe tani shko, të lutem, dhe unë do të të jap këshillë, që të shpëtosh ⟨את⟩ shpirtin tënd dhe ⟨את⟩ shpirtin e birit tënd Solomon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "shko"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "do të të jap këshillë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "këshillë"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "dhe të shpëtosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin tënd"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shpirtin e birit tënd Solomon"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin e"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "birit tënd"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:45.407328759Z",
+  "model": "glm-5.3"
+}

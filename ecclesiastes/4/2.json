@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe lëvdova unë ⟨את⟩ të vdekurit që tashmë kishin vdekur, mbi të gjallët që ende janë të gjallë.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "dhe lëvdova"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të vdekurit"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "të vdekurit"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "që tashmë"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kishin vdekur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mbi (nga)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të gjallët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "janë të gjallë"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ende"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:45.733647701Z",
+  "model": "glm-5.3"
+}

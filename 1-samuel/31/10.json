@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe e vunë ⟨את⟩ pajisjen e tij në shtëpinë e Ashtarotit, dhe ⟨את⟩ trupin e tij e fiksuan në murin e Beth-Shanit.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "dhe e vunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pajisjen e tij"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pajisjen e tij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "e Ashtarotit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "trupin e tij"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "trupin e tij"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "e fiksuan"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "në murin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të Beth-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shanit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:44.260393226Z",
+  "model": "glm-5.3"
+}

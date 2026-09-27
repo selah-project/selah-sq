@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe mblodhi ⟨את⟩ të gjithë parinë e Izraelit, dhe priftërinjtë, dhe levitët.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Dhe mblodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë parinë e Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "parinë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dhe priftërinjtë"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dhe levitët"
+    }
+  ],
+  "timestamp": "2026-09-27T18:06:11.446279858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe afroi ⟨את⟩ flijimin e djegur dhe e kryeu sipas rregullit.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe afroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "dhe e kryeu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas rregullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:42.477930445Z",
+  "model": "glm-5.3"
+}

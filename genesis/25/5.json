@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Avraham dha ⟨את⟩ gjithçka që kishte, Isakut.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isakut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:53.615293840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Bëri ⟨הוה⟩ hënen për kohët e caktuara; dielli di se ku perëndon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hënen"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "për kohët e caktuara"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "di"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "perëndimin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:52.534651175Z",
+  "model": "glm-5.3"
+}

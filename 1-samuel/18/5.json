@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Doli Davidi në çdo vend ku e dërgonte Sauli dhe veproi me mençuri; dhe e vuri Sauli ⟨atë⟩ mbi njerëzit e luftës, dhe ishte e mirë në sytë e gjithë popullit, madje edhe në sytë e shërbëtorëve të Saulit.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "e dërgonte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "veproi me mençuri"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "luftës"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "dhe ishte e mirë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "madje edhe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorëve të"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:28.916106661Z",
+  "model": "glm-5.3"
+}

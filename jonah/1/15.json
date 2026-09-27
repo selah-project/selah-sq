@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "E morën ⟨את⟩ Jonan dhe e hodhën në det, dhe deti pushoi nga zemërimi i tij.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "E morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonan"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "dhe e hodhën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הים",
+      "gloss": "det"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe pushoi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "nga zemërimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:11.311142912Z",
+  "model": "glm-5.3"
+}

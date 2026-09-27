@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Nuk do të bashkohesh ⟨את⟩ ⟨ata⟩ në varrim, sepse tokën tënde e shkatërrove, popullin tënd e vrave; fara e të këqijve nuk do të quhet ⟨përjetë⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "do të bashkohesh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (mbretërit e tjerë)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "në varrim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tokën tënde"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "e shkatërrove"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "e vrave"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "do të quhet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "fara"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "e të këqijve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:51.303165659Z",
+  "model": "glm-5.3"
+}

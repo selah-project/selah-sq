@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe lëshoi ⟨את⟩ pëllumbesën prej ⟨את⟩-it të tij, për të parë nëse ishin zbutur ujërat nga mbi faqen e dheut.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe lëshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pëllumbesën"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pëllumbesën"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "prej ⟨את⟩-it të tij"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "nëse ishin zbutur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:45.219335833Z",
+  "model": "glm-5.3"
+}

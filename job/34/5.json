@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Sepse Ijobi ka thënë: \"Unë ⟨jam⟩ i drejtë, dhe El ka hequr gjyqin tim.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobi"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "i drejtë (jam)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ka hequr"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjyqin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:20.034460014Z",
+  "model": "glm-5.3"
+}

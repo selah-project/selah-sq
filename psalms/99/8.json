@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 99,
+  "translation": "Jahve, Elohimi ynë, ti u përgjigje atyre — El që fal ti ishe për ta, dhe hakmarrës mbi veprimet e tyre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimi ynë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "u përgjigje atyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "që fal"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ishe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "dhe hakmarrës"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "veprimet e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:28.092032895Z",
+  "model": "glm-5.3"
+}

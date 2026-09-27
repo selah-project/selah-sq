@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe këtij populli do t'i thuash: Kështu ka thënë Jahve: Ja, unë po vë para jush ⟨את⟩ rrugën e jetës dhe ⟨את⟩ rrugën e vdekjes.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe këtij"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "do t'i thuash"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja, unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po vë"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën e jetës"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën e"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jetës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rrugën e vdekjes"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën e"
+    },
+    {
+      "surface": "המות",
+      "gloss": "vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:13.139589428Z",
+  "model": "glm-5.3"
+}

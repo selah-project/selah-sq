@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numëruarit e tij: katërdhjetë e shtatë mijë e gjashtëqind.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dhe të numëruarit e tyre"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "katër"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "dhe shtatëdhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:43.685735931Z",
+  "model": "glm-5.3"
+}

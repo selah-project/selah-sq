@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe më tha: Bir i njeriut, barkun tënd ushqeje dhe zorrët tua mbushi me ⟨את⟩ këtë rrotull që unë po të jap. Dhe e hëngra, dhe ajo qe në gojën time si mjaltë për ëmbëlsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "barkun tënd"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ushqeje (ha)"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "dhe zorrët tua"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë rrotull"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rrotull"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po të jap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe e hëngra"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën time"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "si mjaltë"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "për ëmbëlsi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:49.353948501Z",
+  "model": "glm-5.3"
+}

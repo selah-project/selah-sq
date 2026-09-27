@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani eja, do të të dërgoj te Faraoni, dhe nxirr ⟨את⟩ popullin tim, bijtë e Izraelit, nga Egjipti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eja"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "do të të dërgoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "dhe nxirr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:32.543731620Z",
+  "model": "glm-5.3"
+}

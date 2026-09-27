@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Moisi shkroi ⟨את⟩ daljet e tyre sipas udhëtimeve të tyre, sipas gojës së Jahvesë; dhe këto janë udhëtimet e tyre sipas daljeve të tyre.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Dhe shkroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daljet e tyre"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "daljet e tyre"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "sipas udhëtimeve të tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojës së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këto"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "udhëtimet e tyre"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "sipas daljeve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:10.765910339Z",
+  "model": "glm-5.3"
+}

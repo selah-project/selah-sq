@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe Tsiklag, dhe Beit-Markabot, dhe Hatsar-Susah",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "dhe Tsiklag"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dhe Beit-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "Markabot"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "dhe Hatsar-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Susah"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:55.719964745Z",
+  "model": "glm-5.3"
+}

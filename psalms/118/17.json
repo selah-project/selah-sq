@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Nuk do të vdes, por do të jetoj, dhe do të tregoj veprat e Jahut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "do të vdes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "do të jetoj"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "dhe do të tregoj"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat e"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:52.907747702Z",
+  "model": "glm-5.3"
+}

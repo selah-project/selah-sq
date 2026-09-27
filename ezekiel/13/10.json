@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Për shkak, po, për shkak se e çmendarën ⟨את⟩ popullin tim duke thënë: 'Shalom!', kur nuk ka shalom; dhe ai ndërton një mur, dhe ja, ata e suvatojnë ⟨את⟩ atë me llaç të papërzier.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "për shkak"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "po, për shkak"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "e çmendarën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom!"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kur nuk ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndërton"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "një mur"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dhe ja, ata"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "e suvatojnë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "me llaç të papërzier (תפל)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "me llaç të papërzier"
+    }
+  ],
+  "timestamp": "2026-09-27T18:28:15.634970867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "S'ka fjalë, dhe s'ka fjalë të thëna — pa u dëgjuar zëri i tyre.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "fjalë të thëna"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "u dëgjuar"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "zëri i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:19.329473243Z",
+  "model": "glm-5.3"
+}

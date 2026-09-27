@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe qe ⟨me të⟩ i fshehur në shtëpinë e Jahvesë gjashtë vjet, ndërsa Athalia mbretëronte mbi ⟨të⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe qe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ me të"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "i fshehur"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ndërsa Athalia"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mbretëronte"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:18.707462790Z",
+  "model": "glm-5.3"
+}

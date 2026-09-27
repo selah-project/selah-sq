@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse nuk e shpengon ⟨את⟩ fushën, dhe nëse ka shitur ⟨את⟩ fushën një njeriu tjetër, nuk mund të shpengohet më.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "e shpengon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fushën"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fushën"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ka shitur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fushën"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fushën"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "mund të shpengohet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:55.031593815Z",
+  "model": "glm-5.3"
+}

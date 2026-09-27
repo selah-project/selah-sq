@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Po në çalimin tim ata u gëzuan dhe u mblodhën; u mblodhën kundër meje goditës të panjohur ⟨prej meje⟩ dhe nuk e dija; grisën dhe nuk pushonin.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "po në çalimin tim"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "u gëzuan"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "dhe u mblodhën"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "goditës"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e dija"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "grisën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "pushonin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:25.115526074Z",
+  "model": "glm-5.3"
+}

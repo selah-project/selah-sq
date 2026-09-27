@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Adonai, buzët e mia do t'i hapësh, dhe goja ime do të shpallë lavdinë ⟨tënde⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët e mia"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "do t'i hapësh"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "dhe goja ime"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "do të shpallë"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lavdinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.082917475Z",
+  "model": "glm-5.3"
+}

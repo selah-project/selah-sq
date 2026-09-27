@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ⟨את⟩ Aaronin dhe ⟨את⟩ bijtë e tij do t'i afrosh te hyrja e Çadrit të Takimit, dhe do t'i lash ⟨את⟩ ata me ujë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "do t'i afrosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e Çadrit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të Takimit"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "do t'i lash"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "me ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:47.693549310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ai i tha: Ti e di ⟨את⟩ atë që të kam shërbyer, dhe ⟨את⟩ atë që ka qenë bagëtia jote ⟨me mua⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që të kam shërbyer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "të kam shërbyer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "atë që ka qenë bagëtia jote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "bagëtia jote"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:19.809722940Z",
+  "model": "glm-5.3"
+}

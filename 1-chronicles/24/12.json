@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "i njëmbëdhjeti për Eliashib, i dymbëdhjeti për Jakim,",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "për Eliashib"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "i njëmbëdhjeti (pjesa e parë)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "i njëmbëdhjeti (pjesa e dytë)"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "për Jakim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "i dymbëdhjeti (pjesa e parë)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "i dymbëdhjeti (pjesa e dytë)"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:41.773295861Z",
+  "model": "glm-5.3"
+}

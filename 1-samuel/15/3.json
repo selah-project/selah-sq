@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Tani shko dhe bjer ⟨את⟩ Amalekun, dhe shkatërroji krejt ⟨את⟩ çdo gjë që ka ai, dhe mos ki mëshirë për të; por vrit nga burri deri në grua, nga fëmija i vogël deri te thjeshtë gjiri, nga gjedi deri te dele, nga devë deri te gomar.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Tani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "dhe bjer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "dhe shkatërroji (me herem)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo gjë që ka ai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ki mëshirë"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "por vrit"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nga burri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "grua"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "nga fëmija i vogël"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "thjeshtë gjiri"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nga gjedi (ve)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "שה",
+      "gloss": "dele"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "nga devë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "gomar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:08.566693493Z",
+  "model": "glm-5.3"
+}

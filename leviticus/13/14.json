@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Por në ditën kur shfaqet në të mish i gjallë, ai do të jetë i papastër.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "por në ditën"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "kur shfaqet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "do të jetë i papastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:47.583931450Z",
+  "model": "glm-5.3"
+}

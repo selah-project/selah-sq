@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Pse po fundosesh, shpirti im, dhe po pulpsetsi ⟨mbi⟩ mua? Shpreso në Elohim, se do ta falënderoj ende; ⟨ai është⟩ shpëtimi i fytyrës sime.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "po fundosesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "dhe po pulpsetsi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨mbi⟩ mua"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Shpreso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "do ta falënderoj"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "shpëtimi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "i fytyrës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:05.045322264Z",
+  "model": "glm-5.3"
+}

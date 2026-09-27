@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe në mbrëmje ai mori ⟨את⟩ Lean, vajzën e tij, dhe e sjelli ⟨את⟩ atë te Jakobi, dhe hyri te ajo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lean"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "vajzën e tij"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe e sjelli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "te ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:39.236341386Z",
+  "model": "glm-5.3"
+}

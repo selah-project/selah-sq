@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Mjaft është për ju të rrethoni ⟨את⟩ këtë mal; kthehuni për vete drejt veriut.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "mjaft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "סב",
+      "gloss": "të rrethoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë mal"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "kthehuni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "drejt veriut"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:07.741386733Z",
+  "model": "glm-5.3"
+}

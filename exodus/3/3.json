@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tha Moisi: do të kthehem tani të shoh ⟨את⟩ këtë shfaqje të madhe — pse nuk digjet shkurreja?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "do të kthehem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "të shoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shfaqjen"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "shfaqje"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "digjet"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "shkurreja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:51.055153642Z",
+  "model": "glm-5.3"
+}

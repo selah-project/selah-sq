@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "përpara se të errësohen dielli dhe drita dhe hëna dhe yjet, dhe retë të kthehen pas shiut,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "përpara se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "të errësohen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "dhe drita"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "dhe hëna"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "dhe yjet"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dhe të kthehen"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "retë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "shiut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:53.900416112Z",
+  "model": "glm-5.3"
+}

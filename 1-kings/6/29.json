@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨את⟩ të gjitha muret e shtëpisë, rreth e qark, i gdhendi me relieve të gdhendura: kerubinë, palma dhe lulëzi të hapur, brenda dhe jashtë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha muret e shtëpisë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "muret"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "rreth e qark"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "i gdhendi"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "me relieve"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "të gdhendura"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubinë"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "dhe palma"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "dhe lulëzi të hapur"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "lulëz"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "dhe jashtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:13.195285729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 127,
+  "translation": "Kot për ju, o të ngjiturit hershëm, o të uleshitit vonë, hanësit e bukës së mundimeve — kështu ⟨ai⟩ i jep të dashurit të tij gjumë.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Kot"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "të hershëm në zgjim"
+    },
+    {
+      "surface": "קום",
+      "gloss": "të çuarit"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "vonë"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "të uleshit"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "hanësit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "e bukës"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "të mundimeve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i jep"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "të dashurit të tij"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gjumë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:28.442014022Z",
+  "model": "glm-5.3"
+}

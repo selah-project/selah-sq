@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 93,
+  "translation": "I vendosur ⟨është⟩ froni yt nga atëherë, nga përjetësia je ti.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "i vendosur"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "froni yt"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "nga atëherë"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "nga përjetësia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:57.859231406Z",
+  "model": "glm-5.3"
+}

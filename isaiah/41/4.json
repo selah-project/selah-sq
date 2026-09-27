@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Kush veproi dhe bëri, duke thirrur brezat nga fillimi? Unë, Jahve, i Pari, dhe ⟨me⟩ ⟨את⟩ të fundmit — unë ⟨jam⟩ ai.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "veproi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "duke thirrur"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "brezat"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "nga fillimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "i Pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe ⟨me⟩",
+      "marks": "të fundmit"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "të fundmit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jam⟩ ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:54.752660211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Sot Jahve, Elohim-i yt, të urdhëron të bësh ⟨את⟩ këto statute dhe ⟨את⟩ këto gjykime; ti do t'i ruash dhe do t'i bësh ⟨את⟩ ato me gjithë zemrën tënde dhe me gjithë shpirtin tënd.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë (ditë)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të urdhëron"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto statute"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "këto gjykime"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "do t'i ruash"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do t'i bësh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ato"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:59.651871177Z",
+  "model": "glm-5.3"
+}

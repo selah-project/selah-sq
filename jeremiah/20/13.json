@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Këndoni Jahvesë, lëvdoni ⟨את⟩ Jahvenë, sepse ai shpëtoi ⟨את⟩ shpirtin e të varfurit nga dora e keqbenëve.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ai shpëtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin e të varfurit"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "të varfurit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "e keqbenëve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:05.107330654Z",
+  "model": "glm-5.3"
+}

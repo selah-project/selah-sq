@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe unë do ta përgatit ⟨את⟩ mbretërinë e tij deri në përjetësi, nëse ai forcohet të bëjë urdhrat e mi dhe gjykatjet e mia, si edhe kjo ditë.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "dhe unë do ta përgatit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretërinë e tij"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mbretërinë e tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "forcohet"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bëjë"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhrat e mi"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "dhe gjykatjet e mia"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si edhe dita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:06.057386683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Hizkia dha ⟨את⟩ të gjithë argjendin që u gjet në shtëpinë e Jahvesë dhe në thesaret e shtëpisë së mbretit.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë argjendin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "që u gjet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dhe në thesaret"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "të mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:13.028920883Z",
+  "model": "glm-5.3"
+}

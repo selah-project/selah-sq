@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "deri sa të gjej një vend për Jahve, banesa për ⟨të Fortin⟩ e Jakobit.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "të gjej"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "banesa"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "për ⟨të Fortin⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:46.435337898Z",
+  "model": "glm-5.3"
+}

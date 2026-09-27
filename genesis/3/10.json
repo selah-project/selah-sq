@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨ai⟩ tha: «Zërin ⟨את⟩ tënd e dëgjova në kopsht, dhe u tremba, sepse jam i lakuriq, dhe u fshiva.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin tënd"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "zërin tënd"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "në kopsht"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "dhe u tremba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "i lakuriq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jam (unë)"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "dhe u fshiva"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.076449797Z",
+  "model": "glm-5.3"
+}

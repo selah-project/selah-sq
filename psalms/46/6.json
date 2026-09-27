@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Elohim ⟨është⟩ në mes të saj — nuk do të lëkundet; Elohim do ta ndihmojë kur të ngjyset mëngjesi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "në mes të saj"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk … fare"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "do të lëkundet"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "do ta ndihmojë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "kur të ngjyset"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:55.307306001Z",
+  "model": "glm-5.3"
+}

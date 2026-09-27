@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe i thamë zotërisë sonë: «Djali nuk mund të lërë ⟨את⟩ të atin e tij; po e la ⟨את⟩ të atin e tij, ⟨ai⟩ do të vdesë.»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "dhe i thamë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria jonë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djali"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "të lërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin e tij"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin e tij"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "po e la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin e tij"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin e tij"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:29.575493041Z",
+  "model": "glm-5.3"
+}

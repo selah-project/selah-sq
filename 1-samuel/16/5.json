@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe ai tha: Me paqe; për të flijuar Jahves kam ardhur. Përkujtoni veten dhe ejani ⟨את⟩ me mua në flijim. Dhe ai shenjtëroi ⟨את⟩ Ishain dhe ⟨את⟩ bijtë e tij dhe i thirri për flijimin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "për të flijuar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kam ardhur"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "përkujtoni veten"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "dhe ejani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "në flijim"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dhe ai shenjtëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishain"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe i thirri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "për flijimin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:42.967933874Z",
+  "model": "glm-5.3"
+}

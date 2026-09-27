@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Nga zemërimi yt dhe hidhërimi yt, se më ngrite lart dhe më hodhe poshtë.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "zemërimi yt"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "dhe hidhërimi yt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "më ngrite lart"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "dhe më hodhe poshtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:10.636772402Z",
+  "model": "glm-5.3"
+}

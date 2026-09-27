@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "dhe ⟨את⟩ Beth-Nimrahun dhe ⟨את⟩ Beth-Haranin — qytete të fortifikuara dhe vatha për dele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Nimrahun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Haranin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "të fortifikuara"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "dhe vatha"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "për dele"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:49.336560445Z",
+  "model": "glm-5.3"
+}

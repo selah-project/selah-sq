@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Për dirigjentin. Psalm i Davidit. Elohim i lëvdimit tim, mos rri pa folur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "i lëvdimit tim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "rri pa folur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:31.968286017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do t'i bësh ⟨atij⟩ një kornizë të gjerë një pëllëmbë përreth, dhe do të bësh një kurorë ari për kornizën e tij, përreth.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "kornizë"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "një pëllëmbë"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kurorë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "për kornizën e tij"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:44.323124948Z",
+  "model": "glm-5.3"
+}

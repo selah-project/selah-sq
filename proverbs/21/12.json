@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "I drejti sheh me kujdes shtëpinë e të pabesit — ⟨ai⟩ i përmbys të pabesit për të keqen.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "sheh me kujdes"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të pabesit"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "i përmbys"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesit"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "për të keqen"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:43.960683503Z",
+  "model": "glm-5.3"
+}

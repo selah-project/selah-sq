@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Merrni edhe kopetë tuaja, edhe gjedhet tuaja, ashtu si keni thënë, dhe shkoni; dhe bekoni edhe ⟨את⟩ mua.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kopetë tuaja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "gjedhet tuaja"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Merrni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "keni thënë"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "dhe shkoni"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "dhe bekoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:39.467383608Z",
+  "model": "glm-5.3"
+}

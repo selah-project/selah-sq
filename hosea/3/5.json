@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Më vonë do të kthehen bijtë e Izraelit dhe do të kërkojnë ⟨את⟩ Jahve, Elohim-in e tyre, dhe ⟨את⟩ Davidin, mbretin e tyre, dhe do të dridhen nga frika drejt Jahves dhe drejt të mirës së tij, në ditët e fundit.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "më vonë"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "do të kthehen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "dhe do të kërkojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim-in e tyre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-in e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Davidin, mbretin e tyre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mbretin e tyre"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "dhe do të dridhen nga frika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe drejt"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "të mirës së tij"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "në fund të"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditëve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:41:31.998404560Z",
+  "model": "glm-5.3"
+}

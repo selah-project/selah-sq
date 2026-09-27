@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe pa Elohim ⟨את⟩ dritën se ⟨ishte⟩ e mirë, dhe ndau Elohim mes dritës dhe errësirës.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dritën"
+    },
+    {
+      "surface": "האור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "dhe ndau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "האור",
+      "gloss": "dritës"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "errësirës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:19.878861611Z",
+  "model": "glm-5.3"
+}

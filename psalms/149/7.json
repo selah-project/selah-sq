@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Për të bërë hakmarrje mbi kombet, qortime mbi popujt.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "për të bërë"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "hakmarrje"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mbi kombet"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "qortime"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "popujt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:05.472293445Z",
+  "model": "glm-5.3"
+}

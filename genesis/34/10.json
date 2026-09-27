@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "dhe ⟨me ne⟩ banoni; dhe toka të jetë para jush — banoni, tregtoni në të dhe zotëroni ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩",
+      "marks": "me ne"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "banoni"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhe toka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "banoni"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "dhe tregtoni atë"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "dhe zotëroni \/ kapni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:43.319375856Z",
+  "model": "glm-5.3"
+}

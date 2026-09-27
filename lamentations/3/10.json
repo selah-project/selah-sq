@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "⟨Ai⟩ më ⟨është⟩ ari i përgjitur, luan në vendet e fshehta.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "i përgjitur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ai⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "luan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "në vendet e fshehta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:04.099939450Z",
+  "model": "glm-5.3"
+}

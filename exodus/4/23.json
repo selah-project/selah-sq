@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe të kam thënë: Lësho ⟨את⟩ birin tim që të më shërbejë, por ti refuzove ta lëshosh; ja, unë po vras ⟨את⟩ birin tënd, të parëlindurin tënd.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe të kam thënë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lësho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birin tim"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "që të më shërbejë"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "por refuzove"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ta lëshosh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "po vras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin tënd"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "birin tënd"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "të parëlindurin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:24.507665488Z",
+  "model": "glm-5.3"
+}

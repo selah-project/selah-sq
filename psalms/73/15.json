@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Sikur të kisha thënë: «Do të tregoja kështu» — ja, do të kisha tradhëtuar brezin e bijve të tu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sikur të kisha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thënë"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "do të tregoja"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "e bijve të tu"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "do të kisha tradhëtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:46.606090855Z",
+  "model": "glm-5.3"
+}

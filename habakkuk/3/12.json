@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Në të zemëruar ti shkove nëpër ⟨të⟩ dhé, në zemërim ti shelve kombeve.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "në të zemëruar"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "ti shkove nëpër"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhé"
+    },
+    {
+      "surface": "באף",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ti shelve"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombeve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:58.536641080Z",
+  "model": "glm-5.3"
+}

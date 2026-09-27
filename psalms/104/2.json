@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ai që mbështjell dritën si një petk, ai që shtrin ⟨qiejt⟩ si një tendë.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "mbështjell"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "si një petk"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "shtrin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨qiejt⟩"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "si një tendë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.420991946Z",
+  "model": "glm-5.3"
+}

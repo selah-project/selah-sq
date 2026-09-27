@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Shpirti im ngjitet pas teje; dora e djathtë e jotë më mban.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ngjitet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "בי",
+      "gloss": "më"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "mban"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dora e djathtë e jotë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:50.996877977Z",
+  "model": "glm-5.3"
+}

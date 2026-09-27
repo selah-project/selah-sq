@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ta mbulosh ⟨את⟩ atë me ar të pastër — brenda dhe jashtë ta mbulosh ⟨atë⟩ — dhe të bësh mbi të një kurorë ari rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "dhe ta mbulosh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "me ar të pastër"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "dhe jashtë"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "ta mbulosh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe të bësh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "זר",
+      "gloss": "një kurorë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:48.508076700Z",
+  "model": "glm-5.3"
+}

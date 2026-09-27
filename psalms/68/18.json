@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Qerret e Elohit ⟨janë⟩ dhjetë mijëra, mijëra e mijëra; Adonai është në Sinaj, në ⟨shenjtëroren⟩.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "dhjetë mijëra"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mijëra e mijëra"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "e mijëra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "është"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "në Sinaj"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në ⟨shenjtëroren⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:17.194968211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dëgjo, o Jahve, zërin tim kur thërras; më ki mëshirë dhe më përgjigju.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kur thërras"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "më ki mëshirë"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dhe më përgjigju"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:44.070365677Z",
+  "model": "glm-5.3"
+}

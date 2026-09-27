@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Sepse e embëruan ⟨את⟩ Frymën e tij, dhe ai foli pa menduar me buzët e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "e embëruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Frymën e tij"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Frymën e tij"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "foli pa menduar"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "me buzët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.020548879Z",
+  "model": "glm-5.3"
+}

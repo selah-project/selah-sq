@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe ai tha: «Sepse ti do të marrësh ⟨את⟩ shtatë delat nga dora ime, që të më shërbejnë si dëshmi se unë e gjoda ⟨את⟩ këtë pus.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë delat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "delat"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ti do të marrësh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga dora ime"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "që"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të shërbejnë si"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "si dëshmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "unë e gjoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë pus"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "pusin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:26.324769140Z",
+  "model": "glm-5.3"
+}

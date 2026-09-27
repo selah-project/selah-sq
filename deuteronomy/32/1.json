@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Vini re, o qiell, e do të flas, dhe le të dëgjojë toka fjalët e gojës sime.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Vini re"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "o qiell"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "e do të flas"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "dhe le të dëgjojë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "פי",
+      "gloss": "të gojës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:29.443317007Z",
+  "model": "glm-5.3"
+}

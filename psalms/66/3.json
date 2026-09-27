@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "I thoni Elohimit: Sa i frikshëm ⟨je⟩ në veprat e tua! Nga shumësia e forcës sate, armiqtë e tu do të të shpifin ty duke ⟨u dorëzuar⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "I thoni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i frikshëm"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Nga shumësia"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "e forcës sate"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "do të të shpifin duke u dorëzuar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:12.387272452Z",
+  "model": "glm-5.3"
+}

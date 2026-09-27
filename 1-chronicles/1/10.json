@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kushi lindi ⟨את⟩ Nimrodin; ai filloi të bëhet i fuqishëm në tokë.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodin"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "החל",
+      "gloss": "filloi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "të bëhet"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "i fuqishëm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.921645128Z",
+  "model": "glm-5.3"
+}

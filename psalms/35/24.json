@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Gjykomë sipas drejtësisë sate, Jahve, Elohim im, dhe mos u gëzofshin ata mbi mua.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Gjykomë"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "sipas drejtësisë sate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "u gëzofshin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.831389361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai do ta nxjerrë si dritë të drejtën tënde, dhe gjykin tënd si mesditë.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "dhe ai do ta nxjerrë"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "si dritë"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "të drejtën tënde"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dhe gjykin tënd"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "si mesditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:51.814088546Z",
+  "model": "glm-5.3"
+}

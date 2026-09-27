@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe këta janë emrat e bijve të Gershonit sipas fisërisë së tyre: Livni dhe Shimei.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershonit"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipas fisërisë së tyre"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "dhe Shimei"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:27.160403715Z",
+  "model": "glm-5.3"
+}

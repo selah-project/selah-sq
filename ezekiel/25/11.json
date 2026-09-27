@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe në Moab do të bëj gjykime, dhe do ta dinë se unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "Dhe në Moab"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "gjykime"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dhe do ta dinë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:32:50.660066111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Të lavdëroj, sepse në mënyrë të frikshme ⟨jam⟩ i mrekullueshëm; të mrekullueshme janë veprat e tua, dhe shpirti im e di këtë shumë mirë.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "të lavdëroj"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "në mënyrë të frikshme"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "⟨jam⟩ i mrekullueshëm"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "të mrekullueshme"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "dhe shpirti im"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e di"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:00.531945410Z",
+  "model": "glm-5.3"
+}

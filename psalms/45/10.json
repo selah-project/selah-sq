@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Vajzat e mbretërve ⟨janë⟩ midis të dashurave të tua; mbretëresha qëndron në të djathtën tënde, në ar të ⟨shtrenjtë⟩ të Ofirit.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "vajzat e"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretërve"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "midis të dashurave të tua"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mbretëresha"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "në të djathtën tënde"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "në ar të"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "të Ofirit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:43.767016596Z",
+  "model": "glm-5.3"
+}

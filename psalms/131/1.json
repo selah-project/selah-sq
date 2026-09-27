@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 131,
+  "translation": "Këngë e ngjitjeve, e Davidit. Jahve, zemra ime nuk është kapardisur dhe sytë e mi nuk janë ngritur lart; dhe nuk ecja në gjëra të mëdha as në çudira ⟨që i tejkalojnë⟩ mua.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "është kapardisur"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "janë ngritur lart"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ecja"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "në gjëra të mëdha"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "as në çudira"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.758275529Z",
+  "model": "glm-5.3"
+}

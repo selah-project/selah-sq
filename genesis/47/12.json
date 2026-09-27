@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Jozefi ushqente ⟨את⟩ të atin dhe ⟨את⟩ vëllezërit e tij dhe ⟨את⟩ gjithë shtëpinë e të atit, me bukë, sipas gojës së fëmijëve të vegjël.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "dhe ushqente"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e tij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë shtëpinë e të atit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të të atit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sipas gojës së"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "fëmijëve të vegjël"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:40.619331267Z",
+  "model": "glm-5.3"
+}

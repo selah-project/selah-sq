@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Mbushet goja me lavdinë tënde, gjithë ditën me madhërinë tënde.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "mbushet"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "me lavdinë tënde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "me madhërinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:41.886955354Z",
+  "model": "glm-5.3"
+}

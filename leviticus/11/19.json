@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ lajtakun, çafkun sipas llojit të vet, dhe ⟨את⟩ pupzën, dhe ⟨את⟩ lakuriqin e natës.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lajtakun"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "lajtakun"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "çafkun"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sipas llojit të vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "pupzën"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "pupzën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lakuriqin e natës"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "lakuriqin e natës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:04.640538858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "dhe do të ec në një vend të gjerë, sepse urdhrat e tua i kam kërkuar.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "dhe do të ec"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "në një vend të gjerë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "urdhrat e tua"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "i kam kërkuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.047660877Z",
+  "model": "glm-5.3"
+}

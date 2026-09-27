@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe syri im i kurseu ata nga shkatërrimi i tyre, dhe nuk bëra ⟨את⟩ fund të tyre në shkretëtirë.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "dhe i kurseu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "nga shkatërrimi i tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "fund (të tyre)"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "fund"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:33.920444758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "I do të drejtën dhe ⟨gjykimin⟩; hesed-i i Jahvesë mbush ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "i do"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "të drejtën"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe ⟨gjykimin⟩"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mbush"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.341129240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Sepse keni thënë: «Jahve na ka ngritur profetë në Babiloni».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "keni thënë"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ka ngritur"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profetë"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "në Babiloni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:29.685943339Z",
+  "model": "glm-5.3"
+}

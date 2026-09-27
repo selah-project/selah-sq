@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe përgatitën ⟨את⟩ e faljes (minhas) deri në ardhjen e Jozefit në mesditë, sepse kishin dëgjuar se atje do të hëngrin bukë.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "përgatitën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minhën"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ardhjen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "në mesditë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kishin dëgjuar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hëngrin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:12.357339207Z",
+  "model": "glm-5.3"
+}

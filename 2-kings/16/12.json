@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe mbreti erdhi nga Damasku, dhe mbreti pa ⟨את⟩ altarën, dhe mbreti iu afrua altarës dhe ofroi mbi të.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "nga Damasku"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarën"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe iu afrua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "על",
+      "gloss": "te"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe ofroi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:21.303633369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Kujto ⟨את⟩ atë që bëri Jahve, Elohim yt, Miriamit, në rrugë, në daljen tuaj nga Egjipti.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që bëri Jahve Miriamit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim yt"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriamit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "në daljen tuaj"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:35.972167333Z",
+  "model": "glm-5.3"
+}

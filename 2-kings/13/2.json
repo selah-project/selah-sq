@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe bëri të keqen në sytë e Jahves, dhe shkoi pas mëkateve të Jeroboamit, birit të Nebatit, i cili e bëri ⟨את⟩ Izraelin të mëkatojë; nuk u largua nga ajo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mëkateve"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "të Jeroboamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "i Nebatit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "e bëri të mëkatojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סר",
+      "gloss": "u largua"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nga ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:48.264592937Z",
+  "model": "glm-5.3"
+}

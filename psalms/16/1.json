@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Miktam i Davidit. Më ruaj, El, sepse jam strehuar te ti.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Më ruaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jam strehuar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:09.324713470Z",
+  "model": "glm-5.3"
+}

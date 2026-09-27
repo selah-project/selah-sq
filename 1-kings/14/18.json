@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe e varrosën ⟨את⟩ atë, dhe i bënë lamtumirë të gjithë të Izraelit, sipas fjalës së Jahvesë që foli me anë të shërbëtorit të tij, Ahijahut profetit.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (e varrosën atë)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "i bënë lamtumirë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorit të tij"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahijahut"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:34.333750155Z",
+  "model": "glm-5.3"
+}

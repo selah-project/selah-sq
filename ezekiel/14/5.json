@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "që të kap ⟨את⟩ shtëpinë e Izraelit në zemrën e tyre, të cilët u larguan nga unë për shkak të idhujve të tyre — të gjithë.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "kap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Izraelit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "në zemrën e tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "u larguan"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "për shkak të idhujve të tyre"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:30:43.991517889Z",
+  "model": "glm-5.3"
+}

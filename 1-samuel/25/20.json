@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe qe kështu: ajo po kalëronte mbi gomar dhe po zbriste nën strehën e malit, dhe ja, Davidi dhe njerëzit e tij po zbrisnin përpara saj, dhe ajo i takoi ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "po kalëronte"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "gomarin"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "dhe po zbriste"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "në strehën e fshehtë"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "të malit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dhe njerëzit e tij"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "po zbrisnin"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "përpara saj"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "dhe i takoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i takoi ata (Davidin dhe njerëzit e tij)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:39.020623932Z",
+  "model": "glm-5.3"
+}

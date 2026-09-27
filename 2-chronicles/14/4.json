@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe hoqi nga të gjitha qytetet e Judës ⟨את⟩ vendet e larta dhe ⟨את⟩ djathtat-e-diellit, dhe mbretëria u qetësua para tij.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendet e larta"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendet e larta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "djathtat-e-diellit"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "djathtat-e-diellit"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "dhe u qetësua"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:47.409318466Z",
+  "model": "glm-5.3"
+}

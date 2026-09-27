@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe e zunë ⟨mbretin⟩ dhe e çuan ⟨atë⟩ te mbreti i Babilonit, në Rible; dhe i folën ⟨me të⟩ gjyq.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "dhe e zunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dhe e çuan lart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin (e çuan atë)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonit"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "në Rible"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dhe i folën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i folën me të (parafjalë pranësie, jo DOM)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjyq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:11.394615615Z",
+  "model": "glm-5.3"
+}

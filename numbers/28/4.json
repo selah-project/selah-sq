@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "⟨את⟩ delenë e parë do ta bësh në mëngjes, dhe ⟨את⟩ delenë e dytë do ta bësh mes dy mbrëmjeve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delenë e parë"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "delenë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e parë (një)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "delenë e dytë"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "delenë"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dy mbrëmjeve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:46.970469516Z",
+  "model": "glm-5.3"
+}

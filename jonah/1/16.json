@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atëherë burrat iu frikësuan Jahves me frikë të madhe ⟨ndaj⟩ ⟨את⟩ Jahve, dhe flijuan flijim për Jahven dhe dhanë premtime.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Atëherë iu frikësuan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "me frikë"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dhe flijuan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "dhanë premtime"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "premtime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:11.311499830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Ruaj ⟨את⟩ ditën e Shabatit për ta shenjtëruar ⟨atë⟩, ashtu si të ka urdhëruar Jahve, Elohim-i yt.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ruaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën e Shabatit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "e Shabatit"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "për ta shenjtëruar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "të ka urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:08.564994674Z",
+  "model": "glm-5.3"
+}

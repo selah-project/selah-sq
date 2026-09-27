@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe këta janë bijtë e Dishanit: Hemdani, Eshbani, Ithrani dhe Kerani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishanit"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdani"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "dhe Eshbani"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "dhe Ithrani"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "dhe Kerani"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:03.113273534Z",
+  "model": "glm-5.3"
+}

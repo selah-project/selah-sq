@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Një herë fola, e nuk përgjigjem, dy herë, e nuk shtoj më.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "një herë"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "fola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nuk"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "përgjigjem"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dy herë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nuk"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "shtoj më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:58.956386512Z",
+  "model": "glm-5.3"
+}

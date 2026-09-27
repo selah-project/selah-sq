@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Atëherë do të kesh understandim të frikës së Jahves, dhe njohjen e Elohim do ta gjesh.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "do të kesh understandim"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frika e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dhe njohjen e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "do ta gjesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:54.130046552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe mbreti i Egjiptit u tha atyre: Pse, o Moisi e Aaron, i çlironi ⟨את⟩ popullin nga punët e veta? Shkoni te barrat tuaja!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u tha atyre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaron"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "i çlironi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "nga punët e veta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "te barrat tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:02.175930900Z",
+  "model": "glm-5.3"
+}

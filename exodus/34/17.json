@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Perëndi të derdhura nuk do të bësh për vete.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "të derdhura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:46.055820631Z",
+  "model": "glm-5.3"
+}

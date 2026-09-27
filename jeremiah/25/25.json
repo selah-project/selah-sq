@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe ⟨את⟩ të gjithë mbretërit e Zimrit, dhe ⟨את⟩ të gjithë mbretërit e Elamit, dhe ⟨את⟩ të gjithë mbretërit e Medisë",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë mbretërit e Zimrit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrit"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e Elamit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elamit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e Medisë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:15:01.621473939Z",
+  "model": "glm-5.3"
+}

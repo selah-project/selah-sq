@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Shko ⟨me⟩ ⟨את⟩ të urtët dhe do të bëhesh i urtë, por ai që shoqërohet me të mendjeve-ngushtë do të dëmtohet.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të urtët"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "të urtët"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "dhe do të bëhesh i urtë"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "por ai që shoqërohet"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "me të mendjeve-ngushtë"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "do të dëmtohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:33.784210036Z",
+  "model": "glm-5.3"
+}

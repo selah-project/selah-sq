@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Në ditët e tij do të lulëzojë i drejti, dhe bollëk paqeje, derisa të mos jetë më hëna.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "do të lulëzojë"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "në ditët e tij"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe bollëk"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqeje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "të mos jetë më"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hëna"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.212195947Z",
+  "model": "glm-5.3"
+}

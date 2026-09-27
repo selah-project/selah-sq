@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Sepse ti ke krijuar veshkat e mia, më ke mbështjellë ⟨në⟩ barkun e nënës sime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ke krijuar"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "veshkat e mia"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "më ke mbështjellë"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "⟨në⟩ bark"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "të nënës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:00.531725881Z",
+  "model": "glm-5.3"
+}

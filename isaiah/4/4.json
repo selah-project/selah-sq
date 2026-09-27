@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Kur Adonai ⟨do të ketë⟩ larë ⟨את⟩ papastërtinë e bijave të Zionit dhe ⟨do të ketë⟩ pastruar ⟨את⟩ gjakun e Jeruzalemit nga mesi i saj, me Frymën e gjyqit dhe me Frymën e djegies.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "⟨do të ketë⟩ larë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papastërtinë e bijave të Zionit"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "papastërtinë"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "e bijave"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "të Zionit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e Jeruzalemit"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jeruzalemit"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "⟨do të ketë⟩ pastruar"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "nga mesi i saj"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "me Frymën"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "e gjyqit"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "dhe me Frymën"
+    },
+    {
+      "surface": "בער",
+      "gloss": "e djegies"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:34.362324736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Davidi mori ⟨את⟩ mburojat e arta që ishin mbi shërbëtorët e Hadadezerit, dhe i solli ato në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburojat e arta"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "mburojat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e arta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היו",
+      "gloss": "isnin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "e Hadadezerit"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i solli ato"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:30.727278031Z",
+  "model": "glm-5.3"
+}

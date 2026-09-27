@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ti ⟨je⟩ i shenjtë, që rri fron në lavdet e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "që rri fron"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "në lavdet e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:30.810052851Z",
+  "model": "glm-5.3"
+}

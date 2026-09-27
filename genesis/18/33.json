@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jahve shkoi, sapo mbaroi së foluri me Abrahamin; dhe Abrahami u kthye në vendin e vet.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sapo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mbaroi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "së foluri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "dhe Abrahami"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "në vendin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:27.755822394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Elohim i doli përpara Bilamit, dhe ai i tha Atij: ⟨את⟩ shtatë altarët i kam rregulluar, dhe ngjita një dem e një desh mbi ⟨çdo⟩ altare.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "dhe i doli përpara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë altarët"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altarët"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "i kam rregulluar"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "dhe ngjita"
+    },
+    {
+      "surface": "פר",
+      "gloss": "një dem"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e një desh"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "mbi altare"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:51.172863349Z",
+  "model": "glm-5.3"
+}

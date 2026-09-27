@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe ju thoni: «Rruga e Adonait nuk ⟨është⟩ e peshuar.» Secili sipas rrugëve të tij do t'ju gjykoj ⟨אתכם⟩, o shtëpi e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "dhe ju thoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "është e peshuar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "e Adonait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "sipas rrugëve të tij"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "do të gjykoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (shtëpia e Izraelit)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o shtëpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:36:01.744234950Z",
+  "model": "glm-5.3"
+}

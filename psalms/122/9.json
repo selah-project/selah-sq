@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Për hir të shtëpisë së Jahvesë, Elohim-it tonë, do të kërkoj të mirën ⟨për⟩ ty.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-it tonë"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "do të kërkoj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:21.240246107Z",
+  "model": "glm-5.3"
+}

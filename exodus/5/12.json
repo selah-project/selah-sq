@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe u shpërnda populli nëpër të gjithë vendin e Egjiptit, për të mbledhur byk në vend të kallëpit.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "dhe u shpërnda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nëpër të gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "për të mbledhur"
+    },
+    {
+      "surface": "קש",
+      "gloss": "byk"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "në vend të kallëpit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:55.428397884Z",
+  "model": "glm-5.3"
+}

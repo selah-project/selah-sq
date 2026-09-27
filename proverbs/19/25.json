@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Bier një tallës, dhe i pafajtori bëhet i matur; dhe qortoi një të mençur, dhe ai do të kuptojë dijen.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "tallës"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "bier"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "dhe i pafajtori"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "bëhet i matur"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "dhe qortoi"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "një të mençur"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "do të kuptojë"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dijen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:37.926181303Z",
+  "model": "glm-5.3"
+}

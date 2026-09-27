@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe çdo minha e priftit do të jetë e tërë ⟨e djegur⟩; nuk do të hahet.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dhe çdo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "e priftit"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "e tërë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "do të hahet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:37.479965427Z",
+  "model": "glm-5.3"
+}

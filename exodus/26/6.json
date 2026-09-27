@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të bësh pesëdhjetë kapëse prej ari, dhe do të bashkosh ⟨את⟩ perdet, njëra me tjetrën, me kapëset; dhe Mishkani do të jetë një.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pesëdhjetë"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kapëse"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "prej ari"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "dhe do të bashkosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdet"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "njëra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "tjetrën"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "me kapëset"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:08.162877342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Më shpëto, o Elohim, se ⟨ujërat⟩ kanë ardhur deri në ⟨shpirtin⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Më shpëto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kanë ardhur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:26.836742526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Më fal të mirën, o Elohim, se më gëlltiti ⟨i⟩ vdekshmi; gjithë ditën luftën e bën dhe më shtyp.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "më fal të mirën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "më gëlltiti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "vdekshmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "luftën e bën"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "më shtyp"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:08.673926963Z",
+  "model": "glm-5.3"
+}

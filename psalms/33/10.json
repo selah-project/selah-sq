@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Jahve e shkatërroi këshillën e kombeve, i zhduki planet e popujve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "e shkatërroi"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "këshillën"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "i zhduki"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planet"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "e popujve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:10.262584893Z",
+  "model": "glm-5.3"
+}

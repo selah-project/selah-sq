@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "I bekuar ⟨qoftë⟩ Elohim, që nuk e largoi lutjen time, as hesed-in e tij, nga unë ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "I bekuar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "largoi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "as hesed-in e tij"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ nga unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:03.221935687Z",
+  "model": "glm-5.3"
+}

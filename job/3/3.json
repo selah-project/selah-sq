@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Le të shkatërrohet dita në të cilin u linda, dhe nata për të cilën u tha: «U ngjiz një djalë.»",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "le të shkatërrohet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "u linda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të cilin"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "dhe nata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "u tha"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "u ngjiz"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "një djalë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:58.694353944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe tani kthehu dhe shko në paqe, dhe mos bëj të keqe në sytë e sarënëve të filistejve.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dhe shko"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "në paqe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bëj"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarënëve"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "të filistejve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:15.521225344Z",
+  "model": "glm-5.3"
+}

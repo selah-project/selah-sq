@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe i ëmbël ⟨është⟩ drita, dhe ⟨është⟩ mirë për sytë të shohin ⟨את⟩ diellin.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "dhe i ëmbël"
+    },
+    {
+      "surface": "האור",
+      "gloss": "drita"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dhe ⟨është⟩ mirë"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "për sytë"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diellin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diellin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:17.479001893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Gojë kanë, por nuk flasin; sy kanë, por nuk shohin.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Gojë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "shohin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:41.473042495Z",
+  "model": "glm-5.3"
+}

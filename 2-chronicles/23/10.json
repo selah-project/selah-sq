@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe i vuri ⟨את⟩ të gjithë popullin, çdo njeri me armën e hedhëshme në dorën e tij, nga supi i djathtë i shtëpisë deri në supin e majtë të shtëpisë, drejt altarit dhe drejt shtëpisë, rreth e rrotull mbretit.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe çdo njeri"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "armën e hedhëshme"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "nga supi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "i shtëpisë"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "i djathtë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa në"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "supin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "të majtë"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "drejt altarit"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "dhe drejt shtëpisë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T18:13:27.549693933Z",
+  "model": "glm-5.3"
+}

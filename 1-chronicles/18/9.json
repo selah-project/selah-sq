@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Tou, mbreti i Hamatit, dëgjoi se Davidi i kishte goditur ⟨את⟩ gjithë ushtrinë e Hadadezerit, mbretit të Tsobës.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "i Hamatit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kishte goditur"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë ushtrinë e Hadadezerit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ushtrinë"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "e Hadadezerit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "të Tsobës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:05.897646770Z",
+  "model": "glm-5.3"
+}

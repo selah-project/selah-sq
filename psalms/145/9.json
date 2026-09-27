@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "I mirë është Jahve ndaj të gjithëve, dhe mëshirat e tij janë mbi të gjitha veprat e tij.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndaj të gjithëve"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "dhe mëshirat e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:49.800597080Z",
+  "model": "glm-5.3"
+}

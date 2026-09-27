@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Të arsyetosh me fjalë që s'kanë dobi, e me fjalë që nuk sjellin asnjë fitim në to?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "të arsyetosh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "me fjalë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "kanë dobi"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "e me fjalë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "sjellin fitim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në to"
+    }
+  ],
+  "timestamp": "2026-09-27T18:33:30.817912155Z",
+  "model": "glm-5.3"
+}

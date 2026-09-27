@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Nuk pa njeri ⟨את⟩ vëllain e vet, dhe nuk u ngrit njeri nga vendi i tij për tri ditë; por për të gjithë bijtë e Izraelit pati dritë në banesat e tyre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllain e vet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllain e vet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "nga vendi i tij"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "por për të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritë"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "në banesat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:00.995476275Z",
+  "model": "glm-5.3"
+}

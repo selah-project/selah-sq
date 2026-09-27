@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe këta janë ⟨the⟩ kombet të cilat Jahve i la, për t'i provuar me ta ⟨את⟩ Izraelin — ⟨את⟩ të gjithë ata që nuk kishin njohur ⟨את⟩ të gjitha luftërat e Kanaanit.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "i la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "për t'i provuar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kishin njohur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha luftërat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "luftërat"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:50.714455336Z",
+  "model": "glm-5.3"
+}

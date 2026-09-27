@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Moisi e Aaroni bënë ashtu siç ⟨את⟩ i kishte urdhëruar Jahve — ashtu bënë.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe ... bënë"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aaroni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ i",
+      "marks": "Moisi e Aaroni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:10.979418578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Jo përjetë do të grindet, dhe jo përjetë do ta ruajë ⟨zemërimin⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "do të grindet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "do ta ruajë ⟨zemërimin⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:15.560382738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe zemërimi i Jahves ndezi kundër tyre, dhe ⟨ai⟩ u largua.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dhe ndezi zemërim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemërimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe u largua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:40.050156341Z",
+  "model": "glm-5.3"
+}

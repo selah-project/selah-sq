@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Ja, heronjtë e tyre bërtasin jashtë; të dërguarit e paqes qajnë me hidhërim.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "heronjtë e tyre"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "bërtasin"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "të dërguarit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "e paqes"
+    },
+    {
+      "surface": "מר",
+      "gloss": "me hidhërim"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "qajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:32.279914476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Jo neve, o Jahve, jo neve, por emrit tënd jep lavdinë, për hir të hesed-it tënd, për hir të së vërtetës së tënde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "emrit tënd"
+    },
+    {
+      "surface": "תן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdinë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-it tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "së vërtetës së tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:00.797579918Z",
+  "model": "glm-5.3"
+}

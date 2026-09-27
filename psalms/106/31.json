@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe iu llogarit atij për drejtësi, brez pas brezi, përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "dhe iu llogarit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "për drejtësi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "për brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dhe brez"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:38.538678386Z",
+  "model": "glm-5.3"
+}

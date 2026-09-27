@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Avrami ⟨ishte⟩ i rëndë ⟨i pasur⟩ shumë në bagëti, në argjend dhe në ar.",
+  "tokens": [
+    {
+      "surface": "ו אברם",
+      "gloss": "dhe Avrami"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "i rëndë ⟨i pasur⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "në bagëti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "në argjend"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "dhe në ar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:04.593749525Z",
+  "model": "glm-5.3"
+}

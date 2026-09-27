@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Bir i njeriut, bëji të njohura ⟨את⟩ Jerusalemit ⟨את⟩ neveritë e tij.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bëji të njohura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neveritë e tij"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "neveritë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:29:26.824669064Z",
+  "model": "glm-5.3"
+}

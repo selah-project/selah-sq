@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "ℹ️ Shqip: Dhe do të hanë ⟨את⟩ mishin në atë natë, i pjekur në zjarr, dhe bukë të pa maja; me barishte të hidhura do ta hanë.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "dhe do të hanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "në atë natë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "i pjekur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "dhe bukë të pa maja"
+    },
+    {
+      "surface": "על",
+      "gloss": "me"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "barishte të hidhura"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "do ta hanë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:36.017280374Z",
+  "model": "glm-5.3"
+}

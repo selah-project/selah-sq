@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Më rrethuan, po, më rrethuan përsëri; në emrin e Jahvesë, vërtet, unë do t'i këpus ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Më rrethuan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "po"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "më rrethuan përsëri"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "unë do t'i këpus"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:53.818468623Z",
+  "model": "glm-5.3"
+}

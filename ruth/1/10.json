@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ato i thanë asaj: «Sigurisht, ⟨me ty⟩ do të kthehemi te populli yt.»",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sigurisht"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "me ty"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "do të kthehemi"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "te populli yt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:50.653764944Z",
+  "model": "glm-5.3"
+}

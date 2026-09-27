@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai tha: Ah, Adonai! Dërgo, të lutem, me anën e dorës — dërgo ⟨atë⟩ që do të dërgosh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anën e dorës"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "do të dërgosh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:24.587852555Z",
+  "model": "glm-5.3"
+}

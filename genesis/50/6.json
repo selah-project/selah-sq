@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe Faraoni tha: Ngjitu dhe varros ⟨את⟩ atërin tët, siç të bëri të betohesh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngjitu"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "dhe varros"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atërin tët"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atërin tët"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "të bëri të betohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:43.403014893Z",
+  "model": "glm-5.3"
+}

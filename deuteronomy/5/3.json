@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Jo me ⟨את⟩ etër tanë lidhi Jahve ⟨את⟩ këtë besëlidhje, por ⟨את⟩ me ne — ne, këta, këtu sot, të gjithë ne gjallë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etër tanë"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "etër tanë"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "lidhi (preri)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë besëlidhje"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "këtë besëlidhje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "të gjithë ne"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:32.706564711Z",
+  "model": "glm-5.3"
+}

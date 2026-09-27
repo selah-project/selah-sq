@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Moisiu shkroi këtë Tora dhe ua dha ⟨את⟩ priftërinjve, bijve të Levit, që mbajnë ⟨את⟩ arkën e besëlidhjes së Jahvesë, dhe të gjithë pleqve të Israelit.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "shkroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ua dha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "priftërinjve"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "që mbajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe të"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:36.855365847Z",
+  "model": "glm-5.3"
+}

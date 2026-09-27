@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Jahve bën të vdesë dhe bën të jetojë, zbrit në Sheol dhe ngjitet lart.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "bën të vdesë"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "dhe bën të jetojë"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "zbrit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe ngjitet lart"
+    }
+  ],
+  "timestamp": "2026-09-27T15:09:55.842167913Z",
+  "model": "glm-5.3"
+}

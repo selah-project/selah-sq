@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të doš ⟨את⟩ Jahve, Elohim-in tënd, dhe do të ruash ruajtjen e tij dhe statutet e tij dhe gjykimet e tij dhe urdhrat e tij, gjithë ditët.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "dhe do të doš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dhe do të ruash"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ruajtjen e tij"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "dhe statutet e tij"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "dhe gjykimet e tij"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "dhe urdhrat e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditët"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:21.692989060Z",
+  "model": "glm-5.3"
+}

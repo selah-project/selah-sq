@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨את⟩ të gjitha qytetet e këtyre mbretërve dhe ⟨את⟩ të gjithë mbretërit e tyre i zuri Jozue dhe i rrahu me anë të shpatës, i shfarosi ⟨את⟩ ata, ashtu si kishte urdhëruar Moisi, shërbëtori i Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha qytetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "e mbretërve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë mbretërit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mbretërit e tyre"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "i zuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "dhe i rrahu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "i shfarosi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:37.602048695Z",
+  "model": "glm-5.3"
+}

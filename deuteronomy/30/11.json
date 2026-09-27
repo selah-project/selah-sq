@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Sepse urdhri ky që unë të porosis sot nuk ⟨është⟩ përtej teje, as nuk ⟨është⟩ larg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "urdhri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të porosis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "⟨është⟩ përtej"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "teje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as nuk"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "⟨është⟩ larg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:44.089499586Z",
+  "model": "glm-5.3"
+}

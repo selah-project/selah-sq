@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe tani ti thua: Shko, thuaj zotërisë tënd: Ja, Elia është këtu! Dhe ⟨ai⟩ do të më vrasë.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "zotërisë tënd"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "dhe do të më vrasë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:01.772628333Z",
+  "model": "glm-5.3"
+}

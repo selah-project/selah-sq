@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Sepse i lartë është Jahve, dhe të përulurve u sheh, por të lartit nga larg e njeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רם",
+      "gloss": "i lartë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "dhe të përulurve"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "u sheh"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "por të lartit"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "e njeh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:11.044190635Z",
+  "model": "glm-5.3"
+}

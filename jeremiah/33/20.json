@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Kështu tha Jahve: Nëse ju e prishni ⟨את⟩ besëlidhjen time të ditës dhe ⟨את⟩ besëlidhjen time të natës, dhe ditën dhe natën të mos jenë në kohën e tyre —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "ju e prishni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time të ditës"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "היום",
+      "gloss": "të ditës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "besëlidhjen time të natës"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "të natës"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "היות",
+      "gloss": "jenë"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe natën"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "në kohën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:18:11.795407588Z",
+  "model": "glm-5.3"
+}

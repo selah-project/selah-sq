@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Si bora në verë dhe si shiu në korrje, ashtu nderi nuk i nënshtrohet dot të marrit.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "si bora"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "në verë"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "dhe si shiu"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "në korrje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "i nënshtrohet dot (nuk i qëllon)"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "të marrit"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nderi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:05.908879697Z",
+  "model": "glm-5.3"
+}

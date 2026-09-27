@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse unë jam Jahve, që ju nxori ⟨את⟩ juve nga toka e Egjiptit, për t'ju qenë Elohim; dhe ju do të jeni të shenjtë, sepse i shenjtë jam unë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "që nxori lart"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "להית",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dhe do të jeni"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:19.304739902Z",
+  "model": "glm-5.3"
+}

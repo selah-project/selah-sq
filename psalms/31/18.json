@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Jahve, të mos mbetem i turpëruar, sepse të kam thirrur; të turpërohen të pabesët, të heshtin në Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mbetem i turpëruar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "të kam thirrur"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "të turpërohen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "të heshtin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "në Sheol"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:16.353775831Z",
+  "model": "glm-5.3"
+}

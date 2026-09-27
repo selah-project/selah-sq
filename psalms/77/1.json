@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Për dirigjentin, sipas Jeduthunit. Psalm i Asafit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jeduthunit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:30.222680813Z",
+  "model": "glm-5.3"
+}

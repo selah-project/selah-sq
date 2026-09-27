@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Si çjapi ⟨i⟩ etshëm ⟨për⟩ rrëketë e ujit, kështu shpirti im etshëm drejt teje, o Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Si çjapi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "etshëm"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨për⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "rrëketë e"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "etshëm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "drejt teje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:17.705069166Z",
+  "model": "glm-5.3"
+}

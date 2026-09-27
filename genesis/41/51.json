@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe Jozefi e quajti ⟨את⟩ emrin e parëlindurit Menashé, sepse «Elohim më bëri të harroj tërë mundin tim dhe ⟨את⟩ tërë shtëpinë e atit tim».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "quajti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "e parëlindurit"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "më bëri të harroj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mundin tim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tërë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "e atit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:01.696917935Z",
+  "model": "glm-5.3"
+}

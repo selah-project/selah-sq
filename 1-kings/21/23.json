@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Edhe për Izebelin foli Jahve, duke thënë: Qentë do të hanë ⟨את⟩ Izebelin në hendekun e Jezreelit.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "për Izebelin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Qentë"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebelin"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelin"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "në hendekun"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "të Jezreelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:05.152321814Z",
+  "model": "glm-5.3"
+}

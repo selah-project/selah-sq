@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Derr i egër nga pylli e shkatërron ⟨atë⟩, dhe bisha e fushës e kullot ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "e shkatërron"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "derr i egër"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "nga pylli"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "dhe bisha"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "e kullot"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.547537034Z",
+  "model": "glm-5.3"
+}

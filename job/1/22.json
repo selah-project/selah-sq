@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Në të gjitha këto, Jobi nuk mëkatoi dhe nuk i dha ⟨asnjë⟩ paudhësi Elohimut.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkatoi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:37.340395957Z",
+  "model": "glm-5.3"
+}

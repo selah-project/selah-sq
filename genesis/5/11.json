@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe të gjithë ditët e Enoshit ⟨isnin⟩ nëntëqind e pesë vjet, dhe ai vdiq.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshit"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "dhe nëntë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe ai vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:03.579186710Z",
+  "model": "glm-5.3"
+}

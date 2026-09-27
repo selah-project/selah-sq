@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe këto janë themelet që Salomoni hodhi për të ndërtuar ⟨את⟩ shtëpinë e Elohit: gjatësia në kubitë e masës së parë ishte gjashtëdhjetë kubitë, dhe gjerësia njëzet kubitë.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këto"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "themelet që hodhi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "për të ndërtuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "gjatësia"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "në masën"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "gjashtëdhjetë"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dhe gjerësia"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:43.036175821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Bini me briun në ⟨muajin e⟩ ri, në hënën e plotë, për ditën e festës sonë.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në ⟨muajin e⟩ ri"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "me briun"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "në hënën e plotë"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "për ditën e"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "festës sonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:32.671591417Z",
+  "model": "glm-5.3"
+}

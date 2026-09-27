@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Çdo gjë të njomur me majë nuk do të hani; në të gjitha vendbanimet tuaja do të hani maca.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Çdo"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "gjë të njomur me majë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "vendbanimet tuaja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maca"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:29.659741925Z",
+  "model": "glm-5.3"
+}

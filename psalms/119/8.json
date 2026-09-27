@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "⟨את⟩ statutet e tua do t'i ruaj; mos më lër ⟨deri në⟩ fund të Plotë.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e tua"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutet e tua"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "do t'i ruaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "më lër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨deri në⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fund të Plotë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:41.190201322Z",
+  "model": "glm-5.3"
+}

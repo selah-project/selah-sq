@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Abrahami nxitoi në çadër te Sara dhe tha: Nxito! Tri seah miell të imët, brumësi dhe bëj bukë të pjekur në hi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "dhe nxitoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "në çadër"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "nxito!"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "seah"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "miell"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "të imët"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "brumësi"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "bukë të pjekur në hi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:15.546269419Z",
+  "model": "glm-5.3"
+}

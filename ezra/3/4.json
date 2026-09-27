@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe bënë ⟨את⟩ festën e kasolleve, ashtu si ⟨e shkruar⟩, dhe flijimin e djegur të ditës, ditë për ditë, në numër sipas rregullit — çështja e një dite në ditën e vet.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "festën"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festën"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "të kasolleve"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ashtu si ⟨e shkruar⟩"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "dhe flijimin e djegur"
+    },
+    {
+      "surface": "יום",
+      "gloss": "të ditës"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ditë për ditë"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "në numër"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas rregullit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "çështja e"
+    },
+    {
+      "surface": "יום",
+      "gloss": "një dite"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "në ditën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:15.606314689Z",
+  "model": "glm-5.3"
+}

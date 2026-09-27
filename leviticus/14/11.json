@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti që e pastron do ta vë në këmbë ⟨את⟩ njeriun që pastrohet dhe ⟨את⟩ gjërat e tij para Jahves, në hyrjen e Çadrës së Takimit.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "do ta vë në këmbë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "që pastron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun që pastrohet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "që pastrohet"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjërat e tij"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "në hyrjen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:24.990548145Z",
+  "model": "glm-5.3"
+}

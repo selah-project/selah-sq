@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Jahve nuk e lë të uritur shpirtin e të drejtit, por dëshirën e të pabesëve ⟨e⟩ hedh ⟨poshtë⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "e lë të uritur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "e të drejtit"
+    },
+    {
+      "surface": "והות",
+      "gloss": "por dëshirën"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të pabesëve"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "hedh poshtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:51.707336259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Me qortime, për shpifjen, Ti e ndreqsh njeriun, dhe si mola i shkrin atë që i është i dashur; vetëm se avull ⟨është⟩ çdo njeri. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "me qortime"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "עון",
+      "gloss": "shpifjen"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "e ndreqsh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "dhe i shkrin"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "si mola"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "atë që i është i dashur"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm se"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "avull"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:35.899076796Z",
+  "model": "glm-5.3"
+}

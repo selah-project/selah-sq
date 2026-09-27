@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "kështu i ndiq me stuhinë tënde dhe medragun tënde i tremb-i-turbullo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "i ndiq"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "me stuhinë tënde"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "dhe me dragun tënde"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "i tremb-i-turbullo"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.707829710Z",
+  "model": "glm-5.3"
+}

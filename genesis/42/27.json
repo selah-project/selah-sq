@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Njëri prej tyre hapi ⟨את⟩ thergjin e vet për t'i dhënë ushqim gomarit të vet në bujtinë, dhe e pa ⟨את⟩ argjendin e vet, dhe ja, ishte në gojën e trastës së tij.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thergjin e vet"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "thergjin e vet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për t'i dhënë"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ushqim (foragj)"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "gomarit të vet"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "në bujtinë"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjendin e vet"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "argjendin e vet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ishte ⟨ai⟩"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën e"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "trastës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:55.980608910Z",
+  "model": "glm-5.3"
+}

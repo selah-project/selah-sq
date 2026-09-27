@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "⟨Ai⟩ që dërgon burimet në luginat — midis maleve rrjedhin ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "që dërgon"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "burimet"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "në luginat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maleve"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "rrjedhin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:22.536526905Z",
+  "model": "glm-5.3"
+}

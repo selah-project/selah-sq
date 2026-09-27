@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Thuajini midis kombeve: «Jahve mbretëron!» Po, ⟨token> bota është vendosur, nuk do të lëkundet; ai do të gjykojë popujt me drejtësi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Thuajini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëron"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Po"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "është vendosur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨token> bota"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk do të"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "lëkundet"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "me drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:25.416160117Z",
+  "model": "glm-5.3"
+}

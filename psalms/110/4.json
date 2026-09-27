@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Jahve ⟨është⟩ betuar dhe nuk do të pendohet: «Ti je prift përjetë, sipas rendit të Malki-Tsedekut.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "betuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "do të pendohet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prift"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "të rendit"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:35.814203486Z",
+  "model": "glm-5.3"
+}

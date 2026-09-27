@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Aaroni tha: «Të mos i ndizet zemra zotërisë sime; ti e njeh ⟨את⟩ popullin, se ⟨është⟩ i prirë për të keq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "i ndizet zemra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemra (bërryl i inatit)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zonja eime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "i prirë për të keq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:45.465903247Z",
+  "model": "glm-5.3"
+}

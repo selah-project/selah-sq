@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Biri im, nëse mëkatarët të mashtrojnë, mos prano.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Biri im"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "të mashtrojnë"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mëkatarët"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "prano"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:14.498083419Z",
+  "model": "glm-5.3"
+}

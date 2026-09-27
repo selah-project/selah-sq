@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "I pari i marrë përqafon ⟨את⟩ duart e tij dhe ha ⟨את⟩ mishin e tij.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "i pari i marrë"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "përqafon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tij"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duart e tij"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin e tij"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:35.590721523Z",
+  "model": "glm-5.3"
+}

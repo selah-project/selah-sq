@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Mos lëro me ⟨një⟩ dem e me ⟨një⟩ gomar bashkë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lëro"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "me dem"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "e me gomar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:01.543797455Z",
+  "model": "glm-5.3"
+}

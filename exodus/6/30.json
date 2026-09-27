@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Moisi tha para Jahves: Ja, unë ⟨jam⟩ me buzë të parathëdhura, e si do të dëgjojë Faraoni ⟨për⟩ mua?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "i parathëdhur"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "me buzë"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e si"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjojë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:48.721843239Z",
+  "model": "glm-5.3"
+}

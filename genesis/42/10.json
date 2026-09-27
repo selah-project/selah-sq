@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe i thanë atij: «Jo, zotëria im; por shërbëtorët e tu kanë ardhur të blejnë ushqim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "por shërbëtorët e tu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kanë ardhur"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "të blejnë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:02.794436358Z",
+  "model": "glm-5.3"
+}

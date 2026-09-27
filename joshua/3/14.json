@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ndodhi që, kur populli nisi nga çadrat e tij për të kaluar ⟨את⟩ Jordanin, priftërinjtë, mbajtësit e arkut të besëlidhjes, shkonin para popullit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi që"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kur nisi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "nga çadrat e tij"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "për të kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dhe priftërinjtë"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mbajtësit"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "e arkut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "të besëlidhjes"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:03.655717710Z",
+  "model": "glm-5.3"
+}

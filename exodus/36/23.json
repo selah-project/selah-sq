@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe bëri ⟨את⟩ dërrasat për Mishkanin: njëzet dërrasa për anën jugore, nga jugu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dërrasat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dërrasat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "për Mishkanin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dërrasa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "për anën"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jugore"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "nga jugu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:30.018931987Z",
+  "model": "glm-5.3"
+}

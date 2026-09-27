@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Jahve është betuar në krenarinë e Jakobit: Kurrë, përjetë, nuk do të harroj asnjë nga veprat e tyre.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "është betuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "në krenarinë"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sigurisht (kurrsesi)"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "do të harroj"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë nga"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "veprat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:01.636758587Z",
+  "model": "glm-5.3"
+}

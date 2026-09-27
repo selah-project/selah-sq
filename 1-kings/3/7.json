@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani, o Jahve, Elohai, ti e bëre të mbretërosh ⟨את⟩ shërbëtorin tëtend nën Davidin, atë tim; e unë ⟨jam⟩ djalë i vogël, nuk e di ⟨si⟩ të dal e të hyj.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "e bëre të mbretërosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tëtend"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tëtend"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën \/ në vend të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atë tim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e unë"
+    },
+    {
+      "surface": "נער",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "qטן→קטן",
+      "gloss": "i vogël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "e di"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "të dal"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe të hyj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:57.750547282Z",
+  "model": "glm-5.3"
+}

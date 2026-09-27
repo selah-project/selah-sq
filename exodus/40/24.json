@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe e vuri ⟨את⟩ kandilin në çadrën e takimit, përballë tryezës, në anën e Mishkanit, nga jugu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandilin"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandilin"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryezës"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "anën"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "e Mishkanit"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "nga jugu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:37.525690461Z",
+  "model": "glm-5.3"
+}

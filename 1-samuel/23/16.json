@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe eoi Jonathan, i birit të Saulit, dhe shkoi te Davidi në Horesha, dhe e forcoi ⟨את⟩ dorën e tij në Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe eoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i birit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "të Saulit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "në Horesha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe e forcoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:23.771662446Z",
+  "model": "glm-5.3"
+}

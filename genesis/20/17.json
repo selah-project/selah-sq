@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Abrahami lutoi te Elohim, dhe Elohim shëroi ⟨את⟩ Avimelekun dhe ⟨את⟩ gruan e tij dhe shërbëtoret e tij, dhe ata lindën.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "dhe lutoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dhe shëroi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekun"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gruan e tij"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "dhe shërbëtoret e tij"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "dhe lindën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:53.650329675Z",
+  "model": "glm-5.3"
+}

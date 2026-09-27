@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Do të hap gojën time në ⟨një⟩ shembëlltyrë; do të rrjedh gjëegjëza nga kohët e lashta.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "do të hap"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "në shembëlltyrë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "do të rrjedh"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "gjëegjëza"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kohët e lashta"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.672428372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 11:35",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ndodhi, kur e pa ⟨את⟩ ⟨atë⟩, ai grisi ⟨את⟩ rrobat e tij dhe tha: Ah, bija ime! Ti më shpele — më shpele krejt; dhe ti ⟨ke⟩ qenë mes shkatërruesve të mi; por unë hapa gojën time ndaj Jahves dhe nuk mund të kthehem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כראותו",
+      "gloss": "kur e pa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨atë⟩",
+      "marks": "e pa (אותה është përemër kundrinor, jo shenja e kundrinorit)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ai grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tij"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bija ime"
+    },
+    {
+      "surface": "הכרע",
+      "gloss": "ti më shpele"
+    },
+    {
+      "surface": "הכרעתני",
+      "gloss": "më shpele krejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ke qenë"
+    },
+    {
+      "surface": "בעכרי",
+      "gloss": "mes shkatërruesve të mi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "פציתי",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "të kthehem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:50.450089445Z",
+  "model": "glm-5.3"
+}

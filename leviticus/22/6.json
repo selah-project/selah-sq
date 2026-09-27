@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Shpirti që e prek atë ⟨do të jetë⟩ i papastër deri në mbrëmje dhe nuk do të hajë nga gjërat e shenjta, përveç nëse ka larë trupin e tij në ujë.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "e prek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "dhe ⟨do të jetë⟩ i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mbrëmje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hajë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "gjërat e shenjta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "përveç nëse"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ka larë"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupin e tij"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:51.970786571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe ⟨את⟩ vajin e vajimit dhe ⟨את⟩ temjanin e erëërave për ⟨the⟩ vendin e shenjtë — sipas të gjithave që të kam urdhëruar, ata do t'i bëjnë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vajin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "e vajimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "temjanin"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "temjanin"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "i erëërave"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "për vendin e shenjtë"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "të kam urdhëruar"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "do t'i bëjnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:22.291234175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Që të mos thotë armiku im: «E mbivodha atë», dhe ngushtuesit e mi të gëzohen kur unë të lëkundem.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiku im"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "e mbivodha atë"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ngushtuesit e mi"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "të gëzohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "të lëkundem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:34.489192018Z",
+  "model": "glm-5.3"
+}

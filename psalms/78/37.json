@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Zemra e tyre nuk qe e qëndrueshme me të, dhe nuk u treguan të besueshëm në besëlidhjen e tij.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "dhe zemra e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "qe e qëndrueshme"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "u treguan të besueshëm"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "në besëlidhjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:42.377812559Z",
+  "model": "glm-5.3"
+}

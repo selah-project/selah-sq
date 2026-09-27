@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe bijtë e Izraelit dhanë fryt, rrëshqitën e u shumuan, u bënë të mëdhenj shumë shumë; dhe ⟨u mbë⟩ tokën me ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dhe bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "dhanë fryt"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "rrëshqitën e u shumuan"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "u shumuan"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "u bënë të mëdhenj"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i cili i shënon ata (bijtë e Izraelit)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:47.428720440Z",
+  "model": "glm-5.3"
+}

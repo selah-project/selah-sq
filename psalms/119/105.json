@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Fjala jote ⟨është⟩ lampë për këmbët e mia dhe dritë për shtegun tim.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampë"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "për këmbët e mia"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "fjala jote"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dhe dritë"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "për shtegun tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.591671359Z",
+  "model": "glm-5.3"
+}

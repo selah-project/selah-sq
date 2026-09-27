@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe Jozefi u ngut, sepse i ngrohën shpirti i brendshëm ndaj vëllait të tij, dhe kërkoi të qante; dhe hyri në dhomën e brendshme dhe qau atje.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "u ngut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "i ngrohën"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "dhembshuritë e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllait të tij"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "dhe kërkoi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "të qante"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "në dhomën e brendshme"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dhe qau"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:47.173696379Z",
+  "model": "glm-5.3"
+}

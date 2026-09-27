@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jahve forcoi ⟨את⟩ zemrën e Faraonit, dhe ai nuk i ⟨את⟩ lëshoi ⟨את⟩ bijtë e Izraelit të shkonin.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨את⟩ lëshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:15.660459118Z",
+  "model": "glm-5.3"
+}

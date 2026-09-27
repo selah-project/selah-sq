@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Te ty u mbështetën etët tanë; u mbështetën dhe ti i shpëtove ata.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "te ty"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "u mbështetën"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "etët tanë"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "u mbështetën"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "dhe ti i shpëtove ata"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:12.709783069Z",
+  "model": "glm-5.3"
+}

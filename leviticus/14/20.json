@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti do të ngjizë ⟨את⟩ flijimin e djegies dhe ⟨את⟩ minhen mbi altar, dhe prifti do të bëjë shpengimin për të, dhe ai do të pastrohet.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "dhe do të ngjizë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegies"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "minhen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dhe do të bëjë shpengimin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dhe do të pastrohet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:13.253912727Z",
+  "model": "glm-5.3"
+}

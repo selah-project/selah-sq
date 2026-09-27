@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Do të të bëj të ditur dhe do të të udhëzoj në rrugën që do të ecësh; unë do të këshilloj — syri im ⟨mbi⟩ ty.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Do të të bëj të ditur"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "dhe do të të udhëzoj"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "זו",
+      "gloss": "që"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "do të ecësh"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "do të këshilloj"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨mbi⟩ ty"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:04.862853708Z",
+  "model": "glm-5.3"
+}

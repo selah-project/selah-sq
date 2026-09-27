@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Nuk do të ketë as humbje foshnje dhe as shterpësi në tokën tënde; ⟨את⟩ numrin e ditëve të tua unë do ta plotësoj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "humbje foshnje"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "dhe shterpësi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "në tokën tënde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numrin e ditëve"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numrin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "e ditëve të tua"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "unë do ta plotësoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:32.715997558Z",
+  "model": "glm-5.3"
+}

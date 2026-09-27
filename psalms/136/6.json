@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atë që shtriu tokën mbi ujëra, se për jetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "atë që shtriu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujëra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:39.006113685Z",
+  "model": "glm-5.3"
+}

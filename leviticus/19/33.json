@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe kur një i huaj banon si mik ⟨את⟩ juve në vendin tuaj, mos e shtypni ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dhe kur"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "banon si mik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ juve"
+    },
+    {
+      "surface": "גר",
+      "gloss": "një i huaj"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "në vendin tuaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "e shtypni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (të huajin)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:54.084205641Z",
+  "model": "glm-5.3"
+}

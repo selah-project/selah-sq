@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Të ytat ⟨janë⟩ qiejt, edhe të jotja ⟨është⟩ toka; ⟨ botën dhe plotësinë e saj ti i themelove ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "të ytat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të jotja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botën"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dhe plotësinë e saj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "i themelove"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:26.105418626Z",
+  "model": "glm-5.3"
+}

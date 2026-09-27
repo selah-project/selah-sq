@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "I pabesi planifikon ⟨kundër⟩ të drejtit, dhe kërcëllen mbi të dhëmbët e tij.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "planifikon"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kundër të drejtit"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "dhe kërcëllen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dhëmbët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:39.049186501Z",
+  "model": "glm-5.3"
+}

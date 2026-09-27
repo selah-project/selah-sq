@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe do të dalin pas nesh, derisa t'i kemi tërhequr ⟨את⟩ ata nga qyteti; sepse do të thonë: «Po ikin para nesh, si herën e parë»; dhe ne do të ikim para tyre.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe do të dalin"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "pas nesh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "t'i kemi tërhequr"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata, tërhequr nga qyteti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "do të thonë"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "po ikin"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "para nesh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "herën e parë"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "dhe do të ikim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "para tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:57.148379510Z",
+  "model": "glm-5.3"
+}

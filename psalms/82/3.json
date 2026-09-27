@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Gjykoni ⟨⟩ të dobëtin dhe jetimin; të shtypurin dhe të varfërin shfajësojini.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Gjykoni"
+    },
+    {
+      "surface": "דל",
+      "gloss": "të dobëtin"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dhe jetimin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të shtypurin"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "dhe të varfërin"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "shfajësojini"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:15.606224146Z",
+  "model": "glm-5.3"
+}

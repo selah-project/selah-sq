@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe pse nuk e ke mbajtur ⟨את⟩ betimin e Jahvesë dhe ⟨את⟩ urdhrin që të dhashë mbi ty?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Dhe pse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ke mbajtur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "betimin e Jahvesë"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "betimin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urdhrin"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "urdhrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "dhashë"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mbi ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:56.844573415Z",
+  "model": "glm-5.3"
+}

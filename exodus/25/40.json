@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe shiko, dhe bëji sipas modelit të tyre, somë po të shfaqet ⟨ty⟩ në mal.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dhe shiko"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëji"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "sipas modelit të tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "po të shfaqet"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:43.144539702Z",
+  "model": "glm-5.3"
+}

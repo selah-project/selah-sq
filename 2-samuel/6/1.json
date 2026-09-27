@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Davidi mblodhi përsëri ⟨את⟩ të gjithë të zgjedhurve në Izrael, tridhjetë mijë.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Dhe mblodhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "përsëri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të zgjedhurve në Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "të zgjedhurve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:14.532119906Z",
+  "model": "glm-5.3"
+}

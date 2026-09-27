@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Është betuar Jahve Tsevaot, duke thënë: Pa dyshim, siç e mendova, ashtu ka ndodhur, dhe siç e këshillova, ashtu do të ngrihet.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Është betuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨pa dyshim⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pa dyshim⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "e mendova"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ka ndodhur"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "dhe siç"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "e këshillova"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "do të ngrihet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:08.670535908Z",
+  "model": "glm-5.3"
+}

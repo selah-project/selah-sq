@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "për t'i shpëtuar shpirtrat e tyre nga vdekja dhe për t'i mbajtur gjallë në uri.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "për t'i shpëtuar"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirtrat e tyre"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "dhe për t'i mbajtur gjallë"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "në uri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:30.420821773Z",
+  "model": "glm-5.3"
+}

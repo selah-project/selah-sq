@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "që i hapën buzët e mia dhe që foli goja ime në ngushticën time.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "i hapën"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët e mia"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dhe që foli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja ime"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "në ngushticën"
+    },
+    {
+      "surface": "לי",
+      "gloss": "time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:07.952652062Z",
+  "model": "glm-5.3"
+}

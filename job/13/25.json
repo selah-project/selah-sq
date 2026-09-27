@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "⟨A⟩ do të trembësh një fletë të hedhur nga era? Dhe ⟨את⟩ kashtën e thatë ⟨a⟩ do ta ndjekësh?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "fletën"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "të hedhur nga era"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "a do të trembësh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kashtën e thatë"
+    },
+    {
+      "surface": "קש",
+      "gloss": "kashtë"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "e thatë"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "a do ta ndjekësh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:33.749620752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨nëse⟩ gjendet, do të paguajë shtatëfish ⟨את⟩ të gjithë pasurinë e shtëpisë së vet do të japë.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "Dhe gjendet"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të paguajë"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "shtatëfish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë pasurinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הון",
+      "gloss": "pasurinë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "e shtëpisë së vet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të japë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:33.601236392Z",
+  "model": "glm-5.3"
+}

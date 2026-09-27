@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Shko dhe mblidh ⟨את⟩ pleqtë e Israelit, dhe u thuaju atyre: «Jahve, Elohim i etërve tuaj, m'u shfaq mua — Elohim i Abrahamit, i Isakut dhe i Jakobit — duke thënë: Vërtet ju vizitova, dhe ⟨את⟩ atë që ju është bërë në Egjipt.»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dhe mblidh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleqtë e Israelit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dhe u thuaju"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "etërve tuaj"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "m'u shfaq"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dhe i Jakobit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ju vizitova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "atë që është bërë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:59.746033866Z",
+  "model": "glm-5.3"
+}

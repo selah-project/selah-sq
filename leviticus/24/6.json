@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe do t'i veshësh ⟨את⟩ ato në dy radhë, gjashtë bukë për radhë, mbi tavolinën e pastër, përballë Jahves.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dhe do t'i veshësh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "dy radhë"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "radhë"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "radhës"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tavolinën"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:19.833417672Z",
+  "model": "glm-5.3"
+}

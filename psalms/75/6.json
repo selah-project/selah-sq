@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Mos e ngrini lart bririn tuaj, mos flitni me qafë ⟨të ngurtë⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngrini"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "lart"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "bririn tuaj"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "flitni"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "me qafë"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "të ngurtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:21.882440006Z",
+  "model": "glm-5.3"
+}

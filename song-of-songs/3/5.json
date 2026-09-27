@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ju bëj të betoheni, o bija të Jerusalemit, ⟨אתכם⟩ — nga gazelat ose nga dreritë e fushës: nëse zgjoni dhe nëse ndezni ⟨את⟩ dashurinë, derisa ajo të dojë.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ju bëj të betoheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ ju",
+      "marks": "bija të Jerusalemit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bija"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "nga gazelat"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "nga dreritë"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "zgjoni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ndezni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dashurinë"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "dashurinë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ajo të dojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:05.853546977Z",
+  "model": "glm-5.3"
+}

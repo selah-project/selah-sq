@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Ti ke dashur drejtësinë dhe ke urryer ligësinë; prandaj Elohim, Elohim i yti, të ka vajosur me vaj gëzimi mbi shokët e tu.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ke dashur"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "dhe ke urryer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ligësinë"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj (mbi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "për këtë arsye"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "të ka vajosur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gëzimi"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "mbi shokët e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:22.223032547Z",
+  "model": "glm-5.3"
+}

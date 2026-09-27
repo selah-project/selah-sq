@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Do të anojë ⟨veshi⟩ im drejt përshkrimit, do të hap me kinnor-in gjëegjëzën time.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Do të anoj"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "drejt përshkrimit"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "veshi im"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "do të hap"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "me kinnor-in"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "gjëegjëzën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:29.379652895Z",
+  "model": "glm-5.3"
+}

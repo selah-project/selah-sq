@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Jahve na nxori nga Egjipti me dorë të fortë dhe me krah të shtrirë dhe me tmall të madh dhe me shenja dhe me çudira.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "dhe na nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorë"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "dhe me krah"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "të shtrirë"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "dhe me tmall"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "dhe me shenja"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "dhe me çudira"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:10.731161512Z",
+  "model": "glm-5.3"
+}

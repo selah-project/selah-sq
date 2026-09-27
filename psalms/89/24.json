@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Dhe do t'i thyej armiqtë e tij para fytyrës së tij, dhe ata që e urrejnë do t'i godas.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "dhe do t'i thyej"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "para fytyrës së tij"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "armiqtë e tij"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "dhe ata që e urrejnë"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "do t'i godas"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:51.729175321Z",
+  "model": "glm-5.3"
+}

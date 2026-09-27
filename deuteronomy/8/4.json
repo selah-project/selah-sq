@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Rroba jote nuk u konsumua mbi ty dhe këmba jote nuk u ënjt — këta dyzet vjet.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Rroba jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "u konsumua"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "dhe këmba jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "u ënjt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:51.925039095Z",
+  "model": "glm-5.3"
+}

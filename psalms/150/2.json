@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 150,
+  "translation": "Lëvdojeni atë për veprat e tij të fuqishme; lëvdojeni atë sipas madhështisë së tij të pangatërruar.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "për veprat e tij të fuqishme"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sipas shumicës"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "të madhështisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.712445606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ do të therë ⟨את⟩ demin para Jahves, dhe bijtë e Aaronit, priftërinjtë, do të sjellin ⟨את⟩ gjakun dhe do ta spërkasin ⟨את⟩ gjakun mbi altar, rreth e qark — ⟨i cili është⟩ te hyrja e Çadrit të Takimit.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do të therë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir (dem)"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "i gjedhit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dhe do të sjellin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dhe do ta spërkasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e qark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili është"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "te hyrja"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e Çadrit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:27.668365572Z",
+  "model": "glm-5.3"
+}

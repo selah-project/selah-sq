@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ai tha: Nëse kanë dalë për paqe, kapini ⟨i⟩ gjallë; dhe nëse kanë dalë për luftë, kapini ⟨i⟩ gjallë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "për paqe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kanë dalë"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "kapini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kanë dalë"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "kapini"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:51.927420645Z",
+  "model": "glm-5.3"
+}

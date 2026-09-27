@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe dëgjoi Jakobi ⟨את⟩ fjalët e bijve të Labanit, që thonin: «Jakobi mori ⟨את⟩ të gjithë çfarë është e të atit tonë, dhe nga ajo që është e të atit tonë bëri ⟨את⟩ krejt këtë pasuri.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "që thonin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "është e të atit tonë"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "dhe nga ajo që"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "është e të atit tonë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "këtë pasuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:27.182127049Z",
+  "model": "glm-5.3"
+}

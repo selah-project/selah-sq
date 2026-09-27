@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Luftëtarët e rinj vrumbullojnë për të grabitur dhe kërkojnë ushqimin e tyre nga El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "luftëtarët e rinj"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "vrumbullojnë"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "për të grabitur"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "dhe kërkojnë"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "nga El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ushqimin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:22.276039992Z",
+  "model": "glm-5.3"
+}

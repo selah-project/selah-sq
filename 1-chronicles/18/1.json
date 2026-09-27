@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ndodhi pas kësaj, që Davidi mundi ⟨את⟩ filistejtë dhe i nënshtroi ata, dhe mori ⟨את⟩ Gatin dhe fshatrat e tij nga dora e filistejve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kesaj"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistejtë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i nënshtroi ata"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatin"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dhe fshatrat e tij"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dera e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:49.340137036Z",
+  "model": "glm-5.3"
+}

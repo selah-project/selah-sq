@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe e la ⟨את⟩ këshillën e pleqve që i kishin dhënë, dhe mbajti këshillë me ⟨את⟩ të rinjtë që kishin rritur ⟨me⟩ ⟨את⟩ të, që kishin qëndruar para tij.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "dhe e la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këshillën e pleqve"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "këshillën"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "e pleqve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "i kishin dhënë"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "dhe mbajti këshillë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të rinjtë"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "të rinjtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kishin rritur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨me⟩ ⟨את⟩ të",
+      "marks": "të rinjtë që u rritën me të"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kishin qëndruar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:50.339891844Z",
+  "model": "glm-5.3"
+}

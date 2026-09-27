@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Sepse borës i thotë: «Bihu mbi ⟨të⟩ tokën»; dhe shiut të timonit, dhe shirave të forcës së tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "borës"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i thotë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bihu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mbi tokën"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "dhe shiut"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "të timonit"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "dhe shirave"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "të shirave"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "të forcës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:50.668042129Z",
+  "model": "glm-5.3"
+}

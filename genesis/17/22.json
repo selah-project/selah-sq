@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe mbaroi së foluri ⟨me⟩ të, dhe Elohim u ngjit nga lart i Avrahamit.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dhe mbaroi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "së foluri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga lart i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:09.371071589Z",
+  "model": "glm-5.3"
+}

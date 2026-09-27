@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe tha Jahve drejt meje: Mos thuaj «i ri ⟨jam⟩ unë», sepse drejt çdo vendi ku të dërgoj ti do të shkosh, dhe ⟨את⟩ çdo gjë që të urdhëroj ti do të thuash.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "נער",
+      "gloss": "i ri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨jam⟩ unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "të dërgoj"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "do të shkosh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çdo gjë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "do të thuash"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:47.400370619Z",
+  "model": "glm-5.3"
+}

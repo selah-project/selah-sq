@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Elohim, një këngë të re do të të këndoj, me nevel dhjetëfish do të të bajë muzikë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "me nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dhjetëfishe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të bajë muzikë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:08.419995535Z",
+  "model": "glm-5.3"
+}

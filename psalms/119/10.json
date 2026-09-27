@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Me gjithë zemrën time të kërkova; mos më lër të shmangem nga urdhërimet e tua.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "të kërkova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "më lër të shmangem"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "nga urdhërimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.391504640Z",
+  "model": "glm-5.3"
+}

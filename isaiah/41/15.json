@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Ja, të vura ⟨si⟩ një morë të re, të mprehtë, me dhëmbë; do të këllësysh malet dhe do t'i thërmosh, dhe kodrat do t'i bësh si byk.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "të vura"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "si një morë"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "të mprehtë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "me"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "dhëmbë"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "do të këllësysh"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "dhe do t'i thërmosh"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "dhe kodrat"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "si byk"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "do t'i bësh"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:46.764498456Z",
+  "model": "glm-5.3"
+}

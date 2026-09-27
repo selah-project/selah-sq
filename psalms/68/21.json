@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "El-i ⟨Është⟩ për ne një El shpëtimesh, dhe të Jahve, Adonai, ⟨i takojnë⟩ daljet e vdekjes.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "shpëtimesh"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "dhe të Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "të vdekjes"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "daljet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:39.291651052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do ta ruani ⟨את⟩ këtë fjalë si statut për ju dhe për bijtë tuaj deri në jetë të pasosur.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do ta ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "si statut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "dhe për bijtë tuaj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jetë të pasosur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:27.394074446Z",
+  "model": "glm-5.3"
+}

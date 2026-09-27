@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Të mos të ketë ⟨në⟩ shtëpinë tënde efà dhe efà, ⟨një⟩ e madhe dhe ⟨një⟩ e vogël.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efà"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "dhe efà"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "dhe e vogël"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:41.559425688Z",
+  "model": "glm-5.3"
+}

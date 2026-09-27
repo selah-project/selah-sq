@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Sepse si një rrobë do t'i hajë mola, dhe si leshi do t'i hajë krimbi; por drejtësia ime do të jetë përjetë dhe shpëtimi im brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "si një rrobë"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "do t'i hajë"
+    },
+    {
+      "surface": "עש",
+      "gloss": "mola"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "dhe si leshi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "do t'i hajë"
+    },
+    {
+      "surface": "סס",
+      "gloss": "krimbi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "dhe drejtësia ime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "dhe shpëtimi im"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "pas brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:23.229262694Z",
+  "model": "glm-5.3"
+}

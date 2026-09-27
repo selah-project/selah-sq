@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Moisi dhe Aaroni bënë ⟨את⟩ të gjitha këto çudi përpara Faraonit; dhe Jahve e forcoi ⟨את⟩ zemrën e Faraonit dhe ai nuk i lejoi ⟨את⟩ bijtë e Izraelit të dilnin nga vendi i tij.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "dhe Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto çudi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "çuditë"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe e forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e Faraonit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i lejoi të dilnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "nga vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:15.390178116Z",
+  "model": "glm-5.3"
+}

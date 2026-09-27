@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe e vuri ⟨את⟩ tryezën në çadrën e takimit, në anën e Mishkanit, nga veriu, jashtë perdes.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tryezën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryezën"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "anën"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "e Mishkanit"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "nga veriu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "perdes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:37.525328863Z",
+  "model": "glm-5.3"
+}

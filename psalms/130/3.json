@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "Nëse ti ruan mëkatet, o Jah, o Adonai, kush do të qëndrojë?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mëkatet"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ruan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "do të qëndrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:58.771180486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ja, ditë po vijnë dhe unë do të prer krahun tënd dhe krahun e shtëpisë së atit tënd, kështu që të mos ketë plak në shtëpinë tënde.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "באים",
+      "gloss": "po vijnë"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "dhe unë do të prer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krahun tënd"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "krahun tënd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krahun e shtëpisë së atit tënd"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "krahun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "së atit tënd"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "që të mos ketë"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "plak"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "në shtëpinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:59.526951959Z",
+  "model": "glm-5.3"
+}

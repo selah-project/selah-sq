@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Por paçka, paçi nënshtrimin e tyre, kur dëgjoi ⟨את⟩ britmën e tyre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nënshtrimin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "britmën e tyre"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "britmën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:28.104835454Z",
+  "model": "glm-5.3"
+}

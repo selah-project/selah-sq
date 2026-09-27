@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "Lëvdoni Jah! të lumturin ⟨është⟩ njeriun që i frikohet ⟨את⟩ Jahvesë, që gjendet e dëshiruar ⟨në⟩ urdhrat e tij shumë.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "të lumturin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i frikohet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "në urdhrat e tij"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gjendet i dëshiruar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.286762893Z",
+  "model": "glm-5.3"
+}

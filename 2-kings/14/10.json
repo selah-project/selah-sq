@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Vërtet, mëdaje ⟨את⟩ Edomin, dhe zemra tët ka ngritur; krenarohu me këtë dhe rri në shtëpinë tënde; e pse do të ndezesh të keqen dhe të biesh ti dhe Juda me ty?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Vërtet, mëdaje"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ke mëdyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "dhe tët ka ngritur"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "krenarohu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dhe rri"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e pse"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "do të ndezesh"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "dhe të biesh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:51.986220082Z",
+  "model": "glm-5.3"
+}

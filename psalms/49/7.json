@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Ata që besojnë në pasurinë e tyre dhe mburren me shumicën e pasurisë së tyre —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Ata që besojnë"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "pasurinë e tyre"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "dhe me shumicën e"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "pasurisë së tyre"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "mburren"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:29.380004016Z",
+  "model": "glm-5.3"
+}

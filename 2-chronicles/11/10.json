@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ Tsorahun, dhe ⟨את⟩ Aijalonin, dhe ⟨את⟩ Hebronin, që ⟨janë⟩ në Judë dhe në Beniamin — qytete të fortifikuara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tsorahun"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Aijalonin"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aijalonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hebronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "në Judë"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "dhe në Beniamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "të fortifikuara"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:04.147987298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Mos përgjigju si dëshmitar i rrejshëm kundër të afërmit ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "përgjigju"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kundër të afërmit ⟨të⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si dëshmitar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "i rrejshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:16.012457648Z",
+  "model": "glm-5.3"
+}

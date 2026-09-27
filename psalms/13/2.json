@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Deri kur, o Jahve, do të më harrosh përjetë? Deri kur do të fsheh ⟨את⟩ fytyrën tënde nga unë?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "do të më harrosh"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "do të fsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.170232018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Ky muaj ⟨është⟩ për ju krye i muajve; i pari ⟨është⟩ ai për ju midis muajve të vitit.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ky muaj"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "krye"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "i muajve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "i pari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "midis muajve"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "të vitit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:37.473466325Z",
+  "model": "glm-5.3"
+}

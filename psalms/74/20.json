@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Shiko drejt besëlidhjes, sepse vendet e errëta të tokës janë plot me strofka dhune.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Shiko drejt"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "besëlidhjes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "janë plot"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "vendet e errëta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokës"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "me strofka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhune"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:22.217162798Z",
+  "model": "glm-5.3"
+}

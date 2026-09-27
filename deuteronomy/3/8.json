@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe morëm në atë kohë ⟨את⟩ tokën nga dora e dy mbretërve të Emorëve, që ishin përtej Jordanit, nga përroi i Arnonit deri në malin e Hermonit.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "dhe morëm"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë kohë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dera"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërve"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "të Emorëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "përtej"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanit"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "nga përroi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "i Arnonit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "e Hermonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:04.144691085Z",
+  "model": "glm-5.3"
+}

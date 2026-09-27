@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe Noa u zgjua nga vera e tij dhe e dini ⟨את⟩ atë që i kishte bërë bija i tij i vogli",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "dhe u zgjua"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "nga vera e tij"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dhe e dini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që i kishte bërë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bija i tij"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "i vogli"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:28.089651217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Shih ⟨את⟩ veprën e Elohimit, se kush mund ta drejtojë atë që ⟨את⟩ Ai e ka shtrembëruar?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Shih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprën"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohimit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ta drejtojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që Ai e ka shtrembëruar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "e ka shtrembëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:34.456357881Z",
+  "model": "glm-5.3"
+}

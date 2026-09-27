@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Sepse nuk njohu qetësi në barkun e tij; nga ajo që dëshiron, nuk do të shpëtojë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "njohu"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "qetësi"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "në barkun e tij"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "nga ajo që dëshiron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "do të shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:32:02.920774018Z",
+  "model": "glm-5.3"
+}

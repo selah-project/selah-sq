@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Në ditën e parë të muajit të parit, në të parin e muajit, do të ngritësh ⟨את⟩ Mishkanin, çadrën e takimit.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Në ditën"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "të parit"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "në të parin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "do të ngritësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:01.269461216Z",
+  "model": "glm-5.3"
+}

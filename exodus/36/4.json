@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe erdhën të gjithë të urtët që bënin ⟨את⟩ gjithë punën e shenjtërisë, secili nga puna e tij që po bënin ata.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe erdhën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "të urtët"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "që bënin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë punën e shenjtërisë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "punën"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjtërisë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili (njeri)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "nga puna e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "po bënin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:19.700031224Z",
+  "model": "glm-5.3"
+}

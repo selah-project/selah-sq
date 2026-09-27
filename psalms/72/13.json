@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Do të mëshirojë ⟨të⟩ varfin dhe të mbeturin, dhe shpirtrat e të mbeturve do t'i shpëtojë.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "do të mëshirojë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "varfin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe të mbeturin"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "dhe shpirtrat"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "e të mbeturve"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "do t'i shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.702120063Z",
+  "model": "glm-5.3"
+}

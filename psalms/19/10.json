@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Frika e Jahvesë ⟨është⟩ e pastër, që qëndron përjetë; gjykimet e Jahvesë ⟨janë⟩ të vërteta, të drejta të gjitha bashkë.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Frika e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "e pastër"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "që qëndron"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimet e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërteta"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "të drejta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "të gjitha bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:46.153621181Z",
+  "model": "glm-5.3"
+}

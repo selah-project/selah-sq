@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe mbreti i tha Amasait: Më thirr ⟨את⟩ njerëzit e Judës brenda tre ditësh, dhe ti qëndro këtu pranë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasait"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "më thirr"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e Judës"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditësh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "qëndro"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:26.440413168Z",
+  "model": "glm-5.3"
+}

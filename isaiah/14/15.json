@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Megjithatë, në Sheol do të zbritësh, në thellësitë e gropës.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "megjithatë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "do të zbritësh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "thellësitë e"
+    },
+    {
+      "surface": "בור",
+      "gloss": "gropës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:17.985152368Z",
+  "model": "glm-5.3"
+}

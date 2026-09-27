@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe do të hanë e nuk do të ngopen; janë kurorëshkelë e nuk do të shtohen, sepse ⟨את⟩ Jahve e kanë braktisur, duke mos e ruajtur.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "dhe do të hanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nuk"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "do të ngopen"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "janë kurorëshkelë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "do të shtohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "e kanë braktisur"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "duke mos e ruajtur"
+    }
+  ],
+  "timestamp": "2026-09-27T18:28:52.527113641Z",
+  "model": "glm-5.3"
+}

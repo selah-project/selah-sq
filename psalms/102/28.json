@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Dhe ti ⟨je⟩ ⟨i⟩ ⟨njëjtë⟩, dhe vitet e tua nuk do të përfundojnë.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dhe ti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨i njëjtë⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "dhe vitet e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "do të përfundojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.225171189Z",
+  "model": "glm-5.3"
+}

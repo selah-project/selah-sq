@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "⟨את⟩ krejt fjalën që unë ⟨את⟩ ju urdhëroj, ⟨אתו⟩ ta ruani për ta zbatuar; mos shto mbi të dhe mos iu ul nga ⟨ajo⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krejt fjalën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "urdhëroj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ta ruani (objekti: fjalën)"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ta ruani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për ta zbatuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "shto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "iu ul"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ⟨ajo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:04.325534631Z",
+  "model": "glm-5.3"
+}

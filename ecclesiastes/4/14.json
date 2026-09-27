@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sepse nga shtëpia e të burgosurve doli të mbretërojë, sepse edhe në mbretërinë e tij lindi i varfër.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "e të burgosurve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "të mbretërojë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "në mbretërinë e tij"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "i varfër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:15.938698016Z",
+  "model": "glm-5.3"
+}

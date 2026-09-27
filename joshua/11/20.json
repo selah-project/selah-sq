@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 11:20",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse nga ⟨את⟩ Jahve erdhi që t'u forcohej ⟨את⟩ zemra e tyre për të dalë në luftë kundër ⟨את⟩ Izraelit, me qëllim që t'i shfarosin si të shenjtëruar për shkatërrim, pa pasur mëshirë për ta — sepse qëllim kishte shfarosjen e tyre, ashtu siç urdhëroi Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "që të forcohej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemra e tyre"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemra e tyre"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "për të dalë në"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelit (kundër Izraelit)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "me qëllim që"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "t'i shfarosin si të shenjtëruar për shkatërrim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pa pasur"
+    },
+    {
+      "surface": "היות",
+      "gloss": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "mëshirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "qëllim kishte"
+    },
+    {
+      "surface": "השמידם",
+      "gloss": "shfarosjen e tyre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:57.473129514Z",
+  "model": "glm-5.3"
+}

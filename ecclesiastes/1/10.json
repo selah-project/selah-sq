@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ka ⟨ndonjë⟩ gjë për të cilën dikush të thotë: «Shiko, kjo është e re»? Ajo ka qenë tashmë përjetësisht, në kohërat që ishin para nesh.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gjë"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "për të cilën dikush të thotë"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Shiko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e re"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tashmë"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "para nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:55.357174334Z",
+  "model": "glm-5.3"
+}

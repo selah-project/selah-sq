@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Thyer, ⟨është⟩ thyer toka; shkatërruar, ⟨është⟩ shkatërruar toka; e tundur, ⟨është⟩ tundur toka.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "thyer"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "është thyer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "פור",
+      "gloss": "shkatërruar"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "është shkatërruar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "e tundur"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "është tundur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:35.375313475Z",
+  "model": "glm-5.3"
+}

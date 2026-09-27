@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi që, sepse moaçet iu frikësuan ⟨Elohimit⟩, ⟨Ai⟩ u bëri atyre shtëpi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "iu frikësuan"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "moaçet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "u bëri atyre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:36.311994176Z",
+  "model": "glm-5.3"
+}

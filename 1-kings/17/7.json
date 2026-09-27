@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe ndodhi pas një kohe, dhe u tha përroji, sepse nuk kishte shi në ⟨të⟩ gjithë vendin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pas fundit të"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditëve"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "përroji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:32.187515820Z",
+  "model": "glm-5.3"
+}

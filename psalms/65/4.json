@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Fjalët e paudhësive më mbivendosën; shkeljet tona — ti do t'i mbulosh ⟨i⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Fjalët"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "e paudhësive"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "më mbivendosën"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "shkeljet tona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "do t'i mbulosh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:17.115871299Z",
+  "model": "glm-5.3"
+}

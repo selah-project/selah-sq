@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Frika dhe dridhja vijnë mbi mua, dhe tmerri më ka mbuluar.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Frika"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "dhe dridhja"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vijnë"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "dhe më ka mbuluar"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tmerr"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.586872777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Për shkak se Abrahami dëgjoi zërin tim dhe ruajti rojin tim, urdhërimet e mia, statutet e mia dhe Torat e mia.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "për shkak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "dhe ruajti"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "rojin tim"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhërimet e mia"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "וותורתי",
+      "gloss": "dhe Torat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:10.709884330Z",
+  "model": "glm-5.3"
+}

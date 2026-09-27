@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Duke thënë: Elohim e ka braktisur ⟨atë⟩; ndiqni dhe kapni ⟨atë⟩, sepse s'ka kush ta shpëtojë",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "e ka braktisur"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ndiqni"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "dhe kapni ⟨atë⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kush ta shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:52.045240782Z",
+  "model": "glm-5.3"
+}

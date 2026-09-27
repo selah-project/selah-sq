@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Shpëto, o Jahve, se i devotshmi ka marrë fund, se të besueshmit kanë zhdukur nga bijtë e njerëzve.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Shpëto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ka marrë fund"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "i devotshmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "kanë zhdukur"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "të besueshmit"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nga bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:54.930983489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do t'i sjellësh ⟨את⟩ levitët përballë Jahvesë, dhe bijtë e Izraelit do të mbështesin ⟨את⟩ duart e tyre mbi levitët.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dhe do t'i sjellësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitët"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dhe do të mbështesin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:04.804351253Z",
+  "model": "glm-5.3"
+}

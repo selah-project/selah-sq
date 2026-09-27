@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Le të ngjitet gjuha ime në qiellzën time, nëse nuk të kujtoj ty, nëse ngrit ⟨את⟩ Jeruzalemin mbi gëzimin tim më të madh.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "le të ngjitet"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuha ime"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "në qiellzën time"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "nuk të kujtoj ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën \/ kryefaqen"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "të gëzimit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:36.806142832Z",
+  "model": "glm-5.3"
+}

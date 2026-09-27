@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Isaku e donte ⟨את⟩ Esavin, sepse gjahu ishte në gojën e tij; dhe Rebeka e donte ⟨את⟩ Jakovin.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "e donte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "gjah"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ishte në gojën e tij"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "dhe Rebeka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "e donte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakovin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakovin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:01.583212676Z",
+  "model": "glm-5.3"
+}

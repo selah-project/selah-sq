@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe materiali ishte i mjaftueshëm për gjithë punën, për ta bërë ⟨אתה⟩, dhe mbeti tepricë.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "dhe materiali"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "דים",
+      "gloss": "i mjaftueshëm"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për gjithë"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "punën"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për ta bërë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "punën"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "dhe mbeti tepricë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:11.895814099Z",
+  "model": "glm-5.3"
+}

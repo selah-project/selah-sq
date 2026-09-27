@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "djegje në vend të djegjes, plagë në vend të plagës, shqim në vend të shqimit.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "djegje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "djegjes"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "plagë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "plagës"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "shqim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "shqimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:29.160796675Z",
+  "model": "glm-5.3"
+}

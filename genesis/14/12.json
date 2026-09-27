@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe morën ⟨את⟩ Lotin dhe ⟨את⟩ pasurinë e tij, birin e vëllait të Avramit, dhe shkuan; dhe ⟨ai⟩ rrinte në Sodomë.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pasurinë e tij"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "pasurinë e tij"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "i vëllait"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "e Avramit"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨ai⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rinte"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "në Sodomë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:45.593876758Z",
+  "model": "glm-5.3"
+}

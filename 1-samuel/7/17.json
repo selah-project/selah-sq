@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe kthimi i tij ishte ⟨i⟩ Rama-së, sepse atje ishte shtëpia e tij, dhe atje ai gjykonte ⟨את⟩ Israelin; dhe atje ai ndërtoi një altar për Jahvenë.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "dhe kthimi i tij"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Rama-së"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpia e tij"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe atje"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "gjykonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ai ndërtoi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:57.758257048Z",
+  "model": "glm-5.3"
+}

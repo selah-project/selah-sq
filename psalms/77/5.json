@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Ti mbaresh rojet e syve të mi; jam i tronditur dhe nuk flas.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "mbaresh"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "rojet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "e syve të mi"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "jam i tronditur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "flas"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:56.611668132Z",
+  "model": "glm-5.3"
+}

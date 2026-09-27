@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "sepse ne po shkatërrojmë ⟨את⟩ vendin këtë, sepse është bërë e madhe klama e tyre përpara ⟨את⟩ fytyrës së Jahvesë, dhe Jahve na dërgoi ta shkatërrojmë atë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "po shkatërrojmë"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "është bërë e madhe"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "klama e tyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrës së Jahvesë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "na dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "ta shkatërrojmë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:43.172819999Z",
+  "model": "glm-5.3"
+}

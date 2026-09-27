@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse kush është Eloah përveç Jahves? Dhe kush është shkëmb përveç Elohimit tonë?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Dhe kush"
+    },
+    {
+      "surface": "צור",
+      "gloss": "shkëmb"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimit tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:13.466255031Z",
+  "model": "glm-5.3"
+}

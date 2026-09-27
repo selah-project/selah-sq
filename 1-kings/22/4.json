@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe i tha Jehoshafatit: A do tëlesh me ⟨את⟩ mua në luftën e Ramaot-Gileadit? Dhe Jehoshafati i tha mbretit të Izraelit: Si unë ashtu ti; si populli im ashtu populli yt; si kuajt e mi ashtu kuajt e tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(drejtpërdrejt)"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafatit"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "A do tëlesh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua (shoqëruesi i mbretit)"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "në luftën"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "e Ramaot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(drejtpërdrejt)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Si unë"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ashtu ti"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "si populli im"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "ashtu populli yt"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "si kuajt e mi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "ashtu kuajt e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:10.305044218Z",
+  "model": "glm-5.3"
+}

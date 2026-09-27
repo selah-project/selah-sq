@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ju do t'ju nxjerr ⟨את⟩ nga mesi i saj, dhe ju do t'ju jap ⟨את⟩ në dorë të të huajve, dhe do të zbatonj në ju gjykime.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "do të nxjerr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (dalja nga mesi i saj)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "nga mesi i saj"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do t'ju jap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (dorëzimi në dorë të të huajve)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "të huajsh"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "dhe do të zbatonj"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "në ju"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "gjykime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:27:47.615391270Z",
+  "model": "glm-5.3"
+}

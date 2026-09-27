@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sipas veprave të vendit të Egjiptit, ku jetuat, të mos bëni; dhe sipas veprave të vendit të Kanaanit, ku unë po ju çoj ⟨את⟩ atje, të mos bëni; dhe në statutet e tyre të mos ecni.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "sipas veprave"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "jetuat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "të bëni"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "dhe sipas veprave"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "po çoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "të bëni"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "dhe në statutet e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "të ecni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:36.483664070Z",
+  "model": "glm-5.3"
+}

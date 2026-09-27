@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ajo mbeti shtatzënë dhe lindi një djalë, dhe ai quajti ⟨את⟩ emrin e tij Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dhe ajo mbeti shtatzënë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe ai quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:55.195731475Z",
+  "model": "glm-5.3"
+}

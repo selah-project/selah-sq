@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "atëherë babai i vajzës dhe e ëma e saj do të marrin dhe do të nxjerrin ⟨את⟩ shenjat e virgjërisë së vajzës para pleqve të qytetit, në portë.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "do të marrin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babai i"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vajzës"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe e ëma e saj"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "dhe do të nxjerrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shenjat e virgjërisë së vajzës"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "shenjat e virgjërisë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "së vajzës"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqve të"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "në portë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:41.849879516Z",
+  "model": "glm-5.3"
+}

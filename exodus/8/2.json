@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Aaroni shqeu ⟨את⟩ dorën e tij mbi ujrat e Egjiptit, dhe bretkosa u ngjit dhe mbuloi ⟨את⟩ tokën e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "shqeu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ujrat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "bretkosa"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dhe mbuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Egjiptit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:55.103657100Z",
+  "model": "glm-5.3"
+}

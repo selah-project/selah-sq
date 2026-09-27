@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Era e lidhi atë ⟨את⟩ nën krahët e saj, dhe do të turpërohen nga flijimet e tyre.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "e lidhi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "era"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "nën krahët e saj"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dhe do të turpërohen"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "nga flijimet e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:41:48.375864290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Toka juaj ⟨është⟩ shkretëtirë, qytetet tuaja janë djegur me zjarr; tokën tuaj, përballë jush të huajt po e hanë ⟨את⟩ atë, dhe ⟨është⟩ shkretënim si përmbysje e të huajve.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "toka juaj"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "qytetet tuaja"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "janë djegur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tokën tuaj"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "përballë jush"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "të huajt"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "po e hanë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (tokën tuaj)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "dhe shkretënim"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "si përmbysje"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "e të huajve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:58.672616521Z",
+  "model": "glm-5.3"
+}

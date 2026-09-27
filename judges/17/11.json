@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe leviti pranoi të banonte ⟨את⟩ ⟨me⟩ njeriun, dhe i riu iu bë atij si një nga bijtë e tij.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "dhe pranoi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "të banonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe iu bë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "i riu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "si një"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "nga bijtë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:08:16.147542244Z",
+  "model": "glm-5.3"
+}

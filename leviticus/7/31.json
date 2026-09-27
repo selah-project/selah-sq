@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe prifti le ta djegë ⟨את⟩ yndyrën mbi altar, dhe gjoksi do të jetë i Aaronit dhe i bijve të tij.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Dhe le ta djegë si temjan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "gjoksi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aaronit"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dhe i bijve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:03.872598819Z",
+  "model": "glm-5.3"
+}

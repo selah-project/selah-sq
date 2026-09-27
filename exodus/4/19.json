@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tha Jahve te Moisi në Madian: «Shko, kthehu në Egjipt, sepse kanë vdekur të gjithë njerëzit që kërkonin ⟨את⟩ jetën tënde.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "në Madian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kanë vdekur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "që kërkonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jetën tënde"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jetën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:33.658139626Z",
+  "model": "glm-5.3"
+}

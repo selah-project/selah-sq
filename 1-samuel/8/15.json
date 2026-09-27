@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe farën tuaj dhe vreshtat tuaj do t'i dhjetëfishojë, dhe do t'ua japë evnakëve të tij dhe shërbëtorëve të tij.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "farën tuaj"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "vreshtat tuaj"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "do t'i dhjetëfishojë"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe do t'ua japë"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "evnakëve të tij"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "shërbëtorëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:16.139421389Z",
+  "model": "glm-5.3"
+}

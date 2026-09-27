@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "që s'ka për ⟨të⟩ as kryetar, as mbikëqyrës e as sundimtar;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për ⟨të⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "kryetar"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "mbikëqyrës"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "as sundimtar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:05.929693783Z",
+  "model": "glm-5.3"
+}

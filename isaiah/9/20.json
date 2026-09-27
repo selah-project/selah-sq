@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Manasi ⟨את⟩ Efraimin, dhe Efraimi ⟨את⟩ Manasin, bashkë ⟨ata⟩ kundër Judës. Me gjithë këtë zemërimi i Tij nuk u kthye, dhe ende dora e Tij është e shtrirë.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Manasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "dhe Efraimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ata⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimi i Tij"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dhe ende"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e Tij"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "e shtrirë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:00.872919843Z",
+  "model": "glm-5.3"
+}

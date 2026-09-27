@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Jahve e ka zbuluar ⟨את⟩ krahun e shenjtë të tij para syve të të gjitha kombeve, dhe të gjitha skajet e tokës do të shohin ⟨את⟩ shpëtimin e Elohim-it tonë.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ka zbuluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krahun e shenjtë të tij"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "krahun"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "e shenjtë të tij"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "para syve të"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dhe do të shohin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "skajet e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpëtimin e Elohim-it tonë"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "shpëtimin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "e Elohim-it tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:02.386158021Z",
+  "model": "glm-5.3"
+}

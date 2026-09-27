@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Labani tha: Më mirë ⟨është⟩ të ta jap ⟨את⟩ atë ⟨ty⟩ sesa ta jap ⟨את⟩ atë një njeriu tjetër; rri pranë meje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "më mirë"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "të ta jap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ajo = Rahela)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "sesa ta jap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ajo = Rahela)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "rri"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pranë meje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:57.230596167Z",
+  "model": "glm-5.3"
+}

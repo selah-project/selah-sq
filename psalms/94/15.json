@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Sepse gjykimi do të kthehet drejt drejtësisë, dhe pas saj ⟨do të vijnë⟩ të gjithë të drejtit e zemrës.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësisë"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykimi"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "dhe pas saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "e zemrës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:59.967899267Z",
+  "model": "glm-5.3"
+}

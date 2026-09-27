@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Kur vëllai yt varfërohet dhe shet ⟨nga⟩ trashëgimia e tij, dhe vjen shpenguesi i tij, i afërmi i tij, dhe shpengon ⟨את⟩ shitjen e vëllait të tij,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "varfërohet"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "dhe shet"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "nga trashëgimia e tij"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe vjen"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "shpenguesi i tij"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "i afërmi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "dhe shpengon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shitjen"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "shitjen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "të vëllait të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:22.133284978Z",
+  "model": "glm-5.3"
+}

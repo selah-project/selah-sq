@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Sepse ata që e mblodhën ⟨atë⟩ do ta hanë dhe do të lëvdojnë ⟨את⟩ Jahven, dhe ata që e mblodhën ⟨atë⟩ do ta pinë në oborret e shenjta të mia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ata që e mblodhën"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "do ta hanë"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "dhe do të lëvdojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "dhe ata që e mblodhën"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "do ta pinë"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "në oborret"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "të shenjta të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:56.736026883Z",
+  "model": "glm-5.3"
+}

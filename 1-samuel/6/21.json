@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe dërguan lajmëtarë te banorët e Kirjat-Jearimit, duke thënë: «Filistët e kthyen ⟨את⟩ arkën e Jahves; zbritni, ngjitni ⟨אתו⟩ lart te ju.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lajmëtarë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearimit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "e kthyen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "zbritni"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ngjitni lart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (arkanë)"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "te ju"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:54.349230824Z",
+  "model": "glm-5.3"
+}

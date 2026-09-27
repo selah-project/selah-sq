@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Te Davidi. Te ti, o Jahve, shpirtin tim e ngre.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Te Davidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "e ngre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.616839088Z",
+  "model": "glm-5.3"
+}

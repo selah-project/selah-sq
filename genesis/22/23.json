@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Bethueli lindi ⟨את⟩ Rebekën. Këta tetë i lindi Milka Nahorit, vëllait të Abrahamit.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Dhe Bethueli"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebekën"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i lindi"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nahorit"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllait të"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:16.954495915Z",
+  "model": "glm-5.3"
+}

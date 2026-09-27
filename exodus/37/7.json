@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai bëri dy kerubinë prej ari; prej punë të farkëtuar i bëri ⟨אתם⟩ ata, nga skajet e kapatores, nga të dy skajet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe ai bëri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubinë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "prej ari"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "prej punë të farkëtuar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i bëri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ata (kerubinët)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "nga të dy"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "e kapatores"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:25.221018853Z",
+  "model": "glm-5.3"
+}

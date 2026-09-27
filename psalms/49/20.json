@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "⟨Ai⟩ do të shkojë te brezi i etërve të tij; përjetë nuk do të shohin dritën.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "do të shkojë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "te"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "i etërve të tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "do të shohin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.273184522Z",
+  "model": "glm-5.3"
+}

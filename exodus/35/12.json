@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "⟨את⟩ Arkën dhe ⟨את⟩ shufrat e saj, ⟨את⟩ kapakë-faljes dhe ⟨את⟩ perden e mbulesës;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arkën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shufrat e saj"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "shufrat e saj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapakë-faljes"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapakë-faljes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "perden"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perden"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "e mbulesës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:42.207686275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe bijtë e Izraelit i dhanë Levitëve ⟨את⟩ qytetet dhe ⟨את⟩ kullotat e tyre.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dhanë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Levitëve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tyre"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "kullotat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:16.219176631Z",
+  "model": "glm-5.3"
+}

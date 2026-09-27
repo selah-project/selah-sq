@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe iu njoftua Saulit se Davidi kishte ikur në Gat, dhe ai nuk shtoi më ta kërkonte.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe iu njoftua"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kishte ikur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "në Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "shtoi më"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ta kërkonte"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:44.916440411Z",
+  "model": "glm-5.3"
+}

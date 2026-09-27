@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Kur kthehen prapa armiqtë e mi, ⟨ata⟩ pengohen dhe shkatërrohen nga para jote.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "kur kthehen"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "prapa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "pengohen"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "dhe shkatërrohen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nga para jote"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:18.853764915Z",
+  "model": "glm-5.3"
+}

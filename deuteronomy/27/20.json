@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I malluar që shtrihet me ⟨את⟩ gruan e të atit të vet, sepse i ka zbuluar cepin e rrobës së të atit të vet; dhe gjithë populli do të thotë: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i malluar"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "shtrihet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e të atit të vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "i ka zbuluar"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cepin e rrobës"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të të atit të vet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe do të thotë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:59.636069925Z",
+  "model": "glm-5.3"
+}

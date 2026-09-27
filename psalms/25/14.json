@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sodi i Jahvesë është për ata që i frikësohen atij, dhe besëlidhja e tij — për t'ua bërë të njohur.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "për ata që i frikësohen atij"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "dhe besëlidhja e tij"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "për t'ua bërë të njohur"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:55.340257323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ndodhi, kur mbretëria u forcua mbi të, ai vrau ⟨את⟩ shërbëtorët e tij që kishin goditur ⟨את⟩ mbretin, atin e tij.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "u forcua"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ai vrau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "që kishin goditur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:15:19.642496728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Esau tha: Të lë, të lutem, disa nga njerëzit që ⟨janë⟩ ⟨את⟩ me mua. Dhe ai tha: Pse ⟨është⟩ kjo? Të gjej hir në sytë e zotërisë sime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "të lë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua",
+      "marks": "njerëzit që janë me mua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "të gjej"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "të zotërisë sime"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:30.306574752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Dhe thesin e bëra veshjen time, dhe u bëra për ta një fjalë e thënë.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "dhe e bëra"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "veshjen time"
+    },
+    {
+      "surface": "שק",
+      "gloss": "thesin"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dhe u bëra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "një fjalë e thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:49.623980632Z",
+  "model": "glm-5.3"
+}

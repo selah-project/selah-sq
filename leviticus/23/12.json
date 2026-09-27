@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe në ditën kur ta valëvizni ⟨את⟩ omerin, do të përgatitni një dash të pjekur, pa meta, bir të vitit të tij, si flijim të djegur për Jahve.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do të përgatitni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "kur ta valëvizni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "dash"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "pa meta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "të vitit të tij"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "si flijim të djegur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:32.677586535Z",
+  "model": "glm-5.3"
+}

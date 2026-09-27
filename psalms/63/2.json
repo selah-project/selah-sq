@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "O Elohim, ⟨ti⟩ je El-i im; të kërkoj në agim; shpirti im etjen për ty, mishi im mallkon për ty, në një tokë të thatë dhe të lodhur, pa ujë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-i im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "të kërkoj në agim"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "eton"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mallkon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mishi im"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në një tokë"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "të thatë"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "dhe të lodhur"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:28.621307935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "sepse këtë herë unë po dërgoj ⟨את⟩ të gjitha goditjet e mbi zemrën tënde, dhe mbi shërbëtorët e tu, dhe mbi popullin tënd, që të dish se nuk ka ⟨as⟩ si unë në gjithë ⟨të⟩ dheun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "këtë herë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "po dërgoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha goditjet e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "goditjet e mbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "dhe mbi shërbëtorët e tu"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "dhe mbi popullin tënd"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "që"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "të dish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "si unë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:02.476860972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe bëri një altar prej bronzi, njëzet kubitë gjatësia e tij, dhe njëzet kubitë gjerësia e tij, dhe dhjetë kubitë lartësia e tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "prej bronzi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e tij"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dhe njëzet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e tij"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dhe dhjetë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "lartësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:37:30.017458014Z",
+  "model": "glm-5.3"
+}

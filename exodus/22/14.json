@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse zotëriu i saj ⟨është⟩ me të, nuk dëmshpërblen; nëse ⟨ajo⟩ ⟨është⟩ marrë me qera, ⟨ajo⟩ erdhi me qiranë e saj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zotëriu i saj"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dëmshpërblen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "marrë me qera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "me qiranë e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:21.477764680Z",
+  "model": "glm-5.3"
+}

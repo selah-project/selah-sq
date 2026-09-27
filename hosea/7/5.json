@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Ditë e mbretit tonë! Principatët u dobësuan nga {{ndezja e verës}}; ai zgjati dorën e tij ⟨me⟩ ⟨את⟩ tallësit.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ditë"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "e mbretit tonë"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "u dobësuan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "Principatët"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nga {{ndezja}}"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "e verës"
+    },
+    {
+      "surface": "משך",
+      "gloss": "zgjati"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tallësit"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "tallësit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:54.075292228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe më tha: Qëndro, të lutem, mbi mua dhe më vrit, sepse më ka kapur shigjeta, se fryma ime është ende e gjithë në mua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "Qëndro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "dhe më vrit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "më ka kapur"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "shigjeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fryma ime"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:53.140968513Z",
+  "model": "glm-5.3"
+}

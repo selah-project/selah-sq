@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Zabuloni nuk i dëboi ⟨את⟩ banorët e Kitronit, as ⟨את⟩ banorët e Nahalolit; dhe kananasi banoi në mes të tij, dhe iu nënshtruan si tatopagues.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zabuloni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "i dëboi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e Kitronit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitronit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "as ⟨את⟩",
+      "marks": "banorët e Nahalolit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalolit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kananasi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në mes të tij"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe iu bënë"
+    },
+    {
+      "surface": "למס",
+      "gloss": "si tatopagues"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:08.077526683Z",
+  "model": "glm-5.3"
+}

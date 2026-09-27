@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ndodhi, kur erdhi Jozifi te vëllezërit e tij, se i zhveshën ⟨את⟩ Jozifin ⟨את⟩ tunikën e tij, ⟨את⟩ tunikën e pasit që ⟨ishte⟩ mbi të.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "i zhveshën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozifin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunikën e tij"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "tunikën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunikën e pasit"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tunikën"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "të pasit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:09.628604130Z",
+  "model": "glm-5.3"
+}

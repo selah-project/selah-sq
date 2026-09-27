@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe unë, ja, unë po e ngre besëlidhjen time ⟨את⟩ me ju ⟨אתכם⟩ dhe ⟨את⟩ me pasardhësit tuaj pas jush.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "po e ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ me ju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "pasardhësit tuaj"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "pas jush"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:02.866007612Z",
+  "model": "glm-5.3"
+}

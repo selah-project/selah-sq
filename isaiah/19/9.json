@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe do të turpërohen punëtorët e lirit të krehur, dhe endësit e pëlhurës së bardhë.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "dhe do të turpërohen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "punëtorët"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "e lirit"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "të krehur"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "dhe endësit"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "të pëlhurës së bardhë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:31.338994931Z",
+  "model": "glm-5.3"
+}

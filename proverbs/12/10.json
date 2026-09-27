@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "I drejti njeh shpirtin e kafshës së vet, por mëshirat e të ligjve ⟨janë⟩ të pamëshirshme.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "njeh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "I drejti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "e kafshës së vet"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "por mëshirat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligjve"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "të pamëshirshme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.241302020Z",
+  "model": "glm-5.3"
+}

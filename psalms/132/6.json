@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Ja, e dëguam ⟨atë⟩ në Efrata, e gjetëm ⟨atë⟩ në fushat e pyllit.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "e dëguam ⟨atë⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "në Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "e gjetëm ⟨atë⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "në fushat e"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pyllit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:46.435585995Z",
+  "model": "glm-5.3"
+}

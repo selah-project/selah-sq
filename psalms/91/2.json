@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Do të them për Jahven: «Streha ime dhe kështjella ime ⟨është⟩; Elohai, në të kam besim.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "do të them"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dhe kështjella ime"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "kam besim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.066523913Z",
+  "model": "glm-5.3"
+}

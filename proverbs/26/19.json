@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "kështu ⟨është⟩ njeriu që tradhton ⟨את⟩ të afermin e vet dhe thotë: «A s'po luj unë?»",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "tradhton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të afermin e vet"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "të afermin e vet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thotë"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "A s'"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "po luj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:06.713690764Z",
+  "model": "glm-5.3"
+}

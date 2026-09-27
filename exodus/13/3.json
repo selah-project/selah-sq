@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Moisi i tha ⟨popullit⟩: Kujto ⟨את⟩ këtë ditë, në të cilën doli nga Egjipti, nga shtëpia e robërisë, sepse me dorë të fortë ju nxori Jahve ⟨ju⟩ nga këtu; dhe brumi i fermentuar nuk mund të hahet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë ditë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilën"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "doli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "e robërisë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "me... të fortë"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga këtu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hahet"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "brumi i fermentuar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:56.174490933Z",
+  "model": "glm-5.3"
+}

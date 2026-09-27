@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Këta janë bijtë e Esavit, dhe këta janë princat e tyre; ai është Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavit"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "princat e tyre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai është"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:36.960729789Z",
+  "model": "glm-5.3"
+}

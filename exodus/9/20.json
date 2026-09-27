@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Ai që u frikëua nga fjala e Jahvesë, nga shërbëtorët e Faraonit, i çoi në ikje ⟨את⟩ shërbëtorët e tij dhe ⟨את⟩ kafshët e tij drejt shtëpive.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ai që u frikëua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "nga shërbëtorët"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "i çoi në ikje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kafshët e tij"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kafshët e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "shtëpive"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:15.679573161Z",
+  "model": "glm-5.3"
+}

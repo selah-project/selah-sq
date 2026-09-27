@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Ditën dielli nuk do të të godasë, as hëna natën.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ditën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "do të të godasë"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "as hëna"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "natën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:55.180143876Z",
+  "model": "glm-5.3"
+}

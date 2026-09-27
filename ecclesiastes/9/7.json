@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Shko, ha me gëzim bukën tënde dhe pi me zemër të mirë verën tënde, sepse prej kohësh Elohim është kënaqur me ⟨את⟩ veprat e tua.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "me gëzim"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bukën tënde"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dhe pi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "me zemër"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "verën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "prej kohësh"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "është kënaqur"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprat e tua"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:10.090290961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Moisi i tha asamblenës: Ky është fjala që urdhëroi Jahve të bëhet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asamblenës"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ky"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "është fjala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bëhet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:57.538940401Z",
+  "model": "glm-5.3"
+}

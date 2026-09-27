@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Sauli tha: «Hidhni mes meje dhe mes Jonatanit, birit tim.» Dhe u zgjodh Jonatani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "hidhni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mes meje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birit tim"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dhe u zgjodh"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatani"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:25.387327704Z",
+  "model": "glm-5.3"
+}

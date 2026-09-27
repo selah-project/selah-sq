@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Nëse sjell një delen si flijimin e tij, do ta sjellë ⟨אתו⟩ përballë Jahvesë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "një delen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "sjell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e tij"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "flijimin e tij"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "do ta sjellë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "përballë Jahvesë (kundrinori i sjelljes)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:24.656940474Z",
+  "model": "glm-5.3"
+}

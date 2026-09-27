@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "Shpirti tonë ⟨është⟩ shpëtuar si një zog nga kurthi i gjuetarëve; kurthi u thye, dhe ne shpëtuam.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Shpirti tonë"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "si një zog"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "⟨është⟩ shpëtuar"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "nga kurthi"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "i gjuetarëve"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "kurthi"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "u thye"
+    },
+    {
+      "surface": "ו אנחנו",
+      "gloss": "dhe ne"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "shpëtuam"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:52.486049047Z",
+  "model": "glm-5.3"
+}

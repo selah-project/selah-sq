@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Kërko nga unë, dhe do të të jap kombe si trashëgiminë tënde, dhe si pasurinë tënde skajet e dheut.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kërko"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dhe do të të jap"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "trashëgiminë tënde"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "dhe si pasurinë tënde"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:31.608259025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Jahve, ti do të na caktosh paqen, sepse edhe të gjitha veprat tona ti i ke punuar për ne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "do të na caktosh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "veprat tona"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ti i ke punuar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:18.851408899Z",
+  "model": "glm-5.3"
+}

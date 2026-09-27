@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 114,
+  "translation": "Nga prania e Adon-it, dridhu, o tokë; nga prania e Eloah-ut të Jakobit!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "nga prania e"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adon-it"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "dridhu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o tokë"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nga prania e"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah-ut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "të Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.988178151Z",
+  "model": "glm-5.3"
+}

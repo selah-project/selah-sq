@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe derdhi nga vaji i vajimit mbi kokën e Aaronit, dhe e vajoi ⟨אתו⟩ atë për ta shenjtëruar.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "dhe derdhi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "nga vaji"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "i vajimit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dhe e vajoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "për ta shenjtëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:24.172756230Z",
+  "model": "glm-5.3"
+}

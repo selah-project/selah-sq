@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai bëri ⟨את⟩ tryezën nga drurë akacie: dy kubitë gjatësia e saj, një kubitë gjerësia e saj, dhe një kubitë e gjysmë lartësia e saj.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tryezën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryezën"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drurë"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dy kubitë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubitë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubitë"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "lartësia e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:23.533279608Z",
+  "model": "glm-5.3"
+}

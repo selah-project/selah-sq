@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Aminadabi lindi ⟨את⟩ Nahshonin, dhe Nahshoni lindi ⟨את⟩ Salmonin.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "dhe Aminadabi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshonin"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshonin"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "dhe Nahshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmonin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmonin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:19.475827853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Kryefjala e fjalës tënde është e vërteta, dhe përjetë çdo gjykim i drejtësisë sate.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Kryefjala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "e fjalës tënde"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "është e vërteta"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "dhe përjetë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "i drejtësisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:17.549322337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe një të huaj të mos e shtypësh, sepse ju e dini ⟨את⟩ shpirtin e të huajit — ju vetë ishit të huaj në vendin e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "dhe një të huaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "e shtypësh"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ju vetë"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "e dini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin e të huajit"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "të huajit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "të huaj"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ishit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:09.419272480Z",
+  "model": "glm-5.3"
+}

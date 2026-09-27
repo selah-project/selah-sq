@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Është shkatërruar fusha, vajton ⟨toka⟩, sepse është shkatërruar gruri, është tharë verë e re, vuan vaji i ullirit.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "është shkatërruar"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fusha"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "vajton"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "toka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "është shkatërruar"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gruri"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "është tharë"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "verë e re"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "vuan"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "vaji i ullirit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:58.709895165Z",
+  "model": "glm-5.3"
+}

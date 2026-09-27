@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Ruan Jahve ⟨את⟩ të gjithë të dashurit e tij, dhe ⟨את⟩ të gjithë të pabesët do t'i shfarosë.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Ruan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të dashurit e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "të dashurit e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të pabesët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "do t'i shfarosë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:39.649778617Z",
+  "model": "glm-5.3"
+}

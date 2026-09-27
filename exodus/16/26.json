@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Gjashtë ditë do ta mblidhni, dhe në ditën e shtatë — Shabat — nuk do të ketë në të.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Gjashtë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "do ta mblidhni"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dhe në ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:18.787035027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dani dhe Neftali, Gadi dhe Asheri.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "dhe Neftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe Asheri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:16.553676208Z",
+  "model": "glm-5.3"
+}

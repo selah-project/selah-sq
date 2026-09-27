@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe thanë: A duhet ⟨si⟩ me një kurvë të veprojë me motrën tonë ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "me një kurvë"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "të veprojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motrën tonë"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "motrën tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:37.197686346Z",
+  "model": "glm-5.3"
+}

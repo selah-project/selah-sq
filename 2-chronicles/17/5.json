@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jahve forcoi ⟨את⟩ mbretërinë në dorën e tij, dhe gjithë Juda i dha minha Jehoshafatit, dhe ai pati pasuri dhe nder në mbushulli.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretërinë"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretërinë"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Jehoshafatit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pasuri"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dhe nder"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "në mbushulli"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:05.200530281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Shtove kombit, o Jahve, shtove kombit, u lartësove, i zgjate larg të gjitha skajet e tokës.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "shtove"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kombit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "shtove"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kombit"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "u lartësove"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "i zgjate larg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:19.892081505Z",
+  "model": "glm-5.3"
+}

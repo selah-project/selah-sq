@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe emri i lumit të dytë ⟨është⟩ Gihon; ai ⟨është⟩ ai që rrethon ⟨את⟩ gjithë tokën e Kushit.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Dhe emri"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "i lumit"
+    },
+    {
+      "surface": "השני",
+      "gloss": "të dytë"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gihon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "që rrethon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë tokën e Kushit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "e Kushit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:05.814656874Z",
+  "model": "glm-5.3"
+}

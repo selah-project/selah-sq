@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Mos ⟨e⟩ dorëzo një rob te zotëria i vet, i cili është shpëtuar te ti nga zotëria i vet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "dorëzo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "një rob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotëria i vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "është shpëtuar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotëria i vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:09.815918603Z",
+  "model": "glm-5.3"
+}

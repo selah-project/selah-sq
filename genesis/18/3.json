@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "dhe tha: Adonai, nëse kam gjetur hir në sytë e tu, mos kalo, të lutem, nga robi yt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "kam gjetur"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "në sytë e tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robi yt"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:20.479344482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Sepse Jahve dëgjon të varfrit, dhe ⟨את⟩ të burgosurve të tij nuk i përçmon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të burgosurve të tij"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "të burgosurve të tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "përçmon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:54.248579668Z",
+  "model": "glm-5.3"
+}

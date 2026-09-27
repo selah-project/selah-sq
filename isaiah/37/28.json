@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe uljen tënde, dhe daljen tënde, dhe hyrjen tënde i njoha ⟨את⟩, dhe tërbimin tënd kundër meje.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Dhe uljen tënde"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "dhe daljen tënde"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "dhe hyrjen tënde"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "i njoha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tërbimin tënd"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tërbimin tënd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundër meje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:23.103346407Z",
+  "model": "glm-5.3"
+}

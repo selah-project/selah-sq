@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe i thanë atij pleqtë e Jabeshit: «Na jep ⟨afat⟩ shtatë ditë, që të dërgojmë lajmëtarë në ⟨të gjithë⟩ kufirin e Izraelit; dhe nëse nuk ka shpëtimtar ⟨për ne⟩ ⟨נֶגֶד⟩ ⟨אתנו⟩ — ונשלחה — atëherë do të dalim te ti.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabeshit"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "na jep afat (pushim)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "që të dërgojmë"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lajmëtarë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjithë"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "shpëtimtar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "neve (kundrinori i 'shpëtimtar' — 'nuk ka shpëtimtar neve')"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "do të dalim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:02.078738435Z",
+  "model": "glm-5.3"
+}

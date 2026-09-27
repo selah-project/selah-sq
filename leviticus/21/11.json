@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe pranë çdo shpirti të vdekur të mos hyjë; për atin e tij dhe për nënën e tij të mos papëtojë.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Dhe pranë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i vdekur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hyjë"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "për atin e tij"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "dhe për nënën e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "papëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:30.546653960Z",
+  "model": "glm-5.3"
+}

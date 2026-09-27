@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atë ditë Adonai do të heqë ⟨את⟩ stolitë e gjerdanëve të këmbëve, dhe shiritat e punuar, dhe hajat si hëna.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "do të heqë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stolitë e gjerdanëve të këmbëve"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "stolitë"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "të gjerdanëve të këmbëve"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "dhe shiritat e punuar"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "dhe hajat si hëna"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:21.669806631Z",
+  "model": "glm-5.3"
+}

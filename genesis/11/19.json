@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Peleg jetoi, pasi lindi ⟨את⟩ Reu, nëntë vjet dhe dyqind vjet, dhe lindi djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nëntë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dhe dyqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:38.172001583Z",
+  "model": "glm-5.3"
+}

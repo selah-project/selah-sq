@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Trego mirësi ndaj meje, Adonai, sepse te ti përgjithmonë ⟨bëj⟩ thirrje, gjithë ⟨ditën⟩.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Trego mirësi ndaj meje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bëj thirrje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:46.809875670Z",
+  "model": "glm-5.3"
+}

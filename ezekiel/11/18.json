@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të vijnë atje, dhe do të heqin ⟨את⟩ të gjitha neveritë e saj dhe ⟨את⟩ të gjitha të neveritshmet e saj nga ajo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "dhe do të vijnë"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "do të heqin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha neveritë e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "neveritë e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha të neveritshmet e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "të neveritshmet e saj"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nga ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T16:28:36.836900885Z",
+  "model": "glm-5.3"
+}

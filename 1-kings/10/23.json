@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbreti Salomon u bë më i madh se të gjithë mbretërit e ⟨tokës⟩ për pasuri dhe për urtësi.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "u bë më i madh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "se të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e dheut"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "për pasuri"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "dhe për urtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:48.574593126Z",
+  "model": "glm-5.3"
+}

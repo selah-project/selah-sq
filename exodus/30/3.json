@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do ta mbulosh ⟨אתו⟩ me ar të pastër: ⟨את⟩ majën e tij dhe ⟨את⟩ muret e tij përreth dhe ⟨את⟩ brirët e tij; dhe do të bësh për të një kurorë ari rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "dhe do ta mbulosh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (altarin) me ar të pastër"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majën e tij"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "majën e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muret e tij"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "muret e tij"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brirët e tij"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "brirët e tij"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "זר",
+      "gloss": "një kurorë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:24.674184743Z",
+  "model": "glm-5.3"
+}

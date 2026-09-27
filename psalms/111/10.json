@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Filloja e diturisë ⟨është⟩ frika e Jahves; kuptim të mirë kanë të gjithë që i bëjnë ⟨ato⟩; lavdërimi i tij qëndron përjetë.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Filloja"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "e diturisë"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kuptim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanë të gjithë"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "që i bëjnë"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lavdërimi i tij"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:57.072720036Z",
+  "model": "glm-5.3"
+}

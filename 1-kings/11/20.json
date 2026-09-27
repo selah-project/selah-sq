@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe motra e Tahpenesit i lindi ⟨atij⟩ ⟨את⟩ Genubatin, birit të tij, dhe Tahpenesi e zhyti atë në shtëpinë e Faraonit; dhe Genubati ishte në shtëpinë e Faraonit në mes të bijve të Faraonit.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "motra e"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubatin"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubatin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birit të tij"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "e zhyti (e ndau nga gjiri)"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenesi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në brendi të"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:35.109554476Z",
+  "model": "glm-5.3"
+}

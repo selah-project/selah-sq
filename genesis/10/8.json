@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Kushi lindi ⟨את⟩ Nimrodin; ai filloi të bëhet i fortë në tokë.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "dhe Kushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodin"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "החל",
+      "gloss": "filloi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "të bëhet"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:40.112802321Z",
+  "model": "glm-5.3"
+}

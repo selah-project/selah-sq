@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe mori dhjetë burra nga pleqtë e qytetit dhe tha: Uluni këtu. Dhe u ulën.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "burra"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "nga pleqtë"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "uluni"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe u ulën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:28.298281842Z",
+  "model": "glm-5.3"
+}

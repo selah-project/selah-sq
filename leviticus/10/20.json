@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Moisiu e dëgjoi, dhe kjo i dukej e mirë në sytë e tij.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe e dëgjoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "i dukej e mirë"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:33.211029463Z",
+  "model": "glm-5.3"
+}

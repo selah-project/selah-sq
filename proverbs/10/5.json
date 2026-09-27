@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Kush mblidh fryte në verë është bir i urtë; kush fle gjatë korrjes është bir që turpëron.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "kush mblidh fryte"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "në verë"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "i urtë"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "fle gjumë të thellë"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "gjatë korrjes"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "që turpëron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:46.651894497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Thyerje në vend të thyerjeje, sy në vend të syri, dhëmb në vend të dhëmbi; siç i ka dhënë mangësi njeriut, ashtu do t'i jepet ⟨atij⟩.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Thyerje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "thyerjeje"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "עין",
+      "gloss": "syri"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dhëmb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dhëmbi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i ka dhënë"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mangësi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "do t'i jepet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨atij⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:31.003706769Z",
+  "model": "glm-5.3"
+}

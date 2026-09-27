@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe shtrydhet, përkulet, dhe të pafatshmit bien nga fuqia e tij e madhe.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "dhe shtrydhet"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "përkulet"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "dhe bien"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "nga fuqia e tij e madhe"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "të pafatshmit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:44.757102947Z",
+  "model": "glm-5.3"
+}

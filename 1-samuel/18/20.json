@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Mikali, vajza e Saulit, e doi ⟨את⟩ Davidin; dhe i treguan Saulit, dhe çështja i pëlqeu në sytë e tij.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "e doi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "e Saulit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "dhe i treguan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "i pëlqeu (u duk e drejtë)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "çështja (fjala)"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:52.434727185Z",
+  "model": "glm-5.3"
+}

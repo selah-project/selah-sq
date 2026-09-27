@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe emri i birit të tij të parëlindur ishte Joeli, dhe emri i të dytit ishte Abia; ⟨ata⟩ ishin gjyqtarë në Beer-Sheba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe (ishte)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i birit të tij"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "të parëlindur"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joeli"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "i të dytit"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abia"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "gjyqtarë"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "në Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:38.164246291Z",
+  "model": "glm-5.3"
+}

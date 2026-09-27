@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ ata që tërhiqen nga pas Jahve-s, dhe ata që nuk e kërkuan ⟨את⟩ Jahve dhe nuk e pyetën atë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ata që tërhiqen"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ata që tërhiqen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nga pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe ata që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "e kërkuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "e pyetën atë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:34.997188328Z",
+  "model": "glm-5.3"
+}

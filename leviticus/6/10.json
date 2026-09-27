@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Jo do të piqet ⟨me⟩ maja; pjesa e tyre ⟨e⟩ dhashë unë ⟨את⟩ asaj nga flijimet e mia të zjarrit; e shenjtë ndër të shenjtat ⟨është⟩ ajo, si flijimi për mëkatin dhe si flijimi për fajin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "do të piqet"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "⟨me⟩ maja"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "pjesa e tyre"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dhashë unë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "asaj"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nga flijimet e mia të zjarrit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ndër të shenjtat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "si flijimi për mëkatin"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "dhe si flijimi për fajin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:15.274415277Z",
+  "model": "glm-5.3"
+}

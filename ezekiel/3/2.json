@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe e hapova gojën time, dhe ai më dha të ha ⟨את⟩ këtë rrotull.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "dhe e hapova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën time"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "më dha të ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë rrotull"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rrotull"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:49.353716050Z",
+  "model": "glm-5.3"
+}

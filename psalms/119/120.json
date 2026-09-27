@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Mishi më është çjerrë nga frika jote, dhe nga gjykimet e tua kam frikë.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "më është çjerrë \/ më është ngrirë qime"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "nga frika jote"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mishi im"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "dhe nga gjykimet e tua"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "kam frikë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.571119076Z",
+  "model": "glm-5.3"
+}

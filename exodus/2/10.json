@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe fëmija u rrit, dhe ajo e çoi atë te vajza e Faraonit, dhe ⟨ai⟩ iu bë asaj bir. Dhe ajo i dha emrin Moisi dhe tha: «Sepse nga uji e nxora atë.»",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Dhe u rrit"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmija"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "dhe ajo e çoi atë"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "te vajza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ⟨ai⟩ ishte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "Dhe ajo i dha emrin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "uji"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "e nxora atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.913812685Z",
+  "model": "glm-5.3"
+}

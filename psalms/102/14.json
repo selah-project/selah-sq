@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Ti do të ngrihesh, do të mëshirosh Sionin, sepse ⟨kata⟩ ardhur koha për t'i dhënë hir, sepse ⟨kata⟩ ardhur afati i caktuar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "do të ngrihesh"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "do të mëshirosh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עת",
+      "gloss": "koha"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "për t'i dhënë hir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨kata⟩ ardhur"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "afati i caktuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:12.086119219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvuajeni të gjithë engjëjt e tij, lëvuajeni tërë ushtria e tij.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lëvuajeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "engjëjt e tij"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvuajeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ushtria e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:22.466086607Z",
+  "model": "glm-5.3"
+}

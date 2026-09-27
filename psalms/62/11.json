@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Mos u besoni në shpërngulje e as në grabitje; mos shpresoni kot; pasuria, nëse shtohet, mos ia vini zemrën.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "u besuat"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "në shpërngulje (shtypje)"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "e as në grabitje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "shpresoni kot"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nëse (kur)"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "shtohet (mbin)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "ia vini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:52.317148608Z",
+  "model": "glm-5.3"
+}

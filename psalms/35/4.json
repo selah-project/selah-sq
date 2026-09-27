@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Le të turpërohen dhe le të mbulohen me turp ata që kërkojnë ⟨את⟩ jetën time; le të tërhiqen mbrapa dhe le të ngatërrohen ata që kurdisin të keqen time.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "le të turpërohen"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "dhe le të mbulohen me turp"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ata që kërkojnë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jetën time"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "le të tërhiqen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mbrapa"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "dhe le të ngatërrohen"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ata që kurdisin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "të keqen time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:47.373318614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "dhe morën rob ⟨את⟩ gratë që ishin në të, nga i vogli deri te i madhi; nuk vranë asnjë njeri, por i çuan dhe shkuan në rrugën e tyre.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "morën rob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gratë"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "gratë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishin në të"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "nga i vogli"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "vranë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "asnjë njeri"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "i çuan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "në rrugën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:02.064855726Z",
+  "model": "glm-5.3"
+}

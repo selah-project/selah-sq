@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nëse shpojnë deri në Sheol, prej aty dora ime do t'i marrë; dhe nëse ngjiten në qiell, prej aty do t'i zbres.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "shpojnë"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej aty"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dora ime"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "do t'i marrë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ngjiten"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiell"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej aty"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "do t'i zbres"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:44.467548981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe bëhet e njohur mëkata që mëkatuan ⟨mbi të⟩, dhe ⟨asambleja⟩ sjell një dem, bir të gjedhit, për mëkat, dhe e sjellin ⟨את⟩ atë përpara çadrës së takimit.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "dhe bëhet e njohur"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "mëkata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mëkatuan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dhe sjell"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asambleja"
+    },
+    {
+      "surface": "פר",
+      "gloss": "një dem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "të gjedhit"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "për mëkat"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "dhe e sjellin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (demin)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:24.863133907Z",
+  "model": "glm-5.3"
+}

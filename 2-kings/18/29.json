@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Kështu tha mbreti: le të mos ju mashtrojë Hizkiahu, sepse ai nuk do të jetë në gjendje t'ju shpëtojë ⟨אתכם⟩ nga dora e tij.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le të mos"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "ju mashtrojë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "do të jetë në gjendje"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "t'ju shpëtojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (kundrinori i shpëtimit)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "nga dora e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:33.611267917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "S'ka bërë kështu me asnjë komb, dhe vendimet e tij nuk i kanë njohur ata. Lëvdoni Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "S'ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërë"
+    },
+    {
+      "surface": "kundrejt cdo",
+      "gloss": "me asnjë"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "asnjë"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "komb"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dhe vendimet"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk… fare"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "i kanë njohur ata"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.136793554Z",
+  "model": "glm-5.3"
+}

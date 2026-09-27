@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Kur Jahve, Elohim i yt, do të shfarosë ⟨את⟩ kombet, tokën e të cilëve Jahve, Elohim i yt, të jep ty, dhe ti do t'i zëvendësosh dhe do të banosh në qytetet e tyre dhe në shtëpitë e tyre —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "do të shfarosë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombet"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilëve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "të jep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tyre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tokën e tyre"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "do t'i zëvendësosh"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "do të banosh"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "në qytetet e tyre"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "dhe në shtëpitë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:25.019236843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Nëse ngjitesh ⟨n⟩ qiell, atje ⟨je⟩ ti; dhe nëse shtriej shtratin në Sheol, ja ti ⟨je atje⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ngjitesh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiell"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti (je)"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "dhe shtriej shtratin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ja ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:49.435247439Z",
+  "model": "glm-5.3"
+}

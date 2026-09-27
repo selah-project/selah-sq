@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe ndodhi në fund të dy viteve ditësh, që faraoni ëndërroi, dhe ja, ⟨ai⟩ rrinte në këmbë pranë lumit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "në fund"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dy viteve"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditësh"
+    },
+    {
+      "surface": "וופרעה",
+      "gloss": "dhe faraoni"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ëndërroi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "rrinte në këmbë"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "lumit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:43.593439897Z",
+  "model": "glm-5.3"
+}

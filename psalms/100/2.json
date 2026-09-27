@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 100,
+  "translation": "Shërbejini ⟨את⟩ Jahvesë me gëzim; hyjini në praninë e tij me këngë.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Shërbejini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "me gëzim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hyjini"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "në praninë e tij"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "me këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.685605452Z",
+  "model": "glm-5.3"
+}

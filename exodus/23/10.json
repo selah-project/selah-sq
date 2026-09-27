@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Gjashtë vjet do të mbjellësh ⟨את⟩ tokën tënde dhe do të mbledhësh ⟨את⟩ frytin e saj.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "do të mbjellësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën tënde"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tokën tënde"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dhe do të mbledhësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frytin e saj"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "frytin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:09.419622204Z",
+  "model": "glm-5.3"
+}

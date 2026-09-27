@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jahve ishte ⟨את⟩ me Judën, dhe ai zuri në pronësi ⟨את⟩ malin, por nuk mundi të dëbonte ⟨את⟩ banorët e luginës, se kishin karro të hekurta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "dhe zuri në pronësi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "mundi të dëbonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "e luginës"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karro"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "të hekurta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kishin ata"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:36.374872959Z",
+  "model": "glm-5.3"
+}

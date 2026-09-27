@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe populli që qe pas Omrit u bë më i fortë se populli që qe pas Tibnit, birit të Ginatit; dhe vdiq Tibni, dhe mbretëroi Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Dhe u bë më i fortë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin që qe pas Tibnit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibnit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "të Ginatit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:38.495629667Z",
+  "model": "glm-5.3"
+}

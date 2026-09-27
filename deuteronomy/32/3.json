@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Sepse emrin e Jahvesë do ta shpall; jepni madhësi Elohit tonë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "do ta shpall"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "madhëri"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohit tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:29.443774295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Egjiptit i këmi dhënë ⟨dorën⟩, dhe Asirisë, për t'u ngopur me bukë.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "këmi dhënë"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirisë"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "për t'u ngopur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "me bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:47.424493573Z",
+  "model": "glm-5.3"
+}

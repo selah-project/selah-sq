@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndërtoi ⟨את⟩ Tadmorin në shkretëtirë dhe ⟨את⟩ të gjitha qytetet e depove që ndërtoi në Hamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmorin"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmorin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet e"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "depove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "në Hamat"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:36.872167158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Gjithë ditën turpi im ⟨qëndron⟩ para meje, dhe turpërimi i fytyrës sime më ka mbuluar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "turpi im"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "dhe turpërimi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "i fytyrës sime"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "më ka mbuluar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:17.870209440Z",
+  "model": "glm-5.3"
+}

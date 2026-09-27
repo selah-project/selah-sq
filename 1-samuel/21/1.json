@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Davidi u ngrit dhe shkoi; dhe Jonathani hyri në ⟨the⟩ qytet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "dhe Jonathani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hyri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "në ⟨the⟩ qytet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:39.718653638Z",
+  "model": "glm-5.3"
+}

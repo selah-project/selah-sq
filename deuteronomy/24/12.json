@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe nëse njeri i varfër ⟨është⟩ ai, mos shko të flesh me pengjen e tij.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "shko të flesh"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "me pengjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:35.972707109Z",
+  "model": "glm-5.3"
+}

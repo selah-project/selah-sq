@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Mbretëritë e ⟨tokës⟩, këndoni Elohim-it, këndoni me lavde Adonai-t. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Mbretëritë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "këndoni me lavde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai-t"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:05.128039546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "se Jahve, Elohim-i juaj, ⟨është⟩ Ai që ecën me ju, për të luftuar për ju kundër armiqve tuaj, për t'ju shpëtuar ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-i juaj"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ai që ecën"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "për të luftuar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "armiqve tuaj"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "për t'ju shpëtuar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (objekt i drejtë i shpëtimit)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:33.869719647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "atëherë do të dëgjosh nga qiejt ⟨את⟩ lutjen e tyre dhe ⟨את⟩ lutjet-thonjëzuese të tyre, dhe do të bësh drejtimin e tyre.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dhe do të dëgjosh — atëherë do të dëgjosh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lutjen e tyre"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lutjen e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lutjet-thonjëzuese të tyre"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "lutjet-thonjëzuese të tyre"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "drejtimin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:45.248659701Z",
+  "model": "glm-5.3"
+}

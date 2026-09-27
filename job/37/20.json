@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "A i njoftohet ⟨Atij⟩ se unë dua të flas? Nëse ⟨edhe⟩ një njeri flet, me siguri do të gëlltitet.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "a i njoftohet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Atij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "dua të flas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "flet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "me siguri"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "do të gëlltitet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:38.927389250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vërësh ⟨את⟩ altarín e arit për temjanin përpara Arkës së Dëshmisë, dhe do të vendosësh ⟨את⟩ perden e hyrjes së Mishkanit.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "do të vërësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarín e arit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarín"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "të arit"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "për temjanin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkës"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "së Dëshmisë"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "dhe do të vendosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden e hyrjes"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perden"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "e hyrjes"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "së Mishkanit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:45.152011884Z",
+  "model": "glm-5.3"
+}

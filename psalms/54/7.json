@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "⟨Ai⟩ do t'i kthejë të keqen kundër kundërshtarëve të mi; në të vërtetën tënde shfarosji ata.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "do të kthejë"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kundërshtarëve të mi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "në të vërtetën tënde"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "shfarosji ata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:59.804926892Z",
+  "model": "glm-5.3"
+}

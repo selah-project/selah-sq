@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Moisi bëri të nisët ⟨את⟩ Israelin nga Deti i Kallamishteve, dhe dolën në shkretëtirën e Shurit; dhe ecën tre ditë në shkretëtirë, dhe nuk gjetën ujë.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "dhe bëri të nisët"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nga Deti"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "i Kallamishteve"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe dolën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirën"
+    },
+    {
+      "surface": "שור",
+      "gloss": "e Shurit"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe ecën"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "gjetën"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:11.619700092Z",
+  "model": "glm-5.3"
+}

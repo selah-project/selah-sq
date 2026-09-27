@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Tërësia u tërhoq mbrapa, së bashku u kalbën; s'ka bërësit e të mirës, s'ka, as edhe një.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tërësia"
+    },
+    {
+      "surface": "סג",
+      "gloss": "u tërhoq mbrapa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "së bashku"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "u kalbën"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërësit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirës"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "edhe një"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.054327549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Kështu tha Jahve: Ashtu do të prish ⟨את⟩ krenarinë e Judës dhe ⟨את⟩ krenarinë e madhe të Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Ashtu"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "do të prish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krenarinë e Judës"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "krenarinë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "krenarinë e madhe të Jerusalemit"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "krenarinë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "e madhe"
+    }
+  ],
+  "timestamp": "2026-09-27T16:12:02.514157399Z",
+  "model": "glm-5.3"
+}

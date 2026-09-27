@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I shtati, për muajin e shtatë, ⟨ishte⟩ Helesi, Peloniti, nga bijtë e Efraimit; dhe mbi ndarjen e tij ⟨kish⟩ njëzet e katër mijë.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "i shtati"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "për muajin"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatin"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helesi"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "Peloniti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "e Efraimit"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ndarjen e tij"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "dhe katër"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:06:54.947072360Z",
+  "model": "glm-5.3"
+}

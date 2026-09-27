@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe Ahishari ishte mbi ⟨shtëpinë⟩; dhe Adonirami, bir i Abdasë, ishte mbi taksën e detyruar.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "dhe Ahishari"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨shtëpinë⟩"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "dhe Adonirami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "i Abdasë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המס",
+      "gloss": "taksën e detyruar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:33.550137019Z",
+  "model": "glm-5.3"
+}

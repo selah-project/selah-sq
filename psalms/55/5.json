@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Zemra ime përpëlitet brenda meje, dhe terrorët e vdekjes ranë mbi mua.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "përpëlitet"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "brenda meje"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "dhe terrorët"
+    },
+    {
+      "surface": "מות",
+      "gloss": "e vdekjes"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.586557906Z",
+  "model": "glm-5.3"
+}

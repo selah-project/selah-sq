@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Sa i madh është të mirës jote, të cilën ke fshehur për ata që të frikësohen, të ke punuar për ata që strehohen te ti, përpara bijve të njerëzve!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "të mirës jote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ke fshehur"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "për ata që të frikësohen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "të ke punuar"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "për ata që strehohen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:16.354170467Z",
+  "model": "glm-5.3"
+}

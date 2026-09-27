@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Si ëndrra pas zgjimit, Adonai, kur zgjohesh ti, formën e tyre e përçmon.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "si ëndrra"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "pas zgjimit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kur zgjohesh"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "formën e tyre"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "e përçmon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:43.272554026Z",
+  "model": "glm-5.3"
+}

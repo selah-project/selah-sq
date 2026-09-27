@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe iu përgjigjen ⟨את⟩ Jozuesë, duke thënë: Gjithçka që na ke urdhëruar ne do të bëjmë, dhe në çdo vend ku të na dërgosh, ne do të shkojmë.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Dhe iu përgjigjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuesë"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuesë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "na ke urdhëruar"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ne do të bëjmë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vend ku"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "të na dërgosh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ne do të shkojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:57.350797116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Kështu do të të bekoj gjatë jetës sime; në emrin tënd do të ngre pëllëmbat e mia.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "do të të bekoj"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "gjatë jetës sime"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "në emrin tënd"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "do të ngre"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "pëllëmbat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:25.054247809Z",
+  "model": "glm-5.3"
+}

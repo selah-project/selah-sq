@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ai u foli atyre: Çfarë pamjeje ishte burri që doli përpara jush dhe ju foli ⟨את⟩ këto fjalë?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe u foli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pamjeje"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ishte burri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "doli"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "përpara jush"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto fjalë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:59.603042528Z",
+  "model": "glm-5.3"
+}

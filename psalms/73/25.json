@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Kush ⟨është⟩ për mua në qiell? Dhe pranë teje nuk dëshirova ⟨asgjë⟩ në tokë.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiell"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Dhe pranë teje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "dëshirova"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:51.672856434Z",
+  "model": "glm-5.3"
+}

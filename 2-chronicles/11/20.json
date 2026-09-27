@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe pas saj mori ⟨את⟩ Maachanë, bijën e Absalomit; dhe ajo i lindi atij ⟨את⟩ Abijahin, ⟨את⟩ Attain, ⟨את⟩ Zizanë dhe ⟨את⟩ Shelomithin.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "pas saj"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maachanë"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maachanë"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijën"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "e Absalomit"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i ... atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abijahin"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abijahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Attain"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zizanë"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Zizanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomithin"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomithin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:38.071219138Z",
+  "model": "glm-5.3"
+}

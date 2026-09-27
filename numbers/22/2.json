@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe pa Balaku, biri i Tsiporit, ⟨את⟩ gjithçka që u bë Izraeli amoritëve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "i Tsiporit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amoritëve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:40.042860416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Sikur të vrisje ti, o Eloah, të ligët! Ju, burra gjakatarë, largohuni prej meje!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sikur"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "të vrisje ti"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të ligët"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dhe ju, burra"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "gjakatarë"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "largohuni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "prej meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:10.039918066Z",
+  "model": "glm-5.3"
+}

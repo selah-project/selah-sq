@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe i udhëhoqi me ⟨atë⟩ re gjatë ditës, dhe gjithë natën me dritë zjarri.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Dhe i udhëhoqi"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "me re"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gjatë ditës"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natën"
+    },
+    {
+      "surface": "באור",
+      "gloss": "me dritë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:41.477914940Z",
+  "model": "glm-5.3"
+}

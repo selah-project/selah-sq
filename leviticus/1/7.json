@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe bijtë e Aaronit, prifti, do të vënë zjarr mbi altar dhe do të renditin drurit mbi zjarr.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe do të vënë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "dhe do të renditin"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drurit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:27.668894942Z",
+  "model": "glm-5.3"
+}

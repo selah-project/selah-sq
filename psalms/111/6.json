@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Fuqinë e veprave të vet ia bëri të njohur popullit të vet, për t'u dhënë atyre trashëgiminë e kombeve.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "fuqinë"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "e veprave të vet"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ia bëri të njohur"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "popullit të vet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për të dhënë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "trashëgiminë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "të kombeve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:12.739618332Z",
+  "model": "glm-5.3"
+}

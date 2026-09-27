@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Në ditën e parë ⟨ka⟩ një thirrje e shenjtë; çdo punë shërbimi nuk do të bëni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Në ditën"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "thirrje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "punë"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "shërbimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "do të bëni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:57.675035056Z",
+  "model": "glm-5.3"
+}

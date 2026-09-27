@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ndodhi, kur ata hynë në Samari, që Eliseu tha: Jahve, hap ⟨את⟩ sytë e këtyve, të shohin ⟨edhe⟩. Dhe Jahve hapi ⟨את⟩ sytë e tyre, dhe ata shikuan, dhe ja, ⟨ishte⟩ në mes të Samarise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "kur ata hynë"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "në Samari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "hap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e këtyre"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "të këtyre"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dhe do të shohin"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e tyre"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "sytë e tyre"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dhe ata shikuan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "të Samarise"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:21.707727500Z",
+  "model": "glm-5.3"
+}

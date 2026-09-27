@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Në atë ditë do të rritet zija në Jeruzalem, si zija e Hadad-Rimonit në luginën e Megidos.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "do të rritet"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "zija"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "si zija"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimonit"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "në luginën"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "të Megidos"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:07.091476195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Do të kthehet paqja e tij mbi kokën e vet, dhe mbi kryeplakun e tij dhuna e tij do të zbresë.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mundimi i tij"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mbi kokën e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "kryeplakun e tij"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "dhuna e tij"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "do të zbresë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:14.118745073Z",
+  "model": "glm-5.3"
+}

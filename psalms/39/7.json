@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Vetëm si një imazh ecën njeriu; vetëm sa një avull zhurmojnë; grumbullojnë dhe nuk dinë kush do t'i mbledhë ato.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "si një imazh"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sa një avull"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "zhurmojnë"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "grumbullojnë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dinë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "do t'i mbledhë ato"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:04.836869165Z",
+  "model": "glm-5.3"
+}

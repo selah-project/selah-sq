@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Moabi u rebelua kundër Izraelit pas vdekjes së Ahabit.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "dhe u rebelua"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kundër Izraelit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjes"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "të Ahabit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:54.355465086Z",
+  "model": "glm-5.3"
+}

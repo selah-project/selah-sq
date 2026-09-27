@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Mos zhvendos kufirin e lashtë, dhe në fushat e jetimëve mos hyj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "zhvendos"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e lashtë"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "dhe në fushat e"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "jetimëve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "hyj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:21.002529978Z",
+  "model": "glm-5.3"
+}

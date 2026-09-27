@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do t'ju marr ⟨את⟩ ju për vete si popull, dhe do të jem juve si Elohim, dhe do të dini se unë jam Jahve, Elohim-i juaj, ai që ju nxjerr ⟨את⟩ ju nga nën barrat e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Dhe do t'ju marr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "si popull"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "dhe do të jem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dhe do të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-i juaj"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ai që nxjerr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nga nën"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "barrat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:16.165790375Z",
+  "model": "glm-5.3"
+}

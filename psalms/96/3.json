@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Tregojini në kombet lavdinë e tij, në të gjitha popujt çuditë e tij!",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "tregojini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "në kombet"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lavdinë e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "çuditë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:28.420156363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Pake shumë gjëra, por nuk i ruan; ⟨me⟩ veshët e hapur, por nuk dëgjon.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "pake"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "shumë gjëra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "i ruan"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "të hapur"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "veshët"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dëgjon"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:32.628433931Z",
+  "model": "glm-5.3"
+}

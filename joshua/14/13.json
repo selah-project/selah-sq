@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jozue e bekoi atë, dhe dha ⟨את⟩ Hebronin Kalebit, birit të Jefunehut, për trashëgimi.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "dhe e bekoi atë"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronin"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "të Jefunehut"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "për trashëgimi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:58:02.852787516Z",
+  "model": "glm-5.3"
+}

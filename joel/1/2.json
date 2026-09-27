@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dëgjoni këtë, o pleqtë, dhe vini veshin, të gjithë banorët e ⟨të⟩ tokës! A ka ndodhur kjo në ditët tuaja, apo në ditët e etërve tuaj?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dëgjoni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "o pleqtë"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "dhe vini veshin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "A ka ndodhur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "në ditët tuaja"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "të etërve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:17.658382536Z",
+  "model": "glm-5.3"
+}

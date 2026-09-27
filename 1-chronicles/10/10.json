@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe vunë ⟨את⟩ pajisjet e tij në shtëpinë e perëndive të tyre, dhe ⟨את〉 kafkën e tij e fiksuan në shtëpinë e Dagonit.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "vunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pajisjet e tij"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pajisjet e tij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "të perëndive të tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kafkën e tij"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "kafkën e tij"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "e fiksuan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "të Dagonit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:32.197684138Z",
+  "model": "glm-5.3"
+}

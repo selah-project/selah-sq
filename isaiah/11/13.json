@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe xhelozia e Efraimit do të largohet, dhe kundërshtarët e Judës do të priten; Efraimi nuk do të jetë xheloz ⟨את⟩ ndaj Judës, dhe Juda nuk do ta ngushtojë ⟨את⟩ Efraimin.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "do të largohet"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "xhelozia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "e Efraimit"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "dhe kundërshtarët"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "do të priten"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "do të jetë xheloz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judës"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "do ta ngushtojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:45.752280087Z",
+  "model": "glm-5.3"
+}

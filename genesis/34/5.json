@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Jakobi dëgjoi se ⟨e⟩ kishte pëlyer ⟨את⟩ Dinahën, bijën e tij; e bijtë e tij ishin ⟨את⟩ me bagëtinë e tij në fushë, dhe Jakobi heshti derisa ata erdhën.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Dhe Jakobi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "kishte pëlyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinahën"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinahën"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bijën e tij"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bagëtinë e tij"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "dhe heshti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "erdhën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:00.995756181Z",
+  "model": "glm-5.3"
+}

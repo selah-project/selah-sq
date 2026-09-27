@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Si uji jam derdhur, dhe të gjitha kockat e mia janë shpërndarë; zemra ime ⟨është⟩ bërë si dyllë, ⟨i shkrirë⟩ në mes të zorrëve të mia.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "si uji"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "jam derdhur"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "dhe janë shpërndarë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kockat e mia"
+    },
+    {
+      "surface": "היה",
+      "gloss": "është bërë"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "si dyllë"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "i shkrirë"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "zorrëve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:20.843072335Z",
+  "model": "glm-5.3"
+}

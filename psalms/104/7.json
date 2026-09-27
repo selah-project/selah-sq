@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Nga qortimi yt ikën ⟨ato⟩; nga zëri i bubullimës sate u ngritën e ikën të ngutshme.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "qortimi yt"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ikën"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zëri"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "bubullimës sate"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "u ngritën e ikën të ngutshme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:54.474156083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Të numëruarit e tyre, për fisin e Gadit, ⟨isnin⟩ pesë e dyzet mijë e gjashtëqind e pesëdhjetë.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "të numëruarit e tyre"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "për fisin"
+    },
+    {
+      "surface": "גד",
+      "gloss": "e Gadit"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e dyzet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e pesëdhjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:33.423148908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do të merrni ⟨את⟩ Arkën e Jahvesë dhe do ta vini ⟨את⟩ atë mbi qerre, dhe ⟨את]] objektet e arit që ia ktheni atij si fajësim do t'i vendosni në kutinë në anën e saj, dhe do ta nisni ⟨את⟩ atë dhe ajo do të shkojë.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "dhe do të merrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën e Jahvesë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dhe do ta vini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "qerre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "objektet e arit"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "objektet e"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "ia ktheni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "si fajësim"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "do t'i vendosni"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "në kutinë"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "në anën e saj"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "dhe do ta nisni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "dhe ajo do të shkojë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:33.994264903Z",
+  "model": "glm-5.3"
+}

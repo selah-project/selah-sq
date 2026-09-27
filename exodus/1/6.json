@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jozifi vdiq, dhe të gjithë vëllezërit e tij, dhe gjithë ai brez.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Dhe ... vdiq"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ai brez"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:47.428532622Z",
+  "model": "glm-5.3"
+}

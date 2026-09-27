@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe nga fisi i Gadit ⟨את⟩ Ramotin në Gilead me fushat e saj, dhe ⟨את⟩ Mahanaimin me fushat e saj",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dhe nga fisi i"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramotin"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramotin"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "në Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fushat e saj"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "me fushat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Mahanaimin"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fushat e saj"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "me fushat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:58.809683215Z",
+  "model": "glm-5.3"
+}

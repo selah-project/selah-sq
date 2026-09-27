@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Madje i ke kthyer prapa tehe shpatës së tij dhe nuk e bëre të qëndronte në betejë.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "madje"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ke kthyer prapa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "tehe"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "shpatës së tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "e bëre të qëndronte"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "në betejë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:16.625873948Z",
+  "model": "glm-5.3"
+}

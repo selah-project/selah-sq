@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Samueli fjeti deri në mëngjes, dhe hapi ⟨את⟩ dyert e shtëpisë së Jahvesë; dhe Samueli u frikua t'i tregonte ⟨את⟩ pamjen Elit.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dhe fjeti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyert e shtëpisë së Jahvesë"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dyert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "dhe Samueli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "u frikua"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "t'i tregonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamjen"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pamjen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:24.495557153Z",
+  "model": "glm-5.3"
+}

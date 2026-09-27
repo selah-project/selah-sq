@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ju më përgjigjit ⟨את⟩ mua dhe thatë: E mirë është puna që ke folur të bëjmë.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Dhe ju më përgjigjit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "dhe thatë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "E mirë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "është puna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ke folur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bëjmë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:26.658602701Z",
+  "model": "glm-5.3"
+}

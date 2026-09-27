@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Dërgoi errësinë dhe e bëri të errët, dhe ata nuk u rebeluan kundër ⟨את⟩ fjalës së tij.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Dërgoi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësinë"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "dhe e bëri të errët"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "u rebeluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalës së tij"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "fjalës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:29.581399810Z",
+  "model": "glm-5.3"
+}

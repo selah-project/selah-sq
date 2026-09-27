@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe gjarpri i tha ⟨asaj⟩, gruas: Jo, nuk do të vdisni fare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "gjarpri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gruas"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jo, nuk"
+    },
+    {
+      "surface": "מות",
+      "gloss": "do të vdisni fare"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "vdisni"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:38.776491005Z",
+  "model": "glm-5.3"
+}

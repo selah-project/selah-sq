@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe duar njeriu kishin nën krahët e tyre, mbi anët e tyre të katërta; dhe fytyrat e tyre dhe krahët e tyre i kishin të katërit.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "dhe duar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "krahët e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "të katërta"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "anët e tyre"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dhe fytyrat e tyre"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "dhe krahët e tyre"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "i kishin të katërit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:24:59.364758379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Dëgjo, o Elohim, zërin tim në ankimimin tim; nga frika e armikut ruaj jetën time.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "në ankimimin tim"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nga frika e"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armikut"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jetën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:14.693099508Z",
+  "model": "glm-5.3"
+}

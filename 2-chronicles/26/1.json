@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe tërë populli i Judës mori ⟨את⟩ Uzinë, dhe ai ishte bir gjashtëmbëdhjetë vjeç, dhe e bënë mbret në vend të të atit Amacia.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzinë"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzinë"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "dhe e bënë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e (⟨את⟩)",
+      "marks": "mbret"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacia"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:16.339810571Z",
+  "model": "glm-5.3"
+}

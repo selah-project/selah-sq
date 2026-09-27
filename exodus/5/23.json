@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse që atëherë kur erdha te Faraoni për të folur në emrin tënd, ai i ka bërë keq këtij populli, dhe ⟨ti⟩ nuk e ke shpëtuar ⟨את⟩ popullin tënd aspak.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "që atëherë kur"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "erdha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "për të folur"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "në emrin tënd"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "i ka bërë keq"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "dhe shpëtimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "e ke shpëtuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tënd"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:53.546953708Z",
+  "model": "glm-5.3"
+}

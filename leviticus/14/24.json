@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti do të marrë ⟨את⟩ qengjin e fajësisë dhe ⟨את⟩ log-un e vajit, dhe prifti do t'i tundë ⟨אתם⟩ si tundje përballë Jahves.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do të marrë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qengjin e fajësisë"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qengj"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "i fajësisë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "log-un e vajit"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "i vajit"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "dhe do t'i tundë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (qengji dhe vaji)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "si tundje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:30.807628171Z",
+  "model": "glm-5.3"
+}

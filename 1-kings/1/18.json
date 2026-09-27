@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe tani, ja, Adonia mbretëroi — dhe tani, zotëria im, mbreti, nuk e dije.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e dije"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:47.444592691Z",
+  "model": "glm-5.3"
+}

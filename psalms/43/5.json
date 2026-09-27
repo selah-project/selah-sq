@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Pse po shkelem poshtë, shpirti im, dhe pse po ulurit brenda meje? Prit te Elohim, se do ta lavdëroj ende ⟨Atë⟩; ⟨Ai është⟩ shpëtimi i fytyrës sime dhe Elohim im.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "po shkelem poshtë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "po ulurit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "brenda meje"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "prit"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "te Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "do ta lavdëroj ⟨Atë⟩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "shpëtimi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "i fytyrës sime"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe Elohim im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:14.032124573Z",
+  "model": "glm-5.3"
+}

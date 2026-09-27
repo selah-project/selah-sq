@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨qe⟩ në mëngjes, dhe Davidi shkroi një letra ⟨drejtuar⟩ Joabit, dhe e dërgoi me dorën e Uriasë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "shkroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "një letra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejtuar"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabit"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorën e"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriasë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:43.329517300Z",
+  "model": "glm-5.3"
+}

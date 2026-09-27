@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Kështu Davidi shpëtoi ⟨את⟩ çdo gjë që Amaleku kishte marrë, dhe ⟨את⟩ të dyja grate e tij i shpëtoi Davidi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "shpëtoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo gjë që Amaleku kishte marrë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "kishte marrë"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të dyja grate e tij"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "të dyja"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "gratë e tij"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "i shpëtoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:45.955832839Z",
+  "model": "glm-5.3"
+}

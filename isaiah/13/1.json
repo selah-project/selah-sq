@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Barëtja e Babilonisë, të cilën e pa Jesaja, bir i Amocit.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Barëtja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "e Babilonisë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "i Amocit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:52.768740019Z",
+  "model": "glm-5.3"
+}

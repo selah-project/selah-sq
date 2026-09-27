@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Malet e larta — për dhijtë e egra; shkëmbet — strehë për shfarninët.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "e larta"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "për dhijtë e egra"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "shkëmbet"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "strehë"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "për shfarninët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:52.534446523Z",
+  "model": "glm-5.3"
+}

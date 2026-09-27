@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Mos nxito të largohesh nga fytyra e tij; mos qëndro në një punë të keqe, sepse ai do të bëjë gjithçka që i pëlqen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "nxito"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "të largohesh nga fytyra e tij"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "të ikësh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "qëndro"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "në një punë"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "i pëlqen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:49.061985792Z",
+  "model": "glm-5.3"
+}

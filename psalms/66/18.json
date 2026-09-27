@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Paudhësi, nëse e pashë ⟨atë⟩ në zemrën time, Adonai nuk do të dëgjonte.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Paudhësi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "e pashë"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "në zemrën time"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjonte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:03.221613203Z",
+  "model": "glm-5.3"
+}

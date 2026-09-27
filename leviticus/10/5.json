@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u afruan dhe i mbartën në këmishat e tyre jashtë kampit, ashtu siç kishte folur Moisi.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dhe u afruan"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "dhe i mbartën"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "në këmishat e tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:25.129877867Z",
+  "model": "glm-5.3"
+}

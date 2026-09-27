@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Kur themelet shemben, çfarë mund të bëjë i drejti?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "themelet"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "shemben"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mund të bëjë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:29.491361676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe nëse një shpirt mëkaton dhe bën një nga të gjitha urdhrat e Jahves që nuk duhen bërë, dhe nuk e dinte ⟨ai⟩, ⟨ai⟩ është fajtor dhe do të mbajë fajin e vet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈se〉"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "mëkaton"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "dhe bën"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhrat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "duhen bërë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e dinte"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "është fajtor"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "do të mbajë"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "fajin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:06.096042702Z",
+  "model": "glm-5.3"
+}

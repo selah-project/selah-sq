@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "I bëri mirë e jo keq, gjithë ditët e jetës së saj.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "I bëri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "keq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "të jetës së saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:25.520589117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Re dhe errësirë e rrethojnë ⟨atë⟩; drejtësia dhe gjyqi ⟨janë⟩ themeli i fronit të tij.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Re"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dhe errësirë e thellë"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "e rrethojnë ⟨atë⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësia"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe gjyqi"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "themeli"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "i fronit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.211130965Z",
+  "model": "glm-5.3"
+}

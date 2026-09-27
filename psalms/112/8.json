@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "E ftohur ⟨është⟩ zemra e tij, nuk do të ketë frikë, derisa të shikojë ⟨mbi⟩ kundërshtarët e tij.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "e ftohur"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "do të ketë frikë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "shikojë"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "kundërshtarët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.865322844Z",
+  "model": "glm-5.3"
+}

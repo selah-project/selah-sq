@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Nga Jahve janë hapat e një njeriu të fortë; ⟨ata⟩ janë vendosur, dhe rrugën e tij ⟨Jahve⟩ e pëlqen.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Nga Jahve"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "hapat e"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "një njeriu të fortë"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "janë vendosur"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "dhe rrugën e tij"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "e pëlqen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:24.578620074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Dhe Nebuzaradani, krye-roja, i mori ⟨את⟩ ata dhe i çoi ⟨את⟩ ata te mbreti i Babilonisë, në Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "i mori"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "krye-"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "roja (fj. 'kasapëve')"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe i çoi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "i çoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonisë"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "në Ribla"
+    }
+  ],
+  "timestamp": "2026-09-27T16:24:56.998474482Z",
+  "model": "glm-5.3"
+}

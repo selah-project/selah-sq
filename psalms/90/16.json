@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "U shfaqet shërbëtorëve të tu vepra jote, dhe shkëlqimi yt mbi bijtë e tyre.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "U shfaqet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(drejt)"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorëve të tu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "vepra jote"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "dhe shkëlqimi yt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bijtë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:22.766797242Z",
+  "model": "glm-5.3"
+}

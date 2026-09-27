@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Sioni dëgjoi dhe u gëzua, dhe bijat e Judës ngazëlluan për shkak të gjykimeve të tua, o Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "dhe u gëzua"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sioni"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "dhe ngazëlluan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimeve të tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:41.612900687Z",
+  "model": "glm-5.3"
+}

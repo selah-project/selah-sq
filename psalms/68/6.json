@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Atë i eturve dhe gjyqtar i të vmave, ⟨është⟩ Elohim në banesën e tij të shenjtë.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Atë"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "i eturve"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "dhe gjyqtar"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "i të vmave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "në banesën"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të tij të shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:45.264002204Z",
+  "model": "glm-5.3"
+}

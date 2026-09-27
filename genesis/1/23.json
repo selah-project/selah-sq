@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u bë muzgu dhe u bë agimi — ditë e pestë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "muzgu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "agimi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "e pestë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:52.804839919Z",
+  "model": "glm-5.3"
+}

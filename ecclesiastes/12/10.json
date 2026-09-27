@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Koheleti kërkoi të gjente fjalë të këndshme, dhe çdo gjë e shkruar ⟨ishte⟩ e drejtë — fjalë të vërtetës.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "kërkoi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "të gjente"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "të këndshme"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "dhe e shkruar"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërtetës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:54.892583288Z",
+  "model": "glm-5.3"
+}

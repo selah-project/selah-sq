@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Sauli mori tre mijë burra të zgjedhur nga gjithë Izraeli dhe shkoi të kërkoje ⟨את⟩ Davidin dhe njerëzit e tij mbi faqen e shkëmbinjve të dhive të egra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "të zgjedhur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "të kërkoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dhe njerëzit e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbinjve"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "të dhive të egra"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:52.604993344Z",
+  "model": "glm-5.3"
+}

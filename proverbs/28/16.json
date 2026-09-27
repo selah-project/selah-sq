@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Një prijës pa mend — ⟨ai është⟩ shtypës i madh; por kush e urren fitimin e padrejtë do t'i zgjasë ditët e tij.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "prijës"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "mend"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe i madh"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "shtypës i madh (shumë shtypje)"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kush e urren"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "fitimin e padrejtë"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "do t'i zgjasë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:38.979073177Z",
+  "model": "glm-5.3"
+}

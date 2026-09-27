@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe e deshi mallkimin, dhe ⟨ai⟩ erdhi mbi të; dhe nuk dëshiroi bekimin, dhe ⟨ai⟩ u largua prej tij.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dhe e deshi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "mallkimin"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "dhe erdhi mbi të"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dëshiroi"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "bekimin"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "dhe u largua"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.169261310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një njeri që kurorëshkel ⟨את⟩ gruan e një njeriu — që kurorëshkel ⟨את⟩ gruan e të afërmit të vet — do të vdesë me vdekje kurorëshkelësi dhe kurorëshkelësja.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "kurorëshkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e një njeriu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "kurorëshkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e të afërmit të vet"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan e"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "të afërmit të vet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "kurorëshkelësi"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "dhe kurorëshkelësja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:27.221716291Z",
+  "model": "glm-5.3"
+}

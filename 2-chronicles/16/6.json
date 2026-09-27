@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Asa, mbreti, mori ⟨את⟩ gjithë Judënë, dhe i mbartën ⟨את⟩ gurët e Ramahut dhe ⟨את⟩ drurët e tij, që kishte ndërtuar Baasha, dhe me to ndërtoi ⟨את⟩ Gebanë dhe ⟨את⟩ Mitspënë.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Dhe Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Judënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judënë"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i mbartën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët e Ramahut"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurët"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "të Ramahut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "drurët e tij"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "drurët e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kishte ndërtuar"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebanë"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Mitspënë"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:32.378329964Z",
+  "model": "glm-5.3"
+}

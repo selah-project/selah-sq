@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ai u tha vajzave të veta: Po ku është? Pse e lamë ⟨את⟩ njeriun? Thirreni që të hajë bukë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u tha…te"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "vajzave të veta"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "po ku është"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "e lamë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "thirreni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "që"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "të hajë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:48.521576475Z",
+  "model": "glm-5.3"
+}

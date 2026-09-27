@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Prandaj i çmoj të drejta ⟨të⟩ gjitha parashkrimet e tua ⟨mbi çdo gjë⟩; çdo rrugë gënjeshtre e urrej.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "parashkrimet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo gjë"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "i çmoj të drejta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtre"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "urrej"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:45.592762815Z",
+  "model": "glm-5.3"
+}

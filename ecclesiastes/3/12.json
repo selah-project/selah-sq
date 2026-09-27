@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "E di se s'ka të mirë në ta, por vetëm për t'u gëzuar dhe për të bërë të mirë gjatë jetës së tyre.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "E di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "për t'u gëzuar"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dhe për të bërë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "gjatë jetës së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:14.917958717Z",
+  "model": "glm-5.3"
+}

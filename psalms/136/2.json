@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Falni falënderim Elohit të elohimve, se për jetë të jetëve ⟨është⟩ hesedi i tij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falni falënderim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohit të"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohimve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të jetëve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:01.699333645Z",
+  "model": "glm-5.3"
+}

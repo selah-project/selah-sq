@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Llojtimet e mia ndaj Jahves do t'i paguaj, tani, para gjithë popullit të tij.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "llojtimet e mia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndaj Jahves"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "do t'i paguaj"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "para"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:03.092847747Z",
+  "model": "glm-5.3"
+}

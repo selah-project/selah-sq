@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe do të heq dorën time ⟨את⟩, dhe ti do të shohish shpinën time ⟨את⟩; por Fytyra ime nuk do të shihet.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "dhe do të heq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "dhe do të shohish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpinën time"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shpinën time"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "por Fytyra ime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "do të shihet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:38.172323742Z",
+  "model": "glm-5.3"
+}

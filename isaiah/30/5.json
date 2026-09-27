@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Të turpëruar të tërë për shkak të një populli që nuk u sjell dobi — as si ndihmë, as si dobi, por si turp e madje si fyim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të tërë"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "të turpëruar"
+    },
+    {
+      "surface": "על",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "u sjell dobi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "as"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "si ndihmë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "si dobi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "si turp"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e madje"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "si fyim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:34.106323614Z",
+  "model": "glm-5.3"
+}

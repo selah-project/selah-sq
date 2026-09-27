@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nga fisi i Asherit: ⟨את⟩ Mishalin ⟨me⟩ vathët e tij, ⟨את⟩ Abdonin ⟨me⟩ vathët e tij.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dhe nga fisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i Asherit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishalin"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vathët e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "vathët e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdonin"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vathët e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "vathët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:50.739076537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jeroboami tha në zemrën e tij: «Tani mbretëria do të kthehet te shtëpia e Davidit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboami"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "te shtëpia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:20.084154636Z",
+  "model": "glm-5.3"
+}

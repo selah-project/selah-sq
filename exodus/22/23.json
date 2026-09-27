@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "dhe zemërimi im do të ndizet, dhe do t'ju vras ⟨אתכם⟩ me shpatë, dhe gratë tuaja do të jenë të veja dhe bijtë tuaj jetimë.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "dhe do të ndizet"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "zemërimi im (buzët e hundës sime)"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "dhe do t'ju vras"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "gratë tuaja"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "të veja"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "dhe bijtë tuaj"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "jetimë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:19.461283882Z",
+  "model": "glm-5.3"
+}

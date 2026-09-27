@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do t'i ruani për t'i zbatuar, ashtu si ju ka urdhëruar Jahve, Elohim i juaj, ⟨את⟩ ju; mos shmangeni djathtas as majtas.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do t'i ruani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për t'i zbatuar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ka urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "shmangeni"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "djathtas"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "as majtas"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:14.844703917Z",
+  "model": "glm-5.3"
+}

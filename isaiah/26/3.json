@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Një frymë e mbështetur Ti e mban në paqë të plotë, paqë të plotë, sepse në Ty ⟨është⟩ besimi.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "frymë (koncepcion)"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "e mbështetur"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Ti e mban"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqë të plotë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqë të plotë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në Ty"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "⟨është⟩ besimi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:23.350874395Z",
+  "model": "glm-5.3"
+}

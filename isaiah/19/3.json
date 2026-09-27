@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe fryma e Egjiptit do të zbrazet në brendësi të saj, dhe këshillën e saj do ta gëlltis; dhe do të pyesin idhujt dhe të heshturit dhe të vdekurit-frymë dhe njohësit.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "do të zbrazet"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fryma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në brendësi të saj"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "dhe këshillën e saj"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "do ta gëlltis"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "dhe do të pyesin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "idhujt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "të heshturit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "të vdekurit-frymë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "njohësit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:27.098187127Z",
+  "model": "glm-5.3"
+}

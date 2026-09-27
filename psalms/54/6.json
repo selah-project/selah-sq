@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "Ja, Elohim ⟨është⟩ ndihmësi im; Adonai ⟨është⟩ ndër ata që mbajnë shpirtin tim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ndihmësi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "im"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ndër ata që mbajnë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:59.804792995Z",
+  "model": "glm-5.3"
+}

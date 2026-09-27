@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim tha: Nuk ⟨është⟩ mirë që njeriu të jetë vetëm; do t'i bëj një ndihmës përballë tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "היות",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ndihmës"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "përballë tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:05.534415829Z",
+  "model": "glm-5.3"
+}

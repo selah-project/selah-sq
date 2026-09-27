@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Shekemi i tha Hamorit, atit të tij, duke thënë: Merr më këtë ⟨את⟩ vajzë për grua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamorit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "קח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajzë"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "vajzë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:00.205101273Z",
+  "model": "glm-5.3"
+}

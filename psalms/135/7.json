@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Ai ngre retë nga skajet e tokës, bën vetëtimat për shi, nxjerr erën nga thesaret e tij.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ngrit"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "retë"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nga skajet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "vetëtimat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "për shi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "nxjerr"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erën"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "nga thesaret e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:11.326645515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Hesedi yt, o Jahve, e ka mbushur ⟨⟩tokën; më mëso statutet e tua.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Hesedi yt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e ka mbushur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutet e tua"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "më mëso"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:35.370718800Z",
+  "model": "glm-5.3"
+}

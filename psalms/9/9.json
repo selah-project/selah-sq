@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ⟨ai⟩ do të gjykojë ⟨⟨תבל⟩> tokën në drejtësi, do të gjykojë komunitetet në ndershmëri.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨ai⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "në drejtësi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "komunitetet"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "në ndershmëri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.199218617Z",
+  "model": "glm-5.3"
+}

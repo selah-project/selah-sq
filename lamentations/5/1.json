@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Kujto, o Jahve, çfarë na ka ndodhur neve; shiko dhe pare ⟨את⟩ turpin tonë.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka ndodhur"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe pare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turpin tonë"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "turpin tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:54.991986843Z",
+  "model": "glm-5.3"
+}

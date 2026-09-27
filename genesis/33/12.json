@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe ai tha: Le të nisemi dhe të ecim, dhe unë do të ec para teje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "të nisemi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "dhe të ecim"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dhe unë do të ec"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "para teje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:24.794848936Z",
+  "model": "glm-5.3"
+}

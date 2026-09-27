@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe dërgoi ⟨את⟩ Eljakimin, ⟨i cili ishte⟩ mbi shtëpinë, dhe ⟨את⟩ Shebnain shkrimtarin, dhe ⟨את⟩ pleqtë e priftërinjve, të mbuluar me thesë, te Isaiahu, bir i Amocit, profeti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dhe dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨i cili ishte⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shebnain"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebnain"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "shkrimtarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "pleqtë e priftërinjve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjve"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "të mbuluar"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "me thesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "i Amocit"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:35.411263532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atëherë mbreti i dha përparim Shadrakut, Meshakut dhe Abed-Negosit në provincën e Babilonisë.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "i dha përparim"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakut"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakut"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dhe Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Negosit"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "në provincën e"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:48:11.698131852Z",
+  "model": "glm-5.3"
+}

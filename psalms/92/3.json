@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Për të shpallur në mëngjes hesed-in tënd dhe besnikërinë tënde në netë.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Për të shpallur"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in tënd"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "dhe besnikërinë tënde"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "në netë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:38.534089519Z",
+  "model": "glm-5.3"
+}

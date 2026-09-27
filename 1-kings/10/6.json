@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ajo i tha mbretit: ⟨is⟩ e vërtetë fjala që dëgjova në vendin tim, për fjalët e tua dhe për urtësinë tënde.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "e vërtetë"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "në vendin tim"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "fjalët e tua"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "urtësinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:11.829314466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Hapat tanë tani më kanë rrethuar; sytë e tyre i kanë vënë të më rrëzojnë në tokë.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "hapat tanë"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "më kanë rrethuar"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "sytë e tyre"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "i kanë vënë"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "të rrëzojnë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.723084031Z",
+  "model": "glm-5.3"
+}

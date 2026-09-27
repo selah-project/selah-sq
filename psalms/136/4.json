@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atij që i bën çuditë e mëdha vetëm ai, se për jetë të jetëve ⟨është⟩ hesedi i tij.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Atij që i bën"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "çuditë"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "e mëdha"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm ai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të jetëve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:01.699630355Z",
+  "model": "glm-5.3"
+}

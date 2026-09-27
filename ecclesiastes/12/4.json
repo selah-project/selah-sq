@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe mbyllen dyert nëpër rrugë, kur bie zëri i bluarjes, dhe zgjohet ⟨ai⟩ me zërin e zogut, dhe ulen të gjitha bijat e këngës,",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "dhe mbyllen"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dyert"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "nëpër rrugë"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kur bie"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zëri i"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "bluarjes"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "dhe zgjohet"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "me zërin e"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "zogut"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "dhe ulen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat e"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "këngës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:53.900762204Z",
+  "model": "glm-5.3"
+}

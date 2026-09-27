@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Fjala e Jahvesë që i erdhi Joelit, birit të Petuelit.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iu desh (erdhi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te (i erdhi)"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joelit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:17.657850860Z",
+  "model": "glm-5.3"
+}

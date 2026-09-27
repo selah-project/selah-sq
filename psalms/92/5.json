@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Sepse më gëzove, o Jahve, me veprën tënde; ndaj veprave të duarve të tua do të këndoj me gëzim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "më gëzove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "me veprën tënde"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ndaj veprave"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "të duarve të tua"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "do të këndoj me gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.504359072Z",
+  "model": "glm-5.3"
+}

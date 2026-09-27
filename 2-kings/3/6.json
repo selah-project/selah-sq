@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe mbreti Jehoram doli në atë ditë nga Shomroni, dhe kontrolloi ⟨את⟩ gjithë Izraelin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "nga Shomroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe kontrolloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:56.974283777Z",
+  "model": "glm-5.3"
+}

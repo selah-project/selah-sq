@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Ngjuni te unë dhe ndihmomëni, dhe të godasim ⟨את⟩ Gibeonin, sepse ajo bëri paqe me ⟨את⟩ Jozueun dhe me ⟨את⟩ bijtë e Izraelit.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Ngjuni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "dhe ndihmomëni"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dhe të godasim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeonin"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "bëri paqe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozueun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "me ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:24.174084116Z",
+  "model": "glm-5.3"
+}

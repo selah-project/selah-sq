@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe një njeri, kur ta shenjtërojë ⟨את⟩ shtëpinë e tij si gjë të shenjtë për Jahve, dhe prifti ta vlerësojë atë, mes të mirës dhe mes të keqes; ashtu si ta vlerësojë prifti ⟨את⟩ atë, ashtu të qëndrojë.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ta shenjtërojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e tij"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "gjë të shenjtë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "dhe ta vlerësojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirës"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ta vlerësojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "prifti — objekti i nënvizuar është shtëpia e vlerësuar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "të qëndrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:13.871824446Z",
+  "model": "glm-5.3"
+}

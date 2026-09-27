@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve e forcoi ⟨את⟩ zemrën e Faraonit, dhe ai nuk u dëgjoi ata, ashtu siç kishte folur Jahve me Moisiun.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe e forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e Faraonit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "u dëgjoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:26.570852570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Nuk kthehet më në shtëpinë e tij, dhe vendi i tij nuk e njeh më ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kthehet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "në shtëpinë e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "e njeh atë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:52.347320681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe hipi Jehua dhe shkoi në Jezreel, sepse Jorami rrinte shtrirë atje; dhe Ahaziahu, mbret i Judës, kishte zbritur për të parë ⟨את⟩ Joramin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Dhe hipi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehua"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "në Jezreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jorami"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rinte shtrirë"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "dhe Ahaziahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kishte zbritur"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joramin"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joramin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:14.975747343Z",
+  "model": "glm-5.3"
+}

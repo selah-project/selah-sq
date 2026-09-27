@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe pjesa e mbetur nga oferta e miellit ⟨i takon⟩ Aaronit dhe bijve të tij — ⟨është⟩ gjëra e shenjtë e shenjtorëve, nga flijimet e zjarrit të Jahves.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "dhe pjesa e mbetur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "oferta e miellit"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "për Aaronin"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dhe për bijtë e tij"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtorëve"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nga flijimet e zjarrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:12.042996912Z",
+  "model": "glm-5.3"
+}

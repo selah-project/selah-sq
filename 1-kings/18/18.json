@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ai tha: Nuk e turbullova unë ⟨את⟩ Izraelin, por ti dhe shtëpia e atit tënd, duke i braktisur ju ⟨את⟩ urdhërimet e Jahvesë dhe duke shkuar pas Baalëve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "e turbullova unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(forcë e mohimit)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dhe shtëpia"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "e atit tënd"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "duke i braktisur ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhërimet"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhërimet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "dhe duke shkuar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalëve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:09.407575325Z",
+  "model": "glm-5.3"
+}

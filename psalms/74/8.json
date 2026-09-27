@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Thanë në zemrën e tyre: «T'i shtypim ata bashkarisht!» Dogjën të gjitha vendet e takimit të El-it në vend.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "në zemrën e tyre"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "t'i shtypim ata"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dogjën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "vendt e takimit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të El-it"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.875840572Z",
+  "model": "glm-5.3"
+}

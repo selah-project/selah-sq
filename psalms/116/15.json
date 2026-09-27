@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "E shtrenjtë ⟨është⟩ në sytë e Jahves vdekja e të shenjtëve të tij.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "e shtrenjtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "vdekja e"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "të shenjtëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:03.093029908Z",
+  "model": "glm-5.3"
+}

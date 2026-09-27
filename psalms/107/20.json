@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dërgoi fjalën e vet dhe i shëroi, dhe i çliroi nga shkatërrimet e tyre.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e vet"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "dhe i shëroi"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dhe i çliroi"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "nga shkatërrimet e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:46.974177146Z",
+  "model": "glm-5.3"
+}

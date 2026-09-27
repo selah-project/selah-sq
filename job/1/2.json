@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe i lindën atij shtatë djem dhe tri vajza.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "dhe i lindën"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "dhe tri"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:16.309402066Z",
+  "model": "glm-5.3"
+}

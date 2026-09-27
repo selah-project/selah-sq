@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jakobi shkoi në rrugën e tij, dhe e takuan atë të dërguarit e Elohit.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "dhe Jakobi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "në rrugën e tij"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "dhe e takuan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "të dërguarit e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:45.703257509Z",
+  "model": "glm-5.3"
+}

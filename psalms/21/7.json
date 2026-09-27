@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Sepse ti e bën atij bekime përjetë; e gëzon atij me gëzim, ⟨me⟩ ⟨את⟩ fytyrën tënde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ti e bën atij"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bekime"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "e gëzon atij"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "me gëzim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:18.348820433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 87,
+  "translation": "Dhe këngëtarët si valltarët: të gjitha burimet e mia janë në ty.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "dhe këngëtarët"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "si valltarët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "burimet e mia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:21.688938015Z",
+  "model": "glm-5.3"
+}

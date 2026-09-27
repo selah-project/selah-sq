@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "I ndritshëm je ti, i lavdishëm mbi malet e grabitjes.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "i ndritshëm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "i lavdishëm"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "mbi malet"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "e grabitjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:15.215004458Z",
+  "model": "glm-5.3"
+}

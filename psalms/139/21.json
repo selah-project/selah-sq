@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "A nuk i urrej ata që të urrejnë ty, o Jahve, dhe a nuk përball me ⟨ata⟩ që ngrihen kundër teje?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "A nuk"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ata që të urrejnë ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "i urrej"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "dhe me ata që ngrihen kundër teje"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "përball"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:09.650299975Z",
+  "model": "glm-5.3"
+}

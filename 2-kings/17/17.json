@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe i kaluan ⟨את⟩ bijtë e tyre dhe ⟨את⟩ bijat e tyre nëpër zjarr, dhe fallën fallë dhe paralysisën, dhe u shitën për të bërë të keqen në sytë e Jahves, për ta zemëruar.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "dhe i kaluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tyre"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bijtë e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijat e tyre"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bijat e tyre"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nëpër zjarr"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "dhe fallën"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "fallë"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "paralysisën"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "u shitën"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të bërë"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "për ta zemëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:02.203178549Z",
+  "model": "glm-5.3"
+}

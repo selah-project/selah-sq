@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dëgjoni tani ⟨את⟩ atë që Jahve thotë: Ngriu, paraqit padinë ⟨את⟩ para maleve, dhe kodrat të dëgjojnë zërin tënd.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dëgjoni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që Jahve thotë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ngriu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "paraqit padinë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malet"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "dëgjoftë"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "kodrat"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "zërin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:21.615286268Z",
+  "model": "glm-5.3"
+}

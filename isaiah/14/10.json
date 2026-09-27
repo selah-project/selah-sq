@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Të gjithë do të përgjigjen e do të të thonë: edhe ti u dobësove si ne, bëhe i ngjashëm me ne!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "do të përgjigjen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe do të thonë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "u dobësove"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "si ne"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "u bë i ngjashëm"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:50.457734847Z",
+  "model": "glm-5.3"
+}

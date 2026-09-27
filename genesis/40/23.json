@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe nuk e kujtoi krye-pijetori ⟨את⟩ Jozefin, por e harroi atë.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "e kujtoi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "krye-"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "pijetori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefin"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "por e harroi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:31.447285954Z",
+  "model": "glm-5.3"
+}

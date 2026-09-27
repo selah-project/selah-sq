@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Ai që gris ⟨veten⟩ e vet në tërbimin e tij — a do të braktiset toka për hir të tij, dhe do të zhvendoset shkëmbi nga vendi i vet?",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "gris"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "veten e vet"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në tërbimin e tij"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "për hir të tij"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "a do të braktiset"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "dhe do të zhvendoset"
+    },
+    {
+      "surface": "צור",
+      "gloss": "shkëmbi"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "nga vendi i vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:30:56.900071182Z",
+  "model": "glm-5.3"
+}

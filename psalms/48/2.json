@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "I madh ⟨është⟩ Jahve dhe shumë i lavdëruar, në qytetin e Elohim-it tonë, mali i shenjtërisë së tij.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "I madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dhe i lavdëruar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "e Elohim-it tonë"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "i shenjtërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:09.068923750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvdoni ⟨את⟩ emrin e Jahvesë, sepse emri i tij i vetmi është i lartësuar; madhështia e tij ⟨është⟩ mbi tokën e qiejt.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "i lartësuar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "i vetmi"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "madhështia e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "e qiejt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:49.519901817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Abimeleku i tha Abrahamit: Çfarë pashë, që bëre ⟨את⟩ ⟨këtë⟩ punë?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bëre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:02.281851098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe pemët i thanë hardhisë: Ejë, ti mbretëro mbi ne.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pemët"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "hardhisë"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "mbretëro"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:43.896099457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Më provo, o Jahve, dhe më sprovo; ⟨sprovo⟩ veshkat e mia dhe zemrën time.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Më provo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "dhe më sprovo"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "⟨sprovo⟩ si në zjarr"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "veshkat e mia"
+    },
+    {
+      "surface": "ו לבי",
+      "gloss": "dhe zemrën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:32.173850851Z",
+  "model": "glm-5.3"
+}

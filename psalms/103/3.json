@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "⟨Ai⟩ që fal të gjitha paudhësitë e tua, ⟨ai⟩ që shëron të gjitha sëmundjet e tua.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "që fal"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "paudhësitë e tua"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "që shëron"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "sëmundjet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:32.862913847Z",
+  "model": "glm-5.3"
+}

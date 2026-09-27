@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Për dirigjentin, sipas ⟨nëgjinot⟩, i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "⟨nëgjinot⟩ — me instrumente me tela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:00.412917234Z",
+  "model": "glm-5.3"
+}

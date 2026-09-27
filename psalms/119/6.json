@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Atëherë nuk do të turpërohesha, kur të shikoja ⟨אל⟩ ⟨të⟩ gjitha urdhërimet e tua.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "do të turpërohesha"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "kur të shikoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjitha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhërimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:04.524654732Z",
+  "model": "glm-5.3"
+}

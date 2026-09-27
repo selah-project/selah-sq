@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 2:19",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do të ndodhë ⟨kështu⟩: kushdo që del nga dyert e shtëpisë sate në ⟨të⟩ jashtë, gjaku i tij ⟨bie⟩ mbi kokën e vet, dhe ne do të jemi të pafajshëm; dhe kushdo që të jetë ⟨את⟩ me ty në shtëpi, gjaku i tij bie mbi kokën tonë, nëse një dorë shtrihet mbi të.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "del"
+    },
+    {
+      "surface": "מדלתי",
+      "gloss": "nga dyert"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e shtëpisë sate"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "në të jashtë"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjaku i tij"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mbi kokën e vet"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "dhe ne"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "të pafajshëm"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe kushdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ me ty",
+      "marks": "kushdo që është me ty"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjaku i tij"
+    },
+    {
+      "surface": "בראשנו",
+      "gloss": "mbi kokën tonë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "një dorë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "shtrihet ⟨të jetë⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:20.642767366Z",
+  "model": "glm-5.3"
+}

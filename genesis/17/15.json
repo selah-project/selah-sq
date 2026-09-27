@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Elohim i tha Abrahamit: Sarai, gruaja jote — mos e quaj ⟨את⟩ emrin e saj Sarai, sepse Sarah është emri i saj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "gruaja jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "e quaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e saj"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "emrin e saj"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "është emri i saj"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:14.847686775Z",
+  "model": "glm-5.3"
+}

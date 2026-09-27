@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Kelubi, vëllai i Shuhës, lindi ⟨את⟩ Mehirin; ai ishte ati i Eshtonit.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "dhe Kelubi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "i Shuhës"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehirin"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehirin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "i Eshtonit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:36.898781521Z",
+  "model": "glm-5.3"
+}

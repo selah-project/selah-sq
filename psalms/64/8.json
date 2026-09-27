@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Dhe Elohim do t'i qëllojë me shigjet; papritur ⟨do të jenë⟩ plagët e tyre.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "dhe do t'i qëllojë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "me shigjet"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "papritur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "plagët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.293123583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve i tha Moisiit: Shqua dorën tënde ⟨את⟩ drejt qiellit, dhe le të bjerë breshër në të gjithë vendin e Egjiptit, mbi njeriun, mbi kafshët dhe mbi çdo bar të fushës në vendin e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiit"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "shqua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiellit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe le të bjerë"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "breshër"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshët"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "të fushës"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:38.331687597Z",
+  "model": "glm-5.3"
+}

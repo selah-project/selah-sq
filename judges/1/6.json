@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Adoni-Bezek iku, dhe e ndoqën pas, dhe e zunë ⟨אתו⟩, dhe i prenë ⟨את⟩ gishtat e mëdhenj të duarve të tij dhe të këmbëve të tij.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dhe e ndoqën"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "dhe e zunë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "e zunë atë"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "dhe i prenë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gishtat e mëdhenj"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "gishtat e mëdhenj"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "të duarve të tij"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "dhe të këmbëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:15.259780481Z",
+  "model": "glm-5.3"
+}

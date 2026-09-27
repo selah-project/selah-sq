@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhjetë bijtë e Hamanit, birit të Medathës, armikut të jehudive, i mbytën; por në plaçkitje nuk e shtrinë ⟨את⟩ dorën e tyre.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "Dhjetë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "המן",
+      "gloss": "e Hamanit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "të Medathës"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "armikut"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "të jehudive"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "i mbytën"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "por në plaçkitje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e shtrinë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tyre"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dorën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:21.769892203Z",
+  "model": "glm-5.3"
+}

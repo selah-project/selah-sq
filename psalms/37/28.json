@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Sepse Jahve do drejtsinë dhe nuk e braktis ⟨את⟩ të devotshmit e Tij; përjetë ⟨ata⟩ ruhen, dhe pasardhësit e të ligjve priten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "do"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "drejtsinë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "e braktis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të devotshmit e Tij"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "të devotshmit e Tij"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ruhen"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "dhe pasardhësit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligjve"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "prien"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:20.390671557Z",
+  "model": "glm-5.3"
+}

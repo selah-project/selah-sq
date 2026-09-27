@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Gjithçka që deshi Jahve, ai bëri në qiej dhe në tokë, në dete dhe në të gjitha thellësitë.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "deshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dhe në tokë"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "në dete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe në të gjitha"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "thellësitë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:11.326473272Z",
+  "model": "glm-5.3"
+}

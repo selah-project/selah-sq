@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anathothin me kullotat e saj dhe ⟨את⟩ Almonin me kullotat e saj — katër qytete.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anathothin"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathothin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "Almonin"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "kullotat e saj"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e saj"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:36.003411973Z",
+  "model": "glm-5.3"
+}

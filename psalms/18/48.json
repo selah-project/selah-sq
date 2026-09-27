@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "El-i që jep hakmarrjet ⟨për⟩ mua dhe që i nënshtron popujt nën mua.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "që jep"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "hakmarrjet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe që i nënshtron"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "nën mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:05.742146132Z",
+  "model": "glm-5.3"
+}

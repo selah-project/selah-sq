@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ajo⟩ ishte e hidhët në shpirt, dhe u lut drejt Jahvesë, dhe duke qarë qau shumë.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "dhe ajo"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "e hidhët"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "në shpirt"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "dhe u lut"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "duke qarë"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "qau"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:11.264313571Z",
+  "model": "glm-5.3"
+}

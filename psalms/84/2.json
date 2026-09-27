@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 84,
+  "translation": "Sa të dashura ⟨janë⟩ banesat e tua, Jahve Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "të dashura"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "banesat e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:52.963056613Z",
+  "model": "glm-5.3"
+}

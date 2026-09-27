@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe Jozefi iu përgjigj Faraonit, duke thënë: «Jo unë; Elohim do t'i përgjigjet ⟨shëndetit⟩ të Faraonit.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraonit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "jo unë \/ pa mua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "do të përgjigjet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shëndetit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shëndetit \/ paqes"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:49.882926350Z",
+  "model": "glm-5.3"
+}

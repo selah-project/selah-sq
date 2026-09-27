@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Abrami shkoi, ashtu si i kishte folur Jahve; dhe Loti shkoi ⟨את⟩ me të. Dhe Abrami ishte ⟨i bërë⟩ pesë e shtatëdhjetë vjeç kur doli nga Harani.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "dhe Abrami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ishte ⟨i bërë⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "dhe shtatëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kur doli"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "nga Harani"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:21.906001079Z",
+  "model": "glm-5.3"
+}

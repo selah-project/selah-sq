@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Faqe përballë fytyre fliti Jahve me ju në mal, nga mesi i zjarrit.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Faqe"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "përballë fytyre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:32.706733181Z",
+  "model": "glm-5.3"
+}

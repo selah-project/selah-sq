@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe prifti u dha kryetarëve të qindëshve ⟨את⟩ shtizat dhe ⟨את⟩ mburojat që ishin ⟨të⟩ mbretit David, të cilat ishin në shtëpinë e Jahve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kryetarëve të"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "qindëshve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtizat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "shtizat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mburojat"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "mburojat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:21.316455455Z",
+  "model": "glm-5.3"
+}

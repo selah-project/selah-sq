@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Ngjith shpatën tënd mbi kofshën tënde, o trim i fuqishëm, madhështia jote dhe lavdia jote.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ngjith"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "shpatën tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kofshën"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "o trim i fuqishëm"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "madhështia jote"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "dhe lavdia jote"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:10.867715931Z",
+  "model": "glm-5.3"
+}

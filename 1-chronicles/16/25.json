@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Sepse i madh është Jahve dhe i lavdëruar shumë; ai ⟨është⟩ i tmerrshëm mbi të gjithë perënditë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dhe i lavdëruar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "i tmerrshëm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perënditë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:03:59.607072386Z",
+  "model": "glm-5.3"
+}

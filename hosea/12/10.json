@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe unë ⟨jam⟩ Jahve, Elohim-i yt, që nga toka e Egjiptit; do të bëj të mbesh shtëpi tendash, si në ditët e festës së caktuar.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende\/do"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "do të bëj të mbesh"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "në tenda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "si në ditët e"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "festës së caktuar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:33.998945531Z",
+  "model": "glm-5.3"
+}

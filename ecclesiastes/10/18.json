@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Nga përtacia shembet çatia, dhe nga lëshuaria e duarve pikon shtëpia.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "nga përtacia"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "shembet"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "çatia"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "dhe nga lëshuaria"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "e duarve"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "pikon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpia"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:05.248420922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe filistët u frikësuan, sepse thanë: «Elohim ⟨is⟩⟩ erdhur në kamp.» Dhe thanë: «Mjerë ne! Sepse ⟨is⟩⟩⟩ nuk ka qenë kështu dje e pare dje.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dhe u frikësuan"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "mjerë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "dje"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "e pare dje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:52.432005998Z",
+  "model": "glm-5.3"
+}

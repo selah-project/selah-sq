@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe prifti do të bëjë ⟨את⟩ njërën flijim për mëkatin dhe ⟨את⟩ njërën flijim të djegur, dhe prifti do të shlyejë për të përballë Jahve, për shkak të rrjedhjes së papastërtisë së saj.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe do të bëjë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njërën"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërën"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "flijim për mëkatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "njërën"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërën"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "flijim të djegur"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dhe do të shlyejë"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "rrjedhjes"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "papastërtisë së saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:38.117848397Z",
+  "model": "glm-5.3"
+}

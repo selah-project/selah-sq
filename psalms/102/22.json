@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Për të treguar në Sion emrin e Jahvesë, dhe lavdërimin e tij në Jeruzalem;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "Për të treguar"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Sion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "dhe lavdërimin e tij"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:09.926818938Z",
+  "model": "glm-5.3"
+}

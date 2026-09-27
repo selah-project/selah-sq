@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Na bën një fjalë të urtë ⟨të përmendur⟩ në mes të kombeve, një tundje koke në mes të popujve.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "na bën"
+    },
+    {
+      "surface": "משל",
+      "gloss": "fjalë e urtë e përmendur"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "në mes të kombeve"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "tundje"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "koke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "popujve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:17.870035241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Estera nuk e kishte treguar ⟨את⟩ popullin e saj as ⟨את⟩ vendlindjen e saj, sepse Mordekai i kishte urdhëruar asaj të mos e tregonte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "kishte treguar"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin e saj"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "popullin e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "as ⟨את⟩",
+      "marks": "vendlindjen e saj"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "vendlindjen e saj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "e tregonte"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:35.117661893Z",
+  "model": "glm-5.3"
+}

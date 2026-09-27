@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "dhe unë ⟨do të⟩ të ushqej ⟨אתך⟩ atje, sepse edhe pesë vjet urie mbeten — që të mos varfërohesh ti, shtëpia jote dhe gjithçka që është e jotja.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "dhe ushqej"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ti (kundrinori i drejtë i foljes 'ushqej')"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "urie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "varfërohesh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "dhe shtëpia jote"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לך",
+      "gloss": "është e jotja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:29.530707120Z",
+  "model": "glm-5.3"
+}

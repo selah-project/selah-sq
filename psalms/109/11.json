@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Kreditori i zë kurth çdo gjëje që ka ai, dhe të huajt ia plaçkitën mundimin e tij.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "i zë kurth"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "kreditori"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "çdo gjëje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ai"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dhe ia plaçkitën"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "të huajt"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "mundimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.993329897Z",
+  "model": "glm-5.3"
+}

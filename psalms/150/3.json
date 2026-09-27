@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 150,
+  "translation": "Lëvdojeni atë me tingëllimin e shofarit; lëvdojeni atë me nevel dhe kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "me tingëllimin"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "të shofarit"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "me nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dhe kinnor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.712637057Z",
+  "model": "glm-5.3"
+}

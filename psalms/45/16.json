@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Do të sillen me gëzim dhe hare; do të hyjnë në pallatin e mbretit.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "do të sillen"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "me gëzim"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "dhe hare"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "do të hyjnë"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "në pallatin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "të mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:08.909284636Z",
+  "model": "glm-5.3"
+}

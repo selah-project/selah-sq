@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Edhe këtë e pashë: urtësi nën diell, dhe ajo më dukej e madhe për mua.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "dhe e madhe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:39.403191671Z",
+  "model": "glm-5.3"
+}

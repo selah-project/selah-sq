@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Kush është ky, mbreti i lavdisë? Jahve, i fortë dhe i plotfuqishëm, Jahve i plotfuqishëm në betejë.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "i lavdisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "dhe i plotfuqishëm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "i plotfuqishëm"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "në betejë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:31.499522975Z",
+  "model": "glm-5.3"
+}

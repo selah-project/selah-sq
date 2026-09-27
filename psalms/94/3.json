@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Deri kur, të ligjtit, o Jahve? Deri kur do të gëzohen të ligjtit?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtit"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "do të gëzohen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.085155676Z",
+  "model": "glm-5.3"
+}

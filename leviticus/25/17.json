@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe të mos e shtypni njeri ⟨את⟩ të afermit të vet, por të frikësohesh nga Elohi yt, sepse unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "shtypni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të afermit të vet"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "të afermin e vet"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "por të frikësohesh"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "nga Elohi yt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:02.239414608Z",
+  "model": "glm-5.3"
+}

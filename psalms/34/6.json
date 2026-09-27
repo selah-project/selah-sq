@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "E shikuan atë dhe u ndriçuan, dhe fytyrat e tyre nuk do të turpërohen.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "e shikuan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tek ai"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "dhe u ndriçuan"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dhe fytyrat e tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nuk (le të mos)"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "do të turpërohen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.805903898Z",
+  "model": "glm-5.3"
+}

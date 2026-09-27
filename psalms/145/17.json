@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "I drejtë ⟨është⟩ Jahve në të gjitha rrugët e tij, dhe i mëshirshëm në të gjitha veprat e tij.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "rrugët e tij"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "dhe i mëshirshëm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:39.649241843Z",
+  "model": "glm-5.3"
+}

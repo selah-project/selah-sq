@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Forca ime dhe teksti i këngës ⟨është⟩ Jah, dhe ⟨ai⟩ u bë shpëtim për mua; ky ⟨është⟩ El i imi dhe do ta lavdëroj; Elohim i atit tim dhe do ta lartësoj.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Forca ime"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "dhe teksti i këngës"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "shpëtim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El i imi"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "dhe do ta lavdëroj"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atit tim"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "dhe do ta lartësoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:46.777361104Z",
+  "model": "glm-5.3"
+}

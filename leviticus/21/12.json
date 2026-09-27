@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nga shenjtërorja të mos dalë dhe të mos e shkelë ⟨את⟩ shenjtëroren e Elohim të tij, se shenjtërimi i vajit të miromanies së Elohim të tij është mbi të; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Dhe nga"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "shenjtërorja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "dalë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "e shkelë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shenjtëroren e Elohim të tij"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "shenjtëroren"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "të Elohim të tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "shenjtërimi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "i vajit"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "të miromanies"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "të Elohim të tij"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:30.546810138Z",
+  "model": "glm-5.3"
+}

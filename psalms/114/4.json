@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 114,
+  "translation": "Malet vallëzuan si deshët, kodrat si qengjat e tufës.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Malet"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "vallëzuan"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "si deshët"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kodrat"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "si të rinjtë e"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tufës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:25.779332858Z",
+  "model": "glm-5.3"
+}

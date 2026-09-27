@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "O Elohim i im, bëji si rrotulla, si byku para erës.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim i im"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "bëji"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "si rrotulla"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "si byku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.707425016Z",
+  "model": "glm-5.3"
+}

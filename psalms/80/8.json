@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, ktheji ⟨ne⟩, dhe bëj të shkëlqejë fytyra jote, dhe do të shpëtojmë.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנu",
+      "gloss": "ktheji"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "dhe bëj të shkëlqejë"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyra jote"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dhe do të shpëtojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:38.903739694Z",
+  "model": "glm-5.3"
+}

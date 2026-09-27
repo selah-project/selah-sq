@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe burrat e Israilit dolën nga Micpa dhe ndoqën ⟨את⟩ filistinët dhe i goditën deri nën Beth-Karin.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe dolën"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burrat e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israilit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dhe ndoqën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistinët"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistinët"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "dhe i goditën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:52.863578466Z",
+  "model": "glm-5.3"
+}

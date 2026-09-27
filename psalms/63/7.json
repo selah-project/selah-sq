@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Kur të kujtoj mbi shtratin tim, në rojet e natës meditoj për ty.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kur"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "të kujtoj ty"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "shtratin tim"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "në rojet e natës"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "meditoj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:25.055037221Z",
+  "model": "glm-5.3"
+}

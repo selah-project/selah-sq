@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe zemra e priftit u gëzua, dhe ai mori ⟨את⟩ efodin, dhe ⟨את⟩ terafimët, dhe ⟨את⟩ idhullin, dhe shkoi në mes të popullit.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "u gëzua"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "e priftit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "terafimët"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "idhullin"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "idhullin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "të popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:09:13.791810096Z",
+  "model": "glm-5.3"
+}

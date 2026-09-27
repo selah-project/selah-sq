@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe vrapoi te Eli dhe tha: \"Ja, unë, sepse ti më thirre.\" Ai tha: \"Nuk të thirra ⟨unë⟩; kthehu, shtriu dhe fle.\" Dhe ⟨Samueli⟩ shkoi dhe u shtriu.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dhe vrapoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja, unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ti thirre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "thirra"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "shtriu dhe fle"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dhe u shtriu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:24.963103659Z",
+  "model": "glm-5.3"
+}

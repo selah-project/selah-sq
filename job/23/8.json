@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Ja, përpara shkoj — dhe ai nuk ⟨është⟩; dhe pas — dhe nuk e kuptoj atë.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "shkoj"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dhe ai nuk ⟨është⟩"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "kuptoj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:32:08.362928895Z",
+  "model": "glm-5.3"
+}

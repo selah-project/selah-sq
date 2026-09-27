@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Deri sa hyra në shenjtoret e El-it, atëherë kuptova fundin e tyre.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "hyra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "shenjtoret"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-it"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "kuptova"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "fundin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:43.271921002Z",
+  "model": "glm-5.3"
+}

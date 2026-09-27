@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 131,
+  "translation": "Nëse nuk e kam qetësuar dhe bërë të heshtur shpirtin tim, si një foshnjë e çpjekur pranë nënës së saj — si një foshnjë e çpjekur ⟨pranë meje⟩ është shpirti im.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "e kam qetësuar"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "dhe bërë të heshtur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "si një foshnjë e çpjekur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nënës së saj"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "si një foshnjë e çpjekur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.758553241Z",
+  "model": "glm-5.3"
+}

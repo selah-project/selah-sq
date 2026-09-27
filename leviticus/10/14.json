@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ⟨את⟩ kraharorin e valëzimit dhe ⟨את⟩ këmbën e ndarjes do t'i hani në vend të pastër — ti, bijtë e tu dhe bijat e tu ⟨אתך⟩; sepse pjesa jote dhe pjesa e bijve tuaj janë dhënë nga flijimet e faljeve të bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kraharorin e valëzimit"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "kraharorin"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "e valëzimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këmbën e ndarjes"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "këmbën"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "e ndarjes"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do t'i hani"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "dhe bijtë e tu"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "dhe bijat e tu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ me ty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "pjesa jote"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "dhe pjesa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "e bijve tuaj"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "janë dhënë"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "nga flijimet"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "e faljeve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:28.593856814Z",
+  "model": "glm-5.3"
+}

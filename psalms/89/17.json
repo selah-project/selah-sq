@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Në emrin tënd do të gëzohen ⟨të gjithë⟩ ditën, dhe në të drejtën tënde do të lartësohen.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "në emrin tënd"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "do të gëzohen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "dhe në të drejtën tënde"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "do të lartësohen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:39.449430263Z",
+  "model": "glm-5.3"
+}

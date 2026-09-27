@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Sepse thashë: «Përjetë do të ndërtohet hesed-i; në qiejt do të vendosësh besnikërinë tënde»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed-i"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "do të ndërtohet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "në qiejt"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "do të vendosësh"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "besnikërinë tënde"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:31.594238401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Këngë e ngjitjeve. Ngj sytë e mi drejtë maleve — nga ku do të vijë ndihma ime?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ngj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejtë"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "maleve"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ndihma ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:30.796237526Z",
+  "model": "glm-5.3"
+}

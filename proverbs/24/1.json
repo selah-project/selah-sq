@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Mos u ziliq me njerëzit e këqij, dhe mos dëshiro të jesh ⟨אתם⟩ bashkë me ta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "u ziliq"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "me njerëzit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e këqij"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "dëshiro"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "të jesh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bashkë me ta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:37.450395703Z",
+  "model": "glm-5.3"
+}

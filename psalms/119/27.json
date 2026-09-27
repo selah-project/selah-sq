@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më bëj ⟨të kuptoj⟩ rrugën e urdhrave të tua, dhe do të meditoj mbi çuditë e tua.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "e urdhrave të tua"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "më bëj të kuptoj"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "dhe do të meditoj"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "mbi çuditë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:25.562543393Z",
+  "model": "glm-5.3"
+}

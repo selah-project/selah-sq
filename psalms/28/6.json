@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "I bekuar ⟨qoftë⟩ Jahve, sepse dëgjoi zërin e lutjeve të mia.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "e lutjeve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:26.411667400Z",
+  "model": "glm-5.3"
+}

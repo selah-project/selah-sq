@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do të bëj në zemërim dhe në tërbim hakmarrje mbi ⟨את⟩ kombet që nuk dëgjuan.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "dhe do të bëj"
+    },
+    {
+      "surface": "באף",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "dhe në tërbim"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hakmarrje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombet"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:32.749406617Z",
+  "model": "glm-5.3"
+}

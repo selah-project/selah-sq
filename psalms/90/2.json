@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Përpara se të lindeshin malet dhe të formohej toka e bota, nga përjetësia deri në përjetësi ⟨ti⟩ je El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Përpara se"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "të lindeshin"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "dhe të formohej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "e bota"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "nga përjetësia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:33.222110220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "S'do t'i fshehimi nga fëmijët e tyre; brezit të ardhshëm do t'i tregojmë lavditë e Jahvesë, fuqinë e tij dhe çuditë e tij që ka bërë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "do t'i fshehimi"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "nga fëmijët e tyre"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brezit"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "të ardhshëm"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "do t'i tregojmë"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "lavditë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "dhe fuqinë e tij"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dhe çuditë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.492168064Z",
+  "model": "glm-5.3"
+}

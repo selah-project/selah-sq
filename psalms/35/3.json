@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe ⟨nxirr⟩ shtizën dhe heshtin përballë përndjekësve të mi; i thuaj shpirtit tim: «Unë jam shpëtimi yt.»",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Dhe ⟨nxirr⟩"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "shtizën"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "dhe heshtin"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "përndjekësve të mi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i thuaj"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "shpirtit tim"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "shpëtimi yt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:47.373165998Z",
+  "model": "glm-5.3"
+}

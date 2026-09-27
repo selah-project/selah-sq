@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Dërgoi shenja dhe çudira në mesin tënd, o Egjipt, ndaj Faraonit dhe ndaj të gjithë shërbëtorëve të tij.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Dërgoi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "shenja"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "dhe çudira"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "në mesin tënd"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "o Egjipt"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ndaj Faraonit"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe ndaj të gjithë"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:27.407613575Z",
+  "model": "glm-5.3"
+}

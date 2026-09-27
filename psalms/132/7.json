@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Le të hyjmë në banesat e tij, të përkulmi para ⟨shtores⟩ së këmbëve të tij.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Le të hyjmë"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "në banesat e tij"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "të përkulmi"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "para ⟨shtores⟩"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "së këmbëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:46.435718215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ⟨את⟩ fajësinë e tij do ta sjellë para Jahves: një dash të pacenuar nga tufa, sipas vlerësimit tënd, si flijim fajësie, te prifti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fajësinë e tij"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "fajësia e tij"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "do ta sjellë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para Jahves"
+    },
+    {
+      "surface": "איל",
+      "gloss": "dash"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "i pacenuar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tufa"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sipas vlerësimit tënd"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "si flijim fajësie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:38.614998031Z",
+  "model": "glm-5.3"
+}

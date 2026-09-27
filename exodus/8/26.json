@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Moisi doli nga te Faraoni dhe u lut te Jahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "dhe u lut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:54.885497489Z",
+  "model": "glm-5.3"
+}

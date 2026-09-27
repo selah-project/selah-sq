@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Një popull të paturpshëm nuk do ta shohësh ⟨את⟩ më, popull gjuhë të thellë sa s'kuptohet, gjuhë që tall — pa kuptim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popull të paturpshëm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "të paturpshëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "do ta shohësh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "gjuhë të thellë"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "gjuhë ( buzë)"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa s'kuptohet"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "që tall"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuhë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kuptim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:59.468255443Z",
+  "model": "glm-5.3"
+}

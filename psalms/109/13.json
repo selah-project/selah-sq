@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Le të jetë fundi i tij për t'u prerë; në brez tjetër le të fshihet emri i tyre.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "le të jetë"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "fundi i tij"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "për t'u prerë"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "në brez"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "le të fshihet"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "emri i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:38.161677298Z",
+  "model": "glm-5.3"
+}

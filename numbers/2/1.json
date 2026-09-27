@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve foli me Moisiun dhe me Aaronin, duke thënë:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:43.685141603Z",
+  "model": "glm-5.3"
+}

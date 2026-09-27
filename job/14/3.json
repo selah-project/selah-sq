@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Madje mbi këtë hap ti sytë e tu, dhe ⟨את⟩ mua e çon në gjykim bashkë me ty?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Madje"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "hap ti"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "sytë e tu"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mua (e çon në gjykim)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "e çon"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në gjykim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bashkë me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:47.102553165Z",
+  "model": "glm-5.3"
+}

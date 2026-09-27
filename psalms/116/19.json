@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Në oborret e shtëpisë së Jahves, në mesin tënd, o Jeruzalem. Lëvdoni ⟨e⟩ Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Në oborret"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "së Jahves"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "në mesin tënd"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jeruzalem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "⟨e⟩ Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:51.767733224Z",
+  "model": "glm-5.3"
+}

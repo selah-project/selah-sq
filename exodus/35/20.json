@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe doli e gjithë asambleja e bijve të Izraelit nga prania e Moisit.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Dhe doli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asambleja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nga prania e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:36.838077910Z",
+  "model": "glm-5.3"
+}

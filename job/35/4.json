@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Unë do të të përgjigjem me fjalë, dhe ⟨את⟩ shokët e tu bashkë me ty.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "do të të përgjigjem"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "me fjalë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shokët e tu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "shokët e tu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bashkë me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:35:07.292460505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ajo u ngrit në mes të natës dhe mori ⟨את⟩ birin tim nga krahu im, ndërsa shërbëtorja jote flinte, dhe e shtriu atë në gjiun e saj; dhe ⟨את⟩ birin e saj të vdekur e shtriu në gjiun tim.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natës"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birin tim"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "nga krahu im"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ndërsa shërbëtorja jote"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "flinte"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "dhe e shtriu atë"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "në gjiun e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birin e saj të vdekur"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "birin e saj"
+    },
+    {
+      "surface": "המת",
+      "gloss": "të vdekur"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "e shtriu"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "në gjiun tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:51.759105892Z",
+  "model": "glm-5.3"
+}

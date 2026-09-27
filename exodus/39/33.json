@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe i çuan ⟨את⟩ Mishkanin tek Moisi: ⟨את⟩ çadrën dhe ⟨את⟩ të gjitha veglat e saj, kapëset e saj, drrasat e saj, shufrat e saj, shtyllat e saj dhe bazat e saj.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "dhe i çuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrën"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e saj"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kapëset e saj"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "drrasat e saj"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "shufrat e saj"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "dhe shtyllat e saj"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "dhe bazat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:38.499464016Z",
+  "model": "glm-5.3"
+}

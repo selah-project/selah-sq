@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Moisi mori gjysmën e gjakut dhe e vuri në basena; dhe gjysmën e gjakut e spërkati mbi altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gjysmën"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "e gjakut"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e vuri"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "në basena"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dhe gjysmën"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "e gjakut"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "e spërkati"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:57.130261438Z",
+  "model": "glm-5.3"
+}

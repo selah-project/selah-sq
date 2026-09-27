@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I vogël ⟨jam⟩ unë dhe i përbuzur, por urdhërimet e tua nuk i kam harruar.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "i vogël"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "dhe i përbuzur"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "urdhërimet e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "i kam harruar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:11.220805287Z",
+  "model": "glm-5.3"
+}

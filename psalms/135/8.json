@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Ai që ra ⟨את⟩ të parëlindurit e Egjiptit, nga njeriu deri te kafsha.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "që ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "të parëlindurit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafsha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:11.327101685Z",
+  "model": "glm-5.3"
+}

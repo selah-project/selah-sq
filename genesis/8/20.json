@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndërtoi Noa një altar për Jahve, dhe mori nga çdo kafshë e pastër dhe nga çdo shpend i pastër, dhe ngjiti flijime të djegura mbi altar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga çdo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshë"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "e pastër"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dhe nga çdo"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "shpend"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "i pastër"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe ngjiti"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "flijime të djegura"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "mbi altar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:08.211767536Z",
+  "model": "glm-5.3"
+}

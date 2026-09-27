@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Sauli pa se ⟨ai⟩ ishte shumë i mënçur, dhe u frikëua prej tij.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "i mënçur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dhe u frikëua"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:10.601364393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe mori ⟨את⟩ gjithë yndyrën që ishte mbi të brendshmet, dhe ⟨את⟩ lobin e mëlçisë, dhe ⟨את⟩ dy veshkat dhe ⟨את⟩ yndyrën e tyre; dhe Moisi i dogji në altarin e flijimit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë yndyrën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "të brendshmet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lobin e mëlçisë"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lobin"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "e mëlçisë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dy veshkat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën e tyre"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "yndyrën e tyre"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dhe i dogji si tym"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "në altar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:59.854796814Z",
+  "model": "glm-5.3"
+}

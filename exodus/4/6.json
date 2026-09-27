@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jahve i tha akoma: «Fut, të lutem, dorën tënde nën sqetullën tënde.» Dhe ⟨ai⟩ futi dorën e tij nën sqetullën e tij dhe e nxori ⟨atë⟩, dhe ja, dora e tij ishte e smurë si bora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "fut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nën sqetullën tënde"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe futi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "nën sqetullën e tij"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "dhe e nxori"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "ishte e smurë"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "si bora"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:31.422700722Z",
+  "model": "glm-5.3"
+}

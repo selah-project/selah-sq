@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Faraoni thirri Moisiin dhe Aaronin dhe tha: «Lutjuni Jahvesë që të heqë bretkosat nga unë dhe nga populli im, dhe do t'i lë ⟨את⟩ popullin të flijojë për Jahve.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moisiin"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dhe Aaronin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Lutjuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "të heqë"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bretkosat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "dhe nga populli im"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "dhe do t'i lë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "të flijojë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:55.103984333Z",
+  "model": "glm-5.3"
+}

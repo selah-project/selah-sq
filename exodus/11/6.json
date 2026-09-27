@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të ketë një britmë të madhe në gjithë vendin e Egjiptit, e tillë si ajo ⟨nuk⟩ ka qenë më parë dhe si ajo nuk do të shtohet më.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "dhe do të ketë"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "britmë"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e tillë"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "si ajo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "dhe si ajo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "do të shtohet më"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:18.347166215Z",
+  "model": "glm-5.3"
+}

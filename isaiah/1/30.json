@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse do të jeni si ⟨një⟩ elmë e vyshkur, ⟨me⟩ gjethet e saj, dhe si ⟨një⟩ kopsht që ujë nuk ka për të.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "do të jeni"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "si ⟨një⟩ elmë"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "e vyshkur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "⟨me⟩ gjethet e saj"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "dhe si ⟨një⟩ kopsht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:52.258250420Z",
+  "model": "glm-5.3"
+}

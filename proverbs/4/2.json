@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sepse një mësim të mirë ju kam dhënë; Torën time mos e lini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mësim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ju kam dhënë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torën time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "e lini"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:41.636693484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Le turpërohen e të shkatërrohen kundërshtarët e shpirtit tim; të mbulohen me të fëlliqur e me turp, kërkuesit e së keqes sime.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "le turpërohen"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "e të shkatërrohen"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "kundërshtarët"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "e shpirtit tim"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "të mbulohen"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "me të fëlliqur"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "e me turp"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kërkuesit"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "e së keqes sime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:05.975417592Z",
+  "model": "glm-5.3"
+}

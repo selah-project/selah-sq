@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ai e pa ⟨kërcënimin⟩, dhe u ngrit dhe shkoi ⟨për⟩ shpirtin e vet, dhe erdhi në Beer-Sheba, që ⟨është⟩ e Judës, dhe e la ⟨את⟩ shërbëtorin e tij atje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨për⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirtin e vet"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "e la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin e tij"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:59.881330743Z",
+  "model": "glm-5.3"
+}

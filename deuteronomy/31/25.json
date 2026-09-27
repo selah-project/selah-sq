@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe Moisiu urdhëroi ⟨את⟩ levitët, mbajtësit e arkës së besëlidhjes së Jahvesë, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitët"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mbajtësit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkës"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:46.406303932Z",
+  "model": "glm-5.3"
+}

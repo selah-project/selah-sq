@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Dërgo duart e tua nga lart; më çliro dhe më shpëto nga ujërat e shumta, nga dora e bijve të të huajve.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Dërgo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "duart e tua"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "nga lart"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "më çliro"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dhe më shpëto"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "nga ujërat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të të huajve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:25.480442418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Por ti, o Jahve, rri i ulur përjetë, dhe kujtimi yt për brez e brez.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Por ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rrin i ulur"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "dhe kujtimi yt"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "për brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dhe brez"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:12.085873427Z",
+  "model": "glm-5.3"
+}

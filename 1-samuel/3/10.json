@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe erdhi Jahve, u ndal dhe thirri si herë pas here: «Samuel! Samuel!» Dhe Samueli tha: «Fol, se dëgjon shërbëtori yt.»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dhe erdhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "u ndal"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "si herë"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "pas here"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel!"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Fol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori yt"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:23.795179212Z",
+  "model": "glm-5.3"
+}

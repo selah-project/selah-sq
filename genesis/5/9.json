@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Enoshi jetoi nëntëdhjetë vjet, dhe lindi ⟨את⟩ Kenanin:",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "nëntëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanin"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenanin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:03.578602370Z",
+  "model": "glm-5.3"
+}

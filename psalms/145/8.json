@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Hirshëm dhe mëshirshëm ⟨është⟩ Jahve, i ngadalshëm në zemërim dhe i madh në hesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "hirshëm"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dhe mëshirshëm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "i ngadalshëm"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "dhe i madh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "në hesed"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:19.248274912Z",
+  "model": "glm-5.3"
+}

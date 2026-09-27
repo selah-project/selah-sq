@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "E Jahves është shpëtimi; mbi popullin tënd bekimi yt. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "E Jahves"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "shpëtimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "bekimi yt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:08.545864729Z",
+  "model": "glm-5.3"
+}

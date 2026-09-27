@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Jahve të jetë gjykatës dhe të gjykojë mes meje dhe teje, dhe të shohë e të mbrojë ⟨את⟩ çështjen time, dhe të më shpëtojë nga dora jote.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe të jetë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "gjykatës"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "dhe të gjykojë"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mes meje"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dhe teje"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe të shohë"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "e të mbrojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çështjen time"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "çështjen time"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "dhe të më shpëtojë"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nga dora jote"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:35.213420012Z",
+  "model": "glm-5.3"
+}

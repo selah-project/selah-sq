@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Avrahami e rrethpreu ⟨את⟩ Jic'hakun, birin e tij, djalë tetëditësh, ashtu si i kishte urdhëruar ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Dhe e rrethpreu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jic'hakun"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jic'hakun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "בן",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditësh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:29.743070819Z",
+  "model": "glm-5.3"
+}

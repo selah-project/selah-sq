@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Mos ki frikë, sepse ⟨את⟩ me ty jam unë; nga lindja do të sjell farën tënde, dhe nga perëndimi do të të mbledh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ki frikë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ me ty",
+      "marks": "me ty (jam unë)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "nga lindja"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "do të sjell"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farën tënde"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dhe nga perëndimi"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "do të të mbledh"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:44.510592472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Edhe ti, ngre shkopin tënd ⟨את⟩ dhe zgjat dorën tënde ⟨את⟩ mbi det dhe ndaje atë, dhe bijtë e Izraelit do të hyjnë në mes të detit në tokë të thatë.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "edhe ti"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopin tënd"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "shkopin tënd"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "dhe zgjat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "dhe ndaje atë"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe do të hyjnë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detit"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "në tokë të thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:30.332237615Z",
+  "model": "glm-5.3"
+}

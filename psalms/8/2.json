@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Jahve, Adonai ynë, sa i madhështor është emri yt në gjithë ⟨të⟩ dhé-në, i cili ke vënë madhështinë tënde mbi qiejt!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai ynë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "i madhështor"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhé-në"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ke vënë"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "madhështinë tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:15.767958301Z",
+  "model": "glm-5.3"
+}

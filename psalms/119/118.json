@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I ke ⟨peshuar e hedhur poshtë⟩ gjithë të humburit nga statutet e tua, sepse gënjeshtra ⟨është⟩ mashtrimi i tyre.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "i ke ⟨peshuar e hedhur poshtë⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "të humburit"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "nga statutet e tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtra"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "mashtrimi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.570614641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Davidi e deshi shumë dhe tha: Kush do të më japë të pi ujë nga puthina e Bet-Lehemit, ajo që është te porta?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "e deshi shumë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "do të më japë të pi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "nga puthina e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "është te porta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:19.368195724Z",
+  "model": "glm-5.3"
+}

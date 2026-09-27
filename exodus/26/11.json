@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të bësh pesëdhjetë kapëse bakri, dhe do të fusësh ⟨את⟩ kapëset në unaza, dhe do ta bashkosh ⟨את⟩ çadrën, dhe do të jetë një e tërë.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kapëse"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bakri"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pesëdhjetë"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "dhe do të fusësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapëset"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "kapëset"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "në unaza"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "dhe do ta bashkosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrën"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një e tërë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:55.530662338Z",
+  "model": "glm-5.3"
+}

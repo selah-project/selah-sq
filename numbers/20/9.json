@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Moisi e mori ⟨את⟩ shkopin nga përballë Jahves, sikurse i kishte urdhëruar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shkopin"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "shkopin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nga përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sicurse"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i kishte urdhëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:40.507225411Z",
+  "model": "glm-5.3"
+}

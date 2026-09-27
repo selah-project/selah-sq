@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Sepse hesed-i yt është më i mirë se jeta; buzët e mia të lëvdojnë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "është më i mirë"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "se jeta"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët e mia"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "të lëvdojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:28.621688741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe e largoi atë mbreti i Egjiptit në Jeruzalem, dhe e gjobiti ⟨את⟩ vendin me njëqind talantë argjendi dhe një talant ari.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "dhe e largoi atë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "dhe e gjobiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talantë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "dhe një talant"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:35.764161057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe foli kryekupembajtësi ⟨את⟩ Paroa, duke thënë: ⟨את⟩ gabimet e mia po i përmend sot.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryekupembajtësi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "i kupeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabimet e mia"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "gabimet e mia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "po i përmend"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:26.684555388Z",
+  "model": "glm-5.3"
+}

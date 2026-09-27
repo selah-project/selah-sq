@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe korbat i sillnin ⟨atij⟩ bukë e mish në mëngjes, dhe bukë e mish në mbrëmje; dhe nga përroji pinte ⟨uji⟩.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "dhe korbat"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "i sillnin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨atij⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e mish"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dhe bukë"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e mish"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "përroji"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pinte ⟨uji⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:32.187340923Z",
+  "model": "glm-5.3"
+}

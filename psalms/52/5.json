@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Ti e do të keqën më shumë se ⟨të⟩ mirën, gënjeshtrën më shumë se të folurit e drejtësisë. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ti e do"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqën"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "më shumë se ⟨të⟩ mirën"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtrën"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "më shumë se të folurit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "e drejtësisë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:14.505198011Z",
+  "model": "glm-5.3"
+}

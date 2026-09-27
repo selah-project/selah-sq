@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe jo vetëm me ju ⟨me⟩ ⟨אתכם⟩ — unë ⟨po⟩ pres ⟨את⟩ këtë besëlidhje dhe ⟨את⟩ këtë mallkim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨me⟩ ⟨אתכם⟩"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "vetëm me ju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "pres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë besëlidhje"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këtë mallkim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "mallkimin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:38.246889482Z",
+  "model": "glm-5.3"
+}

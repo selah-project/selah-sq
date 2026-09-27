@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Sepse unë e zhvesha ⟨את⟩ Esavin, i zbulova ⟨את⟩ vendet e tij të fshehta, dhe ai nuk mund të fshihet; plaçkitet fara e tij, dhe vëllezërit e tij dhe fqinjët e tij — dhe ai nuk është më.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "e zhvesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "i zbulova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendet e tij të fshehta"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "vendet e tij të fshehta"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "dhe të fshihet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "plaçkitet"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "fara e tij"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dhe vëllezërit e tij"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "dhe fqinjët e tij"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dhe ai nuk është më"
+    }
+  ],
+  "timestamp": "2026-09-27T16:23:15.892052440Z",
+  "model": "glm-5.3"
+}

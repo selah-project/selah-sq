@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai tha: Thirre atë. Dhe e thirri atë, dhe ajo qëndroi në prag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Thirre"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Dhe e thirri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhe ajo qëndroi"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "në prag"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:33.164978848Z",
+  "model": "glm-5.3"
+}

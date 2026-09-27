@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Për dirigjentin, sipas Gititit, për Asafin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gititit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "për Asafin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:32.670831551Z",
+  "model": "glm-5.3"
+}

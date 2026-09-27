@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Sepse vetvetes i foli fjalë të buta në sytë e tij, për të gjetur paudhësinë e tij ⟨të⟩ urryer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "i foli fjalë të buta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vetvetes"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "për të gjetur"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "paudhësinë e tij"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "për t'u urryer"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:58.931835335Z",
+  "model": "glm-5.3"
+}

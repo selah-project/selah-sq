@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "I bekuar ⟨do të jesh⟩ mbi të gjithë popujt; nuk do të ketë te ti i shpuar as e shpuar, as në bagëtinë tënde.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jesh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjithë"
+    },
+    {
+      "surface": "העממים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ketë"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "i shpuar"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "as e shpuar"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "as në bagëtinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:47.338931190Z",
+  "model": "glm-5.3"
+}

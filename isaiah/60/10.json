@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Dhe bijtë e të huajve do të ndërtojnë muret e tua, dhe mbretërit e tyre do të të shërbejnë; sepse në zemërimin tim të godita, dhe në të mirën time të pata mëshirë.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "dhe do të ndërtojnë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huajve"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "muret e tua"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "dhe mbretërit e tyre"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "do të të shërbejnë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "në zemërimin tim"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "të godita"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "dhe në të mirën time"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "të pata mëshirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:35.581386776Z",
+  "model": "glm-5.3"
+}

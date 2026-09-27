@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Dora jote qoftë mbi njeriun e djathtës sate, mbi birin e njeriut që fortësove për veten tënde.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mbi njeriun"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "e djathtës sate"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "fortësove"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për veten tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.573604505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Moisi i tha Jahves: Të lutem, Adonai, unë nuk jam njeri fjalësh — as dje, as pardje, as që atëherë kur ti folje shërbëtorit tënd — se unë ⟨kam⟩ gojë të rëndë dhe gjuhë të rëndë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בי",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neri"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "i fjalëve"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë jam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "dje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "pardje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "që atëherë"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kur folje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorit tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "e rëndë"
+    },
+    {
+      "surface": "פה",
+      "gloss": "goja"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "dhe e rëndë"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë ⟨jam⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:55.645157362Z",
+  "model": "glm-5.3"
+}

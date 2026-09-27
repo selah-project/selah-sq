@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe banorët e Gibeonit dëgjuan ⟨את⟩ atë që kishte bërë Jozuei ndaj Jerikos dhe ndaj Ajait.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "dhe banorët e"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonit"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që kishte bërë Jozuei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ndaj Jerikos"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "dhe ndaj Ajait"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:46.412711294Z",
+  "model": "glm-5.3"
+}

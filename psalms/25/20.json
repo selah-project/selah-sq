@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Ruaj shpirtin tim dhe çfrmë; të mos turpërohem, sepse kam gjetur strehë te ti.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Ruaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dhe çfrmë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "të turpërohem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kam gjetur strehë"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:59.721340590Z",
+  "model": "glm-5.3"
+}

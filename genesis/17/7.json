@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 17:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe do ta ngrit ⟨את⟩ besëlidhjen time mes meje dhe teje, dhe mes farës sate pas teje, për brezat e tyre, si besëlidhje të përjetshme, për të qenë për ty Elohim dhe për farën tënde pas teje.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "dhe do ta ngrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mes meje"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dhe teje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farës sate"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "për brezat e tyre"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "si besëlidhje"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të përjetshme"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "dhe për farën tënde"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:30.752202150Z",
+  "model": "glm-5.3"
+}

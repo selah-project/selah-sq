@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Sepse do t'i bësh ata ⟨të⟩ kthejnë shpinën; me harkun tënd do të përgatitesh kundër fytyrës së tyre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "do t'i bësh ata"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "shpinën"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "me harkun tënd"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "do të përgatitesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fytyrës së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:55.825973443Z",
+  "model": "glm-5.3"
+}

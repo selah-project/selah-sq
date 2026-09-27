@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dëshira e përtacit e vret ⟨atë⟩, sepse duart e tij refuzojnë të punojnë.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "dëshira"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "e përtacit"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "e vret ⟨atë⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "refuzojnë"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duart e tij"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të punojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:38.230450176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Adah lindi ⟨את⟩ Jabalin; ai qe ati i atyre që banojnë në tenda dhe i atyre që kanë bagëti.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabalin"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jabalin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "qe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "që banojnë"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "në tenda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "dhe bagëti"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:34.985907963Z",
+  "model": "glm-5.3"
+}

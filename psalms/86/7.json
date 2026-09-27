@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Në ditën e ngushticës sime do të të thërras, sepse ti më përgjigjesh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ngushticës sime"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "do të të thërras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "më përgjigjesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.863642771Z",
+  "model": "glm-5.3"
+}

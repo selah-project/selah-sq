@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Elohim dëgjoi ⟨את⟩ ankimin e tyre, dhe Elohim kujtoi ⟨את⟩ besëlidhjen e tij, ⟨me⟩ ⟨את⟩ Abrahamin, ⟨me⟩ ⟨את⟩ Isakun dhe ⟨me⟩ ⟨את⟩ Jakobin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ankimin e tyre"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ankimin e tyre"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "kujtoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen e tij"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨me⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨me⟩",
+      "marks": "Isakun"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨me⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:26.164678170Z",
+  "model": "glm-5.3"
+}

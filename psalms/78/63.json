@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Zjarri i hëngri të rinjtë e tij, dhe virgjëreshat e tij nuk u lëvduan ⟨me këngë dasme⟩.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "të rinjtë e tij"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "i hëngri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "dhe virgjëreshat e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "u lëvduan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:01.905952856Z",
+  "model": "glm-5.3"
+}

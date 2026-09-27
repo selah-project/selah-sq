@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do të dërgoj zjarr mbi muret e Tirit, dhe ai do të gëlltisë kështjellat e tij.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dhe do të dërgoj"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mbi muret e"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tirit"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe ai do të gëlltisë"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "kështjellat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:07.363854768Z",
+  "model": "glm-5.3"
+}

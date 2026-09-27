@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Samuili vdiq, dhe i gjithë Izraeli e bekoi atë, dhe e varrosën në Rama, në qytetin e tij; dhe Sauli i kishte larguar falltaret-me-shpirt dhe ⟨את⟩ thirrësit e shpirtit nga vendi.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Dhe Samuili"
+    },
+    {
+      "surface": "מת",
+      "gloss": "vdiq"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "e bekuan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "në Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "në qytetin e tij"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "dhe Sauli"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "i kishte larguar"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "falltaret-me-shpirt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thirrësit e shpirtit"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "thirrësit e shpirtit"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "nga vendi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:48.611318807Z",
+  "model": "glm-5.3"
+}

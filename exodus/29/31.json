@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ⟨את⟩ dashin e mbushjes do ta marrësh, dhe do të zjejsh ⟨את⟩ mishin e tij në një vend të shenjtë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dashin e mbushjes"
+    },
+    {
+      "surface": "איל",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "e mbushjes"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "do ta marrësh"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "dhe do të zjejsh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin e tij"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishin e tij"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "në një vend"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:26.404534312Z",
+  "model": "glm-5.3"
+}

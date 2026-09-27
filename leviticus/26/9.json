@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të kthehem nga ju, do t'ju bëj të frytshëm ⟨את⟩ dhe do t'ju shumoj ⟨את⟩, dhe do të ngre besëlidhjen time ⟨את⟩ me ju.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "do të kthehem nga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "do t'ju bëj të frytshëm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "do t'ju bëj të frytshëm (ju)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "do t'ju shumoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "do t'ju shumoj (ju)"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "do të ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:13.499231623Z",
+  "model": "glm-5.3"
+}

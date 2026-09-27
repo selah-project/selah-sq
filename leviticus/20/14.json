@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një burrë që merr ⟨את⟩ një grua dhe ⟨את⟩ nënën e saj — përdorësi ⟨është⟩ kjo; në zjar do t'i djegin atë dhe ato, dhe të mos ketë përdorësi mes jush.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një burrë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një grua"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "nënën e saj"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "nënën e saj"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "përdorësi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjar"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "do t'i djegin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "dhe ⟨את⟩ ato",
+      "marks": "ato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "përdorësi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mes jush"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:47.103287531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vajosësh ⟨את⟩ altarin e flijimit të djegur dhe ⟨את⟩ të gjitha pajisjet e tij, dhe do ta shenjtërosh ⟨את⟩ altarin; dhe altari do të jetë shenjtëria e shenjtorëve.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do të vajosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarin e flijimit të djegur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e flijimit të djegur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha pajisjet e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pajisjet e tij"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dhe do ta shenjtërosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "shenjtëria"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtorëve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:54.261451582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Eifa, përkëndja e Kalebit, lindi ⟨את⟩ Haranin dhe ⟨את⟩ Motsanë dhe ⟨את⟩ Gazezin; dhe Harani e lindi ⟨את⟩ Gazezin.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "dhe Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "përkëndja"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "e Kalebit"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Motsanë"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Gazezin"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezin"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "dhe Harani"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "e lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazezin"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:48.857717922Z",
+  "model": "glm-5.3"
+}

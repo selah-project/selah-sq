@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Davidi këndoi ⟨את⟩ vajtimin këtë për Saulin dhe për Jonathanin, birin e tij.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "këndoi vajtim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajtimin"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "vajtimin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathanin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:02.328668104Z",
+  "model": "glm-5.3"
+}

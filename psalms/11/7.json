@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse Jahve ⟨është⟩ i drejtë, drejtësinë e do; të drejtit do të shohin fytyrën e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "e do"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "do të shohin"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "fytyrën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:49.598110299Z",
+  "model": "glm-5.3"
+}

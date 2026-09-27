@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse shtypja e çmend të urtin, dhe ryshfeti shkatërron ⟨את⟩ zemrën e dhuratës.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "shtypja"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "e çmend"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "të urtin"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "dhe shkatërron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "e dhuratës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:21.830864590Z",
+  "model": "glm-5.3"
+}

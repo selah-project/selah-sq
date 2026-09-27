@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të sjellësh ⟨את⟩ Aaronin dhe ⟨את⟩ bijtë e tij deri te hyrja e Çadrës së Takimit, dhe do t'⟨את⟩ i lash me ujë.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dhe do të sjellësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "dhe do t'i lash"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ i"
+    },
+    {
+      "surface": "במים",
+      "gloss": "me ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:54.261864238Z",
+  "model": "glm-5.3"
+}

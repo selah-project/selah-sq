@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Zebuli, kryetari i qytetit, dëgjoi ⟨את⟩ fjalët e Gaalit, birit të Ebedit, dhe iu ndez zemërimi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebuli"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i qytetit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e Gaalit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "געל",
+      "gloss": "e Gaalit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "të Ebedit"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dhe iu ndez"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:35.906850162Z",
+  "model": "glm-5.3"
+}

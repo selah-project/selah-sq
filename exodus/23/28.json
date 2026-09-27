@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe do ta dërgoj ⟨את⟩ grerë-n përpara teje, dhe ajo do t'i dëbojë ⟨את⟩ Hivitët, ⟨את⟩ Kanaanitët dhe ⟨את⟩ Hititët nga para teje.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dhe do ta dërgoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grerën"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "grerën"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "dhe ajo do t'i dëbojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivitët"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivitët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanitët"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hititët"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hititët"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "nga para teje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:32.716888247Z",
+  "model": "glm-5.3"
+}

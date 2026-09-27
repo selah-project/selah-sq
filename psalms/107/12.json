@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "dhe ai i përuli me mundim zemrën e tyre; u thyen, dhe s'kishte kush të ndihmonte.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "dhe ai i përuli"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "me mundim"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemrën e tyre"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "u thyen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'kishte"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "kush të ndihmonte"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.439341735Z",
+  "model": "glm-5.3"
+}

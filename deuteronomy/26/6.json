@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe egjiptianët na bënë keq ⟨אתנו⟩ dhe na shtypën, dhe na ngarkuan mbi ne punë të rëndë të detyruar.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "dhe na bënë keq"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ne (kundrajon direkt ne)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "dhe na shtypën"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dhe na ngarkuan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "punë të detyruar"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "të rëndë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:10.730687741Z",
+  "model": "glm-5.3"
+}

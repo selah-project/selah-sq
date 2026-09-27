@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Dhe kombeve do të shkojnë drejt dritës sate, dhe mbretërit drejt shkëlqimit të lindjes sate.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Dhe … do të shkojnë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "drejt dritës sate"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "dhe mbretërit"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "drejt shkëlqimit"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "të lindjes sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:04.556244578Z",
+  "model": "glm-5.3"
+}

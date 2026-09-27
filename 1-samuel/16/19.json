@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Sauli dërgoi të dërguar te Isai dhe tha: Dërgomë ⟨את⟩ Davidin, birin tënd, që ⟨është⟩ te delet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dhe ... dërgoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "të dërguar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Dërgomë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "birin tënd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "te delet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:21.836693761Z",
+  "model": "glm-5.3"
+}

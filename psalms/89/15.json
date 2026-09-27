@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Drejtësia dhe gjykimi ⟨janë⟩ themeli i fronit tënd; hesed dhe e vërteta ecin përpara fytyrës sate.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Drejtësia"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe gjykimi"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "themeli"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "i fronit tënd"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe e vërteta"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ecin përpara"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:45.510986975Z",
+  "model": "glm-5.3"
+}

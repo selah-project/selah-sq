@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe i tha atij: Kështu ka thënë Jefthahu: Nuk mori Izraeli ⟨את⟩ tokën e Moabit, as ⟨את⟩ tokën e bijve të Amonit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jefthahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Moabit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën e"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën e bijve të Amonit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:06:54.311976282Z",
+  "model": "glm-5.3"
+}

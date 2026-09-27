@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Jahve do të ruajë daljen tënde dhe ardhjen tënde, nga tani e deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "do të ruajë"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "daljen tënde"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "dhe ardhjen tënde"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nga tani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:55.180406571Z",
+  "model": "glm-5.3"
+}

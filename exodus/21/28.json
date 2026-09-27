@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse një ka shpon ⟨את⟩ një njeri ose ⟨את⟩ një grua dhe vdes, kafja të gjuhet me gurë patjetër, dhe mishi i saj të mos hahet ⟨את⟩, por zotëriu i kares është i pafajshëm.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "shpon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "një ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një njeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një grua"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe vdes"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "të gjuhet me gurë"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "patjetër (me gurë)"
+    },
+    {
+      "surface": "השור",
+      "gloss": "kafja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe ... të mos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hahet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishi i saj"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishi i saj"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "por zotëriu i"
+    },
+    {
+      "surface": "השור",
+      "gloss": "kares"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "është i pafajshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:29.161877137Z",
+  "model": "glm-5.3"
+}

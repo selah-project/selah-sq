@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 14:15",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ndodhi në ditën e shtatë, dhe i thanë gruas së Shimshonit: Mashtro ⟨את⟩ burrin tënd, që të na tregojë ⟨את⟩ gjëegjëzën, se përndryshe do të të djegim ⟨את⟩ ty dhe ⟨את⟩ shtëpinë e babait tënd me zjarr. A na keni thirrur për të na varfëruar? ⟨A nuk ⟨është kështu⟩⟩?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "לאשת",
+      "gloss": "gruas së"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshonit"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mashtro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burrin tënd"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "burrin tënd"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe të tregojë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjëegjëzën"
+    },
+    {
+      "surface": "החידה",
+      "gloss": "gjëegjëzën"
+    },
+    {
+      "surface": "פן",
+      "gloss": "se përndryshe"
+    },
+    {
+      "surface": "נשרף",
+      "gloss": "do të djegim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e babait tënd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "e babait tënd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "הלירשנו",
+      "gloss": "për të na varfëruar"
+    },
+    {
+      "surface": "קראתם",
+      "gloss": "keni thirrur"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apo jo"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:51.571560246Z",
+  "model": "glm-5.3"
+}

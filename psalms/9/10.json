@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve ⟨do të jetë⟩ vend-strength i shtypurit, vend-strength në kohët e ngushtësisë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ⟨do të jetë⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "vend-strength"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "i shtypurit"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "vend-strength"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "në kohët"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "të ngushtësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.199654324Z",
+  "model": "glm-5.3"
+}

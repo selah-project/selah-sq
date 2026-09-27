@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ata që shpërblejnë të keqen në vend të së mirës, më përçojnë akuzë, sepse unë ndjek ⟨të⟩ mirën.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "dhe ata që shpërblejnë"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "së mirës"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "më përçojnë akuzë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sepse (në vend)"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "ndjekjen time"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:26.163282499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Kërm i ngordhur dhe copë e coptuar nga egërsira nuk do të hajë, për t'u bërë i papastër me të; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "kërm i ngordhur"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "dhe copë e coptuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hajë"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "për t'u bërë i papastër"
+    },
+    {
+      "surface": "בה",
+      "gloss": "me të"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:51.971095574Z",
+  "model": "glm-5.3"
+}

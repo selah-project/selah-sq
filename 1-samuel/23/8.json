@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Sauli thirri ⟨את⟩ gjithë popullin për luftë, për të zbritur në Keila, për të rrethuar Davidin dhe njerëzit e tij.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "për të zbritur"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "në Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "për të rrethuar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "njerëzit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:37.060637939Z",
+  "model": "glm-5.3"
+}

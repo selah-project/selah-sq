@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ demin, ⟨את⟩ lëkurën e tij, ⟨את⟩ mishin e tij dhe ⟨את⟩ plehrat e tij i dogji me zjarr jashtë kampit, ashtu siç urdhëroi Jahve ⟨את⟩ Moisi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "demin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lëkurën e tij"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "lëkurën e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mishin e tij"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "plehrat e tij"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "plehrat e tij"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "i dogji"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:45.041653744Z",
+  "model": "glm-5.3"
+}

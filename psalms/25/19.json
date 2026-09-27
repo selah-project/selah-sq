@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Shiko armiqtë e mi, sepse janë shumë, dhe me urrye dhunore më urrejnë.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Shiko"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "janë shumë"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "dhe me urrye"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunore"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "më urrejnë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:59.721183434Z",
+  "model": "glm-5.3"
+}

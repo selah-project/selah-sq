@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Sepse Jahve pa ⟨את⟩ mundimin e Izraelit, se ishte shumë i hidhët; dhe nuk kishte të mbyllur e të braktisur fare, dhe nuk kishte ndihmës për Izraelin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mundimin e Izraelit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mundimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "i hidhët"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "të mbyllur"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "të braktisur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ndihmës"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:17.730306229Z",
+  "model": "glm-5.3"
+}

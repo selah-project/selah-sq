@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Prano, të lutem, o Jahve, flijimet e vullnetshme të gojës sime dhe mësoji mua gjykimet e tua.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "flijimet e vullnetshme"
+    },
+    {
+      "surface": "פי",
+      "gloss": "të gojës sime"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "prano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "dhe gjykimet e tua"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mësoji mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.592292369Z",
+  "model": "glm-5.3"
+}

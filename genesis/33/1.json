@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Jakobi i ngriti sytë e tij dhe pa, dhe ja, Esau po vinte, dhe me të katërqind vetë; dhe ai i ndau ⟨את⟩ fëmijët te Lea dhe te Rahela dhe te të dy shërbëtoret.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngriti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sytë e tij"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בא",
+      "gloss": "po vinte"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "dhe me të"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vetë"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "dhe ndau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijët"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "על",
+      "gloss": "te"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe te"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe te"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "shërbëtoret"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:02.948539327Z",
+  "model": "glm-5.3"
+}

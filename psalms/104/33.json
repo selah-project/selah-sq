@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Do të këndoj për Jahvenë gjatë jetës sime, do të bjë me vegla muzikore për Elohimin tim për sa kohë do të jem ⟨unë⟩.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "gjatë jetës sime"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të bjë me vegla muzikore"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "për Elohimin tim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "për sa kohë do të jem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:00.817592211Z",
+  "model": "glm-5.3"
+}

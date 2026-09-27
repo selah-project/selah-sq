@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Lotët e mi më qenë bukë ditë e natë, kur më thoshin gjithë ditën: Ku është Elohim i yt?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "qenë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "lotët e mi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe natë"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kur thoshin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:59.685952779Z",
+  "model": "glm-5.3"
+}

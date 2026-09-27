@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe dërgoi ⟨את⟩ Eljakimin, ⟨i cili ishte⟩ mbi shtëpinë, dhe Shebnanë shkruesin, dhe ⟨את⟩ pleqtë e priftërinjve, të mbuluar me thesa, te profeti Jesaja, bir i Amocit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "dhe Shebnanë"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "shkruesin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pleqtë e priftërinjve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjve"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "të mbuluar"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "me thesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "i Amocit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:16.846002271Z",
+  "model": "glm-5.3"
+}

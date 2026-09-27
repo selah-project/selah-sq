@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do të dinë se unë jam Jahve, kur t'i shpërndaj ⟨אותם⟩ midis kombeve dhe t'i shkapërcej ⟨אותם⟩ nëpër vendet.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dhe do të dinë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "kur t'i shpërndaj"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "midis kombeve"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dhe t'i shkapërcej"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "nëpër vendet"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nëpër vendet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:28:39.581926555Z",
+  "model": "glm-5.3"
+}

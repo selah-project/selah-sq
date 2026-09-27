@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Ndodhi që, kur Davidi ishte ⟨את⟩ me Edomin, dhe Joabi, komandanti i ushtrisë, u ngjit të varrosej ⟨את⟩ të rënët, ai goditi çdo mashkull në Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kur ishte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ me",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "kur u ngjit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandanti i"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ushtrisë"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "të varrosej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të rënët"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "të rënët"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "në Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.439651239Z",
+  "model": "glm-5.3"
+}

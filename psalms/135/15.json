@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Idhujt e kombeve ⟨janë⟩ argjend e ar, vepër e duarve të njeriut.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Idhujt"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe ar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "vepër"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "e duarve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:41.472928435Z",
+  "model": "glm-5.3"
+}

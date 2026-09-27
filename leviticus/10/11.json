@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨që⟩ t'i mësoni ⟨את⟩ bijtë e Izraelit ⟨את⟩ të gjitha statutet që ka folur Jahve ndaj tyre me anë të Moisit.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "dhe t'i mësoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha statutet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ndaj tyre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë (dorë) të"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:32.638806500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Naarahu i lindoi atij ⟨את⟩ Ahuzzamin dhe ⟨את⟩ Hephërin dhe ⟨את⟩ Temenin dhe ⟨את⟩ Haahashtaritë. Këta ishin bijtë e Naarahës.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Dhe lindoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzzamin"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzzamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hephërin"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hephërin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Temenin"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haahashtaritë"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtaritë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "e Naarahës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:11.357163291Z",
+  "model": "glm-5.3"
+}

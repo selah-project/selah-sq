@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Kujtoni çudirat e tij që bëri, mrekullitë e tij dhe gjykimet e gojës së tij.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Kujtoni"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "çudirat e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mrekullitë e tij"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "dhe gjykimet"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "të gojës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:03.475661068Z",
+  "model": "glm-5.3"
+}

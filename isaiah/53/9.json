@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Dhe i dha ⟨את⟩ të ligjtin për varrin e tij, dhe ⟨את⟩ të pasurit në vdekjet e tij; megjithëse pa dhunë ai vepruar dhe pa mashtrim në gojën e tij.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe i dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të ligjtin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtin"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "për varrin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të pasurit"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "të pasurit"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "në vdekjet e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "megjithëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ai vepruar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mashtrim"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "në gojën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:33.899111416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nuk do të banojnë në ⟨të⟩ tokën e Jahvesë, dhe Efraimi do të kthehet në Egjipt, dhe në Asiri do të hanë ushqim të papastër.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "do të banojnë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dhe do të kthehet"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "dhe në Asiri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "të papastër"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hanë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:44.541775136Z",
+  "model": "glm-5.3"
+}

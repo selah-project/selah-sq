@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Kur një njeri bën të kullosë një fushë ose vresht dhe lëshon ⟨את⟩ kafshët dhe kafshët kullosin në fushën e një tjetri, nga më e mira e fushës së tij dhe nga më e mira e vreshtit të tij do të shpërblejë ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "bën të kullosë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fushë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vresht"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dhe lëshon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kafshët"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "kafshët"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "dhe kullosin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushën"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "e një tjetri"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "nga më e mira"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "e fushës së tij"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "dhe nga më e mira"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "e vreshtit të tij"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të shpërblejë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:52.623428314Z",
+  "model": "glm-5.3"
+}

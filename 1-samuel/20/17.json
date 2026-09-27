@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jonatani e bëri ⟨את⟩ Davidin të betohej përsëri, sepse e donte ⟨את⟩ atë; sepse me dashurinë e shpirtit të vet e donte atë.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "dhe shtoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "të betohej përsëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sepse e donte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (Davidin)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "me dashurinë"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "e shpirtit të vet"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "e donte atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:58.035788562Z",
+  "model": "glm-5.3"
+}

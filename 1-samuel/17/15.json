@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Davidi shkonte e kthehej nga Sauli për të kullotur ⟨את⟩ kopenë e të atit në Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dhe Davidi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkonte"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dhe kthehej"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "për të kullotur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopenë"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kopenë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e të atit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:33.956286812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Mos përsërisni — po përsërisin; këtyre nuk do t'u përsëritet; nuk tërhiqet turpi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "përsërisni"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "po përsërisin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "do t'u përsëritet"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "tërhiqet"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "turpi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:25.203704091Z",
+  "model": "glm-5.3"
+}

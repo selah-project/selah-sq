@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "dhe u përzien midis kombeve dhe mësuan veprat e tyre.",
+  "tokens": [
+    {
+      "surface": "ויתעrbו",
+      "gloss": "u përzien"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "dhe mësuan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "veprat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.020980743Z",
+  "model": "glm-5.3"
+}

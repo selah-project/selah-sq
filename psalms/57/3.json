@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Do të thërras Elohim Eljon, ⟨në⟩ El-in që përmbush për mua.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "do të thërras"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El-in"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "që përmbush"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.046560962Z",
+  "model": "glm-5.3"
+}

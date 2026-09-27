@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "i cili bashkë me mua ëmbëlsonte ⟨סוד⟩ këshillën e fshehtë; në shtëpinë e Elohit ecnim në turmë.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "ëmbëlsonte"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨סוד⟩ këshilla e fshehtë"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ecnim"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "në turmë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:04.296636093Z",
+  "model": "glm-5.3"
+}

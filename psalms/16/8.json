@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "E vendosova ⟨את⟩ Jahve para meje vazhdimisht, sepse ⟨Ai⟩ nga e djathta e imja — nuk do të lëkundem.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "E vendosova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "nga e djathta e imja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "do të lëkundem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:17.253664664Z",
+  "model": "glm-5.3"
+}

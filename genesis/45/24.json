@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe i dërgoi ⟨את⟩ vëllezërit e vet dhe shkënë; dhe u tha atyre: mos u tronditni në rrugë.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e vet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e vet"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkënë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u atyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "u tronditni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:30.071471601Z",
+  "model": "glm-5.3"
+}

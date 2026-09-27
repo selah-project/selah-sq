@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Po nëse në fushë e gjen njeriu ⟨את⟩ vajzën e fejuar, dhe njeriu e kap atë dhe shtrihet me të, atëherë do të vdesë vetëm njeriu që shtrihi me të, vetëm ai.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "po nëse"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gjen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajzën e fejuar"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vajzën"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "e fejuar"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "e kap"
+    },
+    {
+      "surface": "בה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "shtrihet"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "me të"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "shtrihi"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "me të"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:14.707872550Z",
+  "model": "glm-5.3"
+}

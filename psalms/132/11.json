@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Jahve iu betua Davidit me të vërtetë dhe nuk do të zmbrapset nga ajo: «Nga fryti i barkut tënd do të vë një fron për ty.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "iu betua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "do të zmbrapset"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "nga fryti"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "i barkut tënd"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "do të vë"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "një fron"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:37.547067596Z",
+  "model": "glm-5.3"
+}

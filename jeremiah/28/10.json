@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Hanania profeti e mori ⟨את⟩ zgjedhën nga qafa e Jeremisë profetit dhe e theu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgjedhën"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "zgjedhën"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "qafa"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "dhe e theu"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:25.319967374Z",
+  "model": "glm-5.3"
+}

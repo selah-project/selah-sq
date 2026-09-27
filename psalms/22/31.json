@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Një pasardhës do t'i shërbejë atij; për Adonain do të rrëfehet brengave të ardhur.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "pasardhës"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "do t'i shërbejë atij"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "do të rrëfehet"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "për Adonain"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brengave"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:40.963185130Z",
+  "model": "glm-5.3"
+}

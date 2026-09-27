@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Sepse ke bërë gjykimin tim dhe të drejtën time; ke ulur në fron, gjykatës i drejtë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimin tim"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "dhe të drejtën time"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ke ulur"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "në fron"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "gjykatës"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "i drejtë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:50.356794179Z",
+  "model": "glm-5.3"
+}

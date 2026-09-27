@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨toka⟩ u prish përpara Elohim-it, dhe ⟨toka⟩ u mbush me dhunë.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "dhe u prish"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨toka⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨toka⟩"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "me dhunë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:09.200315355Z",
+  "model": "glm-5.3"
+}

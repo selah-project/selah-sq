@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do të ndodhtë kështu: nëse mbeten dhjetë burra në një shtëpi të vetme, edhe ata do të vdesin.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhtë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "mbeten"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "burra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në një shtëpi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "të vetme"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "edhe ata do të vdesin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:46:42.902447821Z",
+  "model": "glm-5.3"
+}

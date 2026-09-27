@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Salomoni u lidh me martesë me ⟨את⟩ Faraonin, mbretin e Egjiptit, dhe mori ⟨את⟩ bijën e Faraonit dhe e çoi atë në qytetin e Davidit, derisa të përfundonte të ndërtonte ⟨את⟩ shtëpinë e vet, dhe ⟨את⟩ shtëpinë e Jahvesë, dhe ⟨את⟩ murin e Jerusalemit rreth e qark.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "u lidh me martesë"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraonin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijën"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "dhe e çoi atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "të përfundonte"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "të ndërtonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e vet"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "murin e Jerusalemit"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "murin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e qark"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:05.553975923Z",
+  "model": "glm-5.3"
+}

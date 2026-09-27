@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe uljen tënde, dhe daljen tënde, dhe hyrjen tënde i kam njohur, dhe ⟨את⟩ tërbimin tënd ndaj meje.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "dhe uljen tënde"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "dhe daljen tënde"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "dhe hyrjen tënde"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "i kam njohur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tërbimin tënd"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tërbimin tënd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ndaj meje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:30.616912339Z",
+  "model": "glm-5.3"
+}

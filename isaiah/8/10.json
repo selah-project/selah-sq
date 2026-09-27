@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Këshillohuni për një plan dhe do të shkatërrohet; thoni një fjalë dhe nuk do të ngrihet, sepse me ne ⟨është⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Këshillohuni"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "plan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "dhe do të shkatërrohet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "thoni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "një fjalë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "do të ngrihet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:40.462702555Z",
+  "model": "glm-5.3"
+}

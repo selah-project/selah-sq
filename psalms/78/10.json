@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Nuk e mbajtën besëlidhjen e Elohit dhe në Torën e tij refuzuan të ecin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "e mbajtën"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "dhe në Torën e tij"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "refuzuan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të ecin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:39.097591574Z",
+  "model": "glm-5.3"
+}

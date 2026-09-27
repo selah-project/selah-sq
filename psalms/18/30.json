@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse me ty do të vrapoj kundër një trope; dhe me Elohimin tim do të kërcej mur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "do të vrapoj"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "kundër një trope"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "dhe me Elohimin tim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "do të kërcej"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:13.465958530Z",
+  "model": "glm-5.3"
+}

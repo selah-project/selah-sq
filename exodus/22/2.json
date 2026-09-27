@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse dielli ka lindur mbi ⟨të⟩, ka gjak (faj) për ⟨të⟩; shpërblen do të shpërblejë ⟨ai⟩; nëse nuk ka ⟨ai⟩ asgjë, do të shitet për vjedhjen e tij.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ka lindur"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "gjak (faj)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "shpërblejë plotësisht"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të shpërblejë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "do të shitet"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "për vjedhjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:52.621053517Z",
+  "model": "glm-5.3"
+}

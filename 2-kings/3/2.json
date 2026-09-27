@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe bëri të keqen në sytë e Jahves, vetëm jo si ati i tij dhe si nëna e tij; dhe hoqi ⟨את⟩ shtyllën e Baalit që kishte bërë ati i tij.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Dhe bëri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "si ati i tij"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "dhe si nëna e tij"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllën e Baalit"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "shtyllën"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "të Baalit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:54.561340836Z",
+  "model": "glm-5.3"
+}

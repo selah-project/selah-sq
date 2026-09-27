@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe mbreti i tha asaj: Çfarë ke? Dhe ajo tha: Vërtet, një grua e ve jam unë, dhe vdiq burri im.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "e ve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "burri im"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:50.688014120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe njeriu, zotëria i vendit, na tha: «Nga kjo do të njoh se jeni të ndershëm; njërin nga vëllezërit tuaj lëreni ⟨אתי⟩ te unë, dhe ⟨את⟩ ushqimin për uri i shtëpive tuaja merreni dhe shkoni».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "nga kjo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "do të njoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "të ndershëm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jeni ju"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nga vëllezërit tuaj"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njërin"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "lëreni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njërin nga vëllezërit tuaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ushqimin"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "për uri"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "i shtëpive tuaja"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "merreni"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "dhe shkoni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:13.643261786Z",
+  "model": "glm-5.3"
+}

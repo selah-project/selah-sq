@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Brezma në zemrën e njeriut e përkul ⟨atë⟩, por një fjalë e mirë e gëzon ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "brezma"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "në zemrën"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "e përkul"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "por një fjalë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "e gëzon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:41.084864351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Pasi ⟨kish⟩ rrahur ⟨את⟩ Sihonin, mbretin e amorejve, që banonte në Heshbon, dhe ⟨את⟩ Ogun, mbretin e Bashanit, që banonte në Ashtarot, në Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Pasi"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "rrahur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihonin, mbretin e amorejve"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihonin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "e amorejve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banonte"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "në Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ogun, mbretin e Bashanit"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "e Bashanit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banonte"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "në Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "në Edrei"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:37.332908296Z",
+  "model": "glm-5.3"
+}

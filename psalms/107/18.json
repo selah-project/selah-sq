@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Të gjithë ushqimin e përbuzi shpirti i tyre, dhe arritën deri në portat e vdekjes.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqimin"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "e përbuzi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirti i tyre"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "dhe arritën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portat e"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:46.973764489Z",
+  "model": "glm-5.3"
+}

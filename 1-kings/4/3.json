@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Elihoref dhe Ahiah, bijtë e Shishës, ⟨ishin⟩ shkrues; Jehoshafati, bir i Ahiludit, ⟨ishte⟩ kujtuesi.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elihoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dhe Ahiah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Shishës"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "shkrues"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahiludit"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "kujtuesi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:48.159010771Z",
+  "model": "glm-5.3"
+}

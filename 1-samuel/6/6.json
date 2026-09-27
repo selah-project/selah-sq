@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe pse t'i rëndoni ⟨את⟩ zemrat tuaja, si rënduan Egjipti dhe Faraoni ⟨את⟩ zemrën e tyre? A nuk u tregua i ashpër ndaj tyre, dhe i lëshuan dhe ikën?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "t'i rëndoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrat tuaja"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zemrat tuaja"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "rënduan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "dhe Faraoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e tyre"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemrën e tyre"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "u tregua i ashpër"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndaj tyre"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "dhe i lëshuan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe ikën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:33.993831922Z",
+  "model": "glm-5.3"
+}

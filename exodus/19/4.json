@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Ju e dëgjuat ⟨אַתֶּם⟩: ju vetë e patë çfarë u bëra Egjiptit, dhe ju mbajta ⟨אתכם⟩ mbi krahët e shqiponjave dhe ju çova ⟨אתכם⟩ te vetja.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "ju vetë"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "e patë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "u bëra"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "וישאת",
+      "gloss": "dhe ju mbajta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krahet e"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "shqiponjave"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "dhe ju çova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te vetja (te unë)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:55.158170682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Vetëm në etërit e tu gjeti dëshirë Jahve, për t'i dashur ⟨את⟩-ata, dhe zgjodhi farën e tyre pas tyre — ju, mbi të gjithë popujt, si në këtë ditë.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "në etërit e tu"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "gjeti dëshirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "për të dashur"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-ata",
+      "marks": "etërit e tu"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "dhe zgjodhi"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "farën e tyre"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pas tyre"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si në ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:35.631077575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Kur mbaroi Davidi së afruari flijimin e pjekur dhe flijimet e falënderimit, bekoi ⟨את⟩ popullin në emër të Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "kur mbaroi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "së afruari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e pjekur"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dhe flijimet e falënderimit"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bekoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emër të"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:02.451643806Z",
+  "model": "glm-5.3"
+}

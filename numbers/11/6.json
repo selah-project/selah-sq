@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe tani shpirti ynë ⟨është⟩ i thatë; nuk ka ⟨asgjë⟩ përveç manës para syve tanë.",
+  "tokens": [
+    {
+      "surface": "וועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "shpirti ynë"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "i thatë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asgjë"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manës"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "syve tanë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:29.193043146Z",
+  "model": "glm-5.3"
+}

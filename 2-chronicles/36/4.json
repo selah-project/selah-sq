@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe mbreti i Egjiptit e bëri mbret ⟨את⟩ Eljakimin, vëllanë e tij, mbi Judën dhe Jeruzalemin, dhe i ndryshoi ⟨את⟩ emrin në Jehojakim; dhe ⟨את⟩ Jehoahazin, vëllanë e tij, e mori Neko dhe e çoi në Egjipt.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "dhe e bëri mbret"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllanë e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jeruzalemin"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dhe i ndryshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "në Jehojakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahazin"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Jehoahazin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllanë e tij"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dhe e çoi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:35.764455741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Shërbëtorët e tij u ngritën dhe bënë komplot, dhe e goditën ⟨את⟩ Joashin në Beth-Millo, ⟨në rrugën⟩ që zbret në Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "u ngritën"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "bënë komplot"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "komplot"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e goditën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joashin"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "që zbret"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:37.584501670Z",
+  "model": "glm-5.3"
+}

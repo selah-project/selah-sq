@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Një vjeç ⟨ishte⟩ Sauli kur mbretëroi, dhe dy vjet ai mbretëroi mbi Israelin.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "një vjeç (bëmat e një viti)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kur mbretëroi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "dhe dy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ai mbretëroi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:06.582288068Z",
+  "model": "glm-5.3"
+}

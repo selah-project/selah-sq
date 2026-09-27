@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Dhe unë thashë: Kot pashova, për boshllëk dhe fener të zbrazët harxhova forcën time; por, me siguri, gjykimi im ⟨është⟩ me ⟨את⟩ Jahve, dhe shpërblimi im me ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Kot"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "pashova"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "për boshllëk"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "dhe fener të zbrazët"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "forcën time"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "harxhova"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "por, me siguri"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimi im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "dhe shpërblimi im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:15.490185607Z",
+  "model": "glm-5.3"
+}

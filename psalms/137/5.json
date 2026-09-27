@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Nëse të harroj, o Jeruzalem, le të harrojë ⟨edhe⟩ dora e djathtë e ime.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "të harroj"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jeruzalem"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "le të harrojë"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "dora e djathtë e ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:36.805838090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Moisiu i tha popullit: Mos u frikësoni, sepse për t'ju sprovuar ⟨את⟩ ka ardhur Elohim, dhe që frika e tij të jetë mbi fytyrat tuaja, që të mos mëkatonit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe … tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "u frikësoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "për të"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "sprovuar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka ardhur"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "frika e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fytyrat tuaja"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mëkatonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:32.615056074Z",
+  "model": "glm-5.3"
+}

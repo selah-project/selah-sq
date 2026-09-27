@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "se Jakobin e zgjodhi për vete Jah, Israelin si pasurinë e Tij të veçantë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "e zgjodhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "si pasurinë e Tij të veçantë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.613780316Z",
+  "model": "glm-5.3"
+}

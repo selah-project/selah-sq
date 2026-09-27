@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Argjentinë e tij nuk e ka dhënë me kamatë, dhe ryshfet kundër ⟨të⟩ pafajshmit nuk ka marrë; kush bën këto gjëra, nuk do të lëkundet kurrë.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "argjentinë e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ka dhënë"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "me kamatë"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "dhe ryshfet"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "të pafajshmit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ka marrë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto gjëra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "do të lëkundet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kurrë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:30.524206959Z",
+  "model": "glm-5.3"
+}

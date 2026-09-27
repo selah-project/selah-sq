@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Atëherë do të ulet fjala e tij ndaj tyre në zemërimin e tij, dhe në hidhërimin e tij do t'i shqetësojë ato.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "do të ulet fjala e tij"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ndaj tyre"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në zemërimin e tij"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "dhe në hidhërimin e tij"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "do t'i shqetësojë ato"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:31.607140496Z",
+  "model": "glm-5.3"
+}

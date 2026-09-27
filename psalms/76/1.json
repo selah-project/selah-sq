@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Dirigjentit, me instrumente me tela. Mizmor i Asafit, një këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirigjentit"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "me instrumente me tela"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:04.619949597Z",
+  "model": "glm-5.3"
+}

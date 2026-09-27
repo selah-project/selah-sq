@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe morën ⟨את⟩ të gjithë pasurinë e Sodomës dhe të Gomorës, dhe ⟨את⟩ të gjithë ushqimin e tyre, dhe shkuan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë pasurinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "pasurinë"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "e Sodomës"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "dhe të Gomorës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë ushqimin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ushqimin e tyre"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:45.593731826Z",
+  "model": "glm-5.3"
+}

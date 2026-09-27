@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe e ngjitën ⟨את⟩ ⟨e⟩ arkën, dhe ⟨את⟩ tendën e takimit, dhe ⟨את⟩ të gjitha orenditë e shenjta që ishin në tendë; i ngjitën ⟨את⟩ ato priftërinjtë, levitët.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "dhe e ngjitën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tendën e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha orenditë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "orenditë"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në tendë"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "i ngjitën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "priftërinjtë, levitët"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    }
+  ],
+  "timestamp": "2026-09-27T18:09:07.637579827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jakobi dërgoi të dërguar para vetes te Esau, vëllai i tij, në drejtim të tokës së Seirit, fushës së Edomit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "të dërguar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para vetes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllai i tij"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "në drejtim të tokës"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "të Seirit"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fushës"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "të Edomit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:45.703654379Z",
+  "model": "glm-5.3"
+}

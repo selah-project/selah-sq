@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Nuk do të frikësohesh nga tmerri i natës, as nga shigjeta që fluturon ditën.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "do të frikësohesh"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nga tmerri"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "i natës"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "as nga shigjeta"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "që fluturon"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.633140635Z",
+  "model": "glm-5.3"
+}

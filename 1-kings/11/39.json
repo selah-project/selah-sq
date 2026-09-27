@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do ta poshtëroj ⟨את⟩ farën e Davidit për këtë, por jo për gjithë ditët.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "dhe do ta poshtëroj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fara e Davidit"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אך",
+      "gloss": "por"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditët"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:02.829570046Z",
+  "model": "glm-5.3"
+}

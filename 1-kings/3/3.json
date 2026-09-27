@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Salomoni e donte ⟨את⟩ Jahvenë, duke ecur në statute të Davidit, atit të vet; vetëm në vendet e larta flijonte dhe digjte temjan.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dhe e donte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "për të ecur"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "në statute"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "të Davidit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të vet"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "në vendet e larta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "flijonte"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "dhe digjte temjan"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:05.554419800Z",
+  "model": "glm-5.3"
+}

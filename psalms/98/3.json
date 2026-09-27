@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "⟨Ai⟩ e kujtoi hesed-in e tij dhe besnikërinë e tij ndaj shtëpisë së Izraelit; të gjitha skajet e tokës panë ⟨את⟩ shpëtimin e Elohit tonë.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "e kujtoi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-in e tij"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "dhe besnikërinë e tij"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ndaj shtëpisë së"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "panë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "skajet e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpëtimin"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "shpëtimin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "të Elohit tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.629374441Z",
+  "model": "glm-5.3"
+}

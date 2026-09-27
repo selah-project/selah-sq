@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe Jakobi i tha Jozefit: El Shadai m'u shfaq në Luz, në tërën e Kanaanit, dhe më bekoi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "m'u shfaq"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "në Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tërën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "të Kanaanit"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe më bekoi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua (Jakobin)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:15.176852330Z",
+  "model": "glm-5.3"
+}

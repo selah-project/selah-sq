@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ja, ndërsa ti ende po flet atje me mbretin, unë do të hyj pas teje dhe do t'i plotësoj ⟨את⟩ fjalët e tua.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ende"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "po flet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "ו אני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "do të hyj"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "do t'i plotësoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e tua"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "fjalët e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:47.468391931Z",
+  "model": "glm-5.3"
+}

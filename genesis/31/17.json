@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Jakobi u ngrit, dhe i mbuli ⟨את⟩ bijtë e tij dhe ⟨את⟩ gratë e tij mbi deve.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dhe i mbuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gratë e tij"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "gratë e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "deve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:14.927975766Z",
+  "model": "glm-5.3"
+}

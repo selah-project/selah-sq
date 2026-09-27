@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Do të lartësoj ty, o Jahve, se më tërhoqe lart dhe nuk i gëzove armiqtë e mi mbi mua.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Do të lartësoj ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "më tërhoqe lart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "i gëzove"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:39.313102730Z",
+  "model": "glm-5.3"
+}

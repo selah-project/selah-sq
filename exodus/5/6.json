@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Faraoni urdhëroi atë ditë ⟨את⟩ mbikëqyrësit e popullit dhe ⟨את⟩ nëpunësit e tij, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë (e njëjtë)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbikëqyrësit"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "mbikëqyrësit (detyrash)"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mbi popullin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "nëpunësit e tij"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "nëpunësit e tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:49.485811385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "⟨Ai⟩ shëron të thyerve në zemër dhe lidh plagët e tyre.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "shëron"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "të thyerve"
+    },
+    {
+      "surface": "לב",
+      "gloss": "në zemër"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "dhe lidh"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "plagët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:22.343718253Z",
+  "model": "glm-5.3"
+}

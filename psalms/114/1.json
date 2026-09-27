@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 114,
+  "translation": "Kur Izraeli doli nga Egjipti, shtëpia e Jakobit nga një popull me gjuhë të huaj,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "kur doli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga një popull"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "me gjuhë të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:25.778768634Z",
+  "model": "glm-5.3"
+}

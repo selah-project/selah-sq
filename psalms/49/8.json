@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Vëllai nuk mund ta shpengojë aspak ⟨një⟩ njeri, nuk mund t'i japë Elohit shpërblimin e tij.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Vëllai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "shpengojë (pafundë) — aspak"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mund ta shpengojë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mund t'i japë"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "shpërblimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:29.380130998Z",
+  "model": "glm-5.3"
+}

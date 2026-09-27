@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Të pabesët janë të huaj që nga barku; enden që nga mitra, duke folur gënjeshtra.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "janë të huaj"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "që nga barku"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "enden"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "që nga mitra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "duke folur"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gënjeshtra"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:28.372004330Z",
+  "model": "glm-5.3"
+}

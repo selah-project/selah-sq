@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim e quajti tokën e thatë ⟨את⟩ Tokë, dhe grumbullimin e ujërave e quajti Detra. Dhe Elohim pa se ⟨ishte⟩ mirë.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe quajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "tokës së thatë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Tokë"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "dhe grumbullimit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "e ujërave"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "quajti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Detra"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:48.396764991Z",
+  "model": "glm-5.3"
+}

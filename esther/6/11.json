@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Hamani mori rroben dhe ⟨i⟩ kalë dhe e veshi ⟨את⟩ Mordekain, dhe e bëri të hipte mbi kalë në sheshin e qytetit, dhe thirri para tij: Kështu bëhet për njeriun që mbreti gëzohet ta nderojë.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rroben"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "rroben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kalë"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kalë"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "dhe e veshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekain"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "dhe e bëri të hipte"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "në sheshin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bëhet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "për njeriun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ta nderojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:45.407899538Z",
+  "model": "glm-5.3"
+}

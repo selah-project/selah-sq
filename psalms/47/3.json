@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Sepse Jahve, El Elyon, ⟨është⟩ i frikshëm, mbret i madh mbi gjithë ⟨të⟩ earthën.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon (i Larti)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i frikshëm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earthën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:00.618576268Z",
+  "model": "glm-5.3"
+}

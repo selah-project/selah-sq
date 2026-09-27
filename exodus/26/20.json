@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe për krahun e dytë të Mishkanit, për anën e veriut: njëzet pllaka.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Dhe për krahun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "të Mishkanit"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "për anën"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "e veriut"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "pllaka"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:23.564876424Z",
+  "model": "glm-5.3"
+}

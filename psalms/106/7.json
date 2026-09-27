@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Etërit tanë në Egjipt nuk i kuptuan çuditë e tua, nuk i kujtuan ⟨את⟩ shumësinë e hesed-it tënd, dhe u rebeluan pranë detit, në Detin e Kallamishtes.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Etërit tanë"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "i kuptuan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çuditë e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "i kujtuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shumësinë e hesed-it tënd"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumësinë e"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-it tënd"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "dhe u rebeluan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "ים",
+      "gloss": "detit"
+    },
+    {
+      "surface": "בים",
+      "gloss": "në Detin"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "e Kallamishtes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:26.515492335Z",
+  "model": "glm-5.3"
+}

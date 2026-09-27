@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Sepse ti e bëre në fshehtësi, por unë do të bëj ⟨את⟩ këtë gjë para gjithë Izraelit dhe para diellit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "e bëre"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "në fshehtësi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë gjë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gjë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "dhe para"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diellit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:00.932642010Z",
+  "model": "glm-5.3"
+}

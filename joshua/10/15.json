@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jozueu u kthye, dhe gjithë Izraeli me ⟨të⟩, në kamp, në Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me ⟨të⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "në Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:15.776890481Z",
+  "model": "glm-5.3"
+}

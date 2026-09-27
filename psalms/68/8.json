@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "O Elohim, kur doje të dilje përpara popullit tënd, kur ecje nëpër shkretëtirë — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "kur doje të dilje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullit tënd"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "kur ecje"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nëpër shkretëtirë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:45.264268391Z",
+  "model": "glm-5.3"
+}

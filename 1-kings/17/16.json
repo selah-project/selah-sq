@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Kova e miellit nuk mbaroi dhe enja e vajit nuk u ul, sipas fjalës së Jahvesë, të cilën e foli ⟨përmes⟩ dorës së Eliasë.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kova"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "e miellit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "mbaroi"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "dhe enja"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "e vajit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "u ul"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "përmes dorës së"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliasë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:09.753177429Z",
+  "model": "glm-5.3"
+}

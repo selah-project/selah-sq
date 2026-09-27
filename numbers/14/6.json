@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 14:6",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jozue, bir i Nunit, dhe Kalebi, bir i Jefunehut, nga ata që vëzhguan ⟨את⟩ vendin, grisi rrobat e tyre.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Dhe Jozue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נון",
+      "gloss": "i Nunit"
+    },
+    {
+      "surface": "וכלב",
+      "gloss": "dhe Kalebi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "i Jefunehut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ata që vëzhguan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "grisi"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "robat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:56.761053202Z",
+  "model": "glm-5.3"
+}

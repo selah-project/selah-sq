@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Moisi e Aaroni i morën ⟨את⟩ këta burra që ishin caktuar me emra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe i morën"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aaroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këta burra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ishin caktuar"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "me emra"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:41.308675223Z",
+  "model": "glm-5.3"
+}

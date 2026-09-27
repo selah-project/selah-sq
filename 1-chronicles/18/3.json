@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Davidi mundi ⟨את⟩ Hadadezerin, mbretin e Tsovah-s, deri në Hamat, kur ai shkonte të vendoste dorën e tij pranë lumit Eufrat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerin"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin e"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah-s"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "deri në Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "kur ai shkonte"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "të vendoste"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "pranë lumit"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Eufrat"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:49.340574416Z",
+  "model": "glm-5.3"
+}

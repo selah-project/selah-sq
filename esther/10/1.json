@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbreti Ahashverosh vuri një taksë mbi ⟨të⟩ tokën dhe mbi ishujt e detit.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "një taksë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ tokën"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "dhe ishujt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "e detit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:15.766462263Z",
+  "model": "glm-5.3"
+}

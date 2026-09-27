@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Moisi dërgoi njerëz për të vëzhguar ⟨את⟩ Jaazerin, dhe ata zunë fshatrat e tij, dhe i dëbuan ⟨את⟩ amorejtë që ishin atje.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "për të vëzhguar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazerin"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazerin"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dhe zunë"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "fshatrat e tij"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "dhe i dëbuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amorejtë"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorejtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:58.206367494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Davidi shkoi të flejë me etërit e tij, dhe u varros në qytetin e Davidit.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "shkoi të flejë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:09.311332498Z",
+  "model": "glm-5.3"
+}

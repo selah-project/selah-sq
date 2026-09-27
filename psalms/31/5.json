@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Më nxirr nga rrjeta që më fshehën, se ti je fortesa ime.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "më nxirr"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "nga rrjeta"
+    },
+    {
+      "surface": "זו",
+      "gloss": "që"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "fshehën"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "fortesa ime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:46.682875461Z",
+  "model": "glm-5.3"
+}

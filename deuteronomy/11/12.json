@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "tokë për të cilën Jahve, Elohim-i yt, kujdeset ⟨את⟩ vazhdimisht; sytë e Jahvesë, Elohim-it tënd, janë mbi të nga fillimi i vitit deri në fund të vitit.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kujdeset"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vazhdimisht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-it tënd"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "nga fillimi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "i vitit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "fund"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "të vitit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:37.303334882Z",
+  "model": "glm-5.3"
+}

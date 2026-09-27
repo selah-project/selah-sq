@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Sepse kur të shohë fëmijët e tij, veprën e duarve të mia, në mes të tij, ata do ta shenjtërojnë emrin tim, dhe do ta shenjtërojnë ⟨את⟩ të Shenjtin e Jakobit, dhe ⟨את⟩ Elohimin e Izraelit do ta nderojnë me frikë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "kur të shohë"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "fëmijët e tij"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "e duarve të mia"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në mes të tij"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "do ta shenjtërojnë"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrin tim"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "dhe do ta shenjtërojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të Shenjtin e Jakobit"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "të Shenjtin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin e Izraelit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "do ta nderojnë me frikë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:45.150705274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atëherë Bat-Sheba u përkul dhe bëri përshëndetje mbretit, dhe mbreti tha: «Çfarë dëshiron?»",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "u përkul"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "bëri përshëndetje"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dëshiron"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:47.468753179Z",
+  "model": "glm-5.3"
+}

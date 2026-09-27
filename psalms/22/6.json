@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Për ty bërtitën dhe u shpëtuan; te ty u mbështetën dhe nuk u turpëruan.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "bërtitën"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "dhe u shpëtuan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ty"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "u mbështetën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "u turpëruan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:12.710008256Z",
+  "model": "glm-5.3"
+}

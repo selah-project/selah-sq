@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Si një njeri që e ngushëllon nëna e tij, kështu unë do t'ju ngushëlloj, dhe në Jerusalem do të ngushëlloheni.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "Si një njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nëna e tij"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "e ngushëllon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "do t'ju ngushëlloj"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "dhe në Jerusalem"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "do të ngushëlloheni"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:16.982279593Z",
+  "model": "glm-5.3"
+}

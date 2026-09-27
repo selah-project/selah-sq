@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Rreth e rrotull të mosbindurit ecin lirisht, sepse nënshtrimi i pavlerë është ngritur lart nga bijtë e njeriut.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Rreth e rrotull"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të mosbindurit"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ecin lirisht"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "sepse nënshtrimi i pavlerë është ngritur lart"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "pavlerë"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nga bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:30.745361962Z",
+  "model": "glm-5.3"
+}

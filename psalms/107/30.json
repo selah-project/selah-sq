@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dhe ata gëzohen që u qetësuan, dhe ai i çon në portin e dëshirës së tyre.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "dhe ata gëzohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "u qetësuan"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dhe i çon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "portin"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "të dëshirës së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:53.971525496Z",
+  "model": "glm-5.3"
+}

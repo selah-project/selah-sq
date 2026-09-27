@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Pushoni dhe dine se unë jam Elohim, lartësohem midis kombeve, lartësohem në ⟨tokë⟩",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Pushoni"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "dhe dine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "lartësohem"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "lartësohem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në ⟨tokë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:34.818875038Z",
+  "model": "glm-5.3"
+}

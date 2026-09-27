@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Gjashtë ditë do të punosh, dhe në ditën e shtatë do të pushosh (Shabat); në kohën e lërimit dhe në korrje do të pushosh.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "do të punosh"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dhe në ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "do të pushosh (Shabat)"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "në kohën e lërimit"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "dhe në korrje"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "do të pushosh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:56.737003198Z",
+  "model": "glm-5.3"
+}

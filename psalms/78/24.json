@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe bëri të bjerë si shi manë mbi ta për të ngrënë, dhe grurë të qiellit u dha atyre.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Dhe bëri të bjerë si shi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manë"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për të ngrënë"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "dhe grurë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "të qiellit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "u dha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:27.876910179Z",
+  "model": "glm-5.3"
+}

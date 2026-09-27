@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ai i tha: «Nuk do të vij, por në tokën time dhe në vendlindjen time do të shkoj.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të vij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tokën time"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "vendlindjen time"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të shkoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:15.272465061Z",
+  "model": "glm-5.3"
+}

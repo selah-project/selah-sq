@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe jetoi Mahalaleli pesë vjet e gjashtëdhjetë vjet, dhe lindi ⟨את⟩ Jaredin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleli"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dhe gjashtëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaredin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jaredin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:21.293953868Z",
+  "model": "glm-5.3"
+}

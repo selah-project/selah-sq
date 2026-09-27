@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dhe le të flijojnë flijime falënderimi, dhe le të tregojnë veprat e tij me gjëzim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "dhe le të flijojnë"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "flijime"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "falënderimi"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "dhe le të tregojnë"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "veprat e tij"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "me gjëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:29.181226775Z",
+  "model": "glm-5.3"
+}

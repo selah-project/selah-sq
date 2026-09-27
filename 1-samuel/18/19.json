@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ndodhi, në kohën kur duhej dhënë ⟨את⟩ Meraba, vajza e Saulit, Davidit, ajo u dha për grua Adrielit, Mehola-tit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohën kur"
+    },
+    {
+      "surface": "תת",
+      "gloss": "duhej dhënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meraba, vajza e Saulit"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Meraba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "e Saulit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "u dha"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielit"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "nga Mehola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:52.434570099Z",
+  "model": "glm-5.3"
+}

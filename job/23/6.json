@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "A do të grindet me mua ⟨me⟩ madhësi forceje? Jo — vetëm ai do të vë re mua.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "me madhësi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "forceje"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "do të grindet"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "do të vë"
+    },
+    {
+      "surface": "בי",
+      "gloss": "re mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:32:08.362599008Z",
+  "model": "glm-5.3"
+}

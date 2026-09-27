@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jahve i tha Kainit: «Ku ⟨është⟩ Habeli, vëllai yt?» Dhe ai tha: «Nuk e di. A jam unë roja e vëllait tim?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habeli"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e di"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "a jam roja"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "e vëllait"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.006567785Z",
+  "model": "glm-5.3"
+}

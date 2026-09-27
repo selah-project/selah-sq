@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Eli i tha ⟨saj⟩: Deri kur do të të dehesh? Hiq ⟨את⟩ verën tënde prej teje!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "i tha ⟨saj⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "do të të dehesh"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Hiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verën tënde"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "verën tënde"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "prej teje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:36.756742970Z",
+  "model": "glm-5.3"
+}

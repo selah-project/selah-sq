@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Sepse hirin si bukë e kam ngrënë, dhe pije time me lotë e kam përzier.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "hirin"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "si bukë"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "e kam ngrënë"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "dhe pije time"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "me lotë"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "e kam përzier"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:10.636623349Z",
+  "model": "glm-5.3"
+}

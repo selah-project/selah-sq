@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Sipas gjithçkaje që urdhëroi Jahve ⟨את⟩ Moisiun, ashtu bënë bijtë e Izraelit ⟨את⟩ krejt punën.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sipas gjithçkaje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krejt punën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "punën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:38.499775185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Mëkati i gojës së tyre, fjala e buzëve të tyre — le të kapen në mendjemadhësinë e tyre, dhe nga mallkimi dhe nga gënjeshtra le të rrëfejnë.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "mëkati"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "i gojës së tyre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "e buzëve të tyre"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "le të kapen"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "në mendjemadhësinë e tyre"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "dhe nga mallkimi"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "dhe nga gënjeshtra"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "le të rrëfejnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:51.024222680Z",
+  "model": "glm-5.3"
+}

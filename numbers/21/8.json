@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Jahve i tha Moisiut: «Bëj për vete një saraf dhe vendose ⟨את⟩ atë mbi një shtizë; dhe do të ndodhë që kushdo i kafshuar, kur ta shikojë ⟨את⟩ atë, do të jetojë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "një saraf"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "dhe vendose"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "saraf-un"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נס",
+      "gloss": "një shtizë"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "i kafshuar"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kur ta shikojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "saraf-un"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "do të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:23.617916431Z",
+  "model": "glm-5.3"
+}

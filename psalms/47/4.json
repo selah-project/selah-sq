@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Ai do t'i ngarkojë popujt nën ne, dhe kombet nën këmbët tona.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "do t'i ngarkojë (do t'i nënshtrojë)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "nen ne"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dhe kombet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nen"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "këmbët tona"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:00.618790419Z",
+  "model": "glm-5.3"
+}

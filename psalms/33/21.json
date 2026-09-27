@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Sepse në të gëzohet zemra jonë, sepse në emrin e shenjtë të tij kemi besuar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "zemra jonë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emrin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "e shenjtë të tij"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "kemi besuar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.052213048Z",
+  "model": "glm-5.3"
+}

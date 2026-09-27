@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "O Jahve, e nxore shpirtin tim nga Sheoli, më ngjalle nga zbritësit në gropë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "O Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "e nxore lart"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "më ngjalle"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "nga zbritësit"
+    },
+    {
+      "surface": "בור",
+      "gloss": "në gropë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:39.313411803Z",
+  "model": "glm-5.3"
+}

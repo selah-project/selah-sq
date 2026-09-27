@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe dyzet e një vit mbretëroi në Jeruzalem; dhe emri i nënës së tij ishte Maakah, bijë e Avishalomit.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "dhe dyzet"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "e një"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "i nënës së tij"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "e Avishalomit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:26.736217991Z",
+  "model": "glm-5.3"
+}

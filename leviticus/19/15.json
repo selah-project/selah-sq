@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos bëni pa drejtësi në gjykim; mos i ngrit fytyrën e të varfrit, dhe mos i ndero fytyrën e të madhit; me drejtësi gjyko të shokut tënd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "עול",
+      "gloss": "pa drejtësi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në gjykim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngrit"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    },
+    {
+      "surface": "דל",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ndero"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madhit"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "gjyko"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "të shokut tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:49.504066312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Sepse ai do ta shpëtojë ⟨את⟩ të varfurin që bërtet, dhe të pikëlluarin që s'ka ndihmës për vete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "do ta shpëtojë"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "të varfurin"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "që bërtet"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dhe të pikëlluarin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ndihmës"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:55.056990725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Sauli e hodhi ⟨את⟩ shtizën, sepse tha: Do ta godas Davidin e në mur; dhe Davidi u shmang nga fytyra e tij dy herë.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "dhe e hodhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtizën"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "shtizën"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "do ta godas"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "dhe në mur"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dhe u shmang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nga fytyra e tij"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dy herë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:29.024551230Z",
+  "model": "glm-5.3"
+}

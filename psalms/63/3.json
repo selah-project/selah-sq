@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Kështu të kam parë në vendin e shenjtë, për të parë forcën tënde dhe lavdinë tënde.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në vendin e shenjtë"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "të kam parë"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "forcën tënde"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "dhe lavdinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:28.621474450Z",
+  "model": "glm-5.3"
+}

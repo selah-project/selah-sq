@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do t'i bashkosh ⟨את⟩ pesë perdet më vete, dhe ⟨את⟩ gjashtë perdet më vete; dhe do ta palosh ⟨את⟩ perden e gjashtë përballë faqes së çadres.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "do t'i bashkosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesë perdet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "më vete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjashtë perdet"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "më vete"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "dhe do ta palosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden e gjashtë"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "perden"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "e gjashtë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqes"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "së çadres"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:55.528555404Z",
+  "model": "glm-5.3"
+}

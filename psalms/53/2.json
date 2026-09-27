@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Narronte i pamendi në zemrën e tij: «S'ka Elohim.» Janë prishur, janë bërë të neveritshme në paudhësi; s'ka asnjë që bën të mirën.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "narronte"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "i pamendi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "janë prishur"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "janë bërë të neveritshme"
+    },
+    {
+      "surface": "עול",
+      "gloss": "në paudhësi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.054013168Z",
+  "model": "glm-5.3"
+}

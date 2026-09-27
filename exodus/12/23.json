@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jahve do të kalojë për të goditur ⟨את⟩ Egjiptin, dhe do të shohë ⟨את⟩ gjakun mbi pragun e sipërm dhe mbi dy këmbët e dyerve, dhe Jahve do të kalojë përmbys derën, dhe nuk do ta lërë shkatërruesin të hyjë në shtëpitë tuaja për të goditur.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "dhe do të kalojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "për të goditur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe do të shohë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "pragun e sipërm"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "këmbët e dyerve"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "dhe do të kalojë përmbys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "derën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do ta lërë"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "shkatërruesin"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "të hyjë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "shtëpitë tuaja"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "për të goditur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:27.393345662Z",
+  "model": "glm-5.3"
+}

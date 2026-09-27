@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Të gjitha shtigjet e Jahvesë ⟨janë⟩ hesed dhe të vërteta për ata që ruajnë besëlidhjen e tij dhe dëshmitë e tij.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "shtigjet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe të vërteta"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "për ata që ruajnë"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "dhe dëshmitë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:58.753883947Z",
+  "model": "glm-5.3"
+}

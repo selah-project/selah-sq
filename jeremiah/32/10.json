@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe e shkrova në dokument, e vulosa, dhe thirra dëshmitarë, dhe peshova ⟨את⟩ argjendin në peshore.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "dhe e shkrova"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "në dokument"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "dhe e vulosa"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "dhe thirra dëshmitarë"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dëshmitarë"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "dhe peshova"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨את⟩ argjendin"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "në peshore"
+    }
+  ],
+  "timestamp": "2026-09-27T16:18:06.004148271Z",
+  "model": "glm-5.3"
+}

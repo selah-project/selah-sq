@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Mëkatuar bashkë me etërit tanë, keqbërë, vepruar me paudhësi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Mëkatuar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "etërit tanë"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "keqbërë"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "vepruar me paudhësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:26.515220141Z",
+  "model": "glm-5.3"
+}

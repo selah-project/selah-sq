@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Për dirigjentin. Një psalm i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:51.775409951Z",
+  "model": "glm-5.3"
+}

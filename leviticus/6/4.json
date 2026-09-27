@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do të zhveshë ⟨את⟩ rrobat e tij dhe do të veshë rroba të tjera, dhe do të nxjerrë ⟨את⟩ hirin jashtë kampit, në një vend të pastër.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Dhe do të zhveshë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tij"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "dhe do të veshë"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "rroba"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "dhe do të nxjerrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirin"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "hirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:05.666454651Z",
+  "model": "glm-5.3"
+}

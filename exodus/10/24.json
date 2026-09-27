@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Faraoni thirri Moisin dhe tha: «Shkoni, shërbejini ⟨את⟩ Jahvesë; vetëm delet tuaja dhe gjedhet tuaja le të mbeten; edhe fëmijët tuaj le të shkojnë me ju.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbejini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "delet tuaja"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "dhe gjedhet tuaja"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "le të mbeten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "fëmijët tuaj"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "le të shkojnë"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:00.995671637Z",
+  "model": "glm-5.3"
+}

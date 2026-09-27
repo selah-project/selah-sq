@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe e urreva ⟨את⟩ jetën, sepse e keqe mbi mua ⟨është⟩ puna që bëhet nën diell, sepse e gjithë ⟨është⟩ e kotë dhe mundim i erës.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "dhe e urreva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jetën"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jetën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "puna"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "që bëhet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "e kotë"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dhe mundim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "i erës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:41.412236439Z",
+  "model": "glm-5.3"
+}

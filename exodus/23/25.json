@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe do t'i shërbeni ⟨את⟩ Jahve, Elohim-it tuaj, dhe ⟨ai⟩ do të bekojë ⟨את⟩ bukën tënde dhe ⟨את⟩ ujin tënd; dhe unë do të largoj sëmundjen nga mesi juaj.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "dhe do t'i shërbeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-it tuaj"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dhe do të bekojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukën tënde"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bukën tënde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "ujin tënd"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ujin tënd"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "dhe unë do të largoj"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sëmundjen"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nga mesi juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:32.715316969Z",
+  "model": "glm-5.3"
+}

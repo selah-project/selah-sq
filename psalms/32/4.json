@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Sepse ditë e natë dora jote rëndohej mbi mua, lëngjet e mia u kthyen në thatësinë e verës. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e natë"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "rëndohej"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "u kthyen"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "lëngjet e mia (lagështia)"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "në thatësinë"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "e verës"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:49.932071357Z",
+  "model": "glm-5.3"
+}

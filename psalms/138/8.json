@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Jahve do ta plotësojë për mua; hesedi yt, o Jahve, ⟨mbetet⟩ përjetë; veprat e duarve të tua mos i lër të veniten!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "do ta plotësojë"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat e"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "duarve të tua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "i lër të veniten"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:11.044511512Z",
+  "model": "glm-5.3"
+}

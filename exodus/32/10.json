@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "dhe tani lërmë mua, dhe do të ndizet zemërimi im kundër tyre dhe do t'i hajë ata, dhe do të të bëj ty ⟨את⟩ për komb të madh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "lërmë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dhe do të ndizet"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "zemërimi im (hunda im)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "dhe do t'i hajë"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "dhe do të bëj"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty",
+      "marks": "për komb të madh"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "për komb"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:59.931592580Z",
+  "model": "glm-5.3"
+}

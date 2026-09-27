@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe të hartojë punime, të punojë në ar, në argjend dhe në bakër.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "dhe të hartojë"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "punime"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "të punojë"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "në ar"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "në argjend"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "në bakër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:27.021247776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jahve e goditi ⟨את⟩ Paron me goditje të mëdha, dhe ⟨את⟩ shtëpinë e tij, për shkak të Sarait, gruan e Abramit.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "e goditi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "goditje"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "të mëdha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e tij"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shkakut"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarait"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "të Abramit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:45.500896769Z",
+  "model": "glm-5.3"
+}

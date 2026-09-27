@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Falënderoni Jahven, sepse ⟨është⟩ i mirë, sepse për jetë të gjithë hesedi i Tij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falënderoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të gjithë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:05.232726773Z",
+  "model": "glm-5.3"
+}

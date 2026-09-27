@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ai bëri atë që ⟨ishte⟩ e drejtë në sytë e Jahves, vetëm jo si Davidi, ati i tij; sipas të gjithave që kishte bërë Joashi, ati i tij, ai bëri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "si Davidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:13.674013031Z",
+  "model": "glm-5.3"
+}

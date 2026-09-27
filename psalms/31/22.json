@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "I bekuar qoftë Jahve, sepse bëri të mahnitshme hesed-in e tij ndaj meje, në një qytet të rrethuar.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "I bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "bëri të mahnitshme"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-in e tij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndaj meje"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në një qytet"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "të rrethuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:14.586862539Z",
+  "model": "glm-5.3"
+}

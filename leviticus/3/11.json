@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe prifti do t'i djegë në altar si erë — ushqim, flijim zjarri për Jahve.",
+  "tokens": [
+    {
+      "surface": "והLocalizedMessageטירו",
+      "gloss": "dhe do t'i djegë si erë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "në altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim zjarri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:28.477530962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahve, Elohim-in tënd, do të trembësh; ⟨את⟩ atë do ta shërbesh, dhe në të do të ngjitesh, dhe në emrin e tij do të betohesh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim-in tënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "do të trembësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "do ta shërbesh"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "do ta shërbesh"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "dhe në të"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "do të ngjitesh"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "dhe në emrin e tij"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "do të betohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:45.668844518Z",
+  "model": "glm-5.3"
+}

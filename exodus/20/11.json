@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "sepse gjashtë ditë bëri Jahve ⟨את⟩ qiejt dhe ⟨את⟩ tokën, ⟨את⟩ detin dhe ⟨את⟩ gjithçka që ⟨është⟩ në ta, dhe u pushua në ditën e shtatë; prandaj Jahve bekoi ⟨את⟩ ditën e Shabatit dhe e shenjtëroi atë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dhe u pushua"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "e shtatë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כן",
+      "gloss": "këtë arsye"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bekoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "të Shabatit"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "dhe e shenjtëroi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:20.431669989Z",
+  "model": "glm-5.3"
+}

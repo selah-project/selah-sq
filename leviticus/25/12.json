@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sepse jubel ⟨is⟩ ai — i shenjtë do të jetë për ju; nga fusha do të hani ⟨את⟩ frytin e saj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fusha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frytin e saj"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "frytin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:01.887502534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Si me ⟨një⟩ vrasje në kockat e mia më fyenin kundërshtarët e mi, duke më thënë gjithë ditën: Ku ⟨është⟩ Elohim-i yt?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "si me vrasje"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "në kockat e mia"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "më fyenin"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kundërshtarët e mi"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:03.563731675Z",
+  "model": "glm-5.3"
+}

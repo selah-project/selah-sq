@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "I gjallë është Jahve, Elohim-i yt: nëse ka komb a mbretëri ku zotëria im të mos të ketë dërguar të të kërkojë; dhe kur thanë «nuk është këtu», ai i bëri të betoheshin ⟨את⟩ ⟨the⟩ mbretërinë dhe ⟨את⟩ ⟨the⟩ kombin, se nuk gjendeshe.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "komb"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "a mbretëri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "të ketë dërguar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "të të kërkojë"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "dhe kur thanë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "dhe i bëri të betoheshin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretërinë"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretërinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kombin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "gjendeshe"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:45.903318469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Fjalët e gojës së tij ⟨janë⟩ ligësi dhe mashtrim; ka pushuar të jetë i urtë, të bëjë të mirën.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Fjalët"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "e gojës së tij"
+    },
+    {
+      "surface": "און",
+      "gloss": "ligësi"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dhe mashtrim"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ka pushuar"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "të jetë i urtë"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "të bëjë të mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:58.932085107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe e njolloi ⟨את⟩ Tofetin, që ⟨është⟩ në luginën e bijve të Hinomit, që askush të mos bënte ⟨את⟩ birin e tij dhe ⟨את⟩ vajzën e tij të kalonin nëpër zjarr për Molekun.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "dhe e njolloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofetin"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "në luginën e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "bënte të kalonte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "askush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin e tij"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vajzën e tij"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "vajzën e tij"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për Molekun"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:36.361232266Z",
+  "model": "glm-5.3"
+}

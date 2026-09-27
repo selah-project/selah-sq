@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Populli im, çfarë të kam bërë? Dhe me çfarë të kam lodhur? Përgjigjmu.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Populli im"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kam bërë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe me çfarë"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "të kam lodhur"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Përgjigjmu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:21.616084270Z",
+  "model": "glm-5.3"
+}

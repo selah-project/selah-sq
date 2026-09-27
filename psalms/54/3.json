@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "O Elohim, më shpëto me emrin ⟨tënd⟩, dhe me fuqinë ⟨tënde⟩ më gjyko!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "me emrin tënd"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "dhe me fuqinë tënde"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "më gjyko"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:52.475138028Z",
+  "model": "glm-5.3"
+}

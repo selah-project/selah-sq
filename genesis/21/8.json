@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe fëmija u rrit dhe u zvogëlua nga gjiri; dhe Abrahami bëri një darkë të madhe në ditën e zgjimit të ⟨את⟩ Isakut.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Dhe u rrit"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmija"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "dhe u zvogëlua nga gjiri"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "darkë"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "e zgjimit nga gjiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isakut"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:58.332855749Z",
+  "model": "glm-5.3"
+}

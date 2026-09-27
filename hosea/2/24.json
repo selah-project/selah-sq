@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe tokës do t'i përgjigjet ⟨את⟩ drithi, ⟨את⟩ verës e ⟨את⟩ vajit; dhe ato do të përgjigjen ⟨את⟩ Jizreelit.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "dhe tokës"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "do t'i përgjigjet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drithi"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "drithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "verës"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "verës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vajit"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "vajit"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dhe ato"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "do të përgjigjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelit"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:06.800644012Z",
+  "model": "glm-5.3"
+}

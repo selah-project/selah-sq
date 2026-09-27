@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe urtësia e Salomonit u bë më e madhe se urtësia e të gjithë bijve të Lindjes dhe se e gjithë urtësia e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "u bë më e madhe"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "urtësia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "se urtësia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "të Lindjes"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dhe se e gjithë"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "urtësia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:42.484606988Z",
+  "model": "glm-5.3"
+}

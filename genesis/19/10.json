@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe burrat zgjatën ⟨את⟩ dorën e tyre, e çuan ⟨את⟩ Lotin brenda te vetë, në shtëpi, dhe ⟨את⟩ derën e mbyllën.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dhe zgjatën"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dorën e tyre"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "te vetë"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "derën"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "derën"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "e mbyllën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:51.631066310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Rrugën e urdhrave të tua do të vrapoj, sepse ti i zgjeron zemrën time.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "e urdhrave të tua"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "do të vrapoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "i zgjeron"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:41.259309753Z",
+  "model": "glm-5.3"
+}

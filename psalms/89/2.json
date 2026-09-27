@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Hesed-in e Jahves do të këndoj përjetë; brez pas brezi do të bëj të njohur besnikërinë tënde me gojën time",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "do të bëj të njohur"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "besnikërinë tënde"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "me gojën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:31.594070559Z",
+  "model": "glm-5.3"
+}

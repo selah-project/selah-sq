@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Jahve ⟨është⟩ i lartësuar, sepse banon në lartësi; e mbushi ⟨את⟩ Sionin me gjykim dhe drejtësi.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "i lartësuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "banon"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "në lartësi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e mbushi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dhe drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:32.279533461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Ata që zbresin në det me anije, që bëjnë punë në ujëra të mëdha.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "që zbresin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "në det"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "me anije"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "që bëjnë"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujëra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:29.181360672Z",
+  "model": "glm-5.3"
+}

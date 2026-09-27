@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "⟨את⟩ deletë e tyre, ⟨ואת⟩ ⟨את⟩ gjedhëtë e tyre, ⟨ואת⟩ ⟨את⟩ gomarët e tyre, ⟨ואת⟩ gjithçka që ishte ⟨את⟩ në qytet dhe ⟨ואת⟩ gjithçka që ishte në fushë, i morën.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deletë e tyre"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "deletë e tyre"
+    },
+    {
+      "surface": "ויבזו-placeholder",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "gjedhëtë e tyre"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "⟨את⟩ gjedhëtë e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "gomarët e tyre"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "⟨את⟩ gomarët e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "gjithçka që ishte në qytet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gjithçka që"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨את⟩ në qytet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "gjithçka që ishte në fushë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gjithçka që"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "i morën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:48.814466293Z",
+  "model": "glm-5.3"
+}

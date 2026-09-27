@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe shpirti i tij iu ngjit Dinës, bijës së Jakobit, dhe e dashuroi ⟨את⟩ të renë dhe i foli ⟨në⟩ zemrën e të res.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "dhe iu ngjit"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirti i tij"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dinës"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijës"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "së Jakobit"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "dhe e dashuroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të renë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "të renë"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe i foli"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën e"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "të res"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:00.204957737Z",
+  "model": "glm-5.3"
+}

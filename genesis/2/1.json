@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe u plotësuan qiejt dhe toka, dhe i gjithë ushtria e tyre.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "u plotësuan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhe toka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe i gjithë"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ushtria e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:48.739084405Z",
+  "model": "glm-5.3"
+}

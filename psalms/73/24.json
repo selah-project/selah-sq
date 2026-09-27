@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Me këshillën tënde do më udhëheqësh, dhe më vonë do më marrësh ⟨në⟩ lavdi.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Me këshillën tënde"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "do më udhëheqësh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe më vonë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdi"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "do më marrësh"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:53.038583202Z",
+  "model": "glm-5.3"
+}

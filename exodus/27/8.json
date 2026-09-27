@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I zbrazët, me dërrasa, do ta bësh ⟨אתו⟩; ashtu siç të është treguar ⟨אתך⟩ në mal, kështu do të bëjnë.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "i zbrazët"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "me dërrasa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (altar-in)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "është treguar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "do të bëjnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:24.695522764Z",
+  "model": "glm-5.3"
+}

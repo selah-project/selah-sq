@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe i hoqën ⟨את⟩ perënditë e huaja nga mesi i tyre dhe shërbyen ⟨את⟩ Jahvesë; dhe shpirti i tij u shkurtoi nga mundi i Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "dhe i hoqën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perënditë e huaja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë e"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "huaja"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "nga mesi i tyre"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dhe shërbyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "dhe u shkurtoi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirti i tij"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nga mundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:53.657973514Z",
+  "model": "glm-5.3"
+}

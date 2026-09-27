@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "O biri im, nëse marr fjalët e mia dhe urdhrat e mi i fsheh ⟨את⟩-në ty,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "o biri im"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "marr"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dhe urdhrat e mi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "i fsheh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-në ty",
+      "marks": "ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:41.878064176Z",
+  "model": "glm-5.3"
+}

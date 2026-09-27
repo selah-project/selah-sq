@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe do të rrethpriteni ⟨את⟩ mishin e parapirjes suaj, dhe kjo do të bëhet shenjë besëlidhjeje ndërmjet meje dhe jush.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "dhe do të rrethpriteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "të parapirjes suaj"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të bëhet"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "shenjë"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjeje"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ndërmjet meje"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dhe jush"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:42.298907120Z",
+  "model": "glm-5.3"
+}

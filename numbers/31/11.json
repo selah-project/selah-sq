@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe morën ⟨את⟩ të gjithë plaçkën dhe ⟨את⟩ të gjithë prenë, si në njerëz ashtu edhe në kafshë.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dhe morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë plaçkën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "plaçkën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë prenë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "prenë"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "në njerëz"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "edhe në kafshë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:46.805012443Z",
+  "model": "glm-5.3"
+}

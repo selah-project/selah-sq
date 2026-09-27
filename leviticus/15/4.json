@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Çdo shtrat në të cilin bie të fle ai që ka rrjedhje, do të bëhet i papastër; dhe çdo send në të cilin ulet ai, do të bëhet i papastër.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "shtrat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilin"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bie të fle"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ai që ka rrjedhje"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "do të bëhet i papastër"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "send"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ulet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "do të bëhet i papastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:00.894408501Z",
+  "model": "glm-5.3"
+}

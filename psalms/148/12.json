@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Të rinjtë dhe gjithashtu virgjëreshat, të moshuarit bashkë me të vegjlit",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Të rinjtë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "virgjëreshat"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "të moshuarit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "të vegjlit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:52.280680686Z",
+  "model": "glm-5.3"
+}

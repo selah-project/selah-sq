@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Vetëm me short do të ndahet ⟨את⟩ toka; sipas emrave të fiseve të etërve të tyre do të trashëgojnë.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "me short"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "do të ndahet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "sipas emrave"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "të fiseve"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "të etërve të tyre"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "do të trashëgojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:18.222108991Z",
+  "model": "glm-5.3"
+}

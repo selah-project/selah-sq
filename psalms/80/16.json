@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "dhe fidanin që dora e djathtë e mbolli, dhe mbi birin që forcove për vete.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "dhe fidanin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "mbolli"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dora e djathtë e jotja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "forcove"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.547868598Z",
+  "model": "glm-5.3"
+}

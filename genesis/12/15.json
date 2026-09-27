@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe e panë ⟨את⟩ atë parët e Faraonit dhe e lëvduan ⟨את⟩ atë para Faraonit, dhe gruaja u mor në shtëpinë e Faraonit.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dhe e panë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Sarain)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "parët"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "dhe e lëvduan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Sarain)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dhe u mor"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:44.044588374Z",
+  "model": "glm-5.3"
+}

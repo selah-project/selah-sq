@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe mbreti tha: Kush është në oborr? Dhe Hamani po hynte në oborrin e jashtëm të shtëpisë së mbretit, për t'i thënë mbretit të varret ⟨את⟩ Mordekai mbi drurin që i kishte përgatitur atij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "është në oborr"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Dhe Hamani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "po hynte"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "në oborrin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "të jashtëm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "për t'i thënë"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "të varret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kishte përgatitur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:56.238512813Z",
+  "model": "glm-5.3"
+}

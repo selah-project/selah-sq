@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "I ligu, sipas lartësisë së fytyrës së vet, nuk kërkon fare; «s'ka Elohim» — të gjitha kurthat e tij.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "I ligu"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sipas lartësisë"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "e fytyrës së vet"
+    },
+    {
+      "surface": "בל",
+      "gloss": "fare (mos)"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "nuk kërkon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "kurthat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:12.816973958Z",
+  "model": "glm-5.3"
+}

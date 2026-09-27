@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Vuri errësirën si mbulesën e tij, rreth e rrotull tij kasollen e tij — errësirë ujërash, re të dendura të qiejve.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësirën"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "si mbulesën e tij"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "rreth e rrotull tij"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "kasollen e tij"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "errësirë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërash"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "re të dendura"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "të qiejve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:55.016752129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe vdiqi Elon-i Zebuloniti, dhe u varros në Ajalon, në token e Zebulunit.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiqi"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon-i"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zebuloniti"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "në Ajalon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në token e"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulunit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:05.243283115Z",
+  "model": "glm-5.3"
+}

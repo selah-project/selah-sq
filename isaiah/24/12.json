@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Në qytet ka mbetur shkretëtirë, dhe portë është shkatërruar nga shëmtia.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "ka mbetur"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "Në qytet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "dhe shëmtia"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "është shkatërruar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:09.065668863Z",
+  "model": "glm-5.3"
+}

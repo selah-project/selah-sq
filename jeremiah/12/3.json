@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ti, o Jahve, më njeh, më sheh, dhe e provon zemrën time ndaj ⟨את⟩-teje. Zhvici ata si bagëti për t'iu therur, dhe veç-i shenjtëroi për ditën e thertjes.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "më njeh"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "më sheh"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "dhe e provon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndaj teje",
+      "marks": "zemrën time e provuar para Jahvesë"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "zhvici ata"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "si bagëti"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "për t'iu therur"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "dhe veç-i shenjtëroi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "për ditën"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "e thertjes"
+    }
+  ],
+  "timestamp": "2026-09-27T16:10:59.828237844Z",
+  "model": "glm-5.3"
+}

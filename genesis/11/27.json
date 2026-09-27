@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe këto janë ⟨gjeneratat⟩ e Terahut: Terahu lindi ⟨את⟩ Avramin, ⟨את⟩ Nahorin dhe ⟨את⟩ Haranin; dhe Harani lindi ⟨את⟩ Lotin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "gjeneratat"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "e Terahut"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahorin"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "dhe Harani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:26.940881245Z",
+  "model": "glm-5.3"
+}

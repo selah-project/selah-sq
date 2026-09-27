@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dërgova ⟨את⟩ Moisin dhe ⟨את⟩ Aaronin, dhe e godita ⟨את⟩ Egjiptin, siç bëra në mes të tij; dhe më pas ⟨את⟩ ju nxora jashtë.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "dërgova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "dhe e godita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në mes të tij"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe më pas"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nxora jashtë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:25.711125375Z",
+  "model": "glm-5.3"
+}

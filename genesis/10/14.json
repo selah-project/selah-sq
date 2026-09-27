@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨את⟩ patrusimët dhe ⟨את⟩ kasluhimët — prej nga dolën filistët — dhe ⟨את⟩ kaftorimët.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "patrusimët"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusimët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kasluhimët"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluhimët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "prej nga"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dolën"
+    },
+    {
+      "surface": "משם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kaftorimët"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorimët"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.057154087Z",
+  "model": "glm-5.3"
+}

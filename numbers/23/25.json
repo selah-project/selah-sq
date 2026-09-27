@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Balak i tha Bilamit: As të mallkuarit mos e mallko fare, as të bekuarit mos e beko fare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "קב",
+      "gloss": "të mallkuarit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "e mallko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "të bekuarit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "e beko"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:56.539608987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe mbreti e mbuloi ⟨את⟩ fytyrën e tij, dhe mbreti bërtiti me zë të madh: O biri im, Avshalom, o Avshalom, biri im, biri im!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "e mbuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e tij"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "dhe bërtiti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "me zë"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o biri im"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biri im"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biri im"
+    }
+  ],
+  "timestamp": "2026-09-27T15:28:29.027809633Z",
+  "model": "glm-5.3"
+}

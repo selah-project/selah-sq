@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Një mijë do të bien në anën tënde, dhe dhjetë mijë në të djathtën tënde; por te ti nuk do të afrohet.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "do të bien"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "në anën tënde"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "Një mijë"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "dhe dhjetë mijë"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "në të djathtën tënde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "do të afrohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.633597156Z",
+  "model": "glm-5.3"
+}

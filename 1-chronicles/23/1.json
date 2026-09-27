@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Davidi plaku e ngopur me ditë, dhe e bëri Salomonin, birin e tij, të mbretërojë mbi Izraelin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dhe Davidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "plaku"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e ngopur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "me ditë"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e bëri të mbretërojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salomonin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:06:11.445983708Z",
+  "model": "glm-5.3"
+}

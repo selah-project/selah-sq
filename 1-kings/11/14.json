@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve ngriti një kundërshtar për Salomonin: ⟨את⟩ Hadadin, edomitin, nga fara e mbretit — ai ⟨ishte⟩ në Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "kundërshtar"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "për Salomonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadin"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadin"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomitin"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "nga fara e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "në Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.439370733Z",
+  "model": "glm-5.3"
+}

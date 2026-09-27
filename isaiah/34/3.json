@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe të vrarët e tyre do të hidhen poshtë, dhe nga trupat e tyre do të ngjitet erë e keqe, dhe malet do të shkrihen nga gjaku i tyre.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Dhe të vrarët e tyre"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "do të hidhen poshtë"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "dhe nga trupat e tyre"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "do të ngjitet"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "erë e keqe"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "dhe do të shkrihen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "nga gjaku i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:06.414092421Z",
+  "model": "glm-5.3"
+}

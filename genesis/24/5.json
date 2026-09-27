@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe shërbyesi i tha ⟨atij⟩: Ndoshta gruaja nuk do të dojë të vijë pas meje në këtë vend; a duhet ta kthej ⟨את⟩ birin tënd në vendin nga ke dalë?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨atij⟩"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "shërbyesi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ndoshta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "do të dojë"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "grua"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të vijë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "a duhet të kthej"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ta kthej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin tënd"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "birin tënd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "ke dalë"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:01.709082218Z",
+  "model": "glm-5.3"
+}

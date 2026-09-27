@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Jo sipas mëkateve tona veproi ndaj nesh, dhe jo sipas fajësive tona na shpërbleu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "sipas mëkateve tona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "veproi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ndaj nesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "sipas fajësive tona"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "na shpërbleu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:15.560689995Z",
+  "model": "glm-5.3"
+}

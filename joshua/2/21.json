@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ajo tha: Sipas fjalëve tuaja, ashtu ⟨është⟩; dhe i përcjelli ata, dhe ata shkuan; dhe lidhi ⟨את⟩ fijeve të kuqe ⟨e⟩ shëndritshme në dritare.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sipas fjalëve tuaja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "dhe i përcjelli ata"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "dhe lidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fijen e kuqe të shëndritshme"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "fijen e kuqe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "të shëndritshme"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "në dritare"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:06.183660385Z",
+  "model": "glm-5.3"
+}

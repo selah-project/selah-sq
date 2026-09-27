@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jahve i tha Moisit: «Pashë ⟨את⟩ popullin këtë, dhe ja, popull i qafështangjur është ai.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin këtë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "i qafështangjur (i ashpër)"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "i qafës (qafështangjur)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:59.931327022Z",
+  "model": "glm-5.3"
+}

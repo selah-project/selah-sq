@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Madhështi dhe shkëlqim ⟨janë⟩ para tij; forcë dhe bukuri në shenjtëroren e tij.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "madhështi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dhe shkëlqim"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forcë"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "dhe bukuri"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "në shenjtëroren e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:26.431416693Z",
+  "model": "glm-5.3"
+}

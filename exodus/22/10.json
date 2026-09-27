@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "betimi i Jahvesë do të jetë mes të dyve, nëse nuk ka shtrirë dorën e tij mbi punën e shokut të tij; dhe zotëri i saj do ta pranojë ⟨betimin⟩, dhe ai nuk do të paguajë.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "betimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dyve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka shtrirë"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "mbi punën"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "e shokut të tij"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do ta pranojë"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zotëri i saj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të paguajë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:05.717770137Z",
+  "model": "glm-5.3"
+}

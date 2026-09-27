@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Pasuria nuk bën dobi në ditën e zemërimit, por drejtësia shpëton nga vdekja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "bën dobi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "të zemërimit"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "por drejtësia"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "shpëton"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:46.133943742Z",
+  "model": "glm-5.3"
+}

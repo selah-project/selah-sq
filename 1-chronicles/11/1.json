@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe mblodhi të gjithë Izraeli te Davidi në Hebron, duke thënë: Ja, kocka jote dhe mishi yt jemi ne.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "dhe mblodhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "në Hebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "kocka jote"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "dhe mishi yt"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jemi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:36.252784659Z",
+  "model": "glm-5.3"
+}

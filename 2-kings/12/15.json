@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "se atë ua jepnin punëtorëve të punës, dhe me të ata e forcuan ⟨את⟩ shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "punëtorëve"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "të punës"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "atë ua jepnin"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "dhe e forcuan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:54.914653831Z",
+  "model": "glm-5.3"
+}

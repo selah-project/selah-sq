@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe morën ⟨את⟩ bajgën e furrës dhe qëndruan para Faraonit, dhe Moisiu e spërkati ⟨את⟩ atë drejt qiellit, dhe u bë një ënjtje me qelbëza, flluska që shpërthenin, mbi njerëz dhe mbi kafshë.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajgën e furrës"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "bajgën"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "e furrës"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhe qëndruan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dhe e spërkati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (bajgën)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "drejt qiellit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "një ënjtje me qelbëza"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "flluska"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "që shpërthenin"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mbi njerëz"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "dhe mbi kafshë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:26.570539376Z",
+  "model": "glm-5.3"
+}

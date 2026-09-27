@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse do ta shpengojë ⟨atë⟩, do të shtojë të pestën e sipërm të vlerësimit tënd.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpengojë"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "do ta shpengojë ⟨atë⟩"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "do të shtojë"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "të pestën e saj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "vlerësimin e tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:13.871416120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe jetoi Terahu shtatëdhjetë vjet, dhe lindi ⟨את⟩ Avramin, ⟨את⟩ Nahorin dhe ⟨את⟩ Haranin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jetoi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "shtatëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahorin"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:26.940677990Z",
+  "model": "glm-5.3"
+}

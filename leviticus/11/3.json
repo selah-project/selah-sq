@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Çdo kafshë që ka thundra të ndarë dhe që ndan plotësisht thundrën dhe përtyp ⟨gjellën⟩, atë ⟨את⟩ mund ta hani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ka thundra të ndarë"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "thundra"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dhe që ndan plotësisht"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ndarje"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "thundrat"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "përtyp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gjellën (kafshata)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nga kafshët"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (kafshën e tillë)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mund ta hani"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:03.101999366Z",
+  "model": "glm-5.3"
+}

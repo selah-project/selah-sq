@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ja, unë po i zgjoj ata nga vendi nga ku i shitët ⟨אתם⟩ atje, dhe do t'ju kthej shpërblimin tuaj mbi kokën tuaj.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "po i zgjoj ata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "i shitët"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata (i shitët)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "dhe do t'ju kthej"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "shpërblimin tuaj"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "mbi kokën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:15.951189762Z",
+  "model": "glm-5.3"
+}

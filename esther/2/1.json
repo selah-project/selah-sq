@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Pas këtyre gjërave, kur u qetësua zemërimi i mbretit Ahashverosh, ai kujtoi ⟨את⟩ Vashtinë, dhe ⟨את⟩ çfarë kishte bërë ajo, dhe ⟨את⟩ çfarë ishte vendosur kundër saj.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "këtyre gjërave"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "kur u qetësua"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zemërimi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "i mbretit"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kujtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashtinë"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashtinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çfarë kishte bërë ajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çfarë ishte vendosur kundër saj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "ishte vendosur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kundër saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:29.534625191Z",
+  "model": "glm-5.3"
+}

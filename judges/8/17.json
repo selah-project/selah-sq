@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ kullën e Penuelit e shembi, dhe vrau ⟨את⟩ njerëzit e qytetit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kullën e Penuelit"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kullën"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "e Penuelit"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "e shembi"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dhe vrau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e qytetit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:23.790439303Z",
+  "model": "glm-5.3"
+}

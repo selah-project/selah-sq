@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe mbreti Kir nxori ⟨את⟩ enët e shtëpisë së Jahvesë, të cilat Nebukadnetsari i kishte nxjerrë nga Jeruzalemi dhe i kishte vënë në shtëpinë e perëndive të tij.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enët e shtëpisë së Jahvesë"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "enët"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kishte nxjerrë"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsari"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "nga Jeruzalemi"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "dhe i kishte vënë"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "e perëndive të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:15.485760409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Besoni në Jahve përjetë, sepse në Jah, Jahve ⟨është⟩ shkëmb i shekujve.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Besoni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "(i përjetshëm)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "në Jah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "shkëmb"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "i shekujve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:23.351024985Z",
+  "model": "glm-5.3"
+}

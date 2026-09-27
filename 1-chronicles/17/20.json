@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Jahve, nuk ka ⟨asnjë⟩ si ti, dhe nuk ka Elohim përveç teje, në të gjitha që kemi dëgjuar me veshët tanë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "përveç teje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kemi dëgjuar"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "me veshët tanë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:55.873695315Z",
+  "model": "glm-5.3"
+}

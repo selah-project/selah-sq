@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨את⟩ popullin e urdhëroi Jozue, duke thënë: «Mos bërtitni dhe mos bëni ⟨את⟩ zërin tuaj të dëgjuar, dhe asnjë fjalë të mos dalë nga goja juaj, deri në ditën kur t'ju them: Bërtitni! — atëherë do të bërtisni.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "e urdhëroi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "bërtitni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "bëni të dëgjuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin tuaj"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "zërin tuaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "të dalë"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "nga goja juaj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asnjë fjalë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kur t'ju them"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bërtitni"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "atëherë do të bërtisni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:51.731125734Z",
+  "model": "glm-5.3"
+}

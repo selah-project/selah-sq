@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Aq më pak njeriu, ⟨që është⟩ rimë, dhe biri i njeriut, ⟨që është⟩ krimb!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "aq më pak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "rimë"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dhe biri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "krimb"
+    }
+  ],
+  "timestamp": "2026-09-27T17:32:45.731412527Z",
+  "model": "glm-5.3"
+}

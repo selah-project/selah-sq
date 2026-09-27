@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Një altar prej dheut do të më bësh, dhe mbi të do të flijosh ⟨את⟩ olocaustet e tua dhe ⟨את⟩ flijimet e tua të falënderimit, ⟨את⟩ dhentë e tua dhe ⟨את⟩ gjedhët e tua. Në çdo vend ku do të bëj ⟨את⟩ emrin tim të përmendur, unë do të vij te ti dhe do të të bekoj.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "prej dheut"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "dhe do të flijosh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olocaustet e tua"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "olocaustet e tua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "flijimet e tua të falënderimit"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "flijimet e tua të falënderimit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhentë e tua"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dhentë e tua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjedhët e tua"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "gjedhët e tua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "do të bëj të përmendur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tim"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrin tim"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "do të vij"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "dhe do të të bekoj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:36.415437797Z",
+  "model": "glm-5.3"
+}

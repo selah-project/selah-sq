@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "atëherë do t'ju japim ⟨את⟩ bijat tona, dhe ⟨את⟩ bijat tuaja do t'i marrim për vete; dhe do të banojmë ⟨את⟩ me ju, dhe do të bëhemi një popull i vetëm —",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "do t'ju japim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijat tona"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bijat tona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijat tuaja"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bijat tuaja"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "do t'i marrim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "dhe do të banojmë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dhe do të bëhemi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "një popull"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "i vetëm"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:58.080448898Z",
+  "model": "glm-5.3"
+}

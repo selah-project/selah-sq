@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Davidi tha Abishait: «Mos e shkatërro atë, sepse kush ka zgjatur dorën e tij kundër Mashiachit të Jahves dhe është ⟨liruar⟩?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "e shkatërrosh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka zgjatur"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "kundër Mashiachit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "dhe është liruar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:38.950559753Z",
+  "model": "glm-5.3"
+}

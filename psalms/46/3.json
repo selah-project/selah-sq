@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Prandaj nuk do të frikësohemi kur ⟨të⟩ ndryshojë ⟨toka⟩, dhe kur të rrëshqasin malet në zemër të deteve.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Prandaj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(për këtë)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "do të frikësohemi"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "kur të ndryshojë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨toka⟩"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "dhe kur të rrëshqasin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "në zemër"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "të deteve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:46.004269895Z",
+  "model": "glm-5.3"
+}

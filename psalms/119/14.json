@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Në rrugën e dëshmitarëve të tua gëzohem, si mbi ⟨të⟩ gjithë pasurinë.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "të dëshmitarëve të tua"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "gëzohem"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "si mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הון",
+      "gloss": "pasurinë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.153802298Z",
+  "model": "glm-5.3"
+}

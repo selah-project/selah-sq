@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "«Thyejmë ⟨את⟩ prangat e tyre, dhe hedhim prej nesh litarët e tyre!»",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Thyejmë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prangat e tyre"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "prangat e tyre"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "dhe hedhim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej nesh"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "litarët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:43.575233495Z",
+  "model": "glm-5.3"
+}

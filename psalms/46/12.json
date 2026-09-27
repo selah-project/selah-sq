@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ⟨është⟩ me ne, vetëtima ⟨është⟩ për ne, Elohim i Jakobit. Selah",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "vetëtima"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:34.819007468Z",
+  "model": "glm-5.3"
+}

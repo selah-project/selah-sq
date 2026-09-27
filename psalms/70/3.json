@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Le të turpërohen e le të skuqen ata që kërkojnë shpirtin tim; le të tërhiqen prapa e le të ngushëllohen keq ata që dëshirojnë të keqen time.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "le të turpërohen"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e le të skuqen"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ata që kërkojnë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "le të tërhiqen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "prapa"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "e le të ngushëllohen keq"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ata që dëshirojnë"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "të keqen time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:21.649777388Z",
+  "model": "glm-5.3"
+}

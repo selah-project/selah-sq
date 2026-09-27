@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Shkon drejt jugut dhe rrotullohet drejt veriut; duke u rrotulluar, duke u rrotulluar, shkon era, dhe mbi rrethet e veta kthehet era.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "jugut"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "dhe rrotullohet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "veriut"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "duke u rrotulluar"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "duke u rrotulluar"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "era"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "rrethet e veta"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kthehet"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "era"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:17.204867994Z",
+  "model": "glm-5.3"
+}

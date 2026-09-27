@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Kështu Elohim mori ⟨את⟩ bagëtinë e babait tuaj dhe ⟨ma⟩ dha mua.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "mori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagëtinë e babait tuaj"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "bagëtinë"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "babait tuaj"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:36.413628364Z",
+  "model": "glm-5.3"
+}

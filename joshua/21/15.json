@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe ⟨את⟩ Holonin me kullotat e veta, dhe ⟨את⟩ Debirin me kullotat e veta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Holonin"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Debirin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:47.487839693Z",
+  "model": "glm-5.3"
+}

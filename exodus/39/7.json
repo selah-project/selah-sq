@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe i vuri ⟨אתם⟩ mbi krahët e efodit, si gurë përkujtimi për bijtë e Izraelit, ashtu si urdhëroi Jahve ⟨את⟩ Moisi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dhe i vuri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "gurët (i vuri mbi krahët e efodit)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "krahët e"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodit"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "përkujtimi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:28.000293223Z",
+  "model": "glm-5.3"
+}

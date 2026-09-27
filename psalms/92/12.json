@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Dhe syri im do të shikojë ⟨rrëzimin e⟩ atyre që ngrihen kundër meje, të ligët; veshët e mi do t'i dëgjojnë.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "dhe do të shikojë"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "⟨rrëzimin e⟩ të urdhëruar ndaj"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "atyre që ngrihen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "të ligët"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "do t'i dëgjojnë"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "veshët e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.398702874Z",
+  "model": "glm-5.3"
+}

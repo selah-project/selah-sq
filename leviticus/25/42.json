@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sepse shërbëtorët e mi janë ata, të cilët i nxova ⟨את⟩ nga vendi i Egjiptit; të mos shiten me shitje shërbëtori.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e mi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "janë ata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "i nxova"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i nxova (ata, nga vendi i Egjiptit)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "shiten"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "me shitje"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtori"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:45.357786276Z",
+  "model": "glm-5.3"
+}

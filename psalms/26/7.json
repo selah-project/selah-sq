@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Për të dëgjuar zërin e falënderimit dhe për të treguar të gjitha çuditë e tua.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Për të dëgjuar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "falënderimit"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "dhe për të treguar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çuditë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:27.887459037Z",
+  "model": "glm-5.3"
+}

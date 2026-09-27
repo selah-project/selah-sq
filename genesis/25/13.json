@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe këto janë ⟨janë⟩ emrat e bijve të Ismailit, sipas emrave të tyre, sipas brezave të tyre: i parëlinduri i Ismailit Nebajoth, dhe Kedar, dhe Adbeel, dhe Mibsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "të Ismailit"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "sipas emrave të tyre"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "sipas brezave të tyre"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "i parëlinduri"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "i Ismailit"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nebajoth"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "dhe Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "dhe Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "dhe Mibsam"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:37.894399193Z",
+  "model": "glm-5.3"
+}

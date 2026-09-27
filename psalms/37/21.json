@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "I pabesi huazon dhe nuk paguan; por i drejti tregon mëshirë dhe jep.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "huazon"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "dhe nuk",
+      "surface_clean": "ולא"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "paguan"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "por i drejti"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "tregon mëshirë"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "dhe jep"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:24.578085185Z",
+  "model": "glm-5.3"
+}

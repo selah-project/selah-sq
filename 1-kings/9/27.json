@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Hirami dërgoi në anije ⟨את⟩ shërbëtorët e tij, burra detarë, njerëz që njihnin detin, me shërbëtorët e Salomos.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirami"
+    },
+    {
+      "surface": "באני",
+      "gloss": "në anije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burra"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "detarë"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "që njihnin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomos"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:10.864078412Z",
+  "model": "glm-5.3"
+}

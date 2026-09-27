@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Nëse hyj në çadrën e shtëpisë sime, nëse ngjitem mbi shtratin e odisë sime,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "hyj"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në çadrën"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "të shtëpisë sime"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngjitem"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "shtratin"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "të odisë sime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:47.051744281Z",
+  "model": "glm-5.3"
+}

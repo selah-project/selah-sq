@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Kështu vdiq Sauli, dhe tre bijtë e tij, dhe gjithë shtëpia e tij — bashkë vdiqën.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kështu vdiq"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "dhe tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpia e tij"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "vdiqën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:50.674584520Z",
+  "model": "glm-5.3"
+}

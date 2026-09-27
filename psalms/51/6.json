@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Ty, vetëm ty të kam mëkatuar, dhe të keqen përballë syve të tua e kam bërë, që të drejtë të shfaqesh në fjalët e tua, të pafajshëm të shfaqesh në gjykimin tënd.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm ty"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "të kam mëkatuar"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "dhe të keqen"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "përballë syve të tua"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "e kam bërë"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "të drejtë të shfaqesh"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "në fjalët e tua"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "të pafajshëm të shfaqesh"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "në gjykimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:46.791020641Z",
+  "model": "glm-5.3"
+}

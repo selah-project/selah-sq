@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe zgjodhi ⟨את⟩ fisin e Judës, ⟨את⟩ malin Sion, të cilin e deshi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "dhe zgjodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fisin e Judës"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fisin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malin Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "e deshi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:56.834229349Z",
+  "model": "glm-5.3"
+}

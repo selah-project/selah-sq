@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Jahve, Elohim im, ti ⟨je⟩; do të të lartësoj, do të falënderoj emrin tënd, sepse bëre ⟨ një ⟩ çudi; këshilla nga e largëta, besnikëri të sigurt ⟨Amen⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "do të të lartësoj"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "do të falënderoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bëre"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "çudi"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "këshilla"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga e largëta"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "besnikëri"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "të sigurt (Amen)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:40.492111141Z",
+  "model": "glm-5.3"
+}

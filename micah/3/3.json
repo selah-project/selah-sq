@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "dhe që hanë mishin e popullit tim; lëkurën e tyre nga mbi ta e zhvishin, dhe ⟨את⟩ kockat e tyre i thyejnë e i copëtojnë si në tenxhere, si mish në mes të kazanit.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hanë"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e popullit tim"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "dhe lëkurën e tyre"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "nga mbi ta"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "e zhvishin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kockat e tyre"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "kockat e tyre"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "i thyejnë"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "dhe i copëtojnë (i shtrijnë)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "në tenxhere"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "si mish"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "të kazanit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:33.612409738Z",
+  "model": "glm-5.3"
+}

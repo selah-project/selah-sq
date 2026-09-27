@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 128,
+  "translation": "Këngë e ngjitjeve. Lumë ⟨çdo⟩ njeri që frikësohet Jahvenë, ai që ecën në rrugët e tij.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Lumë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨çdo⟩ njeri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "që frikësohet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ai që ecën"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "në rrugët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:02.996978150Z",
+  "model": "glm-5.3"
+}

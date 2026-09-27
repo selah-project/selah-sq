@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jakobi pyeti dhe tha: Më trego, të lutem, emrin tënd. Dhe ai tha: Pse ky pyet për emrin tim? Dhe e bekoi ⟨את⟩ atë atje.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dhe pyeti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "më trego"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "pyet"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "për emrin tim"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (e bekoi)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:48.658802308Z",
+  "model": "glm-5.3"
+}

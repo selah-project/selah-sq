@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe ⟨את⟩ të gjitha qytetet e tyre në vendbanimet e tyre, dhe ⟨את⟩ të gjitha kështjellat e tyre, i dogjën me zjarr.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha qytetet e tyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "qytetet e tyre"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "në vendbanimet e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha kështjellat e tyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kështjellat e tyre"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "i dogjën"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:46.804849281Z",
+  "model": "glm-5.3"
+}

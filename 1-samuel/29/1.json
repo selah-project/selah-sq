@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe filistinasit mblodhën ⟨את⟩ të gjitha fushitë e tyre në Afek, ndërsa Izraeli po fushonte pranë burimit që është në Jezreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "dhe mblodhën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistinasit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fushitë e tyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "fushitë e tyre"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "në Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndërsa Izraeli"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "po fushonte"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pranë burimit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "në Jezreel"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:18.905801208Z",
+  "model": "glm-5.3"
+}

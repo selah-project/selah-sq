@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe do t'ju marr ⟨אתכם⟩ nga kombet dhe do t'ju mbledh ⟨אתכם⟩ nga të gjitha vendet, dhe do t'ju sjell ⟨אתכם⟩ në tokën tuaj.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "dhe do t'ju marr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "dhe do t'ju mbledh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "vendET"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "dhe do t'ju sjell"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tokën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:38:21.737260585Z",
+  "model": "glm-5.3"
+}

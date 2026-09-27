@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do të sjellësh ⟨את⟩ minhën që bëhet nga këto gjëra për Jahve, dhe do ta afrosh ⟨atë⟩ te prifti, dhe ai do ta çojë te altari.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "dhe do të sjellësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bëhet"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "nga këto gjëra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "dhe do ta afrosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "dhe do ta çojë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:23.672867210Z",
+  "model": "glm-5.3"
+}

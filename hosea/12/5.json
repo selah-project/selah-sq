@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ⟨ai⟩ u përball me ⟨את⟩ engjëllin dhe fitoi; qau dhe i lut atij; në Bet-El e gjen atë, dhe atje ai flet me ne.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "u përball"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engjëllin"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "dhe fitoi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "qau"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "dhe i lut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "e gjen atë"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe atje"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "flet"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:29.312105267Z",
+  "model": "glm-5.3"
+}

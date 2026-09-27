@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Sauli thirri ⟨את⟩ popullin dhe i numëroi ata në Telaim: dyqind mijë këmbësorë, dhe dhjetë mijë ⟨את⟩ burra nga të Juda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe thirri (u dha të dëgjojnë)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "dhe i numëroi ata"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "në Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dyqind"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbësorë"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "dhe dhjetë"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burra nga të Juda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "të Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:08.567015069Z",
+  "model": "glm-5.3"
+}

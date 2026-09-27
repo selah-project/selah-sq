@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos e përfol ⟨את⟩ vajzën tënde për ta bërë kurvë, që të mos kurvërohet vendi dhe të mbushet vendi me skandal",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "përfol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajzën tënde"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "vajzën tënde"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "për ta bërë kurvë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "kurvërohet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dhe të mbushet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "me skandal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:47.127075536Z",
+  "model": "glm-5.3"
+}

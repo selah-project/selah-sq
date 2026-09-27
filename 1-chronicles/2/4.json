@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Tamari, nusja e tij, i lindi atij ⟨את⟩ Peretsin dhe ⟨את⟩ Zerahun; të gjithë bijtë e Judës: pesë.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "dhe Tamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "nusja e tij"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsin"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Zerahun"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerahun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:36:30.009809964Z",
+  "model": "glm-5.3"
+}

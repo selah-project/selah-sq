@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Shpinën time e dhasha ⟨⟨את⟩⟩ atyre që më godasin, dhe faqet e mia atyre që i shkulin — fytyrën time nuk e fshiva nga turpi dhe pështymi.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "shpinën"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dhasha"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "atyre që godasin"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "dhe faqet e mia"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "atyre që i shkulin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "fshiva"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "nga turpi"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "dhe pështymi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:16.586866990Z",
+  "model": "glm-5.3"
+}

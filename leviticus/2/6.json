@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Thyeje ⟨את⟩ në copa dhe derdh vaj mbi të: ⟨ajo⟩ ⟨është⟩ minha.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Thyeje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "copat"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "në copa"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dhe derdh"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:23.672560232Z",
+  "model": "glm-5.3"
+}

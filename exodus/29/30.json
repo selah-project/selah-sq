@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Shtatë ditë do t'i veshë prifti që vjen pas tij nga bijtë e tij, ai që hyn në Çadrën e Takimit për të shërbyer në ⟨the⟩ vendin e shenjtë.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "do t'i veshë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "nga bijtë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai që"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e Takimit"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "për të shërbyer"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në vendin e shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:26.403883967Z",
+  "model": "glm-5.3"
+}

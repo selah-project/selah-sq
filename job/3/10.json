@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Sepse nuk i mbylli dyert e ⟨mitrës⟩ sime, dhe nuk fshiu vuajtjen nga sytë e mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "mbylli"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dyert e"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mitrës sime"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "dhe fshiu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vuajtjen"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nga sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:43.681030017Z",
+  "model": "glm-5.3"
+}

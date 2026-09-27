@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Zë pritë në vend të fshehtë, si luan në çerdhe; zë pritë për të rrëmbyer të varfërin; e rrëmben të varfërin kur e tërheq në rrjetën e tij.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "zë pritë"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "në vend të fshehtë"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "si luan"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "në çerdhe"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "zë pritë"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "për të rrëmbyer"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të varfërin"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "e rrëmben"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të varfërin"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "kur e tërheq"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "në rrjetën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:44.756887190Z",
+  "model": "glm-5.3"
+}

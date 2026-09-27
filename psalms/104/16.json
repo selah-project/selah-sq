@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ngopen drurët e Jahves, qedrat e Libanit që Ai i mbolli.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Ngopen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drurët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "qedrat"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "të Libanit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "i mbolli"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:47.137564765Z",
+  "model": "glm-5.3"
+}

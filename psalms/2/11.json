@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Shërbejini ⟨את⟩ Jahvesë me frikë dhe gëzohuni me dridhje.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "shërbejini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "me frikë"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "dhe gëzohuni"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "me dridhje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.916740925Z",
+  "model": "glm-5.3"
+}

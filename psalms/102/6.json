@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Nga zëri i psherëtimave të mia ⟨u⟩ ngjiten eshtrat e mia te mishi im.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Nga zëri"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "psherëtimave të mia"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "⟨u⟩ ngjiten"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "eshtrat e mia"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "te mishi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:03.433815468Z",
+  "model": "glm-5.3"
+}

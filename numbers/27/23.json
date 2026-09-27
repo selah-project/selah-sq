@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "dhe i vuri ⟨את⟩ duart e tij mbi të dhe e urdhëroi, siç foli Jahve nëpërmjet dorës së Moisiut.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "i vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tij"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duart e tij"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "e urdhëroi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet dorës së"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:25.992286848Z",
+  "model": "glm-5.3"
+}

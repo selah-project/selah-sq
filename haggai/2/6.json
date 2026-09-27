@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Sepse kështu ka thënë Jahve Tsevaot: Edhe një herë, pak kohë ⟨është⟩, dhe unë do të tund ⟨את⟩ qiellin dhe ⟨את⟩ tokën dhe ⟨את⟩ detin dhe ⟨את⟩ tokën e thatë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një herë"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "do të tund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiellin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiellin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën e thatë"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "tokën e thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:44.551010593Z",
+  "model": "glm-5.3"
+}

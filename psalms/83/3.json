@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Sepse ja, armiqtë e tu bëjnë zhurmë, dhe ata që të urrejnë kanë ngritur kokën.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bëjnë zhurmë"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "dhe ata që të urrejnë"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "kanë ngritur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.845523757Z",
+  "model": "glm-5.3"
+}

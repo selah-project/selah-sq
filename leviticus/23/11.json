@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "dhe do t'ia valëvizë ⟨את⟩ omerin përballë Jahves, për t'ju pranuar juve; ditën pas Shabatit do ta valëvizë prifti.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "dhe do t'ia valëvizë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "për t'ju pranuar juve"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ditën pas"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatit"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "do ta valëvizë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:32.677432173Z",
+  "model": "glm-5.3"
+}

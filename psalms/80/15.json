@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, kthehu, të lutemi! Shiqo nga qiejt dhe vështro, dhe vizito këtë hardhi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutemi"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Shiqo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "nga qiejt"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe vështro"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "dhe vizito"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "hardhi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.547711163Z",
+  "model": "glm-5.3"
+}

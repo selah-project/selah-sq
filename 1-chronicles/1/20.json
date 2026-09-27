@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Joktani lindi ⟨את⟩ Almodadin, dhe ⟨את⟩ Shelefin, dhe ⟨את⟩ Hatsarmavetin, dhe ⟨את`` Jerahin.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Dhe Joktani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadin"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelefin"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsarmavetin"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerahin"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerahin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:42.919058077Z",
+  "model": "glm-5.3"
+}

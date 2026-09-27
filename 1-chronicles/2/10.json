@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Ram lindi ⟨את⟩ Aminadab, dhe Aminadab lindi ⟨את⟩ Nahshonin, princ i bijve të Judës.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Dhe Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "dhe Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshonin"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshonin"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "princ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i bijve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "të Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:45.175382349Z",
+  "model": "glm-5.3"
+}

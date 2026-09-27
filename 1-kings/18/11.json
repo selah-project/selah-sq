@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe tani ti po thua: «Shko, thuaj zotërisë së ⟨the⟩ tij: Ja, Elia është këtu.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "po thua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "zotërisë së tij"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:45.903475834Z",
+  "model": "glm-5.3"
+}

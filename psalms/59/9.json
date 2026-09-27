@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Dhe ti, o Jahve, do të qeshësh me ta; do të tallësh me ⟨të gjitha⟩ kombet.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dhe ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "do të qeshësh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "do të tallësh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "me të gjitha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:38.896069091Z",
+  "model": "glm-5.3"
+}

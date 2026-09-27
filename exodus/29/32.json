@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Aaroni dhe bijtë e tij do të hanë ⟨את⟩ mishin e dashit dhe ⟨את⟩ bukën që është në shportë, në hyrje të Çadrës së Takimit.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "dhe do të hanë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin e dashit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "e dashit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bukën"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "në shportë"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "në hyrje"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:26.404680991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe ftuar Jishain te flijimi, dhe unë do të të bëj të ditur ⟨את⟩ atë që do të bësh; dhe do të ma vajosësh ⟨את⟩ atë që do të të them ty.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Dhe do të ftosh"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jishain"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "te flijimi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "do të të bëj të ditur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që do të bësh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do të vajosësh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që do të të them ty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "do të të them"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:15.939147672Z",
+  "model": "glm-5.3"
+}

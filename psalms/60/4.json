@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Ke tundur ⟨את⟩ tokën, e ke çarë; shëroji çarjet e saj, sepse po lëkundet.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ke tundur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "e ke çarë"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "shëroji"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "çarjet e saj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "po lëkundet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:54.964032461Z",
+  "model": "glm-5.3"
+}

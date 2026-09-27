@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Kur të këqijtë erdhën mbi mua për të ngrënë ⟨את⟩ mishin tim — kundërshtarët dhe armiqtë e mi — ⟨ata⟩ u rrëzuan dhe ranë.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "kur erdhën afër"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "të këqijtë"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për të ngrënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin tim"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mishin tim"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kundërshtarët"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "dhe armiqtë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ata⟩"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "u rrëzuan"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dhe ranë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:47.771295327Z",
+  "model": "glm-5.3"
+}

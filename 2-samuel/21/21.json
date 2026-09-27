@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Kur ai fyeri Izraelin, e vrau atë ⟨את⟩ Jonatani, bir i Shimeit, vëllai i Davidit.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "fyeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e vrau atë"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "i Shimeit"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:38.538540095Z",
+  "model": "glm-5.3"
+}

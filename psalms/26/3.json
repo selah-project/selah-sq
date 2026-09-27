@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Sepse hesed-i yt ⟨qendron⟩ përballë syve të mi, dhe unë kam ecur në të vërtetën tënde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syve të mi"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "dhe kam ecur"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "në të vërtetën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:32.174004026Z",
+  "model": "glm-5.3"
+}

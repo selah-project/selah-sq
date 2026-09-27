@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Të bekuar jeni ju nga Jahve, ⟨i cili⟩ bën qiejt dhe tokën.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "të bekuar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nga Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dhe tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:14.493409177Z",
+  "model": "glm-5.3"
+}

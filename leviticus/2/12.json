@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Si flijim të fryteve të para do t'i sjellni ⟨את⟩ ato për Jahven, por në altar nuk do të ngjiten si erë e këndshme.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "flijim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "i fryteve të para"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "do t'i sjellni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "por në"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "do të ngjiten"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "si erë"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "e këndshme"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:12.043357323Z",
+  "model": "glm-5.3"
+}

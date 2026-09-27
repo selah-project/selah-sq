@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Mbi ty jam mbështetur nga barku, nga barku i nënës sime ti më nxore; ty të lavdëroj pa pushim.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "jam mbështetur"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "nga barku i"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nënës sime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "më nxore"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "të lavdëroj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pa pushim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:41.886664860Z",
+  "model": "glm-5.3"
+}

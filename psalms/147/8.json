@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai që i mbulon qiejt me re, Ai që përgatit shiun për ⟨tokën⟩, Ai që bën të mbijellë bar në malet ⟨e⟩ larta.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ai që i mbulon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "me re"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Ai që përgatit"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "për tokën"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "shiun"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "Ai që bën të mbijellë"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bar në malet"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.263465452Z",
+  "model": "glm-5.3"
+}

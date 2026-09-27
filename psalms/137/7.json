@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Kujto, o Jahve, kundër bijve të Edomit ⟨את⟩ ditën e Jerusalemit, të cilët thoshin: «Rrenojeni, rrenojeni deri në themelet e saj!»",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kujto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kundër bijve të"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën e Jerusalemit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "të cilët thoshin"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "rrenojeni"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "rrenojeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "themelet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:36.806370464Z",
+  "model": "glm-5.3"
+}

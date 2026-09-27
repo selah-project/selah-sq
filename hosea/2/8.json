@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Prandaj ja, unë do të rrethoj me gjemba ⟨את⟩ rrugën tënde, dhe do të ngrit ⟨את⟩ një mur rreth saj, dhe shtigjet e saj nuk do t'i gjejë ⟨ajo⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja, unë"
+    },
+    {
+      "surface": "שך",
+      "gloss": "do të rrethoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën tënde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rrugën tënde"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "me gjemba"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "dhe do të ngrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një mur rreth saj"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "një mur rreth saj"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "dhe shtigjet e saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "do t'i gjejë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:17.667688185Z",
+  "model": "glm-5.3"
+}

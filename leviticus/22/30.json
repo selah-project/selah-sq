@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Në atë ditë do të hahet ⟨ai⟩; mos lini asgjë nga ⟨ai⟩ deri në mëngjes: unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Në ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hahet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "lini"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:22.195409246Z",
+  "model": "glm-5.3"
+}

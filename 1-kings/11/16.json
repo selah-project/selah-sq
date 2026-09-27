@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse gjashtë muaj qëndroi atje Joabi me gjithë Izraelin, deri sa shfarosi çdo mashkull në Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "muaj"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qëndroi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "shfarosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "në Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.439841642Z",
+  "model": "glm-5.3"
+}

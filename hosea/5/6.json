@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Me deletë e tyre dhe me gjedhët e tyre do të shkojnë të kërkojnë ⟨את⟩ Jahvenë, por nuk do ta gjejnë; ai është tërhequr prej tyre.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "me deletë e tyre"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "dhe me gjedhët e tyre"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "do të shkojnë"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "të kërkojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "do ta gjejnë"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "është tërhequr"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:34.181583774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Bini boricën në Gibea, trombën në Rama; ngrini britmën në Bet-Aven; pas teje, o Beniamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "bini"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "boricën"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "në Gibea"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "trombën"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "në Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ngrini britmën"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "o Beniamin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:34.182015568Z",
+  "model": "glm-5.3"
+}

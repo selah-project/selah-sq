@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe la ⟨את⟩ gjedhët dhe vrapoi pas Eliasë dhe tha: «Të puth, të lutem, të atin dhe të ëmën, dhe pastaj do të shkoj pas teje.» Dhe ai i tha: «Shko, kthehu, sepse çfarë të bëra ty?»",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "dhe la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjedhët"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gjedhët"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "dhe vrapoi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliasë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "të puth"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "dhe të ëmën"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dhe do të shkoj"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "të bëra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:34.721385288Z",
+  "model": "glm-5.3"
+}

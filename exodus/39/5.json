@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe brezi i punuar i efodit të tij, që ishte mbi të, ishte ⟨i njëjti⟩ me të, si punimi i tij: nga ari, nga e kaltra, nga purpura, nga kuermesi i kuq dhe nga liri i finerë i përdredhur — ashtu si urdhëroi Jahve ⟨את⟩ Moisi.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "Dhe brezi i punuar"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "i efodit të tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga i njëjti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ishte ⟨ai⟩"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "si punimi i tij"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "nga e kaltra"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dhe nga purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dhe nga kuermesi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i kuq"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe nga liri i finerë"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "i përdredhur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:27.999728300Z",
+  "model": "glm-5.3"
+}

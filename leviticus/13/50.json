@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe prifti do të shikojë ⟨את⟩ plagën, dhe do ta mbyllë ⟨את⟩ plagën shtatë ditë.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dhe do të shikojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plagën"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plagën"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dhe do ta mbyllë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plagën"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plagën"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:21.592306163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Por nga dashuria e Jahves ndaj jush ⟨את⟩ dhe nga mbajtja e betimit që u betua të etërve tuaj, ju nxori Jahve ⟨את⟩ me dorë të fortë dhe ju shpengoi nga shtëpia e robërve, nga dora e Faraonit, mbretit të Egjiptit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "nga dashuria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve (dashuria e Jahves)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "dhe nga mbajtja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "betimin"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "e betimit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "u betua"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "të etërve tuaj"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (nxori)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me dorë"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "dhe ju shpengoi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "e robërve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:08.729807771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Të marrët, për shkak të rrugës së kryengritjes së tyre dhe për shkak të paudhësive të tyre, u munduan.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "të marrët"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "për shkak të rrugës së"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "kryengritjes së tyre"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "dhe për shkak të paudhësive të tyre"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "u munduan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:46.973446057Z",
+  "model": "glm-5.3"
+}

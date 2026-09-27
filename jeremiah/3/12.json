@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 3:12",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Shko dhe shpall këto fjalë ⟨kah⟩ veriu dhe thuaj: Kthehu, o Izrael i shkëputur, thotë Jahve; nuk do të bëj të bjerë fytyrën time mbi ju, sepse i mëshirshëm jam, thotë Jahve; nuk do të mbaj mladen përjetë.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "dhe shpall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "kah veriu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dhe thuaj"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "i shkëputur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "do të bëj të bjerë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "i mëshirshëm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אטור",
+      "gloss": "do të mbaj mladen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:56.501033598Z",
+  "model": "glm-5.3"
+}

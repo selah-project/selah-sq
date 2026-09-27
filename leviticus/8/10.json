@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Moisi mori ⟨את⟩ vajin e vajimit, dhe vajoi ⟨את⟩ Mishkanin dhe ⟨את⟩ gjithçka që ishte në të, dhe i shenjtëroi ⟨אתם⟩ ato.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaji"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "i vajimit"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dhe vajoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ishte në të"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dhe i shenjtëroi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:24.172427111Z",
+  "model": "glm-5.3"
+}

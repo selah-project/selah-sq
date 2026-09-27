@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Satani doli nga nga prania e Jahves dhe e goditi Jobin ⟨את⟩ me një gaz lleng të keq, nga shputa e këmbës së tij deri në krye të kokës së tij.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dhe doli"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨nga⟩ ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "prania"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobin"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "me një ulçer"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keq"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nga shputa"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "e këmbës së tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "krye të kokës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:06.727300334Z",
+  "model": "glm-5.3"
+}

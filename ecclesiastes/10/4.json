@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Nëse Fryma e sunduesit ngrihet ndaj teje, mos e lër vendin tënd, se qetësia shuan fajet e mëdha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "e sunduesit"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ngrihet"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ndaj teje"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "vendin tënd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "e lër"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "qetësia"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "shuan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "fajet"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "e mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:05.331647189Z",
+  "model": "glm-5.3"
+}

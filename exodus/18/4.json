@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe emri i tjetrit ⟨ishte⟩ Eliezer, sepse ⟨tha⟩: «Elohim i atit tim ⟨qe⟩ në ndihmën time, dhe më shpëtoi nga shpata e faraonit.»",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i tjetrit"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "i atit tim"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "në ndihmën time"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "dhe më shpëtoi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:23.390805259Z",
+  "model": "glm-5.3"
+}

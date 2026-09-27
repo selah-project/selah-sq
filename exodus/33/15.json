@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe i tha atij: Nëse fytyra jote nuk ecën ⟨me ne⟩, mos na ngjit prej këtej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyra jote"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "na ngjit"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "prej këtej"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:39.579049484Z",
+  "model": "glm-5.3"
+}

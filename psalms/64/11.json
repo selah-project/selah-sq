@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "I drejti do të gëzohet në Jahve dhe do të strehohet në të, dhe do të lëvdohen të gjithë të drejtit e zemrës.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "do të gëzohet"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "בַּיהוָה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "וְחָסָה",
+      "gloss": "dhe do të strehohet"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "në të"
+    },
+    {
+      "surface": "וְיִתְהַלְלוּ",
+      "gloss": "dhe do të lëvdohen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "e zemrës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:47.571770635Z",
+  "model": "glm-5.3"
+}

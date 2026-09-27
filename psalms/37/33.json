@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Jahve nuk do ta lërë ⟨atë⟩ në dorën e tij, dhe nuk do ta dënojë kur të gjykohet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "do ta lërë"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "do ta dënojë"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "kur të gjykohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:25.354189313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe mbreti Salomon ⟨ishte⟩ mbret mbi gjithë Izraelin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ishte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:48.158494812Z",
+  "model": "glm-5.3"
+}

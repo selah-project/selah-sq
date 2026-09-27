@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe dinju se Jahve e veçoi ⟨për vete⟩ të përvuishmin; Jahve do të dëgjojë kur të thërras te ai.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Dhe dinju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "e veçoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "të përvuishmin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨për vete⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjojë"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kur të thërras"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:58.198687264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Unë ⟨jam⟩ Jahve, Elohim-i yt, që të nxori nga toka e Egjiptit, nga shtëpia e robërve.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "të nxori"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robërve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:11.273725177Z",
+  "model": "glm-5.3"
+}

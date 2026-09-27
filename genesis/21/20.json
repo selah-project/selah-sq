@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Elohim ishte ⟨את⟩ ⟨me⟩ ⟨את⟩ djalin, dhe ai u rrit dhe banoi në shkretëtirë, dhe u bë shigjetar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨me⟩",
+      "marks": "djalit"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djalit"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "dhe u rrit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "rritje e madhe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "harktar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:34.228914353Z",
+  "model": "glm-5.3"
+}

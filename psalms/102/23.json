@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Kur mblidhen popujt tok, dhe mbretëritë, për të shërbyer ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Kur mblidhen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "dhe mbretëritë"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të shërbyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:09.926993416Z",
+  "model": "glm-5.3"
+}

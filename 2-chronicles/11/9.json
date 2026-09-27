@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ Adoraim, dhe ⟨את⟩ Lakishin, dhe ⟨את⟩ Azekahun,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Adoraim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adoraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Lakishin"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakishin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Azekahun"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekahun"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:04.147702742Z",
+  "model": "glm-5.3"
+}

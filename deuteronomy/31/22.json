@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Kështu Moisi e shkroi atë ditë ⟨את⟩ këtë këngë dhe u mësoi ⟨ajo⟩ bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "e shkroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë këngë"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "dhe u mësoi ⟨ajo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijve të Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:01.416706551Z",
+  "model": "glm-5.3"
+}

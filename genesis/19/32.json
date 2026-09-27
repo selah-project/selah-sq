@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Eja, ta bëjmë ⟨את⟩ atin tonë të pijë verë dhe të shohemi me ⟨të⟩, dhe të mbajmë nga ati ynë pasardhës.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "eja"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ta bëjmë të pijë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atin tonë"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atin tonë"
+    },
+    {
+      "surface": "יין",
+      "gloss": "verë"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "dhe të shohemi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "dhe të mbajmë"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "nga ati ynë"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pasardhës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:45.890240388Z",
+  "model": "glm-5.3"
+}

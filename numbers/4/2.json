@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Bëj numërimin ⟨את⟩ e bijve të Kehatit, nga mesi i bijve të Levit, sipër familjeve të tyre, sipër shtëpive të etërve të tyre:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "bëj numërimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën (e bijve të Kehatit)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatit"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipër familjeve të tyre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sipër shtëpive"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "të etërve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:18.859966901Z",
+  "model": "glm-5.3"
+}

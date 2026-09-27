@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dhe bërtitën te Jahve në ngushticën e tyre; nga brengat e tyre ai i shpëtoi.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "dhe bërtitën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "në ngushticën"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "nga brengat e tyre"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ai i shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:46.973995683Z",
+  "model": "glm-5.3"
+}

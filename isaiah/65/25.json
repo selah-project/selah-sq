@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Ujku dhe qengji do të kullosinë bashkë, dhe luani si gjedhi do të hajë barin e thatë; dhe pluhuri do të jetë buka e gjarprit. Nuk do të bëjnë keq e as do të shkatërrojnë në tërë malin tim të shenjtë, ka thënë Jahve.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "ujku"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "dhe qengji"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "do të kullosinë"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "dhe luani"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "si gjedhi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hajë"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "barin e thatë"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "dhe gjarprit"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhuri"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "buka e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "do të bëjnë keq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e as"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "do të shkatërrojnë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në tërë"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malit"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "tim të shenjtë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:51.206014316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Bijtë e Jafetit: Gomeri, Magogu, Madai, Javaani, Tubali, Mesheku dhe Tirasi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafetit"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerit — Gomeri"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "dhe Magogu"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "dhe Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "dhe Javaani"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "dhe Tubali"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "dhe Mesheku"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "dhe Tirasi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:18.160882622Z",
+  "model": "glm-5.3"
+}

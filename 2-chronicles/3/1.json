@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Salomoni filloi të ndërtonte ⟨את⟩ shtëpinë e Jahvesë në Jerusalem, në malin Moria, ku i ishte shfaqur Davidit, atit të tij, dhe që Davidi e kishte përgatitur në vendin e lëmës së Arnanit Jebusiti.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dhe filloi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "të ndërtonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i ishte shfaqur"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "atit të tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "e kishte përgatitur"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "në lëmë"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "të Arnanit"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusiti"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:43.035464990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Hbël e hbëlërave, tha Koheleti; hbël e hbëlërave, ⟨gjithçka⟩ ⟨është⟩ hbël.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hbël"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "e hbëlërave"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hbël"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "e hbëlërave"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨gjithçka⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hbël"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:09.103697657Z",
+  "model": "glm-5.3"
+}

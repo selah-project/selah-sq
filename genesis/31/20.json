@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Jakobi ia vodhi ⟨את⟩ zemrën Labanit aramitasit, pa e njoftuar atë se ⟨ai⟩ po ikte.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Dhe ia vodhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanit"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramitasit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "e njoftuar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "po ikte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:13.826063564Z",
+  "model": "glm-5.3"
+}

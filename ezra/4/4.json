@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Atëherë populli i vendit u sllojiste duart popullit të Judës dhe i trembte ata ⟨אותם⟩ nga të ndërtuarit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "u sllojiste"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "duart"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullit të"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "dhe i trembte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i trembte ata"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga të ndërtuarit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:40.647238981Z",
+  "model": "glm-5.3"
+}

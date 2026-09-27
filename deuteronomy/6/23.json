@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": " dhe ⟨atë⟩ ne nxori prej andej për të na çuar brenda, për të na dhënë ⟨את⟩ tokën që i ishte betuar etërve tanë.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "na çuar brenda"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për të dhënë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "i ishte betuar"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "etërve tanë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:36.956066367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Por Elohim e ktheu ⟨את⟩ popullin anash rrugës së shkretëtirës, drejt Detit me kallamishte; dhe të armatosur dolën lart bijtë e Izraelit nga toka e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dhe e ktheu anash"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugës"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "të shkretëtirës"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Detit"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "me kallamishte (Suf)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dhe të armatosur"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "dolën lart"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:04.519601031Z",
+  "model": "glm-5.3"
+}

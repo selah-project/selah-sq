@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe populli doli dhe plaçkiti ⟨את⟩ kampin e Aramit; dhe një se mielle e imët shkoj për një shekel, dhe dy se elbi shkojnë për një shekel, sipas fjalës së Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "plaçkiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampin e Aramit"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "e Aramit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "një se"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mielle e imët"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "për një shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "dhe dy se"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "elbi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "për një shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "së Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:43.225653064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Isakut i dhashë ⟨את⟩ Jakobin dhe ⟨את⟩ Esauën; dhe Esaut i dhashë ⟨את⟩ malin e Seirit për ta zotëruar ⟨את⟩ atë; dhe Jakobi dhe bijtë e tij zbritën në Egjipt.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "dhe i dhashë"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esauën"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esauën"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "dhe i dhashë"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esaut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malin e Seirit"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin e"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirit"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "për ta zotëruar"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dhe Jakobi"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zbritën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:13.408670942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe pati edhe një herë luftë të palestinasve me ⟨את⟩ Izraelin; dhe zbriti Davidi me shërbëtorët e tij dhe luftuan kundër palestinasve; dhe u shtang Davidi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "dhe pati"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe një herë"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "e palestinasve"
+    },
+    {
+      "surface": "את",
+      "gloss": "me ⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "me shërbëtorët e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dhe luftuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "kundër ⟨את⟩",
+      "marks": "palestinasve"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "palestinasve"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "dhe u shtang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:43.725744990Z",
+  "model": "glm-5.3"
+}

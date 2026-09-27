@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "O Adonai, dëgjo zërin tim; veshët tënd ⟨të jenë⟩ të vëmendshëm ndaj zërit të lutjeve të mia.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨të jenë⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "veshët tënd"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "të vëmendshëm"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ndaj zërit"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "të lutjeve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:58.771014110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "E jotja ⟨është⟩ dita, madje e jotja ⟨është⟩ edhe nata; Ti ke përgatitur ndriçimin dhe diellin.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "e jotja"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "אף",
+      "gloss": "madje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e jotja"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ke përgatitur"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ndriçimin"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "dhe diellin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:20.419225858Z",
+  "model": "glm-5.3"
+}

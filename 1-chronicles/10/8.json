@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ndodhi të nesërmën, që erdhën filistinasit për të zhveshur të vrarët, dhe gjetën ⟨את⟩ Saulin dhe ⟨את⟩ bijtë e tij të rënë në malin Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "të nesërmën"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "që erdhën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistinasit"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "për të zhveshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të vrarët"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "të vrarët"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dhe gjetën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "të rënë"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:50.674977339Z",
+  "model": "glm-5.3"
+}

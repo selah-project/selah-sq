@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe shpata do të lëngojë në qytetet e tij, dhe do të zhdukë shufrat e tij, dhe do të gllabërojë ⟨nga⟩ këshillat e tyre.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "dhe do të lëngojë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpata"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "në qytetet e tij"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "dhe do të zhdukë"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "shufrat e tij"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe do të gllabërojë"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "nga këshillat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:00.820831521Z",
+  "model": "glm-5.3"
+}

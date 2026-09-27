@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Kujto mëshirat e tua, o Jahve, dhe hesed-et e tua, se nga përjetësia ⟨janë⟩ ato.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mëshirat e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "dhe hesed-et e tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "nga përjetësia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ato"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:24.696787952Z",
+  "model": "glm-5.3"
+}

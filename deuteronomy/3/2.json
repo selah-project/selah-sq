@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe më tha Jahve: Mos e frikëso ⟨אתו⟩, se në dorën tënde ta kam dhënë ⟨אתו⟩ dhe ⟨את⟩ tërë popullin e tij dhe ⟨את⟩ vendin e tij; dhe do t'i bësh atij ashtu si i bëre Sihonit, mbretit të emorejve, që banonte në Heshbon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe më tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frikëso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta kam dhënë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tërë popullin e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vendin e tij"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "vendin e tij"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do t'i bësh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i bëre"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "të emorejve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banonte"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "në Heshbon"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:52.833531827Z",
+  "model": "glm-5.3"
+}

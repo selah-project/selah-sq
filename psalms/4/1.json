@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Për drejtuesin, me vegla me tela, një mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për drejtuesin"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "me vegla me tela"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:19.077338623Z",
+  "model": "glm-5.3"
+}

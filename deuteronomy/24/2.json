@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe ajo del nga shtëpia e tij, shkon dhe bëhet ⟨e⟩ grua e një burri tjetër.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "dhe del"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "nga shtëpia e tij"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bëhet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "e një burri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:51.591616844Z",
+  "model": "glm-5.3"
+}

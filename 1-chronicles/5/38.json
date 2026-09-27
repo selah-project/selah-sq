@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe Ahitubi lindi ⟨את⟩ Tsadokun, dhe Tsadoku lindi ⟨את⟩ Shallumin;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "dhe Ahitubi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadokun"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokun"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "dhe Tsadoku"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallumin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallumin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:54.110664838Z",
+  "model": "glm-5.3"
+}

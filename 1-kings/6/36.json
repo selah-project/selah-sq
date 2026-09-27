@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Ndërtoi ⟨את⟩ oborrin e brendshme me tri radhë gurë të qethur dhe një radhë trarësh qedarësh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oborrin e brendshme"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "oborrin"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "e brendshme"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "radhë"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gurë të qethur"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "dhe një radhë"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "trarësh të qethur"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "qedarësh"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:56.471209315Z",
+  "model": "glm-5.3"
+}

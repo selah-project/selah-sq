@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Egjipti do të njohë se unë ⟨jam⟩ Jahve, kur ta shtrij ⟨את⟩ dorën time mbi Egjipt, dhe do të nxjerr ⟨את⟩ bijtë e Izraelit nga mesi i tyre.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "do të njohë"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "kur ta shtrij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipt"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "dhe do të nxjerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "nga mesi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:10.979104756Z",
+  "model": "glm-5.3"
+}

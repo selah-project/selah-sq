@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Sepse nuk ka fjalë në gjuhën time — ja, Jahve, e ke njohur ⟨të⟩ krejt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "në gjuhën time"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e ke njohur"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "krejt"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:51.282048836Z",
+  "model": "glm-5.3"
+}

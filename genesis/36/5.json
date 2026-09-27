@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "dhe Oholibama lindi ⟨את⟩ Jeush dhe ⟨את⟩ Jaalam dhe ⟨את⟩ Korah; këta janë bijtë e Esaut që i lindën atij në tokën e Kanaanit.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "dhe Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "e Esaut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "i lindën"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:29.505427509Z",
+  "model": "glm-5.3"
+}

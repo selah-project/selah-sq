@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve ⟨është⟩ forcë për ta, dhe kështjellë shpëtimi për Mashiachin e tij — ai ⟨vetë⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forcë"
+    },
+    {
+      "surface": "למו",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "dhe kështjellë"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "shpëtimi"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "për Mashiachin e tij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai vetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:26.412027671Z",
+  "model": "glm-5.3"
+}

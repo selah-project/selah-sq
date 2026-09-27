@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do të bësh rroba të shenjta për Aaronin, vëllain tënd, për lavdi dhe për bukuri.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rroba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "për Aaronin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllain tënd"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "për lavdi"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "dhe për bukuri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:40.448928804Z",
+  "model": "glm-5.3"
+}

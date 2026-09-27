@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe mbreti u kthye dhe erdhi deri te Jordani; dhe Juda erdhi në Gilgal, për të shkuar përpara mbretit, për të çuar ⟨את⟩ mbretin përtej ⟨את⟩ Jordanit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "në Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "për të shkuar"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "për të çuar përtej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:54.207314657Z",
+  "model": "glm-5.3"
+}

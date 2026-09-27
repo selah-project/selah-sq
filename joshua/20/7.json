@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe shenjtëruan ⟨את⟩ Kedeshin në Galile, në malin e Neftalit, dhe ⟨את⟩ Sikemin në malin e Efraimit, dhe ⟨את⟩ Kirjat-Arbën — ajo është Hebroni — në malin e Judës.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "dhe shenjtëruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshin"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "në Galile"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin e"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Sikemin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikemin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin e"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kirjat-Arbën"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arbën"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo është"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebroni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:20.784461825Z",
+  "model": "glm-5.3"
+}

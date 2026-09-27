@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse banorja e Maroth vuajti ⟨duke pritur⟩ për të mirë, sepse e keqja zbriti nga ⟨ana e⟩ ⟨את⟩ Jahve deri në portën e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "vuajti ⟨duke pritur⟩"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "për të mirë"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "banorja e"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zbriti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "deri në portën"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:58.984707208Z",
+  "model": "glm-5.3"
+}

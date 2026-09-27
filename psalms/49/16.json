@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Por Elohim do të shpengojë shpirtin tim nga dora e Sheolit, sepse ai do të më marrë. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Por"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "do të shpengojë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "do të më marrë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:54.534715436Z",
+  "model": "glm-5.3"
+}

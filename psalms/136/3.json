@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Falni falënderim Zotëruesit të zotëruesve, se për jetë të jetëve ⟨është⟩ hesedi i tij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falni falënderim"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Zotëruesit të"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "zotëruesve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "për jetë të jetëve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:01.699472850Z",
+  "model": "glm-5.3"
+}

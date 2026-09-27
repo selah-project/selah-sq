@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Kthehu drejt meje dhe më dhuro meshirë, sepse i vetëm dhe i varfër jam unë.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dhe më dhuro meshirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dhe i varfër"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.315063756Z",
+  "model": "glm-5.3"
+}

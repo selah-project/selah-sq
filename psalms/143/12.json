@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Dhe në hesed-in tënd shfaros armiqtë e mi, dhe asgjësoi të gjithë ngacmuesit e shpirtit tim, sepse unë jam shërbëtori yt.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "dhe në hesed-in tënd"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "shfaros"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "dhe asgjëso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ngacmuesit e"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtit tim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori yt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:56.224143853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Aroni foli ⟨את⟩ të gjitha fjalët që kishte folur Jahve ndaj Moisiut, dhe ⟨ai⟩ bëri shenjat para syve të popullit.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "shenjat"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "para syve të"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:27.754907104Z",
+  "model": "glm-5.3"
+}

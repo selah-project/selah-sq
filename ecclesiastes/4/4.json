@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe pashë unë ⟨את⟩ çdo mundim dhe ⟨את⟩ çdo sukses të punës, se ajo është zilia e njeriut ndaj të afërmit të vet; edhe kjo është farsë dhe mundim fryme.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo mundim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çdo sukses të punës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "sukses"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "të punës"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zilia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ndaj të afërmit të vet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "farsë"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dhe mundim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fryme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:45.734002663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Edhe ti, ngrihu, shko në shtëpinë tënde; kur të hyjnë këmbët e tua në qytet, fëmija do të vdesë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Edhe ti"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ngrihu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "shko"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "kur të hyjnë"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "këmbët e tua"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmija"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:11.914444128Z",
+  "model": "glm-5.3"
+}

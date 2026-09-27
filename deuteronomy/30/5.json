@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Jahve, Elohim-i yt, do të të sjellë në tokën që zotëruan etërit e tu, dhe ti do ta zotërosh ⟨atë⟩; dhe ai do të të bëjë mirë dhe do të të shumojë mbi etërit e tu.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "dhe do të të sjellë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-i yt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "zotëruan"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "etërit e tu"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "dhe do ta zotërosh"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "dhe do të të bëjë mirë"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "dhe do të të shumojë"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "mbi etërit e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:22.169062277Z",
+  "model": "glm-5.3"
+}

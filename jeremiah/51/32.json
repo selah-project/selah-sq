@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "dhe vaditjet janë zënë, dhe ⟨את⟩ kënetat i kanë djegur me zjarr, dhe njerëzit e luftës janë tmerruar.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "dhe vaditjet"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "janë zënë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kënetat"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kënetat"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "i kanë djegur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dhe njerëzit e"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "luftës"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "janë tmerruar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:24:30.429249546Z",
+  "model": "glm-5.3"
+}

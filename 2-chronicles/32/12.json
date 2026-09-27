@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "A nuk është ky Ezekia, që hoqi ⟨את⟩ vendet e tij të larta dhe ⟨את⟩ altaret e tij, dhe u tha Judës dhe Jerusalemit, duke thënë: Përpara një altari do të përuleni, dhe mbi të do të djegni temjan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ky"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Ezekia"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendt e tij të larta"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "vendt e tij të larta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "altaret e tij"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "altaret e tij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ו לירושלם",
+      "gloss": "dhe Jerusalemit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "do të përuleni"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "dhe mbi të"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "do të djegni temjan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:21.524885656Z",
+  "model": "glm-5.3"
+}

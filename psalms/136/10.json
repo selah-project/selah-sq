@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atij që ra mbi Egjiptin në të parëlindurit e tyre, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Atij që ra mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "në të parëlindurit e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:38.364437991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Samueli mori ⟨את⟩ kupën e vajit dhe e derdhi mbi kokën e tij dhe e puthi dhe tha: A nuk është ⟨sepse⟩ Jahve të ka vajisur mbi trashëgiminë e tij për prijës?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupën e vajit"
+    },
+    {
+      "surface": "פך",
+      "gloss": "kupën"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "e vajit"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "dhe e derdhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dhe e puthi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "të ka vajisur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "trashëgiminë e tij"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "për prijës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:33.173910670Z",
+  "model": "glm-5.3"
+}

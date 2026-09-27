@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe lau ⟨את⟩ të brendshmet dhe ⟨את⟩ këmbët e pasme, dhe i dogji mbi flijimin e djegur, mbi altar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "dhe lau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të brendshmet"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "të brendshmet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këmbët e pasme"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "këmbët e pasme"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dhe i dogji"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:42.477530710Z",
+  "model": "glm-5.3"
+}

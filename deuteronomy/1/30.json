@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jahve, Elohim i juaj, që ecën para jush, ⟨ai⟩ do të luftojë për ju, sipas të gjithës atë që bëri ⟨את⟩ me ju në Egjipt, para syve tuaj.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "që ecën"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "do të luftojë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "para syve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:07.555301397Z",
+  "model": "glm-5.3"
+}

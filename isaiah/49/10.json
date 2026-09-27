@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Nuk do të urijnë dhe nuk do të eten, dhe as vapa as dielli nuk do t'i godasë; sepse ai që ka mëshirë për ta do t'i drejtojë dhe pranë burimeve të ujit do t'i udhëheqë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "do të urijnë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ירעבו placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "do të eten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "do t'i godasë"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "vapa"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "dhe as dielli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "ai që ka mëshirë"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "do t'i drejtojë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe pranë"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "burimeve"
+    },
+    {
+      "surface": "מים",
+      "gloss": "të ujit"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "do t'i udhëheqë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:53.408855118Z",
+  "model": "glm-5.3"
+}

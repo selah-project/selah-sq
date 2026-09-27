@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe kush prek mishin e të rrjedhshit, do të lajë rrobat e veta dhe do të lahet në ujë, dhe do të jetë i papastër deri në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "dhe kush prek"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "e të rrjedhshit"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e veta"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhe do të lahet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dhe do të jetë i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "në mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:15.899244823Z",
+  "model": "glm-5.3"
+}

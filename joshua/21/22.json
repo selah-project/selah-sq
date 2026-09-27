@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe ⟨את⟩ Kibzaimin me kullotat e veta, dhe ⟨את⟩ Beth-Horonin me kullotat e veta — katër qytete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Kibzaimin"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibzaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Beth-Horonin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:30.293367612Z",
+  "model": "glm-5.3"
+}

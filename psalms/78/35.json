@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe kujtonin se Elohim ⟨ishte⟩ shkëmbi i tyre, dhe El Eljon shpenguesi i tyre.",
+  "tokens": [
+    {
+      "surface": "וַיִּזְכְּרוּ",
+      "gloss": "kujtonin"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוּרָם",
+      "gloss": "shkëmbi i tyre"
+    },
+    {
+      "surface": "וֵאל",
+      "gloss": "dhe El"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גֹּאֲלָם",
+      "gloss": "shpenguesi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:02.758444220Z",
+  "model": "glm-5.3"
+}

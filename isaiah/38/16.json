@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Adonai, nga këto gjëra jetojnë ⟨njerëzit⟩, dhe nëpër të gjitha këto ⟨është⟩ jeta e frymës sime; Ti më shëron dhe më ngjall.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nga këto"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "jetojnë"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dhe nëpër të gjitha"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "këto"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jeta"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "e frymës sime"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "Ti më shëron"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "dhe më ngjall"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:30.158085167Z",
+  "model": "glm-5.3"
+}

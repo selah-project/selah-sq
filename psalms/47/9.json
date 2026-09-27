@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Elohim mbretëroi mbi kombe, Elohim u ul mbi fronin e shenjtërisë së tij.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "u ul"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "fronin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të shenjtërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:17.757670008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "dhe derdhën gjak të pafajshëm, gjakun e bijve të tyre dhe të bijave të tyre, të cilët i flijuan idhujve të Kanaanit; dhe toka u njollos me gjak.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "dhe derdhën"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjak"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "të pafajshëm"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "e bijve të tyre"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "dhe të bijave të tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "i flijuan"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "idhujve"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "të Kanaanit"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "dhe u njollos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "me gjak"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:10.581954381Z",
+  "model": "glm-5.3"
+}

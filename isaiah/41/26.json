@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 41:26",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Kush e shpalli nga fillimi, që ta dimë, dhe përpara kohës, që të themi: ⟨Është⟩ i drejtë? Jo, nuk ka kush shpall, jo, nuk ka kush dëgjon fjalët tuaja.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "e shpalli"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "nga fillimi"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "që ta dimë"
+    },
+    {
+      "surface": "ומלפנים",
+      "gloss": "dhe përpara kohës"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "që të themi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "kush shpall"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "kush bën të dëgjohet"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kush dëgjon"
+    },
+    {
+      "surface": "אמריכם",
+      "gloss": "fjalët tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:40.242737932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe të ngrihet zemra jote dhe të harrosh ⟨את⟩ Jahve, Elohim-in tënd, që të nxori nga toka e Egjiptit, nga shtëpia e robërve —",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "dhe të ngrihet"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemra jote"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "dhe të harrosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "që të nxori"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "e robërve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:56.856743425Z",
+  "model": "glm-5.3"
+}

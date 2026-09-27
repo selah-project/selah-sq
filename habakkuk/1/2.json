@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Deri kur, o Jahve, do të bërtas dhe nuk do të dëgjosh? Do të klithja te ti për dhunë dhe nuk do të shpengojë?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Deri"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "do të bërtas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "do të dëgjosh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "do të klithja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "për dhunë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "do të shpengojë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:50:05.800990806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe ajo shkoi dhe bëri sipas fjalës së Eliasë; dhe hëngri ⟨ai⟩ dhe ajo dhe shtëpia e saj ditë të tëra.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës së"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliasë"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe hëngri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dhe ajo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "dhe shtëpia e saj"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë të tëra"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:09.753025163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Vajza e Faraonit zbriti për të lahur pranë lumit, dhe shërbëtoret e saj ecnin buzë lumit; dhe ajo pa ⟨את⟩ arken në mes të kallamishtes, dhe dërgoi ⟨את⟩ shërbëtoren e saj, dhe ajo e mori ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "për të lahur"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "lumit"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "dhe shërbëtoret e saj"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ecnin"
+    },
+    {
+      "surface": "על",
+      "gloss": "buzë"
+    },
+    {
+      "surface": "יד",
+      "gloss": "brinkut"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "të lumit"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "kallamishtes"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtoren e saj"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "shërbëtoren e saj"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "dhe e mori atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.828326536Z",
+  "model": "glm-5.3"
+}

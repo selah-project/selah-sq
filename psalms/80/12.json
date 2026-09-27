@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Ajo i dërgoi lastaret e saj deri në det, dhe deri te lumi filizat e saj.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ajo i dërgoi"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "lastaret e saj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "ים",
+      "gloss": "det"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe deri te"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "lumi"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "filizat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:22.477330153Z",
+  "model": "glm-5.3"
+}

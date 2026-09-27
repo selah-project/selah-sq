@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe u shtua edhe një herë zemërimi i Jahvesë kundër Izraelit, dhe ai e ngjalli ⟨את⟩ Davidin kundër tyre, duke thënë: Shko, numëro ⟨את⟩ Izraelin dhe ⟨את⟩ Judën.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dhe u shtua"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe një herë zemërimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "për t'u ndezur"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kundër Izraelit"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "dhe e ngjalli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "numëro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Judën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:46.713160179Z",
+  "model": "glm-5.3"
+}

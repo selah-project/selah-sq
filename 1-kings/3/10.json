@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe fjala pëlqeu në sytë e Adonait, që Salomo kërkoi ⟨את⟩ këtë fjalë.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "dhe pëlqeu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kërkoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:40.987294822Z",
+  "model": "glm-5.3"
+}

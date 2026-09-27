@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe i shpëtoi ata për hir të emrit të tij, për të bërë të njohur ⟨את⟩ fuqinë e tij.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Dhe i shpëtoi ata"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrit të tij"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "për të bërë të njohur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuqinë e tij"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "fuqinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:26.515680223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Sipas të gjitha që të tregoj unë — ⟨את⟩ modelin e Mishkanit dhe ⟨את⟩ modelin e të gjitha veglave të tij — ashtu të bëni ju.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tregoj"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modelin"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "modelin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "të Mishkanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "modelin e të gjitha veglave"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "modelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglave të tij"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "të bëni ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:48.506519741Z",
+  "model": "glm-5.3"
+}

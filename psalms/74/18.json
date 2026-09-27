@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Kujto këtë: armiku e fërzoi Jahven, dhe një popull i marrë përbuzi emrin tënd.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kujto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armiku"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "e fërzoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe një popull"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "i marrë"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "përbuzi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:22.216773052Z",
+  "model": "glm-5.3"
+}

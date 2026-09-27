@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Për hir të emrit tënd, o Jahve, më fal mëkatin tim, sepse ⟨është⟩ i madh.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrit tënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "më fal"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mëkatin tim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:58.754042290Z",
+  "model": "glm-5.3"
+}

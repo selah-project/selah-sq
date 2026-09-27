@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe prifti do ta sjellë ⟨את⟩ atë te altari, do t'i këpusë ⟨את⟩ kokën dhe do ta djegë në altarin e flijimit; dhe gjaku i tij do të kullot në anën e altarit.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "dhe do ta sjellë atë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "do t'i këpusë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dhe do ta djegë"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "në altarin e flijimit"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "dhe do të kullot"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjaku i tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "anën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "të altarit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:22.942608023Z",
+  "model": "glm-5.3"
+}

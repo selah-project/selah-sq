@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 1:21",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨את⟩ jebusit, banues të Jerusalemit, nuk i dëbuan bijtë e Beniaminit; dhe jebusiti banoi me ⟨את⟩ bijtë e Beniaminit në Jerusalem deri në ditën e sotme.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jebusit"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusit"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "banues"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "i dëbuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Beniaminit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e sotme"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:46.995515122Z",
+  "model": "glm-5.3"
+}

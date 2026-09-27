@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe mbreti u këshillua me parinë e tij dhe me të gjithë forumin në Jerusalem, të bënin Pashkën në muajin e dytë.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "u këshillua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "me parinë e tij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe me të gjithë"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forumin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bënin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pashkën"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në muajin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:15:59.920329459Z",
+  "model": "glm-5.3"
+}

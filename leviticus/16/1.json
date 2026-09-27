@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Jahve foli me Moisin, pas vdekjes së dy bijve të Aaronit, kur i afruan përpara Jahvesë dhe vdiqën.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "të Aaronit"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "kur i afruan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dhe vdiqën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:25.451652740Z",
+  "model": "glm-5.3"
+}

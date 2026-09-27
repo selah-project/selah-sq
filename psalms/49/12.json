@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Brendia e tyre ⟨mendon⟩: shtëpitë e tyre ⟨janë⟩ përjetë, banesat e tyre brez pas brezi; ata quajtën tokat me emrat e tyre.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Brendia e tyre"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "shtëpitë e tyre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "banesat e tyre"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pas brezi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ata quajtën"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "me emrat e tyre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "tokat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:37.306206206Z",
+  "model": "glm-5.3"
+}

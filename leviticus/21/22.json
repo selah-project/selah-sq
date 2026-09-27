@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Bukën e Elohim të tij, nga gjërat më të shenjta dhe nga gjërat e shenjta, ai mund të hajë.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "e Elohim të tij"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "nga gjërat më të"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "të shenjta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "gjërat e shenjta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mund të hajë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:08.910059138Z",
+  "model": "glm-5.3"
+}

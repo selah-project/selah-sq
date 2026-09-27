@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Shpirti i tij do të pushojë në të mirë, dhe pasardhësit e tij do të trashëgojnë ⟨të⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "shpirti i tij"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "në të mirë"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "do të pushojë"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "dhe pasardhësit e tij"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "do të trashëgojnë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:55.339996655Z",
+  "model": "glm-5.3"
+}

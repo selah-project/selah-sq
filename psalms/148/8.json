@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "zjarr dhe breshër, borë dhe mjegull, erë e furishme që bën fjalën e tij,",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "dhe breshër"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "borë"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "dhe mjegull"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erë"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "e furishme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:21.631910605Z",
+  "model": "glm-5.3"
+}

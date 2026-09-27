@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai ngriti fytyrën e tij drejt dritares dhe tha: Kush është ⟨me⟩ mua? kush? Dhe shikuan drejt tij dy a tre eunukë.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "dhe ai ngriti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "dritares"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "dhe shikuan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "drejt tij"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a tre"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "eunukë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:53.866335830Z",
+  "model": "glm-5.3"
+}

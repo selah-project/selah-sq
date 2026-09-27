@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Jahve më shpërbleu sipas drejtësisë sime, sipas pastërtisë sime para syve të tij.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe shpërbleu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "sipas drejtësisë sime"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "sipas pastërtisë sime"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "syve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:28:58.493847414Z",
+  "model": "glm-5.3"
+}

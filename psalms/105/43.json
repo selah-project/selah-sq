@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "dhe nxori popullin e tij me gëzim, ⟨את⟩ të zgjedhurat e tij me këngë himnore.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxori"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "me gëzim"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "me këngë himnore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të zgjedhurat e tij"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "të zgjedhurat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:03.502120165Z",
+  "model": "glm-5.3"
+}

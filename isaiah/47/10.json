@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe ti u besove të keqes sate, the: «Nuk ka kush më sheh.» Urtia jote dhe dituria jote, ajo të ktheu prapa; dhe the në zemrën tënde: «Unë jam, dhe s'ka tjetër ⟨pos meje⟩.»",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "dhe ti u besove"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "të keqes sate"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "the"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "më sheh"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "urtia jote"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "dhe dituria jote"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "të ktheu prapa"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "dhe the"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "në zemrën tënde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë jam"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "dhe s'ka tjetër"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pos meje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:06.365605506Z",
+  "model": "glm-5.3"
+}

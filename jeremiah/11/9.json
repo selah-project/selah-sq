@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve më tha: Është gjetur komplot te njerëzit e Judës dhe te banorët e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "është gjetur"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "komplot"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "te njerëzit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "dhe te banorët"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:09:54.870793421Z",
+  "model": "glm-5.3"
+}

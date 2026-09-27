@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Por sa për mua, në paqësinë time do të ec; shpengomë dhe më dhuro meshirë.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Por sa për mua"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "në paqësinë time"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të ec"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "shpengomë"
+    },
+    {
+      "surface": "ו",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "më dhuro meshirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:09.342164843Z",
+  "model": "glm-5.3"
+}

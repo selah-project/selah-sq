@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Avrami tha: Ja, mua nuk më ke dhënë farë, dhe ja, një i lindur në shtëpinë time — ai do të më trashëgojë ⟨mua⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... tha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ke dhënë"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një i lindur"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "në shtëpinë time"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "do të trashëgojë"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:30.142492601Z",
+  "model": "glm-5.3"
+}

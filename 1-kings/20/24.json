@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ⟨את⟩ këtë fjalë bëje: hiq mbretërit, secili nga vendi i vet, dhe vendos prefektë në vendin e tyre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "këtë fjalë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëje"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "hiq"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "nga vendi i vet"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "dhe vendos"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "prefektë"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "në vendin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:32.366049220Z",
+  "model": "glm-5.3"
+}

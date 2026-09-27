@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe hoqi ⟨את⟩ altarët e të huajve dhe vendet e larta, dhe i theu ⟨את⟩ shtyllat e gurta, dhe i preu ⟨את⟩ Asherim-et.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarët e të huajve"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarët"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "e të huajve"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "dhe vendet e larta"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "dhe i theu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat e gurta"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "shtyllat e gurta"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "dhe i preu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherim-et"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherim-et"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:47.408981455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahve Tsevaot — atë ta shenjtëroni, dhe ai ⟨është⟩ frika juaj, dhe ai ⟨është⟩ dridhja juaj.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Jahve)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ta shenjtëroni"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "frika juaj"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "dridhja juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:39.008622285Z",
+  "model": "glm-5.3"
+}

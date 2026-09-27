@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Froni yt, o Elohim, ⟨është⟩ për jetë e përgjithmonë; skeptër drejtësie ⟨është⟩ skeptëri i mbretërisë sate.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "froni yt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptër"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "drejtësie"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptër"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "i mbretërisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:22.222811411Z",
+  "model": "glm-5.3"
+}

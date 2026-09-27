@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Davidi nuk e zhvendosi ⟨את⟩ arkon te veti, në qytetin e Davidit, por e shmangu në shtëpinë e Obed-Edomit gititit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "zhvendosi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkon"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te veti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "por e shmangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomit"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gititit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:03:10.355620360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Për jehudët pati dritë, dhe gëzim, dhe hare, dhe nder.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Për jehudët"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "dritë"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "dhe gëzim"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "dhe hare"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "dhe nder"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:39.991916601Z",
+  "model": "glm-5.3"
+}

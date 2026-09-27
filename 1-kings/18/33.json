@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ai rregulloi ⟨את⟩ drutë, e copëtoi ⟨את⟩ dimin dhe e vuri mbi drutë.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "dhe ai rregulloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drutë"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drutë"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "dhe e copëtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dimin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drutë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:18.288538292Z",
+  "model": "glm-5.3"
+}

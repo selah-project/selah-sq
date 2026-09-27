@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "«Fol me bijtë e Izraelit dhe u thuaj atyre: Unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dhe u thuaj"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:36.483432108Z",
+  "model": "glm-5.3"
+}

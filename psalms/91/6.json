@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Nga murtaja që ecën në errësirë, nga shkatërrimi që shkatërron në mesditë.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "Nga murtaja"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "që ecën"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "nga shkatërrimi"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "që shkatërron"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "në mesditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.633421281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ⟨nëse⟩ një shpirt mëkaton duke dëgjuar zërin e një mallkim, dhe ⟨ai⟩ ⟨është⟩ dëshmitar — ose ka parë, ose ka ditur — nëse nuk e tregon, ⟨atëherë⟩ ai do të mbajë paudhësinë e vet.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "dhe një shpirt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨nëse⟩"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "mëkaton"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "duke dëgjuar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "e një mallkim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨ai⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dëshmitar"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ka parë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ka ditur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "nuk e tregon"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "do të mbajë"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "paudhësinë e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:59.226564231Z",
+  "model": "glm-5.3"
+}

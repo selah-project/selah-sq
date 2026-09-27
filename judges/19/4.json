@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe e mbajti fort kunati i tij, i ati i vajzës, dhe qëndroi ⟨me të⟩ tri ditë; dhe hëngrën dhe pinë dhe fjetën atje.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe e mbajti fort"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "kunati i tij"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "i ati"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "i vajzës"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "me të (prepozita hebraike 'me')"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dhe hëngrën"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "dhe pinë"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "dhe fjetën (kaluan natën)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:06.891402470Z",
+  "model": "glm-5.3"
+}

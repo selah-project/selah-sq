@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Çdo mashkull mes priftërinjve do ta hajë ⟨את⟩ atë; e shenjtë e shenjtave ⟨ësht⟩ë ⟨ajo⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Çdo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mes priftërinjve"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do ta hajë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (flijimin)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtave"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ajo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:31.688864143Z",
+  "model": "glm-5.3"
+}

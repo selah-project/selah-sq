@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Moisiu urdhëroi ⟨את⟩ ata, duke thënë: Në fund të çdo shtatë vjetësh, në kohën e caktuar, në vitin e faljes, në festën e kasolleve,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "në fund"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjetësh"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "në kohën e caktuar"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vitin"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "të faljes"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "në festën"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "të kasolleve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:36.855816708Z",
+  "model": "glm-5.3"
+}

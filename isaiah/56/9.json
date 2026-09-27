@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Të gjitha bishat e fushës, ejani për të gëlltitur, çdo bishë të pyllit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bishat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ejani"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për të gëlltitur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bishë"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "të pyllit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:53.070878035Z",
+  "model": "glm-5.3"
+}

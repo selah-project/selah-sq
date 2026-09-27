@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 99,
+  "translation": "Jahve mbretëron — popujt të dridhen; ⟨Ai⟩ që ulet mbi kerubinët — toka të dridhet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëron"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "të dridhen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ulet"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubinët"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "të dridhet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:07.403835280Z",
+  "model": "glm-5.3"
+}

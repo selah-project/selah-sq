@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Por duhet ta hapësh gjerë ⟨את⟩ dorën tënde për të, dhe patjetër t'i huazosh atij sa mjafton për mangësinë e tij, atë që i mungon atij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "duke hapur"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ta hapësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "dhe duke huazuar"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "t'i huazosh atij"
+    },
+    {
+      "surface": "די",
+      "gloss": "sa mjafton"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "për mangësinë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "i mungon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:00.848861441Z",
+  "model": "glm-5.3"
+}

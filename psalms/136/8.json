@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "⟨את⟩ diellin për të sunduar ditën, se për jetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diellin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diellin"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "për të sunduar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:39.006443851Z",
+  "model": "glm-5.3"
+}

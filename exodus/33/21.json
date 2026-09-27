@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Jahve tha: Ja, ⟨një⟩ vend ⟨את⟩ pranë meje, e ti do të qëndrosh mbi shkëmbin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pranë meje ⟨את⟩"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "do të qëndrosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "shkëmbin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:38.170958513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numërit e tyre ⟨ishin⟩ pesë e dyzet mijë e gjashtëqind e pesëdhjetë.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dhe të numërit e tyre"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e dyzet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e pesëdhjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:55.129600051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Sepse e imja ⟨është⟩ çdo bishë e pyllit, kafshët në malet e njëmijta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e imja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bishë"
+    },
+    {
+      "surface": "יער",
+      "gloss": "e pyllit"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kafshët"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "në malet e"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "njëmijta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.093688273Z",
+  "model": "glm-5.3"
+}

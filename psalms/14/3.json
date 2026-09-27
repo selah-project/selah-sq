@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Të gjithë ⟨janë⟩ larguar, bashke janë kalbësirë; nuk ka bërës të mirës, nuk ka asnjë.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Të gjithë"
+    },
+    {
+      "surface": "סר",
+      "gloss": "⟨janë⟩ larguar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashke"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "janë kalbësirë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërës"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirës"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:13.852206531Z",
+  "model": "glm-5.3"
+}

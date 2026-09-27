@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe thashë: Nuk do t'ju kullos ⟨אתכם⟩ më; e vdekura le të vdesë, dhe e zhduka le të zhduket, dhe të mbeturat le të hanë njëra ⟨את⟩ mishin e shoqes së vet.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "do të kullos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "e vdekura"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "le të vdesë"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "dhe e zhduka"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "le të zhduket"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "dhe të mbeturat"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "do të hanë"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "njëra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "e shoqes së vet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:04.125740589Z",
+  "model": "glm-5.3"
+}

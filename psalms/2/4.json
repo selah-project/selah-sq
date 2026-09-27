@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ai që rri ⟨në⟩ qiejt qesh; Adonai i përqesh ata.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Ai që rri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiejt"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "qesh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "i përqesh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:43.575416983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Elohim, ti i njeh budallëkitë e mia, dhe fajet e mia nga ti nuk mbetën të fshehura.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i njeh"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "budallëkitë e mia"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "dhe fajet e mia"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nga ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "mbetën të fshehura"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:12.742268452Z",
+  "model": "glm-5.3"
+}

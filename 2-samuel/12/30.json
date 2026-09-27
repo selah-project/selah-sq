@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe mori ⟨את⟩ kurorën e mbretit të tyre nga koka e tij, dhe pesha e saj ishte një kikar ari dhe gurë të çmuar; dhe ajo qe mbi kokën e Davidit. Dhe plaçkën e qytetit e nxori shumë të madhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurorën e mbretit të tyre"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kurorën"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "e mbretit të tyre"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "koka e tij"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "dhe pesha e saj"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "një kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe gurë"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "të çmuar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "dhe plaçkën"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "e nxori"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "të madhe"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:17.737397574Z",
+  "model": "glm-5.3"
+}

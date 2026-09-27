@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Këshilla e Jahvesë qëndron përjetë, mendimet e zemrës së Tij brezi pas brezi.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Këshilla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mendimet"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "të zemrës së Tij"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pas brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:10.262745192Z",
+  "model": "glm-5.3"
+}

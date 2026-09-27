@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe farën e tij të mos e përdhosë midis popullit të tij, se unë jam Jahve që e shenjtëroj ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe ... të mos"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "e përdhosë"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "faranë e tij"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "midis popullit të tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "që e shenjtëroj ⟨atë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:50.640777392Z",
+  "model": "glm-5.3"
+}

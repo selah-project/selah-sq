@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe ⟨את⟩ vëllain tuaj merrni, dhe çohuni, kthehuni te njeriu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vëllain tuaj"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllain tuaj"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "merrni"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "dhe çohuni"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kthehuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:59.633335882Z",
+  "model": "glm-5.3"
+}

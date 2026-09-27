@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "që e bëri ⟨botën⟩ si një shkretëtirë dhe rrënoi qytetet e saj, të burgosurve të tij nuk u hapi ⟨shtëpinë⟩?",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "e bëri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botën"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "si një shkretëtirë"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "dhe qytetet e saj"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "rrënoi"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "të burgosurit e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "shtëpinë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:51.302423326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Shenjat tona nuk i pamë; s'ka më profet, dhe as ⟨את⟩ me ne s'ka kush që di se sa gjatë.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "shenjat tona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "i pamë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne",
+      "marks": "kush që di se sa gjatë"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "di"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa gjatë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:01.518676410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 2:3",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe më tha: Bir njeriu, unë po të dërgoj ⟨אתך⟩ te bijtë e Izraelit, te kombe të kryengritura që kanë kryengritur kundër meje; ata dhe etërit e tyre kanë mëkatuar kundër meje deri në vetë ditën e sotme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "po dërgoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨אתך⟩",
+      "marks": "te bijtë e Izraelit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "të kryengritura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "kanë kryengritur"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "dhe etërit e tyre"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "kanë mëkatuar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "në vetë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e sotme"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:45.469905243Z",
+  "model": "glm-5.3"
+}

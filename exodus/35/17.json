@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "⟨את⟩ perdet e oborrit, ⟨את⟩ shtyllat e tij dhe ⟨את⟩ bazat e tyre, dhe ⟨את⟩ perden e portës së oborrit,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdet e oborrit"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "të oborrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat e tij"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "shtyllat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bazat e tyre"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "bazat e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "perden e portës"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perden"
+    },
+    {
+      "surface": "שער",
+      "gloss": "të portës"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "të oborrit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:36.836800408Z",
+  "model": "glm-5.3"
+}

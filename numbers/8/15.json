@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe pas kësaj Levitët do të hyjnë për të shërbyer ⟨את⟩ tendën e takimit, dhe do t'i pastrosh ⟨אתם⟩ dhe do t'i lëkundësh ⟨אתם⟩ si tenufa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "do të hyjnë"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitët"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të shërbyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendën e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "dhe do t'i pastrosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i (Levitët)"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "dhe do t'i lëkundësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i (Levitët)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "si tenufa"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:01.088903521Z",
+  "model": "glm-5.3"
+}

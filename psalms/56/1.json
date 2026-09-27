@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Për dirigjentin, sipas «Pëllumbes së heshtur mes të largëtve». Një psalm i Davidit, një miktam, kur e zunë ⟨את⟩ filistët në Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "pëllumbes"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "të heshtur"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "mes të largëtve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "kur e zunë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "filistët"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "në Gat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:08.673586529Z",
+  "model": "glm-5.3"
+}

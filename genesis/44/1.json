@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe ai urdhëroi ⟨את⟩ atë që ishte mbi shtëpinë e tij, duke thënë: Mbushi çantat e njerëzve me ushqim, sa mund të bartin, dhe vendos argjendin e secilit në gojën e çantës së tij.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që ishte mbi shtëpinë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çantat e njerëzve"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "çantat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "të njerëzve"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "me ushqim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "mund"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "të bartin"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "dhe vendos"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e secilit"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "e çantës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:05.973303244Z",
+  "model": "glm-5.3"
+}

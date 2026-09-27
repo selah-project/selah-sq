@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Avrahami i tha: Ruhu, mos kthe ⟨את⟩ birin tim atje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahami"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti vetë"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kthe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birin tim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:01.709815821Z",
+  "model": "glm-5.3"
+}

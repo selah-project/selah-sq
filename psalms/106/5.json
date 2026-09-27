@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Për të parë mirëqenien e të zgjedhurve të tu, për të gëzuar në gëzimin e kombit tënd, për t'u lavdëruar me trashëgiminë tënde.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "mirëqenien e"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "të zgjedhurve të tu"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "për të gëzuar"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "në gëzimin e"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "kombit tënd"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "për t'u lavdëruar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "trashëgiminë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:26.514991252Z",
+  "model": "glm-5.3"
+}

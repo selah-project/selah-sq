@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse një njeri e shet ⟨את⟩ vajzën e tij si shërbëtore, ajo nuk do të dalë siç dalin shërbëtoret meshuj.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "e shet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajzën e tij"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "vajzën e tij"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "si shërbëtore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "do të dalë"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "siç dalin"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "shërbëtoret meshuj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:37.987926271Z",
+  "model": "glm-5.3"
+}

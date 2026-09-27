@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe shkova e e fshiva ⟨את⟩ atë në Perath, ashtu si ⟨את⟩ më urdhëroi Jahve.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "dhe shkova"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "e fshiva ⟨את⟩ atë"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "në Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ më"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:24.240276214Z",
+  "model": "glm-5.3"
+}

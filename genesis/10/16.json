@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨את⟩ jevusejt dhe ⟨את⟩ emorejt dhe ⟨את⟩ girgashët.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "jevusejt"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevusejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "emorejt"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "girgashët"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashët"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.057417899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe Izraeli tha: Pse më bëtë keq ⟨këtë⟩, duke i treguar njeriut se kini edhe një vëlla?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "bëtë keq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "duke i treguar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "se kini edhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "אח",
+      "gloss": "një vëlla"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:16.117824872Z",
+  "model": "glm-5.3"
+}

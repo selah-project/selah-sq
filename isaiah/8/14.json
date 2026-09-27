@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ai do të jetë shenjtërore, dhe gur përplasjeje, dhe shkëmb pengese për të dy shtëpitë e Izraelit; kurth dhe lak për banorët e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe ai do të jetë"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "shenjtërore"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "dhe gur"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "përplasjeje"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "dhe shkëmb"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "pengese"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "për të dy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "kurth"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "dhe lak"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "për banorët"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:39.009165484Z",
+  "model": "glm-5.3"
+}

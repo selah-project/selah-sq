@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Edhe në Horeb e zemëruat ⟨את⟩ Jahve, dhe Jahve u zemërua me ju për t'ju shfarosur.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "dhe në Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "e zemëruat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "dhe u zemërua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "për t'ju shfarosur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:13.461246784Z",
+  "model": "glm-5.3"
+}

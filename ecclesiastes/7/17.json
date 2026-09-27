@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Mos bëj keq shumë, dhe mos u bëj i pamend — pse të vdesësh ⟨jo⟩ në kohën tënde?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "bëj keq"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "u bëje"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "i pamend"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "të vdesësh"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "jo (pa)"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "në kohën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:58.447601696Z",
+  "model": "glm-5.3"
+}

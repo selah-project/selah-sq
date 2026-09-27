@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vajosësh ⟨את⟩ legenin dhe ⟨את⟩ bazën e tij, dhe do ta shenjtërosh ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do të vajosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legenin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "legenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bazën e tij"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bazën e tij"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dhe do ta shenjtërosh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:54.261681099Z",
+  "model": "glm-5.3"
+}

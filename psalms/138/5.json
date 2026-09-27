@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Dhe ⟨ata⟩ do të këndojnë në rrugët e Jahvesë, sepse e madhe është lavdia e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "dhe do të këndojnë"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "në rrugët e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:11.043917324Z",
+  "model": "glm-5.3"
+}

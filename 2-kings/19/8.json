@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe u ktheu Ravshakehu dhe e gjeti ⟨את⟩ mbretin e Asirisë duke luftuar kundër Libnës, sepse dëgjoi se ishte nisur nga Lakishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav( krye- )"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "( -shakehu )"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dhe e gjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin e Asirisë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "e Asirisë"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "duke luftuar"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnës"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ishte nisur"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "nga Lakishi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:32.686178717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai tha: Po çfarë ⟨është⟩ për t'u bërë për të? Dhe Gehazi tha: Vërtet, djali nuk ka ajo, dhe burri i saj ⟨është⟩ plak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "וּמה",
+      "gloss": "Po çfarë"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për t'u bërë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për të"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gehazi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "djali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "dhe burri i saj"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "plak"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:33.164721671Z",
+  "model": "glm-5.3"
+}

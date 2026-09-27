@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "sepse si ⟨çmimi⟩ në shpirtin e tij, ashtu ⟨është⟩ ai; «Ha dhe pi», do të të thotë, por zemra e tij nuk ⟨është⟩ me ty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨çmimi⟩"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "në shpirtin e tij"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dhe pi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do të të thotë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "por zemra e tij"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:33.844199353Z",
+  "model": "glm-5.3"
+}

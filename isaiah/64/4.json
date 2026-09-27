@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Ti u takove ⟨את⟩ atij që gëzon dhe punon drejtësinë, ata që të kujtojnë në rrugët e tua; ja, ti u zemërove dhe ne mëkatuam; në to ⟨është⟩ përjetësia dhe do të shpëtohemi.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "u takove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atij që gëzon dhe punon drejtësinë"
+    },
+    {
+      "surface": "שש",
+      "gloss": "që gëzon"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe punon"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "në rrugët e tua"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "të kujtojnë"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "u zemërove"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "dhe mëkatuam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në to"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësia"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "dhe do të shpëtohemi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:57.860525554Z",
+  "model": "glm-5.3"
+}

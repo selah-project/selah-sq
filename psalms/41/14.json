@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "I bekuar ⟨qoftë⟩ Jahve, Elohim i Izraelit, nga përjetësia dhe deri në përjetësi. Amin dhe amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "I bekuar ⟨qoftë⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "nga përjetësia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "përjetësi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dhe amin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:16.668919500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "⟨Ata⟩ u shkatërruan në En-Dor, u bënë pleh për ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "u shkatërruan"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "në"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "u bënë"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "pleh"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "për tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:12.852551455Z",
+  "model": "glm-5.3"
+}

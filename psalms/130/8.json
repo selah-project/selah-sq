@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "Dhe Ai do të shpengojë ⟨את⟩ Israelin nga të gjitha mëkatet e tij.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Dhe Ai"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "do të shpengojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "mëkatet e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:49.997075662Z",
+  "model": "glm-5.3"
+}

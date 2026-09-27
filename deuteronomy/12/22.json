@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Vetëm ashtu siç hahet ⟨את⟩ gazela dhe ⟨את⟩ dreri, kështu ta hash atë; i papa dhe i pastër njësoj mund ta hanë atë.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hahet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazela"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dreri"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dreri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ta hash atë"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "i papa"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "dhe i pastër"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "njësoj"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mund ta hanë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:11.658601504Z",
+  "model": "glm-5.3"
+}

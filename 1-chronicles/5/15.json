@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Ahi, bir i Avdielit, bir i Gunit, ishte krye i shtëpisë së etërve të tyre.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdielit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Gunit"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "krye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i shtëpisë së"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "etërve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:24.471137440Z",
+  "model": "glm-5.3"
+}

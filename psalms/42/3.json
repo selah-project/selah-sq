@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Shpirti im etiti për Elohim, për ⟨ të ⟩ El-it ⟨ të ⟩ gjallë — kur do të vij e të shfaqem para fytyrës së Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "etiti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "për Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "për El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "do të vij"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dhe të shfaqem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:59.685578889Z",
+  "model": "glm-5.3"
+}

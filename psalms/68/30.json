@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Nga tempulli ⟨i⟩ yt mbi Jeruzalem, para teje do të sjellin mbretër dhurata.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "nga tempulli yt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "do të sjellin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretër"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dhurata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:23.989846574Z",
+  "model": "glm-5.3"
+}

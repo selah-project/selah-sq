@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Dora e djathtë e Jahvesë ⟨është⟩ e lartësuar; dora e djathtë e Jahvesë vepron me guxim.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "Dora e djathtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "e lartësuar"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dora e djathtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vepron"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "me guxim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:00.771779357Z",
+  "model": "glm-5.3"
+}

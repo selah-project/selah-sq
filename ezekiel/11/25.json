@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe i fola të mërguarve ⟨את⟩ të gjitha fjalët e Jahvesë që më kishte treguar.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "dhe i fola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për te"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "të mërguarve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e Jahvesë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "më kishte treguar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:27:26.553261901Z",
+  "model": "glm-5.3"
+}

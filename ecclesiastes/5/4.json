@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Më mirë është të mos premtosh, sesa të premtosh e të mos plotësosh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më mirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "të premtosh"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "sesa të premtosh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "të plotësosh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:45.501436633Z",
+  "model": "glm-5.3"
+}

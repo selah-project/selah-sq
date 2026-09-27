@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "A lidhet me ty ⟨a⟩ froni i shkatërrimit, që formon të keqen mbi një ligj?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "a lidhet me ty"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "froni"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "i shkatërrimit"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "që formon"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חק",
+      "gloss": "një ligj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:21.569544326Z",
+  "model": "glm-5.3"
+}

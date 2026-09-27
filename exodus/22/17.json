@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Një magjistare nuk do ta lësh të jetojë.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "magjistare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "do ta lësh të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:48.404056361Z",
+  "model": "glm-5.3"
+}

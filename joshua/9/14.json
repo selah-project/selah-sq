@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe burrat morën nga ushqimi i tyre, por ⟨את⟩ gojën e Jahves nuk e pyetën.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "nga ushqimi i tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gojën"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "e pyetën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:22.488200839Z",
+  "model": "glm-5.3"
+}

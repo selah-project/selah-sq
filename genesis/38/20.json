@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe Juda dërgoi ⟨את⟩ kecin e dhive me anë të shokut të tij Adullamitit, për të marrë pengun nga dora e gruas; por ⟨ai⟩ nuk e gjeti atë.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecin e dhive"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kecin"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "e dhive"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shokut të tij"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adullamitit"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "për të marrë"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "pengun"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "e gruas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "e gjeti atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:06.015732118Z",
+  "model": "glm-5.3"
+}

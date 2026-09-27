@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Ai do të ndërtojë për mua një shtëpi, dhe unë do ta forcoj ⟨את⟩ fronin e tij deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "do të ndërtojë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "një shtëpi"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "dhe unë do ta forcoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fronin e tij"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "fronin e tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:54.941593629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe toka e tij u mbush me idhuj — përballë veprës së duarve të vet përkulen, përballë asaj që bënë gishtat e tyre.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "toka e tij"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "me idhuj"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "përballë veprës së"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duarve të vet"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "përkulen"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "përballë asaj që"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "gishtat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:40.849661214Z",
+  "model": "glm-5.3"
+}

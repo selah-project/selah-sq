@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Djal tetë vjeç ⟨ishte⟩ Josia kur mbretëroi, dhe tridhjetë e një vjet mbretëroi në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "djal"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josia"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kur mbretëroi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "e një"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:59.276045383Z",
+  "model": "glm-5.3"
+}

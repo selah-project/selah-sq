@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Ai tha: Sepse unë do të jem me ty; dhe kjo do të jetë shenja për ty që unë të kam dërguar: kur të nxjerrësh ⟨את⟩ popullin nga Egjipti, do t'i shërbeni ⟨את⟩ Elohim-it mbi këtë mal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe Ai tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "do të jem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "האות",
+      "gloss": "shenja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "të kam dërguar"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "kur të nxjerrësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "do t'i shërbeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-it"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-it"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:32.544084137Z",
+  "model": "glm-5.3"
+}

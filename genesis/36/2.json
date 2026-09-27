@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Esau mori ⟨את⟩ gratë e tij nga bijat e Kanaanit: ⟨את⟩ Adanë, bijë e Elonit hititi, dhe ⟨את⟩ Oholibamën, bijë e Anahut, bijë e Tsibeonit hiviti.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gratë e tij"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "gratë e tij"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "nga bijat"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adanë"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adanë"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "e Elonit"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Oholibamën"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamën"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "e Anahut"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "e Tsibeonit"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviti"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:31.187618469Z",
+  "model": "glm-5.3"
+}

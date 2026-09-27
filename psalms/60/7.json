@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Që të shpëtojnë të dashurit e ti; shpëto me të djathtën tënde dhe përgjigjuna.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Që të"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "shpëtojnë"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "të dashurit e ti"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "shpëto"
+    },
+    {
+      "surface": "יומינך",
+      "gloss": "me të djathtën tënde"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "dhe përgjigjuna"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:10.039051719Z",
+  "model": "glm-5.3"
+}

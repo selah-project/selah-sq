@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Përballë Jordanit, në tokën e Moabit, Moisi nisi të shpjegojë ⟨את⟩ këtë Tora, duke thënë:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabit"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "të shpjegojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:29.716843199Z",
+  "model": "glm-5.3"
+}

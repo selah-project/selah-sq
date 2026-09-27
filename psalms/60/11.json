@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Kush do më çojë në ⟨qytetin⟩ e fortifikuar? Kush do më udhëheqë deri në Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "do më çojë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨qytetin⟩"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "e fortifikuar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "do më udhëheqë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:48.056972711Z",
+  "model": "glm-5.3"
+}

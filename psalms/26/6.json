@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Do të laj në pafajësi duart e mia, dhe do të rrethoj ⟨את⟩ altarin tënd, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Do të laj"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "në pafajësi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "duart e mia"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "dhe do të rrethoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarin tënd"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altarin tënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:27.887285817Z",
+  "model": "glm-5.3"
+}

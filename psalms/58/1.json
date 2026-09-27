@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Për dirigjentin; «Mos e shkatërro»; i Davidit; Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "e shkatërro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:28.371179436Z",
+  "model": "glm-5.3"
+}

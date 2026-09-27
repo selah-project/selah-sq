@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse ai që e shenjtëroi ta shpengojë ⟨את⟩ shtëpinë e tij, do të shtojë të pestën e çmimit të vlerësimit tënd mbi të, dhe do të jetë e tij.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ai që e shenjtëroi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ta shpengojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e tij"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "do të shtojë"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "të pestën"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "e çmimit"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "të vlerësimit tënd"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:13.872072403Z",
+  "model": "glm-5.3"
+}

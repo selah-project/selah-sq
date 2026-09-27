@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Zemër të pastër krijo për mua, o Elohim, dhe Frymë të qëndrueshme rinovo brenda meje.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "zemër"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "krijo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dhe Frymë"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "të qëndrueshme"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "rinovo"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "brenda meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.475341762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Do të ec para Jahvesë, në tokat e të gjallëve.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "do të ec"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "në tokat"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të të gjallëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:49.547264838Z",
+  "model": "glm-5.3"
+}

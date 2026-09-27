@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai do të flasë në vend të teje ndaj popullit; dhe do të ndodhë që ai do të jetë për ty gojë, dhe ti do të jesh për atë si Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "dhe do të flasë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "në vend të teje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "gojë"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jesh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për atë"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "si Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:24.588550955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ndodhi që, ndërsa njëri po rrëzonte trarin, ⟨את⟩ hekuri iu rrëzua në ujë; dhe ai bërtiti dhe tha: «Ah, zotëria im! Dhe ⟨is⟩ marrë me huaj!»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "po rrëzonte"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "trarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hekurin"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hekuri"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "iu rrëzua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "dhe bërtiti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨is⟩ ai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "marrë me huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:14.823062004Z",
+  "model": "glm-5.3"
+}

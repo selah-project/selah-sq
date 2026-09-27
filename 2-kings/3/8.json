@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ai tha: Cilën do rrugë të ngjitemi? Dhe ai tha: Rrugën e shkretëtirës së Edomit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Cilën"
+    },
+    {
+      "surface": "זה",
+      "gloss": "do"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "të ngjitemi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Rrugën"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "e shkretëtirës"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "të Edomit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:56.974766838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe do të mbijnë në mes të barit, si plepat pranë përroit të ujit:",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Dhe do të mbijnë"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "barit"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "si plepat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "përroit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "të ujit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:48.540011483Z",
+  "model": "glm-5.3"
+}

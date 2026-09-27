@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe populli do të shtypet, njeri ndaj njerit dhe çdo njeri ndaj të afermit të vet; i riu do të tregohet i pamatur ndaj të plakut, dhe i përvijuari ndaj të nderuarit.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "dhe do të shtypet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ndaj njerit"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe çdo njeri"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ndaj të afermit të vet"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "do të tregohen të pamatur"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "i riu"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ndaj të plakut"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "dhe i përvijuari"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ndaj të nderuarit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:24.271619912Z",
+  "model": "glm-5.3"
+}

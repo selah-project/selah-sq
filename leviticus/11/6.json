@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Edhe ⟨את⟩ lepurushi, sepse ripërtyp ⟨gjizën⟩, por thundra nuk e ka të ndarë — ⟨ajo⟩ ⟨është⟩ e papastër për ju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lepurushi"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "lepurushi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ripërtyp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gjizën"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dhe thundra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "nuk e ndau"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "e papastër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:45.958464291Z",
+  "model": "glm-5.3"
+}

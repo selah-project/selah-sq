@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Ti do t'i shkatërrosh të gjithë folësit e gënjeshtrës; njeriun e gjakut dhe të mashtrimit Jahve e neverit.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "do t'i shkatërrosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "folësit"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "e gënjeshtrës"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "e gjakut"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dhe të mashtrimit"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "e neverit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.328543710Z",
+  "model": "glm-5.3"
+}

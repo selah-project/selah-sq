@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Eberi jetoi tridhjetë e katër vjet, dhe lindi ⟨את⟩ Pelegun.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegun"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:36.198448276Z",
+  "model": "glm-5.3"
+}

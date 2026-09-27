@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Ti shembe me fuqinë tënde ⟨את⟩ detin; the kokat e dragonjve mbi ujërat.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "shembe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "me fuqinë tënde"
+    },
+    {
+      "surface": "ים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "the"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kokat"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "e dragonjve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:20.418680073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "marrëzia ngrihet në ⟨vendet⟩ e larta ⟨të shumta⟩, dhe të pasurit ulen në vend të ulët.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ngrihet (është vënë)"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "marrëzia"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "në vendet e larta"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "dhe të pasurit"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "në vend të ulët"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ulen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:35.579509627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jobi jetoi pas kësaj njëqind e dyzet vjet, dhe pa ⟨את⟩ bijtë e tij dhe ⟨את⟩ bijtë e bijve të tij, katër breza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "dhe dyzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e bijve të tij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të tij"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "katër"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "breza"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:27.010468977Z",
+  "model": "glm-5.3"
+}

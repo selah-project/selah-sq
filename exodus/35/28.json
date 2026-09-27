@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe ⟨את⟩ erëzat dhe ⟨את⟩ vajin — për ndriçimin, për vajin e vajosjes dhe për temjanin e aroma-vërajve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "erëzat"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "erëzat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vajin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "për ndriçimin"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "dhe për vajin e"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "vajosjes"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "dhe për temjanin e"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "aroma-vërajve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:46.845075102Z",
+  "model": "glm-5.3"
+}

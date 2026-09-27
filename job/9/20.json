@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nëse jem i drejtë, goja ime më dënon; jam i pafajshëm — dhe ⟨ajo⟩ më shpall të shtrembër.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "jem i drejtë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja ime"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "më dënon"
+    },
+    {
+      "surface": "תם",
+      "gloss": "i pafajshëm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "dhe më shpall të shtrembër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:45.793705417Z",
+  "model": "glm-5.3"
+}

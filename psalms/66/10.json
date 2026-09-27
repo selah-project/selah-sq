@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Sepse na vove në provë, o Elohim, na rafinove siç rafinohet argjendi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "na vove në provë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "na rafinove"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "siç rafinohet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:33.985077661Z",
+  "model": "glm-5.3"
+}

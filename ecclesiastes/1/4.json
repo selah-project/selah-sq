@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Një brez shkon dhe një brez vjen, e toka qëndron përjetë.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Një brez"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dhe një brez"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e toka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qëndron"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:09.104013924Z",
+  "model": "glm-5.3"
+}

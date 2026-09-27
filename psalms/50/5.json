@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Mblidhni për mua të devotshmit e mi, që prenë besëlidhjen time mbi ⟨një⟩ flijim.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Mblidhni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "të devotshmit e mi"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "që prenë"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.969253724Z",
+  "model": "glm-5.3"
+}

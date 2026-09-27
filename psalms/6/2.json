@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Jahve, mos më qorto në zemërimin tënd, dhe mos më ndëshko në tërbimin tënd.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "në zemërimin tënd"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "më qorto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "në tërbimin tënd"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "më ndëshko"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:38.611244921Z",
+  "model": "glm-5.3"
+}

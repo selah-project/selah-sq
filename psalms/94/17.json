@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Po të mos më kishte ardhur në ndihmë Jahve, shpirti im gati do të banonte në heshtje.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "po të mos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "në ndihmë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "gati"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "do të banonte"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "në heshtje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:21.569076630Z",
+  "model": "glm-5.3"
+}

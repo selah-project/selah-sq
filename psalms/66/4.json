@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "E gjithë ⟨tokia⟩ do të përulen para teje dhe do të të këndojë, do të këndojë emrin tënd. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "E gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokia⟩"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "do të përulen para teje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teje"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "dhe do të të këndojë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "do të këndojë"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:12.387556310Z",
+  "model": "glm-5.3"
+}

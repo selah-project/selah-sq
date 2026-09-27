@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Më ruaj nga kurthi që më kanë ngrirë mua, dhe nga lëkurat e punëtorëve të pa drejtësisë.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "më ruaj"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga duart e"
+    },
+    {
+      "surface": "פח",
+      "gloss": "kurthit"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "që kanë ngrirë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "dhe nga lëkurat"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "të punëtorëve"
+    },
+    {
+      "surface": "און",
+      "gloss": "të pa drejtësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:40.407796511Z",
+  "model": "glm-5.3"
+}

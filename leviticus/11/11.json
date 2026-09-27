@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe gjë e neveritshme do të jenë për ju: mishin e tyre nuk do ta hani, dhe ⟨את⟩ trupat e tyre të ngordhur do t'i neveritni.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "dhe gjë e neveritshme"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nga mishi i tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trupat e tyre të ngordhur"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "trupat e tyre të ngordhur"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "do t'i neveritni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:36.730700085Z",
+  "model": "glm-5.3"
+}

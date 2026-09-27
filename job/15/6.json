@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Goja jote të dënon, e jo unë, dhe buzët e tua përgjigjen kundër teje.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "të dënon"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Goja jote"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "dhe buzët e tua"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "përgjigjen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kundër teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:30:20.007422787Z",
+  "model": "glm-5.3"
+}

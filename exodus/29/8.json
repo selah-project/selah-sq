@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ⟨את⟩ bijtë e tij do t'i çosh afër, dhe do t'i veshësh me ktuna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "do t'i çosh afër"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "dhe do t'i veshësh"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "me ktuna"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:51.016236459Z",
+  "model": "glm-5.3"
+}

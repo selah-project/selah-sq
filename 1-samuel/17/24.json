@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe të gjithë burrat e Izraelit, kur e panë ⟨את⟩ njeriun, ikën prej përballë tij dhe u frikësuan shumë.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "kur e panë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ikën"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "prej përballë tij"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dhe u frikësuan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:32.444077762Z",
+  "model": "glm-5.3"
+}

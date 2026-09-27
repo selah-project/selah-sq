@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Tokë gruri e elbi, hardhie, fiq dhe shege; tokë ullishtari vaji dhe mjaltit.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tokë"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gruri"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "e elbi"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "hardhie"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "fiq"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "dhe shege"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ullishtari"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaji"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:50.392679045Z",
+  "model": "glm-5.3"
+}

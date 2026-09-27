@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe përmalluan në çadrat e tyre, nuk dëgjuan në zërin e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "dhe përmalluan"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "në çadrat e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "në zërin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:57.950648413Z",
+  "model": "glm-5.3"
+}

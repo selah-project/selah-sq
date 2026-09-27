@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Abrahami mori ⟨את⟩ drutë e flijimit të djegur dhe i vuri mbi Isakun, birin e vet; dhe mori në dorën e tij ⟨את⟩ zjarrin dhe ⟨את⟩ thikën; dhe shkuan të dy bashkë.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drutë e flijimit të djegur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drutë"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e flijimit të djegur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe i vuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e vet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zjarrin"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "thikën"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thikën"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:18.163355523Z",
+  "model": "glm-5.3"
+}

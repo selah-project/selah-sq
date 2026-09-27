@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të therë ⟨את⟩ qengjin e flijimit të fajit, dhe prifti do të marrë nga gjaku i flijimit të fajit dhe do të vërë mbi majën e veshit të djathtë të atij që pastrohet, dhe mbi gishtin e madh të dorës së tij të djathtë, dhe mbi gishtin e madh të këmbës së tij të djathtë.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do të therë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qengjin e flijimit të fajit"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qengji"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "i flijimit të fajit"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do të marrë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "nga gjaku"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "i flijimit të fajit"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe do të vërë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "majën"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "të veshit"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "të atij që pastrohet"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "të djathtë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "gishtin e madh"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "të dorës së tij"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "të djathtë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "gishtin e madh"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "të këmbës së tij"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "të djathtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:48.091765643Z",
+  "model": "glm-5.3"
+}

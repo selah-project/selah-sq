@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më mbështet sipas fjalës tënde, dhe do të jetoj; dhe mos më turpëro nga shpresa ime.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "më mbështet"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sipas fjalës tënde"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dhe do të jetoj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "më turpëro"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "nga shpresa ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.280920966Z",
+  "model": "glm-5.3"
+}

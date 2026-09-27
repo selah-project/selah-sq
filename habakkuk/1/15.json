@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 1:15",
+  "book": "habakkuk",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "I ngre të gjithë me grep, i tërheq me rrjetën e tij dhe i mblidh në kurthin e tij; prandaj gëzohet dhe juves.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "me grep"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "i ngre"
+    },
+    {
+      "surface": "יגרהו",
+      "gloss": "i tërheq"
+    },
+    {
+      "surface": "בחרמו",
+      "gloss": "me rrjetën e tij"
+    },
+    {
+      "surface": "ויאספהו",
+      "gloss": "dhe i mblidh"
+    },
+    {
+      "surface": "במכמרתו",
+      "gloss": "në kurthin e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כן",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gëzohet"
+    },
+    {
+      "surface": "ויגיל",
+      "gloss": "dhe juves"
+    }
+  ],
+  "timestamp": "2026-09-27T16:49:46.497355059Z",
+  "model": "glm-5.3"
+}

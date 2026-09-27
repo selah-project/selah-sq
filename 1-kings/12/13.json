@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe mbreti iu përgjigj ⟨את⟩ popullit me fjalë ⟨të ashpra⟩, dhe e la ⟨את⟩ këshillën e pleqve që ia kishin këshilluar.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "iu përgjigj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "të ashpra"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "dhe e la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këshillën"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "këshillën"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "e pleqve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ia kishin këshilluar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:05.894682728Z",
+  "model": "glm-5.3"
+}

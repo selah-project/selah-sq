@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Me shpirtin tonë sillnim bukën tonë, përballë shpatës së ⟨shkretëtirës⟩.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "me shpirtin tonë"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "sillnim"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "bukën tonë"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "të shkretëtirës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:42.228254326Z",
+  "model": "glm-5.3"
+}

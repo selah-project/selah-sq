@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Unë ⟨jam⟩ Jahve dhe s'ka ⟨tjetër⟩; përveç meje nuk ka Elohim — të kam ngjeshur ⟨me rrip⟩, e ti nuk më ke njohur.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨tjetër⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "përveç meje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "të kam ngjeshur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e nuk"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "më ke njohur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:01.248011879Z",
+  "model": "glm-5.3"
+}

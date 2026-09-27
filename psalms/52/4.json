@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Këqija e punon gjuha jote, si brisk i mprehtë, bërës mashtrimesh.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Këqija"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "e punon"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "gjuha jote"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "si brisk"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "i mprehtë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërës"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mashtrimesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:12.170178976Z",
+  "model": "glm-5.3"
+}

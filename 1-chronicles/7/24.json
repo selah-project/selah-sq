@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe bija e tij ⟨ishte⟩ Sheera; ajo ndërtoi ⟨את⟩ Beth-Horonin e poshtëm dhe ⟨את⟩ të sipërmin, dhe ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "dhe bija e tij"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ajo ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Horonin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horonin"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "e poshtëm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të sipërmin"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "të sipërmin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:39.848672239Z",
+  "model": "glm-5.3"
+}

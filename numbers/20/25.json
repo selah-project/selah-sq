@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Merr ⟨את⟩ Aaronin dhe ⟨את⟩ Elazarin, birin e tij, dhe ngjiti ⟨אתם⟩ në malin Hor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Merr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Elazarin"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "dhe ngjiti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "në malin Hor"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:02.663513960Z",
+  "model": "glm-5.3"
+}

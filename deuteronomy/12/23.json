@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Vetëm kujdes fort të mos hash ⟨gjakun⟩, sepse gjaku ⟨ësht⟩ shpirti, dhe të mos hash shpirtin bashkë me mishin.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kujdes fort"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hash"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ësht⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hash"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mishin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:11.658771931Z",
+  "model": "glm-5.3"
+}

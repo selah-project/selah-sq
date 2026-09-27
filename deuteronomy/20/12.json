@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe nëse nuk bën paqe me ty, por bën luftë kundër teje, atëherë do ta rrethosh atë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "bën paqe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "por bën"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "do ta rrethosh"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:06.303728517Z",
+  "model": "glm-5.3"
+}

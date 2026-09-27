@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Dhe do t'i bëjnë përshëndetje me përulje të gjithë mbretërit; të gjitha kombet do ta shërbejnë atë.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "dhe do të përulen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "do ta shërbejnë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:55.056868074Z",
+  "model": "glm-5.3"
+}

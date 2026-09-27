@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi në fund të njëzet vjetësh, kur Salomeni ndërtoi ⟨את⟩ shtëpinë e Jahvesë dhe ⟨את⟩ shtëpinë e vet,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "në fund"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjetësh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e vet"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:36.871348274Z",
+  "model": "glm-5.3"
+}

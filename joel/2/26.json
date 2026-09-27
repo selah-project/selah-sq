@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Do të hani sa të ngopeni, dhe do të lëvdoni ⟨את⟩ emrin e Jahvesë, Elohim tuaj, i cili bëri me ju gjëra të mrekullueshme; dhe populli im nuk do të turpërohet më kurrë.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "sa të ngopeni"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "dhe do të ngopeni"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "do të lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "gjëra të mrekullueshme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "do të turpërohet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "më kurrë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:06.774399048Z",
+  "model": "glm-5.3"
+}

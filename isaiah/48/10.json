@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Ja, të kam rafinuar, dhe jo me argjend; të kam zgjedhur në furrën e mjerimit.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "të kam rafinuar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "me argjend"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "të kam zgjedhur"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "në furrën"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të mjerimit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:09.808451019Z",
+  "model": "glm-5.3"
+}

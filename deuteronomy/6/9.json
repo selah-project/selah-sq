@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe t'i shkruash ⟨ato⟩ mbi dyerprerjet e shtëpisë sate dhe mbi portat e tua.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "dhe t'i shkruash"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dyerprerjet"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e shtëpisë sate"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "dhe mbi portat e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:35.978516177Z",
+  "model": "glm-5.3"
+}

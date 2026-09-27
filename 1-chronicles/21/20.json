@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Arnani u kthye dhe e pa ⟨את⟩ engjëllin, dhe katër djemtë e tij me të fshiheshin; ndërsa Arnani shkeli grurë.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Dhe u kthye"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnani"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe e pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engjëllin"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "engjëllin"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "dhe katër"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "djtë e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "fshiheshin"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ndërsa Arnani"
+    },
+    {
+      "surface": "דש",
+      "gloss": "shkeli"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "grurë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:09.859718693Z",
+  "model": "glm-5.3"
+}

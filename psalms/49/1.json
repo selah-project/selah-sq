@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Për dirigjentin, të bijve të Korachut, një mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "të bijve të"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachut"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:57.390681384Z",
+  "model": "glm-5.3"
+}

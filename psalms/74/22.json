@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Ngrihu, o Elohim, mbro ⟨çështjen⟩ tënde; kujto fyerjen ⟨që të bëhet⟩ nga i pamëndi, gjithë ditën.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "mbro"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "çështjen tënde"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kujto"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "fyerjen tënde"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "i pamëndi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:56.814035754Z",
+  "model": "glm-5.3"
+}

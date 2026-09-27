@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe thanë shërbyesit e mbretit, ata që i shërbenin atij: «Le të kërkohen për mbretin vajza të reja, virgjëra, të bukura nga pamja.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "shërbyesit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "që i shërbenin atij"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "le të kërkohen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për mbretin"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "vajza të reja"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "virgjëra"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "të bukura"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nga pamja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:29.534925463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "I Davidit. Grih për mua, o Jahve, kundër ⟨את⟩ kundërshtarëve të mi; lufto kundër ⟨ata⟩ ⟨את⟩ që më luftojnë mua.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Grih (për mua)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundërshtarëve të mi"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "kundërshtarëve të mi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lufto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "që më luftojnë"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "që më luftojnë mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:47.372794132Z",
+  "model": "glm-5.3"
+}

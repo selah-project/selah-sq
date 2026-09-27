@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe e quajti emrin e atij vendi Tabera, sepse ishte ndezur në ta zjarri i Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ishte ndezur"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:24.502501114Z",
+  "model": "glm-5.3"
+}

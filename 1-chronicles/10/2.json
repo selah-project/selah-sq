@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe filistejtë iu ngjiten pas Saulit dhe pas bijve të tij, dhe filistejtë i mbytnë ⟨את⟩ Jonatanin, ⟨ואת⟩ Abinadabin dhe ⟨ואת⟩ Malki-Shuanë, bijtë e Saulit.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Dhe iu ngjiten pas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të tij"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe i mbytnë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatanin"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Abinadabin"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Malki-Shuanë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuanë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "e Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:59.753351623Z",
+  "model": "glm-5.3"
+}

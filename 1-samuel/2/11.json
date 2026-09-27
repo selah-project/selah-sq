@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Elkana shkoi në Ramah, në shtëpinë e tij; dhe djaloshi shërbente ⟨para⟩ Jahves, ⟨nën⟩ mbikëqyrjen e Elit, priftit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "në Ramah"
+    },
+    {
+      "surface": "על",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "dhe djaloshi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte (vazhdonte)"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "shërbente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbikëqyrjen e Elit (פני)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën (praninë)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "të Elit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:05.365615638Z",
+  "model": "glm-5.3"
+}

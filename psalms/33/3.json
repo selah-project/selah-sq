@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Këndojini Atij një këngë të re; luani me mjeshtëri me britmë gëzimi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Këndojini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Atij"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "luani me mjeshtëri"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "luani"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "me britmë gëzimi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:52.079883712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe prifti do t'i shkruajë ⟨את⟩ këto mallkime në një libër, dhe do t'i fshijë ato në ujërat e hidhura.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "dhe do t'i shkruajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto mallkime"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "mallkime"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e këtyre"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "në një libër"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "dhe do t'i fshijë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "e hidhura"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:24.443693333Z",
+  "model": "glm-5.3"
+}

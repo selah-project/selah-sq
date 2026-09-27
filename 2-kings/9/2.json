@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe do të vish ⟨atje⟩ dhe do të shohësh atje Jehu birin e Jehoshafatit, birin e Nimshit; dhe do të hysh dhe do ta ngresh atë nga mesi i vëllezërve të tij, dhe do ta sjellësh ⟨אתו⟩ në një dhomë brenda dhomës.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Dhe do të vish"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨atje⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe do të shohësh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafatit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshit"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dhe do të hysh"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "dhe do ta ngresh atë"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërve të tij"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "dhe do ta sjellësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Jehun)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "në një dhomë"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "brenda dhomës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:56.524607061Z",
+  "model": "glm-5.3"
+}

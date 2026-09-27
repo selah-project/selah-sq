@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe e përbuzën tokën e dëshirueshme, nuk i besuan fjalës së tij.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Dhe e përbuzën"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "e dëshirueshme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "besuan"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "fjalës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:35.869747669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe babai juaj më mashtroni dhe ma ndryshoi ⟨את⟩ pagën time dhjetë herë; por Elohim nuk e la të më bëjë keq.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "dhe babai juaj"
+    },
+    {
+      "surface": "התל",
+      "gloss": "më mashtroni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "dhe ndryshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagën time"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "pagën time"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "e la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "të bëjë keq"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:38.854323704Z",
+  "model": "glm-5.3"
+}

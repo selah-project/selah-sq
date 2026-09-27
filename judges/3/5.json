@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe bijtë e Israelit banuan në mes të kanaanitës, e hititës, e emoritës, e perizitës, eshivitës dhe jebusitës.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dhe bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "banuan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanitës"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititës"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e emoritës"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e perizitës"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "eshivitës"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dhe jebusitës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:47.000318144Z",
+  "model": "glm-5.3"
+}

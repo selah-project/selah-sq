@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Shërbëtorët e tij e mbartën të vdekur nga Megido dhe e çuan në Jerusalem dhe e varrosën në varrin e tij; dhe populli i vendit mori ⟨את⟩ Jehoahazin, birin e Josias, dhe e vajisën ⟨את⟩ dhe e bënë mbret ⟨את⟩ në vend të të atit.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "dhe e mbartën (në karrocë)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "מת",
+      "gloss": "të vdekur"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "nga Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "në varrin e tij"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "e Josias"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "dhe e vajisën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e vajisën (Jehoahazin)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "dhe e bënë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e bënë mbret (Jehoahazin)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:31.208921767Z",
+  "model": "glm-5.3"
+}

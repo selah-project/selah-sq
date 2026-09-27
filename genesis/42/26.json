@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe e ngarkuan ⟨את⟩ grurin e tyre mbi gomarët e tyre, dhe shkuan prej andej.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e ngarkuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grurin e tyre"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "grurin e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "gomarët e tyre"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "shkuan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:55.980280560Z",
+  "model": "glm-5.3"
+}

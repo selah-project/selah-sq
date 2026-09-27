@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "E çau detin dhe i bëri të kalonin nëpër të, dhe i vuri ujërat të qëndrojnë si një kodër.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "E çau"
+    },
+    {
+      "surface": "ים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "dhe i bëri të kalonin nëpër të"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "dhe i vuri të qëndrojnë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "נד",
+      "gloss": "një kodër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:41.477661395Z",
+  "model": "glm-5.3"
+}

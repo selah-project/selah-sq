@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe bijtë e Judës luftuan kundër Jeruzalemit, dhe e zunë ⟨את⟩ atë, dhe i dhanë ⟨të shpatës⟩ — sipas gojës së shpatës — dhe ⟨את⟩ qytetin e dërguan në zjarr.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "dhe luftuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kundër Jeruzalemit"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dhe e zunë"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Jeruzalemin"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "dhe i dhanë të shpatës"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sipas gojës"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e dërguan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:15.260177491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "deri sa të vij dhe t'ju marr ⟨את⟩ ju në një vend si vendi juaj, vend gruri dhe i verës së re, vend buke dhe vreshtash.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "באי",
+      "gloss": "të vij"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "dhe t'ju marr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "si vendi juaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vend"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gruri"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "dhe i verës së re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vend"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buke"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "dhe vreshtash"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:24.673861717Z",
+  "model": "glm-5.3"
+}

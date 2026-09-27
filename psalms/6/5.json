@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Kthehu, o Jahve, çmo shpirtin tim; më shpëto për hir të hesed-it tënd.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "çmo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-it tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:27.765126829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Dhe ai thirri uri mbi ⟨të⟩ tokën; theu çdo shkop buke.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe ai thirri"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "uri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ tokën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "shkop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buke"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "theu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.783734320Z",
+  "model": "glm-5.3"
+}

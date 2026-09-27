@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Çdo ditë do të të bekoj, dhe do të lëvdoj emrin tënd përjetë e mot.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Çdo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "do të të bekoj"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "dhe do të lëvdoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e mot"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:28.593914443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "⟨את⟩ kujt do të mësojë dituri, dhe ⟨את⟩ kujt do të bëjë të kuptojë mesazhin? ⟨Ata që janë⟩ të çndër nga qumështi, të shkëputur nga gjiri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kujt"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "do të mësojë"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "dituri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kujt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kujt"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "do të bëjë të kuptojë"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "mesazhin"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "të çndër"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nga qumështi"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "të shkëputur"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "nga gjiri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:37.794659343Z",
+  "model": "glm-5.3"
+}

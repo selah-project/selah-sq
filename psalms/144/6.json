@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Ndriço vetëtimën dhe shpërndaji ata; dërgo shigjetat e tua dhe ngatërroji ata.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Ndriço"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "vetëtimën"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "dhe shpërndaji ata"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "shigjetat e tua"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "dhe ngatërroji ata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:25.480296019Z",
+  "model": "glm-5.3"
+}

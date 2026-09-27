@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "I frikshëm dhe i tmerrshëm ⟨është⟩ ai; gjykimi i tij dhe madhështia e tij nga vetë ai do të dalin.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "i frikshëm"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dhe i tmerrshëm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga vetë ai"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "gjykimi i tij"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "dhe madhështia e tij"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "do të dalin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:07.658195632Z",
+  "model": "glm-5.3"
+}

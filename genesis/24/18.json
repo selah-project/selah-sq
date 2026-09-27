@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe ajo tha: «Pi, zotëria im.» Dhe ⟨ajo⟩ u shpejtua, dhe zbriteri kokën e saj mbi dorën e saj, dhe i dha ⟨atij⟩ të pijë.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "u shpejtua"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "zbriteri kokën e saj"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kokën e saj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "dorën e saj"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "i dha të pijë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:59.009498064Z",
+  "model": "glm-5.3"
+}

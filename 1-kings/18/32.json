@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ndërtoi me ⟨את⟩ gurët një altar në emër të Jahves, dhe bëri një kanal rreth e rrotull altar-it, sa shtëpia e dy masave të farës.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurët"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emër të"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "një kanal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sa shtëpia e"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dy masave (sea)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "të farës"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altar-it"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:30.647914534Z",
+  "model": "glm-5.3"
+}

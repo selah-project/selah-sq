@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Jo për flijimet e tua do të të qortoj; dhe flijimet e tua të djegura ⟨janë⟩ vazhdimisht para meje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "flijimet e tua"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "do të të qortoj"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "dhe flijimet e tua të djegura"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.970351929Z",
+  "model": "glm-5.3"
+}

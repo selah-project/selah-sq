@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të dalë një lastar nga trungu i Isait, dhe një degëz nga rrënjët e tij do të frutësojë.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe do të dalë"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "një lastar"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "nga trungu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "i Isait"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "dhe një degëz"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "nga rrënjët e tij"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "do të frutësojë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:01.302296068Z",
+  "model": "glm-5.3"
+}

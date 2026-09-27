@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve do të bëjë ⟨את⟩ shiun e tokës tënde pluhur dhe dhe; nga qielli do të bjerë mbi ty, derisa të shkatërrohesh.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "do të bëjë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shiun e tokës tënde"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "shiun"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "e tokës tënde"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dhe dhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qielli"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "do të bjerë"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "të shkatërrohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:44.011934823Z",
+  "model": "glm-5.3"
+}

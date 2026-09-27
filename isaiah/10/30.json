@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Bërtit me zërin tënd, o bijë e Galimit! Dëgjo, o Laish! o Anathoth-i i mjerë!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "bërtit"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "me zërin tënd"
+    },
+    {
+      "surface": "בת",
+      "gloss": "o bijë"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "e Galimit"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "o Laish"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "i mjerë"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth-i"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:31.982493702Z",
+  "model": "glm-5.3"
+}

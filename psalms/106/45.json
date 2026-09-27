@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe ai kujtoi për ta besëlidhjen e tij dhe u pendua sipas shumësisë së hesed-it të tij.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "dhe kujtoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dhe u pendua"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sipas shumësisë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "të hesed-it të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.863941881Z",
+  "model": "glm-5.3"
+}

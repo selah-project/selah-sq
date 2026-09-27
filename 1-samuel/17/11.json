@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Sauli dhe të gjithë Izraeli dëgjuan ⟨את⟩ fjalët e këtij filisteu, dhe u trembën dhe iu frikësuan shumë.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "e filisteut"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "dhe u trembën"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dhe iu frikësuan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:14.011134113Z",
+  "model": "glm-5.3"
+}

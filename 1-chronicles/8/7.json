@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe Naaman, dhe Ahiah, dhe Gera — ai i dëboi ata — dhe lindi ⟨את⟩ Uza dhe ⟨את⟩ Ahihud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "dhe Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dhe Ahiah"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "dhe Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "i dëboi ata"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahihud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihud"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:16.363806517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Sepse Jahve ka shpenguar ⟨את⟩ Jakobin dhe e ka çliruar nga dora e atij që ishte më i fortë se ai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ka shpenguar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "dhe e ka çliruar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "e atij të fortit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:23.229519571Z",
+  "model": "glm-5.3"
+}

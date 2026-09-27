@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Ke dhënë atyre që të frikësohen një flamur, që të valëvitet përballë së vërtetës. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ke dhënë"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "atyre që të frikësohen"
+    },
+    {
+      "surface": "נס",
+      "gloss": "një flamur"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "që të valëvitet"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "së vërtetës"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:10.038929417Z",
+  "model": "glm-5.3"
+}

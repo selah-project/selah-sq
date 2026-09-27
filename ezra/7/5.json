@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "bir i Avishuat, bir i Pinhasit, bir i Elazarit, bir i Aaronit, prifti ⟨i⟩ kryesor",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "i Avishuat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "i Pinhasit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "i Elazarit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aaronit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kryesor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:18.983365950Z",
+  "model": "glm-5.3"
+}

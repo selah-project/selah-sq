@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Edhe vdiqën të dy, Mahloni dhe Kilioni; dhe gruaja mbeti pa të dy bijtë e saj dhe pa burrin e saj.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "dhe vdiqën"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahloni"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "dhe Kilioni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "dhe mbeti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "משני",
+      "gloss": "pa të dy"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "bijtë e saj"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "dhe pa burrin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:16.642350971Z",
+  "model": "glm-5.3"
+}

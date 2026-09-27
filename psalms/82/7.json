@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Megjithatë, si njeri do të vdisni, dhe si një nga princat do të bini.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Megjithatë"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "si njeri"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "do të vdisni"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "dhe si një nga"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "princat"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "do të bini"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:19.123109277Z",
+  "model": "glm-5.3"
+}

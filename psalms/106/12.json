@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Atëherë besuan fjalët e tij, kënduan lavdinë e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Atëherë besuan"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "fjalët e tij"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "kënduan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lavdinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.137977359Z",
+  "model": "glm-5.3"
+}

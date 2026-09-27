@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Dhe portat e tua do të hapen vazhdimisht, ditë e natë nuk do të mbyllen, për të sjellë te ti pasurinë e kombeve, dhe mbretërit e tyre të sjellë në procesion.",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "dhe do të hapen"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "portat e tua"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe natë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "do të mbyllen"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "për të sjellë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasurinë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "dhe mbretërit e tyre"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "të sjellë në procesion"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:35.581598273Z",
+  "model": "glm-5.3"
+}

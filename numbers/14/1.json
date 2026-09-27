@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe e ngriti ⟨e⟩ tërë bashkësia ⟨את⟩ zërin e vet, dhe qau populli atë natë.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "dhe e ngriti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "bashkësia"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dhe dhanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e vet"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "zërin e vet"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dhe qanë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "atë natë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:02.707463883Z",
+  "model": "glm-5.3"
+}

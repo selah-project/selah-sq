@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Jahve i njeh mendimet e njeriut, se ⟨ato⟩ janë ⟨h e b e l⟩ — kote.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i njeh"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mendimet"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "e njeriut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ato janë"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "h e b e l — kote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:16.270158214Z",
+  "model": "glm-5.3"
+}

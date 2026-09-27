@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Ndërsa unë ⟨jam⟩ si një ullinj i gjelbër në shtëpinë e Elohimit; kam besuar në hesed-in e Elohimit përjetë e përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndërsa unë"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "si një ullinj"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "i gjelbër"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "të Elohimit"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam besuar"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "në hesed-in"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "të Elohimit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:37.554843128Z",
+  "model": "glm-5.3"
+}

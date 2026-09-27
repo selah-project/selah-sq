@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Ruajta parashkrimet e tua dhe dëshmitë e tua, se të gjitha rrugët e mia ⟨janë⟩ përballë teje.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ruajta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parashkrimet e tua"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "dhe dëshmitë e tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "përballë teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:45.605268992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Do të rrëfej për një ligj: Jahve më ka thënë: «Biri im ⟨je⟩ ti; unë sot të kam pjellë.»",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Do të rrëfej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "חק",
+      "gloss": "një ligj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Biri im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "të kam pjellë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:31.607973281Z",
+  "model": "glm-5.3"
+}

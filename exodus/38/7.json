@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ai futi ⟨את⟩ shufrat në unaza, mbi anët e altarit, për ta mbartur ⟨את⟩ atë me to; të zbrazët, me tabela, e bëri ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "futi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "në unaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "anët"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "e altarit"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për ta mbartur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "me to"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "të zbrazët"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "me tabela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bëri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (altarin)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:29.694570507Z",
+  "model": "glm-5.3"
+}

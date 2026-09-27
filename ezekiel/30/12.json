@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 30:12",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Do t'i bëj lumenjtë vende të thata dhe do ta shes ⟨את⟩ vendin në dorë të të ligëve; do ta shkretëroj vendin dhe gjithçka që ka në të, në dorë të të huajve; unë Jahve e fola.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Do t'i bëj"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "vende të thata"
+    },
+    {
+      "surface": "ומכרתי",
+      "gloss": "dhe do ta shes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "të të ligëve"
+    },
+    {
+      "surface": "והשמתי",
+      "gloss": "do ta shkretëroj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dhe gjithçka që ka në të"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "të të huajve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "e fola"
+    }
+  ],
+  "timestamp": "2026-09-27T16:34:56.308360025Z",
+  "model": "glm-5.3"
+}

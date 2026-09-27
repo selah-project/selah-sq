@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Kur fliste Efraimi, kishte ⟨një⟩ dridhje; ai u ngrit lart në Izrael, por u bë fajtor në Baal dhe vdiq.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "kur fliste"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimi"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "dridhje"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "u ngrit lart"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "dhe u bë fajtor"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "në Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:39.608082981Z",
+  "model": "glm-5.3"
+}

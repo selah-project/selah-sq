@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do t'i bësh ⟨atij⟩ katër unaza ari, dhe do t'i vesh ⟨את⟩ unazat mbi katër qoshet e tij, që janë te katër këmbët e tij.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do t'i bësh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "unaza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do t'i vesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unazat"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "unazat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "qoshet e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "te katër"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "këmbët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:44.324255771Z",
+  "model": "glm-5.3"
+}

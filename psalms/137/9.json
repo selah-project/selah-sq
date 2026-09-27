@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "I lumtur është ai që kap ⟨את⟩ foshnjat e tua dhe i përplas ndaj shkëmbit.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "i lumtur"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "që kap"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "dhe i përplas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foshnjat e tua"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "foshnjat e tua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "shkëmbit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:34.312775131Z",
+  "model": "glm-5.3"
+}

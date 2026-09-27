@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe dëshiruan një dëshirë në shkretëtirë, dhe provuan El-in në Jishimon.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "dëshiruan"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "një dëshirë"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "provuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-in"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "në Jishimon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:17.978453410Z",
+  "model": "glm-5.3"
+}

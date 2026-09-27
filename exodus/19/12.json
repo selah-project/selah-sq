@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe do të vësh kufij ⟨את⟩ popullit rreth e qark, duke thënë: «Ruajtuni se të ngjiteni në mal ose të prekni skajin e tij; kushdo që prek malin, do të vdesë padyshim.»",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "dhe do të vësh kufij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e qark"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "ruajtuni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "të ngjiteni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ose të prekni"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "skajin e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "që prek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "padyshim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:36.209443354Z",
+  "model": "glm-5.3"
+}

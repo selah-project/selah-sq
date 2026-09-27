@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 87,
+  "translation": "Jahve i do portat e Sionit mbi të gjitha banesat e Jakobit.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "i do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portat e"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mbi të gjitha"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "banesat e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.050075847Z",
+  "model": "glm-5.3"
+}

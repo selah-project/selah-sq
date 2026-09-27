@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Moisiu e nxori ⟨את⟩ popullin për të dalë përpara Elohit nga fushimi, dhe ata u vendosën në këmbën e malit.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe e nxori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "për të dalë përpara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "fushimi"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "dhe u vendosën"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "në këmbën e"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:39.450278568Z",
+  "model": "glm-5.3"
+}

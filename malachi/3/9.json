@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Me një mallkim jeni të mallkuar, dhe ⟨את⟩ mua më po grabitni — ⟨הגוי⟩ ⟨is⟩ i gjithë kombi.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "me një mallkim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jeni ju"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "të mallkuar"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua (אתם)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "po grabitni"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "i gjithë i ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:05.141909706Z",
+  "model": "glm-5.3"
+}

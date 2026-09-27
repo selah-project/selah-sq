@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe bijtë e Izraelit do ta ruajnë ⟨את⟩ Shabbatin, duke zbuar ⟨את⟩ Shabbatin për brezat e tyre, ⟨si⟩ besëlidhje të përgjithshme.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "do ta ruajnë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "duke zbuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "për brezat e tyre"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e përgjithshme"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:05.292570570Z",
+  "model": "glm-5.3"
+}

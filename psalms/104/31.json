@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Qoftë lavdia e Jahvesë përgjithmonë; gëzoftë Jahve në veprat e tij!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Qoftë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përgjithmonë"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gëzoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "në veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:02.667896459Z",
+  "model": "glm-5.3"
+}

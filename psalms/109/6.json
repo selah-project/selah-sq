@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Cakto mbi të ⟨njeri⟩ të pabesë, dhe një Satan të qëndrojë në të djathtën e tij.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "cakto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të pabesë"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "dhe një Satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "të qëndrojë"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "të djathtën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.410790248Z",
+  "model": "glm-5.3"
+}

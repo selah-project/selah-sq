@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Ejani, përkulmi me lustri dhe rënmi në gjunjë, bekojmi përballë Jahvesë, që na bëri.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "përkulmi me lustri"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "dhe rënmi në gjunjë"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "bekojmi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "që na bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:56.296972671Z",
+  "model": "glm-5.3"
+}

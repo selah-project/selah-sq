@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Vëri veshin, Jahve, lutjes sime, dhe dëgjimi zërin e lutjeve të mia të përulshme.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "vëri veshin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjes sime"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "dhe dëgjo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "lutjeve të mia të përulshme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.863456069Z",
+  "model": "glm-5.3"
+}

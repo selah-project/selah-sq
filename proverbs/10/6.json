@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Bekime ⟨janë⟩ mbi kokën e të drejtit, por goja e të ligjve mbulon dhunë.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "bekime"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "mbi kokën e"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "por goja e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjve"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "mbulon"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:46.652890096Z",
+  "model": "glm-5.3"
+}

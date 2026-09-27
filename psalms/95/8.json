@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Mos e forconi zemrën tuaj si në Meriva, si në ditën e Masah-s në shkretëtirë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "e forconi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zemrën tuaj"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "si në Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si në ditën"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "e Masah-s"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:56.297319741Z",
+  "model": "glm-5.3"
+}

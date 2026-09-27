@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "S'ka ⟨asnjë⟩ të shenjtë si Jahve, sepse s'ka ⟨asnjë⟩ përveç teje, dhe s'ka shkëmb si Elohim ynë.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "si Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟨asnjë⟩ përveç teje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "shkëmb"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "si Elohim ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:41.665988292Z",
+  "model": "glm-5.3"
+}

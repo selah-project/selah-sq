@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ke vënë gëzim në zemrën time, më shumë se në kohën kur u shumua gruri dhe vera e tyre.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ke vënë"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gëzim"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "në zemrën time"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "më shumë se në kohën"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gruri i tyre"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "dhe vera e tyre"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "u shumua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:44.591675866Z",
+  "model": "glm-5.3"
+}

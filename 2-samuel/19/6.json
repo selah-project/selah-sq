@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Joabi hyri te mbreti në shtëpi dhe tha: Ti e turpërove sot ⟨את⟩ fytyrat e të gjithë shërbëtorëve të tu, të cilët të shpëtuan sot ⟨את⟩ shpirtin tënd, dhe ⟨את⟩ shpirtin e bijve të tu e të bijave të tua, dhe shpirtin e grave të tua dhe shpirtin e konkubinave të tua,",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "e turpërove"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrat e të gjithë shërbëtorëve të tu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorëve të tu"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "të cilët të shpëtuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin tënd"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shpirtin e bijve të tu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "e bijve të tu"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "dhe të bijave të tua"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dhe shpirtin"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "e grave të tua"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dhe shpirtin"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "e konkubinave të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:28:29.028128135Z",
+  "model": "glm-5.3"
+}

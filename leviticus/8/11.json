@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe spërkati nga ai mbi altar shtatë herë, dhe vajoi ⟨את⟩ altarit dhe ⟨את⟩ të gjitha veglat e tij, dhe ⟨את⟩ legenin dhe ⟨את⟩ bazën e tij, për t'i shenjtëruar ato.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "dhe spërkati"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dhe vajoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "legenin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "legenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bazën e tij"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bazën e tij"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "për t'i shenjtëruar ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:24.172618911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ndërtoi ⟨את⟩ shtëpinë dhe e përfundoi atë; dhe e mbuloi ⟨את⟩ shtëpinë me trarë e rreshta kedri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "e përfundoi atë"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "e mbuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "trarë"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "dhe rreshta"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "me kedri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:36.884700445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse një ka i një njeri i shpjon ⟨את⟩ kaun e të afërmit të tij dhe vdes, atëherë do të shesin ⟨את⟩ kaun e gjallë dhe do të përgjysmojnë ⟨את⟩ paratë e tij; madje edhe ⟨את⟩ të ngordhën do ta përgjysmojnë.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "i shpjon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kaun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "i një njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaun e të afërmit të tij"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kaun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "e të afërmit të tij"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe vdes"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "do të shesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaun e gjallë"
+    },
+    {
+      "surface": "השור",
+      "gloss": "kaun"
+    },
+    {
+      "surface": "החי",
+      "gloss": "e gjallë"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "dhe do të përgjysmojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paratë e tij"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "paratë e tij"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "madje edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të ngordhën"
+    },
+    {
+      "surface": "המת",
+      "gloss": "të ngordhën"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "do ta përgjysmojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:28.901800246Z",
+  "model": "glm-5.3"
+}

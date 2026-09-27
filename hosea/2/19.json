@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do t'i heq ⟨את⟩ emrat e Baaleve nga goja e saj, dhe nuk do të përmenden më me emrat e tyre.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "dhe do t'i heq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrat e Baaleve"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "e Baaleve"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "nga goja e saj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "do të përmenden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "me emrat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:51.020598337Z",
+  "model": "glm-5.3"
+}

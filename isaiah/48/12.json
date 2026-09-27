@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dëgjomë, o Jakob, dhe Izrael, i thirruri im: unë ⟨jam⟩ ai; unë ⟨jam⟩ i pari, po edhe unë ⟨jam⟩ i fundit.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe Izrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "i thirruri im"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "i pari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "i fundit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:53.849444573Z",
+  "model": "glm-5.3"
+}

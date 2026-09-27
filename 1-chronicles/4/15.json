@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe bijtë e Kalebit, birit të Jefuneut: Iru, Ela dhe Naam; dhe bijtë e Elait: Kenazi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dhe bijtë e"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit të"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefuneut"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "dhe Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bijtë e"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elait"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenazi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:36.682554581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Etërit të mos vriten për fëmijët, dhe fëmijët të mos vriten për etërit; çdo njeri për mëkatin e vet do të vritet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "të vriten"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "etërit"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "dhe fëmijët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "të vriten"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "etërit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "për mëkatin e vet"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "do të vritet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:01.695811790Z",
+  "model": "glm-5.3"
+}

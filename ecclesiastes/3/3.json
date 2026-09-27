@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Një kohë për të vrarë dhe një kohë për të shëruar; një kohë për të rrënuar dhe një kohë për të ndërtuar.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "për të vrarë"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "për të shëruar"
+    },
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "për të rrënuar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "për të ndërtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:21.453866865Z",
+  "model": "glm-5.3"
+}

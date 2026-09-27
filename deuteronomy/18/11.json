@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "as lutës me frymët, as magjistar me premio, as ai që pyet ⟨të⟩ ⟨të⟩ vdekurit.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "as lutës me frymët"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "me premio"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "as ai që pyet"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "frymët e të vdekurve"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "as magjistar me premio"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "që kërkon te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "të vdekurit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:12.428828531Z",
+  "model": "glm-5.3"
+}

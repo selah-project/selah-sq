@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "përveç ⟨nga⟩ burrat e tregtarëve dhe tregtisë së shitësve ambulantë, dhe të gjithë mbretërve të Arabisë dhe të guvernatorëve të vendit.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "nga burrat e"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tregtarëve"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "dhe tregtisë së"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "shitësve ambulantë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërve të"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabisë"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "dhe guvernatorëve të"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:45.048648648Z",
+  "model": "glm-5.3"
+}

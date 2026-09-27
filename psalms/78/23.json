@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe urdhëroi retë ⟨që janë⟩ nga lart, dhe dyert e qiellit i hapi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dhe urdhëroi"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "retë"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nga lart"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "dhe dyert e"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiellit"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "i hapi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:27.876748902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Këta janë emrat e burrave që Moisi i dërgoi të vëzhgojnë ⟨את⟩ vendin; dhe Moisi e quajti Hoshea birin e Nunit, Jehoshua.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "të burrave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "të vëzhgojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "e Nunit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:28.582389839Z",
+  "model": "glm-5.3"
+}

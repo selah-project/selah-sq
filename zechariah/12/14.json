@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "të gjitha familjet e mbetura, familje pas familje veçmas, dhe gratë e tyre veçmas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "familjet"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "e mbetura"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familje pas"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familje"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "veçmas"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dhe gratë e tyre"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "veçmas"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:32.857394942Z",
+  "model": "glm-5.3"
+}

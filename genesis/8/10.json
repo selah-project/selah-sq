@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ai priti edhe shtatë ditë të tjera, dhe shtoi të dërgonte ⟨את⟩ pëllumbeshën nga arka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dhe priti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dhe shtoi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "të dërgonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pëllumbeshën"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pëllumbeshën"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:12.042848278Z",
+  "model": "glm-5.3"
+}

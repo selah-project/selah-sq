@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Fryma e Jahvesë foli nëpërmjet meje, dhe fjala e tij ⟨është⟩ mbi gjuhën time.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nëpërmjet meje"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "dhe fjala e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuhën time"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:18.228293538Z",
+  "model": "glm-5.3"
+}

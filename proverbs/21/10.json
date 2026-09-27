@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Shpirti i të pabesit dëshiron ⟨të⟩ keqen; i afermi i tij nuk gjen hir në sytë e tij.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesit"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "dëshiron"
+    },
+    {
+      "surface": "רע",
+      "gloss": "keqen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "gjen hir"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "i afermi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:10.753788178Z",
+  "model": "glm-5.3"
+}

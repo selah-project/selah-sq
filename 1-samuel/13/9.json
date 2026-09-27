@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Sauli tha: «Sillmëni ⟨את⟩ flijimin e djegur dhe ⟨את⟩ flijimet e paqes.» Dhe ai nxori ⟨את⟩ flijimin e djegur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "sillmëni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pranë meje"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dhe flijimet e paqes"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe ai nxori"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:57.394635135Z",
+  "model": "glm-5.3"
+}

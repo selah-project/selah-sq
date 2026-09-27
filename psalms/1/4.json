@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jo kështu ⟨janë⟩ të pabesët, përkundrazi, si byku që era e shpërndan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "כי",
+      "gloss": "përkundrazei (כי)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "si byku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "e shpërndan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "era"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.561837467Z",
+  "model": "glm-5.3"
+}

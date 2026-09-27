@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Asa bëri ⟨atë që ishte⟩ e drejtë në sytë e Jahvesë, si Davidi, ati i tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "si Davidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:50.193858004Z",
+  "model": "glm-5.3"
+}

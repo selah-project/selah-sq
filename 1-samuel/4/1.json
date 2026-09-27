@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe fjala e Samuelit erdhi te i gjithë Izraeli; dhe Izraeli doli përpara filistejve për në luftë, dhe e çuan kampin pranë Eben-Ha-Ezerit, ndërsa filistejtë e çuan kampin në Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "e Samuelit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "te i gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për në luftë"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dhe e çuan kampin"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "dhe filistejtë"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "e çuan kampin"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "në Afek"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:50.041158422Z",
+  "model": "glm-5.3"
+}

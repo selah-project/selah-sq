@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe ⟨את⟩ të dy veshkat, dhe ⟨את⟩ yndyrën që ⟨Është⟩ mbi to, që ⟨Është⟩ mbi ijët, dhe ⟨את⟩ lobulin mbi mëlçinë — mbi veshkat do t'ia heqë atë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të dy veshkat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "mbi to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që ⟨Është⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ijët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lobulin"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lobulin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mëlçinë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "do t'ia heqë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:31.489098765Z",
+  "model": "glm-5.3"
+}

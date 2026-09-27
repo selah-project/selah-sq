@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Sepse në vdekje nuk ka ⟨⟩ kujtim për ty; në Sheol kush do të të falë falënderime?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "במות",
+      "gloss": "në vdekje"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "kujtim për ty"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "do të të falë falënderime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:27.765682741Z",
+  "model": "glm-5.3"
+}

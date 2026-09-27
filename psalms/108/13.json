@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Jepu neve ndihmë nga ⟨ngushtica⟩, se e kotë ⟨është⟩ shpëtimi e njeriut.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Jepu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ndihmë"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nga ngushtica"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "se e kotë"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "shpëtimi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "e njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:53.722200295Z",
+  "model": "glm-5.3"
+}

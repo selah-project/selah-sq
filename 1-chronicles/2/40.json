@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Elasai lindi ⟨את⟩ Sismain, dhe Sismai lindi ⟨את⟩ Shallumin.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Dhe Elasai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismain"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismain"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "dhe Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallumin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallumin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:30.740424439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Si ⟨ata⟩ do të bëhen ata që i bënë, të gjithë që besojnë në ta.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "si ata"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të bëhen"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ata që i bënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "besojnë"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:29.855124262Z",
+  "model": "glm-5.3"
+}

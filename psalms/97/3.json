@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Zjarri ecën përpara tij dhe përvelon rreth e rrotull kundërshtarët e tij.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Zjarri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "përpara tij"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "dhe përvelon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "kundërshtarët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.211261300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe pemët i thanë fikut: Ejë, ti mbretëro mbi ne.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pemët"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "fikut"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretëro"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:43.895793667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Jahve do t'jua japë ata përpara jush, dhe ju do t'u bëni atyre sipas të gjithë urdhërit që ju kam porositur ⟨את⟩ ju.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "dhe do t'i japë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "përpara jush"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do të bëni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithë"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "urdhërit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kam porositur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:59.972038085Z",
+  "model": "glm-5.3"
+}

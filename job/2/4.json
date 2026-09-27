@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Satani iu përgjigj ⟨את⟩ Jahvesë dhe tha: «Lëkurë për lëkurë, dhe gjithçka që ka njeriu, do ta japë për shpirtin e tij.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "iu përgjigj"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lëkurë"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "për"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lëkurë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka njeriu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do ta japë"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "për"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirtin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:23.286258085Z",
+  "model": "glm-5.3"
+}

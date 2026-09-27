@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ⟨do të jetë⟩ kur të shohin Egjiptasit ⟨אתך⟩, do të thonë: «Kjo ⟨is⟩ gruaja e tij»; dhe do të më vrasin ⟨אותי⟩, por ty ⟨אותך⟩ do të të lënë të gjallë.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dhe ⟨do të jetë⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "të shohin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Egjiptasit"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "do të thonë"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruaja e tij"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Kjo"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "dhe do të vrasin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "do të lënë të gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:54.745589409Z",
+  "model": "glm-5.3"
+}

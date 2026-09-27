@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "I urti le të dëgjojë dhe të shtojë ⟨mësim⟩, dhe i gjykuari të fitojë udhëzime të mençura.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "le të dëgjojë"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i urti"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dhe të shtojë"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨mësim⟩"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "dhe i gjykuari"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "udhëzime të mençura"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "të fitojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:24.885713578Z",
+  "model": "glm-5.3"
+}

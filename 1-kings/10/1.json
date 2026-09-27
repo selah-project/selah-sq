@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbretëresha e Shebës dëgjoi ⟨lajmin⟩ e ⟨את⟩ famës së Salomonit ⟨të lidhur⟩ me Emrin e Jahves, dhe erdhi për ta sprovuar atë me enigma.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "dhe mbretëresha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "e Shebës"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lajmin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "famës"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "me Emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "për ta sprovuar atë"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "me enigma"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:07.989721608Z",
+  "model": "glm-5.3"
+}

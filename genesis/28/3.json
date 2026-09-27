@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe El Shadai të bekojë ⟨את⟩, të bëjë pjellore dhe të shumojë, dhe do të bëhesh në kuvend popujsh.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dhe El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "të bekojë"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty (të bekojë)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "të bëjë pjellore"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "të shumojë"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "do të bëhesh"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "në kuvend"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujsh"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:24.433381224Z",
+  "model": "glm-5.3"
+}

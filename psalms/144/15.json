@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Të lumtur ⟨janë⟩ ata, populli që i ka kështu; të lumtur ⟨është⟩ populli që ka Jahven si Elohim të vetin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "të lumtur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "që i ka kështu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "të lumtur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "që ka Jahven"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "si Elohim të vetin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:57.768470811Z",
+  "model": "glm-5.3"
+}

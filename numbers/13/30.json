@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Kalebi ndaloi ⟨את⟩ popullin ndaj Moisit dhe tha: «Le të ngjitemi dhe do ta trashëgojmë ⟨את⟩ atë, sepse mundemi ta bëjmë.»",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "ndaloi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Le të ngjitemi"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "do të ngjitemi"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "do ta trashëgojmë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (vendin)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "mundemi"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "ta bëjmë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:31.761216212Z",
+  "model": "glm-5.3"
+}

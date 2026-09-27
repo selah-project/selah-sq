@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 100,
+  "translation": "Psalm për falënderim. Bërtitni Jahvesë, e gjithë ⟨e⟩ toka!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "për falënderim"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Bërtitni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.685353514Z",
+  "model": "glm-5.3"
+}

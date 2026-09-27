@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "flijimi i përvjeljes së Shabatit në Shabatin e tij, përveç flijimit të përvjeljes së vazhdueshme dhe libacionit të saj.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "flijimi i përvjeljes"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "i Shabatit"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "në Shabatin e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "përveç mbi"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "flijimi i përvjeljes"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "i vazhdueshëm"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "dhe libacioni i saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:26.594470652Z",
+  "model": "glm-5.3"
+}

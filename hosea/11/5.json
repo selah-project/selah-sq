@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Nuk do të kthehet në tokën e Egjiptit, por Ashuri — ai është mbreti i tij, sepse ata refuzuan të kthehen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "por Ashuri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "është mbreti i tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ata refuzuan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "të kthehen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:00.820589362Z",
+  "model": "glm-5.3"
+}

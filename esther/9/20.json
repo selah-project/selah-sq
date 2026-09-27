@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Mordekai shkroi ⟨את⟩ këto fjalë dhe dërgoi letra të gjithë judenjve që ishin në të gjitha provincat e mbretit Ahashverosh, të afërtit dhe të largëtit.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dhe shkroi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto fjalë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judenjtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provincat e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "të afërtit"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "dhe të largëtit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:58.128300880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨את⟩ këto do t'i mbiqueshni të neveritshme nga shpendët; nuk do të hahen, neveri janë: ⟨את⟩ shqiponjën, dhe ⟨את⟩ bubullimën, dhe ⟨את⟩ azëninë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "këto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "do t'i mbiqueshni të neveritshme"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "shpendët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do të hahen"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "janë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shqiponjën"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "shqiponjën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bubullimën"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "bubullimën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "azëninë"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azëninë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:20.900406258Z",
+  "model": "glm-5.3"
+}

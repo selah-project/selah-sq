@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Le të kthehen prapa për shkak të turpit të tyre ata që thonë: «Ah, ah!»",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "le të kthehen"
+    },
+    {
+      "surface": "על",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "(shkak)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "turbtit të tyre"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ata që thonë"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:21.649902414Z",
+  "model": "glm-5.3"
+}

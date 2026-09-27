@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Noai ⟨ishte⟩ bir i gjashtëqind vjeç, dhe përmbytja ⟨ishte⟩ ujë mbi ⟨të⟩ dhé.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Dhe Noai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "dhe përmbytja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ishte⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ dhé"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:30.875695603Z",
+  "model": "glm-5.3"
+}

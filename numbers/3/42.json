@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Moisi numëroi, ashtu si i kishte urdhëruar Jahve ⟨את⟩, ⟨את⟩ të gjithë të parëlindurit e bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe numëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Moisi (kundrinori i urdhërit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të parëlindurit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "të parëlindurit"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "të bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:07.189697904Z",
+  "model": "glm-5.3"
+}

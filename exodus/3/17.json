@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "dhe thashë: Do t'ju ngjesh ⟨את⟩ nga mundimi i Egjiptit në tokën e Kanaanit, e Hititit, e Emorit, e Perizitit, e Hivitit dhe e Jebusitit, në tokë që rrjedh qumësht dhe mjaltë.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "do t'ju ngjesh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nga mundimi i Egjiptit)"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "nga mundimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e Hititit"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e Emorit"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e Perizitit"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e Hivitit"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e Jebusitit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "që rrjedh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "qumësht"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:01.278705403Z",
+  "model": "glm-5.3"
+}

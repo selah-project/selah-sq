@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 100,
+  "translation": "Dijini se Jahve ⟨është⟩ Elohim; ai ⟨ësht⟩ ai që bëri ne, dhe jo ne vetë; ⟨ne jemi⟩ populli i tij dhe tufa e kullotës së tij.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Dijini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "bëri ne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ne vetë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "populli i tij"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "dhe tufa"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "e kullotës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.685771548Z",
+  "model": "glm-5.3"
+}

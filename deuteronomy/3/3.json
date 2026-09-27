@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jahve, Elohim i jonë, dha në duart tona edhe ⟨את⟩ Ogun, mbretin e Bashanit, dhe ⟨את⟩ tërë popullin e tij; dhe e rrahëm atij deri sa nuk i la asnjë të mbijetuar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i jonë"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "në duart tona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ogun, mbretin e Bashanit"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "e Bashanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tërë popullin e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "dhe e rrahëm atij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "i la"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "asnjë të mbijetuar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:52.833773148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ai tha: «Kam një fjalë për ty.» Dhe ajo tha: «Fol.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "një fjalë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:10.275244168Z",
+  "model": "glm-5.3"
+}

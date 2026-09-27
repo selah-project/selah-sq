@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe unë thashë në begatinë time: «S’do të lëkundem kurrë.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "në begatinë time"
+    },
+    {
+      "surface": "בל",
+      "gloss": "s’"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "do të lëkundem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kurrë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:48.576804910Z",
+  "model": "glm-5.3"
+}

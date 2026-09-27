@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Ngjaj me pelikanin e shkretëtirës, bëra si kuv i vendesh të shkretë.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Ngjaj"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "me pelikanin"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "e shkretëtirës"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bëra si"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "kuv"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "i vendesh të shkretë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:03.433970598Z",
+  "model": "glm-5.3"
+}

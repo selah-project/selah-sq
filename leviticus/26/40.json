@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të pranojnë ⟨את⟩ paudhësinë e tyre dhe ⟨את⟩ paudhësinë e etërve të tyre: në tradhtinë e tyre me të cilën më tradhtuan, dhe edhe atë që ecën kundër meje me kokëfortësi.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "dhe do të pranojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paudhësinë e tyre"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "paudhësinë e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paudhësinë e etërve të tyre"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësinë"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "e etërve të tyre"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "në tradhtinë e tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilën"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "më tradhtuan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "me kokëfortësi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:49.202924364Z",
+  "model": "glm-5.3"
+}

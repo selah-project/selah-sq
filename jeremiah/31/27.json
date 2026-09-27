@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Ja, ditë po vijnë, fjalë e Jahvesë, dhe do të mbjell ⟨את⟩ shtëpinë e Izraelit dhe ⟨את⟩ shtëpinë e Judës me farë njeriu dhe me farë kafshësh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "באים",
+      "gloss": "po vijnë"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fjalë (orakull)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "dhe do të mbjell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Izraelit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Judës"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "dhe farë"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshësh"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:44.189270436Z",
+  "model": "glm-5.3"
+}

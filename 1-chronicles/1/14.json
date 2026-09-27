@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ jebusitët, dhe ⟨את⟩ emoritët, dhe ⟨את⟩ girgashitët,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "jebusitët"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "emoritët"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "girgashitët"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashitët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.098235761Z",
+  "model": "glm-5.3"
+}

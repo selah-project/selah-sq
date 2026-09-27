@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Davidi i tha: Gjaku yt ⟨qoftë⟩ mbi kokën tënde, sepse goja jote dëshmoi kundër teje, duke thënë: Unë e pashova ⟨את⟩ Mashiachin e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "gjaku yt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kokën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "goja jote"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dëshmoi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "e pashova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiachin"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiachin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:57.817840004Z",
+  "model": "glm-5.3"
+}

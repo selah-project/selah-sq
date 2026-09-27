@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ fushat tuaja dhe ⟨את⟩ vreshtat tuaja dhe ullinjtë tuaj të mirë do t'i marrë, dhe do t'i japë shërbëtorëve të tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fushat tuaja"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "fushat tuaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vreshtat tuaja"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "vreshtat tuaja"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "ullinjtë tuaj"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do t'i marrë"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe do t'i japë"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "shërbëtorëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:16.139257458Z",
+  "model": "glm-5.3"
+}

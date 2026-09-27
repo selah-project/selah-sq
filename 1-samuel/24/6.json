@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": " dhe ndodhi pas kësaj, dhe zemra e Davidit e rrahwi ⟨אתו⟩ atë, sepse priti ⟨את⟩ skajin që ishte i Saulit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe e rrahu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (Davidin)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "priti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skajin"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skajin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që ishte"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:59.029021486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Merajot lindi ⟨את⟩ Amarjan, dhe Amarja lindi ⟨את⟩ Ahitubin.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjan"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjan"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "dhe Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahitubin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:27.133393589Z",
+  "model": "glm-5.3"
+}

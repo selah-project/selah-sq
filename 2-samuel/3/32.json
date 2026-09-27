@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe e varrosën ⟨את⟩ Avnerin në Hevron; dhe mbreti ngriti ⟨את⟩ zërin e tij dhe qau te varri i Avnerit, dhe gjithë populli qau.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Dhe e varrosën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerin"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "në Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e tij"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "zërin e tij"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dhe qau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "varri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "i Avnerit"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dhe qau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:54.761071551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "Nga lajmi i keq nuk do të ketë frikë; i qëndrueshëm ⟨është⟩ zemra e tij, e mbështetur në Jahve.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "lajmi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "i keq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "do të ketë frikë"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "i qëndrueshëm"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e mbështetur"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.865170508Z",
+  "model": "glm-5.3"
+}

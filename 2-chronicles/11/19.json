@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ajo i lindi atij bij ⟨את⟩ Jeushin, ⟨את⟩ Shemariahun dhe ⟨את⟩ Zahamin.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i ... atij"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeushin"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeushin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemariahun"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemariahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zahamin"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:38.071031809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Sepse ata po profetizojnë gënjeshtër për ju, për t'ju larguar ⟨אתכם⟩ nga toka juaj; dhe unë do t'ju dëboj ⟨אתכם⟩ dhe do të humbni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtër"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "po profetizojnë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "larguar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "toka juaj"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "dhe do t'ju dëboj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "dhe do të humbni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:15:35.623061433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Me krahun tënd i shpengove bijtë e Jakobit dhe të Jozefit. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "i shpengove"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "me krahun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dhe të Jozefit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:12.694003548Z",
+  "model": "glm-5.3"
+}

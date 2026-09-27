@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "Sepse te ti ⟨është⟩ falja, që të frikësohesh ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "falja"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "të frikësohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:58.771320878Z",
+  "model": "glm-5.3"
+}

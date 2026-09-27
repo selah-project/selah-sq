@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Por nëse qëndron një ditë ose dy ditë, nuk do të hakmerret, sepse ⟨ai ësht⟩ argjendi i tij.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "një ditë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dy ditë"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "do të hakmerret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "argjendi i tij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ai ësht⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:09.957822069Z",
+  "model": "glm-5.3"
+}

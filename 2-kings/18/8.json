@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Ai goditi ⟨את⟩ filistejtë deri në Gazë dhe ⟨את⟩ kufijtë e saj, nga kulla e rojave deri në qytetin e fortifikuar.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistejtë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kufijtë e saj"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "kufijtë e saj"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "nga kulla e"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "rojave"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e fortifikuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:06.016077975Z",
+  "model": "glm-5.3"
+}

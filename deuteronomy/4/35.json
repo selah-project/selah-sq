@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ty të shfaqi ⟨këto⟩ për të ditur se Jahve, Ai ⟨është⟩ Elohim; s'ka ⟨asje⟩ tjetër përveç Tij.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "të shfaqi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "për të ditur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨është⟩ Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "asje tjetër"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "përveç Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:06.666859826Z",
+  "model": "glm-5.3"
+}

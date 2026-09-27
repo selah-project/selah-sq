@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Kërkoni paqen e Jerusalemit: qetësohu, o Jerusalem, për ata që të duan!",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Kërkoni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "qetësohu"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ata që të duan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:39.811144954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Për dirigjentin. Një psalm i Davidit. Për t'i kujtuar.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "për t'i kujtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:21.649374371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Te drejtuesi i këngës, me vegla me tela, sipas Sheminitit; një mizmor i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Te drejtuesi i këngës"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "me vegla me tela"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Sheminitit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:38.610978315Z",
+  "model": "glm-5.3"
+}

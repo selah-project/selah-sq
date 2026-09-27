@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe dërgoi Joabi të dërguar te Davidi, dhe tha: «Unë luftova kundër Rabbah-s, madje e zura ⟨את⟩ qytetin e ujrave",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "të dërguar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "luftova"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "kundër Rabbah-s"
+    },
+    {
+      "surface": "גם",
+      "gloss": "madje"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "e zura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "e ujrave"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:31.813689875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Numëro ⟨את⟩ kokat e bijve të Gershonit, edhe ata, sipas shtëpive të etërve të tyre, sipas familjeve të tyre;",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "numëro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershonit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sipas shtëpive"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "të etërve të tyre"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipas familjeve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:32.013250841Z",
+  "model": "glm-5.3"
+}

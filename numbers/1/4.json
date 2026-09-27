@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨את⟩ me ju do të jetë një njeri, një njeri për çdo fis, një njeri krye i shtëpisë së etërve të tij — ai vetë.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "dhe ⟨את⟩ me ju"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "për çdo fis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "krye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i shtëpisë"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "të etërve të tij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai vetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:40.300962082Z",
+  "model": "glm-5.3"
+}

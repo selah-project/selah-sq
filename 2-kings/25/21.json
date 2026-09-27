@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe i rrahi mbreti i Babilonisë ⟨אתם⟩ dhe i vrau në Rible, në tokën e Hamatit; dhe u dëbua Juda nga toka e vet.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "dhe i rrahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i rrahi ata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonisë"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "dhe i vrau"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "në Rible"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "e Hamatit"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "dhe u dëbua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "toka e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:00.983670385Z",
+  "model": "glm-5.3"
+}

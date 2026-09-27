@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do të bëj shkretëtirë ⟨את⟩ Patrosin, dhe do të vë zjarr në Coan, dhe do të zbatoj gjykime në No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "dhe do të bëj shkretëtirë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patrosin"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patrosin"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do të vë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "në Coan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "dhe do të zbatoj"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "gjykime"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "në No"
+    }
+  ],
+  "timestamp": "2026-09-27T16:34:51.440282960Z",
+  "model": "glm-5.3"
+}

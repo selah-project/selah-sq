@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe tani dërgo, mblidhi pranë meje ⟨את⟩ gjithë Izraelin në malin e Karmelit, dhe ⟨את⟩ profetët e Baalit — katërqind e pesëdhjetë — dhe profetët e Asheras — katërqind — që hanë nga tryeza e Izebelit.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dhe tani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "mblidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pranë meje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "e Karmelit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "profetët e Baalit"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profetët"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "e Baalit"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katërqind"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(qind)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e pesëdhjetë"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "dhe profetët"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "e Asheras"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katërqind"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(qind)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "që hanë"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "nga tryeza"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "e Izebelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:09.407797648Z",
+  "model": "glm-5.3"
+}

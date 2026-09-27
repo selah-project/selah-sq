@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Shih, këta do të vijnë nga larg; dhe shih, këta nga veriu dhe nga perëndimi; dhe këta nga vendi i Sinimit.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "shih"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "do të vijnë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe shih"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "nga veriu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dhe nga perëndimi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "i Sinimit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:53.409170337Z",
+  "model": "glm-5.3"
+}

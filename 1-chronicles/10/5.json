@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbajtësi i armëve të tij pa që Sauli kishte vdekur, dhe ra edhe ai vetë mbi shpatën dhe vdiq.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mbajtësi i armëve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "të tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kishte vdekur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai vetë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "shpatën"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:50.674336074Z",
+  "model": "glm-5.3"
+}

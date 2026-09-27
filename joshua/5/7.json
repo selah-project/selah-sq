@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ⟨את⟩ bijtë e tyre ai i ngriti në vendin e tyre; ⟨את⟩ ata i rrethpreu Jozue, sepse të parrethprerë ishin, sepse nuk i kishin rrethprerë ⟨את⟩ ata në rrugë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tyre"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bijtë e tyre"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "i ngriti"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "në vendin e tyre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "מל",
+      "gloss": "i rrethpreu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "të parrethprerë"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "i kishin rrethprerë"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:55:23.998657439Z",
+  "model": "glm-5.3"
+}

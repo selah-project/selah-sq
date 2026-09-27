@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Vetëm ⟨את⟩ tërë mbretërisë nuk do ta gris; një fisi do t'ia jap birit tënd, për hir të Davidit, shërbëtorit tim, dhe për hir të Jeruzalemit, të cilin e zgjodha.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë mbretërisë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretërisë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "do ta gris"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "një fisi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do t'ia jap"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "birit tëtend"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorit tim"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dhe për hir të"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "e zgjodha"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.439081078Z",
+  "model": "glm-5.3"
+}

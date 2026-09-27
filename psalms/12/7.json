@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Fjalët e Jahvesë ⟨janë⟩ fjalë të pastra: argjend i shkrirë në furra dheu, i raffinuar shtatë herë.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "të pastra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "i shkrirë"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "në furra"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dheu"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "i raffinuar"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "shtatë herë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:19.011497881Z",
+  "model": "glm-5.3"
+}

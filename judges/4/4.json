@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Deborah, një grua profeteshe, gruaja e Lapidotit, ajo gjykonte ⟨את⟩ Izraelin në atë kohë.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Dhe Deborah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "profeteshe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruaja e"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidotit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "gjykonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë kohë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:36.094490774Z",
+  "model": "glm-5.3"
+}

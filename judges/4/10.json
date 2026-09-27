@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Baraku thirri ⟨את⟩ Zebulunin dhe ⟨את⟩ Neftalin në Kedesh, dhe u ngjit në këmbët e tij dhjetë mijë burra, dhe Debora u ngjit me të.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulunin"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Neftalin"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalin"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "në Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "mbi këmbët e tij"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:18.996234402Z",
+  "model": "glm-5.3"
+}

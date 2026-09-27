@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Shumë mundime i takojnë të ligut, por ai që beson në Jahve, hesedi e rrethon.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mundime"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "i takojnë të ligut"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "por ai që beson"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "e rrethon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:04.553375935Z",
+  "model": "glm-5.3"
+}

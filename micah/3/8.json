@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Po unë, jam plot me forcë, me ⟨את⟩ Frymën e Jahvesë, me gjykim dhe me guxim, për t'i shpallur Jakobit kryengritjen e tij dhe Izraelit mëkatin e tij.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Po unë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "jam plot"
+    },
+    {
+      "surface": "כח",
+      "gloss": "me forcë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Frymën e Jahvesë"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Frymën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "me gjykim"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "me guxim"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "për t'i shpallur"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "kryengritjen e tij"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "dhe Izraelit"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "mëkatin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:23.280996322Z",
+  "model": "glm-5.3"
+}

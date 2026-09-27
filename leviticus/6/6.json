@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Zjarr i pandërprerë do të djegë mbi altar, nuk do të fiket.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Zjarr"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i pandërprerë"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "do të djegë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "fiket"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:49.769927756Z",
+  "model": "glm-5.3"
+}

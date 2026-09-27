@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "do t'i godasësh patjetër ⟨את⟩ banorët e atij qyteti me anë të shpatës; do ta shfarosësh ⟨את⟩ atë dhe ⟨את⟩ gjithçka që është në të, dhe ⟨את⟩ kafshët e saj, me anë të shpatës.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "do t'i godasësh patjetër"
+    },
+    {
+      "surface": "תכה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e atij qyteti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "e qytetit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me anë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "do ta shfarosësh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (qytetin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka që është në të"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kafshët e saj"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "kafshët e saj"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me anë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:49.221963110Z",
+  "model": "glm-5.3"
+}

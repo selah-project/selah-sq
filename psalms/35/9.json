@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe shpirti im do të gëzojë në Jahve, do të ngazëllejë në shpëtimin e tij.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "dhe shpirti im"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "do të gëzojë"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "do të ngazëllejë"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "në shpëtimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:16.992178506Z",
+  "model": "glm-5.3"
+}

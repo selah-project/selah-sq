@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Nëse i jep hua ⟨את⟩ popullit tim — ⟨את⟩ të varfrin që është me ty — para, mos i bëhu atij si huadhënës; mos i vendosni mbi të kamatë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "para (argjend)"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "i jep hua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullit tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullit tim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të varfrin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "të varfrin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "që është me ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i bëhu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "si huadhënës"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "i vendosni"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:19.461589253Z",
+  "model": "glm-5.3"
+}

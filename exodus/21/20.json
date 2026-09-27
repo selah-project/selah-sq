@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse një njeri e rreh ⟨את⟩ shërbëtorin e tij ose ⟨את⟩ shërbëtoren e tij me shkop, dhe ai vdet nën dorën e tij, sigurisht do të hakmerret.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "e rreh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin e tij"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtoren e tij"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "shërbëtoren e tij"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "me shkop"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe vdet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hakmarrje"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "do të hakmerret"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:44.631818072Z",
+  "model": "glm-5.3"
+}

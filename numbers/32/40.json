@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Moisiu dha ⟨את⟩ Galaadin Makirit, birit të Manasit, dhe ai banoi në të.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dhe dha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Galaadin"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Galaadin"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Makirit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "të Manasit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe ai banoi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:42.595423900Z",
+  "model": "glm-5.3"
+}

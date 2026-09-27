@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ndodhi, kur ⟨ai⟩ dëgjoi ⟨את⟩ këtë fjalë — ndërsa ai pinte, ai dhe mbretërit, në çadrat — ai u tha shërbëtorëve të vet: «Vendosuni.» Dhe u vendosën kundër qytetit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndërsa ai"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pinte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "dhe mbretërit"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "në çadrat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tek"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e vet"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "vendosuni"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dhe u vendosën"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:19.526681056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Vallë, s'ju tremb lartësia e tij, dhe frika e tij nuk bie mbi ju?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vallë, s'"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "lartësia e tij"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ju tremb"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "dhe frika e tij"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bie"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mbi ju"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:08.498291365Z",
+  "model": "glm-5.3"
+}

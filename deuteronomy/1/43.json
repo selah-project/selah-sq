@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ju fola, por nuk dëgjuat, dhe u rebeluat kundër ⟨את⟩ gojës së Jahvesë, dhe vepruat me mendjemadhësi, dhe u ngjitët në mal.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "dhe ju fola"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "dëgjuat"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "dhe u rebeluat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojës së Jahvesë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "dhe vepruat me mendjemadhësi"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "dhe u ngjitët"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:55.036909895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Jahve të shtojë juve, juve dhe fëmijët tuaj.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "të shtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fëmijët tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:14.493179101Z",
+  "model": "glm-5.3"
+}

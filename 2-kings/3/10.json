@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe mbreti i Izraelit tha: Ah, se Jahve i ka thirrur këta tre mbretër për t'i ⟨את⟩ dhënë në dorën e Moabit!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ka thirrur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "këta tre"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretër"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për t'i dhënë"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i dhënë (ata) në dorën e Moabit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "të Moabit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:34.259666459Z",
+  "model": "glm-5.3"
+}

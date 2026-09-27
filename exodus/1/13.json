@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Egjipti i bëri bijtë e Izraelit të punonin ⟨את⟩ bijtë e Izraelit me ashpërsi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "i bëri të punonin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "me ashpërsi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:01.557064551Z",
+  "model": "glm-5.3"
+}

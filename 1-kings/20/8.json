@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe të gjithë pleqtë dhe të gjithë populli i thanë: Mos dëgjo dhe mos prano.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "pleqtë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "prano"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:49.244449849Z",
+  "model": "glm-5.3"
+}

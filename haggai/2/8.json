@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "E imi ⟨është⟩ argjendi dhe e imi ⟨është⟩ ari, shpall Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "e imi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dhe e imi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "shpall"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:44.551809992Z",
+  "model": "glm-5.3"
+}

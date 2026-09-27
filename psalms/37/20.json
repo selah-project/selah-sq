@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Sepse të ligjtë do të humbin, dhe armiqtë e Jahvesë, si shkelja e dashave, do të mbarojnë; në tym do të mbarojnë krejt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "do të humbin"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "dhe armiqtë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "si shkelja e"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dashave"
+    },
+    {
+      "surface": "كלו",
+      "gloss": "do të mbarojnë"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "në tym"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "do të mbarojnë krejt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:21.007243402Z",
+  "model": "glm-5.3"
+}

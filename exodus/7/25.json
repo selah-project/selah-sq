@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe u plotësuan shtatë ditë, pasi ra Jahve ⟨את⟩ lumin.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "u plotësuan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumin"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "lumin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:20.313307041Z",
+  "model": "glm-5.3"
+}

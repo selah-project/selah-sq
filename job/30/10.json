@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Më ndiejnë neveri, largohen prej meje, dhe para fytyrës sime nuk e përmbajnë pështymën.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "më ndiejnë neveri"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "largohen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "prej meje"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dhe para fytyrës sime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "e përmbajnë"
+    },
+    {
+      "surface": "רק",
+      "gloss": "pështymën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:14.637455853Z",
+  "model": "glm-5.3"
+}

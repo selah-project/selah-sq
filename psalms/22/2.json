@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Eli i im, Eli i im, pse më ke lënë? Larg nga shpëtimi im, fjalët e ulërirës sime.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli i im"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli i im"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "më ke lënë"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "larg"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "nga shpëtimi im"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ulërirës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:30.809800493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Psalm i Davidit. Jahve, kush do të bujtë në çadrën tënde? Kush do të banojë në malin e shenjtë tënd?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "do të bujtë"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "në çadrën tënde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "do të banojë"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e shenjtë tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.716570980Z",
+  "model": "glm-5.3"
+}

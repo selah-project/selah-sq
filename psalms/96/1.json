@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Këndoni Jahvesë një këngë të re, këndoni Jahvesë, gjithë ⟨toka⟩!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:28.419842890Z",
+  "model": "glm-5.3"
+}

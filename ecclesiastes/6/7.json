@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "I gjithë mundi i njeriut ⟨është⟩ për gojën e tij, dhe megjithatë shpirti nuk ngopet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "I gjithë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "për gojën e tij"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe megjithatë"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ngopet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:10.321801407Z",
+  "model": "glm-5.3"
+}

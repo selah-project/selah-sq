@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe e çuan ⟨את⟩ Arkën e Jahvesë dhe e vendosën ⟨את⟩ atë në vendin e saj, në mes të çadhrës që Davidi kishte ngritur për të; dhe Davidi ofroi oloa dhe flijime shelamim përpara Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe e çuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "dhe e vendosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "në vendin e saj"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "në vendin e saj"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadhrës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "kishte ngritur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe ofroi (ngriti)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "oloa (flijime të pjekura)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "dhe flijime shelamim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:54.515402288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "dhe në mëngjes do të shihni ⟨את⟩ lavdinë e Jahvesë, sepse ai dëgjon ⟨את⟩ pëshpërimet tuaja kundër Jahvesë; e ne ç'jemi, që pëshpërroni kundër nesh?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "dhe në mëngjes"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "do të shihni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavdinë e Jahvesë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdinë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kur dëgjon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pëshpërimet tuaja"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "pëshpërimet tuaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "e ne"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'jemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "pëshpërroni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kundër nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:27.712253467Z",
+  "model": "glm-5.3"
+}

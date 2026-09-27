@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse grinden burrat dhe njëri god ⟨את⟩ të afërmin e tij me gur ose me grusat, dhe ai nuk vdes por bie në shtrat,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "grinden"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dhe god"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të afërmin e tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "të afërmin e tij"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "me gur"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "me grusat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "vdes"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "por bie"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "në shtrat"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:44.630924031Z",
+  "model": "glm-5.3"
+}

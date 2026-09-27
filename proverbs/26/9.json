@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Si një gjemb që ngjitet në dorën e të dehurit, ashtu ⟨është⟩ një shembull në gojën e të marrëve.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "gjemb"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngjitet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "të dehurit"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dhe një shembull"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "të marrëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:55.458972250Z",
+  "model": "glm-5.3"
+}

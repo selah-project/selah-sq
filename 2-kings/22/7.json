@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "vetëm mos u llogarit ⟨אתם⟩ argjenti i dhënë në dorën e tyre, sepse me besnikëri punojnë ⟨ata⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "u llogarit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "argjendi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjenti"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "i dhënë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dorën e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "me besnikëri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "punojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:00.699330654Z",
+  "model": "glm-5.3"
+}

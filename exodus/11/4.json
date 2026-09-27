@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Moisi tha: «Kështu ka thënë Jahve: Rreth mesit të natës unë po dal në mes të Egjiptit,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "rreth mesit të"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natës"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "po dal"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:24.710438571Z",
+  "model": "glm-5.3"
+}

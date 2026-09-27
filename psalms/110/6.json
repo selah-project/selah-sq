@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "⟨Ai⟩ gjykon midis kombeve, mbush ⟨vendin⟩ me trupa të vdekur, mëshkon kokën mbi tokë ⟨të gjerë⟩.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "gjykon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbush"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "me trupa të vdekur"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mëshkon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "të gjerë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.223571779Z",
+  "model": "glm-5.3"
+}

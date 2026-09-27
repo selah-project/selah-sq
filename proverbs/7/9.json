@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Në muzgun e mbrëmjes, në mbarim të ditës, në syrin e errët ⟨të natës⟩ dhe në terr.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "në muzg"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "i ditës"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "në syrin e errët"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "të natës"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "dhe në terr"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:18.891604545Z",
+  "model": "glm-5.3"
+}

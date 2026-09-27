@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Sara pa ⟨את⟩ birin e Hagarit, egjiptases, të cilin ajo i lindi Abrahamit, duke bërë lojë (meceaḥeq)",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "e Hagarit"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egjiptases"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "duke bërë lojë (meceaḥeq)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:10.488382034Z",
+  "model": "glm-5.3"
+}

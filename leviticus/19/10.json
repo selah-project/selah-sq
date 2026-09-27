@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Edhe vreshtin tënd të mos e vjelsh deri në fund, as rrushin e rënë të vreshtit tënd të mos e mbledhsh; për të varfër dhe për të huajin ⟨את⟩i ke për t'i lënë. Unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "Edhe vreshtin tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "e vjelsh deri në fund"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "as rrushin e rënë"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "të vreshtit tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "e mbledhsh"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "për të varfër"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "dhe për të huajin"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ke për t'i lënë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩i",
+      "marks": "ato (rrushin e rënë dhe mbetjet)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:44.577059959Z",
+  "model": "glm-5.3"
+}

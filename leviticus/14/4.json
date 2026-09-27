@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "atëherë prifti do të urdhërojë, dhe do të merren për ⟨atë⟩ që pastrohet dy zogj të gjallë të pastër, dhe dru kedri, dhe të kuqe skarlat dhe isojë.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "dhe do të urdhërojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do të merren"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "për ⟨atë⟩ që pastrohet"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "zogj"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dhe dru"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kedri"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dhe të kuqe"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "skarlat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "dhe isojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:03.724006979Z",
+  "model": "glm-5.3"
+}

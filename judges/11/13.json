@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 11:13",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe mbreti i bijve të Amonit iu tha lajmëtarëve të Jefthahut: «Sepse Izraeli mori ⟨את⟩ tokën time kur u ngjit nga Egjipti, nga Arnoni deri në Jabok dhe deri në Jordan; dhe tani ktheni ⟨את⟩ ato me paqe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe iu tha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i bijve të"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "lajmëtarëve të"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jefthahut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën time"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tokën time"
+    },
+    {
+      "surface": "בעלותו",
+      "gloss": "kur u ngjit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "nga Arnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabok"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "ktheni"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "me paqe"
+    }
+  ],
+  "timestamp": "2026-09-27T15:06:54.311532894Z",
+  "model": "glm-5.3"
+}

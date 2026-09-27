@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "për të të ruajtur nga gruaja e huaj, nga e panjohura që i ka bërë të buta fjalët e saj.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "për të të ruajtur"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "nga gruaja"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "e huaj"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "nga e panjohura"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "fjalët e saj"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "i ka bërë të buta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:23.447131412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Do të të lëvdoj me ndershmëri zemre, kur të mësoj ⟨את⟩ vendimet e drejtësisë sate.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "do të të lëvdoj"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "me ndershmëri"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemre"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "kur të mësoj"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "vendimet e drejtësisë"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sate"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:41.189931573Z",
+  "model": "glm-5.3"
+}

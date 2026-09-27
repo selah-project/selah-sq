@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Të mirë janë të dy se ⟨i⟩ njëri, sepse kanë ⟨për⟩ veten shpërblim të mirë nga mundi i tyre.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "se"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për veten"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "shpërblim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "nga mundi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:59.696848196Z",
+  "model": "glm-5.3"
+}

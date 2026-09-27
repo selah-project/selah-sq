@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "I drejti njeh të drejtën e të varfërve, por i pabesi nuk e kupton njohjen.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "njeh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "דין",
+      "gloss": "të drejtën"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "të varfërve"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "por i pabesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kupton"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "njohjen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:35.681367773Z",
+  "model": "glm-5.3"
+}

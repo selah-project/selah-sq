@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe nëse e godet me një gur në dorë, me të cilin mund të vdesë, dhe ai vdes, ⟨ai⟩ ⟨është⟩ vrasës; me vdekje do të dënohet vrasësi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "me një gur"
+    },
+    {
+      "surface": "יד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilin"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mund të vdesë"
+    },
+    {
+      "surface": "בה",
+      "gloss": "me të"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "e godet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdes"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "vrasës"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ai⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të dënohet"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vrasësi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:10.036153366Z",
+  "model": "glm-5.3"
+}

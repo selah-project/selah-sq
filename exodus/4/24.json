@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ndodhi në rrugë, në një bujtinë, që Jahve e takoi ⟨atë⟩ dhe kërkoi ta vriste.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "në bujtinë"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "e takoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "dhe kërkoi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ta vriste"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:24.507804343Z",
+  "model": "glm-5.3"
+}

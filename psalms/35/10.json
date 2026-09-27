@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Të gjitha kockat e mia do të thonë: Jahve, kush është si ti, që shpëton të varfërin nga më i forti se ai, dhe të varfërin e të nevojshmin nga ai që e plaçkit?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kockat e mia"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "do të thonë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "që shpëton"
+    },
+    {
+      "surface": "עני",
+      "gloss": "të varfërin"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "nga më i forti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se ai"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dhe të varfërin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e të nevojshmin"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "nga ai që e plaçkit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:16.992464251Z",
+  "model": "glm-5.3"
+}

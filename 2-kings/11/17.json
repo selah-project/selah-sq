@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jehojada lidhi besëlidhjen ⟨את⟩ midis Jahves dhe midis mbretit dhe midis popullit, që ⟨të jenë⟩ popull për Jahvenë, dhe midis mbretit dhe midis popullit.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "lidhi"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "që të jenë"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:38.237298275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jahve i tha Moisit: Zemra e Faraonit ⟨është⟩ e rëndë; ai refuzon ta lëshojë popullin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "e rëndë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuzon"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ta lëshojë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:40.162736276Z",
+  "model": "glm-5.3"
+}

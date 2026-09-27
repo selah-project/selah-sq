@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "dhe tha: «Jahve ⟨është⟩ shkëmbi im dhe fortesa ime dhe çliruesi im —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "dhe fortesa ime"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dhe çliruesi im"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:59.090657410Z",
+  "model": "glm-5.3"
+}

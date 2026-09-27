@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "O të ikurit nga shpata, shkoni, mos ndaluni; kujtoni nga larg ⟨את⟩ Jahve, dhe Jerusalemi le të ngjitet mbi zemrën tuaj.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "O të ikurit"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ndaluni"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kujtoni"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "le të ngjitet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zemrën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:24:24.940050657Z",
+  "model": "glm-5.3"
+}

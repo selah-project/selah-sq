@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "O Elohim, na ke hedhur tej, na ke shpërthyer, u zemërua — kthehu për ne!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "na ke hedhur tej"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "na ke shpërthyer"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "u zemërua"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:54.963897098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve i foli peshkut, dhe ai e vjodhi ⟨את⟩ Jonën në tokën e thatë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "peshkut"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "dhe e vjodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonën"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tokën e thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:53.322307665Z",
+  "model": "glm-5.3"
+}

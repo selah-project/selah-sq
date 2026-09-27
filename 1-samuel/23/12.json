@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Davidi tha: «A do të dorëzojnë zotërit e Keilës ⟨אתי⟩ mua dhe ⟨ואת⟩ njerëzit e mi në dorën e Saulit?» Dhe Jahve tha: «Do të dorëzojnë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "a do të dorëzojnë"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "zotërit e"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilës"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e mi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e mi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "do të dorëzojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:36.792346658Z",
+  "model": "glm-5.3"
+}

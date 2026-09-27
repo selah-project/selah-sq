@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Abigajil lindi ⟨את⟩ Amasan; dhe babai i Amasanit ⟨ishte⟩ Jeteri ishmaeliti.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Dhe Abigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasan"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasan"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "dhe babai i"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasanit"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeteri"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ishmaeliti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:55.511937341Z",
+  "model": "glm-5.3"
+}

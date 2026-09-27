@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Ka thënë në zemrën e tij: «Nuk do të lëvizem, sepse për brez e brez nuk do të bij në të keqe.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk ... fare"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "do të lëvizem"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "për brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e brez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "në të keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.077930259Z",
+  "model": "glm-5.3"
+}

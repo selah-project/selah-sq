@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "E bëre të sundojë mbi veprat e duarve të tua; të gjitha i vure nën këmbët e tij:",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "e bëre të sundojë"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "mbi veprat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "e duarve të tua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "i vure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "këmbët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:37.356348259Z",
+  "model": "glm-5.3"
+}

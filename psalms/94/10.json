@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Ai që ndëshkon kombe, a ⟨s'⟩do të qortojë? ⟨Ai⟩ që mëson njeriun ⟨me⟩ dituri ⟨a s'di⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Ai që ndëshkon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a s'… do"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "të qortojë"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Ai që mëson"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dituri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:16.270005878Z",
+  "model": "glm-5.3"
+}

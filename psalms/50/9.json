@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Nuk do të marr demi nga shtëpia jote, as cjepërit nga vathët e tua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "do të marr"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "nga shtëpia jote"
+    },
+    {
+      "surface": "פר",
+      "gloss": "demi"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "nga vathët e tua"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "cjepërit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.093398687Z",
+  "model": "glm-5.3"
+}

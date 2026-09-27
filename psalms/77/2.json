@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Zëri im drejt Elohim dhe bërtas; zëri im drejt Elohim, dhe ⟨ai⟩ veshë veshin për mua.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Zëri im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "dhe bërtas"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zëri im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "dhe dëgjon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:30.222893986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "për të blerë me argjend ⟨את⟩ të varfrit dhe ⟨את⟩ të nevojshmin për një çift sandalesh, dhe mbeturinat e grurit t'i shesim si drith.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "për të blerë"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "me argjend"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "të varfrit"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe të nevojshmin"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "një çift sandalesh"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "dhe mbeturinat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "e grurit"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "t'i shesim si drith"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:01.636572863Z",
+  "model": "glm-5.3"
+}

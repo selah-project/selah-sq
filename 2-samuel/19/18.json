@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe një mijë njerëz me ⟨את⟩ të nga Beniamini, dhe Ciba, shërbëtori i shtëpisë së Saulit, dhe pesëmbëdhjetë bijtë e tij dhe njëzet shërbëtorët e tij me të; dhe kaluan me të shpejtë Jordanin përpara mbretit.",
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "dhe një mijë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njerëz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "nga Beniamini"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "dhe Ciba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "shërbëtori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i shtëpisë"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "së Saulit"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "dhe pesë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dhe njëzet"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "me të (këtu אתו është parashtesa 'me', jo shenja e kundrinorit)"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "dhe kaluan me të shpejtë"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:28:13.053221660Z",
+  "model": "glm-5.3"
+}

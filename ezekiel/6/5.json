@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe do të vë ⟨את⟩ kufomat e bijve të Izraelit para idhujve të tyre, dhe do të shpërndaj ⟨את⟩ kockat tuaja rreth e rrotull altareve tuaja.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do të vë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kufomat"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "kufomat e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "idhujve të tyre"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dhe do të shpërndaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kockat tuaja"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "kockat tuaja"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "altareve tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:11.606587142Z",
+  "model": "glm-5.3"
+}

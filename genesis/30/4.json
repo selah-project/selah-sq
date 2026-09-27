@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ajo i dha atij ⟨את⟩ Bilhan, shërbëtoren e saj, për grua, dhe Jakobi hyri te ajo.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhan"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "shërbëtorja e saj"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "te ajo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:35.004982370Z",
+  "model": "glm-5.3"
+}

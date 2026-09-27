@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ai hyri ⟨edhe⟩ te Rahela, dhe e deshi ⟨edje⟩ ⟨את⟩ Rahelën më shumë se Lea, dhe shërbeu me të ⟨të⟩ tjera shtatë vjet.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hyri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "deshi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelën"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelën"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "më shumë se Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "shërbeu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "të tjera"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:28.595381757Z",
+  "model": "glm-5.3"
+}

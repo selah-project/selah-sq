@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Kush e peshoi ⟨את⟩ Frymën e Jahves? Dhe cilin njeri të këshillat e tij e bëri të ditur?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "e peshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Frymën"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Frymën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe cilin njeri"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "të këshillat e tij"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "e bëri të ditur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:52.783386040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Shumë më laj nga paudhësia ime, dhe nga mëkati im më pastro.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "më laj"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "nga paudhësia ime"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "dhe nga mëkati im"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "më pastro"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.406181072Z",
+  "model": "glm-5.3"
+}

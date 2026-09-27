@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe kushdo që prek shtratin e tij, do të lajë rrobat e veta dhe do të lahet në ujë, dhe do të jetë i papastër deri në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe kushdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "prek"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "shtratin e tij"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e veta"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhe do të lahet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dhe do të jetë i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "në mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:15.898783833Z",
+  "model": "glm-5.3"
+}

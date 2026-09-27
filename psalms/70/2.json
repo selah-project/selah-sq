@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Elohim, për ⟨të⟩ më shpëtuar; Jahve, për ⟨të⟩ më ndihmuar — ngutohu!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "për ⟨të⟩ më shpëtuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "për ndihmën time"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ngutohu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:21.649619045Z",
+  "model": "glm-5.3"
+}

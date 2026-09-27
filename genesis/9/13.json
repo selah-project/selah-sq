@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Harkun tim ⟨את⟩ e vendosa në re, dhe ⟨ajo⟩ do të jetë shenjë e besëlidhjes midis meje dhe ⟨të⟩ tokës.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harkun tim"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "harkun tim"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "e vendosa"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "në re"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "shenjë"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjes"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "midis meje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:42.568475271Z",
+  "model": "glm-5.3"
+}

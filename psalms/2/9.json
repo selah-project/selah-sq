@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Do t'i thyesh ata me shkop hekuri; si enë të poçarit do t'i copëtosh.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "do t'i thyesh ata"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "me shkop"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hekuri"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "si enë"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "e poçarit"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "do t'i copëtosh"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.915977847Z",
+  "model": "glm-5.3"
+}

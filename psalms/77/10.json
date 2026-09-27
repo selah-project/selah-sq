@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "A harroi El-i të tregojë hir? A mbylli në zemërim mëshirat e tij? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "a harroi"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "të tregojë hir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "a mbylli"
+    },
+    {
+      "surface": "באף",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "mëshirat e tij"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.006627891Z",
+  "model": "glm-5.3"
+}

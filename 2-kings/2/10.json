@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ai tha: Ke kërkuar një gjë të vështirë; megjithatë, nëse më sheh ⟨את⟩ kur të merrem prej teje, le të të ndodhë kështu; por nëse jo, nuk do të ndodhë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ai tha"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Ke kërkuar një gjë të vështirë"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "më sheh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "më"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "të merrem"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ prej teje"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "le të ndodhë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "por nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të ndodhë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:34.464618786Z",
+  "model": "glm-5.3"
+}

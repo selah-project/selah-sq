@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Mos u frikëso kur një njeri pasurohet, kur shtohet lavdia e shtëpisë së tij;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "u frikëso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "pasurohet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "shtohet"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "e shtëpisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.272347964Z",
+  "model": "glm-5.3"
+}

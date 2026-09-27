@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jeftai gjykoiti ⟨את⟩ Izraelin gjashtë vjet; pastaj vdiq Jeftai Giladiti dhe u varros në një nga qytetet e Giladit.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dhe gjykoiti"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladiti"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "në qytetet e"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:07:00.954561329Z",
+  "model": "glm-5.3"
+}

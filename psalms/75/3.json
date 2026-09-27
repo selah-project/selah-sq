@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "«Kur unë të marr ⟨ Kohën e caktuar ⟩, unë vetë do të gjykoj me drejtësi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "të marr"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kohën e caktuar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë vetë"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "do të gjykoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:19.199191714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe do ta nxjerrë ⟨את⟩ ⟨gjithë⟩ demin jashtë kampit, në një vend të pastër, aty ku derdhen hirit, dhe do ta djegë ⟨את⟩ atë mbi dru me zjarr; aty ku derdhen hirit do të digjet.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "do ta nxjerrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë demin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për në"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "aty ku derdhen"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "hirit"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "dhe do ta djegë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "demin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dru"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi\/në"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "aty ku derdhen"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "hirit"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "do të digjet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:56.761463578Z",
+  "model": "glm-5.3"
+}

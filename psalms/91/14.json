@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Sepse në mua është lidhur me dashuri, dhe unë do ta çliruar; do ta lartësoj, sepse ai e njeh emrin tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "është lidhur me dashuri"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "dhe unë do ta çliroj"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "do ta lartësoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ai njeh"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:26.031304102Z",
+  "model": "glm-5.3"
+}

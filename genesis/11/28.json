@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe vdiq Harani përpara Terahut, atit të tij, në tokën e lindjes së tij, në Urin e Kasditëve.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "vdiq"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "על",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës së"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "e lindjes së tij"
+    },
+    {
+      "surface": "באור",
+      "gloss": "në Urin"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "të Kasditëve"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:26.941062987Z",
+  "model": "glm-5.3"
+}

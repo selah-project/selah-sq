@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Sa i çmuar ⟨është⟩ hesedi i rit, o Elohim! Bijtë e njerëzve nën hijen e krahëve të tua gjejnë strehim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "i çmuar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi i rit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nën hijen"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "të krahëve të tua"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "gjejnë strehim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:33.618524762Z",
+  "model": "glm-5.3"
+}

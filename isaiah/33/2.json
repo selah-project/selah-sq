@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Jahve, na bëj mirë, se te ti kemi pritur; bëhu krahi i tyre çdo mëngjes, edhe shpëtimi ynë në kohë ngushticë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "na bëj mirë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "kemi pritur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bëhu"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "krahi"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "çdo mëngjes"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "shpëtimi ynë"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ngushticë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:30.817985748Z",
+  "model": "glm-5.3"
+}

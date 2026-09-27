@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do të bëj për vete dëshmitarë të besueshëm: ⟨את⟩ Urija priftin dhe ⟨את⟩ Zekarjahun, birin e Jeverekjahut.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "dhe do të dëshmoj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dëshmitarë"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "të besueshëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija priftin"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarjahun"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "e Jeverekjahut"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:01.552742722Z",
+  "model": "glm-5.3"
+}

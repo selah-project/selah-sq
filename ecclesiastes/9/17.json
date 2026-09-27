@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Fjalët e të urtëve dëgjohen në qetësi, më shumë sesa britma e atij që sundon mes të pamendëve.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "e të urtëve"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "në qetësi"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "dëgjohen"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "sesa britma"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "e atij që sundon"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "mes të pamendëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:16.602735256Z",
+  "model": "glm-5.3"
+}

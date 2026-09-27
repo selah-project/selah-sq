@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Fshih fytyrën tënde nga mëkatet e mia, dhe të gjitha fajet e mia fshiji.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "fshih"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "nga mëkatet e mia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "fajet e mia"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "fshiji"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.475168961Z",
+  "model": "glm-5.3"
+}

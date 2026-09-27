@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "A i shpëtuan ata perënditë e kombeve që shkatërruan etërit e mi — ⟨את⟩ Gozanin, ⟨את⟩ Haranin, dhe Resefin, dhe bijtë e Edenit, që ishin në Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "A i shpëtuan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "shkatërruan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "etërit e mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "dhe Resefin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bijtë"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "e Edenit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "në Telasar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:20.767636004Z",
+  "model": "glm-5.3"
+}

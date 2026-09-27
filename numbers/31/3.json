@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Moisi foli me popullin, duke thënë: \"Përgatitni ⟨את⟩ nga ⟨ju⟩ njerëz për ushtri, dhe të jenë kundër Midianit, për të dhënë hakmarrjen e Jahvesë mbi Midian.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "përgatitni"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ nga ⟨ju⟩",
+      "marks": "njerëz"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "njerëz"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "për ushtri"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe të jenë"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianit"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për të dhënë"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "hakmarrjen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "mbi Midian"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:54.086866170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Deri në kohën kur erdhi fjala e tij — fjala e Jahvesë e provoi atë.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Deri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjala e tij"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "e provoi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:27.479270991Z",
+  "model": "glm-5.3"
+}

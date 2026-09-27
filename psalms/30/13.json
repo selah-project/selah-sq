@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Që ⟨të⟩ lavdia ime të këndojë të përshëndesë me instrument dhe të mos heshtë. O Jahve, Elohim im, përjetë do të të falënderoj.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "të këndojë të përshëndesë me instrument"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "heshtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "do të të falënderoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:53.281349516Z",
+  "model": "glm-5.3"
+}

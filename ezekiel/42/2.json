@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Përballë gjatësisë prej njëqind kubitësh ishte hyrja e veriut, dhe gjerësia pesëdhjetë kubitë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqes së"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gjatësisë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "e veriut"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "dhe gjerësia"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pesëdhjetë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:32.451062804Z",
+  "model": "glm-5.3"
+}

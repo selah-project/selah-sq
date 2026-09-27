@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse i pashova rrugët e Jahves dhe nuk bëra keq kundër Elohim tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "i pashova"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "bëra keq"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kundër Elohimit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:45.064250379Z",
+  "model": "glm-5.3"
+}

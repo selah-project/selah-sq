@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Dhe ⟨את⟩ të gjitha këto dora ime i bëri, dhe të gjitha këto u bënë, thotë Jahve; por te ky do të shikoj: te i varfëri dhe i thyeri në frymë, që dridhet për fjalën time.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dora ime"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "i bëri"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe u bënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "por te"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "do të shikoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfëri"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dhe i thyeri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "në frymë"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "dhe që dridhet"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalën time"
+    }
+  ],
+  "timestamp": "2026-09-27T16:07:20.876468448Z",
+  "model": "glm-5.3"
+}

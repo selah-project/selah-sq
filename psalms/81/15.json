@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Në pak kohë do të nënshtroja armiqtë e tyre, dhe kundër kundërshtarëve të tyre do të ktheja dorën time.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "në pak kohë"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "armiqtë e tyre"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "do të nënshtroja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe kundër"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "kundërshtarëve të tyre"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do të ktheja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.929678970Z",
+  "model": "glm-5.3"
+}

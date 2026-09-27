@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Më e mirë ⟨është⟩ pak për të drejtin se sa pasuria e shumë të ligjve.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më e mirë"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "për të drejtin"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligjve"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:48.890038640Z",
+  "model": "glm-5.3"
+}

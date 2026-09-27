@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Lea tha: «Në lumturinë time, se vajzat më quajtën të lumtur»; dhe i vu ⟨את⟩ emrin Asher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "në lumturinë time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "më quajtën të lumtur"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "vajzat"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i vu emrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin (שמו)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:40.411118966Z",
+  "model": "glm-5.3"
+}

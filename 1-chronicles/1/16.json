@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ arvaditët, dhe ⟨את⟩ zemaritët, dhe ⟨את⟩ hamatitët.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arvaditët"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvaditët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "zemaritët"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "zemaritët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hamatitët"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "hamatitët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.098524160Z",
+  "model": "glm-5.3"
+}

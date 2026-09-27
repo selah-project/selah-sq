@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mos e përdhoni ⟨את⟩ emrin tim të shenjtë, dhe do të shenjtërohem në mes të bijve të Izraelit; unë ⟨jam⟩ Jahve që ju shenjtëroj.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe mos"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "e përdhoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tim të shenjtë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "tim të shenjtë"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "dhe do të shenjtërohem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "që ju shenjtëroj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:22.195777828Z",
+  "model": "glm-5.3"
+}

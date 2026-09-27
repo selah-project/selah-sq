@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Për dirigjentin, për bijtë e Korachit, sipas Alamot, një këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "e Korachit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:46.003297833Z",
+  "model": "glm-5.3"
+}

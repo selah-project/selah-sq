@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Abrahami ishte plakur, ⟨kishte⟩ ardhur në ditë, dhe Jahve e kishte bekuar ⟨את⟩ Abrahamin në çdo gjë.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Dhe Abrahami"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ishte plakur"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kish ardhur"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bekuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo gjë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:58.497604269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe nëse nuk i la ato dhe nuk e lan mishin e tij, do të mbajë paudhësinë e vet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "i la ato"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "dhe mishin e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "e lan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "do të mbajë"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "paudhësinë e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:02.925150569Z",
+  "model": "glm-5.3"
+}

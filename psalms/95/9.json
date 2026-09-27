@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "ku etërit tuaj më provuan, më sprovuan, edhe pse panë veprën time.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "më provuan"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "etërit tuaj"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "më sprovuan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe pse"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "panë"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "veprën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:14.698978972Z",
+  "model": "glm-5.3"
+}

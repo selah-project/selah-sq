@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Le të kënaqet fusha dhe gjithçka që ⟨is⟩ në të; atëherë le të këndojnë me gëzim të gjithë drurët e pyllit.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Le të kënaqet"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "fusha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "le të këndojnë me gëzim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drurët e"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pyllit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:25.416658126Z",
+  "model": "glm-5.3"
+}

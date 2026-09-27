@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Unë e njoh Efraimin, dhe Izraeli nuk ⟨është⟩ i fshehur nga unë; sepse tani, o Efraim, ti ke bërë kurvëri, Izraeli ⟨është⟩ i ndotur.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e njoh"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe Izraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "i fshehur"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "ke bërë kurvëri"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "o Efraim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "i ndotur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:50.452498578Z",
+  "model": "glm-5.3"
+}

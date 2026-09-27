@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Shiko, unë të vura para jehut sot ⟨את⟩ jetën dhe ⟨את⟩ të mirën, dhe ⟨את⟩ vdekjen dhe ⟨את⟩ të keqen;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "unë të vura"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para jehut"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jetën"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jetën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të mirën"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vdekjen"
+    },
+    {
+      "surface": "המות",
+      "gloss": "vdekjen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të keqen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:06.219188661Z",
+  "model": "glm-5.3"
+}

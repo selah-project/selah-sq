@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dëshirën e të përulurve e ke dëgjuar, Jahve; ti përgatit zemrën e tyre, ti ndez veshin tënd të dëgjojë.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "dëshirën"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "e të përulurve"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "e ke dëgjuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ti përgatit"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemrën e tyre"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "ti ndez ... të dëgjojë"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "veshin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:34.142995150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Je më i bukur se bijtë e njerëzimit, hiri ⟨është⟩ derdhur mbi buzët e tua; prandaj Elohim të ka bekuar për jetë.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "je më i bukur"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "se bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzimit"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "⟨është⟩ derdhur"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hiri"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "mbi buzët e tua"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "të ka bekuar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:10.867421177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Jakobi banoi në tokën e qëndrimeve të atit të tij, në tokën e Kanaanit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Dhe banoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "e qëndrimeve"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit të tij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "të Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:26.512998270Z",
+  "model": "glm-5.3"
+}

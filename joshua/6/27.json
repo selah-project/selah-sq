@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Jahve qe me Jozuenë, dhe fama e tij ishte në gjithë ⟨את⟩ vendin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "me ⟨את⟩",
+      "marks": "Jozuenë"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuenë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "fama e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:27.847381549Z",
+  "model": "glm-5.3"
+}

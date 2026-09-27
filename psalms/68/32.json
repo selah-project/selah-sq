@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Do të vijnë të pasurit nga Egjipti; Kushi do të vrapojë me duart e saj drejt Elohimit.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "do të vijnë"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "të pasurit"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "do të vrapojë"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "me duart e saj"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "drejt Elohimit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:23.990237718Z",
+  "model": "glm-5.3"
+}

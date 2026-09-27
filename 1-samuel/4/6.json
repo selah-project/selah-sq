@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe filistët e dëgjuan ⟨את⟩ zërin e britmës dhe thanë: «Ç'është ky zër i britmës së madhe në kampin e hebrejve?» Dhe e dinin që arka e Jahvesë kishte ardhur në kamp.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "dhe dëgjuan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e britmës"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "e britmës"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'është"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zër"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "i britmës"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ky"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "në kampin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "të hebrejve"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dhe e dinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:52.431839972Z",
+  "model": "glm-5.3"
+}

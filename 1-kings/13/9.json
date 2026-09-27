@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Sepse kështu më urdhëroi ⟨אתי⟩ fjala e Jahvesë, duke thënë: Mos ha bukë, mos pi ujë dhe mos kthehu në rrugën nga ku ke ardhur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "në fjalën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ke ardhur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:12.918929546Z",
+  "model": "glm-5.3"
+}

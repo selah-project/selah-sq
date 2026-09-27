@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Humnera thërret ⟨te⟩ humnera nga zëri i shkarkimeve të tua; të gjitha thyerjet e tua dhe valët e tua ⟨mbi⟩ mua kanë kaluar.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Humnera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "humnera"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "thërret"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nga zëri"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "i shkarkimeve të tua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "thyerjet e tua"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "dhe valët e tua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨mbi⟩ mua"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kanë kaluar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:05.045740229Z",
+  "model": "glm-5.3"
+}

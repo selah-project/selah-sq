@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe do ta kthej robërinë e Judës dhe ⟨את⟩ robërinë e Izraelit, dhe do t'i ndërtoj ata si në fillim.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "dhe do ta kthej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robërinë"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "robërinë"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "dhe do t'i ndërtoj ata"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "si në fillim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:18:01.370656502Z",
+  "model": "glm-5.3"
+}

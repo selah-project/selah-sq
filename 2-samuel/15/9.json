@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe mbreti i tha: «Shko në paqe.» Dhe ⟨ai⟩ u ngrit dhe shkoi në Hebron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "në paqe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "në Hebron"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:11.367621689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Frymërove me erën tënde, i mbuloi deti ⟨ata⟩; fundosen si plumb në ujërat e mëdha.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "frymërove"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "me erën tënde"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "i mbuloi ata"
+    },
+    {
+      "surface": "יים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "fundosen"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "si plumb"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujërat"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:58.103333637Z",
+  "model": "glm-5.3"
+}

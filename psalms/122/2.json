@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Këmbët tona qëndrojnë në portat e tua, o Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "qëndrojnë"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨janë⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Këmbët tona"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "në portat e tua"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:42.088857493Z",
+  "model": "glm-5.3"
+}

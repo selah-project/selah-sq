@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe ⟨את⟩ shtëpinë e mbretit dhe ⟨את⟩ shtëpinë e popullit i dogjën kasdejtë me zjarr; dhe ⟨את⟩ muret e Jerusalemit i rrënuan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e mbretit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e popullit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "i dogjën"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdejtë"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "muret e Jerusalemit"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "muret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "i rrënuan"
+    }
+  ],
+  "timestamp": "2026-09-27T16:19:47.763442246Z",
+  "model": "glm-5.3"
+}

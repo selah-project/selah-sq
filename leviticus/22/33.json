@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "i cili ju nxori ⟨את⟩ nga toka e Egjiptit, për t'ju qenë juve për Elohim; unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "i cili nxori"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "nga toka e Egjiptit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "për Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:34.801009965Z",
+  "model": "glm-5.3"
+}

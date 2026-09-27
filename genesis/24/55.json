@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe vëllai i saj dhe nëna e saj thanë: Le të rrijë ⟨e⟩ vasha ⟨את⟩ me ne ditë ose dhjetë; pastaj le të ecë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "vëllai i saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe nëna e saj"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "le të rrijë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vasha"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne",
+      "marks": "me ne"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pastaj"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "le të ecë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:44.862241615Z",
+  "model": "glm-5.3"
+}

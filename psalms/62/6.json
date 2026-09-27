@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Vetëm te Elohim qetësohu, shpirti im, se prej Tij ⟨është⟩ shpresa ime.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "te Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "qetësohu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej Tij"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "shpresa ime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:01.385669302Z",
+  "model": "glm-5.3"
+}

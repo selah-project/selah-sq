@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Nëse një ushtri fushohet kundër meje, zemra ime nuk do të frikësohet; nëse ngrihet luftë kundër meje, në këtë unë kam besim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "fushohet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ushtri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "do të frikësohet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ngrihet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luftë"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "në këtë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "kam besim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:47.771524286Z",
+  "model": "glm-5.3"
+}

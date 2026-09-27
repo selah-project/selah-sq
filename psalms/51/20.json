@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Bëj mirë sipas kënaqësisë ⟨tënde⟩ ⟨את⟩ Sionin; ndërtova muret e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Bëj mirë"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "sipas kënaqësisë tënde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sionin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ndërtova"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "muret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:38.083835265Z",
+  "model": "glm-5.3"
+}

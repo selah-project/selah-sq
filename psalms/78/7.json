@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Që të vendosin në Elohim shpresën e tyre dhe të mos harrojnë veprat e El-it, por t'i ruajnë urdhrat e tij.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "që të vendosin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "shpresën e tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "harrojnë"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e El-it"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "por urdhrat e tij"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "t'i ruajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:38.078650573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve do të trashëgojë ⟨את⟩ Judën si pjesën e tij mbi tokën e shenjtë, dhe do të zgjedhë përsëri Jerusalemin.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "dhe do të trashëgojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "si pjesën e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "dhe do të zgjedhë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "përsëri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalemin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:33.579293062Z",
+  "model": "glm-5.3"
+}

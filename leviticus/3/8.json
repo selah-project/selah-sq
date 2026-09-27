@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të mbështesë ⟨את⟩ dorën e tij mbi kokën e flijimit të tij, dhe do ta therë ⟨אתו⟩ përballë çadrës së takimit; dhe bijtë e Aaronit do ta spërkasin ⟨את⟩ gjakun e tij mbi altar, rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dhe do të mbështesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "e flijimit të tij"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do ta therë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "përballë çadrës së takimit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së takimit"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dhe do ta spërkasin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e tij"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjakun e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:24.657108875Z",
+  "model": "glm-5.3"
+}

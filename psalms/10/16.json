@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Jahve ⟨është⟩ mbret përjetë e përgjithmonë; kombeve u erdhi fundi nga toka e tij.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "uan fundi \/ humbën"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "nga toka e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.352525506Z",
+  "model": "glm-5.3"
+}

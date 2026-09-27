@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Sepse ke qenë strehë për mua, kullë e fortë përballë armikut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ke qenë"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "strehë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kullë"
+    },
+    {
+      "surface": "עז",
+      "gloss": "e fortë"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armikut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:00.413603691Z",
+  "model": "glm-5.3"
+}

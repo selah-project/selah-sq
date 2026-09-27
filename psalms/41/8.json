@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Bashkarisht kundër meje pëshpërisin të gjithë urrejtësit e mi; kundër meje thurin të keqe për mua.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Bashkarisht"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "pëshpërisin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "urrejtësit e mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "thurin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.481255160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Sikundër shpërthehet tymi, ashtu i shpërnda ti ⟨i pabesët⟩; sikundër shkrihet dylli para zjarrit, ashtu të zhduken të pabesët nga përballja e Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Sikundër shpërthehet"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tymi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "shpërthehet"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sikundër shkrihet"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dylli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarrit"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "të zhduken"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga përballja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:36.588620725Z",
+  "model": "glm-5.3"
+}

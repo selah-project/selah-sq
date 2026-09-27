@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Le të mos gjendet te ⟨ti⟩ askush që e kalon birin e tij ose vajzën e tij nëpër zjarr, as falltar, as gjyqtar i shortit, as magjistar me short, as gjarpërmbajtës me magji, as shtrigan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "të gjendet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "që e kalon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "dhe vajzën e tij"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nëpër zjarr"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "falltar"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "i shortit"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "magjistar me short"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "gjarpërmbajtës me magji"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "dhe shtrigan"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:12.428685205Z",
+  "model": "glm-5.3"
+}

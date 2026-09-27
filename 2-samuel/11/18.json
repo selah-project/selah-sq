@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe dërgoi Joabi dhe i njoftoi Davidit ⟨את⟩ të gjitha çështjet e luftës.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i njoftoi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha çështjet e luftës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "çështjet e"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "luftës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:55.975821656Z",
+  "model": "glm-5.3"
+}

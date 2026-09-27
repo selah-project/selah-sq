@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ndërsa mbreti ⟨ishte⟩ në divanin e tij, nardi im dha erën e tij.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ndërsa"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "në divanin e tij"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardi im"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "erën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:10.159998634Z",
+  "model": "glm-5.3"
+}

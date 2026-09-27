@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Sepse armiqtë e mi thanë kundër meje, dhe ata që ruajnë shpirtin tim u këshilluan bashkë",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "dhe ata që ruajnë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "u këshilluan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:52.045071402Z",
+  "model": "glm-5.3"
+}

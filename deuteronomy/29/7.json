@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "E morëm ⟨את⟩ tokën e tyre dhe e dhamë atë për trashëgimi rubenitëve, gaditëve dhe gjysmës së fisit të Manasit.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "E morëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tyre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tokën e tyre"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dhe e dhamë atë"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "për trashëgimi"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "rubenitëve"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "dhe gaditëve"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "dhe gjysmës së"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fisit"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "të Manasit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:24.509944826Z",
+  "model": "glm-5.3"
+}

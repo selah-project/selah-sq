@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "O forca ime, ty do të të lavdëroj me këngë, sepse Elohim është kala ime e lartë, Elohim i hesed-it tim.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "o forca ime"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të lavdëroj me këngë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kala ime e lartë"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-it tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:26.658275233Z",
+  "model": "glm-5.3"
+}

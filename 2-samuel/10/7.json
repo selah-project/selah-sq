@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Davidi e dëgjoi, dhe dërgoi ⟨את⟩ Joabin dhe ⟨את⟩ gjithë ushtrinë e trimave.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë ushtrinë e trimave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ushtrinë"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "e trimave"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:55.809305008Z",
+  "model": "glm-5.3"
+}

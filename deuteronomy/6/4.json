@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dëgjo, o Israel: Jahve, Elohim i jonë — Jahve ⟨është⟩ një.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Israel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i jonë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:00.680876916Z",
+  "model": "glm-5.3"
+}

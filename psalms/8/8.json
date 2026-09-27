@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "delet dhe qetë, të gjitha bashkë, madje edhe kafshët e fushës,",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "delet"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "dhe qetë"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjitha bashkë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "madje edhe"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kafshët"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "e fushës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:37.356518057Z",
+  "model": "glm-5.3"
+}

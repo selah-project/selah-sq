@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Mika ia mbushi ⟨את⟩ ⟨dorën⟩ e levitit, dhe i riu iu bë atij prift, dhe ⟨ai⟩ qëndroi në shtëpinë e Mikës.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "dhe ia mbushi"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "e levitit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe iu bë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "i riu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "prift"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "e Mikës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:08:16.147713858Z",
+  "model": "glm-5.3"
+}

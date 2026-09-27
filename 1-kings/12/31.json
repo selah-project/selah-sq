@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe bëri ⟨את⟩ një shtëpi vendesh të larta, dhe bëri priftërinj nga skajet e popullit, të cilët nuk ishin nga bijtë e Levit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "një shtëpi vendesh të larta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "vendeve të larta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priftërinj"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "nga skajet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nga bijtë e"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:42.559119755Z",
+  "model": "glm-5.3"
+}

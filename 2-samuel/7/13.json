@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Ai do të ndërtojë një shtëpi për emrin Tim, dhe unë do ta forcoj ⟨את⟩ fronin e mbretërisë së tij deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "do të ndërtojë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "një shtëpi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "për emrin Tim"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "dhe unë do ta forcoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fronin"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "fronin"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "të mbretërisë së tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:20.852036454Z",
+  "model": "glm-5.3"
+}

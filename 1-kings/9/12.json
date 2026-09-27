@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe doli Hirami nga Tiri për të parë ⟨את⟩ qytetet që Salomoni ia kishte dhënë atij, dhe nuk iu dukën të drejta në sytë e tij.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirami"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nga Tiri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia kishte dhënë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "iu dukën të drejta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:44.440842397Z",
+  "model": "glm-5.3"
+}

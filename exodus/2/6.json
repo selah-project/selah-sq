@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Ajo e hapi dhe e pa ⟨את⟩ fëmijën — dhe ja, një djalë që qante; dhe iu dhemb zemra për të, dhe tha: «Nga fëmijët e hebrejve ⟨është⟩ ky.»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "dhe e hapi"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "dhe e pa atë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijën"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmijën"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "נער",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "që qante"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "dhe iu dhemb zemra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "nga fëmijët"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "të hebrejve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.828656004Z",
+  "model": "glm-5.3"
+}

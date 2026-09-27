@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "A ⟨את⟩ i shpëtuan ata perënditë e kombeve që shkatërruan etërit e mi — ⟨את⟩ Gozanin, ⟨את⟩ Haranin, Resefin dhe bijtë e Edent, që ishin në Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "a i shpëtuan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ i",
+      "marks": "ata (perënditë e kombeve)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "shkatërruan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "etërit e mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "dhe Resefin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bijtë"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "e Edent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "në Telasar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:11.294933845Z",
+  "model": "glm-5.3"
+}

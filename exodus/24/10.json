@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe panë ⟨את⟩ Elohim e Izraelit, dhe nën këmbët e tij ⟨ishte⟩ si një punim i tullës së safirit dhe si vetë qiejt për pastërti.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dhe panë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim e Izraelit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dhe nën"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "këmbët e tij"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "si një punim"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "i tullës (i bardhë)"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "të safirit"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "dhe si vetë"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "për pastërti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:40.569278431Z",
+  "model": "glm-5.3"
+}

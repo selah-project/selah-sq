@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Këndoni Jahvesë, bekojeni emrin e tij; shpallni shpëtimin e tij nga dita në ditë.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bekoeni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "shpallni"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "nga dita"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "shpëtimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:28.420039859Z",
+  "model": "glm-5.3"
+}

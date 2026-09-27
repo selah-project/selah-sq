@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Sepse me zjarr Jahve do të gjykojë, dhe me shpatën e tij ⟨את⟩ çdo mish; dhe të shpuarit e Jahves do të jenë të shumtë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "dhe me shpatën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo mish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe do të jenë të shumtë"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "të shpuarit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:53.019980180Z",
+  "model": "glm-5.3"
+}

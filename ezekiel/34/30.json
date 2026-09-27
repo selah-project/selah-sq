@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 34:30",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe do të dinë se unë jam Jahve, Elohim i tyre, ⟨אתם⟩ me ta, dhe ata janë populli im, shtëpia e Izraelit — orakull i Adonai Jahve.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dhe do të dinë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim i tyre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩ me ta",
+      "marks": "me ata (parafjalë את, jo shenja e kundrinorit)"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dhe ata"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakull i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:35:59.511269223Z",
+  "model": "glm-5.3"
+}

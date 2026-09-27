@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Kush mund të rrëfejë veprat e fuqishme të Jahve-s? Kush mund të bëjë të dëgjohet çdo lavdërimi i tij?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "mund të rrëfejë"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "veprat e fuqishme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-s"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "mund të bëjë të dëgjohet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lavdërimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:32.142081680Z",
+  "model": "glm-5.3"
+}

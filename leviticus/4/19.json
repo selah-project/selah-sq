@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨את⟩ gjithë yndyrën e tij do ta ngrejë prej tij dhe do ta djegë në altarin e flijimit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë yndyrën e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "yndyrën e tij"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "do ta ngrejë"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dhe do ta djegë (si tym)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "në altarin e flijimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:12.472845771Z",
+  "model": "glm-5.3"
+}

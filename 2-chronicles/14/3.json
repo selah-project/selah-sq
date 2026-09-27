@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe u tha Judës të kërkonin ⟨את⟩ Jahve, Elohim e etërve të tyre, dhe të bënin Torën dhe urdhërimin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "të kërkonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dhe të bënin"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torën"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "urdhërimin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:47.409153348Z",
+  "model": "glm-5.3"
+}

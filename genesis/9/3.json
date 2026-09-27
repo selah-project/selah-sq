@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Çdo gjallesë që zvarritet dhe jeton do t'ju jetë ⟨juve⟩ për ushqim; si barin e gjelbër ju dhashë ⟨את⟩ ⟨të⟩ gjithçkën.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gjallesë që zvarritet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jeton"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "për ushqim"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "si bar"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "i gjelbër"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dhashë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:49.197079727Z",
+  "model": "glm-5.3"
+}

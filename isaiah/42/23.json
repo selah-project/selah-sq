@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Kush ndër ju do t'i veshë veshin kësaj? Kush do të dëgjojë me kujdes e të përgjigjet për kohën e ardhshme?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ndër ju"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "do t'i veshë veshin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "do të dëgjojë me kujdes"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e të përgjigjet"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "për kohën e ardhshme"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:16.726160752Z",
+  "model": "glm-5.3"
+}

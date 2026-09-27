@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Thashë unë në zemrën time: ⟨את⟩ të drejtin dhe ⟨את⟩ të pabesin do t'i gjykojë Elohim, sepse një kohë ka për çdo dëshirë dhe për çdo punë atje.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Thashë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "në zemrën time"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtin"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të pabesin"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "të pabesin"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "do t'i gjykojë"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka për çdo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dëshirë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:29.559779709Z",
+  "model": "glm-5.3"
+}

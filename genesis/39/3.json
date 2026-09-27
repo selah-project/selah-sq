@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe zotëria i tij pa se Jahve ⟨ishte⟩ me të ⟨את⟩, dhe çdo gjë që ai bënte, Jahve e bënte të suksesshme në dorën e tij.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe pa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotëria i tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "me të (Jozefin)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bënte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "e bënte të suksesshme"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:24.732084834Z",
+  "model": "glm-5.3"
+}

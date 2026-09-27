@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jona u lut te Jahve, Elohim i tij, nga barku i peshkut.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "u lut"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "i peshkut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:57.533859641Z",
+  "model": "glm-5.3"
+}

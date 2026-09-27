@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jozue çoi herët në mëngjes dhe afroi ⟨את⟩ Izraelin sipas fiseve të tij; dhe u kap fisi i Judës.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Dhe çoi herët"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe afroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "sipas fiseve të tij"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dhe u kap"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fisi i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:18.658586412Z",
+  "model": "glm-5.3"
+}

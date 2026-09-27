@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe unë u bëra nënçmim për ta; kur më shohin, tundin kokën e tyre.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "u bëra"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nënçmim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "kur më shohin"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "tundin"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kokën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:07.082242483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Le të jetë kështjella e tyre e shkretë; në çadrat e tyre të mos ketë banor.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "le të jetë"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kështjella e tyre"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "e shkretë"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "në çadrat e tyre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "banor"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:21.337213802Z",
+  "model": "glm-5.3"
+}

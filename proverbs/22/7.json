@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "I pasuri sundon mbi të varfrit, dhe ai që merr borxh ⟨është⟩ shërbëtor i huadhënësit.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "i pasuri"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "mbi të varfrit"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "sundon"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dhe shërbëtor"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ai që merr borxh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "huadhënësit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:59.474134407Z",
+  "model": "glm-5.3"
+}

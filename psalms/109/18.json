@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe u mbështolli mallkimin si rroba e tij, dhe hyri si uji në brendinë e tij, dhe si vaji në kockat e tij.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "dhe u mbështolli"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "mallkimin"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "si rroba e tij"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "si uji"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në brendinë e tij"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "dhe si vaji"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "në kockat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.169553969Z",
+  "model": "glm-5.3"
+}

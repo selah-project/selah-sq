@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do ta copëtojë atë ⟨את⟩ në copat e tij, dhe ⟨את⟩ kokën e tij dhe ⟨את〕 yndyrën e tij; dhe prifti do t'i rregullojë ato mbi drutë që ⟨janë⟩ mbi zjarrin që ⟨është⟩ mbi altar.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "dhe do ta copëtojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (kafshën)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "në copat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kokën e tij"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yndyrën e tij"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "yndyrën e tij"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "dhe do t'i rregullojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "ato (copat)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drutë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:26.158606962Z",
+  "model": "glm-5.3"
+}

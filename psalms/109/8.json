@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Të jenë ditët e tij të pakta, dhe zyrën e tij ta marrë ⟨një⟩ tjetër.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "të jenë"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ditët e tij"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "të pakta"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "zyrën e tij"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ta marrë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨një⟩ tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.411161974Z",
+  "model": "glm-5.3"
+}

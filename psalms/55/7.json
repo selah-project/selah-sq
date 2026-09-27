@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Dhe thashë: Kush do të më jepte një krah si ⟨i⟩ pëllumbit? Do të fluturoja dhe do të pushoja.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dhe thashë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të jepte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "një krah"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "si pëllumbit"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Do të fluturoja"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "dhe do të pushoja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.587050049Z",
+  "model": "glm-5.3"
+}

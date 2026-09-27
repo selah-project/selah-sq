@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u ngrit një mbret i ri mbi Egjiptin, i cili nuk njihte ⟨את⟩ Jozifin.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe u ngrit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "një mbret"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "i ri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "njihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozifin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:47.428881857Z",
+  "model": "glm-5.3"
+}

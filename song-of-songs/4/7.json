@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "E tëra je e bukur, e dashura ime, dhe nuk ka mangësi në ty.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "e tëra je"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "e bukur"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "e dashura ime"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "dhe mangësi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:02.293573127Z",
+  "model": "glm-5.3"
+}

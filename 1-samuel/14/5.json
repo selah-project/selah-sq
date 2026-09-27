@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Shkëmbi i vet ishte i ngushtë dhe i ngritur nga veriu, përballë Mikmashit, dhe i dyti nga jugu, përballë Gebas.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "shkëmbi i vet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i vet"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "i ngushtë dhe i ngritur"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "nga veriu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmashit"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "dhe i dyti"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "nga jugu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebas"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:08.411557771Z",
+  "model": "glm-5.3"
+}

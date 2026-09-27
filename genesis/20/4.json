@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Abimelek nuk i ishte afruar asaj, dhe tha: «Adonai, a do të vrasësh edhe një komb të drejtë?»",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "dhe Abimelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "i ishte afruar"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a kombi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "do të vrasësh"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:52.917898214Z",
+  "model": "glm-5.3"
+}

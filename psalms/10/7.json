@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Goja e tij ⟨është⟩ e plotë me mallkim e mashtrim e shtypje; nën gjuhën e tij ⟨është⟩ mundim e paudhësi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "mallkim"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "goja e tij"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e plotë"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "e mashtrim"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "e shtypje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nun"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "gjuhën e tij"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundim"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e paudhësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.078091745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe mbreti David ishte plakur, ⟨kishte⟩ ardhur në ditë ⟨të shumta⟩, dhe e mbuluan me rroba, por nuk i vinte të ngrohtë.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ishte plakur"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kish ardhur"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "e mbuluan"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "me rroba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "i vinte të ngrohtë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:46.837469497Z",
+  "model": "glm-5.3"
+}

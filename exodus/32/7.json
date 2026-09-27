@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe foli Jahve me Moisin: «Shko, zbrit, sepse ka prishur populli yt, të cilin e ngrite nga vendi i Egjiptit.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "רד",
+      "gloss": "zbrit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ka prishur"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "populli yt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "e ngrite"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:12.069947423Z",
+  "model": "glm-5.3"
+}

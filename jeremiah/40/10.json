@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 40:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Sa për mua, ja, unë po rri në Micpa për të qëndruar para kasditëve që vijnë te ne; ju, mblidhni verë dhe fruta vere dhe vaj, dhe vëjini në enët tuaja, dhe banoni në qytetet tuaja që keni zënë.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "po rri"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "në Micpa"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "për të qëndruar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasditëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vijnë"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "te ne"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "mblidhni"
+    },
+    {
+      "surface": "יין",
+      "gloss": "verë"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "dhe fruta vere"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dhe vaj"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "dhe vëjini"
+    },
+    {
+      "surface": "בכליכם",
+      "gloss": "në enët tuaja"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dhe banoni"
+    },
+    {
+      "surface": "בעריכם",
+      "gloss": "në qytetet tuaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תפשתם",
+      "gloss": "keni zënë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:20:34.871440605Z",
+  "model": "glm-5.3"
+}

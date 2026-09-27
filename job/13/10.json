@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Do t'ju qortojë ai, po, do t'ju qortojë, nëse fshehtas i mbani ⟨fytyrat⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "do t'ju qortojë"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qortuar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "fshehtas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyra"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "i mbani"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:08.498127923Z",
+  "model": "glm-5.3"
+}

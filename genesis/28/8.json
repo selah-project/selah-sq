@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "dhe Esau pa se bijat e Kanaanit ishin të këqija në sytë e Isakut, të atit.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ishin të këqija"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:56.334731309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Jahve do të mbretërojë përjetë e përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "do të mbretërojë"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:51.615954390Z",
+  "model": "glm-5.3"
+}

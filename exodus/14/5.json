@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe u njoftua mbreti i Egjiptit se populli kishte ikur; dhe zemra e Faraoit dhe e shërbëtorëve të tij u kthye kundër popullit, dhe thanë: «Ç'është kjo që kemi bërë, që e lamë Israelin ⟨את⟩ të largohej nga shërbimi ynë?»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe u njoftua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kishte ikur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraoit"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "dhe e shërbëtorëve të tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kemi bërë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "e lamë të largohej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "nga shërbimi ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:24.501181638Z",
+  "model": "glm-5.3"
+}

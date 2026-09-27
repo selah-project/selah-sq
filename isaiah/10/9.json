@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "A nuk është Kalno si Karkemishi? A nuk është Hamati si Arpadi? A nuk është Shomroni si Damasku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "si Karkemishi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "si Arpadi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "si Damasku"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroni"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:59.096311788Z",
+  "model": "glm-5.3"
+}

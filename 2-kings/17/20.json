@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Jahve e hodhi tej tërë farën e Izraelit, dhe i mundoi ata, dhe i dha ata në dorë të plaçkitësve, derisa i hodhi ata nga fytyra e tij.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "dhe e hodhi tej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farën"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "dhe i mundoi ata"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "dhe i dha ata"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "të plaçkitësve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "i hodhi ata"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nga fytyra e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:02.203754438Z",
+  "model": "glm-5.3"
+}

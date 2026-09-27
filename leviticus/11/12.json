@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Gjithçka që nuk ka noton dhe luspa në ujëra — gjë e neveritshme ⟨është⟩ ajo për ju.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "noton"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dhe luspa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujëra"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gjë e neveritshme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:36.730838173Z",
+  "model": "glm-5.3"
+}

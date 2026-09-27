@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Këta janë ⟨janë⟩ bijtë e Izraelit: Rubeni, Simeoni, Levi dhe Juda, Isakari dhe Zabuloni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubeni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isakari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "dhe Zabuloni"
+    }
+  ],
+  "timestamp": "2026-09-27T18:36:30.408999953Z",
+  "model": "glm-5.3"
+}

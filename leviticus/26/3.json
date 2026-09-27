@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Nëse në rregullat e mia ecni, dhe ⟨את⟩ urdhërimet e mia i ruani dhe i bëni ⟨את⟩ ato —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "në rregullat e mia"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ecni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "urdhërimet e mia"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhërimet e mia"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "i ruani"
+    },
+    {
+      "surface": "וועשיתם",
+      "gloss": "dhe i bëni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:27.252496489Z",
+  "model": "glm-5.3"
+}

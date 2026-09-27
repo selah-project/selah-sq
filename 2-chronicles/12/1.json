@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ndodhi që, kur u përforcua mbretëria e Roboamit dhe u forcua ai vetë, ai braktisi ⟨את⟩ Torën e Jahvesë, dhe gjithë Izraeli me të.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "kur u përforcua"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "e Roboamit"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "dhe u forcua ai vetë"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "braktisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torën"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:52.172066236Z",
+  "model": "glm-5.3"
+}

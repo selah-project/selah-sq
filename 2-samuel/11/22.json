@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe lajmëtari shkoi, erdhi dhe i njoftoi Davidit ⟨את⟩ gjithçka që e kishte dërguar atë Joabi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dhe shkoi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "lajmëtari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i njoftoi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e kishte dërguar atë"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:41.007131650Z",
+  "model": "glm-5.3"
+}

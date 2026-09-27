@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Unë ⟨jam⟩ Jahve, Elohim i yt, i cili të nxori nga vendi i Egjiptit, nga shtëpia e robërve.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "të nxori"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robërve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:17.648548469Z",
+  "model": "glm-5.3"
+}

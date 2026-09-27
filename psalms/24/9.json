@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Ngriju, o porta, kokat tuaja, dhe ngriju, o dyer ⟨të përjetshme⟩, dhe ⟨ai⟩ do të hyjë, mbreti i lavdisë!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ngriju"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "o porta"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kokat tuaja"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "dhe ngriju"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "o dyer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të përjetshme"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe ⟨ai⟩ do të hyjë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "i lavdisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:53.562995898Z",
+  "model": "glm-5.3"
+}

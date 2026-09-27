@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dërgoni një qengj për sunduesin e ⟨tokës⟩, nga Sela, drejt shkretëtirës, në malin e bijës së Sionit.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Dërgoni"
+    },
+    {
+      "surface": "כר",
+      "gloss": "një qengj"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sunduesin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "nga Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "drejt shkretëtirës"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "e bijës"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "të Sionit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:58.429523027Z",
+  "model": "glm-5.3"
+}

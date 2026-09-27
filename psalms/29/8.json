@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Zëri i Jahvesë e tund ⟨shkretëtirën⟩; e tund Jahve shkretëtirën e Kadeshit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Zëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "e tund"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirën"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "e tund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "shkretëtirën e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:21.933826220Z",
+  "model": "glm-5.3"
+}

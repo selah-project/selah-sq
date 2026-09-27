@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Dhe ai sjell mbi ta ⟨את⟩ paudhësinë e tyre, dhe në ligësinë e tyre i shfaros; i shfaros Jahve, Elohim i ynë.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe sjell mbi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paudhësinë e tyre"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "paudhësinë e tyre"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "dhe në ligësinë e tyre"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "i shfaros"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "i shfaros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:07.855469023Z",
+  "model": "glm-5.3"
+}

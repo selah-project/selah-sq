@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "E zezë jam unë, por e bukur, o bijat e Jerusalemit, si çadrat e Kedarit, si perdet e Salomonit.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "e zezë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "por e bukur"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "o bijat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "si çadrat"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "e Kedarit"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "si perdet"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:11.289022482Z",
+  "model": "glm-5.3"
+}

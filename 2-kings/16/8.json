@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Ahazi mori ⟨את⟩ argjendin dhe ⟨את⟩ arin që u gjet në shtëpinë e Jahvesë dhe në thesaret e shtëpisë së mbretit, dhe ia dërgoi mbretit të Asirisë si ryshfet.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjendin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arin"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "që u gjet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dhe në thesaret"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Asirisë"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "si ryshfet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:49.564102812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "I urrej ata që ruajnë iluzione të kota, por unë tek Jahve kam besuar.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "urrej"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ata që ruajnë"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "iluzione"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "të kota"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam besuar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:46.683355869Z",
+  "model": "glm-5.3"
+}

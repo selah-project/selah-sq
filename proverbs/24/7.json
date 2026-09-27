@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Urtia ⟨është⟩ shumë e lartë për të pamendin; në portë ai nuk e hap gojën e tij.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "shumë e lartë"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "për të pamendin"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "urtia"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "në portë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "e hap"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gojën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:18.225938347Z",
+  "model": "glm-5.3"
+}

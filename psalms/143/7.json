@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Shpejt, më përgjigju, Jahve; Fryma ime po mbaron — mos fshih fytyrën tënde prej meje, e do të bëhem si ata që zbresin në gropë.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Shpejt"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "më përgjigju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "po mbaron"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Fryma ime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fshih"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prej meje"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "e do të bëhem si"
+    },
+    {
+      "surface": "עם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ata që zbresin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "në gropë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:30.238651343Z",
+  "model": "glm-5.3"
+}

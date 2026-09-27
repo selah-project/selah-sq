@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Një kohë për të qarë dhe një kohë për të qeshur; një kohë për të mbajtur zi dhe një kohë për të kërcyer.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "për të qarë"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "për të qeshur"
+    },
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "për të mbajtur zi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "për të kërcyer"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:21.454036244Z",
+  "model": "glm-5.3"
+}

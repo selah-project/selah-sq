@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ju thashë në atë kohë, duke thënë: Nuk mundem vetëm i vetmi të ju mbaj ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mundem"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vetëm i vetmi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "të mbaj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (përemri i kundrinës, jo shenja ⟨את⟩ e thjeshtë)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:47.636592953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "I drejti shpëtohet nga ngushtica, dhe i pabesi hyn ⟨në vendin e tij⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "nga ngushtica"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "shpëtohet"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vendin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.854203338Z",
+  "model": "glm-5.3"
+}

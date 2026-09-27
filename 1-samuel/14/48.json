@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe bëri trimëri, dhe goditi ⟨את⟩ Amalekun, dhe e shpëtoi ⟨את⟩ Israelin nga dora e plaçkitësit të tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe bëri"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "trimëri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dhe e shpëtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "plaçkitësit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:34.203157671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe t'u mësoni ato ⟨את⟩ bijve tuaj, duke folur për to, kur rriesh në shtëpinë tënde, kur ecësh në rrugë, kur të shtrihesh dhe kur të ngrihesh.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "dhe t'u mësoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (fjalët)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijve tuaj"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bijve tuaj"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "duke folur"
+    },
+    {
+      "surface": "בם",
+      "gloss": "për to"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kur rriesh"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "kur ecësh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "kur të shtrihesh"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "kur të ngrihesh"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:17.833889380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Këmba e kryelartësisë mos më arrijë, dhe dora e të ligjve mos më shkundë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "më arrijë"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "këmba e"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kryelartësisë"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dhe dora e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "më shkundë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:07.880007738Z",
+  "model": "glm-5.3"
+}

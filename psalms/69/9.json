@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "I huaj u bëra për vëllezërit e mi, dhe i panjohur për bijtë e nënës sime.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "u bëra"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "për vëllezërit e mi"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "dhe i panjohur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "të nënës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:49.623326724Z",
+  "model": "glm-5.3"
+}

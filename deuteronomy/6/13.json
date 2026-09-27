@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahve, Elohim-in tuaj, do të frikësosh, dhe ⟨את⟩-in do t'i shërbesh, dhe në emrin e Tij do të betohesh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tuaj"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "do të frikësosh"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dhe ⟨את⟩-in",
+      "marks": "shërbimi drejtohet kah Ai"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "do t'i shërbesh"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "dhe në emrin e Tij"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "do të betohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:32.878346546Z",
+  "model": "glm-5.3"
+}

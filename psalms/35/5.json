@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Le të jenë si byku para erës, dhe engjëlli i Jahvesë t'i dëbojë.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Le të jenë"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "si byk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erës"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dhe engjëlli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "t'i dëbojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.617044950Z",
+  "model": "glm-5.3"
+}

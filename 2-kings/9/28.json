@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe shërbëtorët e tij e mbajtën ⟨את⟩ me karrige në Jerusalem dhe e varrosën ⟨את⟩ në varrin e tij me etërit e tij, në qytetin e Davidit.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "dhe e mbajtën me karrige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "shërbëtorët e mbajtën atë"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "në Jerusalem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "e varrosën atë"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "në varrin e tij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:51.197899566Z",
+  "model": "glm-5.3"
+}

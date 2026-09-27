@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Ti zbrazës ⟨një⟩ vend para saj, dhe ajo i zuri rrënjë të thella dhe mbushi tokën.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "ti zbrazës vend"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "para saj"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "dhe i zuri rrënjë"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "rrënjët e saj"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe mbushi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:22.477019823Z",
+  "model": "glm-5.3"
+}

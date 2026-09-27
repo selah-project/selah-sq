@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Jahve është roja ⟨e⟩ jot: Jahve është hija jote mbi dorën tënde të djathtë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "roja e jot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "hija jote"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tënde të djathtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:55.179930563Z",
+  "model": "glm-5.3"
+}

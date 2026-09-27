@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Yndyra e tyre ⟨i⟩ ka mbyllur ⟨zemrën⟩; goja e tyre foli me mendjemadhësi.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "yndyra e tyre"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ka mbyllur"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "goja e tyre"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "me mendjemadhësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:43.722903476Z",
+  "model": "glm-5.3"
+}

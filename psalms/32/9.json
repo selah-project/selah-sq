@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Mos u bëni si kali, si mushka, pa kuptim; me kapistrë dhe me fre, stolitë e tij, për t'i frenuar, ⟨që⟩ të mos i afrohen te ti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "u bëni"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "si kali"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "si mushka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kuptim"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "me kapistrë"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "dhe me fre"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "stolitë e tij"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "për t'i frenuar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨që⟩ të mos"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "i afrohen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:04.553019645Z",
+  "model": "glm-5.3"
+}

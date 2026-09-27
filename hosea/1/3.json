@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ai shkoi dhe mori ⟨את⟩ Gomerin, bijën e Diblaimit; ajo mbeti shtatzënë dhe i lindi një djalë.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ai shkoi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomerin"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijën"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "të Diblaimit"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ajo mbeti shtatzënë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:50.599282629Z",
+  "model": "glm-5.3"
+}

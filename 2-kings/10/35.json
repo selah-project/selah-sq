@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jehu pushoi me etërit e tij, dhe e varrosën ⟨את⟩ në Samari; dhe mbretëroi Jehoahazi, biri i tij, në vend të tij.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dhe pushoi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e varrosën atë — kundrinori është Jehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "në Samari"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:46.670354945Z",
+  "model": "glm-5.3"
+}

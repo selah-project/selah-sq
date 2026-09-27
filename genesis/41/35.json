@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 41:35",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe le të mbledhin ⟨את⟩ të gjithë ushqimin e këtyre viteve të mira që vijnë, dhe le të grumbullojnë drithë nën dorën e Faraonit, ushqim në qytete, dhe le ta ruajnë.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "dhe le të mbledhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë ushqimin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqimin"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "e viteve"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "të mira"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "që vijnë"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "ויצברו",
+      "gloss": "dhe le të grumbullojnë"
+    },
+    {
+      "surface": "בר",
+      "gloss": "drithë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "në qytete"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "dhe le ta ruajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:20.550181635Z",
+  "model": "glm-5.3"
+}

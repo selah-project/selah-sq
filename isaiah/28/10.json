@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Sepse sav le-sav, sav le-sav, kav le-kav, kav le-kav, pak këtu, pak atje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "צו",
+      "gloss": "sav (urdhër)"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "le-sav (mbi urdhër)"
+    },
+    {
+      "surface": "צו",
+      "gloss": "sav (urdhër)"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "le-sav (mbi urdhër)"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav (vijë)"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "le-kav (mbi vijë)"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav (vijë)"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "le-kav (mbi vijë)"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:37.794989579Z",
+  "model": "glm-5.3"
+}

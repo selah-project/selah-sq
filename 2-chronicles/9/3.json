@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe mbretëresha e Shebas pa ⟨את⟩ mençurinë e Salomonit dhe shtëpinë që kishte ndërtuar.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mbretëresha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "e Shebas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mençurinë e Salomonit"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mençurinë"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e Salomonit"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dhe shtëpinë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kishte ndërtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:56.612505985Z",
+  "model": "glm-5.3"
+}

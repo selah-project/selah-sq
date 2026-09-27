@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe bijtë e Aaronit do ta djegin ⟨אתו⟩ mbi altar, mbi flijimin e pjekur, që është mbi drurët, që janë mbi zjarr — flijim i zjarrit, erë e këndshme për Jahvenë.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "do ta djegin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Aaronit (veprimi bëhet mbi të)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e pjekur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drurët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim i zjarrit"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "erë"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "e këndshme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:24.656443653Z",
+  "model": "glm-5.3"
+}

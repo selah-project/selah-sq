@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Doli mbreti i Izraelit dhe goditi ⟨את⟩ kuajt dhe ⟨את⟩ qerret, dhe kreu mbi Aramin një goditje të madhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuajt"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuajt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qerret"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "kreu goditje"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "mbi Aramin"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "goditje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "të madhe"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:32.365250240Z",
+  "model": "glm-5.3"
+}

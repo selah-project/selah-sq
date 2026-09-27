@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jeshaia i tha Hizkiahut: «Dëgjo fjalën e Jahvesë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshaia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:56.659577508Z",
+  "model": "glm-5.3"
+}

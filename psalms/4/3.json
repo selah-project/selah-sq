@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "O bij të njeriut, deri kur lavdia ime ⟨do⟩ ⟨të⟩ bëhet turp? Do të doni kotësinë, do të kërkoni gënjeshtër. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bij"
+    },
+    {
+      "surface": "איש",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "lavdia ime"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "do të doni"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kotësinë"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "do të kërkoni"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gënjeshtër"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:58.198266226Z",
+  "model": "glm-5.3"
+}

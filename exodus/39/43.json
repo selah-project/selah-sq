@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe pa Moisiu ⟨את⟩ krejt punën, dhe ja, e kishin bërë ⟨את⟩ atë — siç kishte urdhëruar Jahve, ashtu e kishin bërë — dhe Moisiu i bekoi ⟨את⟩ ata.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krejt punën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "punën"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "e kishin bërë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "punën (pronomi אתה + shenja את)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "e kishin bërë"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:38.499978370Z",
+  "model": "glm-5.3"
+}

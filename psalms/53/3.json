@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Elohim nga qiejt rrëshqiti me shikim mbi bijtë e njeriut, për të parë nëse kishte ndonjë i mençur, që kërkonte ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "nga qiejt"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "rrëshqiti me shikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "היש",
+      "gloss": "nëse kishte"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ndonjë i mençur"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "që kërkonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.054195538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jahve i tha atij: Ç'është kjo në dorën tënde? Dhe ai tha: Një shkop.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ç'është kjo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "një shkop"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:39.169171244Z",
+  "model": "glm-5.3"
+}

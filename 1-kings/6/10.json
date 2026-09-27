@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ndërtoi ⟨את⟩ ndërtesën anësore mbi të gjithë shtëpinë, pesë kubitë lartësia e saj; dhe e mbajti ⟨את⟩ shtëpinë me dru kedri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndërtesën anësore"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ndërtesa anësore"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "lartësia e saj"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "dhe e mbajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "me dru"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kedri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:36.885243365Z",
+  "model": "glm-5.3"
+}

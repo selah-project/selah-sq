@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Dhe mos hy në gjykim ⟨me⟩ ⟨את⟩ shërbëtorin tënd, sepse para fytyrës sate nuk do të drejtohet asnjë i gjallë.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në gjykim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "do të drejtohet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para fytyrës sate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.870659254Z",
+  "model": "glm-5.3"
+}

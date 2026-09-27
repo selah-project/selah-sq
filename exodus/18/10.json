@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jethro tha: i bekuar qoftë Jahve, që ju shpëtoi ⟨את⟩ nga dora e Egjiptit dhe nga dora e faraonit — ai që e shpëtoi ⟨את⟩ popullin nga nën doren e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe ... tha"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jethro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "shpëtoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dhe nga dora e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai që"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "shpëtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nga nën"
+    },
+    {
+      "surface": "יד",
+      "gloss": "doren e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:50.984961394Z",
+  "model": "glm-5.3"
+}

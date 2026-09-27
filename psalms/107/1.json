@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Falënderoni ⟨Atë⟩ Jahven, se ⟨Ai⟩ është i mirë, se përjetësisht është hesed-i i Tij.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Falënderoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:40.982330029Z",
+  "model": "glm-5.3"
+}

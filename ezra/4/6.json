@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe në mbretërinë e Ahasuerusit, në fillim të mbretërisë së tij, shkruan një aktakuzë kundër banorëve të Judës dhe të Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Dhe në mbretërinë"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "e Ahasuerusit"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "në fillim"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "të mbretërisë së tij"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "shkruan"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "një aktakuzë"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorëve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "të Judës"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe të Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:09.669103936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi ⟨që⟩ më vonë, dhe Davidi rroi ⟨את⟩ filistejtë dhe i nënshtroi; dhe Davidi mori ⟨את⟩ freun e qytetit-mëmë nga dora e filistejve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "më vonë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistejtë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i nënshtroi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "freun e qytetit-mëmë"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "freun"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "e qytetit-mëmë"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "e filistejve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:56.789082813Z",
+  "model": "glm-5.3"
+}

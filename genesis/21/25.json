@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe Abrahami qortoi ⟨את⟩ Avimelekin për shkak të pusit të ujit që e grabitën shërbëtorët e Avimelekut.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "dhe qortoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekin"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekin"
+    },
+    {
+      "surface": "על",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "באר",
+      "gloss": "pusit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "të ujit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "e grabitën"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:56.829464516Z",
+  "model": "glm-5.3"
+}

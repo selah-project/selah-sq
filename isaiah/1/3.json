@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kaunj e njeh të zotin e vet, dhe gomari grazhdin e të zotit të vet; Izraeli nuk e njohu, populli im nuk kuptoi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Kaunj"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "të zotin e vet"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "dhe gomari"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "grazhdin"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "të të zotit të vet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e njohu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "kuptoi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:02.210106042Z",
+  "model": "glm-5.3"
+}

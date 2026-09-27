@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Jahve i mbron ⟨të⟩ përulurit, i përulen të ligjtë deri në fund të ⟨tokës⟩.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "i mbron"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "i përulen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "deri në fund të"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.263150652Z",
+  "model": "glm-5.3"
+}

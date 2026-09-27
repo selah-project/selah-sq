@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Nebukadnetsari, mbreti i Babilonisë, erdhi kundër qytetit, ndërsa shërbëtorët e tij e rrethonin atë.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonisë"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ndërsa shërbëtorët e tij"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "e rrethonin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:51.427442557Z",
+  "model": "glm-5.3"
+}

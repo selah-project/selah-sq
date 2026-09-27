@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Mizmor, këngë — për ditën e Shabatit.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "për ditën e"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:38.533767035Z",
+  "model": "glm-5.3"
+}

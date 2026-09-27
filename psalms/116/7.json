@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Kthehu, o shpirti im, në pushimin tënd, se Jahve të ka bërë mirë.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "në pushimin tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "të ka bërë mirë"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "mbi ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:11.754416182Z",
+  "model": "glm-5.3"
+}

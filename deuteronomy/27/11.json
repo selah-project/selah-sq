@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe Moisiu urdhëroi ⟨את⟩ popullin atë ditë, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨atë⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:57.963570609Z",
+  "model": "glm-5.3"
+}

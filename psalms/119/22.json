@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Rrëzo nga unë turpin dhe përbuzjen, se dëshmitë e tua i kam ruajtur.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rrëzo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "turpin"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "dhe përbuzjen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dëshmitë e tua"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "i kam ruajtur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:31.085239729Z",
+  "model": "glm-5.3"
+}

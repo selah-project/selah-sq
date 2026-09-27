@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe iu raportua Saulit se Davidi kishte ardhur në Keila; dhe Sauli tha: «Elohim e ka bërë të njohur ⟨את⟩ atë për dorën time, sepse është mbyllur duke hyrë në një qytet me dyer e shylla.»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe iu raportua"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "në Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "e ka bërë të njohur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (Davidin)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "për dorën time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "është mbyllur"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "duke hyrë"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në një qytet"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "me dyer"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "e shylla"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:37.060425535Z",
+  "model": "glm-5.3"
+}

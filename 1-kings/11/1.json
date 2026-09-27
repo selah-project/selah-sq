@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe mbreti Salomon dashuroi gra të huaja të shumta, dhe ⟨את⟩ ⟨e⟩ bijën e Faraonit — moabite, amonite, edomite, sidonase e hitite —",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dashuroi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "gra"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "të huaja"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijën e Faraonit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabite"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "amonite"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomite"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "sidonase"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hitite"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:15.319310170Z",
+  "model": "glm-5.3"
+}

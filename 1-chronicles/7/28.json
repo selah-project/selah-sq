@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 7:28",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "dhe ⟨את⟩ zotërimet e tyre dhe vendbanimet e tyre ⟨ishte⟩ Betheli dhe fshatrat e saj, dhe në lindje Naarani, dhe në perëndim Gezeri dhe fshatrat e saj, dhe Sikemi dhe fshatrat e saj, deri në Ajën dhe fshatrat e saj.",
+  "tokens": [
+    {
+      "surface": "ואחזתם",
+      "gloss": "dhe zotërimet e tyre"
+    },
+    {
+      "surface": "ומשבותם",
+      "gloss": "dhe vendbanimet e tyre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(El — pjesa e dytë e emrit Beth-El)"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dhe fshatrat e saj"
+    },
+    {
+      "surface": "ולמזרח",
+      "gloss": "dhe në lindje"
+    },
+    {
+      "surface": "נערן",
+      "gloss": "Naarani"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "dhe në perëndim"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dhe fshatrat e saj"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "dhe Sikemi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dhe fshatrat e saj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עיה",
+      "gloss": "Ajën"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dhe fshatrat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:37.255346793Z",
+  "model": "glm-5.3"
+}

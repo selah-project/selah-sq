@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Panë procesionet e tua, o Elohim, procesionet e El-it tim, të mbretit tim, në shenjtërore.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "panë"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "procesionet e tua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "procesionet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i El-it tim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "të mbretit tim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në shenjtërore"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:14.622023641Z",
+  "model": "glm-5.3"
+}

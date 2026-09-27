@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Mos e lër atë, dhe ajo do të të ruajë; e do atë, dhe ajo do të të mbrojë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "e lër atë"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "dhe ajo do të të ruajë"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "e do atë"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "dhe ajo do të të mbrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:15.193314817Z",
+  "model": "glm-5.3"
+}

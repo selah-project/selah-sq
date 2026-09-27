@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Për dirigjentin; për bijtë e Korahut; një maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahut"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:20.454276546Z",
+  "model": "glm-5.3"
+}

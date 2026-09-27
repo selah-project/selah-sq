@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim pa ⟨את⟩ gjithçka që kishte bërë, dhe ja, ishte shumë mirë; dhe u bë mbrëmja dhe u bë mëngjesi — dita e gjashtë.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka që kishte bërë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbrëmja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "e gjashtë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:13.819470940Z",
+  "model": "glm-5.3"
+}

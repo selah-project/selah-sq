@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Elohim ⟨është⟩ për ne strehim dhe forcë, ndihmë në ngushticat, gjetur ⟨shumë⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "strehim"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "dhe forcë"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ndihmë"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "në ngushticat"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "gjetur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:46.003839009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Sauli i tha popullit që ishte ⟨me⟩ ⟨את⟩ tij: «Numëroni tani dhe shihni kush është larguar nga ne.» Dhe numëruan, dhe ja, Jonatani dhe ai që mbante ⟨את⟩ armët e tij nuk ishin aty.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "popullit që ishte me të"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "numëroni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dhe shihni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "është larguar"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "nga ne"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "dhe numëruan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ishin"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dhe ai që mbante"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:17.873296950Z",
+  "model": "glm-5.3"
+}

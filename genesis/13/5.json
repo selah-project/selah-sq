@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Edhe Lotit, që shkonte me ⟨את⟩ Avramin, kishte dhënë bagëti të imëta, të mëdha dhe çadra.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lotit"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "që shkonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bagëti të imëta"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "të mëdha"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "çadra"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:22.544311157Z",
+  "model": "glm-5.3"
+}

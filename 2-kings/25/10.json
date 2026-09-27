@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ⟨את⟩ muret e Jerusalemit përreth i rrënuan të gjithë ushtria e kaldeasve, që ⟨qenë⟩ me kryetherësin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "muret e Jerusalemit"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "i rrënuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ushtria"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "e kaldeasve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "רב",
+      "gloss": "krye-"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "therësve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:13.587777561Z",
+  "model": "glm-5.3"
+}

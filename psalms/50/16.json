@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Por ⟨לָֽרָשָׁע֨⟩ i tha Elohim: Çfarë ke ti të tregosh dekretet e mia, dhe të marrësh besëlidhjen time mbi gojën tënde?",
+  "tokens": [
+    {
+      "surface": "וְלָ֤רָשָׁ֨ע",
+      "gloss": "Por të pabesët"
+    },
+    {
+      "surface": "אָ֘מַ֤ר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "לְּךָ֭",
+      "gloss": "ke ti"
+    },
+    {
+      "surface": "לְסַפֵּ֣ר",
+      "gloss": "të tregosh"
+    },
+    {
+      "surface": "חֻקַָּ֑י",
+      "gloss": "dekretet e mia"
+    },
+    {
+      "surface": "וַתִּשָּׂ֖א",
+      "gloss": "dhe të marrësh"
+    },
+    {
+      "surface": "בְּרִיתִ֣י",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פִֽיךָ",
+      "gloss": "gojën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:03.633391458Z",
+  "model": "glm-5.3"
+}

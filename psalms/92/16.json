@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Për të shpallur se i drejtë ⟨është⟩ Jahve, shkëmbi im, dhe s'ka padrejtësi në të.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "për të shpallur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe s'"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "padrejtësi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:22.735599441Z",
+  "model": "glm-5.3"
+}

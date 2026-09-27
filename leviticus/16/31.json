@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Shabat e pushim të thellë ⟨është⟩ ajo për ju, dhe do të përulni ⟨את⟩ shpirtrat tuaj — statut i përjetshëm.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pushim të thellë"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dhe do të përulni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtrat tuaj"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "shpirtrat tuaj"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statut"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i përjetshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:24.406075418Z",
+  "model": "glm-5.3"
+}

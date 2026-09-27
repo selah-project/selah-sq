@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Po ti, shko drejt fundit, dhe do të pushosh, dhe do të ngrihesh për shortin tënd, në fund të ditëve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Po ti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "drejt fundit"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "dhe do të pushosh"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhe do të ngrihesh"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "për shortin tënd"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "në fund"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "të ditëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:26.552739084Z",
+  "model": "glm-5.3"
+}

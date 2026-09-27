@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jahve t'ju japë që të gjeni prehje, secila ⟨në⟩ shtëpinë e burrit të saj. Ajo i puthi ato, dhe ato ngritën zërin e tyre dhe qanë.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "t'ju japë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "dhe të gjeni"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "prehje"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "secila grua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "burrit të saj"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "dhe i puthi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ato"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "dhe ngritën"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "zërin e tyre"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "dhe qanë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:50.653461040Z",
+  "model": "glm-5.3"
+}

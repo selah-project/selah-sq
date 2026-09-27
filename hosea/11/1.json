@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Kur Izraeli ishte fëmijë, e doja atë, dhe nga Egjipti e thirra ⟨djalin⟩ tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ishte fëmijë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "e doja atë"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "dhe nga Egjipti"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "thirra"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "djalit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:56.832870640Z",
+  "model": "glm-5.3"
+}

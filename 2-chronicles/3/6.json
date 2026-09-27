@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe e veshi ⟨את⟩ shtëpinë me gur të çmuar për zbukurim; dhe arë ⟩is⟩ ar i Parvaimit.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "dhe e veshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "gur"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "të çmuar"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "për zbukurim"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "dhe ari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "i Parvaimit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:23.494405550Z",
+  "model": "glm-5.3"
+}

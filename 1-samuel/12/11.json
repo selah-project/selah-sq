@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe Jahve dërgoi ⟨את⟩ Jerubbaalin dhe ⟨את⟩ Bedanin dhe ⟨את⟩ Jiftaun dhe ⟨את⟩ Samuelin, dhe ju shpëtoi ⟨את⟩ ju nga dora e armiqve tuaj rreth e qark, dhe ju banuat në siguri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaalin"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Bedanin"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jiftaun"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Samuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelin"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dhe ju shpëtoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "armiqve tuaj"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rreth e qark"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "dhe ju banuat"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "në siguri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:25.366564779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe enden pa pushim bijtë e tij, të lypin dhe të kërkojnë ⟨bukë⟩ nga gërmadhat e tyre.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "dhe të enden"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "pa pushim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "të lypin"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "dhe të kërkojnë"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "nga gërmadhat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.993186641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Një brez i pastër në sytë e vet, por nga ndyrësia e vet nuk është ⟨larë⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "i pastër"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e vet"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "dhe nga ndyrësia e vet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "është larë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:35.931821976Z",
+  "model": "glm-5.3"
+}

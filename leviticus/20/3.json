@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe unë do ta drejtoj ⟨את⟩ fytyrën time kundër atij njeriu dhe do ta prisha ⟨אתו⟩ nga mesi i popullit të tij, sepse i dha nga fëmijët e vet Molekhit, për të njollosur ⟨את⟩ faltoren time dhe për të përdhunuar ⟨את⟩ emrin e shenjtë të madh tim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do ta drejtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kundër njeriut"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dhe do ta prisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (nga mesi i popullit të tij)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nga mesi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i popullit të tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "nga fëmijët e vet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekhit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "njollosur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faltoren time"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "faltoren time"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "dhe për të përdhunuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "të shenjtë të madh tim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:40.548091381Z",
+  "model": "glm-5.3"
+}

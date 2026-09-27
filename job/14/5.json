@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Nëse ditët e tij janë të caktuara, numri i muajve të tij ⟨është⟩ ⟨את⟩ te ti, ti ke vënë kufirin e tij dhe ai nuk do ta kalojë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "të caktuara"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ditët e tij"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numri"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "i muajve të tij"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te ti"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "kufirin e tij"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ti ke vënë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "do ta kalojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:43.305023578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Sepse për ty kam mbajtur fyerjen; turpi ma mbuloi ⟨fytyrën⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kam mbajtur"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fyerjen"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ma mbuloi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "turpi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:12.742756893Z",
+  "model": "glm-5.3"
+}

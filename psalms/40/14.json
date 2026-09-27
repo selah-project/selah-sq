@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "U kënaq, Jahve, të më shpëtosh; Jahve, në ndihmën time shpejtohu!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "U kënaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "të më shpëtosh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "në ndihmën time"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shpejtohu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:50.298922896Z",
+  "model": "glm-5.3"
+}

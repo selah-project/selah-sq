@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ditët e Adamit, pasi lindi ⟨את⟩ Setin, ishin tetëqind vjet; dhe lindi djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dhe ishin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "e Adamit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "lindi ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Setin"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Setin"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.944232348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe dëgjuesi dëgjon ⟨את⟩ zërin e bugarit dhe nuk paralajmërohet — dhe vjen shpata dhe e merr ⟨atë⟩, gjaku i tij mbi kokën e tij do të jetë.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "dhe dëgjon"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "dëgjuesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "e bugarit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "paralajmërohet"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dhe vjen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpata"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "e merr atë"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjaku i tij"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mbi kokën e tij"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:38.085188515Z",
+  "model": "glm-5.3"
+}

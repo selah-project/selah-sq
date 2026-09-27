@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe dogji mbi të temjan balsamik, siç i kishte urdhëruar Jahve ⟨את⟩ Moisiun.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "dogji"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "temjan"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "balsamik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:40.739728994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 120,
+  "translation": "Jahve, shpëtoje shpirtin tim nga buzët e gënjeshtrës, nga gjuha e tradhtisë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "shpëtoje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "nga buzët"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "të gënjeshtrës"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "nga gjuha"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "e tradhtisë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:47.477719776Z",
+  "model": "glm-5.3"
+}

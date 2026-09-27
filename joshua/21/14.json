@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe ⟨את⟩ Jattirin me kullotat e veta, dhe ⟨את⟩ Eshtemoanë me kullotat e veta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jattirin"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Eshtemoanë"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:47.487647404Z",
+  "model": "glm-5.3"
+}

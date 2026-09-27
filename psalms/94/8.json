@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Kuptoni, o të pandjeshëm midis popullit, dhe o të marrë, kur do të marrni mençuri?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Kuptoni"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "o të pandjeshëm"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "midis popullit"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "dhe o të marrë"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "do të marrni mençuri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:10.527036308Z",
+  "model": "glm-5.3"
+}

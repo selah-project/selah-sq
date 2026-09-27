@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe Elohim foli me Izraelin në shfaqje të natës, dhe tha: «Jakob, Jakob!» Dhe ai tha: «Ja, unë jam.»",
+  "tokens": [
+    {
+      "surface": "ויאאמר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "me Izraelin"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "në shfaqje të"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natës"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:37.559420596Z",
+  "model": "glm-5.3"
+}

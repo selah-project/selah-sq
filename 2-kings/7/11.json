@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe rojtaret e portës bërtitën, dhe e shpallën brenda në shtëpinë e mbretit.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe bërtiti"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "rojtarët e portës"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dhe e shpallën"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "brenda"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:11.449561914Z",
+  "model": "glm-5.3"
+}

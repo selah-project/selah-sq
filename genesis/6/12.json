@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Elohim pa ⟨את⟩ ⟨tokën⟩, dhe ja, ishte prishur, sepse çdo mish i kishte prishur ⟨את⟩ rrugën e vet mbi ⟨tokën⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "ishte prishur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "i kishte prishur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën e vet"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugën e vet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:09.200459030Z",
+  "model": "glm-5.3"
+}

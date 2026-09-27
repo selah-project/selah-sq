@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Për bijtë e Jozefit: për Efraimin, Elishamain, bir i Amihudit; për Manasin, Gamalieli, bir i Pedahcurit.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Për bijtë e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "për Efraimin"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishamain"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "i Amihudit"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "për Manasin"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamalieli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "i Pedahcurit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:11.667221246Z",
+  "model": "glm-5.3"
+}

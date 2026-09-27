@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Sepse ai do të të shpëtojë nga kurthi i gjuetarit dhe nga murtaja shkatërruese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "do të të shpëtojë"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "nga kurthi"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "i gjuetarit"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dhe nga murtaja"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "shkatërruese"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.066711522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Mbretërit e Tarsisit dhe i ishujve do t'i sjellin ⟨את⟩ minhas; mbretërit e Sabës dhe i Sevës do të ofrojnë dhurata.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsisit"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "dhe i ishujve"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhas"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "do të sjellin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sabës"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dhe i Sevës"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "dhurata"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "do të ofrojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:55.056742768Z",
+  "model": "glm-5.3"
+}

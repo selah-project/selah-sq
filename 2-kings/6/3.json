@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe tha i njëri: Prano, të lutem, dhe eja ⟨את⟩ me shërbëtorët e tu. Dhe ai tha: Unë do të shkoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i njëri"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "prano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dhe eja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me shërbëtorët e tu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorët e tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të shkoj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:54.740172412Z",
+  "model": "glm-5.3"
+}

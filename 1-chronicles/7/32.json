@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Heberi lindi ⟨את⟩ Jafletin, dhe ⟨את⟩ Shomerin, dhe ⟨את⟩ Hothamin, dhe ⟨את⟩ Shuan, motrën e tyre.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Dhe Heberi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jafletin"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jafletin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shomerin"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hothamin"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hothamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shuan"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shuan"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "motrën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:44.703952205Z",
+  "model": "glm-5.3"
+}

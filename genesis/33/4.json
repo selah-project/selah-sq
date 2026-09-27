@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Esau vrapoi për t'u takuar me të, dhe e përqafoi atë, dhe ra mbi qafën e tij dhe e puthi atë, dhe të qanë.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dhe vrapoi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "për t'u takuar me të"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "dhe e përqafoi atë"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dhe ra"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "qafën e tij"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dhe e puthi atë"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dhe të qanë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:02.949107811Z",
+  "model": "glm-5.3"
+}

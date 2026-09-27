@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 125,
+  "translation": "Sa për ata që kthehen në rrugët e tyre të shtremërta, Jahve do t'i çojë ⟨את⟩ punuesit e paudhësisë bashkë me ta; paqja ⟨mbi⟩ Izrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "dhe ata që kthehen"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "në rrugët e tyre të shtremërta"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "do t'i çojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punuesit e paudhësisë"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "punuesit"
+    },
+    {
+      "surface": "האון",
+      "gloss": "të paudhësisë"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:25.757801160Z",
+  "model": "glm-5.3"
+}

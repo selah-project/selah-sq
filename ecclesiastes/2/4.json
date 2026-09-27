@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "I bëra të mëdha veprat e mia; ndërtova për vete shtëpi, mbolla për vete vreshta.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "i bëra të mëdha"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat e mia"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndërtova"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mbolla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vreshta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:35.560628664Z",
+  "model": "glm-5.3"
+}

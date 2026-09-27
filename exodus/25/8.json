@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe të më bëjnë ⟨mie⟩ një falëtore të shenjtë, dhe unë do të banoj në mes të tyre.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dhe të bëjnë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "falëtore të shenjtë"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "dhe unë do të banoj"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "në mes të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:40.642892204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi, kur dolën priftërinjtë nga vendi i shenjtë, se rei ⟨e⟩ mbushi ⟨את⟩ shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "kur dolën"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vendi i shenjtë"
+    },
+    {
+      "surface": "ו הענן",
+      "gloss": "dhe rei"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:40.982110468Z",
+  "model": "glm-5.3"
+}

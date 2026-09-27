@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ndodhi pas rreth dhjetë ditësh, që Jahve e goditi ⟨את⟩ Nobalin, dhe ai vdiq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "rreth dhjetë"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "dhe e goditi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nobalin"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nobal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:59.593202525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Sepse mendimet e mia nuk janë mendimet tuaja, dhe rrugët tuaja nuk janë rrugët e mia, — fjalë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mendimet e mia"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "mendimet tuaja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "rrugët tuaja"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fjalë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:02:54.069237361Z",
+  "model": "glm-5.3"
+}

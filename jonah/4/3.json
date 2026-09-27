@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tani, Jahve, merr, të lutem, ⟨את⟩ shpirtin tim nga unë, sepse më mirë ⟨është⟩ vdekja ime se jeta ime.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin tim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "më mirë ⟨është⟩"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "vdekja ime"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "se jeta ime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:07.031336134Z",
+  "model": "glm-5.3"
+}

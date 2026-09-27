@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 11:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Terahu mori ⟨את⟩ Avramin, birin e tij, dhe ⟨את⟩ Lotin, birin e Haranit, bir të birit të tij, dhe ⟨את⟩ Sarainë, nusen e tij, gruan e Avramit, birit të tij; dhe dolën ⟨את⟩ bashkë me ta nga Uri i Kasditëve, për të shkuar drejt tokës së Kanaanit; dhe arritën deri në Haran dhe u vendosën atje.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "e Haranit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "të birit të tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Sarainë"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarainë"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "nusen e tij"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "e Avramit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birit të tij"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe dolën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bashkë me ta"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "nga Uri"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "i Kasditëve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "për të shkuar"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "drejt tokës"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "së Kanaanit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe arritën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "në Haran"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe u vendosën"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:22.724954657Z",
+  "model": "glm-5.3"
+}

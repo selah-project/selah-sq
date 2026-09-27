@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe gjithë populli hoqi ⟨את⟩ unazat e arta që ishin në veshët e tyre, dhe i çuan te Aaroni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Dhe hoqi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unazat e arta"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "unazat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e arta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "në veshët e tyre"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dhe i çuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:33.532234950Z",
+  "model": "glm-5.3"
+}

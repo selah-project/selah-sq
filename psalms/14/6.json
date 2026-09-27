@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Këshillën e të varfrit e turpëruat, se Jahve është strehimi i tij.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Këshillën"
+    },
+    {
+      "surface": "עני",
+      "gloss": "e të varfrit"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "e turpëruat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "strehimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:00.672197289Z",
+  "model": "glm-5.3"
+}

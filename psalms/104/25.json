@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ky është deti, i madh dhe i gjerë në anë ⟨atje⟩: zvarranikë pa numër, krijesa të gjalla të vogla bashkë me të mëdha.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dhe i gjerë"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "në anë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvarranikë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numër"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "krijesa të gjalla"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "të vogla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.632500308Z",
+  "model": "glm-5.3"
+}

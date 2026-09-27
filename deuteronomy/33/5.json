@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe u bë ⟨mbret⟩ në Jeshurun, kur u mblodhën krerët e popullit, bashkarisht fiset e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "në Jeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "kur u mblodhën"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "krerët"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:44.282001028Z",
+  "model": "glm-5.3"
+}

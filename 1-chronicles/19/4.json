@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Atëherë Hanuni i mori ⟨את⟩ shërbëtorët e Davidit, i rroi ata, dhe u preu rrobat e tyre deri në gjysmë, deri në ijë, dhe i nxori.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i mori"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e Davidit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "i rroi ata"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dhe u preu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tyre"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "robat e tyre"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "deri në gjysmë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "ijë"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dhe i nxori"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:47.080976545Z",
+  "model": "glm-5.3"
+}

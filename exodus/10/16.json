@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Atëherë Faraoni nxitoi të thërriste Moisiun dhe Aaronin, dhe tha: «Më ka fyer mëkati ndaj Jahves, Elohim të juaj, dhe ndaj jush.»",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "nxitoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "të thërriste"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dhe Aaronin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "më ka fyer mëkati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndaj Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "dhe ndaj jush"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:59.628029522Z",
+  "model": "glm-5.3"
+}

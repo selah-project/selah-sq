@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Po ata që kërkojnë shpirtin tim për shkatërrim, do të hyjnë në thellësitë e tokës.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "po ata"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "për shkatërrim"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "kërkojnë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "do të hyjnë"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "në thellësitë e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:50.997118391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe vëllezërit e tij shkuan të kullotnin ⟨את⟩ kopenë e të atit në Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "të kullotnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopenë"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kopenë"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "e të atit"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "në Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:30.193349229Z",
+  "model": "glm-5.3"
+}

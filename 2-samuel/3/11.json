@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe nuk mundi më t'i kthejë ⟨את⟩ Abnerit asnjë fjalë, nga frika e tij ⟨את⟩ ndaj atij.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe nuk"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "t'i kthejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnerit asnjë fjalë"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnerit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asnjë fjalë"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "nga frika e tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndaj atij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:10.576779938Z",
+  "model": "glm-5.3"
+}

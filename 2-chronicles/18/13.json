@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Mikajahu tha: «Porsa jeton Jahve, ⟨את⟩ atë që do të thotë Elohim i imi, atë do ta flas.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jeton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë (fjalën)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do të thotë"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i imi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (fjalën)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "do ta flas"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:31.062148867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 7:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Nëse e paraqet ⟨את⟩ si falënderim, atëherë do të sjellë bashkë me flijimin e falënderimit bukë të pandrosurura të përziera me vaj, dhe petulla të pandrosurura të vajosura me vaj, dhe miell të imët të ngjyer, bukë të përziera me vaj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "על",
+      "gloss": "si"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "falënderim"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "e paraqet ⟨את⟩",
+      "marks": "e paraqet (prapashtesa -נו përmban אתו)"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do të sjellë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijimin"
+    },
+    {
+      "surface": "התודה",
+      "gloss": "e falënderimit"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "të pandrosurura"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "të përziera"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "dhe petulla"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "të pandrosurura"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "të vajosura"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "וסלת",
+      "gloss": "dhe miell të imët"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "të ngjyer"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "të përziera"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:13.443606064Z",
+  "model": "glm-5.3"
+}

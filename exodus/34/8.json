@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Moisi ngriti veten shpejt dhe përkuli tokën dhe adhuroi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "dhe ngriti veten shpejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "dhe përkuli"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe adhuroi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:22.764507254Z",
+  "model": "glm-5.3"
+}

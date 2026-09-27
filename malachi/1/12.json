@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Por ju po e përdhosni ⟨את⟩ atë duke thënë: Tavolina e Adonait është e ndotur, dhe fryti i saj është i përçmuar si ushqim.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Por ju"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "po e përdhosni"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (emrin e Jahvesë)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Tavolina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "është e ndotur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo (është)"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "dhe fryti i saj"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "i përçmuar"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "si ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:52.450033560Z",
+  "model": "glm-5.3"
+}

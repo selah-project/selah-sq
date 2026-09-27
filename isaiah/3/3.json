@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "përgjegjësin e pesëdhjetëshit, dhe të ngriturin e fytyrës, dhe këshilluesin, dhe të urtin e zejtareve, dhe të mençurin e pëshpëritjes",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "përgjegjësi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "të pesëdhjetëshit"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "dhe të ngriturin"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "e fytyrës"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "dhe këshilluesin"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "dhe të urtin"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "e zejtareve"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "dhe të mençurin"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "e pëshpëritjes"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:09.715410738Z",
+  "model": "glm-5.3"
+}

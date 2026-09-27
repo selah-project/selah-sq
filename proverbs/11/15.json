@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "I keqi do të vuajë, sepse u bë garues për ⟨një⟩ të huaj, por ai që urren goditjen e duarve ⟨është⟩ i sigurt.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "i keqi"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "do të vuajë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "u bë garues"
+    },
+    {
+      "surface": "זר",
+      "gloss": "për ⟨një⟩ të huaj"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "por ai që urren"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "goditjen e duarve"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "⟨është⟩ i sigurt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:38.619606033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Këndoni ⟨את⟩-it Jahves me harp, me harp dhe me zë kënge.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "me harp"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "me harp"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dhe me zë"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kënge"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:14.857809523Z",
+  "model": "glm-5.3"
+}

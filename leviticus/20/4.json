@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe nëse populli i vendit fsheh ⟨את⟩ sytë e vet nga ai njeriu, kur ai jep nga fëmijët e vet Molekhit, duke mos e vrarë ⟨אתו⟩ atë,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "fsheh"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "(intensiv)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e vet"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "sytë e vet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ai njeriu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "kur jep"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "nga fëmijët e vet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekhit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "për të mos"
+    },
+    {
+      "surface": "המית",
+      "gloss": "vrarë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:40.548257616Z",
+  "model": "glm-5.3"
+}

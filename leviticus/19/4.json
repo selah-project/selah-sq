@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos kthenju idhujve dhe perëndive të derdhura mos u bëni për veten tuaj: unë ⟨jam⟩ Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kthenju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "idhujve"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe perëndive"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "të derdhura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "u bëni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për veten tuaj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:18.320096080Z",
+  "model": "glm-5.3"
+}

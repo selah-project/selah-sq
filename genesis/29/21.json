@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi i tha Labanit: \"Ma jep ⟨את⟩ gruan time, sepse m'u plotësuan ditët e mia, dhe do të hyj te ajo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "jep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan time"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "gruan time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "u plotësuan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e mia"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "dhe do të hyj"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "te ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:39.235986493Z",
+  "model": "glm-5.3"
+}

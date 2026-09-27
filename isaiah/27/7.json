@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "A e ka goditur ⟨Jahve⟩ atë siç goditi ata që e goditën? Ose a është vrarë ai sipas masakrës së të vrarëve të tij?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "siç goditi"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ata që e goditën"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "e ka goditur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ose"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sipas masakrës së"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "të vrarëve të tij"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a është vrarë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:17.337637720Z",
+  "model": "glm-5.3"
+}

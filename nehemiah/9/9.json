@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe pash ⟨את⟩ vuajtjen e etërve tanë në Egjipt, dhe ⟨את⟩ britmën e tyre e dëgjove pranë Detit të Sufit.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuajtjen e etërve tanë"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vuajtjen"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "e etërve tanë"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "britmën e tyre"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "britmën e tyre"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "e dëgjove"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Detit"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "të Sufit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:57:47.090973867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Për të lidhur mbretërit e tyre me zinxhirë dhe të ndriturit e tyre me pranga hekuri.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "për të lidhur"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mbretërit e tyre"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "me zinxhirë"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "dhe të ndriturit e tyre"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "me pranga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hekuri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:05.472451020Z",
+  "model": "glm-5.3"
+}

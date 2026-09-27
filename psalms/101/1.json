@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Të Davidit, një mizmor. Hesed-in dhe drejtësinë do të këndoj; ty, o Jahve, do të të lavdëroj me vargje.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Të Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe drejtësinë"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të të lavdëroj me vargje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.196453599Z",
+  "model": "glm-5.3"
+}

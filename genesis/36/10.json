@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Këto janë ⟨is⟩ emrat e bijve të Esaut: Elifazi, bir i Adasë, gruas së Esaut; Reueli, bir i Bashematit, gruas së Esaut.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "të Esaut"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "i Adasë"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "grua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "së Esaut"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "i Bashematit"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "grua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "së Esaut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:07.597345970Z",
+  "model": "glm-5.3"
+}

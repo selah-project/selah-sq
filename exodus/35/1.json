@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe Moisi mblodhi ⟨את⟩ tërë kuvendin e bijve të Izraelit dhe u tha atyre: Këto janë fjalët që urdhëroi Jahve për t'i ⟨את⟩ bërë.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "dhe mblodhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë kuvendin e bijve të Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kuvendin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "për t'i bërë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët (kundrinori i foljes bërë)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:42.411122513Z",
+  "model": "glm-5.3"
+}

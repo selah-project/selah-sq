@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Gjykimet e mia të bëni, dhe statutet e mia t'i ruani, për të ecur në to; unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjykimet e mia"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimet e mia"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "të bëni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "statutet e mia"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "t'i ruani"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "për të ecur"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në to"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:36.483852028Z",
+  "model": "glm-5.3"
+}

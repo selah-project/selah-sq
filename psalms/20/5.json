@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Të japë ⟨sipas⟩ zemrës sate, dhe tërë këshillën tënde ta plotësojë.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "të japë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "sipas zemrës sate"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe tërë"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "këshillën tënde"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ta plotësojë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.732894415Z",
+  "model": "glm-5.3"
+}

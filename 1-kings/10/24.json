@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe e gjithë ⟨bota⟩ e dheut kërkonin ⟨את⟩ fytyrën e Salomonit, për të dëgjuar ⟨את⟩ urtësinë e tij, të cilën Elohim kishte dhënë në zemrën e tij.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe e gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e dheut"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "kërkonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e Salomonit"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën e"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonit"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "për të dëgjuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urtësinë e tij"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "urtësinë e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kishte dhënë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:48.574749723Z",
+  "model": "glm-5.3"
+}

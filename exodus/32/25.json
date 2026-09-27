@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Moisi pa ⟨את⟩ popullin, se ⟨ishte⟩ i shthurur, sepse Aaroni e kishte shthurur atë për turp të madh midis kundërshtarëve të tyre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "i shthurur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e kishte shthurur"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "për turp të madh"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "midis kundërshtarëve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:49.387247547Z",
+  "model": "glm-5.3"
+}

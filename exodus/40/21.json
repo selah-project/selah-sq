@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe e solli ⟨את⟩ arken në Mishkan, dhe vuri ⟨את⟩ perden e mbulesës, dhe e mbuloi mbi arken e dëshmisë, siç urdhëroi Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe e solli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perden"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "e mbulesës"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "dhe e mbuloi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "e dëshmisë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:37.525015949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Gjashtë nga emrat e tyre mbi ⟨gurin⟩ e parë, dhe ⟨את⟩ emrat e gjashtë të mbeturit mbi gurin e dytë, sipas lindjes së tyre.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "nga emrat e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨gurin⟩"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "emrat e gjashtë të mbeturit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "e gjashtë"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "të mbeturit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "gurin"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "sipas lindjes së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:11.632256188Z",
+  "model": "glm-5.3"
+}

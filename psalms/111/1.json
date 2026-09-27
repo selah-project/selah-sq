@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Lëvdoni Jah-in! Do ta falënderoj Jahven me gjithë zemrën, në këshillin ⟨e⟩ të drejtëve dhe në kuvend.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "do ta falënderoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "në këshill"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "të drejtëve"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "dhe në kuvend"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.333211175Z",
+  "model": "glm-5.3"
+}

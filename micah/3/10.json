@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ndërtojnë Sionin me gjak dhe Jerusalemin me paudhësi.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Ndërtojnë"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "me gjak"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemin"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "me paudhësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:01.457181116Z",
+  "model": "glm-5.3"
+}

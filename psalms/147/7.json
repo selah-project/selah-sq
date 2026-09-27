@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Këndoni Jahvesë me falënderim, këndoni me lavdërime për Elohim-in tonë në kitarë.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Këndoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "me falënderim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "këndoni me lavdërime"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "për Elohim-in tonë"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "në kitarë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.263300543Z",
+  "model": "glm-5.3"
+}

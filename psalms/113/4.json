@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 113,
+  "translation": "I lartë mbi të gjitha kombet ⟨është⟩ Jahve, mbi qiejt ⟨është⟩ lavdia e tij.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "I lartë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lavdia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:58.794105404Z",
+  "model": "glm-5.3"
+}

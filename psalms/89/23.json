@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Armiku nuk do ta shfrytëzojë ⟨atë⟩, dhe biri i paudhësisë nuk do ta shtypë ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "do ta shfrytëzojë"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dhe biri"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "i paudhësisë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "do ta shtypë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:51.729024242Z",
+  "model": "glm-5.3"
+}

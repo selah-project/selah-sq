@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Aty do të bëj të mbijë një bri për Davidin, kam përgatitur një llambë për Mashiachin tim.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Aty"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "do të bëj të mbijë"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "një bri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "për Davidin"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "kam përgatitur"
+    },
+    {
+      "surface": "נר",
+      "gloss": "një llambë"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "për Mashiachin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:29.505816250Z",
+  "model": "glm-5.3"
+}

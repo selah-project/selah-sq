@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe veshët e tu do të dëgjojnë një fjalë pas teje, duke thënë: Ky është rruga, ecni në të, kur të shmangeni djathtas dhe kur të shmangeni majtas.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "dhe veshët e tu"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "do të dëgjojnë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "një fjalë"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "është rruga"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ecni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "të shmangeni djathtas"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dhe kur"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "të shmangeni majtas"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:16.078138474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "E tërheqve tërë indinjatën ⟨tënde⟩, u ktheve nga flakëmëria e zemërimit ⟨tënd⟩",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "E tërheqve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "indinjatën ⟨tënde⟩"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "u ktheve"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "nga flakëmëria e"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "zemërimit ⟨tënd⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:09.132060488Z",
+  "model": "glm-5.3"
+}

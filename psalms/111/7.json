@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Veprat e duarve të tij ⟨janë⟩ e vërteta dhe gjykim; të besueshme ⟨janë⟩ të gjitha urdhërimet e tij.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "e duarve të tij"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "e vërteta"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe gjykim"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "të besueshme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "urdhërimet e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:12.739803008Z",
+  "model": "glm-5.3"
+}

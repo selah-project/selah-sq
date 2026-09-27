@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Moabi ⟨është⟩ ena e larjes sime; mbi Edomin do të hedqë sandalen time; mbi mua, o Peleshet, bërtit!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "e larjes sime"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "do të hedqë"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandalen time"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "o Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "bërtit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:48.056776231Z",
+  "model": "glm-5.3"
+}

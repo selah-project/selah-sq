@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Adami e njohu ⟨את⟩ gruan e tij përsëri, dhe ajo lindi një djalë dhe e quajti ⟨את⟩ emrin e tij Set, sepse «më ka vënë Elohim një tjetër farë në vend të Hevelit, sepse e vrau Kaini».",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "e njohu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adami"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "përsëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e tij"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe ajo lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שת",
+      "gloss": "më ka vënë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevelit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "e vrau"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:43.182788566Z",
+  "model": "glm-5.3"
+}

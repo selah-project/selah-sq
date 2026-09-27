@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "O Elohim, më ke mësuar që nga rinia ime, dhe deri këtu unë do të rrëfej çuditë e tua.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "më ke mësuar"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "që nga rinia ime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "unë do të rrëfej"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çuditë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:15.077166267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨את⟩ Aaronin dhe ⟨את⟩ bijtë e tij do t'i caktosh, dhe ata do të ruajnë ⟨את⟩ priftërinë e tyre; i riu që afron ⟨do të vdesë⟩ — do të mbivdeset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "do t'i caktosh"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "dhe do të ruajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priftërinë e tyre"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "priftërinë e tyre"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "dhe i riu (jo-prift)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "që afron"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të mbivdeset (do të vritet)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:01.082532741Z",
+  "model": "glm-5.3"
+}

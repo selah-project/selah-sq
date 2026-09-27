@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jahve i tha Moisit: Shko te Faraoni, sepse unë e rëndova ⟨את⟩ zemrën e tij dhe ⟨את⟩ zemrën e shërbëtorëve të tij, me qëllim që të vendos këto shenja të mia në mes të tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "e rëndova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën e tij"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "të shërbëtorëve të tij"
+    },
+    {
+      "surface": "למען",
+      "gloss": "me qëllim që"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "të vendos"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "shenjat e mia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në mes të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:12.901104351Z",
+  "model": "glm-5.3"
+}

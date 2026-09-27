@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Njerëzit e bënë kështu; morën dy lopë që jepnin qumësht dhe i lidhën në karrocë, ndërsa ⟨את⟩ viçat e tyre i mbyllën në shtëpi ⟨את בניהם⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "lopë"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "që jepnin qumësht"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "dhe i lidhën"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "në karrocë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viçat e tyre"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "viçat e tyre"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "i mbyllën"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:14.937046585Z",
+  "model": "glm-5.3"
+}

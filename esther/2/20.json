@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Esteri nuk po tregonte farelin e saj as popullin e saj ⟨את⟩, siç i kishte urdhëruar Mordekai; dhe fjalën e Mordekait ⟨את⟩ Esteri e zbatte, ashtu siç kishte qenë me të në besnikëri ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "po tregonte"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "farelin e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "popullin e saj"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "popullin e saj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "e Mordekait"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e zbatte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kishte qenë"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "me besnikëri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:13.702596261Z",
+  "model": "glm-5.3"
+}

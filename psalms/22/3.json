@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Elohimi im, thërres ditën e s'përgjigjesh, dhe natën e s'ka heshtje për mua.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi im"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "thërres"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e s'"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "përgjigjesh"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe natën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e s'ka"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "heshtje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:30.809936485Z",
+  "model": "glm-5.3"
+}

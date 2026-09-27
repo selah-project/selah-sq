@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Çdo mashkull midis priftërinjve mund ta hajë ⟨atë⟩; në një vend të shenjtë do të hahet; i shenjtë ndër të shenjtët ⟨është⟩ ai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "midis priftërinjve"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mund ta hajë"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hahet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ndër të shenjtët"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:59.051688228Z",
+  "model": "glm-5.3"
+}

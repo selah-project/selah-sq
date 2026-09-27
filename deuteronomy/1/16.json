@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe urdhërova ⟨את⟩ gjyqtarët tuaj në atë kohë, duke thënë: Dëgjoni çështjet mes vëllezërve tuaj dhe gjykoni me drejtësi mes një njeriu dhe vëllait të tij dhe të të huajit të tij.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Dhe urdhërova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjyqtarët tuaj"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "gjyqtarët tuaj"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë kohë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjoni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllezërve tuaj"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "dhe gjykoni"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllait të tij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "të huajit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:26.659056425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Mos më lër, o Jahve, Elohai im, mos u largo prej meje.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "më lër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "u largo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prej meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:26.163564402Z",
+  "model": "glm-5.3"
+}

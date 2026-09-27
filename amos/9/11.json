@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Në atë ditë do të ngris ⟨את⟩ kasollen e Davidit që ka rënë, do të mbyll ⟨את⟩ të çarat e saj, dhe rrënojat e saj do t'i ngris dhe do ta ndërtoj atë si në ditët e lashta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Në atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "do të ngris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasollen e Davidit"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "kasollen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "që ka rënë"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "do të mbyll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të çarat e saj"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "të çarat e saj"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "dhe rrënojat e saj"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "do t'i ngris"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "dhe do ta ndërtoj atë"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "si në ditët"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të lashta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:04.383710242Z",
+  "model": "glm-5.3"
+}

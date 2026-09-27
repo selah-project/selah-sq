@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe shërbëtorët e Saulit i thanë: «Ja, pra, një frymë e keqe nga Elohim po të terrorizon.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dhe i thanë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "një frymë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "po të terrorizon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:58.341084846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe sytë tuaj do të shohin, dhe ju do të thoni: «I madh është Jahve përtej kufirit të Izraelit.»",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "dhe sytë tuaj"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "do të shohin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "do të thoni"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "i madh është"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "përtej"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "kufirit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:59.507003505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Sa shpesh e mësynin në shkretëtirë, e hidhëronin në stepë!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "sa shpesh"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "e mësynin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "e hidhëronin"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "në stepë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:42.378416526Z",
+  "model": "glm-5.3"
+}

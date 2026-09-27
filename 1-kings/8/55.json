@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ai u ndal në këmbë dhe bekoi ⟨את⟩ të gjithë kuvendin e Izraelit me zë të lartë, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe ai u ndal në këmbë"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë kuvendin e Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kuvendin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "me zë"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të lartë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:11.913736528Z",
+  "model": "glm-5.3"
+}

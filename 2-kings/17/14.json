@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe nuk dëgjuan, po e ngurtësuan ⟨את⟩ qafën e tyre, si qafa e etërve të tyre, që nuk besuan në Jahve, Elohimit të tyre.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ngurtësuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qafën e tyre"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "qafën e tyre"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "si qafa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "e etërve të tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "besuan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimit të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:05.236730281Z",
+  "model": "glm-5.3"
+}

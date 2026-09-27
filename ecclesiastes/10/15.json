@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Mundimi i të pamërit i ⟨shpërqen⟩ — se ai nuk diti të shkojë në qytet.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Mundimi"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "i të pamërit"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "i shpërqen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "diti"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të shkojë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:22.615455238Z",
+  "model": "glm-5.3"
+}

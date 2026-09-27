@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Davidi dërgoi te Joabi: «Dërgo mua ⟨את⟩ Uriahun hititin.» Dhe Joabi dërgoi ⟨את⟩ Uriahun te Davidi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriahun hititin"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriahun"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititin"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriahun"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriahun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:00.541616135Z",
+  "model": "glm-5.3"
+}

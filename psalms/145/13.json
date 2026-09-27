@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Mbretëria jote ⟨është⟩ mbretëri e çdo përjetësie, dhe sundimi yt në çdo brez e brez.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Mbretëria jote"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mbretëri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "përjetësie"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "dhe sundimi yt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e brez"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:58.120247620Z",
+  "model": "glm-5.3"
+}

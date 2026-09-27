@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Ai që bën qiejt dhe token, ⟨את⟩ detin dhe ⟨את⟩ gjithçka që ⟨is⟩ në ta; Ai që ruan të vërtetën përjetë —",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dhe token"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ruan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërtetën"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:26.628640357Z",
+  "model": "glm-5.3"
+}

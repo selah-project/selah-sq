@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe do të ulë secili njeri nën hardhinë e vet dhe nën fiqin e vet, dhe nuk do të ketë që të trembë; sepse goja e Jahvesë Tsevaot e ka folur.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "dhe do të ulë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili njeri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "hardhinë e vet"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dhe nën"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "fiqin e vet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk do të ketë"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "që të trembë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e ka folur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:58.882522143Z",
+  "model": "glm-5.3"
+}

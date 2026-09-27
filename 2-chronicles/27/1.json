@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 27:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Një djalë njëzet e pesë vjeç ⟨is⟩ Jotham kur filloi të mbretërojë, dhe gjashtëmbëdhjetë vjet mbretëroi në Jeruzalem; dhe emri i nënës së tij ⟨is⟩ Jerusha, bija e Tsadokut.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dhe pesë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotham"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kur filloi të mbretërojë"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "i nënës së tij"
+    },
+    {
+      "surface": "ירושה",
+      "gloss": "Jerusha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bija"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "e Tsadokut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:16.720976502Z",
+  "model": "glm-5.3"
+}

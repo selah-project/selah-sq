@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe gjithashtu thashë: Nuk do t'i dëboj ata ⟨את⟩ nga para jush, dhe do të jenë për ju si gjemba në ijët tuaja, dhe perënditë e tyre do t'ju bëhen kurth.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "do t'i dëboj"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "nga para jush"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "si gjemba në ijët tuaja"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "dhe perënditë e tyre"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "si kurth"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:00.950102241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "Sepse djathtas dhe majtas do të shpërthesh, dhe fara jote do të trashëgojë kombe, dhe qytetet e shkretuara do t'i bëjë të banuara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "djathtas"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "dhe majtas"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "do të shpërthesh"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dhe fara jote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "do të trashëgojë"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "dhe qytetet"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "të shkretuara"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "do t'i bëjë të banuara"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:16.071023481Z",
+  "model": "glm-5.3"
+}

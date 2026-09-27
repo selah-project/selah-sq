@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Thertë ⟨kafshët e saj⟩ e theri, përzieu verën e saj, madje e vendosi edhe tryezën e saj.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "theri"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "therjen (kafshët e saj)"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "përzieu"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "verën e saj"
+    },
+    {
+      "surface": "אף",
+      "gloss": "madje"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "e vendosi"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "tryezën e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:49.541918493Z",
+  "model": "glm-5.3"
+}

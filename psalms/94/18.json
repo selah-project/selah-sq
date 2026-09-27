@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Kur thosha: «Këmba ime po rrëshqet», hesed-i yt, o Jahve, më mbante.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thosha"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "po rrëshqet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmba ime"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "më mbante"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:21.569267941Z",
+  "model": "glm-5.3"
+}

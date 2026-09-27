@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ishte e keqe në sytë e Jahvesë ajo që ai bëri, dhe e bëri të vdesë edhe ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ishte e keqe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e bëri të vdesë"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Onanin)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:22.542569723Z",
+  "model": "glm-5.3"
+}

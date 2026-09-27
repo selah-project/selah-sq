@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe sytë e atyre që shohin nuk do të mbyllen, dhe veshët e atyre që dëgjojnë do të vënë veshin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "do të mbyllen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "e atyre që shohin"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dhe veshët"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "e atyre që dëgjojnë"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "do të vënë veshin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:31.062568176Z",
+  "model": "glm-5.3"
+}

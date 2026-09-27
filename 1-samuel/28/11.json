@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe gruaja tha: ⟨את⟩ kë të ngjall lart për ty? Dhe ai tha: ⟨את⟩ Samuelin, ngjalle lart për mua.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kë"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "të ngjall lart"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelin"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "ngjalle lart"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:07.518396678Z",
+  "model": "glm-5.3"
+}

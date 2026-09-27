@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ⟨את⟩ të dytin do ta bëjë flijim të djegur sipas rregullit, dhe prifti do të bëjë shlyerjen për atë, për mëkatin e tij që bëri, dhe do t'i falet ⟨atij⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të dytin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "të dytin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do ta bëjë"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "flijim të djegur"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas rregullit"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dhe do të bëjë shlyerjen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për atë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "për mëkatin e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bëri (mëkat)"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "dhe do t'i falet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨atij⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:40.752668606Z",
+  "model": "glm-5.3"
+}

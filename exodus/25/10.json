@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe të bëjnë ⟨atë⟩ një arkë nga drur i shittim-it: dy kubit e gjysmë ⟨të jetë⟩ gjatësia e saj, një kubit e gjysmë gjerësia e saj, dhe një kubit e gjysmë lartësia e saj.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dhe të bëjnë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "një arkë"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drur i"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim-it"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dy kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "lartësia e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:48.507472733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe nuk i dëbuan ⟨את⟩ Kanaanitin që banonte në Gezer; dhe Kanaaniti qëndroi në mes të Efraimit deri në ditën e sotme, dhe u bë ⟨në⟩ shërbim të detyruar, një punëtor i tatuar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "i dëbuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanitin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanitin"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "që banonte"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "në Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniti"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e sotme"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "למס",
+      "gloss": "në shërbim të detyruar"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "një punëtor"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:27.575769283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ari i atij vendi ⟨is⟩ i mirë; ⟨atje⟩ ⟨is⟩ bdellium-i dhe guri i shoham-it.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Dhe ari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨atje⟩"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdellium-i"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe guri"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "i shoham-it"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:53.978022859Z",
+  "model": "glm-5.3"
+}

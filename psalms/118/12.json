@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Më rrethuan si bletët; u shuan si zjarri i gjembave; në emrin e Jahvesë, vërtet, unë do t'i këpus ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Më rrethuan"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "si bletët"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "u shuan"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "si zjarri i"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "gjembave"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "unë do t'i këpus"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:53.818654765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dëgjo, o Jahve, dhe më ki mëshirë; Jahve, bëhu ndihmësi im.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dhe më ki mëshirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bëhu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ndihmësi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "im \/ për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:11.969237176Z",
+  "model": "glm-5.3"
+}

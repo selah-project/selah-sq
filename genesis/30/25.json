@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ndodhi që, kur Rahela lindi ⟨את⟩ Jozefin, Jakovi i tha Labanit: «Lërmë të shkoj në vendin tim dhe në tokën time.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanit"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "lërmë të shkoj"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dhe të shkoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "vendin tim"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "dhe në tokën time"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:41.542414637Z",
+  "model": "glm-5.3"
+}

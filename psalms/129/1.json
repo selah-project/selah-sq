@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 129,
+  "translation": "Këngë e ngjitjeve. Shumë herë më kanë ngjeshur nga rinia ime — le ta thotë tani Izraeli,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Shumë herë"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "më kanë ngjeshur"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "nga rinia ime"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "le ta thotë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:15.127956362Z",
+  "model": "glm-5.3"
+}

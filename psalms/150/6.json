@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 150,
+  "translation": "Çdo frymëmarrje të lavdërojë ⟨Jah⟩! Lëvdoni ⟨Jah⟩!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "frymëmarrje"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "të lavdërojë"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:54.291842184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Sauli bërtiti, dhe gjithë populli që ishte ⟨me⟩ ⟨את⟩ tij, dhe erdhën deri te beteja; dhe ja, shpata e secilit ishte kundër të afërmit të tij — ngatërresë shumë e madhe.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "bërtiti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "popullit që ishte me të"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe erdhën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "beteja"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e secilit njeri"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "kundër të afërmit të tij"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ngatërresë"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:17.873986340Z",
+  "model": "glm-5.3"
+}

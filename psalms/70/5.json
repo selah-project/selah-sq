@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 70,
+  "translation": "Le të gëzojnë dhe të lumtojnë në ty gjithë ata që të kërkojnë ty, dhe të thonë pa pushim: «I madh është Elohim» ata që e duan shpëtimin tënd.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "le të gëzojnë"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "dhe të lumtojnë"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ata që të kërkojnë ty"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe të thonë"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pa pushim"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "i madh është"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ata që e duan"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "shpëtimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:39.591702173Z",
+  "model": "glm-5.3"
+}

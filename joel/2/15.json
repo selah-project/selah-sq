@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Bini me shofar në Sion, shenjtëroni një agjërim, thërritni një kuvend të shenjtë!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "bini"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "me shofar"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Sion"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "shenjtëroni"
+    },
+    {
+      "surface": "צום",
+      "gloss": "një agjërim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "thërritni"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "një kuvend të shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:32.995943680Z",
+  "model": "glm-5.3"
+}

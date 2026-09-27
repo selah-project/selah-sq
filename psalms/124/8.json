@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "Ndihma jonë ⟨është⟩ në emrin e Jahves, Krijuesit të qiejve e të dheut.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ndihma jonë"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Krijuesit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "të qiejve"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e të dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:52.486178613Z",
+  "model": "glm-5.3"
+}

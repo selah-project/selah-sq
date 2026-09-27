@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jahve i tha Moisiut: «Thuaj Aaronit: Shqua ⟨את⟩ dorën tënde me shkopin tënd mbi lumenjtë, mbi kanale dhe mbi liqene, dhe bëj të ngjiten ⟨את⟩ bretkosat mbi tokën e Egjiptit.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Thuaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Shqua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "me shkopin tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "lumenjtë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kanale"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "liqene"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "dhe bëj të ngjiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bretkosat"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bretkosat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:55.103393009Z",
+  "model": "glm-5.3"
+}

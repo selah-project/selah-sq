@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe profeti Gad i tha Davidit: «Rri në kështjellë; shko e hyr për vete në tokën e Judës.» Dhe Davidi shkoi dhe hyri në pyllin e Heretit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rrin"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "në kështjellë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dhe hyr"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "יער",
+      "gloss": "në pyllin"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "e Heretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:09.595780716Z",
+  "model": "glm-5.3"
+}

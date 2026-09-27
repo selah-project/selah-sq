@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Drejtësia e jit ⟨është⟩ si malet e El-it; gjykimet e tua ⟨janë⟩ një thellësi e madhe; njeriun dhe kafshën ti i shpëton, o Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësia e jit"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "si malet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e El-it"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "gjykimet e tua"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "thellësi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "dhe kafshën"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ti i shpëton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:33.618338270Z",
+  "model": "glm-5.3"
+}

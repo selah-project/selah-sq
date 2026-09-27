@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Të dërgojë ndihmën tëte nga faltorja dhe nga Cioni të të mbështesë.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Të dërgojë"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ndihmën tëte"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nga faltorja"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "dhe nga Cioni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "të të mbështesë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:25.955998464Z",
+  "model": "glm-5.3"
+}

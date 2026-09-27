@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe njeriu tha: «Gruaja që ti më dhe ⟨të jetë⟩ pranë meje — ajo më dha nga pema, dhe unë hënga.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ti më dhe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pranë meje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pema"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe unë hënga"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.076809858Z",
+  "model": "glm-5.3"
+}

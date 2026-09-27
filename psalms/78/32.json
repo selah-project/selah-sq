@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Me gjithë këto, ata mëkatuan ende, dhe nuk besuan në çuditë e tij.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këto"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mëkatuan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "besuan"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "në çuditë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:59.227014136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe jetoi Jaredi gjashtëdhjetë e dy vjet dhe njëqind vjet, dhe lindi ⟨את⟩ Hanokun.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jaredi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dhe gjashtëdhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dhe njëqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokun"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:04.735679947Z",
+  "model": "glm-5.3"
+}

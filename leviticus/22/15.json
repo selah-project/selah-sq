@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe të mos i çojnë në pahir ⟨את⟩ të shenjtat e bijve të Izraelit, ⟨את⟩ atë që ngrenë për Jahven,",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "i çojnë në pahir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të shenjtat e bijve të Izraelit"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "të shenjtat e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që ngrenë për Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ngrenë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:35.862829962Z",
+  "model": "glm-5.3"
+}

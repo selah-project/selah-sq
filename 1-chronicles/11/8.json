@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ai ndërtoi qytetin përreth, nga Millo e gjithë rrethinën; dhe Joabi restauroi ⟨את⟩ pjesën e mbetur të qytetit.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "rrethinën"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "dhe Joabi"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "restauroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjesën e mbetur të qytetit"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "pjesën e mbetur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:58.017576681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jahve dëgjoi ⟨את⟩ zërin e fjalëve tuaja, dhe u zemërua, dhe u betua, duke thënë:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e fjalëve tuaja"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "të fjalëve tuaja"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "dhe u zemërua"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dhe u betua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:14.007946458Z",
+  "model": "glm-5.3"
+}

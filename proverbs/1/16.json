@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse këmbët e tyre vrapojnë drejt së keqes, dhe ngutohen të derdhin gjak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "këmbët e tyre"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "drejt së keqes"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "vrapojnë"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "dhe ngutohen"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "të derdhin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "gjak"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:28.782044266Z",
+  "model": "glm-5.3"
+}

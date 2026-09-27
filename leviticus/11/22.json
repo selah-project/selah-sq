@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "⟨את⟩ Këta prej tyre do t'i hani: ⟨את⟩ karkaleci sipas llojit të vet, dhe ⟨את⟩ solami sipas llojit të vet, dhe ⟨את⟩ hargoli sipas llojit të vet, dhe ⟨את⟩ hagabi sipas llojit të vet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Këta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do t'i hani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karkaleci"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "karkaleci"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sipas llojit të vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "solami"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solami"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hargoli"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargoli"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hagabi"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagabi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:23.912850796Z",
+  "model": "glm-5.3"
+}

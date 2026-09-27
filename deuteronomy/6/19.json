@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Për të dëbuar ⟨את⟩ të gjithë armiqtë e ti nga para fytyrës sate, siç ka folur Jahve.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "për të dëbuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë armiqtë e ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e ti"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nga para fytyrës sate"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:54.263849218Z",
+  "model": "glm-5.3"
+}

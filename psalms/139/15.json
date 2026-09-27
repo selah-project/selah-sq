@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Kocka ime nuk u fsheh nga ti, kur u ndërtova në fshehtësi, u qëndova në thellësitë e dheut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "nuk u fsheh",
+      "gloss": ""
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kocka ime"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nga ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "u ndërtova"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "në fshehtësi"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "u qëndova"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "në thellësitë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:00.532287870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Mos u bëj i urtë në sytë e tu; ki frikë ⟨את⟩ Jahve dhe largohu nga e keqja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "u bëj"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i urtë"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "në sytë e tu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ki frikë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "dhe largohu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nga e keqja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:18.337213673Z",
+  "model": "glm-5.3"
+}

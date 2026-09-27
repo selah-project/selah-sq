@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ju, pjellni dhe shumohuni, lëvizuni sa më shumë në dhe dhe shumohuni në të.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "pjellni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe shumohuni"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "lëvizuni sa më shumë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në dhe"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe shumohuni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:08.913424331Z",
+  "model": "glm-5.3"
+}

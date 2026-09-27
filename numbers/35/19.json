@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Shpenguesi i gjakut vetë do të vrasë ⟨את⟩ vrasësin; kur ta hasë, ai do ta vrasë atë.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "shpenguesi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "i gjakut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "vetë"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "do të vrasë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrasësin"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vrasësin"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "kur ta hasë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "do ta vrasë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:10.036544577Z",
+  "model": "glm-5.3"
+}

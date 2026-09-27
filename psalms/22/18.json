@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "⟨Shpirti im⟩ numëron të gjitha eshtrat e mia; ata shikojnë dhe më vështrojnë.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "numëroj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "eshtrat e mia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "shikojnë"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vështrojnë"
+    },
+    {
+      "surface": "בי",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:16.861154170Z",
+  "model": "glm-5.3"
+}

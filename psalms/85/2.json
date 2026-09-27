@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "E prhave, o Jahve, token ⟨tënde⟩, ktheve robërinë e Jakobit",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "E prhave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "token ⟨tënde⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ktheve"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:09.131753371Z",
+  "model": "glm-5.3"
+}

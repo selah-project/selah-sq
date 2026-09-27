@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim e ndërtoi ⟨את⟩ brinjën që kishte marrë nga njeriu në një grua, dhe e çoi atë te njeriu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe e ndërtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brinjën"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "brinjën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kishte marrë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "në një grua"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "dhe e çoi atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:14.552475298Z",
+  "model": "glm-5.3"
+}

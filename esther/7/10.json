@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe e varën ⟨את⟩ Hananin mbi drurin që ai kishte përgatitur për Mordokain; dhe zemërimi i mbretit u qetësua.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "dhe e varën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hananin"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kishte përgatitur"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "për Mordokain"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "dhe zemërimi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "i mbretit"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "u qetësua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:07.216057076Z",
+  "model": "glm-5.3"
+}

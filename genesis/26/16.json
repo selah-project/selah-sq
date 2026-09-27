@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Abimeleku i tha Isakut: «Largohu nga ne, se je bërë shumë më i fuqishëm se ne.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "largohu"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "nga ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "je bërë i fuqishëm"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se ne"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:09.846105211Z",
+  "model": "glm-5.3"
+}

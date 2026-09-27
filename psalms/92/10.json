@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Se shih, armiqtë e tu, o Jahve, se shih, armiqtë e tu do të zhduken; do të shpërndahen të gjithë punëtorët e paudhësisë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shih"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shih"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "do të zhduken"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "do të shpërndahen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "punëtorët e"
+    },
+    {
+      "surface": "און",
+      "gloss": "paudhësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.398392055Z",
+  "model": "glm-5.3"
+}

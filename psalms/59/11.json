@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Elohai, hesed-i im do të më paraprijë; Elohim do të më bëjë të shoh ⟨dëshirën time mbi⟩ kundërshtarët e mi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i im"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "do të më paraprijë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "do të më bëjë të shoh"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "kundërshtarët e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:38.896577718Z",
+  "model": "glm-5.3"
+}

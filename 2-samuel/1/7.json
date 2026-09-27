@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ ktheu kokën pas vetes dhe më pa mua, dhe më thirri mua, dhe unë thashë: Ja, unë jam.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ktheu kokën pas vetes"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas vetes"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "më pa mua"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "më thirri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:41.267174264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "«Ai njeri, zotëria i vendit, foli ⟨את⟩ me ne ashpër, dhe na bëri ⟨את⟩ ne si spiunë ⟨את⟩ të vendit.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ai njeri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ashpër"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe na bëri"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "si spiunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të vendit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të vendit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:12.623516804Z",
+  "model": "glm-5.3"
+}

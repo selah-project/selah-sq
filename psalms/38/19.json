@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Sepse paudhësinë time do ta shpall; shqetësohem për mëkatin tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "paudhësinë time"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "do ta shpall"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "shqetësohem"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "për mëkatin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:32.125806951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Më pa mëshirë, o Elohim, sipas hesed-it tënd, sipas shumësisë së mëshirshmeve të tua, fshi shkeljet e mia.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Më pa mëshirë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sipas hesed-it tënd"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sipas shumësisë"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "së mëshirshmeve të tua"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "fshi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "shkeljet e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.406043054Z",
+  "model": "glm-5.3"
+}

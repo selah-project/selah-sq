@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të shfaqet ⟨lart⟩ lavdia e Jahvesë, dhe çdo mish do ta shohë bashkë, sepse goja e Jahvesë ka folur.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "dhe do të shfaqet"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dhe do ta shohë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:45.137233133Z",
+  "model": "glm-5.3"
+}

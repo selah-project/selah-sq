@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ndodhi, kur vdiq Ahabi, që mbreti i Moabit u rebelua kundër mbretit të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "kur vdiq"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "u rebelua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moabit"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kundër mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:56.973972190Z",
+  "model": "glm-5.3"
+}

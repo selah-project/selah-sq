@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Jahve ⟨Është⟩ shkëmbi im dhe kështjella ime dhe shpëtuesi im, El-i im, shkëmbi im — strehohem në ⟨të⟩; mburoja ime dhe bri i shpëtimit tim, vendkalimi im i lartë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dhe kështjella ime"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dhe shpëtuesi im"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-i im"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "strehohem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në ⟨të⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mburoja ime"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "dhe bri"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "i shpëtimit tim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "vendkalimi im i lartë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:38.564518004Z",
+  "model": "glm-5.3"
+}

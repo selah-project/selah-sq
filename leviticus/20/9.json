@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Sepse çdo njeri, çdo njeri që mallkon ⟨את⟩ të atin e vet dhe ⟨את⟩ të ëmën e vet, do të vdesë me vdekje; të atin e vet dhe të ëmën e vet i ka mallkuar — gjaku i tij ⟨është⟩ mbi të.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "mallkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin e vet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin e vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të ëmën e vet"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "të ëmën e vet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin e vet"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dhe të ëmën e vet"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "i ka mallkuar"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "gjaku i tij"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:27.221472875Z",
+  "model": "glm-5.3"
+}

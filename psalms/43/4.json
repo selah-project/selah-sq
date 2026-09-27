@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe do të hyj në altar e Elohit, te El, gëzimi i gazit tim; dhe do të të falënderoj me kinor, o Elohim, Elohi im.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "dhe do të hyj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "gëzimi"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "i gazit tim"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "dhe do të të falënderoj"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "me kinor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:05.025864055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe do të dini se unë ⟨jam⟩ Jahve, kur të hap ⟨את⟩ varret tuaja dhe kur t'ju ngre nga varret tuaja, populli im.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "do të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "kur të hap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varret tuaja"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "varret tuaja"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "dhe kur t'ju ngre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nga varret tuaja)"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "nga varret tuaja"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    }
+  ],
+  "timestamp": "2026-09-27T16:38:13.329371281Z",
+  "model": "glm-5.3"
+}

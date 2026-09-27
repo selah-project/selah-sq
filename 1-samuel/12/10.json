@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe bërtitën te Jahve dhe thanë: «Mëkatuan, sepse braktisëm ⟨את⟩ Jahve dhe shërbyem ⟨את⟩ Baalët dhe ⟨את⟩ Ashtarotët; dhe tani na shpëto nga dora e armiqve tanë dhe do të të shërbejmë.»",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "dhe bërtitën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "mëkatuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "braktisëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "dhe shërbyem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalët"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ashtarotët"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtarotët"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "na shpëto"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "armiqve tanë"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dhe do të të shërbejmë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:25.366368648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Aaroni do të sjellë ⟨את⟩ capin mbi të cilin doli shorti për Jahven, dhe do ta bëjë flijim për mëkatin.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "do të sjellë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capin"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "capin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbi të cilin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "doli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të cilin"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "shorti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "do ta bëjë"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "flijim për mëkatin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:38.522767273Z",
+  "model": "glm-5.3"
+}

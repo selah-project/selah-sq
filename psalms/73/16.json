@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Dhe mendova ta dija këtë — ⟨is⟩ mundim në sytë e mi.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Dhe mendova"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ta dija"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mundim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:46.606227126Z",
+  "model": "glm-5.3"
+}

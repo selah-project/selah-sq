@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Më fal të mirat, o Jahve; shiko mundimin tim nga ata që më urrejnë, ti që më ngrin nga portat e vdekjes.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "më fal të mirat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mundimin tim"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "nga ata që më urrejnë"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "që më ngrin"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "nga portat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "e vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:56.336032149Z",
+  "model": "glm-5.3"
+}

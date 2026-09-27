@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Të gjitha urdhrësat e tua ⟨janë⟩ besnikëri; me gënjeshtër më ndjekin — më ndihmo!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhrësat e tua"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "besnikëri"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "me gënjeshtër"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "më ndjekin"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "më ndihmo"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:12.524023386Z",
+  "model": "glm-5.3"
+}

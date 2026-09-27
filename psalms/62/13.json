@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Dhe te ti, o Adonai, ⟨është⟩ hesed, sepse ti shpërblen çdo njeri sipas veprës së tij.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Dhe te ti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "shpërblen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sipas veprës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:28.857417362Z",
+  "model": "glm-5.3"
+}

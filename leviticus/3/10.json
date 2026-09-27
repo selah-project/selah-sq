@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "dhe ⟨את⟩ dy veshkat, dhe ⟨את⟩ yndyrën që ⟨is⟩ mbi to, që ⟨is⟩ mbi ijët, dhe ⟨את⟩ lobulin e mëlçisë — mbi veshkat do ta heqë ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dy veshkat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "mbi to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ijët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lobulin"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lobulin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mëlçisë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "do ta heqë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:28.477380163Z",
+  "model": "glm-5.3"
+}

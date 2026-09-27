@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Moisi dha urdhër për ta ⟨את⟩ Elazarit priftit, dhe ⟨את⟩ Jozueut birit të Nun-it, dhe ⟨את⟩ krerëve të shtëpive të etërve të fiseve të bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe dha urdhër"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazarit priftit"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jozueut birit të Nun-it"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "נון",
+      "gloss": "të Nun-it"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "krerëve të shtëpive të etërve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "krerëve"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "të etërve"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "të fiseve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "të bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:56.087366456Z",
+  "model": "glm-5.3"
+}

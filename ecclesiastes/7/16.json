@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Mos u bëj i drejtë shumë, dhe mos u trego i urtë tepër — pse të shkatërrohesh?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "u bëj"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "u trego i urtë"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "tepër"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "të shkatërrohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:34.456968204Z",
+  "model": "glm-5.3"
+}

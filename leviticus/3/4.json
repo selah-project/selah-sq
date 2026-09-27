@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨את⟩ dy veshkat, dhe ⟨את⟩ yndyrën që është mbi to, që është mbi ijët, dhe ⟨את⟩ lugën e mëlçisë — mbi veshkat do t'ia heqë atë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dy veshkat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "mbi to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ijët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lugën"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lugën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mëlçisë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "do t'ia heqë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:44.016742902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 129,
+  "translation": "Jahve ⟨është⟩ i drejtë; ai preu lidhësat e të ligjve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ai preu"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "lidhësat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligjve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:15.128509620Z",
+  "model": "glm-5.3"
+}

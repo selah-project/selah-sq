@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "O Elohim, thyj dhëmbët e tyre në gojën e tyre; dhëmbët e mëdhenj të luanve të rinj, o Jahve, më-i-rrëzo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "thyj"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "dhëmbët e tyre"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "në gojën e tyre"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "dhëmbët e mëdhenj"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "të luanve të rinj"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "më-i-rrëzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:27.310802665Z",
+  "model": "glm-5.3"
+}

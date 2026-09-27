@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi u tha atyre: Vëllezërit e mi, nga jeni ju? Dhe thanë: Nga Harani jemi ne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Vëllezërit e mi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga jeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Nga Harani"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jemi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:14.815364842Z",
+  "model": "glm-5.3"
+}

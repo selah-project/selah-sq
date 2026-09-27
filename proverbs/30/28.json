@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Bzhakun me duart e zë, megjithatë ⟨ gjendet ⟩ në pallatet e mbretit.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "bzhakun"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "me duart"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "e zë"
+    },
+    {
+      "surface": "ויהיא",
+      "gloss": "megjithatë ⟨ajo⟩",
+      "surface_note": "ו ה י א"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "në pallatet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "të mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:30.107690642Z",
+  "model": "glm-5.3"
+}

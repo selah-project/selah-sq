@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Mësim për Asafin. Dëgjoni, populli im, Torën time; pjatni veshët tuaj te fjalët e gojës sime.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "mësim"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "për Asafin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torën time"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "pjatni"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "veshët tuaj"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "te fjalët"
+    },
+    {
+      "surface": "פי",
+      "gloss": "e gojës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.672170986Z",
+  "model": "glm-5.3"
+}

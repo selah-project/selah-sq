@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "I thashë Jahvesë: «Adonai, ti ⟨je⟩; e mira ime s'është ⟨asgjë⟩ pa ty.»",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "I thashë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "e mira ime"
+    },
+    {
+      "surface": "בל",
+      "gloss": "s'është asgjë"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa ty"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:09.324955281Z",
+  "model": "glm-5.3"
+}

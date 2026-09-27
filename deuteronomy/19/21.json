@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe syri yt të mos ketë mëshirë: shpirt për shpirt, sy për sy, dhëmb për dhëmb, dorë për dorë, këmbë për këmbë.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "të ketë mëshirë"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "syri yt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "për shpirt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "për sy"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dhëmb"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "për dhëmb"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "për dorë"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "këmbë"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "për këmbë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:55.035095390Z",
+  "model": "glm-5.3"
+}

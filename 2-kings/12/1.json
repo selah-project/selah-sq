@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Djali ⟨ishte⟩ shtatë vjeç, Jehoash, në mbretërimin e tij.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "djali"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "në mbretërimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:25.814026758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do ta vendosësh ⟨את⟩ kapërcylen mbi arkën e dëshmisë, në Shenjtërinë e Shenjtërave.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do ta vendosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapërcylen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapërcylen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "e dëshmisë"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në Shenjtërinë"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "e Shenjtërave"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:24.507165233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe engjëlli që fliste në mua u përgjigj dhe më tha: «A nuk di çfarë janë këto?» Unë thashë: «Jo, zotëria im.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "engjëlli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "që fliste"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "di"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "המה",
+      "gloss": "janë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:04.357220492Z",
+  "model": "glm-5.3"
+}

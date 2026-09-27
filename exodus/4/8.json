@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe do të ndodhë, nëse nuk të besojnë ⟨ty⟩ dhe nuk i dëgjojnë zërin e shenjës së parë, ata do t'i besojnë zërit të shenjës së dytë.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "besojnë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ty⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dëgjojnë"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "האת",
+      "gloss": "shenjës"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "së parë"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "do t'i besojnë"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "zërit të"
+    },
+    {
+      "surface": "האת",
+      "gloss": "shenjës"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "së dytë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:31.423017268Z",
+  "model": "glm-5.3"
+}

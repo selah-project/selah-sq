@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "që nuk dëgjon zërin e magjistarëve, as të mjeshtrit më të ditur të hijeve.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "magjistarëve"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mjeshtrit"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "të hijeve"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "më të ditur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:27.310552961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse robi të thotë qartë: «E do ⟨את⟩ zotërinë tim, ⟨את⟩ gruan time dhe ⟨את⟩ fëmijët e mi; nuk do të dal i lirë»,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "po thotë"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "do të thotë"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "robi"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "e doja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zotërinë tim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotërinë tim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan time"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "gruan time"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fëmijët e mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fëmijët e mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "do të dal"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "i lirë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:37.986852373Z",
+  "model": "glm-5.3"
+}

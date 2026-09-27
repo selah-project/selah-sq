@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Për të qeshur thashë: ⟨Është⟩ çmenduri; dhe për gëzim: Çfarë ⟨punon⟩ kjo?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "për të qeshur"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "çmenduri"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "dhe për gëzim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "punon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:35.560225088Z",
+  "model": "glm-5.3"
+}

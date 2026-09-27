@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Shkrihet toka dhe të gjithë banorët e saj; unë i kam vendosur shtyllat e saj. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Shkrihet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "banorët e saj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "i kam vendosur"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "shtyllat e saj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:19.199352642Z",
+  "model": "glm-5.3"
+}

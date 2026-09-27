@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Çfarë do të bëni ju në ditën e takimit të caktuar dhe në ditën e festës së Jahve?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "do të bëni ju"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "në ditën e"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takimit të caktuar"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "dhe në ditën e"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:32.023814905Z",
+  "model": "glm-5.3"
+}

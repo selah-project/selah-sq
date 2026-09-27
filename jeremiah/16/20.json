@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "A do të bëjë njeriu perëndi për vete, ndërsa ato nuk janë perëndi?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "A do të bëjë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ndërsa ato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk janë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:12:00.271848632Z",
+  "model": "glm-5.3"
+}

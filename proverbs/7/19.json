@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse nuk është burri ⟨i⟩ shtëpisë në shtëpinë e tij, ka shkuar në një rrugë të largët.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "burri ⟨i⟩ shtëpisë"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "në shtëpinë e tij"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ka shkuar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në një rrugë"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "të largët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:35.133439032Z",
+  "model": "glm-5.3"
+}

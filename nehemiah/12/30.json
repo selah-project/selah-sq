@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Priftërinjtë dhe Levitët u pastruan, dhe pastruan ⟨את⟩ popullin, ⟨ואת⟩ portat dhe ⟨ואת⟩ murin.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "u pastruan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Priftërinjtë"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dhe Levitët"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "pastruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "portat"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "portat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "murin"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "murin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:47.051568165Z",
+  "model": "glm-5.3"
+}

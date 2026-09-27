@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Pashqarrova drejtësinë në kuvend të madh; ja, buzët e mia nuk i ndalova, Jahve, ti e di.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "pashqarrova"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "në kuvend"
+    },
+    {
+      "surface": "רב",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët e mia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ndalova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e di"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:47.050756402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe tha: «Ti je ky, biri im Esau?» Dhe ai tha: «Unë jam.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je ky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biri im"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë jam"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:37.379200013Z",
+  "model": "glm-5.3"
+}

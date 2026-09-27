@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ti numëro për vete ⟨את⟩ një ushtri, si ushtria që ra prej teje ⟨את⟩, dhe kalë për kalë, dhe qerë për qerë; dhe do të luftojmë kundër tyre ⟨את⟩ në fushë — a nuk jemi më të fortë se ata? Dhe ai dëgjoi zërin e tyre dhe bëri kështu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dhe ti"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "numëro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "një ushtri"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "si ushtria"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "që ra"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ prej teje",
+      "marks": "ushtria e rënë"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "dhe kalë"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "për kalë"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "dhe qerë"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "për qerë"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "dhe do të luftojmë"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "jemi më të fortë"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "se ata"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "zërin e tyre"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:39:46.589076912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe mbreti i tha asaj: Ç'ke? Dhe ajo tha: Kjo grua më tha mua: Jep ⟨את⟩ të birin tënd dhe do ta hamë ⟨atë⟩ sot, dhe ⟨את⟩ tim bir do ta hamë nesër.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ç'"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Jep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të birin tënd"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "të birin tënd"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "dhe do ta hamë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tim bir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tim bir"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "do ta hamë"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nesër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:50.450734166Z",
+  "model": "glm-5.3"
+}

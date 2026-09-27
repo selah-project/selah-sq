@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Do të banoj në çadrën tënde përjetësisht, do të strehohem nën strehimin e krahëve të tua. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "do të banoj"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "në çadrën tënde"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "do të strehohem"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nën strehimin"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "e krahëve të tua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:00.933119168Z",
+  "model": "glm-5.3"
+}

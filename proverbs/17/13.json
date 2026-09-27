@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Kush kthen të keqen në vend të së mirës, e keqja ⟨nuk⟩ do të tërhiqet nga shtëpia e tij.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "kush kthen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "së mirës"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "do të tërhiqet"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "nga shtëpia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:22.229565501Z",
+  "model": "glm-5.3"
+}

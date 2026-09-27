@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "A s'ka balsam ⟨הצרי⟩ në Giliad? A s'ka atje shërimtar? Pse, atëherë, nuk u ngjit shërimi i bijës së popullit tim?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "balsam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "në Giliad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "shërimtar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pse"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "u ngjit"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "shërimi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "i bijës"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "të popullit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:09:22.026168097Z",
+  "model": "glm-5.3"
+}

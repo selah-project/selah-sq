@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ⟨את⟩ çarjet e qytetit të Davidit i keni parë, se janë shumuar, dhe keni mbledhur ⟨את⟩ ujërat e pellgut të poshtëm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çarjet"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "çarjet"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "keni parë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "janë shumuar"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "keni mbledhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujërat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "të pellgut"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "të poshtëm"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:00.929594796Z",
+  "model": "glm-5.3"
+}

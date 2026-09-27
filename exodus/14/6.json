@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ai e ngjiti ⟨את⟩ qerren e tij, dhe ⟨את⟩ popullin e tij e mori me vete.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "dhe e ngjiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qerren e tij"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "qerren e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullin e tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me vete"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:24.501541210Z",
+  "model": "glm-5.3"
+}

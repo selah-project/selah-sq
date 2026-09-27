@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe kau ose delen — ⟨את⟩ atë dhe ⟨את⟩ të birin e saj të mos i therreni në një ditë të vetme.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "dhe kau"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שה",
+      "gloss": "delë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "kau\/delja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të birin e saj"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "të birin e saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "të therreni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në një ditë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "të vetme"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:04.214693870Z",
+  "model": "glm-5.3"
+}

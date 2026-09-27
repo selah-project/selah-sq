@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe do të kërkoni atje ⟨את⟩ Jahve, Elohim-in tuaj, dhe do të gjeni, kur ta kërkoni me gjithë zemrën tuaj dhe me gjithë shpirtin tuaj.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "do të kërkoni"
+    },
+    {
+      "surface": "משם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tuaj"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "dhe do të gjeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ta kërkoni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tuaj"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:54.747416364Z",
+  "model": "glm-5.3"
+}

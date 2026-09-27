@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Gropë gërmoi dhe e thelloi, dhe ra në gropën që vetë e bëri.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Gropë"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "gërmoi"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "dhe e thelloi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dhe ra"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "në gropën"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "e bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:20.078236167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Sa për mua, në drejtësi do të shoh fytyrën tënde; do të ngopen, kur të zgjohem, me shëmbëlltyrën tënde.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Sa për mua"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "në drejtësi"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "do të shoh"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "do të ngopen"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "kur të zgjohem"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "me shëmbëlltyrën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:47.052852232Z",
+  "model": "glm-5.3"
+}

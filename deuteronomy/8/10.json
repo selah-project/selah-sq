@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do të hash dhe do të ngopesh, dhe do ta bekoš ⟨את⟩ Jahve, Elohim-in tënd, për ⟨të⟩ vendin e mirë që të ka dhënë.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "dhe do të hash"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "dhe do të ngopesh"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "dhe do ta bekoš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "të ka dhënë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:23.300325751Z",
+  "model": "glm-5.3"
+}

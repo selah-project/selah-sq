@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe shërbëtori tregoi Isakut ⟨את⟩ të gjitha punët që kishte bërë.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "dhe tregoi"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "shërbëtori"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha punët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "punët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:15.828500851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "⟨את⟩ Dy qerreta dhe ⟨את⟩ katër qetë u dha bijve të Gershonit, sipas shërbimit të tyre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dy qerreta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "katër qetë"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "katër"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "qetë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershonit"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "shërbimit të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:11.639708759Z",
+  "model": "glm-5.3"
+}

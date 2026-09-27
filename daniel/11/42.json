@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe do të shtrijë dorën e tij mbi ⟨tokat⟩, dhe toka e Egjiptit nuk do të jetë ⟨për⟩ shpëtim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe do të shtrijë"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mbi tokat"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dhe toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "për shpëtim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:41.157316246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe Ahimaatsi lindi ⟨את⟩ Azarjan, dhe Azarja lindi ⟨את⟩ Jochananin.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "dhe Ahimaatsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjan"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "dhe Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochananin"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochananin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:27.133838863Z",
+  "model": "glm-5.3"
+}

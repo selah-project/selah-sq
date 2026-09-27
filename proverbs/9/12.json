@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nëse u bëre i urtë, për veten tënde u bëre i urtë; dhe nëse të tallësh, vetëm ti do ta përballosh ⟨pasojën⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "u bëre i urtë"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "u bëre i urtë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për veten tënde"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "dhe nëse të tallësh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm ti"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "do ta përballosh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:07.458454795Z",
+  "model": "glm-5.3"
+}

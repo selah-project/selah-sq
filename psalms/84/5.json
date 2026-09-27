@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 84,
+  "translation": "Lum banorët e shtëpisë sate; edhe gjithnjë do të të lëvdojnë. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lum"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "të shtëpisë sate"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe gjithnjë"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "do të të lëvdojnë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:46.851455325Z",
+  "model": "glm-5.3"
+}

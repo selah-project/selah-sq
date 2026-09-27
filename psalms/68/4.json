@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Dhe të drejtit gëzohen, ngazëllojnë para Elohim, dhe gedzojnë me gëzim.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Dhe të drejtit"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gëzohen"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ngazëllojnë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "dhe gëzojnë"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "me gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:36.588775367Z",
+  "model": "glm-5.3"
+}

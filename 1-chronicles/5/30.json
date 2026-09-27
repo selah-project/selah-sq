@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Elazari lindi ⟨את⟩ Pinhasin; Pinhasi lindi ⟨את⟩ Avishuan.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinhasin"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhasin"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhasi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishuan"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishuan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:32.709023484Z",
+  "model": "glm-5.3"
+}

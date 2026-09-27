@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Beko, shpirti im, ⟨את⟩ Jahve, dhe mos harro të gjitha të mirat e tij.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Beko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "harro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "të mirat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:32.862684749Z",
+  "model": "glm-5.3"
+}

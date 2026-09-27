@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "A flitni ⟨vërtet⟩ drejtësi në heshtje? A gjykoni me ndershmëri, o bij të njeriut?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "A vërtet"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "në heshtje"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "flitni"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "me ndershmëri"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "gjykoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:28.371520988Z",
+  "model": "glm-5.3"
+}

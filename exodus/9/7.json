@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Faraoni dërgoi njerëz të shihnin, dhe ja, nuk kishte vdekur as një e vetme nga bagëtia e Izraelit; dhe zemra e Faraonit u rëndua, dhe ai nuk e lëshoi ⟨את⟩ popullin të shkonte.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dhe dërgoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kishte vdekur"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "nga bagëtia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një e vetme"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "dhe u rëndua"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "e lëshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:30.058260656Z",
+  "model": "glm-5.3"
+}

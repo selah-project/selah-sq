@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ai tha: Shko, kërko për vete enë nga jashtë, nga ⟨את⟩ të gjithë fqinjët e tu — enë bosë; mos e pakëso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "shko"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "kërko"
+    },
+    {
+      "surface": "lék",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "enë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ nga",
+      "marks": "të gjithë fqinjët e tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "fqinjët e tu"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "enë"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "bosë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "e pakëso"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:42.805006362Z",
+  "model": "glm-5.3"
+}

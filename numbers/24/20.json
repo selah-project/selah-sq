@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe pa ⟨את⟩ Amalekun, dhe ngriti thënieën e tij të fuqishme, dhe tha: Filleja e kombeve ⟨është⟩ Amaleku, dhe fundi i tij ⟨do të jetë⟩ deri në shkatërrim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "thënieën e tij të fuqishme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "filleja e"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleku"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "dhe fundi i tij"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "shkatërrim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:35.827616384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Elohim ynë do të vijë dhe nuk do të heshtë; zjarri para tij do të gëlltitë, dhe rreth e rrotull tij do të bjerrë stuhitë e fuqishme.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ynë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "do të heshtë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "do të gëlltitë"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "dhe rreth e rrotull tij"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "do të bjerrë stuhitë"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "e fuqishme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:08.656000716Z",
+  "model": "glm-5.3"
+}

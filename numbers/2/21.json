@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numërit e tyre ⟨ishin⟩ dy e tridhjetë mijë e dyqind.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dhe të numërit e tyre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e tridhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e dyqind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:43.441926380Z",
+  "model": "glm-5.3"
+}

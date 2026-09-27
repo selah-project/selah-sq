@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "dhe varfëria ⟨e jota⟩ do të vijë si një kalimtar, dhe mungesa ⟨e jote⟩ si një njeri i armatosur.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dhe do të vijë"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "si një kalimtar"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "varfëria e jote"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "dhe mungesa e jote"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "si një njeri"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "i armatosur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:58.905341623Z",
+  "model": "glm-5.3"
+}

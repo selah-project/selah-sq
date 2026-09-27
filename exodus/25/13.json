@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të bësh shkopinj druri akacie, dhe do t'i mbulosh ⟨את⟩ ata me ar.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "shkopinj"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dhe do të mbulosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (shkopinjtë)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:49.904726515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai dërgon fjalën e tij dhe i shkrin; bën erën e tij të fryjë, dhe ujërat rrjedhin.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "dërgon"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "dhe i shkrin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bën të fryjë"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "erën e tij"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "rrjedhin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.136465483Z",
+  "model": "glm-5.3"
+}

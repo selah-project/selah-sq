@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe ai thirri Johananin, birin e Kareas, dhe të gjithë komandantët e ushtrisë që ishin ⟨את⟩ me të, dhe të gjithë popullin, nga më i vogli e deri te më i madhi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dhe ai thirri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Johanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "e Kareas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "komandantët"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "e ushtrisë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "me të (prania pranë Johananit)"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "nga më i vogli"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri te"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "më i madhi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:21:16.773607884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe fillimi i mbretërisë së tij ishte Babeli, Erekui, Akadi dhe Kalnehu, në tokën e Shinarit.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Dhe ... ishte"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fillimi"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "i mbretërisë së tij"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Erekui"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kalnehu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën e"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinarit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:27.705532994Z",
+  "model": "glm-5.3"
+}

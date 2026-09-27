@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jonathani i tha Davidit: «Çfarë thotë shpirti yt, dhe unë do ta bëj për ty.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirti yt"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "dhe do ta bëj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:11.676085975Z",
+  "model": "glm-5.3"
+}

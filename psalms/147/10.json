@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Jo në forcën e kalit gjen kënaqësinë, jo në këmbët e njeriut ai e do.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "në forcën e"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kalit"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "gjen kënaqësinë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "në këmbët e"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ai e do"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:53.379075144Z",
+  "model": "glm-5.3"
+}

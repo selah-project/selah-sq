@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Jahve, Elohim i juaj, ⟨ai⟩ do t'i dëbojë ata nga para jush dhe do t'i zhdukë nga para jush; dhe ju do të trashëgoni ⟨את⟩ tokën e tyre, ashtu siç u ka folur Jahve, Elohim i juaj.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dhe Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ai⟩"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "do t'i dëbojë ata"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "nga para jush"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "dhe do të zhdukë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (kombeat, në zhdukjen nga para jush)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "nga para jush"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dhe ju do të trashëgoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tyre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tokën e tyre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "u ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:43.874979250Z",
+  "model": "glm-5.3"
+}

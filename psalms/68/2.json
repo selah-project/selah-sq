@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Le të ngrihet Elohim, të shpërndahen armiqtë e tij, dhe të ikën të urrejturit e tij nga përballja e tij.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Le të ngrihet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "të shpërndahen"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "armiqtë e tij"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "dhe të ikën"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "të urrejturit e tij"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nga përballja e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:36.588418937Z",
+  "model": "glm-5.3"
+}

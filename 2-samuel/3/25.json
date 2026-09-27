@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "E njeh ⟨את⟩ Avnerin, birin e Nerit, se erdhi të të mashtronte, dhe të njihte ⟨את⟩ daljen tënde dhe ⟨את⟩ hyrjen tënde, dhe të njihte ⟨את⟩ gjithçka që ti bën.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerin"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nerit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "të të mashtronte"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "dhe të njihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daljen tënde"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "daljen tënde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hyrjen tënde"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "hyrjen tënde"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "dhe të njihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:19.170936721Z",
+  "model": "glm-5.3"
+}

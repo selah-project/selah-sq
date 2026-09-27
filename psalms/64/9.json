@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Kështu u bënë të pengohen nga gjuha e tyre kundër tyre; të gjithë që i shohin ⟨i⟩ lëkunden ⟨kokën⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "u bënë të pengohen"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuha e tyre"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "lëkunden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "që i shohin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:47.571363776Z",
+  "model": "glm-5.3"
+}

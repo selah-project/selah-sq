@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ më pyeti mua: Kush je ti? Dhe unë i thashë atij: Amalekit ⟨jam⟩ unë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i thashë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:41.267334354Z",
+  "model": "glm-5.3"
+}

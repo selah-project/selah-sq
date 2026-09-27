@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ai tha: «Nuk mund të kthehem me ⟨את⟩ ty as të hyj me ⟨את⟩ ty; dhe nuk do të ha bukë e as do të pi ujë me ⟨את⟩ ty në këtë vend.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "të kthehem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "me ⟨את⟩ ty"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "dhe të hyj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "me ⟨את⟩ ty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "do të ha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "do të pi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "me ⟨את⟩ ty"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:33.804177897Z",
+  "model": "glm-5.3"
+}

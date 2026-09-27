@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Shkatërrim ⟨është⟩ në mes të saj, dhe shtypja dhe mashtrim nuk largohen nga sheshi i saj.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "shkatërrim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "në mes të saj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "largohen"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "nga sheshi i saj"
+    },
+    {
+      "surface": "תך",
+      "gloss": "shtypja"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dhe mashtrim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:53.188564253Z",
+  "model": "glm-5.3"
+}

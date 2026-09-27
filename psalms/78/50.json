@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Shtroi ⟨një⟩ rrugë për zemërimin e tij; nuk e kurseu shpirtin e tyre nga vdekja, dhe jetën e tyre e dorëzoi murtajës.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Shtroi"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "për zemërimin e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "e kurseu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirtin e tyre"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "dhe jetën e tyre"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "murtajës"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "e dorëzoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:59.509796840Z",
+  "model": "glm-5.3"
+}

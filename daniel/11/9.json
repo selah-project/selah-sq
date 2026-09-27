@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨ai⟩ do të vijë në mbretërinë e mbretit të jugut, por do të kthehet në tokën e vet.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dhe do të vijë"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "në mbretërinë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "të jugut"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "por do të kthehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tokën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:39.693226373Z",
+  "model": "glm-5.3"
+}

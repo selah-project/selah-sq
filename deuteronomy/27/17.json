@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I malluar që zhvendos kufirin e të afermit të vet; dhe gjithë populli do të thotë: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i malluar"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "zhvendos"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "të afermit të vet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe do të thotë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:59.635393598Z",
+  "model": "glm-5.3"
+}

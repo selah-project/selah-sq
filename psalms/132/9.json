@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Priftërinjtë e tu le të vishen me drejtësi, dhe besnikërit e tu le të brohorin nga gëzimi.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "priftërinjtë e tu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "le të vishen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dhe besnikërit e tu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "le të brohorin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:37.546616105Z",
+  "model": "glm-5.3"
+}

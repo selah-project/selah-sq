@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 53,
+  "translation": "Për dirigjentin, sipas Mahalath-it, një mësimdhënës (masjkil) i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalath-it"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mësimdhënës (masjkil)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.053695433Z",
+  "model": "glm-5.3"
+}

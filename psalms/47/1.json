@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Për drejtorin; për bijtë e Korahut, një mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për drejtorin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahut"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:00.617994791Z",
+  "model": "glm-5.3"
+}

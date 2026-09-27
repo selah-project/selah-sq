@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe këto janë emrat e bijve të Izraelit që erdhën në Egjipt: ⟨את⟩ Jakobin, secili me shtëpinë e tij, erdhën.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "që erdhën"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "me shtëpinë e tij"
+    },
+    {
+      "surface": "באו",
+      "gloss": "erdhën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:16.553248954Z",
+  "model": "glm-5.3"
+}

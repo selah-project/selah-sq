@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "dhe nuk desha të dëgjoja Bilamin, dhe ai ju bekoi me bekime ⟨אתכם⟩, dhe ju shpëtova ⟨אתכם⟩ nga dora e tij.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "desha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "të dëgjoja"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilamin"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "me bekime"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "dhe shpëtova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "nga dora e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:46.950814133Z",
+  "model": "glm-5.3"
+}

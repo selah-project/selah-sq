@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Qiejt, qiejt ⟨janë⟩ të Jahves, por tokën ⟨e⟩ dha ⟨Ai⟩ bijve të njerëzve.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "por tokën"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:14.493712523Z",
+  "model": "glm-5.3"
+}

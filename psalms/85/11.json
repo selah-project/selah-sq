@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Hesed-i dhe e vërteta janë takuar ⟨ndaj⟩; drejtësia dhe paqja janë puthur ⟨njëra me tjetrën⟩.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed-i"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhe e vërteta"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "janë takuar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësia"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "dhe paqja"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "janë puthur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:00.890678123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Dhe unë ⟨jam⟩ gjithmonë me ty; ti më ke mbajtur për doren e djathtë ⟨time⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gjithmonë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ke mbajtur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "për doren"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "të djathtën eime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:53.038315968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Rruga e të mendoshit ⟨është⟩ e drejtë në sytë e ⟨tij⟩, por ai që dëgjon këshillë ⟨është⟩ i urtë.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rruga"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "e të mendoshit"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "por dëgjon"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "këshillë"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i urtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:32.591565242Z",
+  "model": "glm-5.3"
+}

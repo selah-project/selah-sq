@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Dhe thashë: «Sigurisht errësira do më vërshojë», por nata do të bëhet dritë rreth meje.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sigurisht"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësira"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "do më vërshojë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "por nata"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritë"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "rreth meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:47.986762585Z",
+  "model": "glm-5.3"
+}

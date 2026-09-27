@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Adonai tha: «Nga Bashani do t'i kthej, do t'i kthej nga thellësitë e detit.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Nga Bashani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do t'i kthej"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do t'i kthej"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "nga thellësitë"
+    },
+    {
+      "surface": "ים",
+      "gloss": "e detit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:39.292089482Z",
+  "model": "glm-5.3"
+}

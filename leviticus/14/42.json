@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të marrin gurë të tjerë dhe do t'i sjellin nën ⟨në vend të⟩ gurëve, dhe do të marrë pluhur tjetër dhe do ta suvasë ⟨את⟩ shtëpinë.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Dhe do të marrin"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "të tjerë"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "dhe do t'i sjellin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën ⟨në vend të⟩"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurëve"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dhe pluhur"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do të marrë"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "dhe do ta suvasë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:30.142114121Z",
+  "model": "glm-5.3"
+}

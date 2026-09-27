@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe Davidi u ngjit prej andej dhe u vendos në fortesat e En-Gedinit.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "u ngjit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u vendos"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "në fortesat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedinit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:52.604560781Z",
+  "model": "glm-5.3"
+}

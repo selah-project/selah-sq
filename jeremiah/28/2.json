@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Kështu ka thënë Jahve Tsevaot, Elohim i Izraelit, duke thënë: E thyeva ⟨את⟩ zgjodhën e mbretit të Babilonisë.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "e thyeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgjodhën"
+    },
+    {
+      "surface": "על",
+      "gloss": "zgjodhën"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "të mbretit"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "të Babilonisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:38.448813871Z",
+  "model": "glm-5.3"
+}

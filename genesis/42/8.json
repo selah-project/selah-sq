@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jozefi njohu ⟨את⟩ vëllezërit e vet, por ata nuk e njohën atë.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Dhe njohu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e vet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e vet"
+    },
+    {
+      "surface": "והם",
+      "gloss": "por ata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "e njohën atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:15.393350102Z",
+  "model": "glm-5.3"
+}

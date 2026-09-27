@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ti do të kthehesh dhe do t'i dëgjosh zërin e Jahvesë, dhe do të bësh ⟨את⟩ të gjitha urdhërimet e tij që unë të urdhëroj sot.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "do të kthehesh"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dhe do të dëgjosh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha urdhërimet e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "urdhërimet e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:52:22.169745520Z",
+  "model": "glm-5.3"
+}

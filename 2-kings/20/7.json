@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Isaia tha: «Merrni një tortë fiqish të shtypur.» Dhe morën ⟨את⟩ dhe e vunë mbi ënjtjen, dhe ai u shërua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaia"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Merrni"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "tortë fiqish të shtypur"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "fiqish"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dhe e vunë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ënjtjen"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dhe ai u shërua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:35.908729622Z",
+  "model": "glm-5.3"
+}

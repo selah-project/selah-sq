@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe ata të marrin ⟨את⟩ arin, ⟨את⟩ ecurinë e kaltër, ⟨את⟩ të purpurtën, ⟨את⟩ mëndafshin e kuq të njomë (të ngjyrosur dy herë) dhe ⟨את⟩ lirin e hollë.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dhe ata"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "të marrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ecurinë e kaltër"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ecurinë e kaltër"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të purpurtën"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "të purpurtën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mëndafshin e kuq"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(të ngjyrosur dy herë)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mëndafshin e kuq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lirin e hollë"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lirin e hollë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:45.294497636Z",
+  "model": "glm-5.3"
+}

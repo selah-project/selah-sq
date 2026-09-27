@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe u dha atyre kërkesën e tyre, dhe dërgoi ligësi në shpirtin e tyre.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "kërkesën e tyre"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ligësi"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "në shpirtin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:17.978621811Z",
+  "model": "glm-5.3"
+}

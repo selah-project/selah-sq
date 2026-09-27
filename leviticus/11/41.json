@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe çdo gjë e zvarritur që zvarritet mbi ⟨të⟩ tokën ⟨është⟩ neveri; nuk do të hahet.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "gjë e zvarritur"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "që zvarritet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩ ajo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hahet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:45.082065322Z",
+  "model": "glm-5.3"
+}

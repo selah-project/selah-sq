@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "dhe do të të çliroj ty dhe ⟨את⟩ këtë qytet nga dora e mbretit të Asirisë, dhe do ta mbroj këtë qytet.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "dhe nga dora e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Asirisë"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "do të të çliroj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këtë qytet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "dhe do ta mbroj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:40.952952863Z",
+  "model": "glm-5.3"
+}

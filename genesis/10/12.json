@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨את⟩ Resenin, midis Ninivesë dhe Kalahut — kjo ⟨është⟩ qyteti i madh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resenin"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resenin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivesë"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "i madh"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:27.705907863Z",
+  "model": "glm-5.3"
+}

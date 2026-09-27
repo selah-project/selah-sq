@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jahve dërgoi ⟨את⟩ Natanin te Davidi; dhe ai erdhi te ai dhe i tha: Dy njerëz ishin në një qytet, njëri i pasur dhe tjetri i varfër.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natanin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "njerëz"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "njëri"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "i pasur"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "dhe tjetri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "i varfër"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:46.269222437Z",
+  "model": "glm-5.3"
+}

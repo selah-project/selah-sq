@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Kur ecën, ajo të udhëheq ⟨את⟩ ty; kur shtrihesh, ajo të ruan; dhe kur zgjohesh, ajo bisedon me ty.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "kur ecën"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "të udhëheq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "kur shtrihesh"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "të ruan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mbi ty"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "dhe kur zgjohesh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "bisedon me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:00.605132652Z",
+  "model": "glm-5.3"
+}

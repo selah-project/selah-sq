@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe gjithë ai brez iu bashkua etërve të vet; dhe u ngrit një brez tjetër pas tyre, që nuk njihte ⟨את⟩ Jahvenë dhe as ⟨את⟩ veprën që kishte bërë për Izraelin.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ai brez"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "iu bashkua (u mblodh)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "etërve të vet"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "דור",
+      "gloss": "një brez"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pas tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "njihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprën"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:02.257702216Z",
+  "model": "glm-5.3"
+}

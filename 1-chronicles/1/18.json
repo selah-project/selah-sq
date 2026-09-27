@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Arpakshadi lindi ⟨את⟩ Shelahun, dhe Shelahu lindi ⟨את⟩ Eberin.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dhe Arpakshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahun"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahun"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dhe Shelahu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:42.918645491Z",
+  "model": "glm-5.3"
+}

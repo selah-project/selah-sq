@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Ata që rrinin në errësirë dhe në hijen e vdekjes, të burgosur në mundim dhe në hekur,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": " ata që rrinin "
+    },
+    {
+      "surface": "חשך",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "dhe në hijen e vdekjes"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "të burgosur në"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mundim"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "dhe në hekur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.439000323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe kur të mblidhet ⟨את⟩ asambleja, do të bini në britma të gjata, por nuk do të bini në sinjal alarmi.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "dhe kur të mblidhet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asambleja"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asambleja"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "do të bini në britma të gjata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "do të bini në sinjal alarmi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:04.189783842Z",
+  "model": "glm-5.3"
+}

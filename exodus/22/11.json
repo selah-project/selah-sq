@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Po nëse me të vërtetë vidhet nga ai, do të paguajë zotërisë së saj.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "po nëse"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "me të vërtetë vidhet"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "vidhet"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "nga ai"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të paguajë"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "zotërisë së saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:05.717891461Z",
+  "model": "glm-5.3"
+}

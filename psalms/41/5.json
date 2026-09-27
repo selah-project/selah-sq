@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Unë thashë: Jahve, më shfaq favor, shëro shpirtin tim, sepse kam mëkatuar kundër teje.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "më shfaq favor"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "shëro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kam mëkatuar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kundër teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.480699038Z",
+  "model": "glm-5.3"
+}

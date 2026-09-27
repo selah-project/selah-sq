@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Sepse ti, Jahve, ⟨je⟩ E larti mbi të gjithë ⟨të⟩ dheut, shumë lart mbri të gjitha perënditë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "E larti"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "lart mbri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perënditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:06.122687414Z",
+  "model": "glm-5.3"
+}

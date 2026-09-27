@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Edhe në pleqëri do të japin fryt, të majme dhe të gjelbër do të jenë.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "do të japin fryt"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "në pleqëri"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "të majme"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "dhe të gjelbër"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:22.735452762Z",
+  "model": "glm-5.3"
+}

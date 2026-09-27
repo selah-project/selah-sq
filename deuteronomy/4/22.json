@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "sepse unë po vdes në këtë vend, nuk po kaloj ⟨את⟩ Jordanin, ndërsa ju po kaloni dhe do të trashëgoni ⟨את⟩ ⟨të⟩ mirën e këtij vendi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מת",
+      "gloss": "po vdes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në këtë vend"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "po kaloj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndërsa ju"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "po kaloni"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "do të trashëgoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:02.810085323Z",
+  "model": "glm-5.3"
+}

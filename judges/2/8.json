@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe vdiq Jozue, bir i Nunit, shërbëtor i Jahvesë, bir ⟨i⟩ njëqind e dhjetë vjeç.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נון",
+      "gloss": "i Nunit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dhjetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjeç"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:56.188608663Z",
+  "model": "glm-5.3"
+}

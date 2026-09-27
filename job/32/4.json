@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Elihū priti pranë Ijobit me fjalë, sepse ata ishin më të moshuar se ai në ditë.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "dhe Elihū"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "priti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijobin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobin"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "me fjalë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "më të moshuar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se ai"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "në ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:45.354809809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe shkoi ⟨את⟩ me ta, dhe mbërritën në Jordan, dhe prenë drurët.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "me ta"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe mbërritën"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "në Jordan"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "dhe prenë"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drurët"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:54.740320976Z",
+  "model": "glm-5.3"
+}

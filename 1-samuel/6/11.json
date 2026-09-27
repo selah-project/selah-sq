@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Vendosën ⟨את⟩ arkën e Jahvesë mbi karrocë, dhe ⟨את⟩ kutinë, dhe ⟨את⟩ minjët e artë, dhe ⟨את⟩ figurat e ulcerave të tyre.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "vendosën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Jahvesë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "karrocë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kutinë"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kutia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minjët e artë"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "minjët"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e artë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "figurat e ulcerave"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "figurat"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "të ulcerave të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:14.937242715Z",
+  "model": "glm-5.3"
+}

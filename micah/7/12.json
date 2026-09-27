@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Atë ditë do të vijnë te ti, nga Ashuri dhe qytetet e Matsorit, dhe nga Matsori deri në Lumë, dhe nga deti në det, dhe nga mali në mal.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të vijnë"
+    },
+    {
+      "surface": "למני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "dhe qytetet e"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsorit"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsori"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Lumë"
+    },
+    {
+      "surface": "וים",
+      "gloss": "dhe nga deti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "në det"
+    },
+    {
+      "surface": "והר",
+      "gloss": "dhe nga mali"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T16:49:20.141332578Z",
+  "model": "glm-5.3"
+}

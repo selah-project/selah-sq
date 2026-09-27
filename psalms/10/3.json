@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Sepse i ligu mburret me dëshirën e shpirtit të vet, dhe fitimprurësi bekohet, e përbuz Jahvenë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "mburret"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i ligu"
+    },
+    {
+      "surface": "על",
+      "gloss": "me"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "dëshirën"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "e shpirtit të vet"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "dhe fitimprurësi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bekohet"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "e përbuz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:12.816810306Z",
+  "model": "glm-5.3"
+}

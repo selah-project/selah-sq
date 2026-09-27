@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "gurë shohami dhe gurë për mbushje (vendosje), për efodin dhe për kraharorin;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shohami"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "dhe gurë"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "për mbushje (vendosje)"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "për efodin"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "dhe për kraharorin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:40.642740916Z",
+  "model": "glm-5.3"
+}

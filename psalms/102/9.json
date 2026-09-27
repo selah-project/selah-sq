@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Gjithë ditën më përbuzën armiqtë e mi; ata që janë çmendur kundër meje janë betuar ⟨në⟩ ⟨emrin⟩ tim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "më përbuzën"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "të çmendurit kundër meje"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në ⟨emrin tim⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "janë betuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:10.636336138Z",
+  "model": "glm-5.3"
+}

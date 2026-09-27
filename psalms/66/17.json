@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 66,
+  "translation": "Atij me gojën time i bëra thirrje, dhe lartmadhërimi ⟨is⟩ nën gjuhën time.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Atij"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "i bëra thirrje"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "dhe lartmadhërimi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuhën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:03.221319845Z",
+  "model": "glm-5.3"
+}

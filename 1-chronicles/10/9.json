@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe e zhveshën atë, dhe morën ⟨את⟩ kokën e tij dhe ⟨את⟩ pajisjet e tij, dhe i dërguan nëpër tokën e filistejve rreth e rrotull, për t'i sjellë lajmin perëndive të tyre dhe ⟨את⟩ popullit.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "dhe e zhveshën atë"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën e tij"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pajisjet e tij"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pajisjet e tij"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nëpër tokën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "e filistejve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "për t'i sjellë lajmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perëndive të tyre"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "perëndive të tyre (idhujve)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:32.197403773Z",
+  "model": "glm-5.3"
+}

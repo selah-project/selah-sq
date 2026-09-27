@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ai që vendos trarët e dhomave të tij të larta ⟨në⟩ ujërat, ai që bën retë karrocin e tij, ai që ecën mbi krahët e erës.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "që vendos trarët"
+    },
+    {
+      "surface": "במים",
+      "gloss": "⟨në⟩ ujërat"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "dhomave të tij të larta"
+    },
+    {
+      "surface": "השם",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "retë"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "karrocin e tij"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "që ecën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krahët e"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.421188007Z",
+  "model": "glm-5.3"
+}

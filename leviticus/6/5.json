@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 6:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe zjarri mbi altar do të djegë në të, të mos fiket; dhe prifti do të vërë dru mbi të çdo mëngjes, çdo mëngjes, dhe do të rregullojë mbi të olokaustën dhe do të djegë si tym mbi të yndyrnat e flijimeve të paqes.",
+  "tokens": [
+    {
+      "surface": "והאש",
+      "gloss": "Dhe zjarri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "do të djegë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "fiket"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "dhe do të vërë (dru)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dru"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "çdo mëngjes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "çdo mëngjes"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "dhe do të rregullojë"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olokaustën"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dhe do të djegë si tym"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "yndyrnat"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "të flijimeve të paqes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:49.769685037Z",
+  "model": "glm-5.3"
+}

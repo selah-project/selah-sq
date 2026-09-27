@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ai mblodhi ⟨את⟩ njerëz pranë vetes dhe u bë kryetar i një çete kur Davidi i vrau ⟨את⟩ ata; dhe shkuan në Damask dhe banuan aty dhe mbretëruan në Damask.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Dhe mblodhi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pranë vetes"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨את⟩ njerëz"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetar i"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "një çete"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "kur vrau"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i ata"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "në Damask"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe banuan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dhe mbretëruan"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "në Damask"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:22.691243989Z",
+  "model": "glm-5.3"
+}

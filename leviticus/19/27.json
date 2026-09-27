@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos rrudhni skajet e kokës suaj dhe mos prishni ⟨את⟩ skajet e mjekrës tuaj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "rrudhni\/prisni rreth"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "e kokës suaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "prishni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skajet e mjekrës"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "e mjekrës tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:44.853118697Z",
+  "model": "glm-5.3"
+}

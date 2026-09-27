@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 9:4",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve i tha atij: Kalo nëpër mes të qytetit, nëpër mes të Jerusalemit, dhe vër një shenjë mbi ballin e njerëzve që psherëtinë e që lëshojnë britma për të gjitha neveritë që bëhen në mes të tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Kalo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nëpër mes"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nëpër mes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "והתוית",
+      "gloss": "dhe vër shenjë"
+    },
+    {
+      "surface": "תו",
+      "gloss": "një shenjë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מצחות",
+      "gloss": "ballin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "e njerëzve"
+    },
+    {
+      "surface": "הנאנחים",
+      "gloss": "që psherëtinë"
+    },
+    {
+      "surface": "והנאנקים",
+      "gloss": "e që lëshojnë britma"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "neveritë"
+    },
+    {
+      "surface": "הנעשות",
+      "gloss": "që bëhen"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "në mes të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:29:07.041189005Z",
+  "model": "glm-5.3"
+}

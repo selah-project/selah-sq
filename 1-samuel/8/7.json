@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jahve i tha Samuelit: Dëgjo zërin e popullit, në gjithë çfarë do të të thonë; sepse ⟨אתך⟩ nuk të kanë refuzuar, por ⟨אתי⟩ Mua më kanë refuzuar, që të mos mbretëroj mbi ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelit"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "do të të thonë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty të kanë refuzuar"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "të kanë refuzuar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mua më kanë refuzuar"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "më kanë refuzuar"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "të mos mbretëroj"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:02.417439491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe tani shkoni, punoni; dhe kashtë nuk do t'ju jepet juve, dhe masën e tullave do ta jepni ju.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "punoni"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "dhe kashtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "do të jepet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "dhe masën"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "e tullave"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "do ta jepni ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:41.070788198Z",
+  "model": "glm-5.3"
+}

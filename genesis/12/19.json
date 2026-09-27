@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Pse the: Ajo ⟨është⟩ motra ime, dhe unë e mora ⟨את⟩ atë për grua? Dhe tani, ja, gruaja jote — merr ⟨atë⟩ dhe ik!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "the"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "motra ime"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩ ajo"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "dhe e mora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (Sarain)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "gruaja jote"
+    },
+    {
+      "surface": "קח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dhe ik"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:45.501301462Z",
+  "model": "glm-5.3"
+}

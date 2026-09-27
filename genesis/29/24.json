@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Labani i dha asaj ⟨את⟩ Zilpan, shërbëtoren e tij, Leas, vajzës së tij, si shërbëtore.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpan"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "shërbëtoren e tij"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Leas"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "vajzës së tij"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "si shërbëtore"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:39.236493792Z",
+  "model": "glm-5.3"
+}

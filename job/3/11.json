@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Pse nuk vdiqa ⟨që nga⟩ mitra? Nga barku dola dhe ⟨pse nuk⟩ dhesha?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nga mitra"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "vdiqa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "dola"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "dhe dhesha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:43.681165590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe do ta hani ⟨אתה⟩ në vend të shenjtë, sepse është pjesa jote dhe pjesa e bijve tuaj, nga flijimet e zjarrit të Jahvesë; sepse kështu jam urdhëruar.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "dhe do ta hani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ofertën — në vend të shenjtë)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "pjesa jote"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "dhe pjesa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "e bijve tuaj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nga flijimet e zjarrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jam urdhëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:28.593470141Z",
+  "model": "glm-5.3"
+}

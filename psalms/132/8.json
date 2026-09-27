@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Çohu, o Jahve, drejt pushimit tënd, ti dhe arka e fuqisë sate.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Çohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "drejt pushimit tënd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "dhe arka"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "e fuqisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:46.435841286Z",
+  "model": "glm-5.3"
+}

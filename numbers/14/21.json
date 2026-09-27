@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Por, i gjallë jam unë, dhe lavdia e Jahve do të mbushë ⟨את⟩ gjithë ⟨the⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Por"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "do të mbushë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë tokën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:58.801329782Z",
+  "model": "glm-5.3"
+}

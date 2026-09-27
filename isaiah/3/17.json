@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Adonai do t'i godasë me lyth kreut të vajzave të Sionit, dhe Jahve do t'i lëkurëzojë ⟨pjesët e tyre të turpshme⟩.",
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "do t'i godasë me lyth"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kreu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "vajzave"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "të Sionit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "⟨pjesët e tyre të turpshme⟩"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "do t'i lëkurëzojë \/ do t'i zbulojë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:21.669554204Z",
+  "model": "glm-5.3"
+}

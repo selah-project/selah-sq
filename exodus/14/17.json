@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe unë — ja, unë po e forcoj ⟨את⟩ zemrën e egjiptianëve, dhe do të vinë pas tyre; dhe do të shquhem mbi Faraonin dhe mbi gjithë ushtrinë e tij, mbi qerret e tij dhe mbi kalorësit e tij.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "po e forcoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e egjiptianëve"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe do të vinë"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pas tyre"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "dhe do të shquhem"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mbi Faraonin"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe mbi gjithë"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ushtrinë e tij"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "mbi qerret e tij"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dhe mbi kalorësit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:04.413259223Z",
+  "model": "glm-5.3"
+}

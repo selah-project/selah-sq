@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Rrugët e tua, o Jahve, m'i bëj të njohura; shtigjet e tua mësojmi.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "rrugët e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "m'i bëj të njohura"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "shtigjet e tua"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mësojmi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.617371463Z",
+  "model": "glm-5.3"
+}

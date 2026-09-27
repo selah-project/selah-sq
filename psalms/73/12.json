@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Ja, këta janë të pabesët, dhe të qetët e përjetshëm shtuan pasuri.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "dhe të qetët"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e përjetshëm"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "shtuan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasuri"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:47.491955368Z",
+  "model": "glm-5.3"
+}

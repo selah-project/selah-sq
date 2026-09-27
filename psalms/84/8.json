@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 84,
+  "translation": "Ecën nga forca në forcë; duket ⟨para⟩ Elohim në Sion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ecën"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "nga forca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "forcë"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "duket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Sion"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:46.852014870Z",
+  "model": "glm-5.3"
+}

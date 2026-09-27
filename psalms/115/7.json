@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Duart e tyre, por nuk prekin; këmbët e tyre, por nuk ecin; nuk pëshpërisin me fytin e tyre.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "prekin"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "këmbët e tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ecin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "pëshpërisin"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "me fytin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:29.854907457Z",
+  "model": "glm-5.3"
+}

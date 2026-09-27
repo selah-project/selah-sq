@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Gjërat e mia të shenjta i ke përçmuar, dhe ⟨את⟩ Shabatet e mia i ke shkelur.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "gjërat e mia të shenjta"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "i ke përçmuar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatet e mia"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatet e mia"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "i ke shkelur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:41.148610565Z",
+  "model": "glm-5.3"
+}

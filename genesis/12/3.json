@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do të bekoj ata që të bekojnë, dhe atë që të mallkon do ta mallkoj; dhe në ty do të bekohen të gjitha familjet e dheut.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "dhe do të bekoj"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ata që të bekojnë"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "dhe atë që të mallkon"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "do ta mallkoj"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "dhe do të bekohen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familjet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:21.905808232Z",
+  "model": "glm-5.3"
+}

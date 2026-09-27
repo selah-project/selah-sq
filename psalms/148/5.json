@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvdoni ⟨את⟩ emrin e Jahvesë, sepse ai urdhëroi dhe ⟨u⟩ krijuan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "dhe u krijuan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:09.889066023Z",
+  "model": "glm-5.3"
+}

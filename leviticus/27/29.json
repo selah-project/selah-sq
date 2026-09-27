@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Çdo herem që do t'i shenjtërohet ⟨nga⟩ njerëzit nuk shpengohet: me vdekje do të vdesë.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "herem (gjë e ndaluar për shkatërrim)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "do t'i shenjtërohet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "shpengohet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:05.797922851Z",
+  "model": "glm-5.3"
+}

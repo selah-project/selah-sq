@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Por ti, o Izrael, robi im, o Jakob, të cilin zgjodha, farë e Abrahamit, të dashurit tim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robi im"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "zgjodha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "e Abrahamit"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "të dashurit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:54.607340550Z",
+  "model": "glm-5.3"
+}

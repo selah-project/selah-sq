@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe nëse t'i shpall ⟨את⟩ këtë fjalën tonë, atëherë ne do të jemi të liruar nga e verteta jote, me të cilën na bëre ta betojmë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "t'i shpall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalën tonë"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "fjalën tonë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dhe ne do të jemi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "të liruar \/ të pafajshëm"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "nga besa jote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilën"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "na bëre ta betojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:20.643050036Z",
+  "model": "glm-5.3"
+}

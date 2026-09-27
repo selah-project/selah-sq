@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "E dashurova ⟨atë⟩, sepse Jahve dëgjon ⟨את⟩ zërin tim, lutjet e mia.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "e dashurova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin tim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lutjet e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:18.190122638Z",
+  "model": "glm-5.3"
+}

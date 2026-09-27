@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ne kemi kryengritur dhe jemi rebeluar; ti nuk ke falur.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "kemi kryengritur"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "dhe jemi rebeluar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ke falur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:04.068018631Z",
+  "model": "glm-5.3"
+}

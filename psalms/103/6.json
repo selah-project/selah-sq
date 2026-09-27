@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Jahve punon drejtësi dhe gjykime për ⟨të⟩ gjithë ⟨të⟩ shtypurit.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "punon"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dhe gjykime"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjithë"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "të shtypurit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:20.286276816Z",
+  "model": "glm-5.3"
+}

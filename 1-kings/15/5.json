@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "për arsye se Davidi bëri ⟨את⟩ ⟨të⟩ drejtën në sytë e Jahvesë, dhe nuk u largua nga asgjë që i kishte urdhëruar ⟨ai⟩, gjithë ditët e jetës së tij — vetëm në çështjen e Uriasë hititit.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "për arsye se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtën"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "të drejtën"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "סר",
+      "gloss": "u largua"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga asgjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i kishte urdhëruar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jetës së tij"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "në çështjen e"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriasë"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:00.858891825Z",
+  "model": "glm-5.3"
+}

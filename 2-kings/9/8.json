@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe do të zhduket e gjithë shtëpia e Ahabit, dhe do të shfaros për Ahab çdo mashkull (bokëmuri-në-mur), të mbyllur dhe të lënë, në Izrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "do të zhduket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "e Ahabit"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "do të shfaros"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "për Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ai që urinon (mashkull)"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kundër murit"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "të mbyllur"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "të lënë"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:42.032830288Z",
+  "model": "glm-5.3"
+}

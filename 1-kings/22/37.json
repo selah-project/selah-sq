@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mbreti vdiq, dhe ⟨e⟩ çuan në Shomeron, dhe e varrosën ⟨את⟩ mbretin në Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "vdiq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e varrosën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "në Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-27T15:39:43.004705113Z",
+  "model": "glm-5.3"
+}

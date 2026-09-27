@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe zgjodhi Davidin, shërbëtorin e tij, dhe e mori atë nga vathët e deleve.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "dhe zgjodhi"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "dhe e mori atë"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "nga vathët e"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "deleve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:48.886609377Z",
+  "model": "glm-5.3"
+}

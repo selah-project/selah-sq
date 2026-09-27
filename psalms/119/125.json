@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Shërbëtori ⟨i⟩ jotë jam unë; më bëj të kuptoj, dhe do t'i njoh dëshmitë e tua.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori jotë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "më bëj të kuptoj"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "dhe do të njoh"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dëshmitë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:45.592053030Z",
+  "model": "glm-5.3"
+}

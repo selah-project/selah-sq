@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "E ngulitur ⟨është⟩ zemra ime, Elohim; do të këndoj, po, do të bëj muzikë, madje edhe me lavdinë time.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "E ngulitur"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "do të bëj muzikë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "madje edhe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "me lavdinë time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.172334154Z",
+  "model": "glm-5.3"
+}

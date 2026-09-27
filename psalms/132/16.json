@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Dhe priftërinjtë e saj ⟨do⟩ t'i vesh me shpëtim, dhe të devotshmit e saj me gjëmim gëzimi do të gjëmojnë.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "dhe priftërinjtë e saj"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "do t'i vesh"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "me shpëtim"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "dhe të devotshmit e saj"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "me gjëmim gëzimi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "do të gjëmojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:39.572280278Z",
+  "model": "glm-5.3"
+}

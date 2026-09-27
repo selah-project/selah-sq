@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Kundërshtarët e mi më gëlltisin gjithë ditën, se shumë luftojnë kundër meje ⟨nga⟩ lartësia.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "më gëlltisin"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "kundërshtarët e mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "luftojnë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨nga⟩ lartësia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:08.674259994Z",
+  "model": "glm-5.3"
+}

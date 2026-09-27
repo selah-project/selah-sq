@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Elohim, me veshët tanë dëgjuam, etërit tanë na treguan ⟨veprën⟩ që punove në ditët e tyre, në ditët e lashta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "me veshët tanë"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "dëgjuam"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "etërit tanë"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "na treguan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "që punove"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "në ditët e tyre"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët e"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "lashta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:20.454555376Z",
+  "model": "glm-5.3"
+}

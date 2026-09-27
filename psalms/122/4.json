@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Sepse aty ngjiten fiset, fiset e Jahut, dëshmi për Izraelin, për të falënderuar emrin e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ngjiten"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "fiset e"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahut"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "dëshmi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "për të falënderuar"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:42.089186542Z",
+  "model": "glm-5.3"
+}

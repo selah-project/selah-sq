@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Jahve i ka bërë ⟨të gjitha⟩ për qëllimin e vet, edhe të ligun për ditën e keqe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "i ka bërë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "për qëllimin e vet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të ligun"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "për ditën"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:38.451703628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të therë ⟨את⟩ njërin nga zogjtë në një enë balte mbi ujë të gjallë.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do të therë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njërin nga zogjtë"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "zogun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "njërin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "enë"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "balte (qeramike)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "të gjallë (të rrjedhshëm)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:47.557742743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sipas ligjit, ç'të bëhet me mbretëreshën Vashti, sepse ajo nuk e bëri ⟨את⟩ urdhërimin e mbretit Ahashverosh ⟨nëpërmjet⟩ dorës së eunukëve?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Sipas ligjit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bëhet"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "me mbretëreshën"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "e bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhërimin"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "urdhërimin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dorës së"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunukëve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:43.829704731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Esau tha: Kam aq sa më duhet, vëllai im; le të jetë e jotja ajo që ⟨është⟩ e jotja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aq sa më duhet"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai im"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "le të jetë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e jotja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e jotja"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:24.794132166Z",
+  "model": "glm-5.3"
+}

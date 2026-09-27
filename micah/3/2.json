@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "që urrejnë të mirën dhe e duan të keqen, që zhviskin lëkurën e tyre nga mbi ta dhe mishin e tyre nga mbi kockat e tyre,",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "që urrejnë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "dhe e duan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "që zhviskin (grabitin)"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "lëkurën e tyre"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "nga mbi ta"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "dhe mishin e tyre"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga mbi"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "kockat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:33.612172119Z",
+  "model": "glm-5.3"
+}

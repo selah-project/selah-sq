@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe bëri shkopinj prej druri akacie dhe i mbuloi ⟨אתם⟩ me ar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "shkopinj"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "prej druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dhe i mbuloi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "me ar (i mbuloi ata)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:59.861262553Z",
+  "model": "glm-5.3"
+}

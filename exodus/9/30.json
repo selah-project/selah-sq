@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Por sa për ty dhe shërbëtorët e tu, e di se nuk u frikësoheni ende para fytyrës së Jahvesë, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Por sa për ty"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "dhe shërbëtorët e tu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ende"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "nuk u frikësoheni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "para fytyrës së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:36.287228209Z",
+  "model": "glm-5.3"
+}

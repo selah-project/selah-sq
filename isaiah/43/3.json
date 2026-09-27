@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Sepse unë ⟨jam⟩ Jahve, Elohim i yt, i Shenjti i Izraelit, Shpëtimtari yt; dhashë si shpërblim tënd Egjiptin, Kushin dhe Sebën në vendin tënd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i Shenjti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Shpëtimtari yt"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dhashë"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "si shpërblim tënd"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dhe Sebën"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "në vendin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:43.384888009Z",
+  "model": "glm-5.3"
+}

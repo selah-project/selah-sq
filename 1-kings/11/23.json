@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Elohim i ngjalli atij një kundërshtar: ⟨את⟩ Rezonin, birin e Eliadaës, i cili iku prej ⟨את⟩ Hadadezerit, mbretit të Tsovah-s, zotërisë së tij.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe i ngjalli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "një kundërshtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezonin"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezonin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliadaës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "prej ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit të"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah-s"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:22.691063784Z",
+  "model": "glm-5.3"
+}

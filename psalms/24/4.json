@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "I paajshëm me duar dhe i pastër me zemër, që nuk e ngriti shpirtin e vet kah kotësia, dhe nuk u betua me mashtrim.",
+  "tokens": [
+    {
+      "surface": "נְקִי",
+      "gloss": "i pafajshëm"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "me duar"
+    },
+    {
+      "surface": "וּבַר",
+      "gloss": "dhe i pastër"
+    },
+    {
+      "surface": "לֵבָב",
+      "gloss": "me zemër"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נָשָׂא",
+      "gloss": "e ngriti"
+    },
+    {
+      "surface": "לַשָּׁוְא",
+      "gloss": "kah kotësia"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "shpirtin e vet"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נִשְׁבַּע",
+      "gloss": "u betua"
+    },
+    {
+      "surface": "לְמִרְמָה",
+      "gloss": "me mashtrim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:49.693587376Z",
+  "model": "glm-5.3"
+}

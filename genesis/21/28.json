@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe Abrahami vuri ⟨את⟩ shtatë mielë dele veçmas.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë mielë dele"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "mielë dele"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "të dele"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "veçmas"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:56.830069252Z",
+  "model": "glm-5.3"
+}

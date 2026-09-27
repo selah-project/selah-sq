@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Njerëzit e dy mendjeve i urreva, dhe Torën tënde e dova.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "njerëzit e dy mendjeve"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "i urreva"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dhe Torën tënde"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "e dova"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.280315252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Mos kurdis të keqe kundër të afërmit tënd, ndërsa ai banon i sigurt ⟨את⟩ pranë teje.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kurdis"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "të afërmit tënd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndërsa ai"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banon"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i sigurt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pranë teje (këtu parafjalë 'me\/pranë', jo kundrinor i drejtë)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:45.793171862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Nëse të ndesh demin e armikut tënd ose gomarin e tij të humbur, sigurisht ktheja atë te ai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "të ndesh"
+    },
+    {
+      "surface": "שור",
+      "gloss": "demin"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "e armikut tënd"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "gomarin e tij"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "të humbur"
+    },
+    {
+      "surface": "השב",
+      "gloss": "sigurisht ktheja"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "te ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:40.798941225Z",
+  "model": "glm-5.3"
+}

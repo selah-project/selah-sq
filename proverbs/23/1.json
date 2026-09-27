@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Kur ulesh të hash ⟨me⟩ ⟨את⟩ një sundimtar, kupto mirë ⟨את⟩ atë që ⟨është⟩ para teje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ulesh"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "të hash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sundimtar"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "sundimtar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kupto"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "mirë kupto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që është para teje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:44.608121949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe rrënuan ⟨את⟩ shtyllën e Baalit, dhe rrënuan ⟨את⟩ shtëpinë e Baalit, dhe e bënë atë një vend nevojash deri në ditën e sotme.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "dhe rrënuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllën"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "shtyllën"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "të Baalit"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "dhe rrënuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "të Baalit"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "dhe e bënë atë"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "vend nevojash"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën e sotme"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:40.201235052Z",
+  "model": "glm-5.3"
+}

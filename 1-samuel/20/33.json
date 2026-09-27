@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Sauli e hodhi ⟨את⟩ shtizën kundër tij për ta goditur, dhe Jonathani e kuptoi që ⟨is⟩ e vendosur nga ana e të atit të vritet ⟨את⟩ Davidi.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "e hodhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtizën"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "shtizën"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "për ta goditur"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dhe e kuptoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "e vendosur plotësisht"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga ana e"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "të vritet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:56.109828114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndërtoi ⟨את⟩ Beth-Horonin e sipërm dhe ⟨את⟩ Beth-Horonin e poshtëm, qytete të fortifikuara, me mure, dyer dhe shulle.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Horonin e sipërm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "i sipërm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Horonin e poshtëm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "i poshtëm"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "të fortifikuara"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "me mure"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dyer"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "dhe shulle"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:04.597507318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Shumë do të pastrohen, do të zbardhen dhe do të kullohen; dhe të ligjtë do të veprojnë ligësisht, dhe asnjë nga të ligjtë nuk do të kuptojë; por të mençurit do të kuptojnë.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "do të pastrohen"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "dhe do të zbardhen"
+    },
+    {
+      "surface": "ויצרfו",
+      "gloss": "dhe do të kullohen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "dhe do të veprojnë ligësisht"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "do të kuptojë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë nga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "por të mençurit"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "do të kuptojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:43.872991353Z",
+  "model": "glm-5.3"
+}

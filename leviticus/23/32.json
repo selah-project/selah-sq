@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Shabat pushim i plotë ⟨është⟩ për ju, dhe do të përulni ⟨את⟩ shpirtërat tuaj; në të nëntin e muajit, në muzg, nga muzgu deri në muzg do ta mbani Shabatin tuaj.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pushim i plotë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dhe do të përulni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtërat tuaj"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "shpirtërat tuaj"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "në të nëntin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në muzg"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "nga muzgu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "muzg"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "do ta mbani"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabatin tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:27.856506291Z",
+  "model": "glm-5.3"
+}

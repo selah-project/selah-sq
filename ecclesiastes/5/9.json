@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Kush do argjend nuk ngopet me argjend, dhe kush do pasuri, nuk i vijnë ⟨te ardhurat⟩; edhe kjo është habël.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "kush do"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ngopet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "me argjend"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe kush"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "do"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "pasuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "te ardhurat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habël"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:42.112600150Z",
+  "model": "glm-5.3"
+}

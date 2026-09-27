@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe i braktisën atje ⟨את⟩ idhujt e tyre, dhe Davidi i mori ⟨i⟩ ata, ai dhe burrat e tij.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "dhe i braktisën"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idhujt e tyre"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "idhujt e tyre"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "dhe i mori ata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dhe burrat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:11.073104922Z",
+  "model": "glm-5.3"
+}

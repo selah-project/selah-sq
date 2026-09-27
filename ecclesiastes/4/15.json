@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Pashë ⟨את⟩ të gjithë të gjallët që ecin nën diell, me fëmijën e dytë, që do të ngrihet në vend të tij.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë të gjallët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të gjallët"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "që ecin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmijën"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "do të ngrihet"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:15.938874030Z",
+  "model": "glm-5.3"
+}

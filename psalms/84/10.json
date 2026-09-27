@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 84,
+  "translation": "Mburoja jonë, shiko, o Elohim, dhe kqyr fytyrën e Mashiachit tënd.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Mburoja jonë"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "dhe kqyr"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën e"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiachit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:02.726359042Z",
+  "model": "glm-5.3"
+}

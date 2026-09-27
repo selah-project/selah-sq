@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ hivitët, dhe ⟨את⟩ arkitët, dhe ⟨את⟩ sinitët,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hivitët"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "arkitët"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "sinitët"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sinitët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.098383837Z",
+  "model": "glm-5.3"
+}

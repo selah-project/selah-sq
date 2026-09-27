@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Jahve, dëgjo lutjen time, dhe britma ime le të vijë te ti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "dhe britma ime"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "le të vijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.040750433Z",
+  "model": "glm-5.3"
+}

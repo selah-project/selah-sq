@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Se goja e të pangjërit dhe goja e mashtrimit m'i kanë hapur kundër; më kanë folur ⟨me⟩ gjuhë gënjeshtrash.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "e të pangjërit"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "dhe goja"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "e mashtrimit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "kanë hapur"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kanë folur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuhë"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtrash"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:31.968580282Z",
+  "model": "glm-5.3"
+}

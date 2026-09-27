@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "I përçmuar është ⟨në⟩ sytë e tij ⟨i⟩ pavlerëshmit, por ⟨את⟩ të frikësuarit e Jahvesë i nderon; është betuar të bëjë keq dhe nuk e ndryshon.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "i përçmuar"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "pavlerëshmit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të frikësuarit e Jahvesë"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "të frikësuarit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "i nderon"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "është betuar"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "të bëjë keq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "e ndryshon"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:59.845589036Z",
+  "model": "glm-5.3"
+}

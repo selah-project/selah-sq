@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Zemra e të urtëve ⟨është⟩ në shtëpinë e mortit, dhe zemra e të marrëve në shtëpinë e gëzimit.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "e të urtëve"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "të mortit"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dhe zemra"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "e të marrëve"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "të gëzimit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:57.183343657Z",
+  "model": "glm-5.3"
+}

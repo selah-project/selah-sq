@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe nëse më bën një altar prej gurësh, mos i ndërto ⟨את⟩ ato me gurë të qethur, sepse nëse valëvite shpatën tënd mbi të, e ke profanuar atë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "prej gurësh"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "i ndërto"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ato (gurët e altarit)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "me gurë të qethur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "shpatën tënd"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "valëvite"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "e ke profanuar atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:01.356093809Z",
+  "model": "glm-5.3"
+}

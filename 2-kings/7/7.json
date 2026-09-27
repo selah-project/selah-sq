@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ata u ngritën dhe ikën në muzg, dhe braktisën ⟨את⟩ tendat e tyre dhe ⟨את⟩ kuajt e tyre dhe ⟨את⟩ gomarët e tyre — kampin ashtu siç ishte — dhe ikën për jetën e tyre.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "dhe ata u ngritën"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "në muzg"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "dhe braktisën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendat e tyre"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "tendat e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kuajt e tyre"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuajt e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gomarët e tyre"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "gomarët e tyre"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jetën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:21.662385434Z",
+  "model": "glm-5.3"
+}

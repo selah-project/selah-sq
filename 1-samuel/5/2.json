@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe filistejtë morën ⟨את⟩ arkën e Elohit, e sollën ⟨את⟩ atë në shtëpinë e Dagonit dhe e vunë ⟨את⟩ atë pranë Dagonit.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dhe morën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "e sollën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "në shtëpinë e Dagonit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "e Dagonit"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "e vunë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "pranë Dagonit"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:32.830408259Z",
+  "model": "glm-5.3"
+}

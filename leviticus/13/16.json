@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Ose nëse mishi i gjallë kthehet prapë dhe shndërrohet në të bardhë, atëherë ai do të vijë te prifti.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kthehet prapë"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mishi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "dhe shndërrohet"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "në të bardhë"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe do të vijë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:47.584222432Z",
+  "model": "glm-5.3"
+}

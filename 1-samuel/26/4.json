@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Davidi dërgoi spiunë dhe dit se Sauli kishte ardhur vërtet ⟨atje⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spiunë"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dhe dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨atje⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vërtet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:16.744436432Z",
+  "model": "glm-5.3"
+}

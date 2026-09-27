@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Bëra gjykim e drejtësi; mos më lër ⟨te⟩ shtypësit e mi.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Bëra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "e drejtësi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mos (asnjëanës)"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "më lër"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "te shtypësit e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:10.788243680Z",
+  "model": "glm-5.3"
+}

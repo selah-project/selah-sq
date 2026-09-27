@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Absalomi ngulmoi te ⟨ai⟩, dhe ⟨ai⟩ dërgoi ⟨את⟩ me ⟨të⟩ ⟨את⟩ Amnonin dhe ⟨את⟩ të gjithë bijtë e mbretit.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "dhe ngulmoi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "te ⟨ai⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalomi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me ⟨të⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnonin"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë bijtë e mbretit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:28.875901929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Ditën që frikësohem, unë, tek ti besoj.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "që frikësohem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tek ty"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "besoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:08.674633885Z",
+  "model": "glm-5.3"
+}

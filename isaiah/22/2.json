@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "E plotë me zhurma, qytet i gumëzhitshëm, qytet i gëzuar; të rënët e tu nuk ⟨janë⟩ të rënë të shpatës dhe as të ngordhur të luftës.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "me zhurma"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "E plotë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "i gumëzhitshëm"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "i gëzuar"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "të rënët e tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "të rënë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "të ngordhur"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "të luftës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:39.875188467Z",
+  "model": "glm-5.3"
+}

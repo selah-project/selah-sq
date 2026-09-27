@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "sikur të mos ishte Jahve për ne, kur u ngrit njeriu kundër nesh,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "sikur të mos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "kur u ngrit"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kundër nesh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.046186354Z",
+  "model": "glm-5.3"
+}

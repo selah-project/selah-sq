@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe tha: Eja me ⟨את⟩ mua dhe shih zellin tim për Jahve. Dhe e bënë të hipë ⟨את⟩ atë në qerren e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Eja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "me ⟨את⟩ mua"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe shih"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "zellin tim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Dhe e bënë të hipë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (në qerren e tij)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "në qerren e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:39.850029482Z",
+  "model": "glm-5.3"
+}

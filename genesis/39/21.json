@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe Jahve ishte ⟨me⟩ ⟨את⟩ Jozefin, dhe shtriu hesed ndaj tij, dhe dha hirin e tij në sytë e kryetarit të shtëpisë së burgut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Jozefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefin"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dhe shtriu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ndaj tij"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "hirin e tij"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetarit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "së burgut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:48.636215772Z",
+  "model": "glm-5.3"
+}

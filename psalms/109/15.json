@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Le të jenë përpara Jahve vazhdimisht, dhe ai të presë nga toka kujtimin e tyre.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "le të jenë"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dhe të presë"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kujtimin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:38.162111607Z",
+  "model": "glm-5.3"
+}

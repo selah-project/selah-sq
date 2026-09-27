@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dita pas ditës derdh fjalë, dhe nata pas natës shfaq njohuri.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ditës"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ditës"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "derdh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dhe natës"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "natës"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "shfaq"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "njohuri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:19.329301978Z",
+  "model": "glm-5.3"
+}

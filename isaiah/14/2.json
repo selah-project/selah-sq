@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 14:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Popujt do t'i marrin ⟨ata⟩ dhe do t'i sjellin në vendin e tyre, dhe shtëpia e Izraelit do t'i trashëgojë mbi tokën e Jahvesë, si shërbëtorë e si shërbesa; dhe ata do të bëhen robërues të atyre që i robëruan, dhe do të sundojnë mbi sunduesit e tyre të ashpër.",
+  "tokens": [
+    {
+      "surface": "ולקחום",
+      "gloss": "dhe do t'i marrin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Popujt"
+    },
+    {
+      "surface": "והביאום",
+      "gloss": "dhe do t'i sjellin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "vendin e tyre"
+    },
+    {
+      "surface": "והתנחלום",
+      "gloss": "dhe do t'i trashëgojë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tokën e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "si shërbëtorë"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "dhe si shërbesa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të bëhen"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "robërues"
+    },
+    {
+      "surface": "לשביהם",
+      "gloss": "të atyre që i robëruan"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "dhe do të sundojnë"
+    },
+    {
+      "surface": "בנגשיהם",
+      "gloss": "mbi sunduesit e tyre të ashpër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:09.135003619Z",
+  "model": "glm-5.3"
+}

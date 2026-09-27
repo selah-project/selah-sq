@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ai tha: «Kush je ⟨ti⟩?» Dhe ajo tha: «Unë jam Ruth, shërbëtorja jote; shtrije skajin e mantilit tënd mbi shërbëtoren tënde, sepse ti ⟨je⟩ shpengues.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti (përemër, jo shenja kundrinori)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruth"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "shërbëtorja jote"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "shtrije"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "skajin e mantilit tënd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "shërbëtoren tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpengues"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:06.515760165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe ajo i tha Elias: «Ç'kam unë me ty, o njeri i Elohim? A ke ardhur te unë për të kujtuar ⟨את⟩ mëkatin tim dhe për të mbytur ⟨את⟩ të birin?»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dhe ajo i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam unë"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "o njeri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ke ardhur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "për të kujtuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mëkatin tim"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mëkatin tim"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "dhe për të mbytur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të birin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të birin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:47.985104350Z",
+  "model": "glm-5.3"
+}

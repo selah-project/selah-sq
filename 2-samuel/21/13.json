@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nxori prej andej ⟨את⟩ eshtrat e Saulit dhe ⟨את⟩ eshtrat e Jonathanit, birit të tij; dhe mblodhën ⟨את⟩ eshtrat e të varurve.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nxori prej andej"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshtrat e Saulit"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "eshtrat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "të Saulit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "eshtrat e Jonathanit"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "eshtrat"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "të Jonathanit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birit të tij"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dhe mblodhën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshtrat e të varurve"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "eshtrat"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "të të varurve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:43.725129568Z",
+  "model": "glm-5.3"
+}

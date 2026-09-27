@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe pas perëndimit të diellit ⟨do të pastrohet⟩, dhe pastaj do të hajë nga gjërat e shenjta, sepse ajo është buka e tij.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dhe pas perëndimit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "të diellit"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dhe ⟨do të pastrohet⟩"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe pastaj"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hajë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "gjërat e shenjta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "buka e tij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:51.970956439Z",
+  "model": "glm-5.3"
+}

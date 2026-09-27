@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "dhe burri i saj dëgjoi dhe heshti ndaj saj, nuk e ndali ⟨את⟩ atë — atëherë do të ngrihen të gjitha premtimet e saj dhe çdo detyrim që ajo lidhi mbi shpirtin e saj do të ngrihet.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "dhe dëgjoi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "burri i saj"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "dhe heshti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ndaj saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "e ndali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ atë",
+      "marks": "e ndali (atë)"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "do të ngrihen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "premtimet e saj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "detyrim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ajo lidhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "shpirtin e saj"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "do të ngrihet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:46.385729080Z",
+  "model": "glm-5.3"
+}

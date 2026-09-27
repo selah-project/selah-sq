@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe u kthye te vëllezërit e tij dhe tha: Fëmija nuk ⟨është⟩; dhe unë, ku po shkoj unë?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmija"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בא",
+      "gloss": "po shkoj"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:45.457078132Z",
+  "model": "glm-5.3"
+}

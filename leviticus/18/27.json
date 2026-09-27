@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Sepse ⟨את⟩ të gjitha neveritë e këta i bënën njerëzit e tokës që ishin para jush, dhe toka u ndot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha neveritë e këta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "neveritë"
+    },
+    {
+      "surface": "האל",
+      "gloss": "e këta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i bënën"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që ishin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "dhe u ndot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:26.927039371Z",
+  "model": "glm-5.3"
+}

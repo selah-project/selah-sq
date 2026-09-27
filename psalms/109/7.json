@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Kur të gjykohet, të dënohet ⟨ai⟩ si i pabesë, dhe lutja e tij të bëhet mëkat.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "kur të gjykohet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "të dënohet ⟨ai⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "si i pabesë"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "dhe lutja e tij"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "të bëhet"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "mëkat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:09.410976390Z",
+  "model": "glm-5.3"
+}

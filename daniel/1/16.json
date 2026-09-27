@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe rojtari vazhdonte të largojë ⟨את⟩ ushqimin e tyre dhe verën e pirjes së tyre, dhe u jepte atyre perime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "rojtari"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "të largojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushqimin e tyre"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ushqimin e tyre"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dhe verën"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "e pirjes së tyre"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dhe u jepte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "perime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:19.160283133Z",
+  "model": "glm-5.3"
+}

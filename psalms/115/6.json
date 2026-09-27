@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Veshë kanë, por nuk dëgjojnë; hundë kanë, por nuk nuhasin.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "veshë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dëgjojnë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hundë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "nuhasin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:29.854499341Z",
+  "model": "glm-5.3"
+}

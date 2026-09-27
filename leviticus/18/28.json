@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Që toka të mos ju vjellë ⟨אתכם⟩ kur e ndotni ⟨אתה⟩ atë, siç vjanti ⟨את⟩ kombin që ishte para jush.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "vjellë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "kur e ndotni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "atë (tokën)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "vjanti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që ishte"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:26.927228237Z",
+  "model": "glm-5.3"
+}

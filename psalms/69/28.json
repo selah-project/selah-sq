@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Shto paudhësi mbi paudhësinë e tyre, dhe mos lejo të hyjnë në drejtësinë ⟨tënde⟩.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "shto"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "paudhësinë e tyre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "të hyjnë"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "në drejtësinë ⟨tënde⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:30.215714693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Deri kur, o Elohim, do të të përbuzë kundërshtari? Do të nëpërkëmbë armiku emrin tënd përjetë?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "do të përbuzë"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kundërshtari"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "do të nëpërkëmbë"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armiku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:01.518891399Z",
+  "model": "glm-5.3"
+}

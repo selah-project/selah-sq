@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ajo që ka qenë, është ajo që do të jetë; dhe ajo që është bërë, është ajo që do të bëhet; dhe nuk ka asgjë të re nën diell.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "që do të jetë"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe ajo që"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "është bërë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "që do të bëhet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asgjë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të re"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:55.356901861Z",
+  "model": "glm-5.3"
+}

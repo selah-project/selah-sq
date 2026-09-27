@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe e coi afër ⟨את⟩ demin e mëkatit, dhe Aaroni dhe bijtë e tij mbështetën ⟨את⟩ duart e tyre mbi kokën e demit të mëkatit.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dhe e coi afër"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demin e mëkatit"
+    },
+    {
+      "surface": "פר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "e mëkatit"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "dhe mbështetën"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "פר",
+      "gloss": "të demit"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "të mëkatit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:59.854273311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Të kujtojë të gjitha minhat e tua dhe yndyrën e olokaustit tënd ⟨ta pranojë⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Të kujtojë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minhat e tua"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "dhe olokaustin tënd"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ta bëjë ⟨të majme⟩ \/ ta pranojë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:25.956144444Z",
+  "model": "glm-5.3"
+}

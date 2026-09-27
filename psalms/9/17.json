@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Njihet Jahve ⟨sepse⟩ ⟨i⟩ bëri ⟨gjykimin⟩; në punën e duarve të veta bie në lak i pabesi. Higaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "njihet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "në punën"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "e duarve të veta"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "bie në lak"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.419084682Z",
+  "model": "glm-5.3"
+}

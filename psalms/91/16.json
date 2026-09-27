@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Me gjatësi ditësh do ta ngop dhe do t'i tregoj shpëtimin tim.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "gjatësi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditësh"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "do ta ngop"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "dhe do t'i tregoj"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "shpëtimin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:26.031617785Z",
+  "model": "glm-5.3"
+}

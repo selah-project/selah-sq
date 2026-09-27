@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe do të përgjigjen e do të thonë: Duart tona nuk e derdhën ⟨את⟩ gjakun këtë, dhe sytë tanë nuk e panë.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "dhe do të përgjigjen"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "dhe do të thonë"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Duart tona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "derdhën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun këtë"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "dhe sytë tanë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "panë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:16.795965215Z",
+  "model": "glm-5.3"
+}

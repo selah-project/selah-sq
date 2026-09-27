@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Ja, Adonai Jahve po vjen me forcë, dhe krahut të tij i takon sundimi; ja, shpërblimi i tij ⟨את⟩ është me të, dhe vepra e tij para tij.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "me forcë"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "dhe krahut të tij"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "i takon sundimi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "shpërblimi i tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shpërblimi i tij (shënon afërsinë: me të)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "dhe vepra e tij"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:48.278926405Z",
+  "model": "glm-5.3"
+}

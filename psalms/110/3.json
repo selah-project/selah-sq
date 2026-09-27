@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Populli yt ⟨vjen⟩ me vullnet të lirë në ditën e fuqisë sate, në zbukurime të shenjtërisë; nga barku i agimit, ty të takon vesa e rinisë sate.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Populli yt"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "me vullnet të lirë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "të fuqisë sate"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "në zbukurime"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtërisë"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "i agimit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טל",
+      "gloss": "vesa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "e rinisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:35.813873249Z",
+  "model": "glm-5.3"
+}

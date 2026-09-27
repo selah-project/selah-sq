@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "O shtëpia e Izraelit, bekojeni ⟨את⟩ Jahvenë; o shtëpia e Aaronit, bekojeni ⟨את⟩ Jahvenë.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "o shtëpia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bekojeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o shtëpia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bekojeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:56.861551208Z",
+  "model": "glm-5.3"
+}

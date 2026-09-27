@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani — a nuk është Boazi i njohur i toni, me ⟨את⟩ vajzat e të cilit ti ke qenë? Ja, ai po shqyrton ⟨את⟩ lëmenën e elbit këtë natë.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "i njohur i toni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i të cilit"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ke qenë"
+    },
+    {
+      "surface": "את",
+      "gloss": "me ⟨את⟩",
+      "marks": "vajzat e tij"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "vajzat e tij"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "po shqyrton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lëmena"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lëmena"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "e elbit"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "këtë natë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:45.232915423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një njeri që shtrihet me ⟨את⟩ gruan e të atit të vet — lakurihtësinë e të atit të vet e ka zbuluar — të dy do të vdesë me vdekje; gjaku i tyre ⟨është⟩ mbi ta.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "shtrihet me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e të atit të vet"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan e"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit të vet"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "lakurihtësinë"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e të atit të vet"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "e ka zbuluar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "gjaku i tyre"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:27.221866462Z",
+  "model": "glm-5.3"
+}

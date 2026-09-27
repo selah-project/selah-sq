@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Mos u frikëso nga fytyrat e tyre, sepse ⟨את⟩ me ty ⟨jam⟩ unë, për të të shpëtuar, fjalë e Jahves.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "u frikëso"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "nga fytyrat e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ me ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jam⟩ unë"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "për të të shpëtuar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:47.400541046Z",
+  "model": "glm-5.3"
+}

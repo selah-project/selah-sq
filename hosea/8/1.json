@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Në gojën tënde — borija! Si shqiponja ⟨ai vjen⟩ mbi shtëpinë e Jahvesë, sepse ata e shkelën besëlidhjen time dhe kundër Torës sime rebeluan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "gojën tënde"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "borija"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "si shqiponja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "e shkelën"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe kundër"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torës sime"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "rebeluan"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:43.158233955Z",
+  "model": "glm-5.3"
+}

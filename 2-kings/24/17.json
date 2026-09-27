@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe mbreti i Babilonisë e bëri mbret ⟨את⟩ Matanin, xhaxhain e tij, në vendin e tij, dhe ia ndryshoi ⟨את⟩ emrin në Cidekiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "e bëri mbret"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Babilonisë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanin"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanin"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "xhaxhain e tij"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vendin e tij"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ia ndryshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidekiahu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:15.185802222Z",
+  "model": "glm-5.3"
+}

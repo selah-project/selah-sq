@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe ndodhi, në fillim të banimit të tyre atje, që ata nuk e frikësuan ⟨את⟩ Jahve, dhe Jahve dërgoi midis tyre ⟨את⟩ luanët, dhe këta ishin duke vrarë midis tyre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "në fillim të"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "banimit të tyre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "e frikësuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "midis tyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luanët"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "luanët"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "duke vrarë"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "midis tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:00.351032623Z",
+  "model": "glm-5.3"
+}

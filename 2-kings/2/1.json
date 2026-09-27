@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ndodhi që, kur Jahve ngriti ⟨את⟩ Elinë me një bardhullë erë drejt qiellit, Elia shkoi me Elishën nga Gilgali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "kur ngriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elinë"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elinë"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "me një bardhullë erë"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "drejt qiellit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "me Elishën"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgali"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:55.921717932Z",
+  "model": "glm-5.3"
+}

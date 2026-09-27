@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Vetëm rebeli kërkon ⟨të keqen⟩, dhe një lajmëtar i egër do të dërgohet kundër tij.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "rebeli"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "kërkon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dhe një lajmëtar"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "i egër"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do të dërgohet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kundër tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:45.567237054Z",
+  "model": "glm-5.3"
+}

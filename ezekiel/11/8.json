@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Shpatën keni frikë, dhe një shpatë do të sjell kundër jush — fjalë ⟨e⟩ Adonai Jahve.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "shpatë"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "keni frikë"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dhe shpatë"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "do të sjell"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kundër jush"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:27:46.510037829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Le të bëhet tryeza e tyre para tyre një lak, dhe për të mirën e tyre një grackë.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Le të bëhet"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "tryeza e tyre"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "para tyre"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "lak"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "dhe për të mirën e tyre"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "grackë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:44.490267049Z",
+  "model": "glm-5.3"
+}

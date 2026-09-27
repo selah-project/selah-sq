@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Në urdhërimet e tua do të meditoj dhe do të shikoj me kujdes shtigjet e tua.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "në urdhërimet e tua"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "do të meditoj"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "dhe do të shikoj me kujdes"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "shtigjet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:16.153937731Z",
+  "model": "glm-5.3"
+}

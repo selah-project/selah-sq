@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Jahve, Elohim i ynë, zotërinj të tjerë përveç teje na zotëruan; vetëm në ty përmendim emrin tënd.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "na zotëruan"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "zotërinj"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "përveç teje"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "përmendim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:19.891727451Z",
+  "model": "glm-5.3"
+}

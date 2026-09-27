@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse biri përbuz ⟨babain⟩, bija është ngritur kundër nënës së saj, nusja kundër vjehrrës së saj; armiqtë e një njeriu janë njerëzit e shtëpisë së tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "përbuz"
+    },
+    {
+      "surface": "אב",
+      "gloss": "babain"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bija"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "është ngritur"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kundër nënës së saj"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nusja"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "kundër vjehrrës së saj"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeriu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:49:59.097082107Z",
+  "model": "glm-5.3"
+}

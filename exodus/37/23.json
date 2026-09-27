@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai bëri ⟨את⟩ shtatë llambat e saj, dhe kapësat e saj, dhe pikatoret e saj, prej ari të pastër.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe ai bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë llambat e saj"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "llambat e saj"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "dhe kapësat e saj"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "dhe pikatoret e saj"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "prej ari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "të pastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:23.765018755Z",
+  "model": "glm-5.3"
+}

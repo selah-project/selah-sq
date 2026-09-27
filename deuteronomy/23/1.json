@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Një njeri të mos marrë ⟨את⟩ gruan e të atit, dhe të mos zhveshë skajin e rrobës së të atit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "marrë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e të atit"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e të atit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "zhveshë"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skajin e rrobës"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e të atit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:19.273466995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse në shumicën e ëndrrave dhe kotësive dhe fjalëve të shumta — ⟨ti⟩ ki frikë ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "në shumicën e"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ëndrrave"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "dhe kotësive"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "dhe fjalëve"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ki frikë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:09.845264850Z",
+  "model": "glm-5.3"
+}

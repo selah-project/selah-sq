@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "nëse statutet e mia i cenojnë dhe urdhrat e mia nuk i ruajnë,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "statutet e mia"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "i cenojnë"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dhe urdhrat e mia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "i ruajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:38.745647649Z",
+  "model": "glm-5.3"
+}

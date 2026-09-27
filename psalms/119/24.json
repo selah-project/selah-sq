@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Po, dëshmitë e tua janë ⟨kënaqësia ime⟩, njerëzit e këshillimit tim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Po"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dëshmitë e tua"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "⟨kënaqësia ime⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "e këshillimit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:31.085583166Z",
+  "model": "glm-5.3"
+}

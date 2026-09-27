@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Të mos banojnë ⟨ata⟩ në tokën tënde, që të mos të bëjnë të mëkatosh kundër meje; se do t'i shërbesh perëndive të tyre ⟨את⟩, sepse do të të bëhet ⟨atë⟩ kurth.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "banojnë"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "në tokën tënde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "të bëjnë të mëkatosh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ty — kundrinori i drejtë i foljes «të bëjnë të mëkatosh»"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "do t'i shërbesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perëndive të tyre"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "perëndive të tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të të bëhet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "kurth"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:48.632959282Z",
+  "model": "glm-5.3"
+}

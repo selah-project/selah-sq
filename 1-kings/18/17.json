@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ndodhi kur e pa Ahabi ⟨את⟩ Elijah, që Ahabi i tha atij: A je ti ai që e turbullon ⟨את⟩ Izraelin?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kur e pa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "që tha"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "A je ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ai"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "turbullon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:09.407271979Z",
+  "model": "glm-5.3"
+}

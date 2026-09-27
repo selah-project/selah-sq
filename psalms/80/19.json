@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "dhe nuk do të tërhiqemi ⟨prej teje⟩; na bëj të gjallë, dhe në emrin tënd do të thërrasim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "do të tërhiqemi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "prej teje"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "na bëj të gjallë"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "dhe në emrin tënd"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "do të thërrasim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.573752301Z",
+  "model": "glm-5.3"
+}

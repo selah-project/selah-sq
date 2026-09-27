@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Filistët u mblodhën dhe erdhën dhe e ngritën kampin në Shunem; dhe Sauli mblodhi ⟨את⟩ të gjithë Izraelin, dhe e ngritën kampin në Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistët"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e ngritën kampin"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "në Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e ngritën kampin"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "në Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:48.611475264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Jahve Tsevaot do të lartësohet në gjykim, dhe El i Shenjti do të shenjtërohet në drejtësi.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "Dhe do të lartësohet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në gjykim"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "dhe El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "i Shenjti"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "do të shenjtërohet"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "në drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:59.565305418Z",
+  "model": "glm-5.3"
+}

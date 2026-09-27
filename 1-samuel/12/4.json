@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe thanë: Nuk na shtypje dhe nuk na shkelçe, dhe nuk more nga dora e ndonjë njeriu asgjë.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "na shtypje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "na shkelçe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "more"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e njeriu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:52.333975190Z",
+  "model": "glm-5.3"
+}

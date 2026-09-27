@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Pse e fsheh fytyrën tënde, harron mjerimin tonë dhe shtypjen tonë?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "e fsheh"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "harron"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "mjerimin tonë"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "dhe shtypjen tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:13.701522783Z",
+  "model": "glm-5.3"
+}

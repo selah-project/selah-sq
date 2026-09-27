@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "Ndriti ⟨ka lindur⟩ në errësirë dritë për të drejtët; ai ⟨është⟩ i mëshirshëm dhe i dhembshur dhe i drejtë.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ka lindur"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dritë"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "për të drejtët"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "i mëshirshëm"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dhe i dhembshur"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dhe i drejtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.287256991Z",
+  "model": "glm-5.3"
+}

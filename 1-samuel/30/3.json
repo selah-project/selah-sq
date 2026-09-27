@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Davidi dhe njerëzit e tij erdhën në qytet, dhe ja, ⟨ishte⟩ i djegur me zjarr, dhe gratë e tyre, dhe bijtë e tyre, dhe bijat e tyre ishin marrë rob.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dhe njerëzit e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "i djegur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dhe gratë e tyre"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "dhe bijtë e tyre"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "dhe bijat e tyre"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ishin marrë rob"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:02.065038027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe iu tregua Davidit ⟨את⟩ atë që kishte bërë Rizpa vajza e Ajës, konkubina e Saulit.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe iu tregua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që kishte bërë Rizpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Rizpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "איה",
+      "gloss": "e Ajës"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "konkubina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "e Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:39.705620920Z",
+  "model": "glm-5.3"
+}

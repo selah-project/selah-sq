@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Sepse nuk ishte bërë ⟨nje⟩ Pashkë si kjo që nga ditët e gjyqtarëve që gjykonin ⟨את⟩ Izraelin, as në të gjitha ditët e mbretërve të Izraelit dhe të mbretërve të Judës.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ishte bërë"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "si Pashkë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "që nga ditët"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "e gjyqtarëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "gjykonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe në të gjitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "e mbretërve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "dhe të mbretërve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "të Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:44.429176314Z",
+  "model": "glm-5.3"
+}

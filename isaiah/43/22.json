@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Nuk më thirre ⟨אתי⟩ ke, o Jakob, sepse u lodhe nga unë, o Izrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "më thirre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "o Jakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "u lodhe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Izrael"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:16.000755639Z",
+  "model": "glm-5.3"
+}

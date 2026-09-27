@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe do t'u thonë pleqtë e qytetit të tij: 'Biri ynë, ky, është kokëfortë e kryengritës, nuk na dëgjon zërin; është i pangopur dhe i dehur.'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "dhe do t'u thonë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "e qytetit të tij"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "biri ynë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "kokëfortë"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "e kryengritës"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na dëgjon"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "i pangopur"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dhe i dehur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:02.456531374Z",
+  "model": "glm-5.3"
+}

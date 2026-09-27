@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dorë në dorë, i keqi nuk do të ⟨shpëtojë⟩ nga dënimi, dhe fara e të drejtëve ⟨do të⟩ shpëtojë.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "në dorë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "do të ⟨shpëtojë⟩ nga dënimi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "i keqi"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "dhe fara"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "e të drejtëve"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "⟨do të⟩ shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:30.721962033Z",
+  "model": "glm-5.3"
+}

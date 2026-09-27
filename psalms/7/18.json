@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Do ta lavdëroj Jahven sipas drejtësisë së Tij, dhe do të këndoj emrit të Jahves, ⟨të⟩ Eljonit.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "do ta lavdëroj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "sipas drejtësisë së Tij"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "dhe do të këndoj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljonit — i Larti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:14.119326758Z",
+  "model": "glm-5.3"
+}

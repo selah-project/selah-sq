@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atëherë shërbëtorët e mbretit, që ⟨ndodheshin⟩ në portën e mbretit, i thanë Mordokait: «Pse ti shkel ⟨את⟩ urdhrin e mbretit?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i thanë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "në portën e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokait"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "shkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhrin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhrin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:51.026001652Z",
+  "model": "glm-5.3"
+}

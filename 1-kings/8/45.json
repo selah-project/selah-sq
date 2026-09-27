@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "atëherë do t'i dëgjosh në qiejt ⟨את⟩ lutjen e tyre dhe ⟨את⟩ përuljen e tyre, dhe do t'u bësh drejtinë e tyre.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "do t'i dëgjosh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "në qiejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lutjen e tyre"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lutjen e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "përuljen e tyre"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "përuljen e tyre"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "drejtinë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:43.566664034Z",
+  "model": "glm-5.3"
+}

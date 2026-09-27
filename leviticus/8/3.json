@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe ⟨את⟩ tërë asamblenë mblidhe ⟨para⟩ hyrjes së Çadrit të Takimit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tërë asamblenë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asamblenë"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mblidhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrjes"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të Çadrit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:57.090766287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Obedi lindi ⟨את⟩ Jehunë, dhe Jehua lindi ⟨את⟩ Azarianë.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Dhe Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehunë"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehunë"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "dhe Jehua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarianë"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarianë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:30.740037486Z",
+  "model": "glm-5.3"
+}

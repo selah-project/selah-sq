@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Edhe Asiria është bashkuar me ta; ata ishin krah për bijtë e Lotit. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asiria"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "është bashkuar"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "krah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:12.852078590Z",
+  "model": "glm-5.3"
+}

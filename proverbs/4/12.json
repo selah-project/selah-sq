@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Kur ecën, hapi yt nuk do të ngushtohet, dhe nëse vrapon, nuk do të pengohesh.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Kur ecën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "do të ngushtohet"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "hapi yt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "vrapon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "do të pengohesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:56.655300079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Kemi menduar, o Elohim, për hesed-in tënd, në mes të pallatit tënd të shenjtë.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "kemi menduar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "për hesed-in tënd"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "pallatit tënd të shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.286138763Z",
+  "model": "glm-5.3"
+}

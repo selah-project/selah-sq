@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do të bësh dy unaza të arit, dhe do t'i vesh ⟨את⟩ ato mbi dy skajet e petkut të gjirit, mbi buzën e tij që është kah ana e efodit, brenda.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "unaza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "të arit"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "dhe do t'i vesh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (unazat)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "të petkut të gjirit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "buzën e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kah"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ana"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "e efodit"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "brenda"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:50.627113733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Atëherë Menahem, bir i Gadit, u ngjit nga Tircahu, erdhi në Samari, e rrahu ⟨את⟩ Shallum, birin e Jabeshit, në Samari, e vrau atë dhe mbretëroi në vend të tij.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "u ngjit"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "i Gadit"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "nga Tircahu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "në Samari"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e rrahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "i Jabeshit"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "në Samari"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e vrau atë"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:35.629609201Z",
+  "model": "glm-5.3"
+}

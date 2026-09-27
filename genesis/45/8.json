@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe tani jo ju më dërguat ⟨את⟩ këtu, por Elohim; dhe ai më bëri atë për Faraon, dhe zotër për gjithë shtëpinë e tij, dhe sundues në gjithë vendin e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "më dërguat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "më (këtu)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "dhe më bëri"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "për Faraon"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "dhe zotër"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për gjithë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dhe sundues"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:58.463046340Z",
+  "model": "glm-5.3"
+}

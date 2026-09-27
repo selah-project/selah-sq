@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": " dhe Davidi i përqafoi ⟨את⟩ njerëzit e vet me fjalë dhe nuk i la të ngriheshin kundër Saulit. Dhe Sauli u ngrit nga shpella dhe shkoi në rrugë.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "dhe i përqafoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e vet"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "njerëzit e vet"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "me fjalë"
+    },
+    {
+      "surface": "וילא",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "i la"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "të ngriheshin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Dhe Sauli"
+    },
+    {
+      "surface": "קם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "nga shpella"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:59.029385459Z",
+  "model": "glm-5.3"
+}

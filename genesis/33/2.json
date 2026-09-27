@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe ai vuri ⟨את⟩ shërbëtoret dhe ⟨את⟩ fëmijët e tyre të parat, dhe ⟨את⟩ Leanë dhe fëmijët e saj të fundit, dhe ⟨את⟩ Rahelenë dhe ⟨את⟩ Jozefin të fundit.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtoret"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "shërbëtoret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fëmijët e tyre"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "fëmijët e tyre"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "të parat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Leanë"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leanë"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "dhe fëmijët e saj"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "të fundit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Rahelenë"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelenë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jozefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefin"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "të fundit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:02.948792173Z",
+  "model": "glm-5.3"
+}

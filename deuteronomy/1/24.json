@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u kthyen dhe ngjitën në mal dhe arritën deri në luginën Eshkol, dhe e vunë në shqelm ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "u kthyen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dhe ngjitën"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe arritën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "luginën"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "dhe e vunë në shqelm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (tokenën)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:53.596792811Z",
+  "model": "glm-5.3"
+}

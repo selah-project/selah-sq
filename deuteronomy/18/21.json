@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe nëse thuash në zemrën tënde: Si do ta njohim ⟨את⟩ ⟨e⟩ fjalën që nuk e ka folur Jahve?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "thuash"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "në zemrën tënde"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "si"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "do ta njohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "e ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:48:01.793459323Z",
+  "model": "glm-5.3"
+}

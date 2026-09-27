@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Duke thënë: «Ty do të të jap ⟨את⟩ tokën e Kanaanit, litarin e trashëgimit tuaj.»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do të të jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Kanaanit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "litirin"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "e trashëgimit tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:04.820712322Z",
+  "model": "glm-5.3"
+}

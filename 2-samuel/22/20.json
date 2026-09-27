@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe më nxori ⟨את⟩ mua në vend të gjerë, më çliroi, sepse gjente kënaqësi në mua.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dhe më nxori"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "në vend të gjerë"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "më çliroi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gjente kënaqësi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:28:45.009223773Z",
+  "model": "glm-5.3"
+}

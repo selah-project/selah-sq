@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Arami nga lindja dhe filistët nga perëndimi; dhe e hanë ⟨את⟩ Izraelin me çdo gojë. Me gjithë këtë zemërimi i tij nuk u kthye, dhe dora e tij është ende e shtrirë.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "nga lindja"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "dhe filistët"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "nga perëndimi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dhe e hanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me çdo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "gojë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zemërimi i tij"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dhe ende"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dora e tij"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "e shtrirë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:03.024679013Z",
+  "model": "glm-5.3"
+}

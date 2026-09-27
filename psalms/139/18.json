@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "T'i numëroja ato — janë më të shumta se rëra; zgjohem, dhe ende jam me ty.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "t'i numëroja ato"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "se rëra"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "janë më të shumta"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "zgjohem"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "dhe ende unë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jam me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:10.039760701Z",
+  "model": "glm-5.3"
+}

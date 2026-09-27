@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Le të errësohen sytë e tyre nga të parit, dhe ijët e tyre le të lëkunden përherë.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Le të errësohen"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "sytë e tyre"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "nga të parit"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "dhe ijët e tyre"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "përherë"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "të lëkunden"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:44.490414915Z",
+  "model": "glm-5.3"
+}

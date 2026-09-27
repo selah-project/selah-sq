@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe të numëruarit e tyre, sipas famëllive të tyre, sipas shtëpive të etërve të tyre, ishin dy mijë e gjashtëqind e tridhjetë.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "të numëruarit e tyre"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sipas famëllive të tyre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sipas shtëpisë së"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dy mijë"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:18.144710826Z",
+  "model": "glm-5.3"
+}

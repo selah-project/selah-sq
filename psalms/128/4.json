@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 128,
+  "translation": "Ja, kështu do të bekohet njeri që frikësohet Jahvenë.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "do të bekohet"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "që frikësohet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:02.997467079Z",
+  "model": "glm-5.3"
+}

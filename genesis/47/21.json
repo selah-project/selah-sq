@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe ⟨את⟩ popullin ai i shpërnguli në qytete, nga njëri skaj i kufirit të Egjiptit deri në skajin tjetër të tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dhe ⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "i shpërnguli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "në qytete"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "në qytete"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nga njëri skaj"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "i kufirit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "skajin tjetër të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:26.469992012Z",
+  "model": "glm-5.3"
+}

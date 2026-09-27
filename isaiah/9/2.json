@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Ti e ke shumuar kombin, i ke bërë të madhe gëzimin; gëzohen para teje si gëzohen në korrje, ashtu si ngazëllohen kur ndajnë plaçkën.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "Ti e ke shumuar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "i ke bërë të madhe"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "gëzimin"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "gëzohen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "si gëzohen"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "në korrje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ngazëllohen"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "kur ndajnë"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plaçkën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:45.299857791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe ⟨את⟩ të gjithë popullin e përzier, dhe ⟨את⟩ të gjithë mbretërit e tokës së Ucit, dhe ⟨את⟩ të gjithë mbretërit e tokës së filistejve, dhe ⟨את⟩ Ashkelonin, dhe ⟨את⟩ Gazën, dhe ⟨את⟩ Ekronin, dhe ⟨את⟩ mbetjen e Ashdodit,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë popullin e përzier"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "popullin e përzier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e Ucit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "së Ucit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë mbretërit e filistejve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "së filistejve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ashkelonin"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Gazën"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ekronin"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mbetjen e Ashdodit"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "mbetjen"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "e Ashdodit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:15:33.585606302Z",
+  "model": "glm-5.3"
+}

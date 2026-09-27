@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe toka e tij u mbush me argjend dhe me ar, dhe nuk ka fund thesareve të tij; dhe toka e tij u mbush me kuaj dhe nuk ka fund qerave të tij të luftës.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "toka e tij"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "me argjend"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhe me ar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "fund"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "thesareve të tij"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "toka e tij"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "me kuaj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "fund"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "qerave të tij të luftës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:40.849498959Z",
+  "model": "glm-5.3"
+}

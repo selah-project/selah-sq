@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "A ha ⟨mish⟩ demish të fuqishëm, ose a pi gjakun e cjepëve?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "A ha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "demish të fuqishëm"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "dhe gjakun"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "cjepëve"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "a pi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:03.632657715Z",
+  "model": "glm-5.3"
+}

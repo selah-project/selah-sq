@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Le të frikësohet nga Jahveu e gjithë ⟨toka⟩; prej tij le të dridhen të gjithë banorët e botës.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "le të frikësohet"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "nga Jahveu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨toka⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "le të dridhen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "botës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.341754442Z",
+  "model": "glm-5.3"
+}

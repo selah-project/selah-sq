@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Makirit i dhashë ⟨את⟩ Galaadin.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Dhe Makirit"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "i dhashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Galaadin"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Galaadin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:25.600429188Z",
+  "model": "glm-5.3"
+}

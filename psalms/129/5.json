@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 129,
+  "translation": "U turpëroftë dhe të kthehen prapa ⟨të gjithë⟩ ata që urrejnë Sionin.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "u turpëroftë"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "dhe të kthehen prapa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "prapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ata që urrejnë"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:00.233473988Z",
+  "model": "glm-5.3"
+}

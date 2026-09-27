@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Bëjmë të ec në shtegun e urdhërimeve të tua, sepse në të kam kënaqësi.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Bëjmë të ec"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "në shtegun"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "e urdhërimeve të tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kam kënaqësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:21.485666230Z",
+  "model": "glm-5.3"
+}

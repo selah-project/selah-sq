@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 133,
+  "translation": "Kënga e ngjitjeve, e Davidit. Shih, sa i mirë dhe sa i këndshëm ⟨është⟩ qëndrimi i vëllezërve edhe bashkë!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kënga"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Shih"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe sa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "i këndshëm"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "qëndrimi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "i vëllezërve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:12.293883903Z",
+  "model": "glm-5.3"
+}

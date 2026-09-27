@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Do ta tregoj emrin tënd vëllezërve të mi; në mes të kuvendit do të të lëvdoj.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Do ta tregoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "vëllezërve të mi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kuvendit"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "do të të lëvdoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:00.132492681Z",
+  "model": "glm-5.3"
+}

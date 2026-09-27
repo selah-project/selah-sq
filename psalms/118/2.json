@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Le të thotë tani Izraeli: sepse për jetë të gjithë hesedi i Tij.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Le të thotë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të gjithë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:05.232956989Z",
+  "model": "glm-5.3"
+}

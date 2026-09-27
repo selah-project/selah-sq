@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe pa Elohim ⟨את⟩ veprat e tyre, se ishin kthyer nga rruga e tyre e keqe; dhe i ndryshoi mendjen Elohim për të keqen që kishte folur të u bënte atyre — dhe nuk e bëri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe pa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprat e tyre"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "veprat e tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ishin kthyer"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "nga rruga e tyre"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "e keqe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dhe i ndryshoi mendjen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të bënte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:40.742437755Z",
+  "model": "glm-5.3"
+}

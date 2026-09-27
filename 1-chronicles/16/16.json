@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "të cilën e nënshkroi me Abrahamin ⟨את⟩, dhe betimin e tij për Isakun.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "e nënshkroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "dhe betimin e tij"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "për Isakun"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:00.762240946Z",
+  "model": "glm-5.3"
+}

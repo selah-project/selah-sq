@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe malet do të shkrihen nën të, dhe luginat do të çahen si dylli para zjarrit, si ujëra të derdhura në pjerrtësi.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "dhe do të shkrihen"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nën të"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "dhe luginat"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "do të çahen"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "si dylli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrit"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "si ujëra"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "të derdhura"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "në pjerrtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:49.392944127Z",
+  "model": "glm-5.3"
+}

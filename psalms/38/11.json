@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Zemra ime rreh fort, fuqia ime më ka lënë, dhe drita e syve të mi — edhe ajo ⟨nuk është⟩ ⟨את⟩ me mua.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "rreh fort"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "më ka lënë"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fuqia ime"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dhe drita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "e syve të mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua",
+      "marks": "me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:36.630160819Z",
+  "model": "glm-5.3"
+}

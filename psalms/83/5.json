@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Kanë thënë: Ejani dhe t'i shfarosim nga çdo komb, dhe të mos kujtohet më emri i Izraelit.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Kanë thënë"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "dhe t'i shfarosim"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nga çdo komb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "kujtohet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.577750003Z",
+  "model": "glm-5.3"
+}

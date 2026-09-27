@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Për shkak të tokës që është çarë, sepse s'ka pasur shi në vend, u turpëruan bujqit, mbuluan kokën e tyre.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "është çarë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka pasur"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "u turpëruan"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "bujqit"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "mbuluan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kokën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:55.298747450Z",
+  "model": "glm-5.3"
+}

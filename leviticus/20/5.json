@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "atëherë do të kthej unë fytyrën time ⟨את⟩ kundër atij njeriu dhe kundër familjes së tij, dhe do ta shfaros ⟨את⟩ atë dhe ⟨את⟩ të gjithë që kurvërojnë pas tij, duke kurvëruar pas Molekut, nga mesi i popullit të tyre.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "do të kthej"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kundër atij njeriu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "dhe kundër familjes së tij"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dhe do ta shfaros"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjithë që kurvërojnë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "që kurvërojnë"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "duke kurvëruar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekut"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "popullit të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:12.703854028Z",
+  "model": "glm-5.3"
+}

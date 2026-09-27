@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Jahve i hap sytë të verbrit; Jahve i ngrit të përkulurit; Jahve i do të drejtit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "i hap sytë"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "të verbrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "i ngrit"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "të përkulurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i do"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:26.628928056Z",
+  "model": "glm-5.3"
+}

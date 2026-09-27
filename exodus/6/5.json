@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe gjithashtu unë kam dëgjuar ⟨את⟩ përtosjen e bijve të Izraelit, të cilët Egjipti ⟨את⟩ i skllavëron, dhe mbaj mend ⟨את⟩ besëlidhjen time.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dhe gjithashtu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kam dëgjuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "përtosjen e bijve të Izraelit"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "përtosjen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilët"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "i skllavëron"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ i"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "dhe mbaj mend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:16.164852191Z",
+  "model": "glm-5.3"
+}

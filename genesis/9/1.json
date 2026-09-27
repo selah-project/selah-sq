@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Elohim bekoi ⟨את⟩ Noan dhe ⟨את⟩ bijtë e tij dhe u tha atyre: \"Pritni dhe shumohuni dhe mbushni ⟨את⟩ ⟨të⟩ tokën.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨את⟩ dhe tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "pritni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe shumohuni"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe mbushni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:49.196613219Z",
+  "model": "glm-5.3"
+}

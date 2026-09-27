@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Abrahami u përluk para popullit të vendit.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe u përluk"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullit të"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:10.112428445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Akaz pushoi me etërit e tij dhe u varros me etërit e tij në qytetin e Davidit; dhe Hizkiahu, biri i tij, mbretëroi në vend të tij.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "etërit e tij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "në qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dhe mbretëroi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "në vend të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:31.486169170Z",
+  "model": "glm-5.3"
+}

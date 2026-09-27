@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "Këngë e ngjitjeve, e Davidit. Sikur të mos ishte Jahve për ne — le ta thotë tani Izraeli,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Sikur të mos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "le ta thotë"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.045915138Z",
+  "model": "glm-5.3"
+}

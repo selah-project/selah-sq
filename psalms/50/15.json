@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "dhe më thirrmë në ditën e ngushtësisë; unë do të të shpëtoj, dhe ti do të më nderosh.",
+  "tokens": [
+    {
+      "surface": "וּ֭קְרָאֵנִי",
+      "gloss": "dhe më thirrmë"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "צָרָ֑ה",
+      "gloss": "të ngushtësisë"
+    },
+    {
+      "surface": "אֲ֝חַלֶּצְךָ֗",
+      "gloss": "do të të shpëtoj"
+    },
+    {
+      "surface": "וּֽתְכַבְּדֵֽנִי",
+      "gloss": "do të më nderosh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:03.633162360Z",
+  "model": "glm-5.3"
+}

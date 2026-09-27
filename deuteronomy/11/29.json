@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨do të ndodhë⟩ që, kur Jahve, Elohim i yt, të të çojë në ⟨atë⟩ tokë ku ti po hysh për ta zotëruar, do të vësh ⟨את⟩ bekimin mbi malin Gerizim dhe ⟨את⟩ mallkimin mbi malin Ebal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe ⟨do të ndodhë⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "të të çojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨atë⟩ tokë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "po hysh"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "për ta zotëruar"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "do të vësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekimin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bekimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mallkimin"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "mallkimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:29.294890470Z",
+  "model": "glm-5.3"
+}

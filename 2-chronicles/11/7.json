@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨את⟩ Beth-Tsur, dhe ⟨את⟩ Sokon, dhe ⟨את⟩ Adulam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dhe ⟨את⟩",
+      "marks": "Beth-Tsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Sokon"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Adulam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:00.854611134Z",
+  "model": "glm-5.3"
+}

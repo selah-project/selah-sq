@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe shërbëtori yt ⟨është⟩ në mes të popullit tënd që ke zgjedhur, popull i shumtë, që nuk mund të numërohet as të llogaritet nga shumësia.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Dhe shërbëtori yt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "të popullit tënd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ke zgjedhur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i shumtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "mund të numërohet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "të llogaritet"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nga shumësia"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:57.750729234Z",
+  "model": "glm-5.3"
+}

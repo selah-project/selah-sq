@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Të drejtit do të shohin dhe do të gëzohen, dhe çdo paudhësi do ta mbyllë gojën e saj.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "do të shohin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "të drejtit"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "dhe do të gëzohen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "do ta mbyllë"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gojën e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:45.662904022Z",
+  "model": "glm-5.3"
+}

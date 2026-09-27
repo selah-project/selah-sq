@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Edhe ai ⟨את⟩ do të çohet në Asiri, ⟨si⟩ minha për mbretin Jarëv; turpi do ta kapë Efraimin, dhe Izraeli do të turpërohet nga këshilla e vet.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ai (viçi)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "në Asiri"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "do të çohet"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për mbretin"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarëv"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "turpi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do ta kapë"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "dhe do të turpërohet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "nga këshilla e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:14.623470726Z",
+  "model": "glm-5.3"
+}

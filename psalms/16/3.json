@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Për të shenjtët që janë në tokë — ata ⟨janë⟩; dhe të lavdishmit: gjithë kënaqësia ime ⟨është⟩ në ta.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Për të shenjtët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "dhe të lavdishmit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kënaqësia ime"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në ta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:09.325120889Z",
+  "model": "glm-5.3"
+}

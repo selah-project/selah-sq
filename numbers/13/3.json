@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Moisi i dërgoi ⟨את⟩ ata nga shkretëtira e Paranit, sipas gojës së Jahves; të gjithë ishin burra, krerë të bijve të Izraelit, ata ishin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "nga shkretëtira e"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paranit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "пי",
+      "gloss": "gojës së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "burra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "krerë të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata ishin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:03.149750411Z",
+  "model": "glm-5.3"
+}

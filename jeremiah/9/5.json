@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Rrojtja jote ⟨është⟩ në mes të mashtrimit; nëpër mashtrim ata refuzojnë të njohin ⟨את⟩ ⟨אותי⟩ — orakulli i Jahvesë.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "rrojtja jote"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mashtrimit"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nëpër mashtrim"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ata refuzojnë"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "të njohin"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "të njohin (mua)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakulli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:10:08.873714710Z",
+  "model": "glm-5.3"
+}

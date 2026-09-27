@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Nahshoni lindi ⟨את⟩ Salmán, dhe Salmái lindi ⟨את⟩ Boazin.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Dhe Nahshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmán"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmán"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "dhe Salmái"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazin"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:45.175552287Z",
+  "model": "glm-5.3"
+}

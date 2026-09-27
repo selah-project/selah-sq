@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Nëse Jahve kënaqet në ne, do të na sjellë ⟨את⟩ ne në këtë vend dhe do të na e japë atë — një vend që rrjedh me qumësht dhe mjaltë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kënaqet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "në ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "do të sjellë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dhe do ta dhënë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ajo⟩"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "rrjedh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "me qumësht"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:56.761369329Z",
+  "model": "glm-5.3"
+}

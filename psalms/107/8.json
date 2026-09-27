@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Le të falënderojnë Jahvenë për hesed-in e tij dhe për mrekullitë e tij ndaj bijve të njerëzve!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Le të falënderojnë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "për hesed-in e tij"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dhe për mrekullitë e tij"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ndaj bijve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njerëzve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:43.136190737Z",
+  "model": "glm-5.3"
+}

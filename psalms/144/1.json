@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "I Davidit. I bekuar qoftë Jahve, shkëmbi im, ai që më mëson duart ⟨të luftojn⟩, gishtat e mi ⟨për⟩ betejë.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ai që mëson"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "duart"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "⟨të luftojn⟩"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "gishtat e mi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për betejë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.110600591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe ai u përgjigj dhe tha: A nuk duhet të ruaj ⟨את⟩ atë që Jahve vë në gojën time, ⟨את⟩ atë për ta folur?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që Jahve vë në gojën time"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "vë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "në gojën time"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë për ta folur"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "duhet të ruaj"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "për ta folur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:05.611649518Z",
+  "model": "glm-5.3"
+}

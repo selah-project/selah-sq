@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe zbritën të gjithë izraelitët te filistët, për të mprehur çdo njeri ⟨את⟩ parmakun e pluhurit të vet, dhe ⟨את⟩ kazmën e vet, dhe ⟨את⟩ sëpatën e vet, dhe ⟨את⟩ armaturën e lërmës së vet.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Dhe zbritën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izraelitët"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "te filistët"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "për të mprehur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parmakun e pluhurit të vet"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "parmakun e pluhurit të vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kazmën e vet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kazmën e vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "sëpatën e vet"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sëpatën e vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "armaturën e lërmës së vet"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "armaturën e lërmës së vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:36.871960557Z",
+  "model": "glm-5.3"
+}

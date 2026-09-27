@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe prifti do ta vlerësojë ⟨את⟩ atë — mes të mirës dhe mes të keqes; sipas vlerësimit tënd, o prift, ashtu do të jetë.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "dhe do ta vlerësojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (kafshën)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirës"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqes"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sipas vlerësimit tënd"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "o prift"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:23.056413331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do t'i ruash ⟨את⟩ urdhërimet e Jahvesë, Elohit tënd, duke ecur në rrugët e tij dhe duke e frikësuar ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "do t'i ruash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhërimet e Jahvesë"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhërimet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohit tënd"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "duke ecur"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "në rrugët e tij"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "duke e frikësuar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Jahve, Elohim i yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:50.392282036Z",
+  "model": "glm-5.3"
+}

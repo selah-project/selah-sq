@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe tani, çfarë ke në dorë? Më jep pesë bukë në dorën time, ose çfarë gjendet.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ke (bukvalisht 'ka')"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "jep"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "në dorën time"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "çfarë gjendet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:39.719473922Z",
+  "model": "glm-5.3"
+}

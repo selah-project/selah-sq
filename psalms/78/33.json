@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe Ai i shkaterroi ditët e tyre në kotësi, dhe vitet e tyre në tmerr.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i shkaterroi"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "në kotësi"
+    },
+    {
+      "surface": "יְמֵיהֶם",
+      "gloss": "ditët e tyre"
+    },
+    {
+      "surface": "וּשְׁנוֹתָם",
+      "gloss": "dhe vitet e tyre"
+    },
+    {
+      "surface": "בַּבֶּהָלָה",
+      "gloss": "në tmerr"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:02.758043996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jahve më shpërbleu sipas drejtësisë sime, sipas pastërtisë së duarve të mia përballë syve të tij.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe shpërbleu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sipas drejtësisë sime"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sipas pastërtisë"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "të duarve të mia"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "syve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:14.572110671Z",
+  "model": "glm-5.3"
+}

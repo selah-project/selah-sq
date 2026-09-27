@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe do të godas ⟨את⟩ banorët e kësaj qyteti, dhe ⟨את⟩ njeriun dhe ⟨את⟩ kafshën; nga murtaja e madhe do të vdesin.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "dhe do të godas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e qytetit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kafshën"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshën"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nga murtaja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "do të vdesin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:13.139038196Z",
+  "model": "glm-5.3"
+}

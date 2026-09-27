@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Azaria lindi ⟨את⟩ Helezin, dhe Helezi lindi ⟨את⟩ Elasanë.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Dhe Azaria"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helezin"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helezin"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "dhe Helezi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasanë"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasanë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:30.740226492Z",
+  "model": "glm-5.3"
+}

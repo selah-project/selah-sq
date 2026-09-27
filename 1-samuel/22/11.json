@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mbreti dërgoi të thirrej ⟨את⟩ Ahimeleku, bir i Ahitubit, prifti, dhe ⟨את⟩ tërë shtëpinë e atit të tij, priftërinjtë që ishin në Nob; dhe erdhën të gjithë te mbreti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "të thirrej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimeleku"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitubit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tërë shtëpinë e atit të tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "në Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe erdhën"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:37.632215676Z",
+  "model": "glm-5.3"
+}

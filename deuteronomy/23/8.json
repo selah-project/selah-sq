@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Mos e urre ndonjë edomit, sepse ⟨është⟩ vëllai yt; mos e urre ndonjë egjiptian, sepse ishe i huaj në vendin e tij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "e urre"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ndonjë edomit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "e urre"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ndonjë egjiptian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גר",
+      "gloss": "i huaj"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ishe"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "në vendin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:46.867637207Z",
+  "model": "glm-5.3"
+}

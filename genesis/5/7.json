@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe jetoi Seti, pas lindjes së ⟨את⟩ Enoshit, shtatë vjet e tetëqind vjet, dhe lindi djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Seti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "lindjes së"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshit"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "dhe tetë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dhe vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.488373404Z",
+  "model": "glm-5.3"
+}

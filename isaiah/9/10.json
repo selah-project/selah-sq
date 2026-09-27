@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve lartësoi ⟨את⟩ kundërshtarët e Recinit mbi të, dhe ⟨את⟩ armiqtë e tij i ngjalli kundër tij.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "dhe lartësoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundërshtarët e Recinit"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kundërshtarët"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "e Recinit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "armiqtë e tij"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "armiqtë e tij"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "i ngjalli kundër tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:03.024423723Z",
+  "model": "glm-5.3"
+}

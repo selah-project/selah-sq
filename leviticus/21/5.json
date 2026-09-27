@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Të mos bëjnë tzetë në kokën e tyre dhe anën e mjekrës së tyre të mos e rrojnë, dhe në mishin e tyre të mos bëjnë shqim — prerje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "bëjnë tzetë"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "tullacak"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "në kokën e tyre"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "dhe anën"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "të mjekrës së tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "e rrojnë"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "dhe në mishin e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "bëjnë prerje"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "shqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:35.723436201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Sepse Jahve është i madh dhe i lavdëruar shumë, i frikshëm ⟨është⟩ ai mbi të gjithë perënditë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dhe i lavdëruar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i frikshëm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perënditë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:28.420278875Z",
+  "model": "glm-5.3"
+}

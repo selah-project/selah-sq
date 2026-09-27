@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Por Elohim ⟨është⟩ gjykatësi: njërin e ul dhe njërin e ngrit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "gjykatësi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "njërin"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "e ul"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dhe njërin"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "e ngrit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:21.882781069Z",
+  "model": "glm-5.3"
+}

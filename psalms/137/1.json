@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Pranë lumenjve të Babilonisë, atje u ulëm, po edhe qanëm, kur përmendëm ⟨את⟩ Sionin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "lumenjve"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "të Babilonisë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "u ulëm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "po edhe"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "qanëm"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "kur përmendëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sionin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:21.769527001Z",
+  "model": "glm-5.3"
+}

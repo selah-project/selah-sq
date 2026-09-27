@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Lutja ime le të ngrihet si temjan para fytyrës sate; ngritja e duarve të mia si flijimi i mbrëmjes.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "le të ngrihet"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutja ime"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "si temjan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para fytyrës sate"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ngritja"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "e duarve të mia"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "si flijimi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "i mbrëmjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:23.240128885Z",
+  "model": "glm-5.3"
+}

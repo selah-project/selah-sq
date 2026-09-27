@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Davidi veproi kështu, si i kishte urdhëruar Jahve; dhe i rrahu ⟨את⟩ filistët nga Gjeva deri sa të arrihej ⟨te⟩ Gezeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe veproi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe i rrahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistët"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "nga Gjeva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "באך",
+      "gloss": "sa të arrihej"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:46.823953865Z",
+  "model": "glm-5.3"
+}

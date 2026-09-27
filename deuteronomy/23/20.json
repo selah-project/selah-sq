@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Mos i jep me kamatë vëllait tënd: kamatë e parasë, kamatë e ushqimit, kamatë e çdo sendi që jepet me kamatë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "jep me kamatë"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "vëllait tënd"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "e parasë"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "e ushqimit"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e çdo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "jepet me kamatë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:26.912568912Z",
+  "model": "glm-5.3"
+}

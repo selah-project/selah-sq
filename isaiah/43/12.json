@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Unë e shpalla dhe e shpëtova, e bëra të dëgjohej, dhe nuk kishte midis jush zot të huaj; dhe ju jeni dëshmitarët e mi, thotë Jahve, dhe unë ⟨jam⟩ El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "e shpalla"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "dhe e shpëtova"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "dhe e bëra të dëgjohej"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "midis jush"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zot të huaj"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dëshmitarët e mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:53.430682880Z",
+  "model": "glm-5.3"
+}

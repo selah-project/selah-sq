@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "dhe thanë: Të lutem, zotëria ime, zbritëm vërtet herën e parë për të blerë ushqim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "בי",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria ime"
+    },
+    {
+      "surface": "יָרֹד",
+      "gloss": "zbritëm (përsëritur)"
+    },
+    {
+      "surface": "יָרַדְנוּ",
+      "gloss": "zbritëm"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "herën e parë"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "për të blerë"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:42.341404308Z",
+  "model": "glm-5.3"
+}

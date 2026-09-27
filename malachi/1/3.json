@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "ndërsa ⟨את⟩ Esavin e urreva, dhe bëra ⟨את⟩ kodrat e tij shkretëtirë, dhe ⟨את⟩ trashëgiminë e tij për çakujt e shkretëtirës.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndërsa ⟨את⟩",
+      "marks": "Esavin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "urreva"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "dhe bëra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kodrat e tij"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "kodrat e tij"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "trashëgiminë e tij"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "trashëgiminë e tij"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "për çakujt"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "të shkretëtirës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:46.192983113Z",
+  "model": "glm-5.3"
+}

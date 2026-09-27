@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Nuk janë në mundimin e të vdekshmit, dhe me njerëzit ⟨e tjerë⟩ nuk do të preken.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "në mundimin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "të vdekshmit"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "nuk janë"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "do të preken"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:55.642794335Z",
+  "model": "glm-5.3"
+}

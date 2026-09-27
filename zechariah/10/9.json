@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe do t'i mbjell ⟨את⟩ ata midis popujve, dhe në vendet e largëta do të më kujtojnë, dhe do të jetojnë ⟨me⟩ fëmijët e tyre dhe do të kthehen.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "do t'i mbjell ata"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "midis popujve"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "dhe në vendet e largëta"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "do të më kujtojnë"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dhe do të jetojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijët e tyre"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fëmijët e tyre"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dhe do të kthehen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:48.802597715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe i pamëri shumon fjalë — njeriu nuk di çfarë do të jetë, dhe ajo që do të jetë pas tij, kush do t'ia tregojë atij?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "Dhe i pamëri"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "shumon"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "di"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe ajo që"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "do t'ia tregojë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:22.615300387Z",
+  "model": "glm-5.3"
+}

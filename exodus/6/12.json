@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Moisi foli përpara Jahves, duke thënë: Ja, bijtë e Izraelit nuk më dëgjuan mua, e si do të më dëgjojë Faraoni, kur unë ⟨jam⟩ me buzë të papreruara?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "dhe si"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "do të më dëgjojë"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kur unë"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "i paprerë"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "në buzë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:55.506734426Z",
+  "model": "glm-5.3"
+}

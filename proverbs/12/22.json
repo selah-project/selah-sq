@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Buzët gënjeshtare janë neveri për Jahven, por ata që veprojnë me besnikëri janë kënaqësia e tij.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gënjeshtare"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "por ata që veprojnë"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "me besnikëri"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kënaqësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:14.344322133Z",
+  "model": "glm-5.3"
+}

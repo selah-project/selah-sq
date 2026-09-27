@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nëse ⟨e⟩ fejon atë për birin e vet, sipas të drejtës së bijave do të veprojë ndaj saj.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "për birin e vet"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "⟨e⟩ fejon atë"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas të drejtës"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "së bijave"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të veprojë"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ndaj saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:12.135244656Z",
+  "model": "glm-5.3"
+}

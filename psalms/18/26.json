@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Me ⟨të⟩ hesed-të tregon hesed; me njeriun e papërpjekur tregohesh i papërpjekur.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "të devotshmin"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "tregon hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "të papërpjekur"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tregohesh i papërpjekur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:14.572353739Z",
+  "model": "glm-5.3"
+}

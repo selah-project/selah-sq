@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "do t'ia prerësh ⟨את⟩ dorën e saj — syri tënd të mos e kursejë.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "do t'ia prerësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e saj"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dorën e saj (pëllëmbën)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "e kursejë"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "syri yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:40.713816259Z",
+  "model": "glm-5.3"
+}

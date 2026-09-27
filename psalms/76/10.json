@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Kur u ngrit Elohim për gjykim, për të shpëtuar të gjithë të përulurit e tokës. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Kur u ngrit"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "për gjykim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "për të shpëtuar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:02.187262616Z",
+  "model": "glm-5.3"
+}

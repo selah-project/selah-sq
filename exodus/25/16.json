@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të vësh në Arkë ⟨את⟩ dëshminë që do të të jap.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dhe do të vësh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arkë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dëshminë"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "dëshminë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do të jap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:49.905711567Z",
+  "model": "glm-5.3"
+}

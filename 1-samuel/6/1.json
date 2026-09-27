@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe arka e Jahvesë qe në fushën e filistejve shtatë muaj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushën e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "muaj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:58.658292534Z",
+  "model": "glm-5.3"
+}

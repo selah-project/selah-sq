@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Kujto ⟨את⟩ ditën e Shabatit, për ta shenjtëruar atë.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kujto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën e Shabatit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "e Shabatit"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "për ta shenjtëruar atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:29.912817546Z",
+  "model": "glm-5.3"
+}

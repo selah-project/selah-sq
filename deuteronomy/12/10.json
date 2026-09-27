@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do të kaloni ⟨את⟩ Jordanin, dhe do të banoni në ⟨të⟩ tokën që Jahve, Elohim-i juaj, ju bën ta trashëgoni ⟨את⟩ ju; dhe do t'ju japë pushim nga të gjithë armiqtë tuaj rreth e rrotull, dhe do të banoni në siguri.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "dhe do të kaloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dhe do të banoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-i juaj"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "ju bën ta trashëgoni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "dhe do t'ju japë pushim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjithë"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "armiqtë tuaj"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dhe do të banoni"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "në siguri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:44.512334669Z",
+  "model": "glm-5.3"
+}

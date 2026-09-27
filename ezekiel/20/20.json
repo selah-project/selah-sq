@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ⟨את⟩ Shabbatet e mia i shenjtëroni, dhe ato do të jenë për shenjë ndërmjet meje dhe jush, për të ditur se unë jam Jahve, Elohim i juaj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatet e mia"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabbatet e mia"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "i shenjtëroni"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "për shenjë"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ndërmjet meje"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dhe jush"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "për të ditur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:33.921169770Z",
+  "model": "glm-5.3"
+}

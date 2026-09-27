@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "dhe hoqi ⟨את⟩ perënditë e të huajve dhe ⟨את⟩ idhullin nga shtëpia e Jahvesë, dhe të gjitha altarët që kishte ndërtuar në malin e shtëpisë së Jahvesë dhe në Jeruzalem, dhe i hodhi jashtë qytetit.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perënditë e të huajve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "e të huajve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idhullin"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "idhullin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kishte ndërtuar"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "dhe në Jeruzalem"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dhe i hodhi"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:48.314155066Z",
+  "model": "glm-5.3"
+}

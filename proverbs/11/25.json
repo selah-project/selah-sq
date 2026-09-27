@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Shpirti që bekohet do të shëndoshet, dhe ai që ujë të tjerët, edhe ai vetë do të ujitet.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "që bekohet"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "do të shëndoshet"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "dhe ai që ujë"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai vetë"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "do të ujitet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:48.224077518Z",
+  "model": "glm-5.3"
+}

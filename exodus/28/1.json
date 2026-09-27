@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe ti afroni pranë teje ⟨את⟩ Aaronin, vëllain tënd, dhe ⟨את⟩ bijtë e tij ⟨את⟩ me të, nga mesi i bijve të Izraelit, për të më shërbyer si prift: Aaroni, Nadabi dhe Avihu, Elazari dhe Itamari, bijtë e Aaronit.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "afroni pranë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllain tënd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "me të ⟨את⟩"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "për të shërbyer si prift"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "dhe Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "dhe Itamari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:40.448643548Z",
+  "model": "glm-5.3"
+}

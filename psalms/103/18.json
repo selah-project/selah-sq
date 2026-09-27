@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "për ata që mbajnë besëlidhjen e tij dhe që i kujtojnë urdhërimet e tij për t'i zbatuar ato.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "për ata që mbajnë"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "dhe që i kujtojnë"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "urdhërimet e tij"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "për t'i zbatuar ato"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.682444403Z",
+  "model": "glm-5.3"
+}

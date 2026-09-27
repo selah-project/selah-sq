@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Sauli pyeti Jahvenë, por Jahve nuk iu përgjigj atij — as në ëndrra, as në Urim, as nëpërmjet profetëve.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por jo"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "iu përgjigj atij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "në ëndrra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "në Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nëpërmjet profetëve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:04.066141581Z",
+  "model": "glm-5.3"
+}

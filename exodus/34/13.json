@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "sepse ⟨את⟩ altaret e tyre do t'i rrëzonit, ⟨את⟩ stolitë e tyre do t'i thyenit, dhe ⟨את⟩ Asherat e tyre do t'i pritnit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret e tyre"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altaret e tyre"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "do t'i rrëzonit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "stolitë e tyre"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "stolitë e tyre"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "do t'i thyenit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Asherat e tyre"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Asherat e tyre"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "do t'i pritnit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:05.388383120Z",
+  "model": "glm-5.3"
+}

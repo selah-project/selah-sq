@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 30:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Lea tha: «Elohim më ka pajisur ⟨את⟩ me një dhuratë të mirë; këtë herë burri im do të banojë me mua, sepse i kam lindur gjashtë djem»; dhe ajo i quajti ⟨את⟩ emrin e tij Zebulun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "זבדני",
+      "gloss": "më ka pajisur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "më (se bashku me 'dhuratë' si kundrinori i dhurimit)"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "dhuratë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "këtë herë"
+    },
+    {
+      "surface": "יזבלני",
+      "gloss": "do të banojë me mua"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "burri im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "kam lindur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dhe quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zebulun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:33.674579520Z",
+  "model": "glm-5.3"
+}

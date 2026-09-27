@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "dhe lëkurë dashuj të kuqërremë, dhe lëkurë tahašimesh, dhe dru akacie (shittim);",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "dhe lëkurë"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "dashuj"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "të kuqërremë"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "dhe lëkurë"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahaşimesh"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "dhe dru"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie (shittim)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:40.641929643Z",
+  "model": "glm-5.3"
+}

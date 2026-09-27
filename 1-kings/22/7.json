@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Jozafati tha: «S'ka këtu ndonjë profet tjetër për Jahve, që të kërkojmë prej tij?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jozafati"
+    },
+    {
+      "surface": "האין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "pë",
+      "פה": "",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tjetër"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "që të kërkojmë"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "prej tij (⟨את⟩)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:31.462749382Z",
+  "model": "glm-5.3"
+}

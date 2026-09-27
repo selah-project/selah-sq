@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "«Tani do të ngrihem», thotë Jahve, «tani do të lartësohem, tani do të mbështillet ⟨lart⟩.»",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Tani"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "do të ngrihem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "do të lartësohem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "do të mbështillet ⟨lart⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:12.433916482Z",
+  "model": "glm-5.3"
+}

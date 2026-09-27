@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Ata e prishën ⟨veten⟩ ndaj tij; nuk janë bijtë e tij — cen është e tyrja: brez i shtrembër dhe i përdredhur.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "e prishën"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndaj tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "cen i tyre"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "i shtrembër"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "dhe i përdredhur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:09.318829491Z",
+  "model": "glm-5.3"
+}

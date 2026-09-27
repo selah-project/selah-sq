@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe mos u fejua me ta: vajzën tënde mos ia jep djalit të tij, dhe vajzën e tij mos e marr për të birin tënd.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe mos"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "u fejua me ta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "vajzën tënde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "djalit të tij"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "dhe vajzën e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "për të birin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:06.427159632Z",
+  "model": "glm-5.3"
+}

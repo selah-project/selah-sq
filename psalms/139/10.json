@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "edhe atje dora jot do më udhëheqë, dhe e djathta jote do më mbajë.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jot"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "do më udhëheqë"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "dhe do më mbajë"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "e djathta jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:47.986543685Z",
+  "model": "glm-5.3"
+}

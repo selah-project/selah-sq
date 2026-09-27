@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Si zgjër i ke hequr ⟨prej⟩ gjithë të ligët e ⟨të⟩ dheut; prandaj i dova dëshmitë e tua.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "si zgjër"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "i ke hequr \/ i ke bërë të pushojnë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "të ligët e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dheut"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "i dova"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dëshmitë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.570806720Z",
+  "model": "glm-5.3"
+}

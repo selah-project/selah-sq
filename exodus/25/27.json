@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Përballë kornizës do të jenë unazat, si vende për shufrat, për të bërë ⟨atë⟩ ⟨את⟩ tryezën me to.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "kornizës"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "unazat"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "si vende"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "për shufrat"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për të mbajtur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tryezën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tryezën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:44.325102037Z",
+  "model": "glm-5.3"
+}

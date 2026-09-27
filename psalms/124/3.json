@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "atëherë të gjallë do të na gëlltitnin, kur u ndez zemërimi i tyre kundër nesh,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "do të na gëlltitnin"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "kur u ndez"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "zemërimi i tyre"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kundër nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.046356711Z",
+  "model": "glm-5.3"
+}

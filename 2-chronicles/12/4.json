@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ai pushtoi ⟨את⟩ qytetet e fortifikuara që ishin të Judës, dhe erdhi deri në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "dhe ai pushtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetet e fortifikuara"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "e fortifikuara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ishin të Judës"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:52.172669363Z",
+  "model": "glm-5.3"
+}

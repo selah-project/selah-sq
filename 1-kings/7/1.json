@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ⟨את⟩ shtëpinë e vet e ndërtoi Salomoni për tridhjetë e njëmbëdhjetë vjet — tre besë-dhjetë vjet — dhe e përfundoi ⟨את⟩ tërë shtëpinë e vet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e vet"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e vet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "e ndërtoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tridhjetë e njëmbëdhjetë (mbi dhjetë)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "dhe e përfundoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë shtëpinë e vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:20.636470317Z",
+  "model": "glm-5.3"
+}

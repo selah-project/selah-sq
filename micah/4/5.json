@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Sepse të gjithë popujt do të ecin, secili në emër të Elohit të vet; por ne do të ecim në emër të Jahvesë, Elohim tonë, për jetë e mot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "do të ecin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emër"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "por ne"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "do të ecim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "në emër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tonë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e mot"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:28.377422069Z",
+  "model": "glm-5.3"
+}

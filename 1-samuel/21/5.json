@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe prifti iu përgjigj ⟨את⟩ Davidit dhe tha: Nuk ka bukë të zakonshme nën dorën time, por ka bukë të shenjtë; nëse të rinjtë janë ruajtur vetëm nga gratë.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "חל",
+      "gloss": "të zakonshme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nën"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "janë ruajtur"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "të rinjtë"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "nga gratë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:39.482536980Z",
+  "model": "glm-5.3"
+}

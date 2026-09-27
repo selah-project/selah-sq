@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim tha: \"Lidheni ujërat ⟨që janë⟩ nën qiejt në një vend të vetëm, dhe le të duket toka e thatë.\" Dhe që kështu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "lidheni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "dhe le të duket"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "toka e thatë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:48.396338086Z",
+  "model": "glm-5.3"
+}

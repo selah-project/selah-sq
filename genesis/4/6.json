@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Jahve i tha Kainit: Pse je i zemëruar, dhe pse ra fytyra jote?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "je i zemëruar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ra"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyra jote"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:54.444767880Z",
+  "model": "glm-5.3"
+}

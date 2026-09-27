@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Lërmë të kaloj nëpër vendin tënd; nëpër rrugë, nëpër rrugë do të ec; nuk do të kthej as djathtas as majtas.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "të kaloj"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nëpër vendin tënd"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nëpër rrugë"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nëpër rrugë"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të ec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "do të kthej"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "as djathtas"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "as majtas"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:14.701960368Z",
+  "model": "glm-5.3"
+}

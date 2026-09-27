@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe gjithashtu e vendosa ⟨את⟩ besëlidhjen time ⟨את⟩ me ta, për t'u dhënë atyre ⟨את⟩ vendin e Kanaanit, ⟨את⟩ vendin e migruimeve të tyre, ku kishin migruar si të huaj.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "e vendosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ me ta"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për t'u dhënë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin e Kanaanit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "të Kanaanit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin e migruimeve të tyre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "e migruimeve të tyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "kishin migruar si të huaj"
+    },
+    {
+      "surface": "בה",
+      "gloss": " në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:45.953745073Z",
+  "model": "glm-5.3"
+}

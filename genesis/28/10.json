@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Jakobi doli nga Beer-Sheba, dhe shkoi drejt Haranit.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "nga Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "drejt Haranit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:03.509575145Z",
+  "model": "glm-5.3"
+}

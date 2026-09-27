@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I tëti jam — më shpëto, sepse urdhërimet e tua i kam kërkuar.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i tëti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam ⟨unë⟩"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "urdhërimet e tua"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "i kam kërkuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:32.459444772Z",
+  "model": "glm-5.3"
+}

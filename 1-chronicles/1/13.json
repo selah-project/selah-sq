@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Kenani lindi ⟨את⟩ Sidonin, të parëlindurin e tij, dhe ⟨את⟩ Hetin.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Dhe Kenani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidonin"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Sidonin"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "të parëlindurin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Hetin"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.097972927Z",
+  "model": "glm-5.3"
+}

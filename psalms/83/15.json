@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Si zjarri që djeg pyllin, dhe si flaka që i përvolon malet —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Si zjarri"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "që djeg"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pyllin"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "dhe si flaka"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "që i përvolon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.707652857Z",
+  "model": "glm-5.3"
+}

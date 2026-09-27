@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "E imi ⟨është⟩ Giladi, dhe e imi ⟨është⟩ Manasia; Efraimi ⟨është⟩ forca e kokës sime; Juda ⟨është⟩ ligjvënësi im.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "e imi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dhe e imi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasia"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efraimi"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "forca"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "e kokës sime"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ligjvënësi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:48.056453817Z",
+  "model": "glm-5.3"
+}

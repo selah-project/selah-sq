@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "⟨את⟩ tavolinës, dhe ⟨את⟩ shufrat e saj, dhe ⟨את⟩ të gjitha veglat e saj, dhe ⟨את⟩ bukën e fytyrës;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavolinës"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tavolinës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shufrat e saj"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "shufrat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha veglat e saj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "veglat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bukën e fytyrës"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukën"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "e fytyrës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:14.883862674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 114,
+  "translation": "Juda u bë shenjtëria e tij, Izraeli sundimi i tij.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "shenjtëria e tij"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "sundimi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:25.779033214Z",
+  "model": "glm-5.3"
+}

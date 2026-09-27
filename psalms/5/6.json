@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Të mendjemëdhenjtë nuk do të qëndrojnë para syve të tu; ti urren të gjithë punëtorët e pavërtetësisë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "do të qëndrojnë"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "të mendjemëdhenjtë"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "syve të tu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ti urren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "punëtorët"
+    },
+    {
+      "surface": "און",
+      "gloss": "e pavërtetësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.328236733Z",
+  "model": "glm-5.3"
+}

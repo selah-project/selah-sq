@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "I njoh çdo zog të maleve, dhe gjallesat e fushës ⟨janë⟩ me mua.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "i njoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "zog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "të maleve"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "dhe gjallesat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.093823566Z",
+  "model": "glm-5.3"
+}

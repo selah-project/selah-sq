@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Përballë kornizës qenë unazat, ⟨si⟩ shtëpi për shufrat, për të mbartur ⟨את⟩ tavolinën.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "kornizës"
+    },
+    {
+      "surface": "היו",
+      "gloss": "qenë"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "unazat"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "për shufrat"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për të mbartur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavolinën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tavolinën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:44.870762468Z",
+  "model": "glm-5.3"
+}

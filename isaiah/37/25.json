@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Unë kam gërmuar dhe kam pirë ⟨את⟩ ujërat, dhe do t'i thajë me shputën e hapeve të mia të gjithë lumenjtë e Egjiptit.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "kam gërmuar"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "dhe kam pirë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "dhe do t'i thajë"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "me shputën e"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "hapeve të mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "lumenjtë e"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:23.102593247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe ⟨do të bëhet⟩ kur të keni kaluar ⟨את⟩ Jordanin, do të ngrini ⟨את⟩ këta gurë që unë po ju urdhëroj ⟨את⟩ ⟨ju⟩ sot, në malin Ebal, dhe do t'i lyesh ⟨את⟩ ata me allçi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe ⟨do të bëhet⟩"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "kur të keni kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "do të ngrini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këta gurë"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "po ju urdhëroj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ju⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "dhe do t'i lyesh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "me allçi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:43.937892218Z",
+  "model": "glm-5.3"
+}

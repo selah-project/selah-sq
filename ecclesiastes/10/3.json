@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Edhe kur i marri ecën në rrugë, i mungon zemra, dhe u tregon të gjithëve ⟨se⟩ ai ⟨është⟩ i marër.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "kur i marri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "i mungon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thotë"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithëve"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "i marër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:05.331396229Z",
+  "model": "glm-5.3"
+}

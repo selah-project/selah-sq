@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Për Salomon. O Elohim, jepi gjykimet e tua mbretit, dhe drejtësinë tënde birit të mbretit.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Për Salomon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimet e tua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "תן",
+      "gloss": "jepi"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dhe drejtësinë tënde"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "të mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.985579552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe kjo është Tora e flijimit të fajit: ⟨Është⟩ shenjtëri e shenjtërive.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Dhe kjo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora e"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "flijimit të fajit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "shenjtëri"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtërive"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:31.488375779Z",
+  "model": "glm-5.3"
+}

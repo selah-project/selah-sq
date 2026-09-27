@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Ja, të vërtetën e do në të brendshmet, dhe në të fshehtën urtësinë më bën ta dija.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërtetën"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "e do"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "në të brendshmet"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "dhe në të fshehtën"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësinë"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "më bën ta dija"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:46.791327479Z",
+  "model": "glm-5.3"
+}

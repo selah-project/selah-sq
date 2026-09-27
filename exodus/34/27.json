@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Jahve i tha Moisiut: «Shkruaj për veten tënde ⟨את⟩ këto fjalë, sepse sipas gojës së këtyre fjalëve kam prerë ⟨את⟩ ⟨me⟩ ty besëlidhjen, dhe ⟨את⟩ ⟨me⟩ Izraelin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "shkruaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për veten tënde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto fjalë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojës"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "të fjalëve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kam prerë"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨me⟩ ty"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhe ⟨me⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:39.608391850Z",
+  "model": "glm-5.3"
+}

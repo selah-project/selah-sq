@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe të vendosin ⟨את⟩ emrin tim mbi bijtë e Izraelit, dhe unë do t'i bekoj ata.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "dhe të vendosin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tim"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrin tim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "do t'i bekoj ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:48.631177476Z",
+  "model": "glm-5.3"
+}

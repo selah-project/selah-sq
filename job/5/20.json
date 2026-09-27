@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Në uri do të të shpengojë nga vdekja, dhe në luftë nga duart ⟨e⟩ shpatës",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Në uri"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "do të të shpengojë"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dhe në luftë"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga duart"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:23.838777033Z",
+  "model": "glm-5.3"
+}

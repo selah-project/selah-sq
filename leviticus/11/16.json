@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨את⟩ bijën e struthit, dhe ⟨את】 tahmasin, dhe ⟨את⟩ shahafin, dhe ⟨את⟩ netzin sipas llojit të vet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijën e struthit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijën"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "e struthit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tahmasin"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmasin (lugëthi i natës)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shahafin"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shahafin (pulëbardhën)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "netzin"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "netzin (sokolin)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:20.900940658Z",
+  "model": "glm-5.3"
+}

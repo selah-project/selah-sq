@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Joabi dhe Avishai, vëllai i tij, vranë Avnerin, sepse ai kishte vrarë ⟨את⟩ Asahelin, vëllanë e tyre, në Givon, në betejë.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Dhe Joabi"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "dhe Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllai i tij"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "vranë"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai që"
+    },
+    {
+      "surface": "המית",
+      "gloss": "kishte vrarë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahelin"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahelin"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "vëllanë e tyre"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "në Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "në betejë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:54.760559154Z",
+  "model": "glm-5.3"
+}

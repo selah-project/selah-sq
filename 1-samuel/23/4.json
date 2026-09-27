@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe shtoi David edhe një herë të pyeste në Jahve, dhe iu përgjigj atij Jahve dhe tha: Çohu, zbrit në Qeila, se unë po jap ⟨את⟩ Filistët në dorën tënde.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "shtoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe një herë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "të pyeste"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "iu përgjigj atij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ço"
+    },
+    {
+      "surface": "רד",
+      "gloss": "zbrit"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "në Qeila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistët"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistët"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:01.193327976Z",
+  "model": "glm-5.3"
+}

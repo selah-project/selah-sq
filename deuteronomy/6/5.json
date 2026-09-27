@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe të duash ⟨את⟩ Jahve, Elohim-in tënd, me gjithë zemrën tënde, me gjithë shpirtin tënd dhe me gjithë forcën tënde.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "dhe të duash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirtin tënd"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "forcën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:03.178261463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Samueli bëri ⟨את⟩ atë që foli Jahve dhe hyri në Beth-Lechem; dhe u tronditën pleqtë e qytetit për t'i dalë përpara dhe ai tha: Shalom. Jam ardhur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe bëri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që foli Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "dhe u tronditën"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "për t'i dalë përpara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "Jam ardhur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:15.939415187Z",
+  "model": "glm-5.3"
+}

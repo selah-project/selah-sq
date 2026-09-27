@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Jahve të përgjigjet ty në ditën e ngushticës; emri i Elohit të Jakovit të lartësoftë ty.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "të përgjigjet ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "e ngushticës"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "të lartësoftë ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "i Elohit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "të Jakovit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:25.955838025Z",
+  "model": "glm-5.3"
+}

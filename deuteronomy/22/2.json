@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe nëse vëllai yt nuk të është afër dhe nuk e njeh, atëherë do ta mbledhësh ⟨את⟩ atë brenda në shtëpinë tënde, dhe do të mbetet me ty derisa ta kërkojë vëllai yt, dhe do t'ia kthesh atë.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "afër"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "do ta mbledhësh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "brenda në"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "shtëpinë tënde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të mbetet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ta kërkojë"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (kafshën e humbur)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "dhe do t'ia kthesh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:24.268735944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Pse qëndron larg, o Jahve, dhe fshihesh në kohët e ngushtësisë?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "larg"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "fshihesh"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "në kohët"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "të ngushtësisë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:12.816444656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe s'uat të ngjiteshe, por e provokuat ⟨את⟩ gojën e Jahves, Elohim tuaj.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe s"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "uat"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "të ngjiteshe"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "por e provokuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gojën e Jahves"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:31.251344985Z",
+  "model": "glm-5.3"
+}

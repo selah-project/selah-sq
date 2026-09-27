@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Le të bijnë të ligjtë në rrjetat e veta — unë ⟨do të kaloj⟩ deri sa të kaloj.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "le të bijnë"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "në rrjetat e veta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "të kaloj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:40.408113268Z",
+  "model": "glm-5.3"
+}

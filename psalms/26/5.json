@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "E kam urretur kuvendin e keqbenëve dhe me të ligët nuk do të rri.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "E kam urretur"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kuvendin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "e keqbenëve"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të ligët"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "do të rri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:27.887004891Z",
+  "model": "glm-5.3"
+}

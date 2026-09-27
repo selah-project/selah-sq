@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe me anë të një profeti Jahve e ngriti ⟨את⟩ Izraelin nga Egjipti, dhe me anë të një profeti u ruajt.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "dhe me anë të një profeti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e ngriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "dhe me anë të një profeti"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "u ruajt"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:11.988839663Z",
+  "model": "glm-5.3"
+}

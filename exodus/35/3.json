@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Mos ndizni zjarr në asnjë nga vendbanimet tuaja në ditën e Shabit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ndizni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në asnjë nga"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "vendbanimet tuaja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "e Shabit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:42.411719634Z",
+  "model": "glm-5.3"
+}

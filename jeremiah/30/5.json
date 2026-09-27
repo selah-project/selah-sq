@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Sepse kështu ka thënë Jahve: Një zë dridhjeje kemi dëgjuar, frikë, dhe nuk ka paqe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zë"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "dridhjeje"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kemi dëgjuar"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frikë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqe"
+    }
+  ],
+  "timestamp": "2026-09-27T16:16:50.394913672Z",
+  "model": "glm-5.3"
+}

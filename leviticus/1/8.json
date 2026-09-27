@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe bijtë e Aaronit, priftërinjtë, do t'i renditin ⟨את⟩ copat — ⟨את⟩ kokën dhe ⟨את⟩ yndyrën — mbi drurit që ⟨janë⟩ mbi zjarrin që është mbi altar.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "dhe do t'i renditin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copat"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "copat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drurit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:27.669103226Z",
+  "model": "glm-5.3"
+}

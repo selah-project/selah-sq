@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "O Elohim im, më shpëto nga dora e të pabesit, nga pëllëmba e shtrembërit dhe të dhunshmit.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim im"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "e të pabesit"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nga pëllëmba"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "e shtrembërit"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "dhe të dhunshmit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:08.712926135Z",
+  "model": "glm-5.3"
+}

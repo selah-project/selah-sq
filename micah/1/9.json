@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse plaga e saj është ⟨e pashërueshme⟩; sepse erdhi deri në Judá, preku deri në portën e popullit tim, deri në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "⟨është e pashërueshme⟩"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "plaga e saj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "באה",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judá"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "preku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portën"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e popullit tim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:58.983900754Z",
+  "model": "glm-5.3"
+}

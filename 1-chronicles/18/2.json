@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe mundi ⟨את⟩ Moabin, dhe moabitët u bënë shërbëtorë të Davidit, duke sjellë dhurata.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe u bënë"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabitët"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "shërbëtorë"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "të Davidit"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "duke sjellë"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dhurata"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:49.340394630Z",
+  "model": "glm-5.3"
+}

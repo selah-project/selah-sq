@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Dhe do ta ushqente ⟨atë⟩ me yndyrën e grurit, dhe me mjaltë nga shkëmbi do të të ngopja.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "dhe do ta ushqente atë"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "me yndyrën"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "e grurit"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "dhe nga shkëmbi"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mjaltë"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "do të të ngopja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:00.067581427Z",
+  "model": "glm-5.3"
+}

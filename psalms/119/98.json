@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më bën më të ditur se armiqtë e mi urdhrat e tu, sepse ata ⟨janë⟩ përjetësisht me mua.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "se armiqtë e mi"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "më bën më të ditur"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "urdhrat e tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:59.011429738Z",
+  "model": "glm-5.3"
+}

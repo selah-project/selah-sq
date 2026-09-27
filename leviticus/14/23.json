@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe do t'i sjellë ⟨אתם⟩ në ditën e tetë, për pastrimin e tij, te prifti, te hyrja e Çadrës së Takimit, përballë Jahves.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dhe do t'i sjellë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (flijimet)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "të tetë"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "për pastrimin e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:30.807460469Z",
+  "model": "glm-5.3"
+}

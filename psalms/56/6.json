@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Gjithë ditën fjalët e mia i shtrembërojnë; të gjitha mendimet e tyre ⟨janë⟩ kundër meje për të keq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "i shtrembërojnë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "mendimet e tyre"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "për të keq"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:22.475138469Z",
+  "model": "glm-5.3"
+}

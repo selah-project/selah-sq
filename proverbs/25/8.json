@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Mos dil me nxitim në grindje ⟨përpara⟩, se ndryshe ç'do të bësh në fundin e saj, kur fqiuari yt të poshtëron ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "dil"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "në grindje"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "me nxitim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "se ndryshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do të bësh"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "në fundin e saj"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "kur… të poshtëron"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti (kundrinori i foljes בהכלים, së bashku me רעך — fqiuari yt)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "fqiuari yt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:00.899342519Z",
+  "model": "glm-5.3"
+}

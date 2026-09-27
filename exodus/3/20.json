@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do ta zgjas ⟨את⟩ dorën time dhe do të godas ⟨את⟩ Egjiptin me të gjitha çuditë e mia që do të bëj në mes të tyre; dhe pas kësaj ai do t'ju dëbojë ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dhe do ta zgjas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dhe do të godas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me të gjitha"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "çuditë e mia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "në mes të tyre"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do t'ju dëbojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:01.279322640Z",
+  "model": "glm-5.3"
+}

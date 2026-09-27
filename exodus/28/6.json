@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe të bëjnë ⟨את⟩ efodin: ar, e kaltër dhe e purpurt, mëndafsh i kuq i ngjyrosur dy herë dhe lir i hollë i përdredhur — punë e menduar (e ndërruar me mjeshtëri).",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dhe të bëjnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "e kaltër"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dhe e purpurt"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "mëndafsh i kuq i ngjyrosur dy herë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(i kuq i ngjyrosur)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe lir i hollë"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "i përdredhur"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "e menduar me mjeshtëri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:45.294989289Z",
+  "model": "glm-5.3"
+}

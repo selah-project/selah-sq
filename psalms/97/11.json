@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Dritë ⟨ёshtë⟩ mbjellë për të drejtin, dhe gëzim për ata që kanë zemër të drejtë.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Dritë"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbjellë"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "për të drejtin"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "dhe për ata të drejtë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemër"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:06.123059210Z",
+  "model": "glm-5.3"
+}

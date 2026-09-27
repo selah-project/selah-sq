@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Davidi thirri njërin nga të rinjtë dhe tha: Afrohu, bjeri atij. Dhe e rrahu atë dhe ai vdiq.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "njërin"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "nga të rinjtë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "גש",
+      "gloss": "afrohu"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "bjeri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e rrahu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "vdiq"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:57.817677051Z",
+  "model": "glm-5.3"
+}

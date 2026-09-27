@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe Davidi tha: «Jahve, Elohim i Izraelit, shërbëtori yt ka dëgjuar me vëmendje se Sauli kërkon të vijë në Keila, për të shkatërruar qytetin për shkakun tim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ka dëgjuar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "me vëmendje"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori yt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "kërkon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "të vijë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "për të shkatërruar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "për shkakun tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:36.791711259Z",
+  "model": "glm-5.3"
+}

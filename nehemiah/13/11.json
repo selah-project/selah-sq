@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe u grindja me ⟨את⟩ përparësit, dhe thashë: «Pse është braktisur shtëpia e Elohit?» Dhe i mblodha ata dhe i rivura në këmbë në vendin e tyre.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "dhe u grindja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me përparësit"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "përparësit"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "është braktisur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "dhe i mblodha ata"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "dhe i rivura në këmbë"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "vendin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:59.838536023Z",
+  "model": "glm-5.3"
+}

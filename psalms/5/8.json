@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Por unë, në shumicën e hesed-it tënd, do të hyj në shtëpinë tënde; do të përulen te pallati i shenjtërisë tënde, në frikën tënde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Por unë"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "në shumicën"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "e hesed-it tënd"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "do të hyj"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "në shtëpinë tënde"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "do të përulen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pallati"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "i shenjtërisë tënde"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "në frikën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.328806265Z",
+  "model": "glm-5.3"
+}

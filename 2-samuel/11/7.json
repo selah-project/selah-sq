@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Uriahu erdhi te ⟨ai⟩, dhe Davidi pyeti për shëndetin e Joabit, dhe për shëndetin e popullit, dhe për shëndetin e luftës.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriahu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te ai"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "pyeti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "për shëndetin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "e Joabit"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "dhe për shëndetin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "dhe për shëndetin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "e luftës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:00.541872823Z",
+  "model": "glm-5.3"
+}

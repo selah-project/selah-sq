@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u tha atyre: Edhe tre ditë, pastaj kthehuni te unë. Dhe populli u largua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "kthehuni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Dhe u largua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:02.951265788Z",
+  "model": "glm-5.3"
+}

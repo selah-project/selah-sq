@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Noeu filloi — burrë i dheut — dhe mbolli një vënd rrushi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Dhe filloi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noeu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burrë i"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dheut"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "dhe mbolli"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vënd rrushi"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:23.013706086Z",
+  "model": "glm-5.3"
+}

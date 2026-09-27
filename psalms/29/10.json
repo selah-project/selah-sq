@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Jahve u ul mbi përruin; dhe Jahve rri si mbret përjetë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "mbi përruin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "u ul"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe rri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "si mbret"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:57.762470155Z",
+  "model": "glm-5.3"
+}

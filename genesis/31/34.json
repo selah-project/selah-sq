@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Raheli i kishte marrë ⟨את⟩ terafimet dhe i kishte vënë në samarin e devesë dhe u ul mbi ta; dhe Labani preku me duar ⟨את⟩ gjithë çadrën, por nuk i gjeti.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "kishte marrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimet"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimet"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "dhe i kishte vënë"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "në samarin"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "e devesë"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "dhe u ul"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "dhe preku me duar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë çadrën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "i gjeti"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:45.895363706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe tani, o mbretër, tregoni urtësi; merrni mësim, o gjykatës të ⟨tokës⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "o mbretër"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "tregoni urtësi"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "merrni mësim"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "o gjykatës"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:29.916426614Z",
+  "model": "glm-5.3"
+}

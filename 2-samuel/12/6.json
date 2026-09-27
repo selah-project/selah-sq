@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe delja do ta paguajë katërfish, sepse ai bëri ⟨את⟩ këtë punë dhe sepse nuk pati mëshirë.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "delja"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "delja"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do ta paguajë"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "katërfish"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ai bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "pati mëshirë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:17.055667696Z",
+  "model": "glm-5.3"
+}

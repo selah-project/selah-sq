@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe shkroi në letër, duke thënë: Vendosni ⟨את⟩ Urianë përballë fytyrës së betejës së fortë, dhe tërhiquni pas tij, dhe ⟨ai⟩ të goditet dhe të vdesë.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "shkroi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "në letër"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Vendosni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urianë"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urianë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejtuar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës së"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "betejës"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "së fortë"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "dhe tërhiquni"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "të goditet"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dhe të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:43.330141802Z",
+  "model": "glm-5.3"
+}

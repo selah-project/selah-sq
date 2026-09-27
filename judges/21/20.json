@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe urdhëruan ⟨את⟩ bijtë e Beniaminit, duke thënë: Shkoni dhe fshihuni në pritë në vreshtat.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe urdhëruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Beniaminit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "dhe fshihuni në pritë"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "në vreshtat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:09:55.423616950Z",
+  "model": "glm-5.3"
+}

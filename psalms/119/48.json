@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "dhe do t'i ngre duart e mia drejt urdhrave të tua, të cilat i kam dashuar, dhe do të meditoj në statutet e tua.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "dhe do t'i ngre"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "duart e mia (pëllëmbat)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhrave të tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "i kam dashuar"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "dhe do të meditoj"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "në statutet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.048236975Z",
+  "model": "glm-5.3"
+}

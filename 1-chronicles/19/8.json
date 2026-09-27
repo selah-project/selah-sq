@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dëgjoi Davidi, dhe dërgoi ⟨את⟩ Joabin dhe ⟨את⟩ tërë ushtrinë e trimave.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tërë ushtrinë e trimave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ushtrinë"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "e trimave"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:28.258847293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe nëse ecën në rrugët e mia, duke ruajtur urdhërimet e mia dhe mësymjet e mia, siç ecën Davidi, ati yt, atëherë do ta zgjas ⟨את⟩ ditët e tua.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "në rrugët e mia"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "duke ruajtur"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "urdhërimet e mia"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dhe mësymjet e mia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ecën"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ati yt"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "do ta zgjas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditët e tua"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ditët e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:47.863957521Z",
+  "model": "glm-5.3"
+}

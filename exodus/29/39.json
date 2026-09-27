@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dashin e parin do ta bësh ⟨את⟩ në mëngjes, dhe dashin e dytë do ta bësh ⟨את⟩ mes dy muzgjeve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dashin e parin"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e parin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dashin e dytë"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do ta bësh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dy muzgjeve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:12.178205220Z",
+  "model": "glm-5.3"
+}

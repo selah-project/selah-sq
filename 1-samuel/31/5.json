@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe mbajtësi i armëve të tij pa që Sauli kishte vdekur, dhe ra edhe ai mbi shpatën e vet dhe vdiq me të.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mbajtësi i armëve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "të tij (armët)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kishte vdekur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "shpatën e vet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "vdiq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:59.903696337Z",
+  "model": "glm-5.3"
+}

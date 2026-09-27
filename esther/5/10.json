@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Por e përmbajti veten Hamani dhe erdhi në shtëpinë e vet; dhe dërgoi dhe solli ⟨את⟩ miqtë e tij dhe ⟨את⟩ Zereshin, gruan e tij.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "e përmbajti veten"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e vet"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "solli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miqtë e tij"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "miqtë e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zereshin"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:34.794831920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Mbretërit e tokës dhe të gjithë popujt, princat dhe të gjithë gjykatësit e tokës",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Mbretërit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "princat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "gjykatësit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:52.280399691Z",
+  "model": "glm-5.3"
+}

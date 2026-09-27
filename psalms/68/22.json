@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Vërtet Elohim do të shtypë ⟨atë⟩ kokën e armiqve të tij, kreshtën që rrit flokë të atij që ecën në fajet e veta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "do të shtypë"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "të armiqve të tij"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kreshtën"
+    },
+    {
+      "surface": "שער",
+      "gloss": "që rrit flokë"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "që ecën"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "në fajet e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:39.291912071Z",
+  "model": "glm-5.3"
+}

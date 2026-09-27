@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Nobahu shkoi dhe pushtoi ⟨את⟩ Kenathin dhe ⟨את⟩ fshatrat e saj, dhe e quajti atë Nobah, sipas emrit të vet.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Dhe Nobahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dhe pushtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenathin"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenathin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fshatrat e saj"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "fshatrat e saj (bijat e saj)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atë"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sipas emrit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:18.061539517Z",
+  "model": "glm-5.3"
+}

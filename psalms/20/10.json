@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Jahve, shpëtoje ⟨mbretin⟩! Ai do të na përgjigjet në ditën kur ta thërrasim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "shpëtoje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨mbretin⟩"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "do të na përgjigjet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "kur ta thërrasim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:39.899919549Z",
+  "model": "glm-5.3"
+}

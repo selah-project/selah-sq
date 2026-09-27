@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "E ktheu ⟨את⟩ ujërat e tyre në gjak dhe vrau ⟨את⟩ peshqit e tyre.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "e ktheu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujërat e tyre"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ujërat e tyre"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "në gjak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vrau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peshqit e tyre"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "peshqit e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:35.682907351Z",
+  "model": "glm-5.3"
+}

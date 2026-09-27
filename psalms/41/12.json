@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Për këtë e di se ke qëllim në mua, sepse armiku im nuk do të brohorasë mbi mua.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "për këtë"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ke qëllim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "do të brohorasë"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiku im"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:44.440406022Z",
+  "model": "glm-5.3"
+}

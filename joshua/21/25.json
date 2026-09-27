@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nga gjysma e fisit të Manasit ⟨את⟩ Taanakun ⟨me⟩ kullotat e tij dhe ⟨את⟩ Gat-Rimonin ⟨me⟩ kullotat e tij: dy qytete.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "dhe nga gjysma"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "e fisit"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "të Manasit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakun"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Gat-Rimonin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e tij"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dy"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:49.224165148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Elohim, mos u largo nga unë; Elohai, nxitо në ndihmën time, shpejto",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "u largo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "në ndihmën time"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "shpejto"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:52.045409253Z",
+  "model": "glm-5.3"
+}

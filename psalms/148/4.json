@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvdojeni atë, qiejt e qiejve, dhe ujërat ⟨që⟩ ⟨janë⟩ mbi qiell.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "qiejt e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejve"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "dhe ujërat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiell"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:11.565576982Z",
+  "model": "glm-5.3"
+}

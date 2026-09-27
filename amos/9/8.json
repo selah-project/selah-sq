@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 9:8",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Ja, sytë e Adonai Jahvesë janë mbi mbretërinë mëkatarese, dhe unë do ta shkatërroj ⟨את⟩ atë nga faqja e dheut; vetëm se nuk do ta shkatërroj krejt ⟨את⟩ shtëpinë e Jakobit, thotë Jahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "mbi mbretërinë"
+    },
+    {
+      "surface": "החטאה",
+      "gloss": "mëkatarese"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "dhe unë do ta shkatërroj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (mbretërinë)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqja e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dheut"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "vetëm se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "do ta shkatërroj"
+    },
+    {
+      "surface": "אשמיד",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jakobit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:37.135605873Z",
+  "model": "glm-5.3"
+}

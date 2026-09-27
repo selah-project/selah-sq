@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Izraeli qëndroi në Shittim, dhe populli filloi të bënte kurvëri me bijat e Moabit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "në Shittim"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "dhe filloi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "të bënte kurvëri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "e Moabit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:18.195251354Z",
+  "model": "glm-5.3"
+}

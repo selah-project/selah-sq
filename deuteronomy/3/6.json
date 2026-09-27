@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe i shfarosëm ⟨אותם⟩ ata, siç bëmë për Sihonin, mbretin e Heshbonit — i shfarosëm plotësisht: çdo qytet, burrat, gratë dhe fëmijët e vegjël.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "dhe i shfarosëm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "bëmë"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "për Sihonin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "e Heshbonit"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "i shfarosëm plotësisht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "gratë"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "dhe fëmijët e vegjël"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:04.144374330Z",
+  "model": "glm-5.3"
+}

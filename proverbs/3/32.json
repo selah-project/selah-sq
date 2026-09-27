@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Sepse i shtrembëri ⟨është⟩ neveri për Jahve, dhe ⟨את⟩ të drejtët ⟨ka⟩ sekretin e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "i shtrembëri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtët"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "të drejtët"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sekretin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:19:45.793911193Z",
+  "model": "glm-5.3"
+}

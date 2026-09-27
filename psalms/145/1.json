@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Lëvdatë e Davidit. Do të lartësoj ty, Eloai, ⟨mbreti im⟩, dhe do të bekoj emrin tënd përjetë e mot.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Lëvdatë"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Do të lartësoj ty"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨mbreti im⟩"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "dhe do të bekoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e mot"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:28.593671934Z",
+  "model": "glm-5.3"
+}

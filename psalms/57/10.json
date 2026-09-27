@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Do të të lëvdoj midis popujve, Adonai; do të të këndoj me këngë midis kombeve.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Do të të lëvdoj"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "midis popujve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "do të të këndoj me këngë"
+    },
+    {
+      "surface": "בל",
+      "gloss": "midis"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kombëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:50.190779028Z",
+  "model": "glm-5.3"
+}

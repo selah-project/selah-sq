@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Do ta lëvdoj Jahven me gjithë zemrën time, do t'i rrëfej të gjitha çuditë e tua.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "do ta lëvdoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "do t'i rrëfej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çuditë e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:18.853373841Z",
+  "model": "glm-5.3"
+}

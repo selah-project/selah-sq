@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Pse, o Jahve, e hedh poshtë shpirtin tim? Fsheh fytyrën tënde nga unë?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "e hedh poshtë"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "fsheh"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.299030184Z",
+  "model": "glm-5.3"
+}

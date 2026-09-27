@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe do t'i ruani urdhërimet e mia dhe do t'i bëni ⟨את⟩ ato: unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dhe do t'i ruani"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhërimet e mia"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do t'i bëni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (urdhërimet e mia)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:22.195618438Z",
+  "model": "glm-5.3"
+}

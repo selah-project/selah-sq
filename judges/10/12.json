@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Sidonasit dhe Amalekitët dhe Maonitët ju shtypën ⟨ju⟩, dhe ju më bërtitët, dhe unë ju shpëtova ⟨ju⟩ nga dora e tyre?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "dhe Sidonasit"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dhe Amalekitët"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "dhe Maonitët"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "ju shtypën"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "dhe ju më bërtitët"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "drejt meje"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "dhe unë ju shpëtova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nga dora e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:30.300365616Z",
+  "model": "glm-5.3"
+}

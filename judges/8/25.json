@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe thanë: «Do t'i japim me gëzim.» Dhe shtrinin ⟨e⟩ pëlhurën, dhe hidhnin aty çdo njeri unazën e plaçkës së tij ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "do të japim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "japim"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "dhe shtrinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pëlhurën"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "pëlhurën"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "dhe hidhnin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "unazën"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "të plaçkës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:00.020105391Z",
+  "model": "glm-5.3"
+}

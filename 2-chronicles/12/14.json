@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe bëri të keqen, sepse nuk e përgatiti zemrën e tij për të kërkuar ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "përgatiti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:32.249668104Z",
+  "model": "glm-5.3"
+}

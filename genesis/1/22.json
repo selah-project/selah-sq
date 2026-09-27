@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim i bekoi, duke thënë: Pritni dhe shumohuni dhe mbushni ⟨את⟩ ujërat në dete; dhe shpendët le të shumohen në tokë.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ i ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "pritni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dhe shumohuni"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe mbushni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujërat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "në dete"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "dhe shpendët"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "le të shumohen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:52.804692751Z",
+  "model": "glm-5.3"
+}

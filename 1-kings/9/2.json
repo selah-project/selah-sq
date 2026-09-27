@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Jahve iu shfaq Salomonit për herë të dytë, ashtu siç i ishte shfaqur atij në Gibeon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iu shfaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonit"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "për herë të dytë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i ishte shfaqur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "në Gibeon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:33.337591767Z",
+  "model": "glm-5.3"
+}

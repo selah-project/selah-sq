@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Edhe ⟨את⟩ darmarrja, sepse ripërtyp ⟨gjizën⟩, por ⟨ajo⟩ nuk e ndan pictures—jo—pjerrësisht këmbën—përkthimi: dhe thundra nuk e ka të ndarë— ⟨ajo⟩ ⟨është⟩ e papastër për ju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darmarrja"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "darmarrja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ripërtyp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gjizën"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dhe thundra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "nuk e ndan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "e papastër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:45.958209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe Jehocadaku shkoi ⟨në⟩ robëri, kur Jahve i mërgoi ⟨את⟩ Judanë dhe Jerusalemin, nëpërmjet dorës së Nebukadnetsarit.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "dhe Jehocadaku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "shkoi"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "⟨në⟩ robëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judanë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judanë"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet dorës së"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsarit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:01.104024354Z",
+  "model": "glm-5.3"
+}

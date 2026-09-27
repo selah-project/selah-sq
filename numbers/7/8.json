@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ⟨את⟩ katër qerreta dhe ⟨את⟩ tetë qetë u dha bijve të Merarit, sipas shërbimit të tyre, nën dorën e Itamarit, birit të Aaronit, priftit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "katër qerreta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tetë qetë"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "tetë"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "qetë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarit"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "shërbimit të tyre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nën dorën e"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamarit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit të"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:11.639851945Z",
+  "model": "glm-5.3"
+}

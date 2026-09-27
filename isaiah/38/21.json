@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe Jesaja tha: «Le të marrin ⟨⟩ një tortë fiqish të shtypura dhe të fërkojnë mbi ulcerën, dhe ai do të jetojë.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "יישאו",
+      "gloss": "le të marrin"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "tortë e shtypur"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "fiqish"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "dhe të fërkojnë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ulcerën"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dhe ai do të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:56.180043185Z",
+  "model": "glm-5.3"
+}

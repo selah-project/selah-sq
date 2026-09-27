@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe i rrënoi ⟨את⟩ altarët dhe ⟨את⟩ Asherat, dhe idhujt e gdhendur i thërmoi në pluhur, dhe të gjithë altarët e diellit i preri në gjithë tokën e Izraelit, dhe u kthye në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "dhe i rrënoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarët"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Asherat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherat"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "dhe idhujt e gdhendur"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "i thërmoi"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "në pluhur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "altarët e diellit"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "i preri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:33.928633100Z",
+  "model": "glm-5.3"
+}

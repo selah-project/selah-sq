@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe Jahve ishte me Jozefin ⟨את⟩, dhe ai u bua një njeri i suksesshëm; dhe ai ishte në shtëpinë e zotërisë së tij, egjiptianit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ai ishte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "i suksesshëm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ai ishte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "të zotërisë së tij"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egjiptianit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:24.731811313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 131,
+  "translation": "Le të presë Izraeli te Jahve, që nga tani e deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "le të presë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "që nga tani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.758689024Z",
+  "model": "glm-5.3"
+}

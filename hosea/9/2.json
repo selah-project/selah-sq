@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Lëmja dhe shtypja e rrushit nuk do t'i ushqejnë, dhe vera e re do t'u gënjejë atyre.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "Lëmja"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "dhe shtypja e rrushit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "do t'i ushqejnë"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "dhe vera e re"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "do t'u gënjejë"
+    },
+    {
+      "surface": "בה",
+      "gloss": "atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:44.541614907Z",
+  "model": "glm-5.3"
+}

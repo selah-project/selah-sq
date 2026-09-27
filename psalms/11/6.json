@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Do të bëjë të bie mbi të pabirët thëngjij zjarri dhe squfur, dhe erë ndezëse — pjesa e kupës së tyre.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "do të bëjë të bie (shi)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabirët"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "thëngjij"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "dhe squfur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dhe erë"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ndezëse"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pjesa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "e kupës së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:49.597934983Z",
+  "model": "glm-5.3"
+}

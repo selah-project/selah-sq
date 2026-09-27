@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe engjëlli i Jahvesë u kthye për herë të dytë dhe e preki ⟨atë⟩ dhe tha: «Ngrihu, ha, sepse ⟨është⟩ shumë e madhe për ty udha.»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engjëlli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "për herë të dytë"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dhe e preki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨atë⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumë e madhe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "udha"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:26.326966223Z",
+  "model": "glm-5.3"
+}

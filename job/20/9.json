@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Syri që e vëzhgoi ⟨atë⟩ nuk do ta ⟨shikojë⟩ më, dhe vendi i tij nuk do ta shikojë ⟨atë⟩ më.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "syri"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "e vëzhgoi ⟨atë⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "do të shtojë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "do ta shikojë ⟨atë⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:43.958404643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ Jeutsin, ⟨את⟩ Shekiahun dhe ⟨את⟩ Mirmahun. Këta janë bijtë e tij, krerë të shtëpive të etërve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jeutsin"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeutsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Shekiahun"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekiahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Mirmahun"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmahun"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "janë bijtë e tij"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "krerë"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "të shtëpive të etërve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:07.217265988Z",
+  "model": "glm-5.3"
+}

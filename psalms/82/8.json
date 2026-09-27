@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Çohu, Elohim, gjyko ⟨tokën⟩, sepse ti do të trashëgosh të gjitha kombet.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Çohu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "gjyko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tokën⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "do të trashëgosh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:19.123254350Z",
+  "model": "glm-5.3"
+}

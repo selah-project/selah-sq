@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Nuk mundem vetëm të mbaj ⟨את⟩ gjithë këtë popull, sepse ⟨është⟩ shumë i rëndë për mua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mundem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "të mbaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë këtë popull"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "i rëndë"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:25.511830832Z",
+  "model": "glm-5.3"
+}

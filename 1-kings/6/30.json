@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ⟨את⟩ dyshemenë e shtëpisë e mbuloi me ar, brenda dhe jashtë.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dyshemenë e shtëpisë"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "dyshemenë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "e mbuloi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "me ar"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "dhe jashtë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:13.195544792Z",
+  "model": "glm-5.3"
+}

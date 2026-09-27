@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Por ⟨את⟩ shtëpinë e Judës do ta shpërblyej me dhembshuri dhe do t'i shpëtoj ata nëpërmjet Jahves, Elohim të tyre, dhe nuk do t'i shpëtoj ata me hark, as me shpatë, as me luftë, as me kuaj e kalorës.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Judës"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "do ta shpërblyej me dhembshuri"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "do t'i shpëtoj"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nëpërmjet Jahves"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim të tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "do t'i shpëtoj ata"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "me hark"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "as me shpatë"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "as me luftë"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "as me kuaj"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "e kalorës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:44.836449945Z",
+  "model": "glm-5.3"
+}

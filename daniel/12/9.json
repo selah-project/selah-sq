@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ai tha: Shko, Danieli, sepse të mbyllura dhe të vulosura janë fjalët deri në kohën e fundit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "të mbyllura"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "dhe të vulosura"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohën"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "e fundit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:43.872745003Z",
+  "model": "glm-5.3"
+}

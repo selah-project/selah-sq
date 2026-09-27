@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve dha ⟨את⟩ hirin e popullit në sytë e egjiptianëve; edhe njeriu, Moisi, ishte shumë i madh në tokën e Egjiptit, në sytë e shërbëtorëve të Faraonit dhe në sytë e popullit.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirin e popullit"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "të popullit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egjiptianëve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorëve të"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonit"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "dhe në sytë e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:24.710266049Z",
+  "model": "glm-5.3"
+}

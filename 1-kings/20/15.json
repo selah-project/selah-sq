@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ai numëroi ⟨את⟩ të rinjtë e parë të krahinave, dhe ishin dyqind e tridhjetë e dy; dhe pas tyre numëroi ⟨את⟩ gjithë popullin, të gjithë bijtë e Izraelit, shtatë mijë.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe numëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të rinjtë e parë të krahinave"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "të rinjtë"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "e parë"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "të krahinave"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dyqind"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "e dy"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "dhe pas tyre"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "numëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:29.407301913Z",
+  "model": "glm-5.3"
+}

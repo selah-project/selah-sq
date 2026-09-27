@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jahve tha: Juda do të ngjitet; ja, unë po ta dorëzoj ⟨את⟩ ⟨të⟩ tokën në dorën e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "do të ngjitet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "unë po ta dorëzoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:27.638782834Z",
+  "model": "glm-5.3"
+}

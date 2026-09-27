@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe pjesa e mbetur nga minhës ⟨i takon⟩ Aaronit dhe bijve të tij: e shenjtë ndër të shenjtat, nga flijimet me zjarr të Jahves.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "dhe pjesa e mbetur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "për Aaronin"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dhe për bijtë e tij"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ndër të shenjtat"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nga flijimet me zjarr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:43.472032565Z",
+  "model": "glm-5.3"
+}

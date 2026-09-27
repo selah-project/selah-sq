@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe dëshirojnë fusha dhe i grabitin, dhe shtëpi, dhe i marrin; dhe i shtypin një njeri dhe shtëpinë e tij, një njeri dhe trashëgiminë e tij.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Dhe dëshirojnë"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "fusha"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "dhe i grabitin"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "dhe shtëpi"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "dhe i marrin"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "dhe i shtypin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "dhe shtëpinë e tij"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një njeri"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "dhe trashëgiminë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:49:12.913420544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ai erdhi në ⟨kodrën⟩, dhe mori nga dora e tyre, dhe i depozitoi në shtëpi, dhe i lëshoi ⟨את⟩ njerëzit, dhe ata ikën.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dhe erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "⟨kodrën⟩"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nga dora e tyre"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe depozitoi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dhe lëshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe ata ikën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:24.566847476Z",
+  "model": "glm-5.3"
+}

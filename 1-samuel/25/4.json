@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Davidi dëgjoi në shkretëtirë se Naval po rriste ⟨את⟩ tufën e tij,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dhe dëgjoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "po rriste (duke qethur)"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufën e tij"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "tufën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:35.900565513Z",
+  "model": "glm-5.3"
+}

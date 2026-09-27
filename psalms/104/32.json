@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ai që sheh ⟨tek⟩ toka dhe ajo dridhet, që prek malet dhe ato tymojnë.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Ai që sheh"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tek toka"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "dhe ajo dridhet"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "prek"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "dhe ato tymojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:02.668046561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Ti shtype kokat e Leviatanit, e dhe ⟨את⟩ atë si ushqim për popullin, për banorët e vendeve të thata.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "shtype"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kokat"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "e Leviatanit"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "e dhe"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "si ushqim"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "për popullin"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "për banorët e vendeve të thata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:20.418924957Z",
+  "model": "glm-5.3"
+}

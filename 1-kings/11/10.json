@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe ⟨e⟩ kishte urdhëruar ⟨atë⟩ për këtë çështje, të mos shkonte pas perëndive të tjera; por ai nuk e ruajti ⟨את⟩ atë që kishte urdhëruar Jahve.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "çështjen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "shkonte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndive"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "e ruajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që kishte urdhëruar Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:01.230341591Z",
+  "model": "glm-5.3"
+}

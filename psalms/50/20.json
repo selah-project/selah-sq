@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Ulesh, kundër vëllait tënd flet, dhe ndaj birit të nënës sate hedh dyshim.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Ulesh"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kundër vëllait tënd"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "flet"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "dhe ndaj birit"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "të nënës sate"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hedh"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "dyshim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:52.340499787Z",
+  "model": "glm-5.3"
+}

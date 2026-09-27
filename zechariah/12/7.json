@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jahve do të shpëtojë ⟨את⟩ çadrat e Judës më parë, që të mos madhësohet lavdia e shtëpisë së Davidit dhe lavdia e banorit të Jerusalemit mbi Judën.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "dhe do të shpëtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrat e Judës"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadrat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "më parë"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "madhësohet"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "të Davidit"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "dhe lavdia"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "e banorit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:33.833806547Z",
+  "model": "glm-5.3"
+}

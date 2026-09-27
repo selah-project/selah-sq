@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe mbreti i Izraelit i tha Eliseut, kur i pa ⟨את⟩ ata: «A i rrah ⟨את⟩, a i rreh, o ati im?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "kur i pa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "a i rrah"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "a i rreh"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "o ati im"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:56.145172491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 134,
+  "translation": "Ngrini duart tuaja drejt ⟨i⟩ shenjtërores dhe bekojeni ⟨את⟩ Jahven!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ngrini"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "duart tuaja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "drejt shenjtërores"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "dhe bekojeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:31.697400738Z",
+  "model": "glm-5.3"
+}

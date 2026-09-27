@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe rrethuan dhjetë të rinj, mbajtësit e armëve të Joabit, dhe goditën ⟨את⟩ Absalomin dhe e vranë.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "dhe rrethuan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "të rinj"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mbajtësit e"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "armëve"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "të Joabit"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe goditën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalomin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalomin"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "dhe e vranë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:08.461197942Z",
+  "model": "glm-5.3"
+}

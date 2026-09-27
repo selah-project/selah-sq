@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe popujt do të jenë si djegiet e gëlqeres; si gjembat e prerë, në zjarr do të digjen.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të jenë"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "djegiet"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "e gëlqeres"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "gjembat"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "të prerë"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "do të digjen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:12.434237009Z",
+  "model": "glm-5.3"
+}

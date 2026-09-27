@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe pa Jakobi ⟨את⟩ fytyrën e Labanit, dhe ja, nuk ishte me të si dje e pardje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk ishte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "si dje"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "e pardje"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:27.182359011Z",
+  "model": "glm-5.3"
+}

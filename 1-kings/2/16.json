@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe tani një lutje të vetme po të kërkoj ⟨prej teje⟩: mos më kthe ⟨ndryshe⟩ ⟨את⟩ fytyrën time! Dhe ajo tha atij: «Fol.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "një lutje"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "të vetme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "po kërkoj"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ prej teje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "kthe ndryshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:10.275652284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Samueli u ngrit dhe u ngjit nga Gilgali në Gibean e Beniaminit; dhe Sauli numëroi ⟨את⟩ popullin që u gjet me të — rreth gjashtëqind burra.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe… u ngrit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe… u ngjit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgali"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "në Gibean"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "e Beniaminit"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dhe… numëroi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "që u gjet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "rreth gjashtë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:25.975813089Z",
+  "model": "glm-5.3"
+}

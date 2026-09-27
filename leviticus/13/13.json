@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe prifti do të shikojë, dhe ja, nëse çjerrja i ka mbuluar ⟨את⟩ gjithë mishin e tij, atëherë ai do ta shpallë të pastër ⟨את⟩ goditjen — e gjithë është kthyer në të bardhë: ai është i pastër.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dhe do të shikojë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ka mbuluar"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "çjerrja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë mishin e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mishin e tij"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dhe do ta shpallë të pastër"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goditjen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "goditjen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "është kthyer"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "në të bardhë"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "i pastër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai është"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:47.583663866Z",
+  "model": "glm-5.3"
+}

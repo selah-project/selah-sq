@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jahve bekoi ⟨את⟩ fundin e Jobit më shumë se fillimin e tij; dhe iu bë e tij katërmbëdhjetë mijë dele, dhe gjashtë mijë deve, dhe një mijë qe përparësh, dhe një mijë gomarë.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dhe Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bekoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fundin e Jobit"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "fundin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "e Jobit"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "më shumë se fillimin e tij"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe iu bë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e tij"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "katërmbëdhjetë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dele"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "deve"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dhe një mijë"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "qe përparësh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "qe"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dhe një mijë"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "gomarë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:56.884457911Z",
+  "model": "glm-5.3"
+}

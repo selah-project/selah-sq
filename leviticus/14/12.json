@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe prifti do të marrë ⟨את⟩ deshin e njëtë dhe do ta afrojë ⟨את⟩ atë si flijim fajimi, dhe ⟨את⟩ logun e vajit, dhe do t'i tunduritë ⟨את⟩ ato si tunduritje para Jahves.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dhe do të marrë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deshin e njëtë"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "deshin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e njëtë"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do ta afrojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "si flijim fajimi"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "si flijim fajimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "logun e vajit"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logun"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "të vajit"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "dhe do t'i tunduritë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (deshi dhe vaji)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "si tunduritje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:24.990754403Z",
+  "model": "glm-5.3"
+}

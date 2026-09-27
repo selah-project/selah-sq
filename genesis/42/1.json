@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe Jaakobi pa se kishte drithë në Egjipt, dhe Jaakobi u tha bijve të vet: Pse shihni njëri-tjetrin?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "drithë"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "bijve të vet"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "shihni njëri-tjetrin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:33.194627121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Le të lëvdojnë emrin e tij me valle; me daulle dhe harpë le t'i këndojnë atij.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Le të lëvdojnë"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "me valle"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "me daulle"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dhe harpë"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "le t'i këndojnë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:14.378394018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kur e zvogëloi Lo-Ruhamah-n, ajo mbeti shtatzënë dhe lindi një djalë.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "kur e zvogëloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah-n"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Lo-Ruhamah-n"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mbeti shtatzënë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:44.836720952Z",
+  "model": "glm-5.3"
+}

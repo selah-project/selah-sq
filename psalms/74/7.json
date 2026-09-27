@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Dërguan zjarr në shenjtëroren tënde, në tokë e përdhosën Mishkanin e Emrit tënd.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "shenjtëroren tënde"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "e përdhosën"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i Emrit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.875666094Z",
+  "model": "glm-5.3"
+}

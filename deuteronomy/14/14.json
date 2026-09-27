@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe ⟨את⟩ çdo korb sipas llojit të vet;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çdo korb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korb"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:01.111250567Z",
+  "model": "glm-5.3"
+}

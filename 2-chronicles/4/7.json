@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe bëri ⟨את⟩ dhjetë menora të arit sipas rregullit të tyre, dhe i vuri në tempull, pesë në të djathtën dhe pesë në të majtë.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhjetë menora të arit"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "të arit"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sipas rregullit të tyre"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe i vuri"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "në tempull"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "në të djathtën"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dhe pesë"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "në të majtë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:23.048967028Z",
+  "model": "glm-5.3"
+}

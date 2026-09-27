@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Ai u kthye drejt lutjes së të shkretit dhe nuk përbuzi ⟨את⟩ lutjen e tyre.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "u kthye drejt"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "lutjes së"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "të shkretit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "përbuzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lutjen e tyre"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lutjen e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:19.107025219Z",
+  "model": "glm-5.3"
+}

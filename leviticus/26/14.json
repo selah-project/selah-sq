@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe nëse nuk më dëgjoni mua dhe nuk i bëni ⟨את⟩ të gjitha urdhërimet këto,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha urdhërimet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "urdhërimet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:28.581364515Z",
+  "model": "glm-5.3"
+}

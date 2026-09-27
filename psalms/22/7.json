@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Por unë ⟨jam⟩ një rimë dhe jo njeri, turp i njerëzve dhe i përbuzur nga populli.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Por unë"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "rimë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "turp"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njerëzve"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "dhe i përbuzur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nga populli"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:57.327114398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Do të vij me ⟨veprat e⟩ fuqishme të Adonai Jahve, do të kujtoj drejtësinë tënde, vetëm ⟨tënden⟩.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "do të vij"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "me fuqishme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "do të kujtoj"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësinë tënde"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "vetëm ty"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.981337874Z",
+  "model": "glm-5.3"
+}

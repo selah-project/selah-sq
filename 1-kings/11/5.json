@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Salomoni shkoi pas Ashtoretit, perëndisë së sidonasve, dhe pas Milkomit, pështjesës së amonitëve.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoretit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perëndisë"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "të sidonasve"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkomit"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "pështjesës"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "të amonitëve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:20.043491966Z",
+  "model": "glm-5.3"
+}

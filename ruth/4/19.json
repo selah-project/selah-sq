@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Hezroni lindi ⟨את⟩ Ramin, dhe Rami lindi ⟨את⟩ Aminadabin.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "dhe Hezroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramin"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramin"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "dhe Rami"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:19.475209778Z",
+  "model": "glm-5.3"
+}

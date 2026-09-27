@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "I madh ⟨është⟩ Jahve dhe shumë i lëvduar, dhe për madhështinë e tij nuk ka kërkim.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "I madh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dhe i lëvduar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "dhe për madhështinë e tij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kërkim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:28.594064195Z",
+  "model": "glm-5.3"
+}

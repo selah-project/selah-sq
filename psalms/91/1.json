@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Ai që rri ⟨i⟩ fshehur te El Eljon, nën hijen e Shadait do të banojë.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ri i fshehur"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "te fshehja"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nën hijen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "e Shadait"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "do të banojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.066248157Z",
+  "model": "glm-5.3"
+}

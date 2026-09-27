@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "O Elohim, në shenjtëri ⟨është⟩ rruga jote; kush ⟨është⟩ El i madh si Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në shenjtëri"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rruga jote"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "si Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:12.693743787Z",
+  "model": "glm-5.3"
+}

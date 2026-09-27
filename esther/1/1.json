@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi në ditët e Ahashveroshit — ky është Ahashveroshi, mbreti që mbretëronte nga Hindu dhe deri në Kush, mbi njëqind e njëzet e shtatë provinca —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "në ditët e"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashveroshit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ky është"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashveroshi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "nga Hindu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e njëzet"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "dhe njëqind"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinca"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:52.203131138Z",
+  "model": "glm-5.3"
+}

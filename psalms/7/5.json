@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Nëse i ktheva keq atij që ishte në paqe me mua, dhe e shpëtova pa shkak kundërshtarin tim,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "i ktheva"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "atij që ishte në paqe me mua"
+    },
+    {
+      "surface": "רע",
+      "gloss": "keq"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "dhe e shpëtova"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kundërshtarin tim"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "pa shkak"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:59.047672555Z",
+  "model": "glm-5.3"
+}

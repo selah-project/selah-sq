@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "A do t'i gjykosh ⟨את⟩ ata? A do t'i gjykosh, bir njeriu? ⟨את⟩ Turpësitë e etërve të tyre bëji t'i njohin ata.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "A do t'i gjykosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "gjykosh ata"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "A do t'i gjykosh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Turpësitë e etërve të tyre"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "Turpësitë"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "e etërve të tyre"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "bëji t'i njohin ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:31:29.353722983Z",
+  "model": "glm-5.3"
+}

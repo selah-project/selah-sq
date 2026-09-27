@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "dhe urdhëruan ⟨את⟩ popullin, duke thënë: «Sapo të shihni ⟨את⟩ arkën e besëlidhjes së Jahve, Elohim tuaj, dhe priftërinjtë levitë që e bartin ⟨אתו⟩, atëherë do të nisni nga vendi juaj dhe do të ecni pas saj.»",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "dhe urdhëruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "sapo të shihni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "e besëlidhjes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dhe priftërinjtë"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitë"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "që e bartin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (arkën)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "do të nisni"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "nga vendi juaj"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "dhe do të ecni"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:58.884447851Z",
+  "model": "glm-5.3"
+}

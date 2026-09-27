@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe mbreti nuk e dëgjoi popullin, sepse ⟨ishte⟩ një kthesë nga ana e Jahvesë, për të ngritur ⟨את⟩ fjalën e tij, të cilën Jahve e kishte folur me anë të Ahiahut të Shiloit ndaj Jeroboamit, birit të Nebatit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "e dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ndaj)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "një kthesë"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga ana e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ngritur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën e tij"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e kishte folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiahut"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "të Shiloit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "të Nebatit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:05.895202110Z",
+  "model": "glm-5.3"
+}

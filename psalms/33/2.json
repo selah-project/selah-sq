@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Falënderoni Jahvesë me kinorin; me nevelin me dhjetë tela këndojani Atij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falënderoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "me kinorin"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "me nevelin"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "me dhjetë tela"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "këndojani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:52.079722296Z",
+  "model": "glm-5.3"
+}

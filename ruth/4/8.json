@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe shpenguesi i tha Boazit: «Ble për vete.» Dhe zhvisti sandalen e vet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "shpenguesi"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazit"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ble"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "dhe zhvisti"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "sandalen e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:56.648562191Z",
+  "model": "glm-5.3"
+}

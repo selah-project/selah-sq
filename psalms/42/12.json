@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Pse po zhytesh, shpirti im, dhe pse po vajton mbi mua? Prit Elohim-in, se ende do ta lëvdoj atë — shpëtimin e fytyrës sime dhe Elohim-in tim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "po zhytesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "po vajton"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "prit"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "do ta lëvdoj atë"
+    },
+    {
+      "surface": "יְשׁוּעֹת",
+      "gloss": "shpëtimin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "e fytyrës sime"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe Elohim-in tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:03.563901124Z",
+  "model": "glm-5.3"
+}

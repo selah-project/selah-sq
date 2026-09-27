@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Djali i tridhjetë e dy vjeç ishte kur filloi të mbretërojë, dhe tetë vjet mbretëroi në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "i ... vjeç"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e dy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kur filloi të mbretërojë"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "dhe tetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:15.768044383Z",
+  "model": "glm-5.3"
+}

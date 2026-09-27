@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ai fyesi ⟨את⟩ Izraelin, dhe e vrau atë Jonatani, bir i Shimeas, vëllai i Davidit.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "dhe ai fyesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "dhe e vrau atë"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "i Shimeas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:02.817910509Z",
+  "model": "glm-5.3"
+}

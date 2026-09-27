@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Sa për mua, do të thërres te El-i, dhe Jahve do më shpëtojë.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Sa për mua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "do të thërres"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "do më shpëtojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:13.554167203Z",
+  "model": "glm-5.3"
+}

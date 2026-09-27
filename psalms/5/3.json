@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Vë veshin te zëri i britmës sime, mbreti im dhe Elohim im, sepse te ti lutem.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "vë veshin"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "te zëri"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "i britmës sime"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbreti im"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe Elohim im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "lutem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:26.253835621Z",
+  "model": "glm-5.3"
+}

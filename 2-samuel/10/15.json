@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe kur aramejtë panë se ishin thyer para Izraelit, u mblodhën bashkë.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe panë"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramejtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ishin thyer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:47.506235726Z",
+  "model": "glm-5.3"
+}

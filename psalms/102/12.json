@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Ditët e mi ⟨ janë⟩ si një hije e shtruar ⟨që zgjatet⟩, dhe unë si bari po thahem.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ditët e mi"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "si një hije"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "e shtruar ⟨që zgjatet⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "si bari"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "po thahem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:10.636925507Z",
+  "model": "glm-5.3"
+}

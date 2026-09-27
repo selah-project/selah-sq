@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Jokshani lindi ⟨את⟩ Sheban dhe ⟨את⟩ Dedanin; dhe bijtë e Dedanit ishin Ashurimët, Letushimët dhe Leumimët.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Dhe Jokshani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheban"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Dedanin"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bijtë e"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurimët"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "dhe Letushimët"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dhe Leumimët"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:02.730848048Z",
+  "model": "glm-5.3"
+}

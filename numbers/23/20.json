@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Ja, ⟨urdhër⟩ të bekoj kam marrë; dhe bekoi, dhe unë nuk e kthej.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "të bekoj"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "kam marrë"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "e kthej"
+    }
+  ],
+  "timestamp": "2026-09-27T14:37:53.777918386Z",
+  "model": "glm-5.3"
+}

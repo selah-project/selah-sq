@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Ja, ⟨את⟩ gjakun e saj nuk e sollën brenda në vendin e shenjtë; në të shenjtë duhej ta haje ⟨את⟩ atë, ashtu siç të urdhërova.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "u soll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e saj"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "gjakun e saj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "brenda në"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vendin e shenjtë"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "duhej ta haje"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "të hash"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "në të shenjtë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "të urdhërova"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:33.210617715Z",
+  "model": "glm-5.3"
+}

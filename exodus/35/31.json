@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe e mbushi ⟨אתו⟩ me Frymën e Elohit, me urtësi, me kuptim dhe me dije, dhe në çdo punë.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "dhe e mbushi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e mbushi (Betsaleelin)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Frymën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "me urtësi"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "me kuptim"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "dhe me dije"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe në çdo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:27.021098094Z",
+  "model": "glm-5.3"
+}

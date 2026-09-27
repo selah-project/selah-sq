@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Vëre, o Jahve, tmerr mbi ta, që të dinë kombet: të vdekshëm ⟨janë⟩ ata. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Vëre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "tmerr"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "të dinë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "të vdekshëm"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:29.779073284Z",
+  "model": "glm-5.3"
+}

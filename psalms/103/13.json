@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Siç mëshiron ⟨një⟩ atë fëmijët e tij, ashtu mëshiron Jahve ata që i frikësohen ⟨atij⟩.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "siç mëshiron"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mëshiron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ata që i frikësohen atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:35.913247950Z",
+  "model": "glm-5.3"
+}

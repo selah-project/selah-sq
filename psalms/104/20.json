@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ti vë errësirën dhe bëhet natë; në të lëvizin tërë kafshët e pyllit.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ti vë"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësirën"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe bëhet"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "lëvizin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "kafshët e"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pyllit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:52.534866304Z",
+  "model": "glm-5.3"
+}

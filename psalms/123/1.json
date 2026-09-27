@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 123,
+  "translation": "Kënga e Ngjitjeve. Drejt teje ngre ⟨את⟩ sytë e mi, o ti që rri në qiej.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kënga"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e Ngjitjeve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Drejt teje"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ti që rri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:17.786441201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe nëse kështu thonë: „Ngjitu kundër nesh“, atëherë do të ngjitemi, sepse Jahve i ka dhënë ⟨i⟩ ata në dorën tonë; dhe kjo do të jetë për ne shenja.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ngjitu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kundër nesh"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "do të ngjitemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "i ka dhënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "në dorën tonë"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "האות",
+      "gloss": "shenja"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:42.951168348Z",
+  "model": "glm-5.3"
+}

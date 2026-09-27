@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ndodhi pas këtyre fjalëve, që Elohim e provoi ⟨את⟩ Abrahamin dhe i tha: «Abraham!» E ai tha: «Ja, unë jam këtu.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "këtyre fjalëve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "që Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "e provoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam këtu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:01.005131032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Kryengritës ishit me Jahvenë që nga dita që ju njoha ⟨את⟩ ju.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Kryengritës"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ishit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "që nga dita"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "që njoha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:32.467990994Z",
+  "model": "glm-5.3"
+}

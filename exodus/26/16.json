@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhjetë kubitë ⟨është⟩ gjatësia e pllakës, dhe një kubit e gjysmë gjerësia e një pllake.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gjatësia"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "e pllakës"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "gjerësia"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "e pllakës"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "të një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:02.164428162Z",
+  "model": "glm-5.3"
+}

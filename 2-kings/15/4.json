@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Vetëm vendet e larta nuk u hoqën; populli vazhdonte ende të flijonte dhe të djegiste temjan në vendet e larta.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendet e larta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nuk u hoqën"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "të flijonte"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "dhe të djegiste temjan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "në vendet e larta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:16.357854509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Ata ranë në gjunjë dhe ranë përtokë, por ne u ngritëm dhe qëndruam të drejtë.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ranë në gjunjë"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dhe ranë përtokë"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "por ne"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "u ngritëm"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "dhe qëndruam të drejtë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:39.899642117Z",
+  "model": "glm-5.3"
+}

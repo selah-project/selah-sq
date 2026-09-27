@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Trashëgova dëshmitë e tua për jetësgjatë, sepse ato ⟨janë⟩ gëzimi i zemrës sime.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "trashëgova"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dëshmitë e tua"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetësgjatë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gëzimi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "i zemrës sime"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ato"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:13.742162033Z",
+  "model": "glm-5.3"
+}

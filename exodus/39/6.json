@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe punuan ⟨את⟩ gurët e oniksit, të mbështjellë me korniza ari, të gdhendura me gdhendje vulash, sipas emrave të bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dhe punuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët e oniksit"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurët e"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "oniksit"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "të mbështjellë"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "me korniza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "të gdhendura"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "me gdhendje"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "vulash"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrave të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:28.000044078Z",
+  "model": "glm-5.3"
+}

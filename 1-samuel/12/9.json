@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe harruan ⟨את⟩ Jahve, Elohim-in e tyre, dhe i shiti ⟨את⟩ ata në dorën e Siserës, komandantit të ushtrisë së Hatsorit, dhe në dorën e filistejve, dhe në dorën e mbretit të Moabit, dhe ata luftuan kundër tyre.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "dhe harruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-in e tyre"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "dhe i shiti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën e"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siserës"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandantit"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "të ushtrisë"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "të Hatsorit"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "dhe në dorën e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "dhe në dorën e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "të Moabit"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dhe ata luftuan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kundër tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:25.366105394Z",
+  "model": "glm-5.3"
+}

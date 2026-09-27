@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "I ligu dëshiron rrjetën e të këqijve, por rrënja e të drejtëve jep ⟨faqe⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "dëshiron"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "I ligu"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "rrjetën"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "e të këqijve"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "por rrënja"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "e të drejtëve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jep"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.241654119Z",
+  "model": "glm-5.3"
+}

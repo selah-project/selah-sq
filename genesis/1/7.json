@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim bëri ⟨את⟩ hapësirën, dhe ndau midis ujrave që ishin nën hapësirë dhe midis ujrave që ishin mbi hapësirë; dhe qe kështu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hapësirën"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "hapësirën"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "dhe ndau"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "hapësirë"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "hapësirë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe qe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:33.265671570Z",
+  "model": "glm-5.3"
+}

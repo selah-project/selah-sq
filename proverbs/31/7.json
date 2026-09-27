@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Le të pijë dhe të harrojë varfërinë e tij, dhe mundimin e tij të mos e kujtojë më.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Le të pijë"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "dhe të harrojë"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "varfërinë e tij"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "dhe mundimin e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "e kujtojë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:24.749739065Z",
+  "model": "glm-5.3"
+}

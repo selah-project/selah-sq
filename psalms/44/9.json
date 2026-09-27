@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Në Elohim kemi lëvduar ⟨gjithë⟩ ditën, dhe emrin tënd do ta falënderojmë përjetë. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Në Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "kemi lëvduar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "dhe emrin tënd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "do ta falënderojmë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:19.674661813Z",
+  "model": "glm-5.3"
+}

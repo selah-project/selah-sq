@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Sepse ja, mbretët u mblodhën, kaluan të gjithë bashkë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretët"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kaluan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:45.463631112Z",
+  "model": "glm-5.3"
+}

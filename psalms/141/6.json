@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Gjyqtarët e tyre do të hidhen poshtë nga anët e shkëmbit, dhe do të dëgjojnë fjalët e mia, sepse janë të këndshme.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "do të hidhen poshtë"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "nga anët"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "e shkëmbit"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "gjyqtarët e tyre"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dhe do të dëgjojnë"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "janë të këndshme"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:19.750846572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe nga fisi i Rubenit: ⟨את→ Bezeri⟩ me kullotat e tij, dhe ⟨את→ Jahtsahu⟩ me kullotat e tij.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dhe nga fisi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "i Rubenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bezerin"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Bezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jahtsahun"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Jahtsahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e tij"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:35.240146662Z",
+  "model": "glm-5.3"
+}

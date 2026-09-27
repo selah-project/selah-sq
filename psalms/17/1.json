@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Lutje e Davidit. Dëgjo, o Jahve, drejtësinë; vër veshin e britmës sime, dëgjo lutjen time — ⟨nuk del⟩ nga buzë mashtrimi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Lutje"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "vër veshin"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "e britmës sime"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzë"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mashtrimi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:36.251559994Z",
+  "model": "glm-5.3"
+}

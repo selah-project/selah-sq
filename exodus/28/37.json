@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe do ta vesh ⟨את⟩ atë në një fill të ngjyrës së kaltër, dhe do të jetë mbi turban; përballë fytyrës së turbanit do të jetë.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dhe do ta vesh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (pllakën e arit)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "fill"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "të kaltër"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanit"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:41.431091459Z",
+  "model": "glm-5.3"
+}

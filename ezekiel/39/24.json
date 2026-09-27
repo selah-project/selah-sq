@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Sipas papastërtisë së tyre dhe sipas shkeljeve të tyre veprova me ⟨את⟩ ata, dhe fsheha fytyrën time nga ata.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sipas papastërtisë së tyre"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "dhe sipas shkeljeve të tyre"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "veprova"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dhe fsheha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nga ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:03.134241181Z",
+  "model": "glm-5.3"
+}

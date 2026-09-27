@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Vetëm këtë shih, gjeta: se Elohim e bëri ⟨את⟩ njeriun të drejtë, por ata kërkuan shpikje të shumta.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "shih"
+    },
+    {
+      "surface": "זה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "gjeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "të drejtë"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "por ata"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "kërkuan"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "shpikje"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:09.165723197Z",
+  "model": "glm-5.3"
+}

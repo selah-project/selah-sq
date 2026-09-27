@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "Shpirti im ⟨pret⟩ Adonain, më shumë se rojtaret për mëngjesin — rojtaret për mëngjesin.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Shpirti im"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonain"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "më shumë se rojtaret"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "për mëngjesin"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "rojtarët"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "për mëngjesin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:49.996783142Z",
+  "model": "glm-5.3"
+}

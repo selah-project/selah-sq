@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Joabi u përgjigj dhe tha: «Larg, larg nga unë ⟨që⟩ të gëlltis a të shkatërroj!»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "larg"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "larg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨që⟩ të"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "gëlltis"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe a"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "të shkatërroj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:49.011419138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dredhja ⟨e⟩ do t'ju arrijë ⟨את⟩ vjeljen e rrushit, dhe vjelja e rrushit do t'ia arrijë ⟨את⟩ mbjelljen; do të hani bukën tuaj sa të ngopeni dhe do të banoni në siguri në tokën tuaj.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "do t'ju arrijë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "dredhja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vjeljen e rrushit"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vjeljen e rrushit"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "dhe vjelja e rrushit"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "do t'ia arrijë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbjelljen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbjelljen"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "bukën tuaj"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sa të ngopeni"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dhe do të banoni"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "në siguri"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "në tokën tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:26.702443754Z",
+  "model": "glm-5.3"
+}

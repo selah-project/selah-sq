@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Lutje e Moisiut, njeriut të Elohim. Adonai, strehë ke qenë ⟨ti⟩ për ne, brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Lutje"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "e Moisiut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "strehë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ke qenë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:33.221658589Z",
+  "model": "glm-5.3"
+}

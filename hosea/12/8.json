@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Kanaan! Në dorën e tij janë peshoret e mashtrimit; do të shtypë ⟨ka qenë⟩ dashuria e tij.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "peshoret e"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mashtrimit"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "të shtypë"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dashuria e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:29.312678013Z",
+  "model": "glm-5.3"
+}

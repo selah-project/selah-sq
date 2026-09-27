@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Sepse në dorën e Jahves është një kupë, dhe vera është e kuqe, e plotë me përzierje; dhe ai derdh nga ajo; por thrombat e saj do t'i shtrydhin dhe do t'i pinë të gjithë të ligjtë e tokës.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kupë"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dhe vera"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "është e kuqe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e plotë"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "me përzierje"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dhe ai derdh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga ajo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "por"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "thrombat e saj"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "do t'i shtrydhin"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "do t'i pinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "të ligjtë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:41.164321704Z",
+  "model": "glm-5.3"
+}

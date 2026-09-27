@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 12:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe gjithë Izraeli pa se mbreti nuk i dëgjonte, dhe populli iu përgjigj mbretit ⟨את⟩ me një fjalë, duke thënë: Çfarë pjesë kemi ne në David, dhe s'kemi trashëgimi në birin e Jishait? Në çadrat tuaja, o Izrael! Tani shiko shtëpinë tënde, o David! Dhe Izraeli shkoi në çadrat e veta.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjonte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "i (atyre)"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "me një fjalë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kemi ne"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "pjesë"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "në David"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe s'"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "trashëgimi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "në birin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "të Jishait"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "në çadrat tuaja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Izrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "shtëpinë tënde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "o David"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "në çadrat e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:05.895492603Z",
+  "model": "glm-5.3"
+}

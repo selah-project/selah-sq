@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Jo, të vdekurit nuk e lavdërojnë Jah-un, as të gjithë që zbresin në heshtje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "të vdekurit"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "nuk e lavdërojnë"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-un"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "që zbresin"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "në heshtje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:46.217985978Z",
+  "model": "glm-5.3"
+}

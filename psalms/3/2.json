@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Jahve, sa i shumtuar janë kundërshtarët e mi! Shumë po ngrihen kundër meje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "i shumtuar janë"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kundërshtarët e mi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "po ngrihen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:45.161233868Z",
+  "model": "glm-5.3"
+}

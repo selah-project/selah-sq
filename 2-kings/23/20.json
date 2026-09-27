@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe flijoi ⟨את⟩ të gjithë priftërinjtë e vendeve të larta që ishin aty mbi altare, dhe dogji ⟨את⟩ eshtrat e njerëzve mbi to, dhe u kthye në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "dhe flijoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë priftërinjtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "priftërinjtë e"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendeve të larta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altare"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dhe dogji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshtrat e njerëzve"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "eshtrat e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi to"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:56.695085030Z",
+  "model": "glm-5.3"
+}

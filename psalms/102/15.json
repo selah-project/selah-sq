@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Sepse shërbëtorët tëtë e duan ⟨את⟩ gurët e saj dhe ⟨את⟩ pluhurin e saj e Bekojnë me mirësi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "e duan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorët tëtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët e saj"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "gurët e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pluhurin e saj"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "pluhurin e saj"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "e bekojnë me mirësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:12.086300472Z",
+  "model": "glm-5.3"
+}

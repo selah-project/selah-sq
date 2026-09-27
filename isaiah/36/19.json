@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 36:19",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Ku janë perënditë e Hamatit dhe të Arpadit? Ku janë perënditë e Sefarvajimit? Dhe a i shpëtuan ata ⟨את⟩ Samarinë nga dora ime?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "e Hamatit"
+    },
+    {
+      "surface": "וארפד",
+      "gloss": "dhe të Arpadit"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perënditë"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "e Sefarvajimit"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "Dhe a"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "i shpëtuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samarinë"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samarinë"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga dora ime"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:39.766155691Z",
+  "model": "glm-5.3"
+}

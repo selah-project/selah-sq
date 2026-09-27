@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe e kam mbushur ⟨אתו⟩ me Frymën e Elohit, me urtësi, me kuptim, me dije dhe me çdo zanat.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "dhe e kam mbushur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Betsalelin — Frymës së Elohit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Frymë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e Elohit"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "me urtësi"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "me kuptim"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "me dije"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "me çdo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "zanat"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:55.744563232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Në atë kohë ngjitën shërbëtorët e Nebukadnetsarit, mbretit të Babilonisë, kundër Jerusalemit, dhe qyteti hyri nën rrethim.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngjitën"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsarit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "të Babilonisë"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kundër Jerusalemit"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "nën rrethim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:51.427214368Z",
+  "model": "glm-5.3"
+}

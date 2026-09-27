@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "dhe ⟨את⟩ bazat e oborrit rreth e rreth, dhe ⟨את⟩ bazat e portës së oborrit, dhe ⟨את⟩ të gjitha kunjat e Mishkanit, dhe ⟨את⟩ të gjitha kunjat e oborrit rreth e rreth.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bazat e oborrit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bazat"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "e oborrit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rreth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bazat e portës së oborrit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bazat"
+    },
+    {
+      "surface": "שער",
+      "gloss": "e portës"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "të oborrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha kunjat e Mishkanit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kunjat"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "e Mishkanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha kunjat e oborrit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kunjat"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "e oborrit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rreth"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:48.414228748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Shemajahu profeti erdhi te Roboami dhe te kryetarët e Judës që ishin mbledhur në Jerusalem nga përballja e Shishakut, dhe u tha atyre: Kështu ka thënë Jahve: Ju më braktisët ⟨את⟩ mua, edhe unë ju braktisa ⟨את⟩ ju në dorën e Shishakut.",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "Dhe Shemajahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Roboami"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "dhe kryetarët"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ishin mbledhur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga përballja e"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishakut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ju"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "më braktisët"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua (pronal në vend të emërores)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ju braktisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju — objekt i drejtë i braktisjes"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "e Shishakut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:36.528135699Z",
+  "model": "glm-5.3"
+}

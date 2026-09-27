@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe populli nuk u kthye drejt atij që e godiste, dhe ⟨את⟩ Jahve Tsevaot nuk e kërkuan.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "dhe populli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "atij që e godiste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "e kërkuan"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:03.024846297Z",
+  "model": "glm-5.3"
+}

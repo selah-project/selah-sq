@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Krenarët kanë fshehur për mua një kurth, dhe litarë; ata kanë shtrirë një rrjetë pranë rrugës; kanë vënë kurthe për mua. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "kanë fshehur"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "krenarët"
+    },
+    {
+      "surface": "פח",
+      "gloss": "kurth"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "dhe litarë"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "kanë shtrirë"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "një rrjetë"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "rrugës"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "kurthe"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "kanë vënë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:13.114647526Z",
+  "model": "glm-5.3"
+}

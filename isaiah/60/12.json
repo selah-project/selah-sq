@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Sepse kombi dhe mbretëria që nuk do të të shërbejnë do të zhduken; po kështu kombet do të shkretohen krejt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombi"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "dhe mbretëria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "do të të shërbejnë"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "do të zhduken"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "dhe kombet"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shkretohen"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "do të shkretohen krejt"
+    }
+  ],
+  "timestamp": "2026-09-27T16:04:35.581754800Z",
+  "model": "glm-5.3"
+}

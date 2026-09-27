@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Ai që bën të shkëlqejë shkatërrimi mbi ⟨të⟩ fortin, dhe shkatërrimi mbi fortesën do të vijë.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "bën të shkëlqejë"
+    },
+    {
+      "surface": "שד",
+      "gloss": "shkatërrimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨të⟩ fortin"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "dhe shkatërrimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortesën"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të vijë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:46:44.174868674Z",
+  "model": "glm-5.3"
+}

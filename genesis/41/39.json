@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe Faraoni i tha Jozefit: Meqenëse Elohim të bëri të ditur ⟨את⟩ ⟨אותך⟩ ⟨את⟩ gjithë këtë, nuk ka të menduar e të urtë si ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "meqenëse"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "të bëri të ditur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "ti (kundrinor i foljes 'të bëri të ditur')"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë këtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "të menduar"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "e të urtë"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "si ti"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:52.457860433Z",
+  "model": "glm-5.3"
+}

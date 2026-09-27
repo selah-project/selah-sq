@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "I bekuar do të jetë shporta jote dhe brumi i tryezës së jote.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "shporta jote"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "dhe brumi i tryezës së jote"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:11.285251278Z",
+  "model": "glm-5.3"
+}

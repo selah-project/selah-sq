@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Pashë ⟨את⟩ tokën, dhe ja, ⟨ishte⟩ e shkretë dhe e zbrazët; dhe drejt qiejve, dhe nuk kishin dritën e tyre.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "e shkretë"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "dhe e zbrazët"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe drejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk kishin"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "dritën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:07:43.289043514Z",
+  "model": "glm-5.3"
+}

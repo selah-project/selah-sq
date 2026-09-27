@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Atje e varrosën ⟨את⟩ Avrahamin dhe ⟨את⟩ Sarahin gruan e tij; atje e varrosën ⟨את⟩ Isakun dhe ⟨את⟩ Rivkën gruan e tij; dhe atje e varrosa ⟨את⟩ Leanë.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "e varrosën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Sarahin"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahin"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "e varrosën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isakun"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Rivkën"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkën"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dhe atje"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "e varrosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leanë"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leanë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:27.519501689Z",
+  "model": "glm-5.3"
+}

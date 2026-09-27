@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Në Elohim kam besuar, nuk do të frikësohem; ç'më mund të bëjë njeriu mua?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam besuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "do të frikësohem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mund të bëjë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:55.233533393Z",
+  "model": "glm-5.3"
+}

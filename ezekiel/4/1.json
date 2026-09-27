@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ti, bir i njeriut, merr për vete një tullë dhe vendose ⟨את⟩-ën para teje, dhe gdhend mbi të një qytet — ⟨את⟩ Jeruzalemin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "קח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "një tullë"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dhe vendose"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-ën",
+      "marks": "një tullë"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "dhe gdhend"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "një qytet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:43.830602466Z",
+  "model": "glm-5.3"
+}

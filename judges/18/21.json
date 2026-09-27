@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe u kthyen dhe shkuan, dhe vunë ⟨את⟩ fëmijët e vegjël dhe ⟨את⟩ bagëtinë dhe ⟨את⟩ barrën para tyre.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "u kthyen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "shkuan"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "vunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijët e vegjël"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "fëmijët e vegjël"
+    },
+    {
+      "surface": "וית",
+      "gloss": "⟨את⟩",
+      "marks": "bagëtinë"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bagëtinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barrën"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "barrën"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "para tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:08:49.493239498Z",
+  "model": "glm-5.3"
+}

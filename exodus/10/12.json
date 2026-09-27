@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jahve i tha Moisit: Shtrije dorën tënde mbi tokën e Egjiptit për karkalecat, dhe le të ngjiten mbi tokën e Egjiptit dhe të hanë ⟨את⟩ çdo bar të tokës, ⟨את⟩ gjithçka që luri breshëri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe… tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Shtrije"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "për karkalecat"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe le të ngjiten"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dhe të hanë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo bar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "luri"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "breshëri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:29.838863084Z",
+  "model": "glm-5.3"
+}

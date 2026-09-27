@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe ai mati ⟨את⟩ portikun e portës nga ana e shtëpisë, një kallam.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "dhe ai mati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portikun"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "portikun"
+    },
+    {
+      "surface": "השער",
+      "gloss": "e portës"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "nga ana e shtëpisë"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "një kallam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    }
+  ],
+  "timestamp": "2026-09-27T16:39:54.189034200Z",
+  "model": "glm-5.3"
+}

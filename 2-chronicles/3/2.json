@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe filloi të ndërtonte në muajin e dytë, në të dytin, në vitin e katërt të mbretërisë së tij.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dhe filloi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "të ndërtonte"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në muajin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "në të dytin"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "në vitin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "të katërt"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "të mbretërisë së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:43.035872406Z",
+  "model": "glm-5.3"
+}

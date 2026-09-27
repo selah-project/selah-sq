@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Të mëdha ⟨janë⟩ veprat e Jahves; kërkohen me kujdes nga të gjithë ata që gjejnë kënaqësi në to.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Të mëdha"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "kërkohen me kujdes"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nga të gjithë"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "që gjejnë kënaqësi në to"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.333424139Z",
+  "model": "glm-5.3"
+}

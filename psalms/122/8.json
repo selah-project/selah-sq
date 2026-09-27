@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Për hir të vëllezërve të mi dhe të shokëve të mi do të flas tani: shalom brenda teje!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Për hir të"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllezërve të mi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "dhe të shokëve të mi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "do të flas"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "brenda teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:39.811408347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "⟨Është⟩ një dituri e mrekullueshme për mua; ⟨është⟩ e ngritur lart — nuk mundem për të.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "e mrekullueshme"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dituri"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "për mua (më lart se unë)"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "e ngritur lart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mundem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "për të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:49.434946957Z",
+  "model": "glm-5.3"
+}

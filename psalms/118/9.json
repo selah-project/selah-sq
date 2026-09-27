@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Më mirë ⟨është⟩ të strehohesh te Jahve sesa të besosh në fisnikët.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Më mirë"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "të strehohesh"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "te Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "sesa të besosh"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "në fisnikët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:53.818073568Z",
+  "model": "glm-5.3"
+}

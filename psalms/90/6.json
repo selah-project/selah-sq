@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Në mëngjes lulëzon dhe kalon; në mbrëmje pritet dhe thahet.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "lulëzon"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "dhe kalon"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "pritet"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "dhe thahet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:29.972730083Z",
+  "model": "glm-5.3"
+}

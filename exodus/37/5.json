@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai i vendosi ⟨את⟩ shufrat në unazat mbi anët e Arkës, për ta mbartur ⟨את⟩ Arkën.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe ai vendosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "në unazat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "anët"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "të Arkës"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për ta mbartur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkën"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arkën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:25.220556675Z",
+  "model": "glm-5.3"
+}

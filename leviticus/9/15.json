@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe afroi ⟨את⟩ flijimin e popullit, dhe mori ⟨את]] capping ⟨את⟩ kecin e mëkatit që ishte për popullin, dhe e theri atë dhe e bëri flijim mëkati, si të parin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe afroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "flijimin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecin"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kecin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "e mëkatit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "për popullin"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "dhe e theri atë"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "dhe e bëri flijim mëkati"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "si të parin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:42.477759319Z",
+  "model": "glm-5.3"
+}

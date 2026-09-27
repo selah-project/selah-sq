@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Mos u ngjitni, sepse Jahve nuk është në mesin tuaj, që të mos goditeni para armiqve tuaj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "u ngjitni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "në mesin tuaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "të goditeni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "armiqve tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:22.868171934Z",
+  "model": "glm-5.3"
+}

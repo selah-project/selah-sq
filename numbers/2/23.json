@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numërit e tyre ⟨ishin⟩ pesë e tridhjetë mijë e katërqind.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dhe të numërit e tyre"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e tridhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e katërqind"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:43.442265976Z",
+  "model": "glm-5.3"
+}

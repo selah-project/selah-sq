@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Jozuei tha: Jepni bagtinë tuaj, dhe unë do t'ju jap në shkëmbim të bagtisë suaj, në qoftë se ka mbaruar të holla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "bagtinë tuaj"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dhe do t'ju jap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "në shkëmbim të bagtisë suaj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "në qoftë se"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ka mbaruar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "të holla"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:57.376517456Z",
+  "model": "glm-5.3"
+}

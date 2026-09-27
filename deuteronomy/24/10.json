@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Kur t'i huazosh shokut tënd ndonjë hua, mos hy në shtëpinë e tij për të marrë pengjen e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "t'i huazosh"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "shokut tënd"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "hua"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ndonjë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "për të marrë pengjen"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "pengjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:35.972402298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe prifti t'i bëjë ⟨ato⟩: një si flijim për mëkat dhe tjetri si olokaust; dhe prifti të shlyejë për të përballë Jahve-s, për shkak të rrjedhës së tij.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dhe t'i bëjë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i mirë, i keq — shqip: të dy shpendët"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "flijim për mëkat"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "dhe tjetri"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olokaust"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dhe të shlyejë"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-s"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "për shkak të rrjedhës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:59.683380061Z",
+  "model": "glm-5.3"
+}

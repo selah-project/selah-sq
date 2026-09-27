@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 100,
+  "translation": "Sepse Jahve ⟨është⟩ i mirë; hesedi i tij ⟨mbetet⟩ për jetë, dhe besnikëria e tij brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri"
+    },
+    {
+      "surface": "דר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pas brezi"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "besnikëria e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:53.282165725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Paria e saj — dhe nuk ka aty — ⟨mbretëri⟩ do të thërrasin; dhe të gjithë princat e saj do të jenë ⟨asgjë⟩.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "paria e saj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "mbretëri"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "do të thërrasin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "princat e saj"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "⟨asgjë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:07.177942504Z",
+  "model": "glm-5.3"
+}

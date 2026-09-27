@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe krerët sollën ⟨את⟩ gurët e oniksit dhe ⟨את⟩ gurët e vendosjes, për efodin dhe për gjoksën.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "dhe krerët"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "sollën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurët e oniksit"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurët e"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "oniksit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gurët e vendosjes"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "gurët e"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vendosjes"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "për efodin"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "dhe për gjoksën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:46.844908517Z",
+  "model": "glm-5.3"
+}

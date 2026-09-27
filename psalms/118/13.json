@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Më shtyte fortë ⟨që⟩ të bie, por Jahve më ndihmoi.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "më shtyte fortë"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "më shtyte"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "që të bie"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "por Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "më ndihmoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:00.771084449Z",
+  "model": "glm-5.3"
+}

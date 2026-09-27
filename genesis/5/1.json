@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Kjo është libri i gjenealogjisë së Adamit. Në ditën që krijoi Elohim ⟨את⟩ njeriun, në ngjashmërinë e Elohim e bëri ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kjo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libri"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "gjenealogjisë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Në ditën"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "krijoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "në ngjashmërinë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.943530246Z",
+  "model": "glm-5.3"
+}

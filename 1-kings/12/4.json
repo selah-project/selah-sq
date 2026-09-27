@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "«Ati yt e rëndoi ⟨את⟩ zgjedhën tonë; por ti tani lehtëso shërbimin e rëndë të atit tënd dhe zgjedhën e rëndë që ai vuri mbi ne, dhe ne do të të shërbejmë.»",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ati yt"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "e rëndoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgjedhën tonë"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "zgjedhën tonë"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "lehtëso"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "shërbimin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "e atit tënd"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "të rëndë"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "dhe zgjedhën"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "të rëndë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dhe do të të shërbejmë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:49.221783091Z",
+  "model": "glm-5.3"
+}

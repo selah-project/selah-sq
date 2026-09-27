@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Në unazat e Arkës do të jenë shkopinjtë; nuk do të hiqen nga ajo.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "në unazat"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "të Arkës"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shkopinjtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "do të hiqen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:49.905530663Z",
+  "model": "glm-5.3"
+}

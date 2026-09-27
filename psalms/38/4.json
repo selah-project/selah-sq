@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Nuk ka shëndet në mishin tim përballë indinjatës sate, nuk ka paqe në kockat e mia përballë mëkatit tim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nuk ka"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "shëndet"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "në mishin tim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "indinjatës sate"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqe"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "në kockat e mia"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mëkatit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:46.947794114Z",
+  "model": "glm-5.3"
+}

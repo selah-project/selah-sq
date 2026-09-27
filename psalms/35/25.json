@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Le të mos thonë në zemrën e tyre: «האח! Nofka jonë!» Le të mos thonë: «E gëlltitëm ⟨atë⟩!»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le të mos"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "në zemrën e tyre"
+    },
+    {
+      "surface": "האח",
+      "gloss": "האח!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nofka jonë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le të mos"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thonë"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "e gëlltitëm atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:50.876387772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Le të gjykojë ⟨את⟩ të shtypurit e popullit, t'i shpëtojë bijtë e nevojtarit, dhe të shtypë shkelësin.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "le të gjykojë"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "të shtypurit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "t'i shpëtojë"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nevojtarit"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "dhe të shtypë"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "shkelësin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.986074767Z",
+  "model": "glm-5.3"
+}

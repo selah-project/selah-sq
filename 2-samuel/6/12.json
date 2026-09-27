@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": " dhe iu lajmerua mbretit David, duke thënë: «Jahve ka bekuar ⟨את⟩ shtëpinë e Obed-Edomit dhe ⟨את⟩ gjithë çfarë ka ai, për shkak të arkës së Eloihimit.» Dhe Davidi shkoi dhe ngjiti ⟨את⟩ arkën e Eloihimit nga shtëpia e Obed-Edomit lart në qytetin e Davidit, me gëzim.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "iu lajmerua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ka bekuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Obed-Edomit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edomit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë çfarë ka ai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkës"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Eloihimit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ngjiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Eloihimit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Eloihimit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edomit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "me gëzim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:51.561693864Z",
+  "model": "glm-5.3"
+}

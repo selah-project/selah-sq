@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "E di se Jahve do të bëjë ⟨drejtësinë⟩ e të shtypurit, ⟨gjykimin⟩ e të varfërve.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "e di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëjë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "drejtësinë"
+    },
+    {
+      "surface": "עני",
+      "gloss": "e të shtypurit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykimin"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "e të varfërve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:43.124450739Z",
+  "model": "glm-5.3"
+}

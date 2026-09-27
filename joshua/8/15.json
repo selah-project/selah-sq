@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jozue dhe gjithë Izraeli u tërhoqën sikur ishin të mposhtur para tyre, dhe ikën rrugës të shkretëtirës.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "u tërhoqën sikur të mposhtur"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "para tyre"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugës"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "të shkretëtirës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:24.104897529Z",
+  "model": "glm-5.3"
+}

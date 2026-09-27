@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe i rrënoi ⟨את⟩ shtëpitë e të shenjtëruarve që ishin në shtëpinë e Jahvesë, ku gratë endnin aty shtëresa për Asheranë.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "dhe i rrënoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpitë e të shenjtëruarve"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë e"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "të shenjtëruarve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "gratë"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "endnin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëresa"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "për Asheranë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:03.003382491Z",
+  "model": "glm-5.3"
+}

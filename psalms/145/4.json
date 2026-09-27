@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Brezi brezit do të lëvdojë veprat e tua, dhe fuqitë e tua do t'i shpallin.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Brezi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "brezit"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "do të lëvdojë"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "veprat e tua"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "dhe fuqitë e tua"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "do t'i shpallin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:28.594228894Z",
+  "model": "glm-5.3"
+}

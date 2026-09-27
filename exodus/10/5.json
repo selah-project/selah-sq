@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ⟨do ta⟩ mbulojë ⟨את⟩ sipërfaqen e vendit, dhe nuk mund të shihet ⟨את⟩ vendi; dhe do të hajë ⟨את⟩ mbetjen e shpëtuar që ju la nga breshëri, dhe do të hajë ⟨את⟩ çdo pemë që ju rritet në fushë.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "dhe do ta mbulojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sipërfaqen e vendit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sipërfaqen (bukurisht: syrin)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të vendit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "të shihet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbetjen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mbetjen"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "e shpëtuar"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "që la"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "breshëri"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo pemë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pemë"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "që rritet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fusha"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:25.011573103Z",
+  "model": "glm-5.3"
+}

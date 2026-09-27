@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe çfarë ju bëri në shkretëtirë, deri sa të vinit deri në këtë vend.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "të vinit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:20.195141373Z",
+  "model": "glm-5.3"
+}

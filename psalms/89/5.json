@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Përjetë do të vendos farën tënde, dhe do të ndërtoi fronin tënd brez pas brezi. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "do të vendos"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farën tënde"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "dhe do të ndërtoi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "pas brezi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "fronin tënd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:19.618302493Z",
+  "model": "glm-5.3"
+}

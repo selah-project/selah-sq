@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Kashtë nuk u jepet shërbëtorëve të tu, dhe për tulla na thonë: Bëni! — dhe ja, shërbëtorët e tu rrihen, dhe faji është i popullit tënd.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "kashtë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "u jepet"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "shërbëtorëve të tu"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "dhe për tulla"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "na thonë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorët e tu"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "rrihen"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "dhe faji"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i popullit të tu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:19.119062570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe rrëzoi ⟨את⟩ qytetet ato, dhe ⟨את⟩ gjithë fushën, dhe ⟨את⟩ gjithë banorët e qyteteve, dhe bimësinë e dheut.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "dhe rrëzoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë fushën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "fushën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë banorët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "e qyteteve"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "dhe bimësinë"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e dheut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:33.374052927Z",
+  "model": "glm-5.3"
+}

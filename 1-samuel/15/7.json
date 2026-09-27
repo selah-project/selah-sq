@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Sauli ra mbi ⟨את⟩ Amalekun, nga Havila deri sa të vish te Shuri, që ndodhet përballë Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "dhe ra mbi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "nga Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "deri sa të vish"
+    },
+    {
+      "surface": "שור",
+      "gloss": "te Shuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "buzës së"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:48.033802834Z",
+  "model": "glm-5.3"
+}

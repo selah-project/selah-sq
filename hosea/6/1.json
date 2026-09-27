@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Ejani, të kthehemi te Jahve, sepse ai groshi dhe do të na shërojë; ai ra dhe do të na bëjë felë.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "të kthehemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "groshi"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "do të na shërojë"
+    },
+    {
+      "surface": "יך",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "do të na bëjë felë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:24.453907195Z",
+  "model": "glm-5.3"
+}

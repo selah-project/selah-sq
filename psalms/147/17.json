@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Hedh akullin e tij si copëza; para të ftohtit të tij kush mund të qëndrojë?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Hedh"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "akullin e tij"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "si copëza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "të ftohtit të tij"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "mund të qëndrojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.136223533Z",
+  "model": "glm-5.3"
+}

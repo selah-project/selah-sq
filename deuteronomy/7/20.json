@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe gjithashtu grerëzën ⟨את⟩ do ta dërgojë Jahve, Elohim i yt, mbi ta, deri sa të zhduken të mbeturit dhe të fshehurit nga fytyra jote.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dhe gjithashtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grerëzën"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "grerëzën"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do ta dërgojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "të zhduken"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "të mbeturit"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "dhe të fshehurit"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nga fytyra jote"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:31.745777754Z",
+  "model": "glm-5.3"
+}

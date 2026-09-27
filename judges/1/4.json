@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Juda u ngjit, dhe Jahve dorëzoi ⟨את⟩ kanaanitin dhe perizinët në dorën e tyre; dhe i rrahën në Bezek — dhjetë mijë veta.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Dhe u ngjit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dorëzoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanitin dhe perizinët"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanitin"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dhe perizinët"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "në dorën e tyre"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "dhe i rrahën"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "në Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:27.639337837Z",
+  "model": "glm-5.3"
+}

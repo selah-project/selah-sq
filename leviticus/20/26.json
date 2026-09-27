@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ju do të jeni të shenjtë për mua, sepse i shenjtë jam unë, Jahve; dhe unë ju ndava ⟨את⟩ nga popujt që të ishit të mi.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "dhe ju do të jeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "dhe unë ndava"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (prenor i veprimit 'ndava')"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "që të ishit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "të mi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:51.664771369Z",
+  "model": "glm-5.3"
+}

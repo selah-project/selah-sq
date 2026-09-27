@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Paras, Kushi dhe Puti ⟨me ta⟩; të gjithë me mburojë dhe përkrenare.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "dhe Puti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "me ta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mburojë"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "dhe përkrenare"
+    }
+  ],
+  "timestamp": "2026-09-27T16:38:04.797806025Z",
+  "model": "glm-5.3"
+}

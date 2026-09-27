@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Unë thashë në ngutjen time: çdo njeri është gënjeshtar.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "në ngutjen time"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gënjeshtar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:49.547729949Z",
+  "model": "glm-5.3"
+}

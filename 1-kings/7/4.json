@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe dritare ⟨is⟩ në tri radhë, dhe pamje përballë pamjeje, tri herë.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "dhe dritare"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rreshta"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "dhe pamje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pamjeje"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:20.637045158Z",
+  "model": "glm-5.3"
+}

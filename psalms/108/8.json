@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Elohim foli në shenjtërinë e⟨tij⟩: do të gëzohem, do të ndaj Sikemin dhe do të mat Luginën e Sukotit.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "në shenjtërinë e tij"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "do të gëzohem"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "do të ndaj"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikemin"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "dhe Luginën e"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotit"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "do të mat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:17.429723327Z",
+  "model": "glm-5.3"
+}

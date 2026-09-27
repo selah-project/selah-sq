@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe do të jetë: nga përroi do të pish, dhe ⟨את⟩ korbat i kam urdhëruar të të ushqejin atje.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "nga përroi"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "do të pish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korbat"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "korbat"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i kam urdhëruar"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "të të ushqejin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:10.062763221Z",
+  "model": "glm-5.3"
+}

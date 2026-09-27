@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe iu përgjigj Efroni ⟨את⟩ Avrahamit, duke i thënë:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:20.095867376Z",
+  "model": "glm-5.3"
+}

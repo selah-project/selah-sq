@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ⟨את⟩ Jezabelin do ta hanë qentë në pjesën e Jezreelit, dhe s'ka kush ta varrë. Dhe ⟨ai⟩ hapi derën dhe iku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dhe ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezabelin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "do ta hanë"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "qentë"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "në pjesën"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "e Jezreelit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kush ta varrë"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dhe hapi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "derën"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dhe iku"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:16.995723122Z",
+  "model": "glm-5.3"
+}

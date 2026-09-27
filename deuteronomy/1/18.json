@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨את⟩ ju urdhërova në atë kohë ⟨את⟩ të gjitha fjalët që do t'i bënit.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Dhe ju urdhërova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "do t'i bënit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:34.020831718Z",
+  "model": "glm-5.3"
+}

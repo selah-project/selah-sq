@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe e dëboi ⟨את⟩ njeriun, dhe bëri të banonin në lindje të kopshtit të Edenit ⟨את⟩ kerubinët dhe ⟨את]] flakën e shpatës që rrotullohej, për të ruajtur ⟨את]] rrugën e pemës së jetës.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "dhe e dëboi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "dhe bëri të banonin"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "në lindje"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "të kopshtit"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "të Edenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubinët"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubinët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "flakën"
+    },
+    {
+      "surface": "להט",
+      "gloss": "flakën"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "e shpatës"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "që rrotullohej"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "për të ruajtur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "e pemës"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të jetës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.057813097Z",
+  "model": "glm-5.3"
+}

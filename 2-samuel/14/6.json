@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe shërbëtores sime tënde ishin dy bij, dhe u grindën të dy në fushë, dhe nuk kishte shpëtimtar ndërmjet tyre; dhe e rrahu i biri ⟨את⟩ të birin tjetër, dhe e vrau ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Dhe shërbëtores sime tënde"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bij"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "dhe u grindën"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "shpëtimtar"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "ndërmjet tyre"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe e rrahu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të birin tjetër"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "të birin tjetër"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe e vrau"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:24:50.688280866Z",
+  "model": "glm-5.3"
+}

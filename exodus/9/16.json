@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "por pikërisht për këtë të kam ngritur të rriš në këmbë, që të të tregoj ⟨את⟩ fuqinë time, dhe që emri im të shpallhet në gjithë ⟨të⟩ dheun.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "por"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "të kam ngritur të rriš në këmbë"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "që"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "të të tregoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuqinë time"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fuqinë time"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dhe që"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "të shpallhet"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emri im"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:02.477260916Z",
+  "model": "glm-5.3"
+}

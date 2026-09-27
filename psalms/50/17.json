@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Ndërkohë ti e urreje mësimin, dhe fjalët e mia i hodhe pas vetes.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndërkohë ti"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "e urreje"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mësimin"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "i hodhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas vetes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:52.339256160Z",
+  "model": "glm-5.3"
+}

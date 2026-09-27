@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe doli Emoriu, banuesi i atij mali, për t'ju dalë përpara, dhe ju ndoqën ⟨את⟩, ashtu si bëjnë bletët, dhe ju mposhtën ⟨את⟩ në Seir, deri në Horma.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "banuesi i"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "atij mali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "për t'ju dalë përpara"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dhe ju ndoqën"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (kundrinori i ndjekjes)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "bëjnë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bletët"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "dhe ju mposhtën"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (kundrinori i mposhtjes)"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "në Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:55.037193753Z",
+  "model": "glm-5.3"
+}

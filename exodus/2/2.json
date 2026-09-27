@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe mbeti shtatzënë gruaja, dhe lindi një djalë; dhe e pa ⟨אתו⟩ se ⟨ishte⟩ i mirë, dhe e fshehu atë tri muaj.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dhe mbeti shtatzënë"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "dhe e pa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "se ishte i mirë (kundrinori: djalin)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "dhe e fshehu atë"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "muaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:38.830132962Z",
+  "model": "glm-5.3"
+}

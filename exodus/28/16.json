@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Katërkëndësh do të jetë, i palosur dysh; një pëllëmbë gjatësia e tij dhe një pëllëmbë gjerësia e tij.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Katërkëndësh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "i palosur dysh"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "një pëllëmbë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e tij"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "dhe një pëllëmbë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:56.180112225Z",
+  "model": "glm-5.3"
+}

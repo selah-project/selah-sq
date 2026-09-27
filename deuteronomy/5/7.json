@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Të mos të ketë ⟨vetja⟩ Elohimë të tjerë përballë meje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Të mos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimë"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjerë"
+    },
+    {
+      "surface": "על",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "meje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:11.273874440Z",
+  "model": "glm-5.3"
+}

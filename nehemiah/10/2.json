@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbi ⟨ata të⟩ vulosur ⟨qenë⟩: Nehemia, tirshata-i, bir i Hakaliahut, dhe Sidkia.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "të vulosur"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nehemia"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "tirshata-i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "i Hakaliahut"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "dhe Sidkia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:01.268400540Z",
+  "model": "glm-5.3"
+}

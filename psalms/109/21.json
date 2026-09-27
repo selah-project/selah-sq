@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Po ti, o Jahve, Adonai, vepro ⟨את⟩ me mua për hir të emrit tënd, sepse e mirë është hesed-i yt — më shpengo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Po ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vepro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me mua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrit tënd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "më shpengo"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.773006925Z",
+  "model": "glm-5.3"
+}

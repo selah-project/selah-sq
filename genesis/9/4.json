@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Por mishin — me shpirtin e tij, gjakun e tij — nuk do ta hani.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "por (vetëm)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "me shpirtin e tij"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjakun e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do ta hani"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:49.197205871Z",
+  "model": "glm-5.3"
+}

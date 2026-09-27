@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Jahve e përfundoi ⟨את⟩ tërbimin e tij, derdhi flakën e zemërimit të tij, dhe ndezi zjarr në Sion, dhe ai i përpoi themelet e saj.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "e përfundoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërbimin e tij"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "tërbimin e tij"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "derdhi"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "flakën"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "të zemërimit të tij"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "dhe ndezi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Sion"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe i përpoi"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "themelet e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:38.364968132Z",
+  "model": "glm-5.3"
+}

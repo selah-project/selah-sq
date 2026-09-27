@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 112,
+  "translation": "I pabesi do të shohë dhe do të zemërohet; dhëmbët e tij do t'i grindë dhe do të shkrihet; dëshira të pabesëve do të humbasë.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "I pabesi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "do të shohë"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "dhe do të zemërohet"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dhëmbët e tij"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "do t'i grindë"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "dhe do të shkrihet"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "dëshira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesëve"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "do të humbasë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:55.277827599Z",
+  "model": "glm-5.3"
+}

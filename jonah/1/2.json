@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Çohu, shko në Nineve, ⟨në⟩ qytetin e madh, dhe prediko kundër tij, se e keqja e tyre është ngjitur para meje.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "çohu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "e madh"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "dhe prediko"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "është ngjitur"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "e keqja e tyre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para meje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:16.679199766Z",
+  "model": "glm-5.3"
+}

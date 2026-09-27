@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe thanë: «Na ke bërë të jetojmë; të gjejmë hir në sytë e zotërisë sonë, dhe do të jemi shërbëtorë të Faraonit.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "na ke bërë të jetojmë"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "të gjejmë"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotërisë sonë"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "do të jemi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "shërbëtorë"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "të Faraonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:32.428916633Z",
+  "model": "glm-5.3"
+}

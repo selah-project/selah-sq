@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe do të vërë dorën e vet ⟨את⟩ mbi kokën e flijimit për mëkatin, dhe do të therë flijimin për mëkatin ⟨את⟩ në vendin ku theret flijimi i djegur.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "do të vërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e vet (ידו)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e vet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "flijimit për mëkatin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do të therë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin për mëkatin (החטאת)"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "flijimin për mëkatin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ku theret flijimi i djegur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:24.736851265Z",
+  "model": "glm-5.3"
+}

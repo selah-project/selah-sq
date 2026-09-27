@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Vetëm populli flijonte në vendet e larta, sepse nuk ishte ndërtuar ende shtëpi për emrin e Jahvesë deri në ato ditë.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "flijonte"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "në vendet e larta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ishte ndërtuar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "për emrin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:05.554262435Z",
+  "model": "glm-5.3"
+}

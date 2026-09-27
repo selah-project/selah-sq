@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨kish⟩ ⟨ai⟩ dy gra: emri i njërës ⟨ishte⟩ Hana, dhe emri i dytës ⟨ishte⟩ Penina; dhe Peninës ⟨kish⟩ fëmijë, e Hanës s'kishte fëmijë.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "dhe ⟨ai⟩ ⟨kish⟩"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dy"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "gra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "i njërës"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "i dytës"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ⟨kish⟩"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninës"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "fëmijë"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "e Hanës"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'kishte"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "fëmijë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:46.141781086Z",
+  "model": "glm-5.3"
+}

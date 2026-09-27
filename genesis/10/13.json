@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Micraimi lindi ⟨את⟩ ludimët dhe ⟨את⟩ anamimët dhe ⟨את⟩ lehabimët dhe ⟨את⟩ naftuhimët.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Dhe Micraimi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludimët"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "ludimët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "anamimët"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamimët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lehabimët"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabimët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "naftuhimët"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuhimët"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:28.056947899Z",
+  "model": "glm-5.3"
+}

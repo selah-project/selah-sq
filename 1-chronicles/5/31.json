@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Avishua lindi ⟨את⟩ Bukin; dhe Buki lindi ⟨את⟩ Uzin.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Dhe Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukin"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukin"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "dhe Buki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzin"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:32.709158638Z",
+  "model": "glm-5.3"
+}

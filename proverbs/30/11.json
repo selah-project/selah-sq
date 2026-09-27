@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Një brez që mallkon të atin, dhe ⟨את⟩ të ëmën nuk e bekon.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "mallkon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të ëmën"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "të ëmën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "e bekon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:35.931678021Z",
+  "model": "glm-5.3"
+}

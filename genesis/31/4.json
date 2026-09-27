@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe dërgoi Jakobi e thirli Rahelën dhe Leën në fushë, te kopeja e tij.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e thirli"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahelën"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "dhe Leën"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kopeja e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:27.182631554Z",
+  "model": "glm-5.3"
+}

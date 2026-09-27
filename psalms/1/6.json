@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse Jahve njeh rrugën e të drejtëve, por rruga e të pabesëve do të humbasë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "njeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën e"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtëve"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "por rruga e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesëve"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "do të humbasë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:13.594893256Z",
+  "model": "glm-5.3"
+}

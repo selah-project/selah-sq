@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe ⟨את⟩ lëkurat e kecëve të dhive ia mbuloi mbi duart e tij dhe mbi pjesën e lëmuar të qafës së tij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lëkurat e kecëve"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "lëkurat e"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kecëve"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "të dhive"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "ia mbuloi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duart e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pjesën e lëmuar"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "të qafës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:56.723964880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Davidi mori ⟨את⟩ mburojat e arta që ishin mbi shërbëtorët e Hadadezerit, dhe i solli në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburojat e arta"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "mburojat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e arta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "e Hadadezerit"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "dhe i solli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:05:12.430799701Z",
+  "model": "glm-5.3"
+}

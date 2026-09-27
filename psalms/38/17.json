@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Sepse thashë: mos u gëzojnë mbi mua; kur shkeli këmba ime, ata u bënë të mëdhenj kundër meje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mos"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "u gëzojnë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "kur shkeli"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmba ime"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "u bënë të mëdhenj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:32.125436831Z",
+  "model": "glm-5.3"
+}

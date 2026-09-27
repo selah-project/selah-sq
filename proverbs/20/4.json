@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Nga dimri i përtaci nuk do të lerojë; do të kërkojë në korrje — dhe s'ka asgjë.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Nga dimri"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "i përtaci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "do të lerojë"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "do të kërkojë"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "në korrje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:50.150154011Z",
+  "model": "glm-5.3"
+}

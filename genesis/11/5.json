@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve zbriti për të parë ⟨את⟩ qytetin dhe ⟨את⟩ kullën që kishin ndërtuar bijtë e njeriut.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "zbriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullën"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "kullën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kishin ndërtuar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:46.757774839Z",
+  "model": "glm-5.3"
+}

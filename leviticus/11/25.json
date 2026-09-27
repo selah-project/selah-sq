@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe kushdo që merr ⟨nga⟩ kufoma e tyre do të lajë rrobat e tij dhe do të jetë i papastër deri në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe kushdo"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "që merr"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "nga kufoma e tyre"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dhe do të jetë i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:17.017992555Z",
+  "model": "glm-5.3"
+}

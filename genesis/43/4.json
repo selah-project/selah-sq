@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Nëse je i gatshëm të dërgosh ⟨את⟩ vëllain tonë ⟨את⟩ me ne, do të zbrejmë dhe do të porositim për ty ushqim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nëse"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "je i gatshëm"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "të dërgosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllain tonë"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "vëllain tonë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me ne"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "do të zbrejmë"
+    },
+    {
+      "surface": "וישברה",
+      "gloss": "dhe do të porositim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ushqim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:48.430153088Z",
+  "model": "glm-5.3"
+}

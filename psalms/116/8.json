@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Se më ke shpëtuar shpirtin nga vdekja, ⟨את⟩ syrin tim nga lotët, ⟨את⟩ këmbën time nga rrëzimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "më ke shpëtuar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nga vdekja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syrin tim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syrin tim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "lotët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këmbën time"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbën time"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "nga rrëzimi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:11.754624466Z",
+  "model": "glm-5.3"
+}

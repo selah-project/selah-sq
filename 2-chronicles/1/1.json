@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Salomoni, bir i Davidit, u forcua mbi mbretërinë e tij, dhe Jahve, Elohim i tij, ⟨ishte⟩ me të, dhe e bëri të madh ⟨lart⟩.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "u forcua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mbretërinë e tij"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "dhe e bëri të madh"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "lart"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:01.467890511Z",
+  "model": "glm-5.3"
+}

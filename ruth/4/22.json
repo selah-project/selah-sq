@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe Obedi lindi ⟨את⟩ Isainë, dhe Isai lindi ⟨את⟩ Davidin",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "dhe Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isainë"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isainë"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "dhe Isai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:27.677732518Z",
+  "model": "glm-5.3"
+}

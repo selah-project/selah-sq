@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Sepse para se djali të dinë të thotë «baba im» dhe «nëna ime», do të ngarkohet ⟨את⟩ pasuria e Damaskut dhe ⟨את⟩ plaçkitja e Samarisë para mbretit të Ashurit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "para se"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "të dinë"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djali"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "të thotë"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba im"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "dhe nëna ime"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "do të ngarkohet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasuria e Damaskut"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "e Damaskut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "plaçkitja e Samarisë"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plaçkitja"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "e Samarisë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Ashurit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:01.553076870Z",
+  "model": "glm-5.3"
+}

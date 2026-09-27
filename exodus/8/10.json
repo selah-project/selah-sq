@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe i grumbulluan ⟨את⟩ ato grumbuj mbi grumbuj, dhe toka nisi të ngjante me të kalbur.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "dhe i grumbulluan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato (bretkosat e vdekura)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "grumbuj"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mbi grumbuj"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "dhe nisi të kalbiste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:36.254346001Z",
+  "model": "glm-5.3"
+}

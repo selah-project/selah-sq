@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Le të zbresë si shi mbi barin e kositur, si rrebesh që derdh shi mbi tokën.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "le të zbresë"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "si shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גז",
+      "gloss": "barin e kositur"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "si rrebesh"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "që derdh shi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mbi tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.212035579Z",
+  "model": "glm-5.3"
+}

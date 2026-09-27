@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe do të bësh shkopinj për altar, shkopinj druri akacie, dhe do t'i mbulosh ⟨אתם⟩ me bakër.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "shkopinj"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "për altar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "shkopinj"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dhe do t'i mbulosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "shkopinjtë"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "me bakër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:24.694350173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Ti ⟨je⟩ strehë-fshihje për mua, nga ngushtica do të më ruash; me këngë brohoritjeje të shpëtimit do të më rrethosh. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "strehë-fshihje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nga ngushtica"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "do të më ruash"
+    },
+    {
+      "surface": "רני",
+      "gloss": "me këngë brohoritjeje"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "të shpëtimit"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "do të më rrethosh"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:04.862723513Z",
+  "model": "glm-5.3"
+}

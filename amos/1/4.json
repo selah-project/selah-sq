@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do të dërgoj zjarr në shtëpinë e Hazaelit, dhe do të përbijë kështjellat e Ben-Hadadit.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dhe do të dërgoj"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "e Hazaelit"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe do të përbijë"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "kështjellat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "e Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:59.577425322Z",
+  "model": "glm-5.3"
+}

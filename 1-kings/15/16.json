@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe ishte luftë midis Asës dhe midis Baashës, mbretit të Izraelit, gjithë ditët e tyre.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "dhe luftë"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asës"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashës"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ditët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:36:48.097124994Z",
+  "model": "glm-5.3"
+}

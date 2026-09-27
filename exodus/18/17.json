@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe kunati i Moisiit i tha atij: Nuk është e mirë ⟨gjëja⟩ që po bën.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "kunati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moisiit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "është e mirë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨gjëja⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "po bën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:19.142377668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai që vendos paqen në kufijtë e tua, të ngop me yndyrën e grurit.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ai që vendos"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "kufijtë e tua"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yndyrën e"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "grurit"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "të ngop"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.316688976Z",
+  "model": "glm-5.3"
+}

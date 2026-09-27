@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe madianitët e shiten ⟨atë⟩ në Egjipt, te Potifari, kryeqiptari i faraonit, i rrethit të grave, kryetar i rojeve.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "dhe madianitët"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "e shiten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e shiten atë (Jozefin)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "te Potifari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "i rrethit të grave (kryeqiptar)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "i faraonit"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "i rojeve (therrësve)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:38.583167268Z",
+  "model": "glm-5.3"
+}

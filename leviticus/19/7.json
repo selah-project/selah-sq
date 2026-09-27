@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe nëse hahet fare në ditën e tretë, ⟨ajo⟩ ⟨është⟩ e neveritshme; nuk do të pranohet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "hahet fare"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "në ditën e tretë hahet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "e tretë"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "e neveritshme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo është"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "do të pranohet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:01.336674873Z",
+  "model": "glm-5.3"
+}

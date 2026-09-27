@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jahve forcoi ⟨את⟩ zemrën e Faraonit, dhe ⟨ai⟩ nuk deshi t'i lëshonte ata.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe forcoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemrën"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemrën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "deshi"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "t'i lëshonte ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:33.397077690Z",
+  "model": "glm-5.3"
+}

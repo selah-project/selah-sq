@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ndodhi, kur hyri Avrami në Egjipt, që egjiptianët panë ⟨את⟩ gruan, se ⟨ajo⟩ ishte shumë e bukur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kur hyri"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "që panë"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egjiptianët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "e bukur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ajo⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:44.044429612Z",
+  "model": "glm-5.3"
+}

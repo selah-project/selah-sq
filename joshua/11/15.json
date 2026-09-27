@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sic urdhëroi Jahve ⟨את⟩ Moisiun, shërbëtorin e tij, kështu urdhëroi Moisi ⟨את⟩ Jozueun; dhe kështu veproi Jozue — nuk largoi asnjë fjalë nga të gjitha që urdhëroi Jahve ⟨את⟩ Moisiun.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sic"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozueun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueun"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dhe kështu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "veproi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "largoi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asnjë fjalë"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:03.386633782Z",
+  "model": "glm-5.3"
+}

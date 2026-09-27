@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe unë të kam caktuar ⟨את⟩ vitet e paudhësisë së tyre, sipas numrit të ditëve — treqind e nëntëdhjetë ditë — dhe do të bartësh paudhësinë e shtëpisë së Izraelit.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "të kam caktuar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitet e paudhësisë së tyre"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vitet"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "të paudhësisë së tyre"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "sipas numrit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "të ditëve"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "dhe nëntëdhjetë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "dhe do të bartësh"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësinë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:41.039199675Z",
+  "model": "glm-5.3"
+}

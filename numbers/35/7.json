@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Të gjitha qytetet që do t'u jipni levitëve — dyzet e tetë qytete — ⟨את⟩ ato dhe ⟨את⟩ tokat e tyre të hapura do t'i jepni.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "do t'u jipni"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitëve"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "e tetë"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ato (qytetet)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokat e tyre të hapura"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "tokat e tyre të hapura"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:06.902700774Z",
+  "model": "glm-5.3"
+}

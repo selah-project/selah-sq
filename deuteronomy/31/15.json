@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Jahve u shfaq në tendë, në shtyllën e re — dhe shtylla e res qëndroi mbi hyrjen e tendës.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe ... u shfaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në tendë"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "në shtyllën"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "e re"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe ... qëndroi"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "shtylla"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "e res"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrjen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "e tendës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:07.095105358Z",
+  "model": "glm-5.3"
+}

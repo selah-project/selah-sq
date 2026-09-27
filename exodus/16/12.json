@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "\"E kam dëgjuar ⟨את⟩ përgjërimin e bijve të Israelit. Folju atyre, duke thënë: 'Në perëndim të errët do të hani mish, dhe në mëngjes do të ngopeni me bukë; dhe do ta dini se unë jam Jahve, Elohim i juaji.'\"",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "E kam dëgjuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "përgjërimin"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "përgjërimin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Folju"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "në"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "perëndim të errët"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dhe në mëngjes"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "do të ngopeni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "me bukë"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dhe do ta dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:23.981338177Z",
+  "model": "glm-5.3"
+}

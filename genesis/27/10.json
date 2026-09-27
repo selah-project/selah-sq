@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "dhe ti do t'i çosh të atit tënd dhe ai do të hajë, që ai të të bekojë para vdekjes së tij.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "dhe do t'i çosh"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "të atit tënd"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "të të bekojë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "vdekjes së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:49.818575447Z",
+  "model": "glm-5.3"
+}

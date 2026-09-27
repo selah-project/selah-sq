@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Sepse zellija për shtëpinë ⟨tënde⟩ më ka ngrënë, dhe fyerjet e atyre që të fyenin ty ranë mbi mua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zellija"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "shtëpinë tënde"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "më ka ngrënë"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "dhe fyerjet"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "e atyre që të fyenin ty"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:49.623647322Z",
+  "model": "glm-5.3"
+}

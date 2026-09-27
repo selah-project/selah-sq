@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Kërkojnë paudhësi; e kryejnë kërkimin e thelluar — dhe shpirti i brendshëm i njeriut dhe zemra ⟨janë⟩ të thella.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "kërkojnë"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "e kryejmë (thuaj)"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "një kërkim"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "të thelluar"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "dhe shpirti i brendshëm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dhe zemra"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "të thella"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.292974670Z",
+  "model": "glm-5.3"
+}

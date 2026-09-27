@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Nxitova dhe s'ngurrova të ruaj urdhërimet e tua.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nxitova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe s'"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ngurrova"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "të ruaj"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhërimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:20.238469233Z",
+  "model": "glm-5.3"
+}

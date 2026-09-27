@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Qiejtë shpallin drejtësinë e tij, dhe të gjithë popujt panë lavdinë e tij.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "shpallin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Qiejtë"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "drejtësinë e tij"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dhe panë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lavdinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:41.612563046Z",
+  "model": "glm-5.3"
+}

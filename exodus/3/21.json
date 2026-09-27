@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe unë do të jap ⟨את⟩ hirin e këtij populli në sytë e egjiptianëve; dhe do të ndodhë që, kur të shkoni, të mos shkoni duarthatë.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe unë do të jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i këtij populli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egjiptianëve"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që, kur"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "të shkoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "duarthatë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:50.197109155Z",
+  "model": "glm-5.3"
+}

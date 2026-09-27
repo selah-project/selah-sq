@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe lind dielli, dhe perëndon dielli, dhe drejt vendit të vet, i etur si me frymëmarrje, ngjitet sërish ai që lind — aty.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "dhe lind"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe perëndon"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dielli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe drejt"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "vendit të vet"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "i etur si me frymëmarrje"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "që lind"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:17.204559201Z",
+  "model": "glm-5.3"
+}

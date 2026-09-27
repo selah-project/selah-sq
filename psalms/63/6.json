@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Si me dhjamë dhe yndyrë ngihet shpirti im, dhe buzët e gëzimit do të lëvdojnë ⟨me⟩ gojën time.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "me dhjamë"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "dhe yndyrë"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ngihet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "dhe buzët"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "të gëzimit"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "do të lëvdojnë"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gojën time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:25.054792966Z",
+  "model": "glm-5.3"
+}

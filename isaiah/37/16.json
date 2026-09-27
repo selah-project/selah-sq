@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "«Jahve Tsevaot, Elohim i Izraelit, që rri ⟨mbi⟩ kerubinët, ti ⟨je⟩ ai, Elohim i vetëm, për të gjitha mbretëritë e dheut; ti bëre ⟨את⟩ qiejt dhe ⟨את⟩ dheun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "që rri"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubinët"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për të gjitha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mbretëritë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e dheut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bëre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dheun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheun"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:38.655254191Z",
+  "model": "glm-5.3"
+}

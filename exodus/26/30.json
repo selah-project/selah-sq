@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të ngresh ⟨את⟩ Mishkanin sipas rregullit të tij, që të është treguar në mal.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Dhe do të ngresh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "sipas rregullit të tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "të është treguar"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:36.005587973Z",
+  "model": "glm-5.3"
+}

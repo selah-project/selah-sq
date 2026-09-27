@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe ai tha: «⟨את⟩ Vëllezërit e mi po kërkoj. Më trego, të lutem, ku po kullosin ata.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vëllezërit e mi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Vëllezërit e mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "po kërkoj"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Më trego"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "po kullosin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:05.749434378Z",
+  "model": "glm-5.3"
+}

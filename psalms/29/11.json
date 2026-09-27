@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Jahve u jep forcë popullit të Tij; Jahve bekon ⟨את⟩ popullin e Tij me paqen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forcë"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "popullit të Tij"
+    },
+    {
+      "surface": "ייתן",
+      "gloss": "u jep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bekon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin e Tij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e Tij"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "me paqen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:57.762680255Z",
+  "model": "glm-5.3"
+}

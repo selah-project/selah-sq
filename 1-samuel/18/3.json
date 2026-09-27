@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jonatani dhe Davidi lidën besëlidhje, sepse e donte ⟨atë⟩ si shpirtin e vet.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "dhe lidën"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dhe Davidi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sepse e donte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "si shpirtin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:45.444809914Z",
+  "model": "glm-5.3"
+}

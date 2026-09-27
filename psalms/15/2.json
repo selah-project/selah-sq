@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Ai që ecën i pa-tërë dhe vepron drejtësi, dhe flet të vërtetën në zemrën e tij.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Ai që ecën"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "i pa-tërë"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "dhe vepron"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dhe flet"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërtetën"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "në zemrën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.716863569Z",
+  "model": "glm-5.3"
+}

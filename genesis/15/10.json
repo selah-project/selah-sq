@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe ai mori për vete ⟨את⟩ të gjitha këto, dhe i ndau ⟨אתם⟩ në mes, dhe vuri çdo pjesë përballë shoqes së saj; por ⟨את⟩ zogun nuk e ndau.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "dhe i ndau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "këto (kafshët)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "pjesë"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shoqes së saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "zogun"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "zogun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "e ndau"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:52.957710518Z",
+  "model": "glm-5.3"
+}

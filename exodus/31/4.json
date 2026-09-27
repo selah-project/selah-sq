@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "për të parashikuar vepra të menduara, për të punuar në ar, në argjend dhe në bakër.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "për të parashikuar"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "vepra të menduara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të punuar"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "në ar"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "në argjend"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "në bakër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:55.745407752Z",
+  "model": "glm-5.3"
+}

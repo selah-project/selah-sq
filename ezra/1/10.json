@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kupa të arta tridhjetë, kupa të argjënda të shoqe katërqind e dhjetë, enë të tjera një mijë.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "të arta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "të argjënda"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "të shoqe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "e dhjetë"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "enë"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:34.818103371Z",
+  "model": "glm-5.3"
+}

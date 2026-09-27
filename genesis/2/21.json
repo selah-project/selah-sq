@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim bëri të bjerë një gjumë të thellë mbi njeriun, dhe ai fjeti; dhe mori një nga brinjët e tij dhe e mbylli ⟨⟩ mishin në vend të saj.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "bëri të bjerë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "gjumë të thellë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "dhe ai fjeti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "nga brinjët e tij"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "dhe e mbylli"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishin"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "në vend të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:14.552211625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Gjurmtë e saj ⟨do⟩ të bekoj me bekim; të varfërit e saj do t'i ngop me bukë.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "gjurmtë e saj"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "të bekoj"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "me bekim"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "të varfërit e saj"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "do t'i ngop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:39.571946619Z",
+  "model": "glm-5.3"
+}

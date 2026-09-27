@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Ti ⟨je⟩ i afërt, o Jahve, dhe të gjitha urdhërimet e tua ⟨janë⟩ të vërteta.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "i afërt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhërimet e tua"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "të vërteta"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:38.962382172Z",
+  "model": "glm-5.3"
+}

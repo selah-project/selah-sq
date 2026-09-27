@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe i tha atij: Kështu thotë Jahve: Meqë lëshove nga dora jote ⟨את⟩ njeriun e shenjtëruar tim për shkatërrim, jeta jote do të jetë në vend të jetës së tij, dhe populli yt në vend të popullit të tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "meqë"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "lëshove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "e shenjtëruar tim për shkatërrim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jeta jote"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jetës së tij"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "dhe populli yt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:05.518802010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe mbreti i Izraelit u tha shërbëtorëve të vet: A e dini se Ramaot-Gileadi është i jonë, dhe ne heshtim ⟨pa e⟩ marrë ⟨את⟩ atë nga dora e mbretit të Aramit?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe u tha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorëve të vet"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "A e dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i jonë"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramaot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "dhe ne"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "heshtim"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "⟨pa e⟩ marrë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Ramaot-Gileadin)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "të Aramit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:10.304877913Z",
+  "model": "glm-5.3"
+}

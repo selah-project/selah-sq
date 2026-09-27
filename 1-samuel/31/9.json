@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe i prenë ⟨את⟩ kokën e tij dhe i zhveshën ⟨את⟩ pajisjet e tij, dhe i dërguan anembanë tokës së filistejve, për të lajmëruar në shtëpinë e idhujve të tyre dhe ⟨את⟩ popullin.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "dhe i prenë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën e tij"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "dhe i zhveshën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pajisjet e tij"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pajisjet e tij"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dhe i dërguan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokës"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "të filistejve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "anembanë"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "për të lajmëruar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "e idhujve të tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:44.259927416Z",
+  "model": "glm-5.3"
+}

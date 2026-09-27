@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe Davidi u tha gibeonitëve: Çfarë t'u bëj juve, dhe me çfarë të shpengoj, që të bekonit ⟨את⟩ trashëgiminë e Jahves?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeonitët"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "t'u bëj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "juve"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "dhe me çfarë"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "të shpengoj"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "dhe bekoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë e Jahves"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "trashëgiminë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:58.807898744Z",
+  "model": "glm-5.3"
+}

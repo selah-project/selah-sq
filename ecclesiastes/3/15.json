@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ajo që ka qenë, tashmë ⟨është⟩; dhe ajo që do të jetë, tashmë ka qenë; dhe Elohim kërkon ⟨את⟩ atë që është ndjekur.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tashmë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe ajo që"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tashmë"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "dhe Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "kërkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që është ndjekur"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "atë që është ndjekur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:27.390836980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Le të të lavdërojë i huaji, e jo goja jote; i panjohuri, e jo buzët e tua.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Le të të lavdërojë"
+    },
+    {
+      "surface": "זר",
+      "gloss": "i huaji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "goja jote"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "i panjohuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e jo"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "buzët e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:25:40.622601058Z",
+  "model": "glm-5.3"
+}

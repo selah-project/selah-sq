@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim krijoi ⟨את⟩ njeriun sipas shëmbëllimit të vet; sipas shëmbëllimit të Elohim e krijoi ⟨את⟩ atë; mashkull dhe femër i krijoi ⟨את⟩ ata.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "dhe krijoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "sipas shëmbëllimit të vet"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sipas shëmbëllimit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "të Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "krijoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkull"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dhe femër"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "krijoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "mashkullin dhe femrën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:15.196301638Z",
+  "model": "glm-5.3"
+}

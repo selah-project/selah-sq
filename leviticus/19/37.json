@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe do t'i ruani të gjitha rregullat e mia dhe të gjitha gjykatët e mia, dhe do t'i bëni ⟨את⟩ ato; unë ⟨jam⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do t'i ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha rregullat e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rregullat e mia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha gjykatët e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykatët e mia"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do t'i bëni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "rregullat dhe gjykatët"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:02.006787179Z",
+  "model": "glm-5.3"
+}

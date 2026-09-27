@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Ku është mbreti i Hamatit, dhe mbreti i Arpadit, dhe mbreti i ⟨qytetit⟩ Sepharvaimit, i Henait dhe i Ivait?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Ku është"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatit"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadit"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "i ⟨qytetit⟩"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sepharvaimit"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Henait"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "dhe i Ivait"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:25.188729826Z",
+  "model": "glm-5.3"
+}

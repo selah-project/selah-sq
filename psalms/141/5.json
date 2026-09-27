@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Le të më godasë i drejti me hesed, dhe le të më qortojë — vaj për kokën; të mos e refuzojë koka ime, sepse edhe lutja ime është ende për të keqen e tyre.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "le të më godasë"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "me hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "dhe le të më qortojë"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "për kokën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יני",
+      "gloss": "refuzojë"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "koka ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ende"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "dhe lutja ime"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "për të keqen e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:19.750511586Z",
+  "model": "glm-5.3"
+}

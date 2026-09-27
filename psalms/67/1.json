@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Për dirigjentin, me vegla me tela. Mizmor, këngë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "për dirigjentin"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "me vegla me tela"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "këngë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:21.855506252Z",
+  "model": "glm-5.3"
+}

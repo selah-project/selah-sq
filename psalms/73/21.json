@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Sepse zemra ime u uthua, dhe veshkat e mia u shpuan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "u uthua"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "dhe veshkat e mia"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "u shpuan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.279254111Z",
+  "model": "glm-5.3"
+}

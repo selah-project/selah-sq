@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Fol tani në veshët e popullit, dhe le të kërkojë çdo njeri nga ⟨את⟩ shoku i tij dhe çdo grua nga ⟨את⟩ shoqja e saj, enë të argjendit dhe enë të arit.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "në veshët e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "dhe le të kërkojnë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩",
+      "marks": "shoku i tij"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shoku i tij"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dhe çdo grua"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩",
+      "marks": "shoqja e saj"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "shoqja e saj"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "enë të"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendit"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "dhe enë të"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:24.710034227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ do ta qërojë ⟨את⟩ kurbanin e djegur dhe do ta copëtojë ⟨את⟩ atë në copat e tij.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "dhe do ta qërojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbanin e djegur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurbanin e djegur"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "dhe do ta copëtojë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "në copat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:27.668737437Z",
+  "model": "glm-5.3"
+}

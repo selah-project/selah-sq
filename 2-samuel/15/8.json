@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "«Sepse shërbëtori yt dha një premtim kur banoja në Geshur, në Aram, duke thënë: Nëse Jahve më kthen me të vërtetë në Jeruzalem, do të shërbej ⟨את⟩ Jahve.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "një premtim"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "dha"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtori yt"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "kur banoja"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "në Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "në Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kthen"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "më kthen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "do të shërbej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:14.206553589Z",
+  "model": "glm-5.3"
+}

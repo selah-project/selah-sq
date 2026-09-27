@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "dhe qëndroi midis të vdekurve dhe midis të gjallëve, dhe murtaja u ndal.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "të vdekurve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "të gjallëve"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "dhe u ndal"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "murtaja"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:10.758634473Z",
+  "model": "glm-5.3"
+}

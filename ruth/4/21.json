@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe Salmoni lindi ⟨את⟩ Boazin, dhe Boazi lindi ⟨את⟩ Obedin",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "dhe Salmoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazin"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazin"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "dhe Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedin"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:38:27.676951630Z",
+  "model": "glm-5.3"
+}

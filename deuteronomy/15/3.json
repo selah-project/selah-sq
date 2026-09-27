@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "⟨את⟩ të huajin mund ta kërkosh; por çfarëdo që të ketë ⟨te⟩ ⟨את⟩ vëllai yt, dorën tënde do ta lësh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të huajin"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "të huajin"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "mund ta kërkosh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "por çfarëdo që"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllai yt"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "do ta lësh"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:12.410271480Z",
+  "model": "glm-5.3"
+}

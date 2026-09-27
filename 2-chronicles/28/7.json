@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Zikri, një trim i Efraimit, vrau ⟨את⟩ Maasejahun, birin e mbretit, dhe ⟨את⟩ Azrikamin, kryetarin e shtëpisë, dhe ⟨את⟩ Elkanahun, të dytin pas mbretit.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "vrau"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "një trim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "i Efraimit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejahun"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Azrikamin"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikamin"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "kryetarin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Elkanahun"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanahun"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "të dytin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pas mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:48.591880151Z",
+  "model": "glm-5.3"
+}

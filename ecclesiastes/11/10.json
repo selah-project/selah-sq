@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe hiq inatin nga zemra jote, dhe largo të keqen nga mishi yti, se fëmijëria dhe zeri i rinisë ⟨janë⟩ fyerje e zbrazët.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Dhe hiq"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "inatin"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "nga zemra jote"
+    },
+    {
+      "surface": "ו העבר",
+      "gloss": "dhe largo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "nga mishi yti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "fëmijëria"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "dhe zeri i rinisë"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fyerje e zbrazët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:50.402421797Z",
+  "model": "glm-5.3"
+}

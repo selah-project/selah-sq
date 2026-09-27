@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Këto janë breznitë e Shemit: Shemi, bir njëqind vjeç, lindi ⟨את⟩ Arpakshadin, dy vjet pas përmbytjes.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Këto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "breznitë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "e Shemit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshadin"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshadin"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dy vjet"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "përmbytjes"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:35.767870448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Sepse vetëm ⟨ka⟩ një të ardhme, dhe shpresa jote nuk do të pritet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ka⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "një të ardhme"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "dhe shpresa jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "do të pritet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:38.608334733Z",
+  "model": "glm-5.3"
+}

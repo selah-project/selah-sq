@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Të gjithë presin te ti, t'u jesh ushqim në kohën e vet.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "presin"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "t'u jesh"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "në kohën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:50.632929867Z",
+  "model": "glm-5.3"
+}

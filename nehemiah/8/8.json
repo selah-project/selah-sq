@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe lexuan në libër, në Torën e Elohit, shqiptuar qartë; dhe vendosën kuptimin, dhe i bënë të kuptonin atë që lexohej.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "dhe lexuan"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "në libër"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "në Torën e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "shqiptuar qartë"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "dhe vendosën"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kuptimin"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "dhe i bënë të kuptonin"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "atë që lexohej"
+    }
+  ],
+  "timestamp": "2026-09-27T17:57:55.969682528Z",
+  "model": "glm-5.3"
+}

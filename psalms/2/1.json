@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Përse rrëmbyen ⟨në trazirë⟩ kombeve, dhe popujt meditojnë kotësi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Përse"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "rrëmbyen në trazirë"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dhe popujt"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "meditojnë"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kotësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:43.574809384Z",
+  "model": "glm-5.3"
+}

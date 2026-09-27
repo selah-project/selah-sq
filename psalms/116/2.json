@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Sepse e lakuati veshin e tij ndaj meje, dhe gjatë ditëve të mia do të thërres.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "e lakuati"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "veshin e tij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndaj meje"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dhe gjatë ditëve të mia"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "do të thërres"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:18.190343983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Sepse ti ke qenë ndihma ime, dhe nën hijen e krahëve të tu do të këndoj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ke qenë"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ndihma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ime"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "dhe nën hijen"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "e krahëve të tu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "do të këndoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:25.055218614Z",
+  "model": "glm-5.3"
+}

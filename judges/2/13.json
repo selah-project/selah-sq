@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe e braktisën ⟨את⟩ Jahven, dhe i shërbyen Baalit dhe Ashtarotit.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "dhe e braktisën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dhe i shërbyen"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalit"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "dhe Ashtarotit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:07.803162623Z",
+  "model": "glm-5.3"
+}

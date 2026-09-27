@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Për të dëgjuar përtynet e të burgosurit, për t'i hapur ⟨derën⟩ bijve të vdekjes;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "për të dëgjuar"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "përtynet"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "të burgosurit"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "për t'i hapur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "e vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:09.926581738Z",
+  "model": "glm-5.3"
+}

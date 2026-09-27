@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe njerëzit e tij që ishin me të, i ngjiti Davidi lart, çdo njeri me shtëpinë e vet; dhe ata banuan në qytetet e Hebronit.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Dhe njerëzit e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "i ngjiti lart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "me shtëpinë e vet"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dhe ata banuan"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "në qytetet e"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:08.946272090Z",
+  "model": "glm-5.3"
+}

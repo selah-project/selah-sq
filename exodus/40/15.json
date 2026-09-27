@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do t'i vajosësh ⟨את⟩ ata, siç vajose ⟨את⟩ atin e tyre, dhe do të shërbejnë si priftërinj për mua; dhe vajosja e tyre do të jetë për ta priftëri e përjetshme brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do t'i vajosësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "vajose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atin e tyre"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atin e tyre"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "dhe do të shërbejnë si priftërinj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "להית",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "vajosja e tyre"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "priftëri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e përjetshme"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "brez pas brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:52.798882015Z",
+  "model": "glm-5.3"
+}

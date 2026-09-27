@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Çudira ⟨janë⟩ dëshmitë e tua; prandaj shpirti im i ruan ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "çudira"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dëshmitë e tua"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj (mbi këtë)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "i ruan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:04.461311154Z",
+  "model": "glm-5.3"
+}

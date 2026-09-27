@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Hamani pa që Mordekai nuk përkulte as nuk binte përpara tij, dhe Hamani u mbush me të ligët.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "përkulte"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "as nuk binte përpara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dhe u mbush"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "me të ligët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:06.219641424Z",
+  "model": "glm-5.3"
+}

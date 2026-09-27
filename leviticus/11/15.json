@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "⟨את⟩ çdo korb sipas llojit të vet,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çdo korb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korb"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:20.900762268Z",
+  "model": "glm-5.3"
+}

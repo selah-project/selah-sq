@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Më shpëto, o Jahve, nga njeriu i keq; nga njeri i dhunshëm më ruaj.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nga njeriu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "i keq"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nga njeri"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "i dhunshëm"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "më ruaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:05.234934805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atëherë do të më thërrasin, por unë nuk do t'u përgjigjem; do të më kërkojnë me zell, por nuk do të më gjejnë.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "do të më thërrasin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "do t'u përgjigjem"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "do të më kërkojnë me zell"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "do të më gjejnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:36.986993824Z",
+  "model": "glm-5.3"
+}

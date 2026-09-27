@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe do ta rrethoni mbretin përreth, secili me armët e tij në dorën e tij; dhe kushdo që hyn në radhët, le të vritet; dhe jini ⟨את⟩ me mbretin në daljen e tij dhe në hyrjen e tij.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "dhe do ta rrethoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "përreth"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "me armët e tij"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "dhe kushdo që hyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "radhët"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "le të vritet"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe jini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "me mbretin"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "në daljen e tij"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "dhe në hyrjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:45.104945316Z",
+  "model": "glm-5.3"
+}

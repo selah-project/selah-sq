@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Shpengo, o Elohim, ⟨את⟩ Izraelin nga të gjitha ngushticat e tij.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "shpengo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga të gjitha"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ngushticat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:52.310140521Z",
+  "model": "glm-5.3"
+}

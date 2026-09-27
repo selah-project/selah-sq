@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Shauli ndërtoi një altar për Jahvenë; ⟨me të⟩ filloi të ndërtojë altar për Jahvenë.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "një altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "me të (altarin)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "filloi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "të ndërtojë"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:39.703952596Z",
+  "model": "glm-5.3"
+}

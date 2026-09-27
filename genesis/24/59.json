@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe i dërguan ⟨את⟩ Rebekën, motrën e tyre, dhe ⟨את⟩ nënën e saj ushqyese, dhe ⟨את⟩ shërbëtorin e Avrahamit dhe ⟨את⟩ njerëzit e tij.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dhe i dërguan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebekën"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebekën"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "motrën e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nënën e saj ushqyese"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "nëna e saj ushqyese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin e Avrahamit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbëtori"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "i Avrahamit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e tij"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "njerëzit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:24.213574115Z",
+  "model": "glm-5.3"
+}

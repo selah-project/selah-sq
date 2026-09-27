@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Për shkeljen e të varfërve, për përpelitjen e të nevojshëve — «tani do të ngrihem», thotë Jahve; «do ta vë ⟨atë⟩ në shpëtim nga ai që fryn ⟨kundër⟩ ⟨tij⟩».",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "për shkeljen"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "e të varfërve"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "për përpelitjen"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "e të nevojshëve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "do të ngrihem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "do ta vë"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "në shpëtim"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "që fryn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kundër tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:19.011302029Z",
+  "model": "glm-5.3"
+}

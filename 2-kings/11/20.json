@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe u gëzua gjithë populli i vendit dhe qyteti pushoi; dhe ⟨את⟩ Athaliah e vranë me shpatë në ⟨shtëpinë⟩ e mbretit.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "u gëzua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "dhe qyteti"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athaliah"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "e vranë"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "e mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:38.238164727Z",
+  "model": "glm-5.3"
+}

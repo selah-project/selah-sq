@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 127,
+  "translation": "Lum ⟨ai⟩ burri që mbushi ⟨את⟩ trastën e shigjetave të tij me ta; nuk do të turpërohen, sepse do të flasin ⟨את⟩ me armiqtë në portë.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lum"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "burri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mbushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trastën e shigjetave të tij"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "trastën e shigjetave të tij"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "do të turpërohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "do të flasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me armiqtë"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "armiqtë"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "në portë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:28.787059054Z",
+  "model": "glm-5.3"
+}

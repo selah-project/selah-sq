@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "I bekuar qoftë Jahve, Elohim i Izraelit, nga përjetësia e deri në përjetësi; dhe të gjithë populli të thotë: Amen. Halilu-Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "përjetësia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "përjetësi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe të thotë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halilu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.864640631Z",
+  "model": "glm-5.3"
+}

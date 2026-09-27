@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Në kullota me bar të njomë më shtrir për të pushuar; pranë ujërave të qetë më çon.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Në kullota"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "me bar të njomë"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "më shtrir për të pushuar"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ujërave"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "të qetë"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "më çon"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:34.949113002Z",
+  "model": "glm-5.3"
+}

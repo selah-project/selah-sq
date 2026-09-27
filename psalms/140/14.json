@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Vërtet të drejtët do të lëvdojnë emrin tënd; të ndershmit do të banojnë ⟨para⟩ ⟨את⟩ fytyrës sate.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "të drejtët"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "do të lëvdojnë"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "do të banojnë"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "të ndershmit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrës sate"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:43.124844607Z",
+  "model": "glm-5.3"
+}

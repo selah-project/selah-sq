@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 144,
+  "translation": "Jahve, çfarë ⟨është⟩ njeriu, që e njeh atë? Bir i të vdekshmit, që e llogarit atë?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "që e njeh atë"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "i të vdekshmit"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "që e llogarit atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.111070662Z",
+  "model": "glm-5.3"
+}

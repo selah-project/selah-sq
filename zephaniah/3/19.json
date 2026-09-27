@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ja, Unë do të bëj ⟨את⟩ të gjithë ngacmuesit e tu në atë kohë, dhe do të shpëtoj ⟨את⟩ të calmen, dhe të dëbuarën do ta mbledh, dhe do t'i bëj për lavdërim dhe për emër në gjithë tokën, në vend të turpit të tyre.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ja, Unë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë ngacmuesit e tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "ngacmuesit e tu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "dhe do të shpëtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të calmen"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "të calmen"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "dhe të dëbuarën"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "do ta mbledh"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "dhe do t'i bëj"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "për lavdërim"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "dhe për emër"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "turpin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:36.686714513Z",
+  "model": "glm-5.3"
+}

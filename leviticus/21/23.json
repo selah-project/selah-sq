@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Vetëm pas perdes të mos hyjë, dhe te altari të mos i afrohet, sepse një të metë ka ai; dhe të mos pëllaxojë ⟨את⟩ vendet e shenjta të mia, sepse unë jam Jahve që i shenjtëron ato.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hyjë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe te"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "i afrohet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מום",
+      "gloss": "një të metë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka ai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pëllaxojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendet e shenjta të mia"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "vendet e shenjta të mia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "i shenjtëron ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:08.910240531Z",
+  "model": "glm-5.3"
+}

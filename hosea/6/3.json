@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Le ta njohim, të ngulim ta njohim ⟨את⟩ Jahvenë; si agimi i sigurt është dalja e tij, dhe do të vijë si shi për ne, si shiu i vonë që lag ⟨të⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Le ta njohim"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "të ngulim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ta njohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "si agimi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "i sigurt"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "dalja e tij"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dhe do të vijë"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "si shi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "si shiu i vonë"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "që lag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "të tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:24.454353517Z",
+  "model": "glm-5.3"
+}

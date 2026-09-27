@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨ai⟩ tha: «Çfarë ke bërë? Zëri i gjakut të vëllait tënd bërtet tek unë nga toka.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ke bërë"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zëri"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "i gjakut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "të vëllait tënd"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "bërtet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tek unë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:51.006796743Z",
+  "model": "glm-5.3"
+}

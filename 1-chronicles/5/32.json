@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Uzi lindi ⟨את⟩ Zerahian; dhe Zerahia lindi ⟨את⟩ Merajotin.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Dhe Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahian"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerahian"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "dhe Zerahia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajotin"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajotin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:32.709283803Z",
+  "model": "glm-5.3"
+}

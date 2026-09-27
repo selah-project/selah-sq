@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Dhe do të jetojë, dhe do t'i jepet atij nga ari i Shebas; dhe do të luten për të vazhdimisht; gjithë ditën do ta bekojnë atë.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe do të jetojë"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe do të jepet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "i Shebas"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dhe do të luten"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "do ta bekojnë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:29.702560518Z",
+  "model": "glm-5.3"
+}

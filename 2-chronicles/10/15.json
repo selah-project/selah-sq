@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbreti nuk i dëgjoi ⟨את⟩ njerëzit, sepse rrethana ishte nga Elohim, që të ngrihej Jahve ⟨את⟩ fjalën e tij që kishte folur nëpërmjet Ahiahut të Shilos drejt Jeroboamit, birit të Nebatit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "rrethana"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ngrihej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën e tij"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiahu"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "të Shilos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "të Nebatit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:23.244063342Z",
+  "model": "glm-5.3"
+}

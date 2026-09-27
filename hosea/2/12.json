@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe tani do ta zbuloj ⟨את⟩ turpshmërinë e saj para syve të të dashuruarve të saj, dhe asnjeri nuk do ta shpëtojë atë nga dora ime.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "do ta zbuloj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turpshmërinë e saj"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "turpshmërinë e saj"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "para syve të"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "të dashuruarve të saj"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe asnjeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "do ta shpëtojë atë"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nga dora ime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:21.109995075Z",
+  "model": "glm-5.3"
+}

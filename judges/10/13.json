@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ju më braktisët ⟨את⟩ ⟨אותי⟩ dhe shërbeni perëndi të tjera; prandaj nuk do të shtoj më t'ju shpëtoj ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "braktisët"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "më"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "dhe shërbeni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "do të shtoj"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "t'ju shpëtoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T15:04:53.657355997Z",
+  "model": "glm-5.3"
+}

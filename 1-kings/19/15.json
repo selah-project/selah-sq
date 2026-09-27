@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Jahve i tha: Shko, kthehu në rrugën tëtone, drejt shkretëtirës së Damaskut; dhe kur të mbërrish atje, do të vajosësh ⟨את⟩ Hazaelin si mbret mbi Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "drejt tij"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kthehu"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "në rrugën tëtone"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "drejt shkretëtirës"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "të Damaskut"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dhe kur të mbërrish"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "do të vajosësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaelin"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaelin"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "si mbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:33.616330685Z",
+  "model": "glm-5.3"
+}

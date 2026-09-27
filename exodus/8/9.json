@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Jahve bëri sipas fjalës së Moisit, dhe bretkosat vdiqën nga ⟨shtëpitë⟩, nga oborret dhe nga fushat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës së"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dhe vdiqën"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bretkosat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "oborret"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "fushat"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:36.254100140Z",
+  "model": "glm-5.3"
+}

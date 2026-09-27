@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe ushtria e tij dhe të numëruarit e tyre: pesëdhjetë e tri mijë e katërqind.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dhe ushtria e tij"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dhe të numëruarit e tyre"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dhe pesëdhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dhe katër"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:45.224028680Z",
+  "model": "glm-5.3"
+}

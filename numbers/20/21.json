@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Edomi refuzoi t'i jepte ⟨את⟩ Israelit të kalonte nëpër kufirin e tij; dhe Izraeli shmangu nga mbi të.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "dhe refuzoi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "t'i jepte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "të kalonte"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "nëpër kufirin e tij"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dhe shmangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "nga mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:43.827844060Z",
+  "model": "glm-5.3"
+}

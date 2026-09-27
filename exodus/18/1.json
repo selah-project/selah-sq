@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jitro, prifti i Midianit, dhëndri i Moisit, dëgjoi ⟨את⟩ gjithë atë që Elohim kishte bërë për Moisin dhe për izraelitët, popullin e tij, sepse Jahve e nxori ⟨את⟩ Israelin nga Egjipti.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "i Midianit"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "dhëndri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë atë që Elohim kishte bërë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "për Moisin"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "dhe për izraelitët"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "e nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:23.390213097Z",
+  "model": "glm-5.3"
+}

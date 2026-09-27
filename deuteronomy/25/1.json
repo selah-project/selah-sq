@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Kur të ketë mosmarrëveshje mes njerëzve dhe të afrohen në gjyq, dhe t'i gjykojnë, ta shfajësojnë ⟨את⟩ të drejtin dhe ta dënojnë ⟨את⟩ të keqin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "të ketë"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mosmarrëveshje"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "njerëzve"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "dhe të afrohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "gjyq"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "dhe t'i gjykojnë"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ta shfajësojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtin"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "dhe ta dënojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të keqin"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "të keqin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:13.418080915Z",
+  "model": "glm-5.3"
+}

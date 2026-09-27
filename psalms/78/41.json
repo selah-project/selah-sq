@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe u kthyen përsëri dhe e tmundën ⟨את⟩ El-in, dhe Kryengjëtarit të Izraelit i vunë kufij.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dhe u kthyen përsëri"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dhe e tmundën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-in"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "dhe të Kryengjëtarit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "i vunë kufij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:45.460715862Z",
+  "model": "glm-5.3"
+}

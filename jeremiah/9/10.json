@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe do të bëj ⟨את⟩ Jerusalemin gërmadha, strehë çakejësh, dhe ⟨את⟩ qytetet e Judës do t'i shndërroj në shkretim të plotë, pa ⟨asnjë⟩ banor.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemin"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "gërmadha"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "strehë"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "çakejësh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qytetet e Judës"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do t'i shndërroj"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "në shkretim të plotë"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banor"
+    }
+  ],
+  "timestamp": "2026-09-27T16:10:08.964436091Z",
+  "model": "glm-5.3"
+}

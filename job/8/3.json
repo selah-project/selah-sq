@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "A do të shtrembërojë El ⟨gjykimin⟩? ose Shadai do të shtrembërojë drejtesinë?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "A ... El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "do të shtrembërojë"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjykimin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "do të shtrembërojë"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtesinë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:26.496866710Z",
+  "model": "glm-5.3"
+}

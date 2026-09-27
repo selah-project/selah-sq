@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Mos u gjet për atë kush të shtrijë hesed, dhe mos u gjet kush të tregojë hir jetimëve të tij.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "u gjet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për atë"
+    },
+    {
+      "surface": "משך",
+      "gloss": "të shtrijë"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "u gjet"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "tregojë hir"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "jetimëve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.993469033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Vetëm ⟨את⟩ arin dhe ⟨את⟩ argjendin, ⟨את⟩ bronzin, ⟨את⟩ hekurin, ⟨את⟩ kalajnë dhe ⟨את⟩ plumbin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "argjendin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bronzin"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekurin"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hekurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalajnë"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "kalajnë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "plumbin"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plumbin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:39:27.052076650Z",
+  "model": "glm-5.3"
+}

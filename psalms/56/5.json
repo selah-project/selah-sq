@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 56,
+  "translation": "Në Elohim do të lëvdoj fjalën e tij; në Elohim kam besuar — nuk do të frikësohem; çfarë mund të më bëjë mishi?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "do të lëvdoj"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam besuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "do të frikësohem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mund të bëjë"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:22.474764927Z",
+  "model": "glm-5.3"
+}

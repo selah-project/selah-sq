@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dridhuni dhe mos mëkoni; thoni në zemrën tuaj, mbi shtratin tuaj, dhe jini të qetë. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Dridhuni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mëkoni"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thoni"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "në zemrën tuaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "shtratin tuaj"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "dhe jini të qetë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:44.591061770Z",
+  "model": "glm-5.3"
+}

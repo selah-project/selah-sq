@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Pothuaj më shkatërruan mbi dhe; por unë nuk i braktisa kushtet e tua.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "pothuaj"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "më shkatërruan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mbi dhe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "i braktisa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "kushtet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:12.524234953Z",
+  "model": "glm-5.3"
+}

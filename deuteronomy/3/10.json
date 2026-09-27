@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "të gjitha qytetet e rrafshit, dhe të gjithë Galaadin, dhe të gjithë Bashanin deri në Salka dhe Edrei, qytetet e mbretërisë së Ogut në Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "e rrafshit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Galaadin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "dhe Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "e mbretërisë"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "të Ogut"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "në Bashan"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:16.992954171Z",
+  "model": "glm-5.3"
+}

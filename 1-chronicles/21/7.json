@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe kjo gjë qe e keqe në sytë e Elohibit, dhe ai goditi ⟨את⟩ Izraelin.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "qe e keqe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohibit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gjë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:51.959027976Z",
+  "model": "glm-5.3"
+}

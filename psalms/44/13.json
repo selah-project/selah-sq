@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Na shet ti popullin tënd pa ⟨asnjë⟩ fitim, dhe nuk ke përfituar asgjë nga çmimi i tyre.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "shet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "fitim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ke përfituar"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "nga çmimi i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:17.869606799Z",
+  "model": "glm-5.3"
+}

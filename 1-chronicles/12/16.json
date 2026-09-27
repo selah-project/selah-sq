@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Këta janë ata që kaluan ⟨את⟩ Jordanin në muajin e parë, kur ⟨ai⟩ mbushej mbi të gjitha brigjet e tij, dhe i dëbuan ⟨את⟩ të gjithë banorët e luginave, drejt lindjes dhe drejt perëndimit.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "janë ata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kaluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në muajin"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "të parë"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ⟨ai⟩"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "mbushej"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "brigjet e tij"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "dhe i dëbuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë banorët e luginave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "të luginave"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "drejt lindjes"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "dhe drejt perëndimit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:36:09.868947324Z",
+  "model": "glm-5.3"
+}

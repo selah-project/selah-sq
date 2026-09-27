@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe ⟨את⟩ rrobat e punuara me fije të ngjyrosura, dhe ⟨את⟩ rrobat e shenjta për Aaronin priftin, dhe ⟨את⟩ rrobat e bijve të tij për të shërbyer si priftërinj",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "robat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "robat"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "të punuara me fije të ngjyrosura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "robat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "robat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "për Aaronin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priftin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "robat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "robat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "të bijve të tij"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "për të shërbyer si priftërinj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:08.366600912Z",
+  "model": "glm-5.3"
+}

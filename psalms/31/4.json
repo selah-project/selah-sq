@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Sepse shkëmbi im dhe fortesa ime ⟨je⟩ ti; dhe për hir të emrit tënd më udhëheq dhe më përcjell.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "shkëmbi im"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dhe fortesa ime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dhe për hir të"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrit tënd"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "më udhëheq"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "dhe më përcjell"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:40.004061185Z",
+  "model": "glm-5.3"
+}

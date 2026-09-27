@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Mizmor i Davidit, për të kujtuar.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "për të kujtuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:46.947164722Z",
+  "model": "glm-5.3"
+}

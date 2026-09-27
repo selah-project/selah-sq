@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "O Fuqia ime, ty do të të ruaj, sepse Elohim ⟨është⟩ kala ime e lartë.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "O Fuqia ime"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "do të të ruaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kala ime e lartë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:38.896354417Z",
+  "model": "glm-5.3"
+}

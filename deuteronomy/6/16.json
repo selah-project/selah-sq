@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Mos e vini në provë ⟨את⟩ Jahve, Elohim-in tuaj, ashtu siç e provuat në Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "vini në provë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-in tuaj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "provuat"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "në Massah"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:32.879004992Z",
+  "model": "glm-5.3"
+}

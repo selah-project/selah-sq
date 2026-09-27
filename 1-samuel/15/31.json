@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Samueli u kthye pas Saulit, dhe Sauli u përul para Jahves.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe u përul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:51.913682122Z",
+  "model": "glm-5.3"
+}

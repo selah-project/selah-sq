@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Madhështi dhe shkëlqim ⟨është⟩ vepra e tij, dhe drejtësia e tij qëndron përjetë.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Madhështi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dhe shkëlqim"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "vepra e tij"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dhe drejtësia e tij"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.333575357Z",
+  "model": "glm-5.3"
+}

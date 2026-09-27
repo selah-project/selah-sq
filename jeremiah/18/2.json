@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Ço, dhe zbrit në shtëpinë e poçarit, dhe atje do të të bëj t'i dëgjosh ⟨את⟩ fjalët e mia.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ço"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "dhe zbrit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "e poçarit"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dhe atje"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "do të të bëj t'i dëgjosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e mia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:13:49.463927225Z",
+  "model": "glm-5.3"
+}

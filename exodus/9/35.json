@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe zemra e Faraonit u forcua, dhe nuk i la ⟨את⟩ bijtë e Israelit të shkonin, ashtu si kishte folur Jahve nëpërmjet dorës së Moisiut.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dhe u forcua"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i la të shkonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Israelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet dorës së"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:42.278787077Z",
+  "model": "glm-5.3"
+}

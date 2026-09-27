@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe kjo ⟨është⟩ Tora e minhës: ⟨את⟩ atë le ta ofrojnë bijtë e Aaronit para Jahves, drejt faqes së altarit.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Dhe kjo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "e minhës"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "le ta ofrojnë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (minhën)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqes"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "të altarit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:49.770089451Z",
+  "model": "glm-5.3"
+}

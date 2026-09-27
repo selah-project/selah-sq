@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dëgjo zërin e lutjeve të mia, kur të thërres ⟨tek ti⟩, kur ngre duart e mia drejt shtëpisë së brendshme të shenjtërisë sate.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "e lutjeve të mia"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "kur të thërres"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tek ti"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "kur ngre"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "duart e mia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "shtëpisë së brendshme"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "të shenjtërisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.230026676Z",
+  "model": "glm-5.3"
+}

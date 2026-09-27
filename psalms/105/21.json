@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "E bëri atë zotëri të shtëpisë së tij, dhe sundimtar mbi gjithë pasurinë e tij.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "e bëri"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "zotëri"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "të shtëpisë së tij"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dhe sundimtar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mbi gjithë"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "pasurinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:56.421931381Z",
+  "model": "glm-5.3"
+}

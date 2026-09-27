@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Në shenjtërinë e shenjtërive do ta hash ⟨את⟩ atë; çdo mashull do ta hajë ⟨את⟩ atë; i shenjtë do të jetë për ty.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "në shenjtërinë"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "e shenjtërive"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "do ta hash"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashull"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do ta hajë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (flijimin e shenjtë)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T14:34:51.828937849Z",
+  "model": "glm-5.3"
+}

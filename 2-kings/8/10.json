@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Eliseu i tha atij: Shko, thuaj: Do të shërohesh; por Jahve më ka treguar se ai do të vdesë me siguri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i atij"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Shko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨jo⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "⟨s’⟩ do të jetosh"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "do të shërohesh"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "por më ka treguar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me siguri do të vdesë"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:59.778034785Z",
+  "model": "glm-5.3"
+}

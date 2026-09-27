@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe nuk dinë të veprojnë drejt, thotë Jahve, ata që grumbullojnë dhunë dhe plaçkitje në kështjellat e tyre.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dinë"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "të veprojnë"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ata që grumbullojnë"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dhunë"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "dhe plaçkitje"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "në kështjellat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:41.965964506Z",
+  "model": "glm-5.3"
+}

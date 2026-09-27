@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe populli u përgjigj dhe tha: Larg qoftë nga ne të braktisim ⟨את⟩ Jahve për të shërbyer perëndi të tjera.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe u përgjigj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "larg qoftë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nga ne"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "të braktisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të shërbyer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:12.615378744Z",
+  "model": "glm-5.3"
+}

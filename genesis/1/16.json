@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe bëri Elohim ⟨את⟩ dy dritat e mëdha: ⟨את⟩ dritën e madhe për sundim të ditës, dhe ⟨את⟩ dritën e vogël për sundim të natës, dhe ⟨את⟩ yjet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dy dritat e mëdha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "dritat"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "e mëdha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dritën e madhe"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "për sundim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "të ditës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dritën e vogël"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "dritën"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "e vogël"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "për sundim"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "të natës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yjet"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yjet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:07.616361265Z",
+  "model": "glm-5.3"
+}

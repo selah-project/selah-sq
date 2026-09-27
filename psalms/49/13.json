@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Por njeriu në nder nuk qëndron; ngjashëm me kafshët ⟨Është⟩ — mbaruan.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Por njeriu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "në nder"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ngjashëm"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "me kafshët"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "mbaruan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:54.533677998Z",
+  "model": "glm-5.3"
+}

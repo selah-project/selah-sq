@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Kthehu, o Jahve — deri kur? — dhe ngushëllohu ndaj shërbëtorëve të tu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "dhe ngushëllohu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorëve të tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:22.766247825Z",
+  "model": "glm-5.3"
+}

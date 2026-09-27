@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe i shpëtoi nga dora e atij që i urrente, dhe i shpengoi nga dora e armikut.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Dhe i shpëtoi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "e atij që i urrente"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "dhe i shpengoi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "e armikut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.137679182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Sepse ti ⟨je⟩ shpresa ime, Adonai Jahve, streha ime që nga fëmijëria ime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "shpresa ime"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "që nga fëmijëria ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:41.886377649Z",
+  "model": "glm-5.3"
+}

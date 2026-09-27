@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe mori librin e besëlidhjes dhe e lexoi në veshët e popullit; dhe thanë: «Gjithçka që ka folur Jahve, do të bëjmë dhe do të dëgjojmë.»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "librin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "e besëlidhjes"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lexoi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "në veshët"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "do të bëjmë"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "do të dëgjojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:57.131132220Z",
+  "model": "glm-5.3"
+}

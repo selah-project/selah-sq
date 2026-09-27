@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Sepse kështu ka thënë Adonai Jahve: populli im zbriti në Egjipt në fillim, për të banuar atje si i huaj; dhe Ashuri e shtypi pa fund.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zbriti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "në fillim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "për të banuar si i huaj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "dhe Ashuri"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "pa fund"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "e shtypi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:13.159499626Z",
+  "model": "glm-5.3"
+}

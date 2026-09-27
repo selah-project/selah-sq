@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe mori populli i vendit ⟨את⟩ Jehoahazin, birin e Josias, dhe e bëri mbret në vend të të atit në Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "e Josias"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "dhe e bëri mbret"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "në vend të"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:35.763549757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Për dirigjentin. «Mos e shkatërro». Një psalm i Davidit, një miktam, kur ⟨ai⟩ iku nga fytyra e Saulit, në shpellë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«Mos"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "e shkatërro»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "një miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kur ⟨ai⟩ iku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga fytyra e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "në shpellë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:25.842133308Z",
+  "model": "glm-5.3"
+}

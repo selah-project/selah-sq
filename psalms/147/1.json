@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Lëvdoni ⟨⟩ Jah-un, sepse ⟨është⟩ e mirë të këndosh lavde për Elohin tonë, sepse ⟨është⟩ e këndshme, ⟨është⟩ e bukur një falënderim.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "të këndosh lavde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohin tonë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "e këndshme"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "e bukur"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "një falënderim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:22.343213957Z",
+  "model": "glm-5.3"
+}

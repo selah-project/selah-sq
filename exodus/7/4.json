@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe faraoni nuk do t'ju dëgjojë, dhe unë do ta vë ⟨את⟩ dorën time mbi Egjipt, dhe do të nxjerr ⟨את⟩ ushtritë e mia, ⟨את⟩ popullin tim, bijtë e Izraelit, nga vendi i Egjiptit, me gjykime të mëdha.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "do të dëgjojë"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraoni"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do ta vë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën time"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dorën time"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mbi Egjipt"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "dhe do të nxjerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushtritë e mia"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ushtritë e mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "me gjykime"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "të mëdha"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:03.640604883Z",
+  "model": "glm-5.3"
+}

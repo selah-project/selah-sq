@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe mbreti ktheu ⟨את⟩ fytyrën e tij dhe bekoi ⟨את⟩ të gjithë asamblenë e Izraelit; dhe e gjithë asambleja e Izraelit qëndronte në këmbë.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dhe ktheu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën e tij"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë asamblenë e Izraelit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asamblenë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe e gjithë"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asambleja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "qëndronte në këmbë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:08:48.048032135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe Faraoni i tha Jozefit: «Ëndërr ëndërrrova, dhe nuk ka kush ta interpretojë ⟨atë⟩; dhe unë kam dëgjuar për ty, duke thënë: ti dëgjon një ëndërr dhe e interpreton ⟨atë⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ëndërr"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ëndërrrova"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "dhe interpretues"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ëndrrën)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kam dëgjuar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ti dëgjon"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "një ëndërr"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "dhe e interpreton"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ëndrrën)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:49.882586335Z",
+  "model": "glm-5.3"
+}

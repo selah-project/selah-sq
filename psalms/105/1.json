@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Falënderoni Jahve, thirrni në emrin e tij; bëjeni të njohur midis popujve veprat e tij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falënderojani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "thirrni"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "në emrin e tij"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "bëjeni të njohur"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "midis popujve"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "veprat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:23.092948437Z",
+  "model": "glm-5.3"
+}

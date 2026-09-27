@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe Faraoni tha: Ja, tani populli i vendit ⟨është⟩ i shumtë, dhe ju i bëni ⟨ata⟩ ⟨את⟩ të pushojnë nga barrat e tyre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "i shumtë"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "dhe ju i bëni të pushojnë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "të pushojnë (ata)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "nga barrat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:49.485545268Z",
+  "model": "glm-5.3"
+}

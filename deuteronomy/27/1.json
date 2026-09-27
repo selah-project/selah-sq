@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe Moisi dhe pleqtë e Izraelit urdhëruan ⟨את⟩ popullin, duke thënë: Ruaj ⟨את⟩ gjithë urdhërimin që unë po ju urdhëroj ⟨את⟩ ⟨ju⟩ sot.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dhe pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë urdhërimin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "urdhërimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "po ju urdhëroj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ju⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:43.936447994Z",
+  "model": "glm-5.3"
+}

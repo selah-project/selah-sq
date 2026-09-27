@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe unë i kam mësuar, u përforsova krahët e tyre, dhe kundër meje ata thurrin të keqe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "i kam mësuar"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "u përforsova"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "krahët e tyre"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "dhe kundër meje"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "thurrin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:25.996831551Z",
+  "model": "glm-5.3"
+}

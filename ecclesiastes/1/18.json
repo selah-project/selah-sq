@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Sepse në shumicën e urtësisë ⟨është⟩ shumicë e zemërimit, dhe kush shton njohurinë shton dhembjen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "në shumicën e"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësisë"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumicë"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "e zemërimit"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "dhe kush shton"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "njohurinë"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "shton",
+      "note": ""
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "dhembjen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:36.087388396Z",
+  "model": "glm-5.3"
+}

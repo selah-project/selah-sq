@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Mos bëni ⟨את⟩ me mua perëndi të argjendit, as perëndi të arit mos bëni për vete.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua",
+      "marks": "perëndi të argjendit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "të argjendit"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "as perëndi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "të arit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bëni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për vete"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:36.415251865Z",
+  "model": "glm-5.3"
+}

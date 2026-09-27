@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Jahve, e kam dashur banimin e shtëpisë sate dhe vendin e Mishkanit të lavdisë sate.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "e kam dashur"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "banimin e"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "shtëpisë sate"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "dhe vendin e"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkanit"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "të lavdisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:27.887650209Z",
+  "model": "glm-5.3"
+}

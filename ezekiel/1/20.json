@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atje ku donte të shkonte Fryma, atje shkonin; Fryma donte të shkonte atje, dhe rrotat ngriheshin krahë për krah me ta, sepse Fryma e krijesës së gjallë ishte në rrota.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atje ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "donte të ishte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të shkonte"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "shkonin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të shkonte"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "dhe rrotat"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "ngriheshin"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "krahas me ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Fryma"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "e krijesës së gjallë"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "në rrota"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:16.003368752Z",
+  "model": "glm-5.3"
+}

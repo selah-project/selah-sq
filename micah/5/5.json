@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do të shkatërrojnë ⟨את⟩ tokën e Ashurit me shpatë dhe ⟨את⟩ tokën e Nimrodit në portat e saj; dhe do të na shpëtojë nga Ashuri kur të vijë në tokën tonë dhe kur të shkelë në kufirin tonë.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "dhe do të shkatërrojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Ashurit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "e Ashurit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën e Nimrodit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "e Nimrodit"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "në portat e saj"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "dhe do të na shpëtojë"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "nga Ashuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "të vijë"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "në tokën tonë"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dhe kur"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "të shkelë"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "në kufirin tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:38.593524344Z",
+  "model": "glm-5.3"
+}

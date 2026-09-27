@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 60,
+  "translation": "Elohim foli në shenjtërinë e tij: «Do të gëzohem, do të ndaj Sikemin dhe do të mat luginën e Sukotit.»",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "në shenjtërinë e tij"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Do të gëzohem"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "do të ndaj"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikemin"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "dhe luginën"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "e Sukotit"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "do të mat"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:10.039196233Z",
+  "model": "glm-5.3"
+}

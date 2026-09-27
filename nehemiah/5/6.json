@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dëshpërim i madur më zuri kur dëgjova ⟨את⟩ britmën e tyre dhe ⟨את⟩ këto fjalë.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "më zuri zemërimi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "britmën e tyre"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "britmën e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këto fjalë"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    }
+  ],
+  "timestamp": "2026-09-27T17:56:44.977182856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 2:41",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe iu njoftua Salomonit se Shimei kishte shkuar nga Jeruzalemi në Gat ⟨dhe⟩ ishte kthyer.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "iu njoftua"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomonit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kishte shkuar"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "nga Jeruzalemi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "në Gat"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe ishte kthyer"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:56.843984046Z",
+  "model": "glm-5.3"
+}

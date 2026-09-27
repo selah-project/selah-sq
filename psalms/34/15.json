@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Largohu nga e keqja dhe bëj të mirën; kërko paqen dhe ndjeki atë.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "largohu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nga e keqja"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "kërko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "dhe ndjeki atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:26.214463934Z",
+  "model": "glm-5.3"
+}

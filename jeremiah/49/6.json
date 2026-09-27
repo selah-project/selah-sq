@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Dhe pas kësaj do ta kthej ⟨את⟩ robërinë e bijve të Amonit, thotë Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Dhe pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "do ta kthej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robërinë"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robërinë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "e bijve"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "të Amonit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:23:02.754706026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe tërë Izraeli u regjistrua sipas gjenealogjive, dhe ja, ata janë shkruar në librin e mbretërve të Izraelit dhe të Judës; dhe Judëa u dëbua në Babiloni për shkak të pabesisë së tyre.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe tërë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "u regjistruan sipas gjenealogjive"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "janë shkruar"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "librin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "e mbretërve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe të Judës"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "u dëbuan"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "në Babiloni"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "për shkak të pabesisë së tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:33.073047509Z",
+  "model": "glm-5.3"
+}

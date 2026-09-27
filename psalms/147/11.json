@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Jahve është i kënaqur me ⟨את⟩ të devotshmit e tij, me ⟨את⟩ ata që shpresojnë në hesed-in e tij.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "është i kënaqur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të devotshmit e tij"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "të devotshmit e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ata që shpresojnë"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ata që shpresojnë"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "në hesed-in e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:53.379271833Z",
+  "model": "glm-5.3"
+}

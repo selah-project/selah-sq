@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do të shikojë drejt ⟨tokës⟩, dhe ja, ngushticë dhe errësi, errësim i ankthit, dhe terr i dëbuar.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe drejt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "do të shikojë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ngushticë"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "dhe errësi"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "errësim"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "i ankthit"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "dhe terr"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "i dëbuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:47.027335061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Edhe pak, dhe i pabesi nuk ⟨është⟩ më; do të shikosh vendin e tij, dhe ai nuk ⟨është⟩ atje.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe … nuk është më"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "do të shikosh me vëmendje"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "vendin e tij"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dhe ai nuk është atje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:39.048871839Z",
+  "model": "glm-5.3"
+}

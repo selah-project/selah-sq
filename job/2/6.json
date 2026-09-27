@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve i tha Satanut: Ja, ⟨ai është⟩ në dorën tënde; vetëm shpirtin e tij ⟨את⟩ ruaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satanit"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "në dorën tënde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpirtin e tij"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirtin e tij"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:06.727081154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Samueli i tha gatuesit: Jep ⟨את⟩ pjesën që të dhashë ty, për të cilën të thashë ty: Vure ⟨את⟩ atë pranë teje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "gatuesit"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "jep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjesën"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "pjesën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "të dhashë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "për të cilën"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "të thashë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שים",
+      "gloss": "vure"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë pranë teje"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pranë teje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:20.528909627Z",
+  "model": "glm-5.3"
+}

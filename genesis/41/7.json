@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe kallinjtë e hollë i përpinin ⟨את⟩ shtatë kallinjtë e majmë dhe të plotë; dhe Faraoni u zgjua, dhe ja, ⟨ishte⟩ një ëndërr.",
+  "tokens": [
+    {
+      "surface": "ויתבלענה",
+      "gloss": "dhe i përpinin"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kallinjtë"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "të hollë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë kallinjtë e majmë dhe të plotë"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kallinjtë"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "të majmë"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "dhe të plotë"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "dhe u zgjua"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ëndërr"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:28.492065283Z",
+  "model": "glm-5.3"
+}

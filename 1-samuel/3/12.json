@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atë ditë do të ngjiz kundër Eliut ⟨את⟩ gjithçka që kam folur për shtëpinë e tij; duke filluar dhe duke përfunduar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "do të ngjiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka që kam folur për shtëpinë e tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kam folur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "החל",
+      "gloss": "duke filluar"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dhe duke përfunduar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:23.795509238Z",
+  "model": "glm-5.3"
+}

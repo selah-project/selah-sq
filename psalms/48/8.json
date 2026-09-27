@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Me një erë lindje Ti i thyen anijet e Tarshish-it.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Me një erë"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "lindje"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "i thyen"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "anijet"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish-it"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:45.465002839Z",
+  "model": "glm-5.3"
+}

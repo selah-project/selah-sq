@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe nga Hushimi lindi ⟨את⟩ Avitubin dhe ⟨את⟩ Elpaalin.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "dhe nga Hushimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avitubin"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avitubin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Elpaalin"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:07.217395554Z",
+  "model": "glm-5.3"
+}

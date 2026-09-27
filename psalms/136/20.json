@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "dhe Og, mbretin e Bashanit, sepse për gjithëçe hesedi i tij zgjatet.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "dhe Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "të Bashanit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për gjithëçe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:48.300553252Z",
+  "model": "glm-5.3"
+}

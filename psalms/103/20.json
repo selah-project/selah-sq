@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Bekojeni Jahvenë, o engjëjt e tij, të fuqishmit në forcë, zbatojnë fjalën e tij, duke dëgjuar zërin e fjalës së tij.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bekojeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "o engjëjt e tij"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "të fuqishmit"
+    },
+    {
+      "surface": "כח",
+      "gloss": "në forcë"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "që zbatojnë"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "për të dëgjuar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.682758784Z",
+  "model": "glm-5.3"
+}

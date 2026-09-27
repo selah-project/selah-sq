@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "A nuk do ta hetonte këtë Elohim? Sepse ai njeh ⟨fshehtësitë⟩ e zemrës.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A nuk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "do ta hetonte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "njeh"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "fshehtësitë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "e zemrës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:23.884023292Z",
+  "model": "glm-5.3"
+}

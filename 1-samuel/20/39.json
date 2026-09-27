@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe djaloshi nuk dinte asgjë; vetëm Jonatan dhe Davidi e dinin ⟨את⟩ punën.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Dhe djaloshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "asgjë"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dhe Davidi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "e dinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:13.624191089Z",
+  "model": "glm-5.3"
+}

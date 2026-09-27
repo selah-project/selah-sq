@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Edhe Elnatani, Delajahu dhe Gemariahu iu lutën mbretit të mos digjte ⟨את⟩ rrotullën, por ai nuk i dëgjoi ata.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatani"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "dhe Delajahu"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "dhe Gemariahu"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "iu lutën"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "digjte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrotullën"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rrotullën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:19:57.538618693Z",
+  "model": "glm-5.3"
+}

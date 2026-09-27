@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Faraoni tha: \"Unë do t'ju lëshoj ⟨את⟩ ⟨ju⟩ të flijoni për Jahve, Elohimin tuaj, në shkretëtirë; vetëm mos u largoni shumë për të shkuar; lutuni për mua.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "do të lëshoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ju⟩",
+      "marks": "ju (kundrinori i lëshimit)"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "dhe do të flijoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimin tuaj"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "larg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "u largoni shumë"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "për të shkuar"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "lutuni"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:30.621982596Z",
+  "model": "glm-5.3"
+}

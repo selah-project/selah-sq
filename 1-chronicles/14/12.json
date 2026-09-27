@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ata i lanë ⟨את⟩ atje perënditë e tyre, dhe Davidi urdhëroi, dhe u dogjën në zjarr.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "dhe i lanë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perënditë e tyre"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "perënditë e tyre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "dhe u dogjën"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    }
+  ],
+  "timestamp": "2026-09-27T18:03:29.060906899Z",
+  "model": "glm-5.3"
+}

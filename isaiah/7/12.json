@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Ahazi tha: Nuk do të kërkoj dhe nuk do të provoj ⟨את⟩ Jahvenë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "do të kërkoj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "do të provoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:29.535317746Z",
+  "model": "glm-5.3"
+}

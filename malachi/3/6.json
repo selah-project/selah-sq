@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Sepse unë ⟨jam⟩ Jahve, nuk kam ndryshuar; dhe ju, bijtë e Jakobit, nuk jeni shuar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "kam ndryshuar"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "jeni shuar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:48.286911255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Faqja jote të shkëlqejë mbi shërbëtorin tënd, dhe mësoji ⟨את⟩ statutet e tua.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "faqja jote"
+    },
+    {
+      "surface": "האר",
+      "gloss": "të shkëlqejë"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "mbi shërbëtorin tënd"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "dhe mësoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e tua"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:05.477300414Z",
+  "model": "glm-5.3"
+}

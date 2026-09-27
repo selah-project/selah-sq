@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Në veshët e mia tha Jahve Tsevaot: Sigurisht, shtëpi të shumta do të bëhen shkretim, të mëdha e të bukura, pa banor.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "në veshët e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sigurisht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "<pjesë e betimit>"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "shkretim"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të bëhen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "të mëdha"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "e të bukura"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banor"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:54.485075215Z",
+  "model": "glm-5.3"
+}

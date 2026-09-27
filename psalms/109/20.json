@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Kjo ⟨është⟩ paga e paditësve të mi nga ⟨את⟩ Jahve, dhe e atyre që flasin keq kundër shpirtit tim.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "paga"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "e paditësve të mi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve — nga ana e Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "dhe e atyre që flasin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "keq"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:24.170091721Z",
+  "model": "glm-5.3"
+}

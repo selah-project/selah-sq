@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Gjuha ime do të këndojë ⟨në⟩ fjalën tënde, sepse të gjitha urdhërimet e tua janë ⟨⟩ drejtësi.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "do të këndojë"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuha ime"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "fjalën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "urdhërimet e tua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:31.576967433Z",
+  "model": "glm-5.3"
+}

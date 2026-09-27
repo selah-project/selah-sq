@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Lum ⟨i⟩ njeriu që e ndëshkon ti, o Jah, dhe që nga Tora jote e mëson ⟨atë⟩!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lum"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "e ndëshkon ti"
+    },
+    {
+      "surface": "יה",
+      "gloss": "o Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "dhe nga Tora jote"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "e mëson"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:16.270309643Z",
+  "model": "glm-5.3"
+}

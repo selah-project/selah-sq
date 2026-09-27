@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 9:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe djali shtoi përgjigjen përpara ⟨את⟩ Shaulit dhe tha: «Ja, gjendet në dorën time një çerek shekeli argjendi, dhe do t'ia jap njeriut të Elohim-it, dhe ai do të na tregojë ⟨את⟩ rrugën tonë.»",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dhe shtoi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djali"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "përgjigjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "në dorën time"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "një çerek"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do t'ia jap"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Elohim-it"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "dhe do të tregojë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën tonë"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "rrugën tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:04.807523365Z",
+  "model": "glm-5.3"
+}

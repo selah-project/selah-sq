@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai therroi ⟨את⟩ flijimin e djegur, dhe bijtë e Aaronit i afruan atij ⟨את⟩ gjakun, dhe ai e spërkati mbi altar rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "dhe therroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dhe i afruan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "dhe e spërkati"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:25.688236786Z",
+  "model": "glm-5.3"
+}

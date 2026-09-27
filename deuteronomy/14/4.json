@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Kjo ⟨është⟩ kafsha që do të hani: demi, një qengj nga deltat dhe një kec nga dhitë.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kjo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafsha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "שור",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שה",
+      "gloss": "një (nga tufa)"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "qengj nga deltat"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "dhe një (nga tufa)"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kec nga dhitë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:11.373032854Z",
+  "model": "glm-5.3"
+}

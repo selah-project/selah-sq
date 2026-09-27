@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 93,
+  "translation": "Dëshmitë e tua janë të sigurta shumë; shtëpisë sate i shkon ⟨qenia⟩ e shenjtë, o Jahve, për gjatë ditësh.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Dëshmitë e tua"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "janë të sigurta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "shtëpisë sate"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "i shkon ⟨qenia⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "për gjatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditësh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:00.991719733Z",
+  "model": "glm-5.3"
+}

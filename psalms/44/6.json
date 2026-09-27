@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Përmes teje i shpojmë armiqtë tanë; përmes emrit tënd i shkelim këmbë ata që ngrihen kundër nesh.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "përmes teje"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "armiqtë tanë"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "i shpojmë"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "përmes emrit tënd"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "i shkelim këmbë"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ata që ngrihen kundër nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:08.055948592Z",
+  "model": "glm-5.3"
+}

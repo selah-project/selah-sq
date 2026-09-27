@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Toka dha frytin e vet; bekoftë neve Elohim, Elohim i ynë.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Toka"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dha"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "frytin e vet"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "bekoftë neve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.563205227Z",
+  "model": "glm-5.3"
+}

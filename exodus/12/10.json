@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe mos lini gjë prej tij deri në mëngjes; atë që mbet prej tij deri në mëngjes, në zjarr do ta djegni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dhe mos"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "lini"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gjë prej tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "dhe atë që mbet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "do ta djegni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:39.680668504Z",
+  "model": "glm-5.3"
+}

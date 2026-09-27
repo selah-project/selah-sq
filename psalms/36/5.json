@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Paudhësi e mendon ⟨në⟩ shtratin e tij; qëndron në një rrugë që nuk ⟨është⟩ e mirë; të keqen nuk e përzë.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "paudhësi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "e mendon"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "shtratin e tij"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e mirë"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "e përzë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:33.617936579Z",
+  "model": "glm-5.3"
+}

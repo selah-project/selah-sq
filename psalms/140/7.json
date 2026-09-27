@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "I thashë Jahves: Ti ⟨je⟩ El-i im; dëgjo, o Jahve, zërin e lutjeve të mia.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "i thashë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-i im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin e"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lutjeve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:13.114809431Z",
+  "model": "glm-5.3"
+}

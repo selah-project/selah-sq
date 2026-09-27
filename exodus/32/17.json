@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe Jozue dëgjoi ⟨את⟩ zërin e popullit në britjen e tij, dhe i tha Moisit: ⟨Është⟩ zë lufte në kamp!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "në britjen e tij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zë"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lufte"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "në kamp"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:22.633804278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Por ti ⟨je⟩ i lartë përjetësisht, o Jahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "i lartë"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "përjetësisht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.398115949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Shoqëria e të gjithëve që të frikësohen ty jam, dhe të atyre që ruajnë urdhërimet e tua.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "shoqëria e"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "të frikësohen ty"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "dhe të atyre që ruajnë"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "urdhërimet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:35.370519247Z",
+  "model": "glm-5.3"
+}

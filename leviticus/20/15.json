@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një burrë që jep shtrirjen e tij me një kafshë — me vdekje do të vdesë, dhe ⟨את⟩ kafshën do ta vrisni ju.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një burrë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "shtrirjen e tij"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "me një kafshë"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kafshën"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshën"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "do ta vrisni ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:47.103436375Z",
+  "model": "glm-5.3"
+}

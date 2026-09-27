@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të shpenzohet ⟨is⟩ kot forca juaj, dhe toka juaj nuk do ta japë ⟨את⟩ prodhimin e vet, dhe drurët e tokës nuk do të japin frytin e tyre.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "dhe do të shpenzohet"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "kot"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "forca juaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "do ta japë"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "toka juaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prodhimin e vet"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "prodhimin e vet"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dhe drurët"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "e tokës"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "do të japin"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "frytin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:00.313734242Z",
+  "model": "glm-5.3"
+}

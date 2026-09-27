@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Bërjet fëmijët e tij jetimë, dhe gruaja e tij e ve.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bërjet"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fëmijët e tij"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "jetimë"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dhe gruaja e tij"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "e ve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.992981780Z",
+  "model": "glm-5.3"
+}

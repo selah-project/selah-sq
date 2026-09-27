@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Do t'i kërkosh dhe nuk do t'i gjesh — njerëzit e grindjes sate; do të jenë si asgjë dhe si hiç njerëzit e luftës sate.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Do t'i kërkosh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "do t'i gjesh"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "grindjes sate"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "si asgjë"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "dhe si hiç"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit e"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "luftës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:08.103319740Z",
+  "model": "glm-5.3"
+}

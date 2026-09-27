@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Thyej krahun e të pabesit dhe të të ligë; kërko të ligën e tij — nuk do të gjesh më.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "thyej"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "krahun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të pabesit"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "dhe të të ligë"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "kërko"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "të ligën e tij"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk… më"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "do të gjesh"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.352395311Z",
+  "model": "glm-5.3"
+}

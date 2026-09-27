@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Kemi ardhur të jemi turp për fqinjët tanë, përqeshje dhe tallje për ata që janë rreth nesh.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Kemi ardhur të jemi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "për fqinjët tanë"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "përqeshje"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "dhe tallje"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "për ata që janë rreth nesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:44.465012815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jonatani tha Davidit: «Eja, të dalim ⟨në⟩ fushë.» Dhe dolën të dy ⟨në⟩ fushë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eja"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "të dalim"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fushë"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe dolën"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fushë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:23.272762872Z",
+  "model": "glm-5.3"
+}

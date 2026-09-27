@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "E plaçkitën atë të gjithë kalimtarët e rrugës; ⟨u bë⟩ turp për fqinjët e tij.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "e plaçkitën atë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kalimtarët"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "e rrugës"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨u bë⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "për fqinjët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:16.625537146Z",
+  "model": "glm-5.3"
+}

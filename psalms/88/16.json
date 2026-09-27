@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "I shtypur jam unë dhe duke vdeshur nga rinia; përvula tmerret e tua — jam i hutuar.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "i shtypur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "dhe duke vdeshur"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "nga rinia"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "përvula"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tmerret e tua"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "jam i hutuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.299198515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ato u përgjigjën ⟨את⟩ atyre dhe thanë: «Ka; ja, është para teje! Shpejto tani, sepse sot erdhi në qytet, sepse flijim ka sot për popullin në bamah (vendin e lartë).»",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Dhe u përgjigjën"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ atyre",
+      "marks": "u përgjigjën atyre (Saulit dhe djalit të tij)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Shpejto"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "në qytet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "për popullin"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "në bamah"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:08.370329869Z",
+  "model": "glm-5.3"
+}

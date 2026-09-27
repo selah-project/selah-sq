@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe shkroi aty mbi gurë ⟨את⟩ kopjen e dyfishuar të Torës së Moisiut, të cilën e kishte shkruar përpara bijve të Israelit.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Dhe shkroi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopjen e dyfishuar të Torës"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopjen e dyfishuar"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "e Torës"
+    },
+    {
+      "surface": "משה",
+      "gloss": "të Moisiut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "e kishte shkruar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:57:09.495291080Z",
+  "model": "glm-5.3"
+}

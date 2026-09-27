@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Samueli ⟨nuk e⟩ njihte ⟨ende⟩ ⟨את⟩ Jahven, dhe ⟨ende⟩ nuk i ishte zbuluar fjala e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "dhe Samueli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ende (nuk)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "njihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "dhe ende"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ishte zbuluar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "për të"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:24.963604042Z",
+  "model": "glm-5.3"
+}

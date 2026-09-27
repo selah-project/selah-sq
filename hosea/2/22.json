@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do të të fejoj për vete në besnikëri; dhe do të njohësh ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "dhe do të të fejoj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "në besnikëri"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "dhe do të njohësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:06.800223114Z",
+  "model": "glm-5.3"
+}

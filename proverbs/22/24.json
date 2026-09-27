@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Mos miqësohu me ⟨את⟩ njeriun e zemëruar dhe me ⟨את⟩ njeriun e tërbuar mos u përziej.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "mos miqësohu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun e zemëruar"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "zotërinë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "të zemërimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe me ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "e tërbuar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mos u përziej"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:11.588757191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse ëndrra vjen nga shumë punë, dhe zëri i të pamendit nga shumë fjalë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ëndrra"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nga shumë"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "punë"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dhe zëri i"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "të pamendit"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nga shumë"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "fjalë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:45.501099691Z",
+  "model": "glm-5.3"
+}

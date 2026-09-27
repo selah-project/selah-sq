@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Më çliro nga punëtorët e kotësisë së keqe, dhe nga njerëzit e gjakut më shpëto.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Më çliro"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "nga punëtorët e"
+    },
+    {
+      "surface": "און",
+      "gloss": "kotësisë së keqe"
+    },
+    {
+      "surface": "וימאנשי",
+      "gloss": "dhe nga njerëzit e",
+      "surface_alt": "ומאנשי"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "gjakut"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "më shpëto"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:40.523241088Z",
+  "model": "glm-5.3"
+}

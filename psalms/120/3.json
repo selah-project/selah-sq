@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 120,
+  "translation": "Çfarë do të të japë ⟨ai⟩, dhe çfarë do të të shtojë ty, o gjuhë dredharake?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "ייתן",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "do të shtojë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "gjuhë"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "dredharake"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:49.873024916Z",
+  "model": "glm-5.3"
+}

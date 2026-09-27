@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ktheoi ⟨את⟩ tërë pasurinë, dhe gjithashtu ⟨את⟩ Lotin, vëllanë e tij, dhe pasurinë e tij e ktheoi, dhe gjithashtu ⟨את⟩ gratë dhe ⟨את⟩ popullin.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe ktheoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë pasurinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "pasurinë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllanë e tij"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "dhe pasurinë e tij"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "e ktheoi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gratë"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "gratë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:47.942846443Z",
+  "model": "glm-5.3"
+}

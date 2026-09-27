@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe Izraeli nis udhëtimin dhe e shtrin çadrën e tij përtej kullës së Edarit ⟨Migdal-Ederit⟩.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nis udhëtimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e shtrin çadrën"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "çadrën e tij"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "përtej"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "kullës së"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Edarit (Migdal-Ederit)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:19.988906669Z",
+  "model": "glm-5.3"
+}

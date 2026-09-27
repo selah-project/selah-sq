@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe ⟨את⟩ një dash do të marrësh, dhe Aroni dhe bijtë e tij do të mbështesin ⟨את⟩ duart e tyre mbi krye të dashit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "një dash"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "një (i pari)"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "do të marrësh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dhe do të mbështesin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "krye"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "të dashit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:09.859392701Z",
+  "model": "glm-5.3"
+}

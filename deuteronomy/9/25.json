@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe rash përmbys përballë Jahvesë ⟨את⟩ dyzetë ditët dhe ⟨את⟩ dyzetë netët që rash përmbys, sepse kishte thënë Jahve t'i shkatërronte ⟨את⟩ ju.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "dhe rash përmbys"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyzetë ditët"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzetë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "dyzetë netët"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzetë"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "netët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "rash përmbys"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kishte thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "t'i shkatërronte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:49.934860357Z",
+  "model": "glm-5.3"
+}

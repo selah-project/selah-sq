@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Kështu u ktheva mbrapsht: pata në mendim në këto ditë t'u bëj mirë Jerusalemit ⟨את⟩ dhe shtëpisë së Judës ⟨את⟩; mos u frikësoni.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "u ktheva mbrapsht"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "pata në mendim"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "t'u bëj mirë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpisë së Judës"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "të Judës"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "u frikësoni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:29.850511219Z",
+  "model": "glm-5.3"
+}

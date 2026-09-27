@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Në fillim krijoi Elohim ⟨את⟩ qiejt dhe ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Në fillim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "krijoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:19.878363043Z",
+  "model": "glm-5.3"
+}

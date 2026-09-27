@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 96,
+  "translation": "Le të gëzohen qiejt dhe le të ngazëllohë ⟨token> Toka; le të vërshëllijë deti dhe gjithë plotësia e tij.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Le të gëzohen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "dhe le të ngazëllohë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨token> Toka"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "le të vërshëllijë"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe gjithë plotësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:25.416420018Z",
+  "model": "glm-5.3"
+}

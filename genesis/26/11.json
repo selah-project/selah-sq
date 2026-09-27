@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Avimeleku urdhëroi ⟨את⟩ krejt popullin, duke thënë: «Kush e prek këtë njeri ose gruan e tij, do të vdesë me vdekje.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krejt popullin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kush e prek"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "këtë njeri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ose gruan e tij"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:59.518346089Z",
+  "model": "glm-5.3"
+}

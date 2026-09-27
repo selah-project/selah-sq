@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Sepse i varfër dhe i nevojshëm jam unë, dhe zemra ime ⟨është⟩ e plagosur brenda meje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i varfër"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dhe i nevojshëm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jam unë"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dhe zemra ime"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "e plagosur"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "brenda meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:04.773310061Z",
+  "model": "glm-5.3"
+}

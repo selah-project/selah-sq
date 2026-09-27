@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Prandaj do të të lavdëroj midis kombeve, o Jahve, dhe emrit tënd do t'i këndoj.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Prandaj (mbi këtë)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pra"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "do të të lavdëroj"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "midis kombeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "dhe emrit tënd"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do t'i këndoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:44.510488723Z",
+  "model": "glm-5.3"
+}

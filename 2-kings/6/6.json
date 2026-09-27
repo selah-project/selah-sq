@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe njeriu i Elohit tha: «Ku ra?» Dhe ai i tregoi atij ⟨את⟩ vendin; dhe ai preu një dru, e hodhi atje, dhe e bëri hekurin të notojë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "i Elohit"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "dhe i tregoi atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "dhe preu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "një dru"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "e hodhi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "e bëri të notojë"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hekurin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:14.823418783Z",
+  "model": "glm-5.3"
+}

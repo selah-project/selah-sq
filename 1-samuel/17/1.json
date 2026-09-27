@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filistët i mblodhën ⟨את⟩ kampet e tyre për luftë, dhe u mblodhën në Sokoh, që i takon Judës, dhe e ngritën kampin midis Sokohut dhe Azekahut, në Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "i mblodhën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampet e tyre"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampet e tyre"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "u mblodhën"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "i takon Judës"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e ngritën kampin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokohut"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekahut"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "në Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:39.653257128Z",
+  "model": "glm-5.3"
+}

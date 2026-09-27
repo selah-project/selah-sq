@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u tha atyre: Hebrenj ⟨jam⟩ unë, dhe ⟨את⟩ Jahve, Elohim të qiejve, unë e frikësoj, i cili bëri ⟨את⟩ detin dhe ⟨את⟩ tokën e thatë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrenj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "e frikësoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën e thatë"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tokën e thatë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:11.514165772Z",
+  "model": "glm-5.3"
+}

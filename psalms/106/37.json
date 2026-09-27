@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe flijuan ⟨את⟩ bijtë e tyre dhe ⟨את⟩ bijat e tyre demonëve,",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "dhe flijuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tyre"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bijtë e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijat e tyre"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bijat e tyre"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "demonëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:10.581641885Z",
+  "model": "glm-5.3"
+}

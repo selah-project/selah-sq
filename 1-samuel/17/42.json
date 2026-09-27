@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filisteja vështroi dhe e pa ⟨את⟩ Davidin dhe e përbuzi atë, sepse ⟨ishte⟩ i ri dhe me faqe të kuqe, dhe i bukur në pamje.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "dhe vështroi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteja"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "dhe e pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "dhe e përbuzi atë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ishte⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "i ri"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "dhe me faqe të kuqe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "i bukur"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "në pamje"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:03.614350248Z",
+  "model": "glm-5.3"
+}

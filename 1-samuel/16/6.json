@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe kur erdhën, ai pa ⟨את⟩ Eliabin dhe tha: Vërtet, i vajosuri i Jahves është para tij.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kur erdhën"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ai pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabin"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "i vajosuri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:42.968179037Z",
+  "model": "glm-5.3"
+}

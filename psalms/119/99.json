@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Më shumë se të gjithë mësuesit e mi kam fituar të kuptuar, sepse dëshmitë e tua ⟨janë⟩ meditim për mua.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "më shumë se të gjithë"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mësuesit e mi"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "kam fituar të kuptuar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dëshmitë e tua"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "meditim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:59.011626846Z",
+  "model": "glm-5.3"
+}

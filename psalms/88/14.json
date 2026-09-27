@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Dhe unë, te ti, o Jahve, bërtas, dhe në mëngjes lutja ime të paraprin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "bërtas (unë)"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dhe në mëngjes"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutja ime"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "të paraprin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.298872749Z",
+  "model": "glm-5.3"
+}

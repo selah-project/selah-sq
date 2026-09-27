@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vërësh ⟨את⟩ altarín e flijimit të djegur përpara hyrjes së Mishkanit, të Çadrës së Takimit.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Dhe do të vërësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarín e flijimit të djegur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarín"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e flijimit të djegur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrjes"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "së Mishkanit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:45.152273322Z",
+  "model": "glm-5.3"
+}

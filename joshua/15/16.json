@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Kaleb tha: «Kushdo që godet ⟨את⟩ Kirjat-Seferin dhe e zë atë, atij do t'i jap ⟨את⟩ Aksahën, vajzën time, për grua.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kushdo që"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "godet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Seferin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-Seferin"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "dhe e zë atë"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "do t'i jap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksahën"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksahën"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "vajzën time"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "për grua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:59:40.743985691Z",
+  "model": "glm-5.3"
+}

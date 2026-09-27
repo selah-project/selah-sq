@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 79,
+  "translation": "Sepse ⟨ata⟩ i janë tëngrënë ⟨את⟩ Jakobit, dhe ⟨את⟩ banimin e tij e kanë bërë shkretë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "i janë tëngrënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "banimin e tij"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "banimin e tij"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "e kanë bërë shkretë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:45.191617153Z",
+  "model": "glm-5.3"
+}

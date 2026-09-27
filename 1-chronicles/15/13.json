@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Sepse herë të parë nuk ishit ju, prandaj Jahve, Elohim-i ynë, shpërtheu mbi ne, sepse nuk e kërkuan atë sipas rregullit të caktuar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "למ",
+      "gloss": "⟨për⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "herë të parë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ishit ju"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "shpërtheu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-i ynë"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "e kërkuan atë"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sipas rregullit të caktuar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:03:54.763120648Z",
+  "model": "glm-5.3"
+}

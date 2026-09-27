@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Gjithashtu, ndaj të gjitha fjalëve që fliten, mos i jep zemrën tënde, që të mos dëgjosh ⟨את⟩ shërbëtorin tënd duke të mallkuar ty.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gjithashtu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndaj të gjitha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "fliten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zemrën tënde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "të dëgjosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tënde"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "duke të mallkuar ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:22.619315889Z",
+  "model": "glm-5.3"
+}

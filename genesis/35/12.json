@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Dhe ⟨את⟩ tokën që i dhashë Avrahamit dhe Isakut, ty po ta jap ⟨atë⟩, dhe pasardhësve të tu pas teje do t'u jap ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "i dhashë"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamit"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "dhe Isakut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "po ta jap"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "dhe pasardhësve të tu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pas teje"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do t'u jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:34.348896223Z",
+  "model": "glm-5.3"
+}

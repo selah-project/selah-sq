@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Sepse kryeletërit e mia i njoh, dhe mëkati im është para meje vazhdimisht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kryeletërit e mia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "njoh"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "dhe mëkati im"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:46.790768213Z",
+  "model": "glm-5.3"
+}

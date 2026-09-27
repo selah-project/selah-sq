@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Do t'i ndjek armiqtë e mi dhe do t'i kap ⟨את⟩; dhe nuk do të kthehem mbrapsht deri sa t'i përfundoj ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Do t'i ndjek"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "dhe do t'i kap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "do të kthehem mbrapsht"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "t'i përfundoj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:44.544548706Z",
+  "model": "glm-5.3"
+}

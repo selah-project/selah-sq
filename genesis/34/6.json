@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Hamori, ati i Shekemit, doli te Jakobi për të folur ⟨me⟩ të.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ati i"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "për të folur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:00.995994638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filistët qëndronin te mali nga kjo anë, dhe izraelitët qëndronin te mali nga ajo anë, dhe lugina ishte midis tyre.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Dhe filistët"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "qëndronin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga kjo anë"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dhe izraelitët"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "qëndronin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga ajo anë"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "dhe lugina"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "midis tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:39.653657281Z",
+  "model": "glm-5.3"
+}

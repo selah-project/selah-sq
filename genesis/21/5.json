@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Abrahami ⟨ishte⟩ njëqind vjeç kur i lindi ⟨atij⟩ ⟨את⟩ Isaku, biri i tij.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Dhe Abrahami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i biri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "kur lindi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaku"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:58.332200445Z",
+  "model": "glm-5.3"
+}

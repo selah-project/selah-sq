@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Jahve në pallatin e tij të shenjtë ⟨është⟩; Jahve — në qiejt ⟨ësht⟩ froni i tij; sytë e tij shikojnë, qerpikët e tij i sprovojne bijtë e njeriut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "në pallatin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të shenjtë të tij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiejt"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "froni i tij"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sytë e tij"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "shikojnë"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "qerpikët e tij"
+    },
+    {
+      "surface": "יבחנu",
+      "gloss": "i sprovojne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:29.491538180Z",
+  "model": "glm-5.3"
+}

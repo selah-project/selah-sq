@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Izraeli mori ⟨את⟩ të gjitha këto qytete, dhe Izraeli banoi në të gjitha qytetet e amorejve, në Heshbon dhe në të gjitha fshatrat e tij.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto qytete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytetet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "qytetet e"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorejve"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "në Heshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe në të gjitha"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "fshatrat e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:35.588563123Z",
+  "model": "glm-5.3"
+}

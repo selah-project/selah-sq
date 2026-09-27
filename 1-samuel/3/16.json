@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Eli thirri ⟨את⟩ Samuelin dhe tha: «Samuel, bir i im!» Dhe ai tha: «Ja, unë.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe thirri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bir i im"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:24.495731771Z",
+  "model": "glm-5.3"
+}

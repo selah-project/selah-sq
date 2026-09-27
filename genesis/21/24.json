@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Avrahami tha: Unë betohem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahami"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "betohem"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:18.678422618Z",
+  "model": "glm-5.3"
+}

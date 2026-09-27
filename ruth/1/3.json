@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe vdiq Elimeleku, burri i Naomit, dhe mbeti ajo dhe dy djemtë e saj.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeleku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burri"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "i Naomit"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "dhe mbeti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dhe dy"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "djemtë e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:37.403861867Z",
+  "model": "glm-5.3"
+}

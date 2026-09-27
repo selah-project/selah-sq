@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Përzi tallësin dhe do të dalë grindja; do të pushojë çështja dhe turpi.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "përzi"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "tallësin"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe do të dalë"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "grindja"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "do të pushojë"
+    },
+    {
+      "surface": "דין",
+      "gloss": "çështja"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "dhe turpi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:28.427088583Z",
+  "model": "glm-5.3"
+}

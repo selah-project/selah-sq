@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Që ⟨ishte⟩ fjalë e Jahves drejtuar Jeremias, profetit, kundër filistejve, përpara se Faraoi të godiste ⟨את⟩ Gazën.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejtuar"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremias"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejve"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "përpara se"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "të godiste"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazën"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:50.001154977Z",
+  "model": "glm-5.3"
+}

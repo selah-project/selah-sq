@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Në vendin ku ⟨ata⟩ therrin ⟨את⟩ flijimin e djegies, do të therrin ⟨את⟩ flijimin e fajit, dhe ⟨את⟩ gjakun e tij do ta spërkasë mbi altar, rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Në vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "therrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegies"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegies"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "do të therrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e fajit"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "flijimin e fajit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjakun e tij"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjakun e tij"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "do ta spërkasë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:31.488725572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Njohur ⟨është⟩ në Juda Elohim; në Israel i madh ⟨është⟩ emri i tij.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Njohur"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "në Juda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Israel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i madh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:04.620128475Z",
+  "model": "glm-5.3"
+}

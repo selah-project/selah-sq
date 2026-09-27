@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Ja, do të largohesha duke ikur larg, do të kalaja natën në shkretëtirë. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "do të largojesha larg"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "duke ikur"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "do të kalaja natën"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:43.587208951Z",
+  "model": "glm-5.3"
+}

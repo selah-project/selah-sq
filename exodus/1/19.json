@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe mamiçat i thanë faraonit: Sepse gratë hebreje nuk janë si gratë egjiptiane, sepse ⟨ato⟩ janë të gjalla; para se të vijë mamiça te ato, ⟨ato⟩ lindin.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "dhe i thanë"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "mamiçat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "si gratë"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egjiptiane"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebreje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "të gjalla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ato⟩ janë"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "para se"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "të vijë"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "te ato"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "mamiça"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "⟨ato⟩ lindin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:24.297226224Z",
+  "model": "glm-5.3"
+}

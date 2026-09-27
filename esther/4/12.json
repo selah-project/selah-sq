@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe i treguan Mordokait ⟨את⟩ fjalët e Estërës.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "dhe i treguan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "e Estërës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:51.345189643Z",
+  "model": "glm-5.3"
+}

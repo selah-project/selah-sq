@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve i tha Moisit: «Edhe një goditje do të sjell mbi Faraonin dhe mbi Egjiptin; pas kësaj ai do t'ju lëshojë ⟨אתכם⟩ nga kjo ⟨vend⟩; kur t'ju lëshojë, ai krejt do t'ju dëbojë ⟨אתכם⟩ nga kjo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "goditje"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "do të sjell"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do t'ju lëshojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (dorëzuar)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga kjo"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "kur t'ju lëshojë"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "duke dëbuar"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "do të dëbojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (dorëzuar)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nga kjo"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:24.709699520Z",
+  "model": "glm-5.3"
+}

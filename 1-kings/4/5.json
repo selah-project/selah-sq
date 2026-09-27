@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe Azariahu, bir i Natanit, ishte mbi të ngarkuarit; dhe Zabudi, bir i Natanit, ishte prift, shok i mbretit.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "dhe Azariahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i Natanit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "të ngarkuarit"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "dhe Zabudi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i Natanit"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prift"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "i mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:33.549918817Z",
+  "model": "glm-5.3"
+}

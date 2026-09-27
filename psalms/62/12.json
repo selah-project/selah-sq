@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Një herë foli Elohim, dy herë këtë e dëgjova: se fuqia ⟨i përket⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Një herë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dy herë"
+    },
+    {
+      "surface": "זו",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "e dëgjova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fuqia"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i përket Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:52.317310932Z",
+  "model": "glm-5.3"
+}

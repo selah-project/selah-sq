@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 93,
+  "translation": "Jahve mbretëroi, madhështi u vesh, u vesh Jahve me forcë, u ngjesh me rrip; edhe ⟨është⟩ e vendosur toka e banuar, nuk do të lëkundet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "madhështi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "u vesh"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "u vesh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "me forcë"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "u ngjesh me rrip"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "e vendosur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "toka e banuar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "do të lëkundet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:57.859000283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Davidi i dha Salomonit, birit të tij, ⟨את⟩ modelin e portikut dhe ⟨את⟩ shtëpitë e tij, thesaret e tij, dhomat e sipërme të tij dhe dhomat e brendshme të tij, dhe shtëpinë e kapërcellit.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe i dha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomonit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birit të tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modelin"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "modelin"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "e portikut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpitë e tij"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "shtëpitë e tij"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "thesaret e tij"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "dhomat e sipërme të tij"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "dhomat e tij"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "e brendshme"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dhe shtëpinë"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "e kapërcellit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:07:32.035262763Z",
+  "model": "glm-5.3"
+}

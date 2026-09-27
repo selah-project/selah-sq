@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kështu tha Jahve: Për tre shkelje të Damaskut dhe për të katërtën nuk do ta kthej — sepse e shkelën ⟨את⟩ Galaadin me drapërna prej hekuri.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Për"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "shkelje"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "të Damaskut"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "të katërtën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "do ta kthej"
+    },
+    {
+      "surface": "על",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "e shkelën"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "me drapërna"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "prej hekuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Galaadin"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Galaadin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:59.577285070Z",
+  "model": "glm-5.3"
+}

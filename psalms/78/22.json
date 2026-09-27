@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "sepse nuk besuan në Elohim dhe nuk u mbështetën në shpëtimin e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "besuan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "në Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "u mbështetën"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "në shpëtimin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:27.876572189Z",
+  "model": "glm-5.3"
+}

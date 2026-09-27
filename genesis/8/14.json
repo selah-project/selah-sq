@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe në muajin e dytë, në ditën e shtatë e njëzet të muajit, u tha dheu.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Dhe në muajin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e njëzet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "u tha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dheu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:25.789095183Z",
+  "model": "glm-5.3"
+}

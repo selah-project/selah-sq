@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "dhe shih nëse ka ⟨ndonjë⟩ rrugëdhembjeje në mua, dhe udhëzomë në rrugën e përjetshme.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dhe shih"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "dhembjeje"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "dhe udhëzomë"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "e përjetshme"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:21.920090906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 126,
+  "translation": "Duke ecur do të ecë dhe duke qarë, duke mbajtur njëfarë farë për mbjellje; do të vijë me siguri duke ardhur me tera, duke mbajtur djavellët e tij.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "duke ecur"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "do të ecë"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "dhe duke qarë"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "duke mbajtur"
+    },
+    {
+      "surface": "משך",
+      "gloss": "njëfarë farë"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "për mbjellje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "duke ardhur"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "me tera"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "duke mbajtur"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "djavellët e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:36.430900495Z",
+  "model": "glm-5.3"
+}

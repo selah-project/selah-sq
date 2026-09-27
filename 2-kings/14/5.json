@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ndodhi që, sapo mbretëria u forcua në dorën e tij, ai vra ⟨את⟩ shërbëtorët e tij që kishin vrarë ⟨את⟩ mbretin, atin e tij.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "që, sapo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "u forcua"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretëria"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ai vra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "që kishin vrarë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:28.583991776Z",
+  "model": "glm-5.3"
+}

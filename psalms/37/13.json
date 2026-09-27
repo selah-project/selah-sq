@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Adonai do të qeshë me të, sepse sheh se po vjen dita e tij.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "do të qeshë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sheh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "po vjen"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "dita e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:48.889455905Z",
+  "model": "glm-5.3"
+}

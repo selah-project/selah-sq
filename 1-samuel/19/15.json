@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Sauli dërgoi ⟨את⟩ të dërguarit të shihnin ⟨את⟩ Davidin, duke thënë: «Ngjiteni atë ⟨אתו⟩ në shtrat tek unë, që ta vras.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të dëguarit"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "të dëguarit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shihnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ngjiteni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "në shtrat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tek unë"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "që ta vras"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:26.792522249Z",
+  "model": "glm-5.3"
+}

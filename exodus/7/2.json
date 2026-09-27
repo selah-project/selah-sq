@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Ti do të flasësh ⟨את⟩ të gjitha çfarë të urdhëroj, dhe Aaroni, vëllai yt, do t'i flasë faraonit, dhe ⟨ai⟩ do t'i lëshojë ⟨את⟩ bijtë e Izraelit nga vendi i tij.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "do të flasësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "të urdhëroj"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "do të flasë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonit"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "do të lëshojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "nga vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:03.640211924Z",
+  "model": "glm-5.3"
+}

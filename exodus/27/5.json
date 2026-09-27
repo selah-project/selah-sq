@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe do ta vesh ⟨אתה⟩ nën buzën e altarit, poshtë; dhe rrjeta do të jetë deri në gjysmën e altarit.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "dhe do ta vesh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nën buzën e altarit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "buzën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "të altarit"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "poshtë"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "rrjeta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gjysmën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "të altarit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:24.693811024Z",
+  "model": "glm-5.3"
+}

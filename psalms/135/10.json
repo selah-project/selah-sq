@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Që rrahu kombe të shumta dhe vrau mbretër të fuqishëm,",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Që rrahu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumta"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "dhe vrau"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mbretër"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "të fuqishëm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:27.407920623Z",
+  "model": "glm-5.3"
+}

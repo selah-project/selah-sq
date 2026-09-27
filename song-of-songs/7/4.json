@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dy gjoksi të tua ⟨janë⟩ si dy kecë të rinj, binjakë të një gazelle.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "gjoksi të tua"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "si dy"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "kecë të rinj"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "binjakë"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "të një gazelle"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:07.549816311Z",
+  "model": "glm-5.3"
+}

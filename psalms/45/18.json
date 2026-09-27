@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Do ta përmend emrin tënd në çdo brez e brez; prandaj popujt do të të lëvdoinë për jetë e përjetë.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "do ta përmend"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "דר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e brez"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "do të të lëvdoinë"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:30.584840895Z",
+  "model": "glm-5.3"
+}

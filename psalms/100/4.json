@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 100,
+  "translation": "Hyjini në portat e tij me falënderim, në oborret e tij me lavdërim; falënderojini atë, bekojini emrin e tij.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Hyjini"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "në portat e tij"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "me falënderim"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "në oborret e tij"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "me lavdërim"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "falënderojini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bekojini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.685928774Z",
+  "model": "glm-5.3"
+}

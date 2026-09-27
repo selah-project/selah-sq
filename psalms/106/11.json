@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Dhe ujërat i mbuluan kundërshtarët e tyre; as një prej tyre nuk mbeti.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Dhe i mbuluan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "kundërshtarët e tyre"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "as një"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "mbeti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.137847024Z",
+  "model": "glm-5.3"
+}

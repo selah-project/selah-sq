@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe do të shkruaj mbi tabelat ⟨את⟩ fjalët që ishin mbi tabelat e para, të cilat ti i the, dhe do t'i vesh ato në arkë.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "dhe do të shkruaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabelat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabelat"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "e para"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ti i the"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "dhe do t'i vesh"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "në arkë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:03.180898214Z",
+  "model": "glm-5.3"
+}

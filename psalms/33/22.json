@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Qofsh hesed-i yt, Jahve, mbi ne, siç presim ne te ti.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "qofsh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "presim ne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te ti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.052435860Z",
+  "model": "glm-5.3"
+}

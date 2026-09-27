@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe u numëruan levitët nga pesëdhjetë... nga tridhjetë vje e lart, dhe numri i tyre sipas krerëve të tyre, si burra, ishte tridhjetë e tetë mijë.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "Dhe u numëruan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "nga ... vje"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vje"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e lart"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "numri i tyre"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "sipas krerëve të tyre"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "si burra"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "dhe tetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:06:11.446521668Z",
+  "model": "glm-5.3"
+}

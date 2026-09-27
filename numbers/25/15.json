@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe emri i gruas së vrarë, ⟨ajo⟩ madianitja, ishte Kozbi, bijë e Curit, koka e një nëne-fisi ⟨të⟩ një shtëpie atore në Midian — ⟨kjo ishte⟩ ajo.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "i gruas"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "e vrarë"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "madianitja"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "Kozbi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "צור",
+      "gloss": "e Curit"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "koka"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "e një nëne-fisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i një shtëpie"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atore"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "në Midian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:55.736338166Z",
+  "model": "glm-5.3"
+}

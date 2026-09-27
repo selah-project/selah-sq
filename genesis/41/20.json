@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "dhe lopët e thata e të shëmtuara hëngrën ⟨את⟩ shtatë lopët e para, të majmet.",
+  "tokens": [
+    {
+      "surface": "וותאכלנה",
+      "gloss": "dhe hëngrën"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lopët"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "e thata"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "dhe të shëmtuara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtatë lopët e para, të majmet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lopët"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "e para"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "të majmet"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:31.079905007Z",
+  "model": "glm-5.3"
+}

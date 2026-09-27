@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Mburoja ime ⟨është⟩ mbi Elohim, shpëtimtar i atyre me zemër të drejtë.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "mburoja ime"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "shpëtimtar"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "i atyre me të drejtë"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemër"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:16.303720736Z",
+  "model": "glm-5.3"
+}

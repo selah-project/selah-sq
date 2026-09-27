@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ai bëri ⟨את⟩ pellgun e bakrit dhe ⟨את⟩ këmbëzin e tij të bakrit, me pasqyrat e grave shërbyese që shërbenin në hyrje të çadrës së takimit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pellgun"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "pellgun"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "e bakrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këmbëzin"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "këmbëzin e tij"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "të bakrit"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "me pasqyrat"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "e grave shërbyese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "shërbenin"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "në hyrje"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:29.694788570Z",
+  "model": "glm-5.3"
+}

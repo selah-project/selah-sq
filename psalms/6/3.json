@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Më dhano hirin, o Jahve, sepse jam i sëmurë; më shëro, o Jahve, sepse eshtrat e mia janë tmerruar.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Më dhano hirin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "jam i sëmurë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "(unë)"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "më shëro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "janë tmerruar"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "eshtrat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:38.611437908Z",
+  "model": "glm-5.3"
+}

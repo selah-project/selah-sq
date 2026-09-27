@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Veshë kanë, por nuk dëgjojnë; madje nuk ka frymëmarrje në gojën e tyre.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "veshë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "dëgjojnë"
+    },
+    {
+      "surface": "אף",
+      "gloss": "madje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ka⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "frymëmarrje"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "në gojën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:56.861114315Z",
+  "model": "glm-5.3"
+}

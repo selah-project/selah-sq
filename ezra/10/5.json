@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u ngrit Ezra dhe i bëri të betohen ⟨את⟩ kryetarët e priftërinjve, Levitët dhe të gjithë Izraelin, të vepronin sipas këtij fjalimi; dhe ata u betuan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dhe i bëri të betohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kryetarët e priftërinjve"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kryetarët e"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjve"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitët"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "të vepronin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas këtij fjalimi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "dhe ata u betuan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:54:49.108719974Z",
+  "model": "glm-5.3"
+}

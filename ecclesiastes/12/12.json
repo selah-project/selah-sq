@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe më tepër nga këto, o biri im, ruaju: të bësh libra pa fund s'ka ⟨fund⟩ — shumë libra s'kishin kufi; dhe të folurit shumë ⟨është⟩ lodhje e mishit.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "dhe më tepër"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "nga këto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o biri im"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "ruaju"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "të bësh"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "libra"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'ka"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "fund"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "dhe të folurit"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "יגיעת",
+      "gloss": "lodhje"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "e mishit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:54.893049586Z",
+  "model": "glm-5.3"
+}

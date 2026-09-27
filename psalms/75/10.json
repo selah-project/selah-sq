@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Sa për mua, do të tregoj përjetë; do të këndoj lavde Elohit të Jakobit.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sa për mua"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "do të tregoj"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të këndoj"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohit të"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:41.164777316Z",
+  "model": "glm-5.3"
+}

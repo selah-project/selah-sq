@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Abshalomi i tha Chushait: «Kjo është hesed-i yt ndaj ⟨את⟩ mikut tënd! Pse nuk shkove me ⟨את⟩ mikun tënd?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chushait"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikut tënd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mikut tënd"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "shkove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikun tënd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mikun tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:32.269354395Z",
+  "model": "glm-5.3"
+}

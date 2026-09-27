@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Sepse ja, më kanë zënë pritë shpirtit tim; mblidhen kundër meje të ashpërit — jo për kryengritjen time dhe jo për mëkatin tim, o Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "më kanë zënë pritë"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "shpirtit tim"
+    },
+    {
+      "surface": "יוגרו",
+      "gloss": "mblidhen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "të ashpërit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "për kryengritjen time"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "për mëkatin tim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:40.523567553Z",
+  "model": "glm-5.3"
+}

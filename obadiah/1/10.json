@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Për shkak të dhunës kundër vëllait tënd Jakob, turpi do të mbulojë ⟨ty⟩ dhe do të pritesh përjetë.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "për shkak të dhunës"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllait tënd"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "do të mbulojë ty"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "turpi"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "dhe do të pritesh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:19.607190868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Besëlidhja ime qe me ⟨את⟩ të — jeta dhe paqja — dhe ia dhashë atij frikën; dhe ai më frikësoi dhe përpara emrit tim u tremb ai.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Besëlidhja ime"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "qe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "me ⟨את⟩ të",
+      "marks": "atë (Levi)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jeta"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "dhe paqea"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "dhe i dhashë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "frikën"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "dhe ai më frikësoi"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dhe përpara"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emrit tim"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "u tremb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:51.566918918Z",
+  "model": "glm-5.3"
+}

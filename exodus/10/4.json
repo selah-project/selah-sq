@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Sepse nëse refuzon të lëshosh ⟨את⟩ popullin tim, ja, unë po sjell nesër karkaleca në kufirin tënd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuzon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "të lëshosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja, unë"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "po sjell"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nesër"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "karkaleca"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "në kufirin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:12.901771319Z",
+  "model": "glm-5.3"
+}

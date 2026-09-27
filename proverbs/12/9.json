@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Më i mirë ⟨është⟩ i përbuzuri që ka një shërbetor për vete, se ai që e nderon veten dhe i mungon buka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Më i mirë"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "i përbuzuri"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dhe ka një shërbetor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "se ai që e nderon veten"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "dhe i mungon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.240927151Z",
+  "model": "glm-5.3"
+}

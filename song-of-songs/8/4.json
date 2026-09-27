@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Ju bëra të betoheni, ⟨את⟩ o bija të Jerusalemit: pse të zgjoni dhe pse të ndizni ⟨את⟩ dashurinë, derisa ajo të dojë?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ju bëra të betoheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju, o bija të Jerusalemit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "o bija"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "të zgjoni"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dhe pse"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "të ndizni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dashurinë"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "dashurinë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "të dojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:18.746195234Z",
+  "model": "glm-5.3"
+}

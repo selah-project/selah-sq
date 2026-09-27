@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dora jote do t'i gjejë të gjithë armiqtë e tu; dora jote e djathtë do t'i gjejë ata që të urrejnë.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "do t'i gjejë"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dora jote e djathtë"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "do t'i gjejë"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ata që të urrejnë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:50.334183336Z",
+  "model": "glm-5.3"
+}

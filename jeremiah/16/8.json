@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe në shtëpinë e banketit mos hyr të ulesh ⟨את⟩ me ta për të ngrënë dhe për të pirë.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "dhe në shtëpinë"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "e banketit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hyr"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "të ulesh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "me ta"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për të ngrënë"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dhe për të pirë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:47.550792671Z",
+  "model": "glm-5.3"
+}

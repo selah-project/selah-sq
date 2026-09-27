@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jairi vdiq dhe u varros në Kamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jairi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dhe u varros"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "në Kamon"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:49.330112173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe Jahve e vizitoi ⟨את⟩ Sarën ashtu si kishte thënë, dhe Jahve i bëri Sarës ashtu si kishte folur.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dhe Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "e vizitoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarën"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarën"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kishte thënë"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dhe i bëri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarës"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kishte folur"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:29.742275751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi pas vdekjes së Shaulit, që Davidi u kthye nga rrahja e ⟨את⟩ amalekitëve, dhe Davidi qëndroi në Ciklag dy ditë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vdekjes"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "së Shaulit"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dhe Davidi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "nga rrahja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalekitëve"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "amalekitëve"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe qëndroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "në Ciklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dy"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:32.765806723Z",
+  "model": "glm-5.3"
+}

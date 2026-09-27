@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 23:11",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Këmba ime është kapur pas hapeve të tij, rrugën e tij e kam ruajtur dhe nuk kam shmangur.",
+  "tokens": [
+    {
+      "surface": "באשרו",
+      "gloss": "pas hapeve të tij"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "është kapur"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmba ime"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugën e tij"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "e kam ruajtur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אט",
+      "gloss": "kam shmangur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:46.789793087Z",
+  "model": "glm-5.3"
+}

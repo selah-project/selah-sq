@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Sepse ata ngritën keq kundër teje; përgatitën një plan të keq, por nuk do të munden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ngritën (shtrinë)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "keq"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "përgatitën (uan)"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "plan të keq"
+    },
+    {
+      "surface": "בל",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "do të munden"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:50.334925043Z",
+  "model": "glm-5.3"
+}

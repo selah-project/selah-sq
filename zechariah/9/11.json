@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Edhe ⟨את⟩ — për hir të gjakut të besëlidhjes tënde, të dërgova të burgosurit e tu nga gropa ⟨ku⟩ s’⟨ka⟩ ujë ⟨në të⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti — përemri i vetës së dytë që shënon atë që mbahet nën gjakun e besëlidhjes"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "për hir të gjakut"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "të besëlidhjes tënde"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "të dërgova"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "të burgosurit e tu"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "nga gropa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s’ka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:04.051980378Z",
+  "model": "glm-5.3"
+}

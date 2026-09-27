@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe shërbejtë e mbretit i thanë: Ja, Hamani po qëndron në oborr. Dhe mbreti tha: Le të vijë ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "shërbejtë e rinj të"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "po qëndron"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "në oborr"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "le të vijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:45:44.053241688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe gëzoiu në Jahve, dhe ⟨Ai⟩ do të të japë kërkesat e zemrës sate.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Dhe gëzoiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe do të të japë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "kërkesat"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "e zemrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:56.483676667Z",
+  "model": "glm-5.3"
+}

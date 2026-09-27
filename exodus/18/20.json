@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "dhe ti do t'i paralajmërosh ata ⟨את⟩ me statutet dhe ⟨את⟩ me Tora-t, dhe do t'u bësh të njohur ⟨את⟩ rrugën në të cilën të ecin, dhe ⟨את⟩ veprën që të bëjnë.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "dhe do t'i paralajmërosh"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statutet"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tora-t"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tora-t"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "dhe do t'u bësh të njohur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "të ecin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "veprën"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "të bëjnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:19.143091713Z",
+  "model": "glm-5.3"
+}

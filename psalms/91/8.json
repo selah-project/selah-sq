@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Vetëm me sytë e tu do të vështrojësh dhe do të shohësh shpërblimin e të ligëve.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "me sytë e tu"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "do të vështrojësh"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "dhe shpërblimin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "e të ligëve"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "do të shohësh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.633759201Z",
+  "model": "glm-5.3"
+}

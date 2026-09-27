@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Dhe Faraoni i tha Jakobit: Sa ⟨janë⟩ ditët e viteve të jetës sate?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "שני",
+      "gloss": "viteve"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "të jetës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:08.982965623Z",
+  "model": "glm-5.3"
+}

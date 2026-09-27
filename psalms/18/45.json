@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Me dëgimin e veshit do të më dëgjojnë bijtë e të huajit; do të gënjejnë ⟨ndaj meje⟩.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "me dëgimin"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "e veshit"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "do të dëgjojnë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huajit"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "do të gënjejnë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndaj meje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:05.741651196Z",
+  "model": "glm-5.3"
+}

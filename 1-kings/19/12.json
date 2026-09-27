@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe pas tërmetit, zjarr — jo në zjarr ⟨është⟩ Jahve; dhe pas zjarrit, një zë i heshtur e i hollë.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "tërmetit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarrit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "një zë"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "i heshtur"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "e i hollë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:54.296994732Z",
+  "model": "glm-5.3"
+}

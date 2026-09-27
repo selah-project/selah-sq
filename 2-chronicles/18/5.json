@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe mbreti i Izraelit mblodhi ⟨את⟩ profetët, katërqind burra, dhe u tha atyre: të ngjitemi ne në Ramot të Galaadit për luftë, apo të ndaloj? Dhe thanë: Ngjitu, dhe Elohim ⟨do⟩ e japë ⟨atë⟩ në dorën e mbretit.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profetët"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profetët"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katërqind"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "katërqind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "të ngjitemi ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "të Galaadit"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për luftë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "të ndaloj"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ngjitu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe ⟨do⟩ e japë"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "të mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:12.857775510Z",
+  "model": "glm-5.3"
+}

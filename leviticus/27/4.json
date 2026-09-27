@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse ⟨ajo⟩ është femër, atëherë të jetë vlerësimi yt tridhjetë sikla.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "femër"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "të jetë"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "vlerësimi yt"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikla"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:03.792264112Z",
+  "model": "glm-5.3"
+}

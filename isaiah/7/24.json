@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Me shigjeta dhe me hark do të vijë ⟨dikush⟩ atje, sepse shkurre gjembore dhe ferra do të jetë e gjithë ⟨toka⟩.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "me shigjeta"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "dhe me hark"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të vijë"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shkurre gjembore"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "dhe ferra"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:41.886534955Z",
+  "model": "glm-5.3"
+}

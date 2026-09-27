@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Vërtet, kot e pata pastruar zemrën time dhe lava duart e mia në pafajësi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kot"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "e pata pastruar"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "dhe lava"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "në pafajësi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "duart e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:46.605710538Z",
+  "model": "glm-5.3"
+}

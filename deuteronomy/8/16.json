@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "i cili të ushqeu me manë në shkretëtirë, të cilën etërit e tu nuk e njihnin, për të të përulur dhe për të të provuar, për të të bërë mirë në fundin tënd;",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "i cili të ushqeu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manë"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "e njihnin"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "etërit e tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "të përulur"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dhe për të"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "të provuar"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "për të të bërë mirë"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "në fundin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:56.857079808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Davidi i tha djalit që i raportoi atij: Si e dije ⟨se⟩ ka vdekur Sauli dhe Jonatani, i biri i tij?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djalit"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "që raportoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e dije"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ka vdekur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "dhe Jonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i biri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:41.266669340Z",
+  "model": "glm-5.3"
+}

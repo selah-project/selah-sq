@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Kur të pyet të birin tënd nesër, duke thënë: Çfarë do të thoshin dëshmitë dhe statutet dhe gjykimet që ka urdhëruar Jahve, Elohim ynë, ⟨את⟩ ju?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "të pyet"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "të birin tënd"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nesër"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "dëshmitë"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "dhe statutet"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "dhe gjykimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ka urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ynë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:54.263983114Z",
+  "model": "glm-5.3"
+}

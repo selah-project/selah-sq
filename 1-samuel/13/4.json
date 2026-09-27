@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe gjithë Izraeli dëgjoi, duke thënë: Sauli ra mbi ⟨את⟩ vendosjen e filistejve, dhe gjithashtu Izraeli u bë i neveritshëm te filistejtë; dhe populli u mblodh pas Saulit në Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ra mbi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendosjen e filistejve"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "vendosjen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "e filistejve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "u bë i neveritshëm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "te filistejtë"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "dhe u mblodh me britma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "në Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-27T15:14:06.584542242Z",
+  "model": "glm-5.3"
+}

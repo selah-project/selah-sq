@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe çdo njeri ⟨me⟩ ⟨את⟩ gjërat e tij të shenjta — të tijat do të jenë; çdo njeri që i jep priftit, do të jetë e priftit.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dhe çdo njeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjërat e tij të shenjta"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "gjërat e tij të shenjta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "të tijas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "do të jenë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "priftit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e priftit"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:04.675963157Z",
+  "model": "glm-5.3"
+}

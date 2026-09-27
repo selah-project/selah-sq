@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe çdo shpirt që hanë ngordhësinë ose kafshën e grisur — i linduri në vend dhe i huaji — do të lajë rrobat e tij dhe do të lahet në ujë dhe do të jetë i papastër deri në mbrëmje, pastaj do të jetë i pastër.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hanë"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ngordhësinë"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ose kafshën e grisur"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "i linduri në vend"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "dhe i huaji"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "do të lahet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "do të jetë i papastër"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dhe do të jetë i pastër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:02.925024845Z",
+  "model": "glm-5.3"
+}

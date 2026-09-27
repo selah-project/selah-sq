@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe të larova me ujë, të shpëlava gjakun nga mbi ty dhe të vajosova me vaj.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "dhe të larova"
+    },
+    {
+      "surface": "במים",
+      "gloss": "me ujë"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "të shpëlava"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "gjakun"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "nga mbi ty"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "dhe të vajosova"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:29:21.595989048Z",
+  "model": "glm-5.3"
+}

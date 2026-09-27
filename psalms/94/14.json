@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "sepse Jahve nuk do ta braktisë popullin e tij, dhe trashëgimia e tij nuk do ta lërë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "do ta braktisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "dhe trashëgimia e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "do ta lërë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:37.300179806Z",
+  "model": "glm-5.3"
+}

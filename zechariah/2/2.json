@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe i thashë engjëllit që fliste në mua: çfarë janë këta? Dhe më tha: këta janë brirë që i shpërndanën ⟨את⟩ Judën, ⟨את⟩ Izraelin dhe Jerusalemin.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe i thashë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për tek"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "engjëlli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "që fliste"
+    },
+    {
+      "surface": "בי",
+      "gloss": "në mua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "brirë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "i shpërndanën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:52:58.938472690Z",
+  "model": "glm-5.3"
+}

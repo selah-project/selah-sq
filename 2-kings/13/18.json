@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ai tha: Merr shigjetat; dhe i mori. Dhe tha ndaj mbretit të Izraelit: Godit tokën! Dhe ai goditi tri herë dhe u ndal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "shigjetat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe i mori"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ndaj mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "הך",
+      "gloss": "godit"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe ai goditi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "herë"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhe u ndal"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:44.972012386Z",
+  "model": "glm-5.3"
+}

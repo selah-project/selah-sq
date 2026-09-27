@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 134,
+  "translation": "Këngë e ngjitjeve. Ja, bekojeni ⟨את⟩ Jahven, të gjithë shërbëtorët e Jahvesë, që qëndroni natë në shtëpinë e Jahvesë!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bekojeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "që qëndroni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "natë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:31.697087055Z",
+  "model": "glm-5.3"
+}

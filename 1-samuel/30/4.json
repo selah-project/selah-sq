@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Atëherë Davidi dhe populli që ⟨ishte⟩ me ⟨את⟩ të ngritën zërin e tyre dhe qanë, derisa s'kishin më forcë për të qarë.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dhe populli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "me ⟨את⟩ të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin e tyre"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "zërin e tyre"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dhe qanë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'kishin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "כח",
+      "gloss": "forcë"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "për të qarë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:02.065249244Z",
+  "model": "glm-5.3"
+}

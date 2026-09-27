@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse ju po kaloni ⟨את⟩ Jordanin për të hyrë e për të zotëruar ⟨את⟩ tokën që Jahve, Elohim i juaj, ju jua dhënë; dhe do ta zotëroni ⟨את⟩ atë dhe do të banoni në ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "po kaloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "për të hyrë"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "për të zotëruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jua dhënë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dhe do ta zotëroni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (tokën)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dhe do të banoni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në ⟨të⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:29.295351459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Dhe do t'i bëj të gjitha malet e mia rrugë dhe rrugët e mia të ngritura do të ngrihen.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "dhe do t'i bëj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "malet e mia"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "dhe rrugët e mia të ngritura"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "do të ngrihen"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:53.409016395Z",
+  "model": "glm-5.3"
+}

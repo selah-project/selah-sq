@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dhe bërtitën tek Jahve në ngushticën e tyre, dhe ai i shpëtoi nga vuajtjet e tyre.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Dhe bërtitën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "në ngushticën"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e tyre"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "nga vuajtjet e tyre"
+    },
+    {
+      "surface": "יוצילם",
+      "gloss": "i shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:43.135842480Z",
+  "model": "glm-5.3"
+}

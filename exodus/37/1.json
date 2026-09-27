@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Betsaleli bëri ⟨את⟩ arken prej druri akacie: dy kubitë e gjysmë gjatësia e saj, një kubitë e gjysmë gjerësia e saj, dhe një kubitë e gjysmë lartësia e saj.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "prej druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dy kubitë"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "një kubitë"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e saj"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "një kubitë"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "lartësia e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:59.860549136Z",
+  "model": "glm-5.3"
+}

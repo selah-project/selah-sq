@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Jahve mbretëroi — le të gëzohet ⟨e⟩ toka, le të ngazëllohen ishujt e shumtë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretëroi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "le të gëzohet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨e⟩ toka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "le të ngazëllohen"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ishujt"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.210806386Z",
+  "model": "glm-5.3"
+}

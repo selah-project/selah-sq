@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 15:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe ai bëri atë që ⟨ishte⟩ e drejtë në sytë e Jahvesë, sipas gjithë atij që kishte bërë Amaciahu, ati i tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dhe ai bëri"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨ishte⟩ e drejtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atij që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaciahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:16.357723546Z",
+  "model": "glm-5.3"
+}

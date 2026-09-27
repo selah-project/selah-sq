@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Hap dyert e tua, o Liban, dhe zjarri do t'i hajë qiparisat e tu!",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Hap"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "o Liban"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "dyert e tua"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarri"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "qiparisat e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:48.911169444Z",
+  "model": "glm-5.3"
+}

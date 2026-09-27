@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Atë që përgojon fshehurás shokun e vet, ⟨את⟩ atë do ta zhduk; me sy lartë e zemër të gjerë — ⟨את⟩ atë nuk mund ta duroj.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "përgojon"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "fshehurás"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shokun e vet"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "përgojuesin e shokut të vet"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "do ta zhduk"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "lartë"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e (zemër) të gjerë"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemër"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "syfortin e zemërgjerin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mund ta duroj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:48.489611776Z",
+  "model": "glm-5.3"
+}

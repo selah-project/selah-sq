@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 61,
+  "translation": "Ditëve të mbretit do t'u shtosh ditë, vitet e tij ⟨do të jenë⟩ si brez e brez.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditëve të"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "do t'u shtosh"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "vitet e tij"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "דר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e brez"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:00.933567866Z",
+  "model": "glm-5.3"
+}

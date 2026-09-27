@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Shiko, përgjigjmu, o Jahve, Elohai im; ndriço sytë e mi, që të mos fle gjumin e vdekjes,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "përgjigjmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai im"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ndriço"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "fle"
+    },
+    {
+      "surface": "המות",
+      "gloss": "gjumin e vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.170552686Z",
+  "model": "glm-5.3"
+}

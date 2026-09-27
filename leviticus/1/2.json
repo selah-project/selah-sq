@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Fol bijve të Israelit dhe u thuaj atyre: Kur një njeri prej jush sjell një flijim për Jahven, nga kafshët — nga gjedhi ose nga tufa — do të sjellni ⟨את⟩ flijimin tuaj.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Israelit"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "dhe u thuaj"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "sjell"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "prej jush"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "një flijim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kafshët"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gedhi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tufa"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "do të sjellni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin tuaj"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "flijimin tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:32.702586455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Del fryma e tij, kthehet në dheun e vet; në atë ditë humbin planet e tij.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Del"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "fryma e tij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kthehet"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "në dheun e vet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "humbin"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "planet e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:12.329151602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Shimei u ngrit dhe shaloi ⟨את⟩ gomarin e tij, dhe shkoi në Gat, te Akishi, për të kërkuar ⟨את⟩ shërbëtorët e tij; dhe Shimei shkoi dhe solli ⟨את⟩ shërbëtorët e tij nga Gati.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "dhe shaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomarin e tij"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "gomarin e tij"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "në Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe solli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "nga Gati"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:37.939827491Z",
+  "model": "glm-5.3"
+}

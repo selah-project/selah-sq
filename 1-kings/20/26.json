@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ndodhi në kthimin e vitit, që Ben-Hadadi i mbodhi në numër ⟨את⟩ Aramin, dhe u ngjit në Apek, për të luftuar kundër Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "në kthimin"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "e vitit"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i mbodhi në numër"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "në Apek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "për të luftuar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:39:46.589408965Z",
+  "model": "glm-5.3"
+}

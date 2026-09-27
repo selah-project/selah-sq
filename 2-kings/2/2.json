@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Elia i tha Elishës: «Rri, të lutem, këtu, sepse Jahve më ka dërguar deri në Bet-El.» Por Elisha tha: «Sa jetë ka Jahve dhe sa jetë ka shpirti yt, nuk do të të lë.» Dhe zbritën në Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe…tha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i…tha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishës"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Rri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "פה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "më ka dërguar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El (pjesa e parë)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El (pjesa e dytë)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jetë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dhe…jetë"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "shpirti yt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "do të të lë"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Dhe zbritën"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El (pjesa e parë)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El (pjesa e dytë)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:55.922002768Z",
+  "model": "glm-5.3"
+}

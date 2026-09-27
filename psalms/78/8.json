@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe të mos bëhen si etërit e tyre, një brez i pangjeshëm dhe kryengritës, një brez që nuk e përgatiti zemrën e tij dhe fryma e të cilit nuk qe e qëndrueshme me ⟨את⟩ El-in.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe të mos bëhen"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "si etërit e tyre"
+    },
+    {
+      "surface": "דור",
+      "gloss": "një brez"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "i pangjeshëm"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "dhe kryengritës"
+    },
+    {
+      "surface": "דור",
+      "gloss": "një brez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "përgatiti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "qe e qëndrueshme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El-in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩ El-in"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "fryma e të cilit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:38.078900556Z",
+  "model": "glm-5.3"
+}

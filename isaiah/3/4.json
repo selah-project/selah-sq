@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të vë ⟨את⟩ fëmijët si krerët e tyre, dhe ngatërrestarët do të sundojnë mbi ta",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dhe do të vë"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "si krerët e tyre"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "dhe ngatërrestarët"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "do të sundojnë"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:09.715712407Z",
+  "model": "glm-5.3"
+}

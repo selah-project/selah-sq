@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Ai që formoi njësoj zemrat e tyre, kupton drejt të gjitha veprave të tyre.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Ai që formoi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "njësoj"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemrat e tyre"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "kupton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "veprave të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.544473673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai bëri përulje dhe tha: «Çfarë ⟨është⟩ shërbyesi yt, që u ktheve nga qeni i vdekur, i tillë si unë?»",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "bëri përulje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbyesi yt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "u ktheve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "qeni"
+    },
+    {
+      "surface": "המת",
+      "gloss": "i vdekur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i tillë si"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "si unë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:50.299965529Z",
+  "model": "glm-5.3"
+}

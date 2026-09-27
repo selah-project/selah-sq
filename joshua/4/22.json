@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "atëherë do t'u bëni të ditur ⟨את⟩ bijtë tuaj, duke thënë: Në tokë të thatë kaloi Izraeli ⟨את⟩ këtë Jordan;",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "do t'u bëni të ditur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë tuaj"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bijtë tuaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "në tokë të thatë"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:46.545197404Z",
+  "model": "glm-5.3"
+}

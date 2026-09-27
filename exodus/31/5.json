@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "dhe në gdhendjen e gurit për ta vendosur, dhe në gdhendjen e drurit, për të punuar në çdo punë zanati.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "dhe në gdhendjen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "gurit"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "për ta vendosur"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "dhe në gdhendjen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "e drurit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të punuar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë zanati"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:07.528703771Z",
+  "model": "glm-5.3"
+}

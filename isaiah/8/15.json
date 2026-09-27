@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe shumë do të pengohen në to, do të bien, do të thyhen, do të zihen në lak dhe do të kapen.",
+  "tokens": [
+    {
+      "surface": "וכשלuo",
+      "gloss": "do të pengohen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në to"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "do të bien"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "do të thyhen"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "do të zihen në lak"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "do të kapen"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:39.009514439Z",
+  "model": "glm-5.3"
+}

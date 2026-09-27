@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Që thanë: «Me gjuhën tonë do të ngadhënjejmë; buzët tona ⟨את⟩ ⟨janë⟩ me ne — kush është zotëri mbi ne?»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "me gjuhën tonë"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "do të ngadhënjejmë"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "buzët tona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "buzët tona"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "zotëri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mbi ne"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:19.011031511Z",
+  "model": "glm-5.3"
+}

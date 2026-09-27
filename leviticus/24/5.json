@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe do të marrësh miell të imët dhe do të pjekësh ⟨את⟩ të dymbëdhjetë bukë; dy të dhjeta (efah) do të jetë ⟨e⟩ secila bukë.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dhe do të marrësh"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "miell të imët"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "dhe do të pjekësh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "të dymbëdhjetë bukë"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "të dhjeta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "secila bukë"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e vetmja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:19.833188784Z",
+  "model": "glm-5.3"
+}

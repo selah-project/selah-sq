@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim mbolli një kopsht në Eden, në lindje, dhe atje e vendosi ⟨את⟩ njeriun që kishte formuar.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "dhe mbolli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "një kopsht"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "në Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "në lindje"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe e vendosi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kishte formuar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:55.383810830Z",
+  "model": "glm-5.3"
+}

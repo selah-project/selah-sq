@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Ti, Jahve, mos i ndalo mëshirat e tua nga unë; hesed-i yt dhe e vërteta jote gjithnjë të më ruajnë.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "i ndalo"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mëshirat e tua"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-i yt"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "dhe e vërteta jote"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gjithnjë"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "të më ruajnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:47.051131900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Kërkoni Jahve dhe forcën e tij; kërkoni vazhdimisht fytyrën e tij.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Kërkoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "dhe forcën e tij"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "kërkoni"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:23.093533266Z",
+  "model": "glm-5.3"
+}

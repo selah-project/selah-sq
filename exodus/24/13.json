@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe u ngrit Moisiu dhe Jozueu, shërbyesi i tij, dhe Moisiu u ngjit në malin e Elohit.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "dhe Jozueu"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "shërbyesi i tij"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:49.717461208Z",
+  "model": "glm-5.3"
+}

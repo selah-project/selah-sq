@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Atëherë këndoi Israel ⟨את⟩ këngën këtë: Ngjitu, o pus, këndojini atij!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atëherë"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "këndoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këngën"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "këngën"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ngjitu"
+    },
+    {
+      "surface": "באר",
+      "gloss": "o pus"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "këndojini"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:35:59.540168334Z",
+  "model": "glm-5.3"
+}

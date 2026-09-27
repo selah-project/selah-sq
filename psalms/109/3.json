@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe fjalë urrejtjeje më kanë rrethuar, dhe më kanë luftuar pa shkak.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Dhe fjalë"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "urrejtjeje"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "më kanë rrethuar"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "dhe më kanë luftuar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa shkak"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:31.968734225Z",
+  "model": "glm-5.3"
+}

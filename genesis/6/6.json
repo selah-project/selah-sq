@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Jahve u pendua se kishte bërë ⟨את⟩ njeriun në tokë, dhe u hidhërua në zemrën e tij.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dhe u pendua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "dhe u hidhërua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:21.092522980Z",
+  "model": "glm-5.3"
+}

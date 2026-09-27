@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "për të bërë dallimin midis të papastrit dhe të pastrit, dhe midis kafshës që mund të hahet dhe kafshës që nuk mund të hahet.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "për të bërë dallimin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "të papastrit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "të pastrit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kafshës"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "që mund të hahet"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kafshës"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mund të hahet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:19.305165061Z",
+  "model": "glm-5.3"
+}

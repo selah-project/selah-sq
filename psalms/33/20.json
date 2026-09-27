@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Shpirti ynë e priti Jahvenë; ai ⟨është⟩ ndihma jonë dhe mburoja jonë.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Shpirti ynë"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "e priti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ndihma jonë"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "dhe mburoja jonë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:30.420960350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Fol Zerubabelin, peqahari i Judës, duke thënë: Unë po tund ⟨את⟩ qiejt dhe ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabelin"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "peqahari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "po tund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:51:43.126774785Z",
+  "model": "glm-5.3"
+}

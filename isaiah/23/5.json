@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Kur Egjipti e dëgjoi lajmin, u ngjeth nga dhimbja, ashtu si nga lajmi i Tirit.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lajmin"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "u ngjethën nga dhimbja"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "si nga lajmi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "i Tirit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:26.265955992Z",
+  "model": "glm-5.3"
+}

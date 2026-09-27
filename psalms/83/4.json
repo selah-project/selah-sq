@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Kundër popullit tënd thurrin me dinakëri ⟨סוד⟩-këshillë, dhe bëjnë komplot kundër të fshehtëve të tu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kundër"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullit tënd"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "thurrin me dinakëri"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "këshillë të fshehtë"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "dhe bëjnë komplot"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "të fshehtëve të tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.845688456Z",
+  "model": "glm-5.3"
+}

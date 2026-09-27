@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe do t'i ruani ⟨את⟩ të gjitha rregullat e mia dhe ⟨את⟩ të gjitha gjykimet e mia, dhe do t'i bëni ⟨אתם⟩; dhe toka të mos ju vjellë jashtë, të cilën unë po ju çoj atje për të banuar në të.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dhe do t'i ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha rregullat e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rregullat e mia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "të gjitha gjykimet e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gjykimet e mia"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dhe do t'i bëni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ato (rregullat dhe gjykimet)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "vjellë jashtë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "po ju çoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "për të banuar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:56.351619714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Sihonin, mbretin e amoritëve, dhe Ogin, mbretin e Bashanit, dhe të gjitha mbretëritë e Kanaanit,",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihonin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "e amoritëve"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "dhe Ogin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "e Bashanit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mbretëritë"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:27.408110467Z",
+  "model": "glm-5.3"
+}

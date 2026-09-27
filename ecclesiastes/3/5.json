@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Kohë për të hedhur gurë dhe kohë për të mbledhur gurë; kohë për të përqafuar dhe kohë për të qenë larg nga përqafimi.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "për të hedhur"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe kohë"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "për të mbledhur"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "për të përqafuar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe kohë"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "për të qenë larg"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "nga përqafimi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:00.571597377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dëgjo, populli im, dhe do të flas; Izrael, dhe do të dëshmoj kundër teje: Elohim, Elohim i yt, ⟨jam⟩ unë.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dhe do të flas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "dhe do të dëshmoj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kundër teje \/ mbi ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i yt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:44.970018829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Në vendin ku e dëbuan ⟨את⟩ ⟨atë⟩, aty do të vdesë; dhe ⟨את⟩ këtë vend nuk do ta shohë më.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "në fakt"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "e dëbuan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨atë⟩",
+      "marks": "⟨atë⟩ (Shallumin)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "do të vdesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "këtë vend"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "do ta shohë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    }
+  ],
+  "timestamp": "2026-09-27T16:13:40.202443270Z",
+  "model": "glm-5.3"
+}

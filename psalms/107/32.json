@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Dhe le ta lartësojnë atë në kuvendin e popullit, dhe në vendin e pleqve le ta lavdërojnë atë.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "dhe le ta lartësojnë atë"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "në kuvendin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e popullit"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "dhe në vendin"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "e pleqve"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "le ta lavdërojnë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:53.971852100Z",
+  "model": "glm-5.3"
+}

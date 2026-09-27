@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 128,
+  "translation": "Punën e duarve të tua do ta hash; lumë ti, dhe ⟨do të jetë⟩ mirë për ty.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Punën"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "e duarve të tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "do ta hash"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "lumë ti"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dhe ⟨do të jetë⟩ mirë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:02.997185945Z",
+  "model": "glm-5.3"
+}

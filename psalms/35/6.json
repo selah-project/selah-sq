@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Le të jetë rruga e tyre errësi dhe rrëshqitje, dhe engjëlli i Jahvesë t'i ndjekë.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Le të jetë"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "rruga e tyre"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "errësi"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "dhe rrëshqitje"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dhe engjëlli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "t'i ndjekë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.617242548Z",
+  "model": "glm-5.3"
+}

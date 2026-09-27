@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe humbet ajo pasuri në telashe të këqija; dhe ai lindi një bir, dhe s'ka ⟨asgjë⟩ në dorën e tij.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "dhe humbet"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "pasuria"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "në telashe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të këqija"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:32.335851614Z",
+  "model": "glm-5.3"
+}

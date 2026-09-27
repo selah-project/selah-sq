@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "dhe Jakobi, i ati i tyre, u tha atyre: «Më kini lënë pa fëmijë: Jozefi nuk është, dhe Simoni nuk është, dhe ⟨את⟩ Beniaminin do ta merrni; mbi mua ranë të gjitha këto».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "i ati i tyre"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "më — kundrinori 'mua' i foljes שכלתם"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "më kini lënë pa fëmijë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "dhe Simoni"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nuk është"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beniaminin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "do ta merrni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ranë"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "të gjitha këto"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:13.644712927Z",
+  "model": "glm-5.3"
+}

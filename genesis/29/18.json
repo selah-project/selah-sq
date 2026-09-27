@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi e dashuroi ⟨את⟩ Rahelën, dhe tha: Do të të shërbej shtatë vjet për Rahelën, vajzën tënde të vogël.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dhe dashuroi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelën"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelën"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "do të të shërbej"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "për Rahelën"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "vajzën tënde"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "të vogël"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:57.230330958Z",
+  "model": "glm-5.3"
+}

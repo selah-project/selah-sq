@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "rrobat e festa, dhe mbulesat, dhe shallet, dhe çantat",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "robat e festa"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "dhe mbulesat"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "dhe shallet"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "dhe çantat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:15.107531894Z",
+  "model": "glm-5.3"
+}

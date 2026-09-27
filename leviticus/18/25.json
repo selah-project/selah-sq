@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe toka u ndot, dhe unë e vizitova fajin e saj mbi të, dhe toka i vjanti ⟨את⟩ banorët e saj.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "u ndot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "dhe e vizitova"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "fajin e saj"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "dhe vjanti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banorët e saj"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "banorët e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:26.926578521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe mbreti tha: Sillni ⟨mua⟩ një shpatë; dhe e sollën shpatën para mbretit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "sillni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mua⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "një shpatë"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe e sollën"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "shpatën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:30:33.129435204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Dëgjo, populli im, dhe do të dëshmoj kundër teje; o Izrael, po të dëgjoje ti mua —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dëgjo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "dhe do të dëshmoj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "po"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "të dëgjoje ti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:14.550157542Z",
+  "model": "glm-5.3"
+}

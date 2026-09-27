@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe e drejtova ⟨את⟩ fytyrën time te Adonai, ⟨i⟩ Elohim, për të kërkuar me lutje dhe përlotje, me agjërim, thek dhe hi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Dhe e drejtova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën time"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨i⟩ Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "me lutje"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "dhe përlotje"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "me agjërim"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "thek"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "dhe hi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:40.712188750Z",
+  "model": "glm-5.3"
+}

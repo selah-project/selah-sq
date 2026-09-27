@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Ulërijnë, vërshojnë ujërat e tij, dridhen malet nga mburja e tij. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Ulërijnë"
+    },
+    {
+      "surface": "יחמrו",
+      "gloss": "vërshojnë"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ujërat e tij"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "dridhen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "nga mburja e tij"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:46.004788789Z",
+  "model": "glm-5.3"
+}

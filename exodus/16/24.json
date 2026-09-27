@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe e lanë ⟨את⟩ atë deri në mëngjes, si kishte urdhëruar Moisi, dhe nuk u prish, dhe krimb nuk kishte në të.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "dhe e lanë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (mannën)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "u prish (morri erë të keqe)"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "dhe krimb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kishte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:33.544806497Z",
+  "model": "glm-5.3"
+}

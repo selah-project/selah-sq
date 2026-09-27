@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe turma do të ngrihet, zemra e tij do të lartësohet, dhe ai do të rrëzojë dhjetëra mijëra, por nuk do të forcohet.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "do të ngrihet"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "turma"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "do të lartësohet"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "dhe do të rrëzojë"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "dhjetëra mijëra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "do të forcohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:51:39.694001535Z",
+  "model": "glm-5.3"
+}

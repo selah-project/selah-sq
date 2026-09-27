@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Por ju ju mori Jahve dhe ju nxorri nga furrës e hekurit, nga Egjipti, për t'iu bërë atij popull i trashëguesisë, siç jeni në këtë ditë",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Por ⟨את⟩ ju",
+      "marks": "ju mori"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxorri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "nga furrës e hekurit"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "nga furrës"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "e hekurit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "për t'iu bërë"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popull"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "i trashëguesisë"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "siç jeni në këtë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:37.265515821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe mbreti e hoqi unazën e vulosjes që kishte marrë nga Hamani, dhe ia dha Mordokait; dhe Esteri e vuri Mordokain mbi shtëpinë e Hamanit.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "e hoqi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unazën e vulosjes"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "unazën e vulosjes së tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "kishte marrë"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "nga Hamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ia dha"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokait"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "e vuri"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokain"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokain"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "המן",
+      "gloss": "të Hamanit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:40.067704251Z",
+  "model": "glm-5.3"
+}

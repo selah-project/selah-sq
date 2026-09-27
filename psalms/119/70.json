@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Zemra e tyre ⟨u⟩ trash si yndyrë; unë në Torën tënde kam kënaqësi.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "u bë e trashë\/e pandjeshme"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "si yndyrë"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zemra e tyre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torën tënde"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "kam kënaqësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:56.634820905Z",
+  "model": "glm-5.3"
+}

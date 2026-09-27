@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe doli Noa, dhe bijtë e tij, dhe gruaja e tij, dhe gratë e bijve të tij ⟨את⟩ me të.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dhe gruaja e tij"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "dhe gratë e"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të tij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:08.211449104Z",
+  "model": "glm-5.3"
+}

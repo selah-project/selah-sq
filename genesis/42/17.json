@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe i mblodhi ⟨את⟩ ata në burg për tre ditë.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "dhe i mblodhi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "burg"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:19.845449798Z",
+  "model": "glm-5.3"
+}

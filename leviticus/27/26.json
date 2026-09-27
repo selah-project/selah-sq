@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Vetëm i parëlinduri i kafshëve, që i parëlindet Jahvesë, askush nuk e shenjtëron ⟨את⟩; qoftë ka, qoftë dele — i Jahvesë ⟨është⟩ ai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "i parëlinduri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "i parëlindet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "i kafshëve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "e shenjtëron"
+    },
+    {
+      "surface": "איש",
+      "gloss": "askush"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (i parëlindurin)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "שה",
+      "gloss": "dele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:53.913368222Z",
+  "model": "glm-5.3"
+}

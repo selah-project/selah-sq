@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Jishai bëri të kalojë Shamahun, dhe ⟨ai⟩ tha: «As në këtë nuk zgjodhi Jahve.»",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "bëri të kalojë"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shamahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "në këtë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "zgjodhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:29.182465810Z",
+  "model": "glm-5.3"
+}

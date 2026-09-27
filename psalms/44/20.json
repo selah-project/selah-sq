@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Na ke shkrumbësuar në vendin e çakallëve dhe na ke mbuluar me hijen e vdekjes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "na ke shkrumbësuar"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin e"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "çakallëve"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dhe na ke mbuluar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mbi ne"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "me hijen e vdekjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:19.141874434Z",
+  "model": "glm-5.3"
+}

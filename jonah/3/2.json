@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Ngrihu, shko në Nineve, ⟨në⟩ qytetin e madh, dhe prediko aty shpalljen ⟨את⟩ që unë po të flas:",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ngrihu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "e madh"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "dhe prediko"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpalljen"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "shpalljen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "po flas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "të"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:02.230145959Z",
+  "model": "glm-5.3"
+}

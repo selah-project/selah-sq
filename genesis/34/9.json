@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "dhe lidhni martesë ⟨me ne⟩: bijat tuaja jepnani neve, dhe ⟨את⟩ bijat tona merrni për vete.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "dhe lidhni martesë"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "me ne"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bijat tuaja"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nesh \/ neve (jepnani)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bijat tona"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bijat tona"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "merrni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për vete \/ për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:43.319124547Z",
+  "model": "glm-5.3"
+}

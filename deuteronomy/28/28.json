@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve do të të godasë me çmenduri, dhe me verbëri, dhe me marrje të mendsh të zemrës.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "do të të godasë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "me çmenduri"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "dhe me verbëri"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "dhe me marrje të mendsh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "të zemrës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:33.580534092Z",
+  "model": "glm-5.3"
+}

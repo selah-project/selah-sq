@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Aty ai theu shigjetat flakëruese të harkut, mburojën, dhe shpatën, dhe luftën. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Aty"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ai theu"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "flakëruese"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "të harkut"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mburojën"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dhe shpatën"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "dhe luftën"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:04.620368749Z",
+  "model": "glm-5.3"
+}

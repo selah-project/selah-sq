@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Çfarë përfitimi ka njeriu nga gjithë mundimi i tij që mundon nën diell?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Çfarë"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "përfitimi"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ka njeriu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nga gjithë"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mundimi i tij"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "që mundon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:09.103865638Z",
+  "model": "glm-5.3"
+}

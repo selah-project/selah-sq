@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Jahve të dërgoi në rrugë dhe tha: Shko dhe i kushto shfarosjes ⟨את⟩ mëkatarët, ⟨את⟩ Amalekun, dhe lufto kundër tij derisa t'i shfarosësh ⟨את⟩ ata.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "dhe të dërgoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "dhe i kushtove shfarosjes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mëkatarët"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "mëkatarët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekun"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekun"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "dhe do të luftosh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kundër tij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "t'i shfarosësh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:02.799275555Z",
+  "model": "glm-5.3"
+}

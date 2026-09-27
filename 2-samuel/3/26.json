@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Joabi doli nga Davidi dhe dërgoi të dërguar pas Avnerit, dhe e kthyen ⟨את⟩ atë nga pusi i Sirahut; por Davidi nuk e dinte.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "të dërguar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerit"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e kthyen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "Avnerin"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "nga pusi"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "i Sirahut"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "por Davidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e dinte"
+    }
+  ],
+  "timestamp": "2026-09-27T15:21:19.171240136Z",
+  "model": "glm-5.3"
+}

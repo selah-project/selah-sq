@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 127,
+  "translation": "Ja, bijtë ⟨janë⟩ trashëgimi e Jahvesë, fryti i barkut ⟨është⟩ shpërblim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "trashëgimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "shpërblim"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fryti"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "i barkut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:28.442185706Z",
+  "model": "glm-5.3"
+}

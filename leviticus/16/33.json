@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "dhe do të pajtojë ⟨את⟩ shenjtëroren e shenjtë, dhe ⟨את⟩ tendën e takimit; ⟨את⟩ altarit do t'i bëjë pajtimin; dhe për priftërinjtë dhe për gjithë popullin e asamblesë do të bëjë pajtim.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "dhe do të pajtojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shenjtërorja e shenjtë"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "shenjtëroren"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjtë"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tenda e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "altari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "do t'i bëjë pajtimin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "të asamblesë"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "do të bëjë pajtim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:09.237902531Z",
+  "model": "glm-5.3"
+}

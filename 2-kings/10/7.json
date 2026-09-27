@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ndodhi, kur erdhi letra te ata, që morën ⟨את⟩ bijtë e mbretit dhe therën shtatëdhjetë burra, dhe vunë ⟨את⟩ kokat e tyre në shporta, dhe ia dërguan atij në Jezreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kur erdhi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "letra"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "te ata"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e mbretit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e mbretit"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "therën"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "shtatëdhjetë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "burra"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "vunë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokat e tyre"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kokat e tyre"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "në shporta"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dërguan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "në Jezreel"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:23.652785987Z",
+  "model": "glm-5.3"
+}

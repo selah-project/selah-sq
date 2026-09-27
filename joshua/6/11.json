@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ai bëri arkën e Jahves të rrethojë ⟨את⟩ qytetin, një rrethim një herë të vetme, dhe erdhën në kamp dhe kaluan natën në kamp.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dhe ai bëri të rrethojë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "rrethim"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "herë"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një të vetme"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe erdhën"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "në kamp"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "dhe kaluan natën"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "në kamp"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:51.731308244Z",
+  "model": "glm-5.3"
+}

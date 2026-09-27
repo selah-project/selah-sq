@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 18:21",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Joabi i tha Kushitit: \"Shko, trego mbretit atë që ke parë.\" Dhe Kushi<token u përkul>u përmbys përpara Joabit dhe vrapoi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "לכושי",
+      "gloss": "Kushitit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "trego"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "ראיתה",
+      "gloss": "ke parë"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "u përkul përmbys"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "përpara Joabit"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "dhe vrapoi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:57.254510667Z",
+  "model": "glm-5.3"
+}

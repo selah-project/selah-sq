@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ti fshih faqen tënde — ⟨ato⟩ tmerrohen; Ti ua merr Frymën — ⟨ato⟩ shuhen, dhe në pluhurin e tyre kthehen.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "fshih"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "faqen tënde"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "tmerrohen"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ua merr"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "Frymën e tyre"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "shuhen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "pluhurin e tyre"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "kthehen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:02.667439450Z",
+  "model": "glm-5.3"
+}

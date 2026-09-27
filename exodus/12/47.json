@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Krejt shoqëria e Izraelit ta bëjë ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "koll",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "shoqëria"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ta bëjë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Pesach-in)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:53.427468850Z",
+  "model": "glm-5.3"
+}

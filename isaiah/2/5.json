@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Eja, o shtëpi e Jakobit, dhe të ecim në dritën e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ejani"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "dhe të ecim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "në dritën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:40.849045793Z",
+  "model": "glm-5.3"
+}

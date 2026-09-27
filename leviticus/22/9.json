@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe të ruajnë ⟨את⟩ kujdesin tim, dhe të mos mbajnë mbi të mëkat, dhe të mos vdesin në të, kur e përdhosin atë; unë jam Jahve që i shenjtëron ata.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "dhe të ruajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujdesin tim"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "kujdesin tim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "të mbajnë"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mëkat"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dhe të mos vdesin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "e përdhosin atë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "që i shenjtëron ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:12.151202639Z",
+  "model": "glm-5.3"
+}

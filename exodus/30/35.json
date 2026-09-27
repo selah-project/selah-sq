@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe do ta bësh ⟨את⟩ atë temjan, një përzierje aromatike, punë e parfumierit, e njomur me kripë, e pastër, e shenjtë.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dhe do ta bësh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë temjan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "temjan"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "përzierje aromatike"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "e parfumierit"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "e njomur me kripë"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e pastër"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e shenjtë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:58.544800724Z",
+  "model": "glm-5.3"
+}

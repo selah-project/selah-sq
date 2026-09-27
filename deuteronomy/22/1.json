@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Të mos shohësh ⟨את⟩ kaun e vëllait tënd ose ⟨את⟩ delen e tij të humbura dhe të fshihesh prej tyre — duke kthyer do t'i kthesh atë te vëllai yt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "shohësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaun e vëllait tënd"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "e vëllait tënd"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delen e tij"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "delë"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "të humbura"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "dhe të fshihesh"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    },
+    {
+      "surface": "השב",
+      "gloss": "duke kthyer"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "do t'i kthesh"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "te vëllai yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:24.268400050Z",
+  "model": "glm-5.3"
+}

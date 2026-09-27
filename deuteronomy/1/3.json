@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi në vitin e dyzetë, në muajin e njëmbëdhjetë, në ditën e parë të muajit, që Moisi foli ndaj bijve të Izraelit, sipas të gjithave që i kishte urdhëruar Jahve ⟨për ata⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "në vitin e dyzetë"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "në të"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "njëmbëdhjetë"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "muajin"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "në ditën e parë"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi (kundrinori i urdhrit)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "për ata"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:37.332721316Z",
+  "model": "glm-5.3"
+}

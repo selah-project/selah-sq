@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Juda e zunë ⟨את⟩ Gazën dhe ⟨את⟩ kufirin e saj, dhe ⟨את⟩ Ashkelonin dhe ⟨את⟩ kufirin e saj, dhe ⟨את⟩ Ekronin dhe ⟨את⟩ kufirin e saj.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "dhe e zunë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazën"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kufirin e saj"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "kufirin e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ashkelonin"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kufirin e saj"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "kufirin e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ekronin"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kufirin e saj"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "kufirin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:36.374685490Z",
+  "model": "glm-5.3"
+}

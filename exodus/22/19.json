@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Kush flijon për perëndi ⟨të tjera⟩, le të shkatërrohet krejt — përveç për Jahve, vetëm Atë.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "flijon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "për perëndi"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "le të shkatërrohet krejt"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm Atë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:48.404565755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Kështu Davidi e mbizotëroi filisteun me llastikun dhe me gurin, dhe e goditi ⟨את⟩ filisteun dhe e vrau; dhe shpatë nuk kishte në dorën e Davidit.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e mbizotëroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteun"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "me llastikun"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "dhe me gurin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe e goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteun"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteun"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "dhe e vrau"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dhe shpatë"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk kishte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:30.992384299Z",
+  "model": "glm-5.3"
+}

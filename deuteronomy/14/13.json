@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe kauçali, dhe ⟨את⟩ fajkuan, dhe miqja sipas llojit të vet;",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "dhe kauçali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fajkuan"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "fajkua"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "dhe miqja"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sipas llojit të vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:21:01.110358622Z",
+  "model": "glm-5.3"
+}

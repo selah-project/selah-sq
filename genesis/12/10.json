@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ⟨is⟩ një uri në ⟨të⟩ vendin, dhe Avrami zbriti në Egjipt për të banuar si i huaj atje, sepse ⟨is⟩ e rëndë uri në ⟨të⟩ vendin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ⟨is⟩"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "një uri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në ⟨të⟩ vendin"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "për të banuar si i huaj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "e rëndë"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në ⟨të⟩ vendin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:54.745072262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe nuk do të marr ⟨את⟩ të gjithë mbretërinë nga dora e tij, por do ta bëj atë princ gjithë ditët e jetës së tij, për hir të Davidit, shërbëtorit tim, të cilin e zgjodha ⟨את⟩ ⟨atë⟩, i cili ruajti urdhrat e mi dhe statutet e mia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "do të marr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë mbretërinë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mbretërinë"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "nga dora e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "princ"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "do ta bëj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jetës së tij"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorit tim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "e zgjodha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨atë⟩",
+      "marks": "Davidin, shërbëtorin tim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruajti"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "urdhrat e mi"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "dhe statutet e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:28.626783405Z",
+  "model": "glm-5.3"
+}

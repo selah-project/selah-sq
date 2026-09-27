@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Shpata e tyre do të hyjë në zemrën e tyre, dhe harkat e tyre do të thërmen.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "shpata e tyre"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "do të hyjë"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "në zemrën e tyre"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "dhe harkat e tyre"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "do të thërmen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:48.889905162Z",
+  "model": "glm-5.3"
+}

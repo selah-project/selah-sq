@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dërgoni një nga ju që të marrë ⟨את⟩ vëllain tuaj, ndërsa ju lidhuni, dhe fjalët tuaja të provohen — a ⟨është⟩ e vërteta ⟨את⟩ me ju; dhe nëse jo — për jetën e Faraonit, spiunë jeni ju!",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "dërgoni"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "një nga ju"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe të marrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllain tuaj"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllain tuaj"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndërsa ju"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "lidhuni"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "dhe të provohen"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "fjalët tuaja"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "e vërteta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "për jetën"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "të Faraonit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(forcë)"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spiunë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jeni ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:04.387188044Z",
+  "model": "glm-5.3"
+}

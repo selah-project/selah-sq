@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Goja e të drejtit pëshpërit urtësi, dhe gjuha e tij flet drejtësi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "goja"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "e të drejtit"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "pëshpërit"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësi"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "dhe gjuha e tij"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "flet"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:16.589909936Z",
+  "model": "glm-5.3"
+}

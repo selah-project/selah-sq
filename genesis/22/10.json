@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Abrahami zgjati ⟨את⟩ dorën e tij, dhe mori ⟨את⟩ thikën, për të therur ⟨את⟩ birin e tij.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe zgjati"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën e tij"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thikën"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thikën"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "për të therur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birin e tij"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:15.034086868Z",
+  "model": "glm-5.3"
+}

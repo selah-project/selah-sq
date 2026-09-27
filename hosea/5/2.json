@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe kryengritësit janë theelluar në therje; por unë ⟨jam⟩ ndëshkim për të gjithë ata.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "në therje"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "kryengritësit"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "janë theelluar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ndëshkim"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "për të gjithë ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:50.452343937Z",
+  "model": "glm-5.3"
+}

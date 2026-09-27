@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse ti do ta bekosh të drejtin, o Jahve; me pëlqim do ta rrethosh si me ⟨një⟩ mburojë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "do ta bekosh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "të drejtin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "si me mburojë"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "me pëlqim"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "do ta rrethosh"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:09.495690416Z",
+  "model": "glm-5.3"
+}

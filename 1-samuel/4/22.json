@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tha: «Është zhdukur lavdia nga Izraeli, sepse është marrë arka e Elohimit.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "është zhdukur"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdia"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nga Izraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "është marrë"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "e Elohimit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:07.868778017Z",
+  "model": "glm-5.3"
+}

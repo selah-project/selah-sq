@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Për dirigjentin; «Mos e shkatërro»; i Davidit, miktam, kur Sauli dërgoi dhe e rojtën ⟨את⟩ shtëpinë për ta vrarë atë.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "e shkatërro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kur dërgoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "dhe e rojtën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "për ta vrarë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:40.522551069Z",
+  "model": "glm-5.3"
+}

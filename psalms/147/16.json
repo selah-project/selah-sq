@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai që jep borën si le, ngricën si hi e shpërndan.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ai që jep"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "borën"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "si le"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ngricën"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "si hi"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "e shpërndan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.317013765Z",
+  "model": "glm-5.3"
+}

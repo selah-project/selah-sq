@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ⟨ai⟩ hyri dhe i lajmeroi zotërinë e vet, duke thënë: Kështu e kështu ka folur vajza që ⟨ështhtë⟩ nga toka e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dhe hyri"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i lajmeroi"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "zotërinë e vet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e kështu"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ka folur"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:42:32.688706215Z",
+  "model": "glm-5.3"
+}

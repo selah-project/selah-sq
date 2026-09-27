@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "të cilën e priti ⟨את⟩ Abrahamin, dhe betimin e tij për Isakun.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "e priti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "dhe betimin e tij"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "për Isakun"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:04.820309305Z",
+  "model": "glm-5.3"
+}

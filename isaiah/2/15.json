@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe mbi çdo kullë të lartë, dhe mbi çdo mur të fortifikuar,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kullë"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "të lartë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "mur"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "të fortifikuar"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:15.726717151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "Sepse erë kalon mbi të dhe ai nuk është më; dhe vendi i tij nuk e njeh më ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erë"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kalon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dhe ai nuk është më"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "e njeh atë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "vendi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:35.913732130Z",
+  "model": "glm-5.3"
+}

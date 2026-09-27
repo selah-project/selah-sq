@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe do të vish te mbreti dhe do t'i flasësh atij si kjo fjalë; dhe Joabi vuri ⟨את⟩ fjalët në gojën e saj.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "dhe do të vish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dhe do të flasësh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "si fjalia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "në gojën e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:10.928830206Z",
+  "model": "glm-5.3"
+}

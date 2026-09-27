@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Dhe le të kthehen në mbrëmje, le të ulërijnë si qen dhe të rrotullohen rreth qytetit.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dhe le të kthehen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "le të ulërijnë"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "si qen"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "dhe të rrotullohen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "rrëth qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:51.024691284Z",
+  "model": "glm-5.3"
+}

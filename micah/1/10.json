@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Në Gat mos e tregoni, mos qani; në Bet-LeAfra rrokullisuni në pluhur.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Në Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "e tregoni"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "qani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "qani"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Bet-LeAfra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "rrokullisuni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:58.984262562Z",
+  "model": "glm-5.3"
+}

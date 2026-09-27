@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 31:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Sepse do ta çoj atë në tokën që u betova etërve të tij, që rrjedh qumësht dhe mjaltë, dhe do të hajë dhe do të ngopet dhe do të trashet, dhe do të kthehet drejt perëndive të tjera dhe do t'u shërbejë atyre, dhe do të më përbuzë mua, dhe do të thyejë ⟨את⟩ besëlidhjen time.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "do ta çoj atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "u betova"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "etërve të tij"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "që rrjedh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "qumësht"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dhe mjaltë"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dhe do të hajë"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dhe do të ngopet"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "dhe do të trashet"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "dhe do të kthehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndive"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "dhe do t'u shërbejë atyre"
+    },
+    {
+      "surface": "ונאצוני",
+      "gloss": "dhe do të më përbuzë mua"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "dhe do të thyejë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:07.373198367Z",
+  "model": "glm-5.3"
+}

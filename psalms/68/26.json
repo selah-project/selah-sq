@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "Këngëtarët ecnin përpara, muzikantët pas, në mes vajza që luanin daulle.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ecnin përpara"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "këngëtarët"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "muzikantët"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "vajza"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "që luanin daulle"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:14.622280329Z",
+  "model": "glm-5.3"
+}

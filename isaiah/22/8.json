@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ai zhbuloi ⟨את⟩ mbulesën e Judës, dhe ti shikove në atë ditë drejt armëve të Shtëpisë së Pyllit.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Dhe ai zhbuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbulesën e Judës"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "mbulesën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "dhe ti shikove"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "armëve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "të Shtëpisë"
+    },
+    {
+      "surface": "היער",
+      "gloss": "së Pyllit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:22.497124441Z",
+  "model": "glm-5.3"
+}

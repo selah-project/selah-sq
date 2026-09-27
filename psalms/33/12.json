@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Të lumtë ⟨është⟩ kombi që Jahve ⟨është⟩ Elohim i tij, populli që Ai zgjodhi për trashëgimi për Vete.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Të lumtë"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kombi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "zgjodhi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "për trashëgimi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për Vete"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:10.262903116Z",
+  "model": "glm-5.3"
+}

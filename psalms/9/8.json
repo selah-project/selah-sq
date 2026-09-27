@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Jahve rri përjetë; e ngriti fronin e vet për gjykim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rri"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "e ngriti"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "për gjykim"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "fronin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:50.357494886Z",
+  "model": "glm-5.3"
+}

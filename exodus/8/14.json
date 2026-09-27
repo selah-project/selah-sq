@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe bënë ashtu magjistarët me artet e fshehta të tyre për të nxjerrë ⟨את⟩ morrat, por nuk mundën; dhe mora u bënë në njeriun dhe në kafshën.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "magjistarët"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "me artet e fshehta të tyre"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "për të nxjerrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morrat"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "morrat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mundën"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dhe u bënë"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "mora"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "në njeriun"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "dhe në kafshën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:16.250765910Z",
+  "model": "glm-5.3"
+}

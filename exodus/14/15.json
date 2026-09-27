@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jahve i tha Moisit: «Pse po bërtet te unë? Fol bijve të Izraelit që të nisen.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "po bërtet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "që të nisen"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:30.330917090Z",
+  "model": "glm-5.3"
+}

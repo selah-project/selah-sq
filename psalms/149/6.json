@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Lartmadhërimet e El-it ⟨janë⟩ në fytin e tyre, dhe shpata me dy tehe në dorën e tyre.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "lartmadhërimet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e El-it"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "në fytin e tyre"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dhe shpata"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "me dy tehe"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "në dorën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:05.472084603Z",
+  "model": "glm-5.3"
+}

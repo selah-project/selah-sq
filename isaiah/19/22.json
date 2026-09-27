@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Jahve do të godasë ⟨את⟩ Egjiptin, duke goditur dhe duke shëruar; dhe ata do të kthehen te Jahve, dhe Ai do t'u përgjigjet atyre dhe do t'i shërojë.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "dhe do të godasë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "duke goditur"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "dhe duke shëruar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dhe do të kthehen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "dhe do t'u përgjigjet"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "dhe do t'i shërojë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:25.549447292Z",
+  "model": "glm-5.3"
+}

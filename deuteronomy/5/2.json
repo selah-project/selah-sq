@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Jahve, Elohim i ynë, lidhi besëlidhje me ne në Horeb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "lidhi (preri)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "në Horeb"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:32.706264579Z",
+  "model": "glm-5.3"
+}

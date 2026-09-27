@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Jaakobi iku në fushën e Aramit, dhe Izraeli shërbeu për një grua, dhe për një grua ruajti ⟨dele⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fushën e"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramit"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "dhe shërbeu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "për një grua"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "dhe për një grua"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruajti ⟨dele⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:11.988542324Z",
+  "model": "glm-5.3"
+}

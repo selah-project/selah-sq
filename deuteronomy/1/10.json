@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Jahve, Elohim i juaj, ju shumoi ⟨אתכם⟩, dhe ja, ju jeni sot si yjet e qiellit për shumicë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ju shumoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (përemri i kundrinës)"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "dhe ja, ju jeni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "si yjet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "të qiellit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "për shumicë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:47.636835181Z",
+  "model": "glm-5.3"
+}

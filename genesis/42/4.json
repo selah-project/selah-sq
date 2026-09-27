@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Por ⟨את⟩ Beniaminin, vëllanë e Jozefit, Jaakobi nuk e dërgoi me ⟨את⟩ vëllezërit e tij, sepse tha: Që të mos i ndodhë ndonjë e keqe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beniaminin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniaminin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllanë"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "e Jozefit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e tij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "פן",
+      "gloss": "që të mos"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "i ndodhë"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ndonjë e keqe"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:33.195218585Z",
+  "model": "glm-5.3"
+}

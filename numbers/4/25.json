@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ata do të bartin ⟨את⟩ perdet e Mishkanit dhe ⟨את⟩ çadrën e takimit, mbulesën e saj dhe mbulesën e lëkurës së taxhashit që është mbi të lart, dhe ⟨את⟩ perden e hyrjes së çadrës së takimit,",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "dhe do të bartin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdet e Mishkanit"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "perdet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "të Mishkanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "çadrën e takimit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "mbulesën e saj"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "dhe mbulesën"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "të lëkurës së taxhashit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "perden e hyrjes"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perden"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "e hyrjes"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "të çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:43.868987469Z",
+  "model": "glm-5.3"
+}

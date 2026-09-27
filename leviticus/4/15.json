@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "dhe pleqtë e asamblesë do të mbështesin ⟨את⟩ duart e tyre mbi kokën e demit përpara Jahvesë, dhe ⟨dikush⟩ ther ⟨את⟩ demin përpara Jahvesë.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "dhe do të mbështesin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "e asamblesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "e demit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dhe ther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "demin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:24.863304474Z",
+  "model": "glm-5.3"
+}

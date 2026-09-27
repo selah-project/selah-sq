@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe pas tij gjycoi ⟨את⟩ Izraelin Elon-i Zebuloniti; dhe ai gjycoi ⟨את⟩ Izraelin dhjetë vjet.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjycoi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon-i"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zebuloniti"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjycoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:05.243082166Z",
+  "model": "glm-5.3"
+}

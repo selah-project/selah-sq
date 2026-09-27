@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Jahve i tha Moisiut: «Shiko, unë të kam bërë ⟨si⟩ Elohim për faraonin, dhe Aaroni, vëllai yt, do të jetë profeti yt.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "shiko"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "të kam bërë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "për faraonin"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllai yt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "profeti yt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:05:03.639944130Z",
+  "model": "glm-5.3"
+}

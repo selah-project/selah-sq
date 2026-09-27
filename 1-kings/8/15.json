@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "dhe tha: I bekuar qoftë Jahve, Elohim i Izraelit, i cili foli me gojën e tij ⟨את⟩ Davidin, atin tim, dhe me dorën e tij e plotësoi, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "me gojën e tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin, atin tim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atin tim"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "dhe me dorën e tij"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e plotësoi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:49.074643241Z",
+  "model": "glm-5.3"
+}

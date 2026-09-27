@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 76,
+  "translation": "Nga qortimi yt, o Elohim i Jakobit, mbetën të shtangur në gjumë të vdekur edhe qerrja edhe kali.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "nga qortimi yt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "i Jakobit"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "mbetën të shtangur në gjumë të vdekur"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "edhe qerrja"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "edhe kali"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:15.215421934Z",
+  "model": "glm-5.3"
+}

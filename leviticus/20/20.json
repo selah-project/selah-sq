@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një burrë që shtrihet me ⟨את⟩ hallën e tij — lakuriqësinë e dajës së tij e ka zbuluar; mëkatin e tyre do ta mbajnë, pa fëmijë do të vdesin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dhe një burrë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "shtrihet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallën e tij"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "hallën e tij"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "lakuriqësinë"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "e dajës së tij"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "e ka zbuluar"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "mëkatin e tyre"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "do ta mbajnë"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "pa fëmijë"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "do të vdesin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:47.712148001Z",
+  "model": "glm-5.3"
+}

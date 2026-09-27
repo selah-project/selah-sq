@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Ai e shpall fjalën e tij Jakobit, urdhërimet e tij dhe vendimet e tij Izraelit.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ai e shpall"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fjalën e tij"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jakobit"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "urdhërimet e tij"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "dhe vendimet e tij"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:01.136643244Z",
+  "model": "glm-5.3"
+}

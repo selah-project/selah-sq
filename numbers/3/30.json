@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe kryetari i shtëpisë së atit, për familjet e kehatasve, ⟨is⟩ Elicafani, bir i Uzielit.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Dhe kryetari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i shtëpisë"
+    },
+    {
+      "surface": "אב",
+      "gloss": "të atit"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "për familjet"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "e kehatasve"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elicafani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "i Uzielit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:14.575727433Z",
+  "model": "glm-5.3"
+}

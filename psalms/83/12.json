@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Bëji parët e tyre si Oreb dhe si Zeeb, dhe si Zebah dhe si Tsalmona — krejt princat e tyre.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Bëji"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "parët e tyre"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "si Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "dhe si Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "dhe si Zebah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "dhe si Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "princat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:12.852720834Z",
+  "model": "glm-5.3"
+}

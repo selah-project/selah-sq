@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Moisi u kthye në kamp, ai dhe pleqtë e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dhe pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:28.329659396Z",
+  "model": "glm-5.3"
+}

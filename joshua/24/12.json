@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "dhe dërgova para jush ⟨את⟩ grerëzën, dhe ajo i dëboi ata nga para jush — dy mbretërit e Emorit; jo me shpatën tënde dhe jo me harkun tënd.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "dhe dërgova"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "para jush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grerëzën"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "grerëzën"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "dhe ajo dëboi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (mbretërit)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "nga para jush"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "me shpatën tënde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "me harkun tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:46.951218617Z",
+  "model": "glm-5.3"
+}

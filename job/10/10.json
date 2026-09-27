@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "A nuk më derdhë si qumësht, dhe si djathë a nuk më ngjesh?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A nuk"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "si qumësht"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "më derdhë"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "si djathë"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "më ngjesh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:48.193701168Z",
+  "model": "glm-5.3"
+}

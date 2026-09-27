@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe u mbarua uji nga thasja, dhe ajo e hodhi ⟨את⟩ fëmijën nën një nga shkurret.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "dhe u mbarua"
+    },
+    {
+      "surface": "המים",
+      "gloss": "uji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "thasja"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "dhe ajo e hodhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijën"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmijën"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "nga shkurret"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:39.408818245Z",
+  "model": "glm-5.3"
+}

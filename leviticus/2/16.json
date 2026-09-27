@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe prifti do të djegë ⟨את⟩ pjesën e saj të kujtimit — nga kokrrat e saj dhe nga vaji i saj, mbi gjithë temjanin e saj — flijim zjarri për Jahven.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dhe do të djegë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjesën e saj të kujtimit"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "pjesën e saj të kujtimit"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nga kokrrat e saj"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "dhe nga vaji i saj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "temjanin e saj"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim zjarri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:16.929879706Z",
+  "model": "glm-5.3"
+}

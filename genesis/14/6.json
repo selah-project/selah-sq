@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe ⟨את⟩ Horitët në malin e tyre, Seirin, deri në El-Paran, që është pranë shkretëtirës.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Horitët"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horitët"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "në malin e tyre"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë \/ mbi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtirën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:05.390911543Z",
+  "model": "glm-5.3"
+}

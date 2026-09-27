@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Le ta falënderojnë Jahven për hesed-in e tij dhe për çuditë e tij ndaj bijve të njerëzve.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "le ta falënderojnë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-in e tij"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dhe çuditë e tij"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ndaj bijve të"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njerëzve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:53.971674130Z",
+  "model": "glm-5.3"
+}

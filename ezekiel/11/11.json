@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Ajo nuk do t'ju jetë ⟨⟨për⟩⟩ tenxhere, dhe ju do të jeni në mes të saj si mish; deri në kufirin e Izraelit do t'ju gjykoj ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "për tenxhere"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "do të jeni"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "në mes të saj"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "si mish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "do t'ju gjykoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (gjykimi në kufi)"
+    }
+  ],
+  "timestamp": "2026-09-27T16:27:47.615823693Z",
+  "model": "glm-5.3"
+}

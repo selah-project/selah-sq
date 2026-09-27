@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe bijtë e Israelit i dhanë levitëve ⟨את⟩ këto qytete dhe ⟨את⟩ kullotat e tyre, ashtu si urdhëroi Jahve me anë të Moisit, me short.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Dhe i dhanë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitëve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këto qytete"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kullotat e tyre"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "kullotat e tyre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu si"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë të"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisit"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "me short"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:41.299219359Z",
+  "model": "glm-5.3"
+}

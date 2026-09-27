@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe bëri ⟨את⟩ shufrat prej druri akacie, dhe i mbuloi ⟨את⟩ ato me ar, për të mbartur ⟨את⟩ tavolinën.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mbuloi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për të mbartur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavolinën"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tavolinën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:44.870937016Z",
+  "model": "glm-5.3"
+}

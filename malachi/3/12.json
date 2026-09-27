@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨אתכם⟩ do t'ju bekojnë të gjithë kombet, sepse ju do të jeni tokë e dëshirueshme, thotë Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "dhe do të bekojnë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (të gjithë kombet ju bekojnë)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "do të jeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokë"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "e dëshirueshme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:05.142642962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Gjashtë ditë do të punosh dhe do të bësh të gjithë punën tënde,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Gjashtë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "do të punosh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe do të bësh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "punën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:20.431128046Z",
+  "model": "glm-5.3"
+}

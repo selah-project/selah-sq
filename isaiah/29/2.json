@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do ta shtrëngoj ⟨את⟩ Arielin, dhe ⟨ajo⟩ do të bëhet vajtim dhe ankim, dhe ⟨ajo⟩ do të më bëhet si Ariel.",
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "Dhe do ta shtrëngoj"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "⟨את⟩ Arielin",
+      "marks": "Arielin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe ⟨ajo⟩ do të bëhet"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "vajtim"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "dhe ankim"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dhe ⟨ajo⟩ do të bëhet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "si Ariel"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:23.179872252Z",
+  "model": "glm-5.3"
+}

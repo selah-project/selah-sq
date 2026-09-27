@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Mos e shtyp të afërmin tënd ⟨את רעך⟩ dhe mos e grabit; pagesa e punëtorit të punësuar mos të qëndrojë ⟨אתך⟩ tek ti deri në mëngjes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "shtyp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të afërmin tënd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "të afërmin tënd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "grabit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "të qëndrojë"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "pagesa e punës"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "të punësorit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ pranë teje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "në mëngjes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:49.503639058Z",
+  "model": "glm-5.3"
+}

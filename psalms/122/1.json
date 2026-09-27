@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 122,
+  "translation": "Këngë e ngjitjeve, e Davidit. Gëzova kur më thanë: «Në shtëpinë e Jahvesë po shkojmë».",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Këngë"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e ngjitjeve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Gëzova"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "kur thanë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "po shkojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:42.088609047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Kushdo që godet ⟨את⟩ një shpirt, në bazë të dëshmitarëve do të vritet vrasësi; por një dëshmitar i vetëm nuk do të dëshmojë kundër një shpirti për të vdekur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kushdo që"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "godet"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "një shpirt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "në bazë të"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dëshmitarëve"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "do të vritet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrasësi (הרצח)"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vrasësi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "por një dëshmitar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "do të dëshmojë"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kundër një shpirti"
+    },
+    {
+      "surface": "למות",
+      "gloss": "për të vdekur"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:19.048755504Z",
+  "model": "glm-5.3"
+}

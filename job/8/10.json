@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "A nuk të mësojnë ata, a nuk të thonë, dhe nga zemra e tyre nxjerrin fjalë?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "të mësojnë"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "thay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të (ty)"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "dhe nga zemra e tyre"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "nxjerrin"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "fjalë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:51.227726567Z",
+  "model": "glm-5.3"
+}

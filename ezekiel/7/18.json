@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe do të ngjishin punktë, dhe tremja do t'i mbulojë ⟨את⟩ ata; dhe mbi të gjitha fytyrat ⟨do të jetë⟩ turpi, dhe mbi të gjitha kokët e tyre — tullacisje.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "dhe do të ngjishin"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "punktë"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "dhe do të mbulojë"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tremja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyrat"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "turpi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe mbi të gjitha"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kokët e tyre"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "tullacisje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:28.640830750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 30:9",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe tani jam bërë kënga e tyre, po, jam bërë ⟨për ta⟩ një fjalë e thënë.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "kënga e tyre"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jam bërë"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "po, jam bërë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "למלה",
+      "gloss": "një fjalë e thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:14.637140984Z",
+  "model": "glm-5.3"
+}

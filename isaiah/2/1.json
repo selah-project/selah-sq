@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Fjala që pa Jeshajahu, bir i Amotzit, mbi Judën dhe Jerusalemin.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Fjala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotzit"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dhe Jerusalemin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:09.545553829Z",
+  "model": "glm-5.3"
+}

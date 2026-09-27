@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Davidi bëri siç e kishte urdhëruar Elohim, dhe i goditën ⟨את⟩ ushtrinë e filistejtëve nga Gibeoni e deri në Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "e kishte urdhëruar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe i goditën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushtrinë e filistejtëve"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ushtrinë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtëve"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "nga Gibeoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri në"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-27T18:36:07.281586980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Davidi tha në Jonatan: «Kush do të më lajmërojë? Ose ç'është nëse ati yt të përgjigjet ty ashpër?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "do të lajmërojë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'është"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "të përgjigjet ty"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ati yt"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ashpër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:23.272563668Z",
+  "model": "glm-5.3"
+}

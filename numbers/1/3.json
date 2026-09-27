@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Nga njëzet vje e lart, çdo dalës në ushtri në Izrael, do t'i numëroni ⟨את⟩ ata sipër ushtrive të tyre — ti dhe Aaroni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "nga një (djalë)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vje"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e lart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "dalës"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "në ushtri"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "do t'i numëroni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "sipër ushtrive të tyre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:40.300806952Z",
+  "model": "glm-5.3"
+}

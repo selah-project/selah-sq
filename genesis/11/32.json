@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ditët e Terahut ishin dyqind e pesë vjet; dhe Terahu vdiq në Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "e Terahut"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e dyqind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahu"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "në Haran"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:22.725135421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe erdhën të gjithë pleqtë e Izraelit, dhe levitët ngritën ⟨את⟩ arkën.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Dhe erdhën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dhe ngritën"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:09:07.445067704Z",
+  "model": "glm-5.3"
+}

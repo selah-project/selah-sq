@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Unë jam Jahve, Elohim i juaj, i cili ju nxori ⟨את⟩ juve nga toka e Egjiptit, për t'ju dhënë ⟨את⟩ tokën e Kanaanit, për të qenë Perëndi për ju.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nxora"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "për të dhënë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e Kanaanit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "për të qenë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Perëndi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:43.632097922Z",
+  "model": "glm-5.3"
+}

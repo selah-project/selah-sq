@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atëherë Davidi kapi rrobat e tij dhe i grisi, dhe gjithashtu të gjithë burrat që ishin ⟨me את⟩ të.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "dhe i grisi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burrat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "me ⟨את⟩ të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:53.141464217Z",
+  "model": "glm-5.3"
+}

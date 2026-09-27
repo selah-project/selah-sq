@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Këta ⟨mbështeten⟩ me qerren dhe këta me kuaj; por ne do ta përmendim emrin e Jahves, Elohim-it tonë.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "me qerren"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "me kuaj"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "por ne"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "emrin e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-it tonë"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "do ta përmendim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:15.844889112Z",
+  "model": "glm-5.3"
+}

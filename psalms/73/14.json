@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Dhe isha i goditur ⟨gjithë⟩ ditën, dhe qortimi im ⟨vinte⟩ çdo mëngjes.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "dhe isha"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "i goditur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨gjithë⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "dhe qortimi im"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "çdo mëngjes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:46.605946691Z",
+  "model": "glm-5.3"
+}

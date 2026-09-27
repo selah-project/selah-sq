@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Kujtojmë ⟨את⟩ peshkun që hanëm në Egjipt pa pagesë, ⟨את⟩ kastravecat, dhe ⟨את⟩ shalqinjtë, dhe ⟨את⟩ presht, dhe ⟨את⟩ qepët, dhe ⟨את⟩ hudhrat.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Kujtojmë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peshkun"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "peshkun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "hanëm"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa pagesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kastravecat"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "kastravecat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shalqinjtë"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "shalqinjtë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "presht"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "presht"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qepët"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "qepët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "hudhrat"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "hudhrat"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:29.192786249Z",
+  "model": "glm-5.3"
+}

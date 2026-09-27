@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Nuk shpëtohet mbreti me shumicë ushtrie; i forti nuk çlirohet me shumicë fuqie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "shpëtohet"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "me shumicë"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ushtrie"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "i forti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "çlirohet"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "me shumicë"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fuqie"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:34.544615392Z",
+  "model": "glm-5.3"
+}

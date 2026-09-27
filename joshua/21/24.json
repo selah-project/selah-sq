@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "⟨את⟩ Aijalonin me kullotat e veta, ⟨את⟩ Gath-Rimmonin me kullotat e veta — katër qytete.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aijalonin"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aijalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath-Rimmonin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kullotat e veta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kullotat e veta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër"
+    }
+  ],
+  "timestamp": "2026-09-27T15:00:30.293715380Z",
+  "model": "glm-5.3"
+}

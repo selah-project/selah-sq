@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Është shembur qyteti i ⟨⟨תהו⟩-së, çdo shtëpi është mbyllur nga hyrja.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "Është shembur"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "qyteti"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "i kaosit"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "është mbyllur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "nga hyrja"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:09.065292947Z",
+  "model": "glm-5.3"
+}

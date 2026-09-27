@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Të falënderojmë ty, o Elohim, të falënderojmë, sepse emri yt ⟨është⟩ i afërt; tregojnë çudira të tua.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Të falënderojmë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "të falënderojmë"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "i afërt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tregojnë"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çudira të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:19.199018284Z",
+  "model": "glm-5.3"
+}

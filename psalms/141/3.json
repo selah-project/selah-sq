@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 141,
+  "translation": "Vë, o Jahve, një roje para gojës sime; ruaj portën e buzëve të mia.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Vë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "një roje"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "para gojës sime"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "portën e — mbi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "portën"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "të buzëve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:23.240742001Z",
+  "model": "glm-5.3"
+}

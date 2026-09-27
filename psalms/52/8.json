@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Dhe ⟨të⟩ drejtit do të shohin, do të frikësohen, dhe do të tallen me ⟨të⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dhe do të shohin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "⟨të⟩ drejtit"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "do të frikësohen"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "me ⟨të⟩"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "do të tallen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:14.506222598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 52,
+  "translation": "Sepse kështu ka thënë Jahve: pa shkak u shitët, dhe jo me para do të shpengoheni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pa shkak"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "u shitët"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe jo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "me para"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "do të shpengoheni"
+    }
+  ],
+  "timestamp": "2026-09-27T16:03:13.159250482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Davidi riti ⟨את⟩ popullin që ishte ⟨את⟩ me të, dhe vuri mbi ta komandantë të mijëve dhe komandantë të qindave.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Dhe riti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (me të)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "komandantë të"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijëve"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "dhe komandantë të"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qindave"
+    }
+  ],
+  "timestamp": "2026-09-27T15:26:36.079967636Z",
+  "model": "glm-5.3"
+}

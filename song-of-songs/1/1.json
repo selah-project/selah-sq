@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kënga e këngëve, që ⟨është⟩ e Salomonit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kënga"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "e këngëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "e Salomonit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:34.040019165Z",
+  "model": "glm-5.3"
+}

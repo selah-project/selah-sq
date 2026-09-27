@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Ki besë në Jahve dhe bëj të mirën; banoni në tokë dhe kultivo besnikërinë.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Ki besë"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bëj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "banoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "dhe kultivo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "besnikërinë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:56.483531175Z",
+  "model": "glm-5.3"
+}

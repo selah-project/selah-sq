@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe Azaria lindi ⟨את⟩ Serajan, dhe Seraja lindi ⟨את⟩ Jehotsadakun;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "dhe Azaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajan"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "dhe Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadakun"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadakun"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:54.111099984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ai që nuk ia vuri zemrën ⟨të⟩ fjalës së Jahvesë la ⟨את⟩ shërbëtorët e tij dhe ⟨את⟩ bagëtinë e tij në fushë.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dhe ai që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e tij"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "shërbëtorët e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bagëtinë e tij"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bagëtinë e tij"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:38.331254965Z",
+  "model": "glm-5.3"
+}

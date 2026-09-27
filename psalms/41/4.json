@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Jahve do ta mbështesë ⟨atë⟩ në shtratin e dhembjes; gjithë shtratin e tij ti e ktheve në sëmundjen e tij.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "do ta mbështesë"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "shtratin"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "e dhembjes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "shtratin e tij"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ti e ktheve"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "në sëmundjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.004755142Z",
+  "model": "glm-5.3"
+}

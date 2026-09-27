@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Por nesër, në këtë kohë, do të dërgoj ⟨את⟩ shërbëtorët e mi te ti, dhe do të fshikojnë ⟨את⟩ shtëpinë tënde dhe ⟨את⟩ shtëpitë e shërbëtorëve të tu; dhe do të jetë: çdo gjë që të është e dëshirueshme para syve të tua, do ta vënë në dorën e tyre dhe do ta marrin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nëse⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "në këtë kohë"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nesër"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "do të dërgoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorët e mi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "dhe do të fshikojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë tënde"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "shtëpinë tënde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpitë e shërbëtorëve të tu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "e shërbëtorëve të tu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "gjë e dëshirueshme"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "para syve të tua"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "do ta vënë"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "në dorën e tyre"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "dhe do ta marrin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:49.243963715Z",
+  "model": "glm-5.3"
+}

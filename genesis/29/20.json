@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi punoi për Rahelën shtatë vjet, dhe ata i dukenin në sytë e tij si disa ditë, nga dashuria e tij për ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "dhe punoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "për Rahelën"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "si disa ditë"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "disa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nga dashuria e tij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (ajo = Rahela)"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:57.230817931Z",
+  "model": "glm-5.3"
+}

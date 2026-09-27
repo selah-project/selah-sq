@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të sjellë nga flijimi i ⟨shelamimit⟩ një flijim zjarri për Jahve: ⟨את⟩ yndyrën që mbulon ⟨את⟩ barkun e brendshëm, dhe ⟨את⟩ krejt yndyrën që është mbi barkun e brendshëm.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dhe do të sjellë"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nga flijimi"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "i shelamimit"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "flijim zjarri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "që mbulon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barkun e brendshëm"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "barkun e brendshëm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "krejt yndyrën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "barkun e brendshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:44.016575409Z",
+  "model": "glm-5.3"
+}

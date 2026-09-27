@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Pse do të thonë kombet: «Ku është, të lutem, Elohim-i i tyre?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "do të thonë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku është"
+    },
+    {
+      "surface": "נא",
+      "gloss": "të lutem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-i i tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:00.797931457Z",
+  "model": "glm-5.3"
+}

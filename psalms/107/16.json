@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "Sepse theu dyert e bakrit dhe shufrat e hekurit i këputi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "theu"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dyert e"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bakrit"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "dhe shufrat e"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hekurit"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "i këputi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:41.223496822Z",
+  "model": "glm-5.3"
+}

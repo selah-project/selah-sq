@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "populli që më provokon ⟨את⟩ mua përpara fytyrës sime vazhdimisht, që flijon në kopshte dhe djeg temjan mbi tulla —",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "që më provokon"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mua",
+      "marks": "mua — kundrinori i provokimit"
+    },
+    {
+      "surface": "על",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrës"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "që flijon"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "në kopshte"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "dhe djeg temjan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tulla"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:34.119003125Z",
+  "model": "glm-5.3"
+}

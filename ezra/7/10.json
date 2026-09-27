@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse Ezra e përgatiti zemrën e tij për të kërkuar ⟨את⟩ Torën e Jahvesë, për të bërë ⟨atë⟩ dhe për të mësuar në Israel statutin dhe gjykimin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "përgatiti"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torën"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torën e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "dhe për të bërë"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "dhe për të mësuar"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "në Izrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statutin"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dhe gjykimin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:53:32.388928244Z",
+  "model": "glm-5.3"
+}

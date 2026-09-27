@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "El i frikshëm në këshillin e shenjtërve të madh, dhe i tmerrshëm mbi të gjithë ata që e rrethojnë.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "i frikshëm"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "në këshillin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "e shenjtërve"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dhe i tmerrshëm"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ata që e rrethojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:19.618907228Z",
+  "model": "glm-5.3"
+}

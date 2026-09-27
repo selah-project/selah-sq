@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe kur e dëgjoi mbreti Hizkiahu, i grisi ⟨את⟩ rrobat e veta, u mbulua me thes dhe hyri në shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe kur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "e dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e veta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e veta"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "u mbulua"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "me thes"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:26:35.410931968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Le të bjerë mbi ta qymyr i ndezur; në zjarr ⟨t'i hedhin⟩, në gropira të thella — ⟨të mos⟩ ngrihen më.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "Le të bjerë"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "qymyr i ndezur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "t'i hedhin"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "në gropira të thella"
+    },
+    {
+      "surface": "בל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ngrihen më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:51.608516904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Në ditën e flijimit tuaj do të hahet ⟨ajo⟩, dhe ditën tjetër; dhe ajo që mbetet deri në ditën e tretë, në zjarr do të digjet.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "të flijimit tuaj"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hahet"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "dhe ditën tjetër"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "dhe ajo që mbetet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "e tretë"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "do të digjet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:01.336410921Z",
+  "model": "glm-5.3"
+}

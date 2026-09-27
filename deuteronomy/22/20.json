@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Por nëse kjo fjalë ⟨ishte⟩ e vërtetë — nuk u gjet virgjëri ⟨te⟩ vajza —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "por nëse"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "e vërtetë"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kjo fjalë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "u gjet"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "virgjëri"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "te vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:37.610936691Z",
+  "model": "glm-5.3"
+}

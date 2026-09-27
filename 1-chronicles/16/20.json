@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "dhe ecën nga një komb te një komb tjetër, e nga një mbretëri te një popull tjetër.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "dhe ecën"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nga një komb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "një komb"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "e nga një mbretëri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עם",
+      "gloss": "një popull"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tjetër"
+    }
+  ],
+  "timestamp": "2026-09-27T18:03:55.309747859Z",
+  "model": "glm-5.3"
+}

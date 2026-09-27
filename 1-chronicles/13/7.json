@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe ngarkuan ⟨את⟩ arkën e Elohim mbi një karrocë të re, nga shtëpia e Abinadabit; dhe Uza dhe vëllai i tij e çonin karrocën.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "ngarkuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "karrocë"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "të re"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "e Abinadabit"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "dhe Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dhe vëllai i tij"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "e çonin"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "karrocën"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:13.266614400Z",
+  "model": "glm-5.3"
+}

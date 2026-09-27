@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Kështu tha Jahve, ⟨ai⟩ që jep në det një rrugë dhe në ujërat e fuqishme një shteg.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "që jep"
+    },
+    {
+      "surface": "בים",
+      "gloss": "në det"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dhe në ujërat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "e fuqishme"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "shteg"
+    }
+  ],
+  "timestamp": "2026-09-27T16:00:06.502311645Z",
+  "model": "glm-5.3"
+}

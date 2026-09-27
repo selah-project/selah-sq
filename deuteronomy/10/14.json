@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Ja, të Jahvesë, Elohim-it tuaj, janë qiejt dhe qiejt e qiejve, toka dhe gjithçka që është në të.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-it tuaj"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "dhe qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "e qiejve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:35.630860491Z",
+  "model": "glm-5.3"
+}

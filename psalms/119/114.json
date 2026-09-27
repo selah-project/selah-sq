@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Fshehja ime dhe mburoja ime ⟨je⟩ ti; për fjalën tënde kam shpresuar.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "fshehja ime"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "dhe mburoja ime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "për fjalën tënde"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "kam shpresuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:06.280580811Z",
+  "model": "glm-5.3"
+}

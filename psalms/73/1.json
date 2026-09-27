@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Psalm i Asafit. Vërtet, i mirë është Elohim ndaj Izraelit, ndaj të drejtëve në zemër.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Vërtet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ndaj Izraelit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ndaj të drejtëve"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "në zemër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.498254859Z",
+  "model": "glm-5.3"
+}

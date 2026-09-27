@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "«Nuk ka paqë», tha Jahve, «për të pabesët».",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "për të pabesët"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:05.355588106Z",
+  "model": "glm-5.3"
+}

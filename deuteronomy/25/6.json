@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe do të jetë që i parëlinduri që do të lindë ajo do të ngrihet mbi emrin e vëllait të tij të vdekur, dhe emri i tij nuk do të fshihet nga Izraeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dhe do të jetë që"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "i parëlinduri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "do të lindë ajo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "do të ngrihet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin e"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllait të tij"
+    },
+    {
+      "surface": "המת",
+      "gloss": "të vdekur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "do të fshihet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "nga Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:38.656527586Z",
+  "model": "glm-5.3"
+}

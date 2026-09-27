@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "A jam ⟨the⟩ deti, apo një përbindësh deti, që vë një roje mbi mua?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "përbindësh deti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vë"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "roje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:52.347627100Z",
+  "model": "glm-5.3"
+}

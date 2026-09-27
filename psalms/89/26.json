@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Do ta vendos dorën e tij mbi det dhe të djathtën e tij mbi lumenjtë.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Do ta vendos"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mbi det"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "dhe mbi lumenjtë"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "të djathtën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:08.099570889Z",
+  "model": "glm-5.3"
+}

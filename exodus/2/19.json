@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ato thanë: Një burrë egjiptian na shpëtoi nga dora e barinjve; dhe gjithashtu nxori ujë me kovën për ne dhe u dha ujë ⟨את⟩ tropeve.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një burrë"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egjiptian"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "na shpëtoi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barinjve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe gjithashtu"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "nxori ujë me kovën"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "me kovën"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "u dha ujë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tropeve"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tropeve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:48.521387679Z",
+  "model": "glm-5.3"
+}

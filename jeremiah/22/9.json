@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe do të thonë: «Sepse braktisën ⟨את⟩ besëlidhjen e Jahvesë, Elohimit të tyre, dhe u përkulën për perëndi të tjera dhe i shërbyen atyre.»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "dhe do të thonë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "braktisën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhjen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimit të tyre"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dhe u përkulën"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "për perëndi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "të tjera"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "dhe i shërbyen atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:13:40.201728178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Në ditët e tij Edomi u rebelua nga nën dorën e Judës, dhe bënë të mbretëronte mbi ta një mbret.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "në ditët e tij"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "u rebelua"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nga nën"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dhe bënë të mbretëronte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "një mbret"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:15.768863827Z",
+  "model": "glm-5.3"
+}

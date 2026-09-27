@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Pritëm paqen, por ⟨s'ka⟩ të mirë; ⟨pritëm⟩ një kohë shërimi — dhe ja, terrori!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "pritëm"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "paqen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "por s'ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirë"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "shërimi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "terrori"
+    }
+  ],
+  "timestamp": "2026-09-27T16:10:12.265131874Z",
+  "model": "glm-5.3"
+}

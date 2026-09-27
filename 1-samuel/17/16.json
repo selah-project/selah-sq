@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filisteu afrohej mëngjes e mbrëmje, dhe qëndronte në këmbë dyzet ditë.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Dhe afrohej"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteu"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "e mbrëmje"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "dhe qëndronte në këmbë"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:33.956461010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Mjerë! Zhurma e popujve të shumtë — si bubullima e deteve ulërijnë, dhe tërbimi i kombeve si tërbimi i ujërave të mëdha vërshojnë.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mjerë!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Zhurma"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "e popujve"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "të shumtë"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "si bubullima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "e deteve"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ulërijnë"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "dhe tërbimi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "e kombeve"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "si tërbimi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "e ujërave"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "të mëdha"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "vërshojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:33.558706142Z",
+  "model": "glm-5.3"
+}

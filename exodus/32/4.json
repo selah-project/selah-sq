@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe ai i mori nga duart e tyre dhe e formoi ⟨את⟩ atë me një daltë, dhe e bëri një viç të derdhur; dhe thanë: Këta janë perënditë e tua, o Israel, që të nxorrën nga vendi i Egjiptit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe i mori"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nga duart e tyre"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "dhe e formoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "me një daltë"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "dhe e bëri"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "viç"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "të derdhur"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Këta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "perënditë e tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "të nxorrën"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:33.532387286Z",
+  "model": "glm-5.3"
+}

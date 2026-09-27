@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Është koha për të vepruar, o Jahve; ⟨sepse⟩ ta kanë asgjësuar Torën tënde.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "koha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të vepruar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ta kanë asgjësuar"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:45.592316982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 59,
+  "translation": "Ata — ata enden për të ngrënë; nëse nuk ngopen, e kalojnë natën duke u ankuar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "enden"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "për të ngrënë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ngopen"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "e kalojnë natën duke u ankuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:51.024824203Z",
+  "model": "glm-5.3"
+}

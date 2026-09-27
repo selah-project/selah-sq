@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Gjashtë vite do të mbjellësh fushën tënde, dhe gjashtë vite do t'i prishësh pjergat e vreshtit tënd, dhe do të mbledhësh ⟨את⟩ frytin e saj.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "gjashtë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vite"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "do të mbjellësh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "fushën tënde"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe gjashtë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vite"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "do t'i prishësh pjergat"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vreshtit tënd"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dhe do të mbledhësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frytin e saj"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "frytin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:02.871898724Z",
+  "model": "glm-5.3"
+}

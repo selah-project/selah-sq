@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe do të bëj në ty ⟨את⟩ atë që nuk e kam bërë, dhe ⟨את⟩ atë që nuk do ta bëj më si kjo, për shkak të të gjitha neverave të tua.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "dhe do të bëj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që nuk e kam bërë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "e kam bërë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "atë që nuk do ta bëj më"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do ta bëj"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "si kjo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "יען",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "neverave të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:54.119418465Z",
+  "model": "glm-5.3"
+}

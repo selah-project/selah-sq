@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe u trondit dhe u drodha toka, dhe themelimet e maleve u tundën dhe u përzierën, sepse ai ndezi nga zemërimi.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "dhe u përzie"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "dhe u drodha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "dhe themelimet e"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maleve"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "u tundën"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "dhe u përzierën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ndizi nga zemërimi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:10.536473316Z",
+  "model": "glm-5.3"
+}

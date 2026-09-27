@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Dëgjoni këtë, të gjithë popujt; vini veshin, të gjithë banorët e ⟨botës⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "vini veshin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "⟨botës⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:57.391067848Z",
+  "model": "glm-5.3"
+}

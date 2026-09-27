@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Atje i kaploi ⟨ata⟩ një tmerr, se Elohim është në brezin e të drejtëve.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Atje"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "i kaploi frika"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "një tmerr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "në brezin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "e të drejtëve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:00.671896946Z",
+  "model": "glm-5.3"
+}

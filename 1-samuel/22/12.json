@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Sauli tha: «Dëgjo tani, bir i Ahitubit.» Dhe ai tha: «Ja, unë ⟨jam⟩, zotëria im.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitubit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja, unë jam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria im"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:37.632343985Z",
+  "model": "glm-5.3"
+}

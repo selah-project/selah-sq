@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe ⟨את⟩ popullin tim do ta mësojnë të dallojë mes të shenjtës dhe të përditshmes, dhe mes të papastërs dhe të pastërs do t'i bëjnë të njohur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "do ta mësojnë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtës"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "dhe të përditshmes"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "të papastërs"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "dhe të pastërs"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "do t'i bëjnë të njohur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:40:48.456017083Z",
+  "model": "glm-5.3"
+}

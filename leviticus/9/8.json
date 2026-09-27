@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe Aaroni iu afrua altarit dhe theri ⟨את⟩ viçin e mëkatit që ⟨ishte⟩ i tij.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhe iu afrua"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "dhe theri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viçin e mëkatit"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "viçin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "e mëkatit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:51.598819637Z",
+  "model": "glm-5.3"
+}

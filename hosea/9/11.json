@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Efraimi — si një zog do të fluturojë lavdia e tyre: nga lindja e fëmijëve, nga barku dhe nga mbajtja në bark.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimi"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "si një zog"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "do të fluturojë"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "lavdia e tyre"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "nga lindja e fëmijëve"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "dhe nga barku"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "dhe nga mbajtja në bark"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:25.030658100Z",
+  "model": "glm-5.3"
+}

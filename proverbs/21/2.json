@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Çdo rrugë e një njeriu ⟨i duket⟩ e drejtë në sytë e tij, por Jahve peshon zemrat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e një njeriu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "në sytë e tij"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "por peshon"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "zemrat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:50.964475038Z",
+  "model": "glm-5.3"
+}

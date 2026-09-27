@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ajo⟩ pa që ishte e vendosur të shkonte ⟨את⟩ bashkë me të, dhe pushoi t'i fliste asaj.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "që"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ishte e vendosur"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "të shkonte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bashkë me",
+      "marks": "me të (Noeminë)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "dhe pushoi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "të fliste"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "asaj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:50.104282555Z",
+  "model": "glm-5.3"
+}

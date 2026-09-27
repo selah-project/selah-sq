@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "⟨את⟩ rritjen e vetvetes të korrjes sate nuk do të korrësh, dhe ⟨את⟩ rrushin e hardhisë sate të panjohur nuk do të këpusësh; vit pushimi-Shabat do të jetë për ⟨the⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rritjen e vetvetes"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "rritjen e vetvetes"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "të korrjes sate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "do të korrësh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rrushin"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "rrushin"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "e hardhisë sate të panjohur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "do të këpusësh"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vit"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pushimi-Shabat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "për tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:41.724612892Z",
+  "model": "glm-5.3"
+}

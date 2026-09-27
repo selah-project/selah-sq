@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Le të më arrijnë mëshirat e tua, dhe do të jetoj, sepse Tora jote është kënaqësia ime.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "le të më arrijnë"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mëshirat e tua"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dhe do të jetoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora jote"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kënaqësia ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:17.203245924Z",
+  "model": "glm-5.3"
+}

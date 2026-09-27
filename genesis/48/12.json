@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Dhe Jozuei i nxori ⟨את⟩ ata nga gjunjët e tij, dhe u përkul me fytyrë përpara tij deri në tokë.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (bërët)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "gjunjët e tij"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "u përkul me fytyrë"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "përpara fytyrës së tij"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "deri në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:47.497403219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe vëllezërit e tij e zunë zilinë ndaj tij; por i ati i tij ruajti ⟨את⟩ fjalën.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "dhe e zunë zilinë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndaj tij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "dhe i ati i tij"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:30.193231816Z",
+  "model": "glm-5.3"
+}

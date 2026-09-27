@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Shpëtimbei dërgoi për popullin e vet; urdhëroi përjetë besëlidhjen e vet; i shenjtë dhe i frikshëm ⟨është⟩ emri i tij.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "shpëtimbei"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "për popullin e vet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e vet"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dhe i frikshëm"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:57.072419973Z",
+  "model": "glm-5.3"
+}

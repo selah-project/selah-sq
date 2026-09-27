@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe Moisiu ndezi lampat para Jahves, siç i kishte urdhëruar Jahve ⟨את⟩ Moisiun.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ndezi"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:40.739180485Z",
+  "model": "glm-5.3"
+}

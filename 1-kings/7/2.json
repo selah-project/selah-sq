@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe ndërtoi ⟨את⟩ shtëpinë e pyllit të Libanit: njëqind kubitë gjatësia e saj, dhe pesëdhjetë kubitë gjerësia e saj, dhe tridhjetë kubitë lartësia e saj, mbi katër rreshta shtyllash kedri, dhe trarë të prerë kedri mbi shtyllat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e pyllit të Libanit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "יער",
+      "gloss": "e pyllit"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "të Libanit"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gjatësia e saj"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dhe pesëdhjetë"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gjerësia e saj"
+    },
+    {
+      "surface": "ו שלשים",
+      "gloss": "dhe tridhjetë"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "lartësia e saj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "katër"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rreshta"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "shtyllash"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kedri"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "dhe trarë të prerë"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kedri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "shtyllat"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:20.636752708Z",
+  "model": "glm-5.3"
+}

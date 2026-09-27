@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe bëri atë që ⟨është⟩ e drejtë në sytë e Jahvesë, dhe eci në të gjitha rrugët e Davidit, atit të tij, dhe nuk u shmang djathtas as majtas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "të drejtën"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe eci"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugët e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "סר",
+      "gloss": "u shmang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "djathtas"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "as majtas"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:16.065708191Z",
+  "model": "glm-5.3"
+}

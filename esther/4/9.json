@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Hataku erdhi dhe i tregoi Estërës ⟨את⟩ fjalët e Mordokait.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataku"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe i tregoi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estërës"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "e Mordokait"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:51.344190413Z",
+  "model": "glm-5.3"
+}

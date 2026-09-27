@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Të Davidit, një mizmor. Oracle i Jahvesë ndaj zotërisë sime: «Ulu në të djathtën time, derisa të vë armiqtë e tu ⟨si⟩ skamend nën këmbët e tua.»",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Të Davidit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ndaj zotërisë sime"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ulu"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "në të djathtën time"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "të vë"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "skamend"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "nën këmbët e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:35.813182671Z",
+  "model": "glm-5.3"
+}

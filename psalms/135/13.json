@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Jahve, emri yt ⟨është⟩ për jetë, Jahve, kujtimi yt brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "kujtimi yt"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "për brezin"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dhe brezin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:41.472535685Z",
+  "model": "glm-5.3"
+}

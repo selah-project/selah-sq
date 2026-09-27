@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Nëse merr për vete një ⟨grua⟩ tjetër, ushqimin e saj, veshjen e saj dhe të drejtën e saj bashkëshortore, nuk duhet t'ia pakësojë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "një ⟨grua⟩ tjetër"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ushqimin e saj"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "veshjen e saj"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "dhe të drejtën e saj bashkëshortore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "duhet t'ia pakësojë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:12.135514545Z",
+  "model": "glm-5.3"
+}

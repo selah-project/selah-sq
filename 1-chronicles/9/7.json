@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe nga bijtë e Binjaminit: Sallu, bir i Meshullamit, bir i Hodavjahut, bir i Hasenuahut.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminit"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavjahut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenuahut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:14.750802590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Shkopin e forcës sate do të dërgojë Jahve nga Cioni: sundo në mes të armiqve të tu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "shkopin"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "të forcës sate"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do të dërgojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "nga Cioni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "sundo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "të armiqve të tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:35.813451722Z",
+  "model": "glm-5.3"
+}

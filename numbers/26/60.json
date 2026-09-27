@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe iu lindën Aaronit ⟨את⟩ Nadabi dhe ⟨את⟩ Abihu, ⟨את⟩ Eleazari dhe ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Dhe iu lindën"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eleazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eleazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:14.025291443Z",
+  "model": "glm-5.3"
+}

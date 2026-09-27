@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Ky është brezi i atyre që e kërkojnë ⟨Atë⟩, që kërkojnë fytyrën tënde — Jakobi. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ky"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "i atyre që e kërkojnë"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "që kërkojnë"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:31.499197837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "dhe në hyrjen e Çadrës së Takimit nuk e sjell ⟨atë⟩ për ta bërë ⟨אתו⟩ për Jahven — ai njeri do të pritet nga populli i vet.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrjen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të Takimit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "do ta sjellë"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për ta bërë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "për Jahven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahven"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "dhe do të pritet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ai njeri"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "nga populli i vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:24.478379099Z",
+  "model": "glm-5.3"
+}

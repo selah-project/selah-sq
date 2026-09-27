@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "A ndaj njeriut ⟨është⟩ ankesa ime? Dhe nëse ⟨është kështu⟩, pse të mos më shkurtohet fryma?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "A ⟨është⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ndaj njeriut"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ankesa ime"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "më shkurtohet"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "fryma ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:31:56.235237778Z",
+  "model": "glm-5.3"
+}

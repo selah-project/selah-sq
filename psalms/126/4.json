@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 126,
+  "translation": "Kthehu, o Jahve, ⟨את⟩ robërinë tonë, si përrenjtë e shkretëtirës së Jugut!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robërinë tonë"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "robërinë tonë"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "si përrenjtë"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "të shkretëtirës së Jugut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:03.003549077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Gebali, dhe Amoni, dhe Amaleku, Filishtia bashkë me banorët e Tirit.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebali"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "dhe Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dhe Amaleku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filishtia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "banorët e"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tirit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:27.578233764Z",
+  "model": "glm-5.3"
+}

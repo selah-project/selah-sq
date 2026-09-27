@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Kushdo që shtrihet me një kafshë, do të dënohet me vdekje.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kushdo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "shtrihet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshë"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të dënohet me vdekje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:48.404339102Z",
+  "model": "glm-5.3"
+}

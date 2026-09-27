@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Sepse atë që ti ke goditur, ata e përndjekin, dhe dhimbjen e të shpuarve të tu e rrëfejnë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ke goditur"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "e përndjekin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "dhimbjen"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "të shpuarve të tu"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "e rrëfejnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:30.215344574Z",
+  "model": "glm-5.3"
+}

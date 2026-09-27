@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Kthehen të pabesët në Sheol, të gjitha kombet që harrojnë Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kthehen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "të pabesët"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "që harrojnë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:58.419337738Z",
+  "model": "glm-5.3"
+}

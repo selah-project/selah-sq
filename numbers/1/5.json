@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe këta janë emrat e burrave që do të qëndrojnë ⟨את⟩ me ju: për Rubenin, Elicuri, bir i Shedeurit.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "emrat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "të burrave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "do të qëndrojnë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ me ju",
+      "marks": "Elicuri, bir i Shedeurit"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "për Rubenin"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elicuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "i Shedeurit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:02.969076500Z",
+  "model": "glm-5.3"
+}

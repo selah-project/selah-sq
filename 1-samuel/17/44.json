@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe filisteja i tha Davidit: «Eja te unë, dhe do t'ia jap ⟨את⟩ mishin tënd shpendëve të qiellit dhe bishave të fushës.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dhe do të jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishin tënd"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "mishin tënd"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "shpendëve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "të qiellit"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "dhe bishave"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "të fushës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:03.614763114Z",
+  "model": "glm-5.3"
+}

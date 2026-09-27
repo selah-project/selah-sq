@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Ti ke urdhëruar që kërkimet e tua të ruhen me zell të madh.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ke urdhëruar"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "kërkimet e tua"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "të ruhen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "me zell të madh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:17.945435223Z",
+  "model": "glm-5.3"
+}

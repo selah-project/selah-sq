@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Shpenguesi ynë — Jahve Tsevaot është emri i tij — i Shëniti i Izraelit.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Shpenguesi ynë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i Shëniti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:46.856817808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Të gjithë që më shohin më tallin; ⟨ ata ⟩ hapin buzën, tundin kryet, duke thënë:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Të gjithë"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "që më shohin"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "më tallin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "hapin"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "buzën"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "tundin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kryet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:57.327375835Z",
+  "model": "glm-5.3"
+}

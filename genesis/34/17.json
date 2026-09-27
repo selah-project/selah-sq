@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe nëse nuk na dëgjoni për t'u rrethprehur, atëherë do të marrim ⟨את⟩ vajzën tonë dhe do të ikim.»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "neve (na)"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "për t'u rrethprehur"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "do të marrim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajzën tonë"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "vajzën tonë"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "do të ikim"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:51.249909372Z",
+  "model": "glm-5.3"
+}

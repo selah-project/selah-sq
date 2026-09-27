@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe lëshoi ⟨את⟩ korbën, dhe ajo dilte — duke dalë e duke u kthyer — derisa u thanuan ujërat nga mbi tokën.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe lëshoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbën"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "korbën"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe dilte"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "duke dalë"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e duke u kthyer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "u thanuan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:45.219200749Z",
+  "model": "glm-5.3"
+}

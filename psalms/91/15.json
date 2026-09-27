@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Ai do të më thërrasë dhe unë do t'i përgjigjem; unë do të jem me të në ngushticë; do ta shpëtoj dhe do ta nderoj.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ai do të më thërrasë"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "dhe unë do t'i përgjigjem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "në ngushticë"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "do ta shpëtoj"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "dhe do ta nderoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:26.031462165Z",
+  "model": "glm-5.3"
+}

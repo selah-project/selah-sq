@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe pas atij e gjycoi ⟨את⟩ Izraelin Abdon, bir i Hillelit, Piratoniti.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjycoi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "i Hillelit"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratoniti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:06:16.849132269Z",
+  "model": "glm-5.3"
+}

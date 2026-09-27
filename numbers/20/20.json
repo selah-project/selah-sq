@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe ai tha: «Nuk do të kalosh.» Dhe Edomi dali përpara tij me popull të shumtë dhe me dorë të fortë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "do të kalosh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dhe dali"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "përpara tij"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "me popull"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "të shumtë"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "dhe me dorë"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "të fortë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:18.236149371Z",
+  "model": "glm-5.3"
+}

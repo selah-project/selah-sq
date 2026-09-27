@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Dhe ajo i tha Abrahamit: \"Përzë robëreshën këtë dhe ⟨את⟩ birin e saj, sepse nuk do të trashëgojë bir i robëreshës kjo me birin tim, me Jichakun.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "përzë"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "robëreshën"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "birin e saj"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "birin e saj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "do të trashëgojë"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "i robëreshës"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "birin tim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:10.488713109Z",
+  "model": "glm-5.3"
+}

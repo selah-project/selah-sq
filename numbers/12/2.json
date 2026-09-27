@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe thanë: «Vallë, a foli Jahve vetëm me Moisin? A nuk foli gjithashtu edhe me ne?» Dhe Jahve e dëgjoi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "vallë, a"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "me Moisin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gjithashtu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhe e dëgjoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:24.473836854Z",
+  "model": "glm-5.3"
+}

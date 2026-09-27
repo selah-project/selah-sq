@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "dhe ⟨që⟩ të bëni dallim mes ⟨të⟩ shenjtës dhe mes ⟨të⟩ përditshmes, dhe mes ⟨të⟩ papastërt dhe mes ⟨të⟩ pastërt —",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "dhe të bëni dallim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mes"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "të shenjtës"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "החל",
+      "gloss": "të përditshmes"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "të papastërt"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "të pastërt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:32.638612745Z",
+  "model": "glm-5.3"
+}

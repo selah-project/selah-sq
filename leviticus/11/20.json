@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Çdo krijesë zvarritëse me krahë që shkon në katër këmbë — neveri ⟨është⟩ ajo për ju.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "krijesë zvarritëse"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "me krahë"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "që shkon"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "katër këmbë"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "neveri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:04.640711450Z",
+  "model": "glm-5.3"
+}

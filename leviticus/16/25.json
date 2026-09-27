@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe ⟨את⟩ yndyrën e flijimit për mëkatin do ta djegë në tym mbi altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "e flijimit për mëkatin"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "do ta djegë në tym"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mbi altar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:37.067436652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe i numëroi ata në Bezhek, dhe bënë bijtë e Izraelit treqind mijë, dhe njerëzit e Judës tridhjetë mijë.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "dhe i numëroi ata"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "në Bezhek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe njerëzit e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:41.316736002Z",
+  "model": "glm-5.3"
+}

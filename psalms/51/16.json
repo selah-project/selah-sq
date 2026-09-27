@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 51,
+  "translation": "Më çliro nga fajësia e gjakut, o Elohim, Elohim i shpëtimit tim, dhe gjuha ime do të këndojë me zë të lartë drejtësinë tënde.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "më çliro"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "nga fajësia e gjakut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "shpëtimit tim"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "do të këndojë me zë të lartë"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "gjuha ime"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "drejtësinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:48.003579939Z",
+  "model": "glm-5.3"
+}

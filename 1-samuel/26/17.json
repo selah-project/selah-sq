@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe Sauli e njohu ⟨את⟩ zërin e Davidit dhe tha: «A është ky zëri yt, o bir im David?» Dhe Davidi tha: «Zëri im, o zotëria ime mbret.»",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "e njohu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "zëri yt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bir im"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zëri im"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zotëria ime"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbret"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:40.910514267Z",
+  "model": "glm-5.3"
+}

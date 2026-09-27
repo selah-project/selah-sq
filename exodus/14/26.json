@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe tha Jahve ndaj Moisiut: «Shqa ⟨את⟩ dorën tënde mbi det, dhe ujërat le të kthehen mbi Egjiptin, mbi qerren e tij dhe mbi kalorësit e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Shqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "det"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "le të kthehen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "qerren e tij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe mbi"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "kalorësit e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:34.993795323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Nuk u ula me njerëz të kotësisë dhe me të fshehtit nuk do të hyj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "u ula"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "njerëz"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "të kotësisë"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "të fshehtit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "do të hyj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:32.174174383Z",
+  "model": "glm-5.3"
+}

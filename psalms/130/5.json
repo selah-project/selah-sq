@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 130,
+  "translation": "Prita Jahven, priti shpirti im, dhe për fjalën e Tij ajo ⟨mbeti⟩ në pritje.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Prita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "priti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "dhe për fjalën e Tij"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "mbeta në pritje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:49.996531554Z",
+  "model": "glm-5.3"
+}

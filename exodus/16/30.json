@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe populli pushoi në ditën e shtatë.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "të shtatë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:58.218112653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe Moisi e paraqiti ⟨את⟩ çështjen e tyre para Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "paraqiti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çështjen e tyre"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "çështjen e tyre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:40.232853989Z",
+  "model": "glm-5.3"
+}

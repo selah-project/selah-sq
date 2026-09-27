@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dëgjova ⟨את⟩ zërin e fjalëve të tij; dhe sapo dëgjova ⟨את⟩ zërin e fjalëve të tij, përkundraza në një gjumë të thellë mbi fytyrën time, dhe fytyra ime ⟨ishte⟩ drejt tokës.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "dëgjova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "e fjalëve të tij"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "dhe sapo dëgjova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "e fjalëve të tij"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "përkundraza"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "në një gjumë të thellë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën time"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dhe fytyra ime"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "drejt tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:35.733392183Z",
+  "model": "glm-5.3"
+}

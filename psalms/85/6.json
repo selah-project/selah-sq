@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "A për gjithmonë do të zemërohesh kundër nesh? A do të tërheqësh hundën tënde, inatin tënd, brez pas brezi?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "A për gjithmonë"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "do të zemërohesh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kundër nesh"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "A do të tërheqësh"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hundën tënde, inatin"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brez pas"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:15.937458709Z",
+  "model": "glm-5.3"
+}

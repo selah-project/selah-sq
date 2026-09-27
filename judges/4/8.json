@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Baraku i tha asaj: Nëse shkon me mua, unë do të shkoj; dhe nëse nuk shkon me mua, unë nuk do të shkoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "unë do të shkoj"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "do të shkoj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:57.046152299Z",
+  "model": "glm-5.3"
+}

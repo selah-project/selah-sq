@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "ruaj të mos harrosh ⟨את⟩ Jahve, i cili të nxori nga toka e Egjiptit, nga shtëpia e robërve.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "פן",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "harrosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "të nxori"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robërve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:43:35.979249847Z",
+  "model": "glm-5.3"
+}

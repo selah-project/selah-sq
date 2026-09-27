@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 6:5",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe thashë: Mjerë unë, sepse jam i shkatërruar, sepse unë jam një njeri me buzë të papastër, dhe në mes të një populli me buzë të papastër banoj unë, sepse ⟨את⟩ Mbretin, Jahve Tsevaot, i kanë parë sytë e mi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "mjerë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "unë (mua)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נדמיתי",
+      "gloss": "jam i shkatërruar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "i papastër"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "me buzë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dhe në mes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "i papastër"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "me buzë"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "banoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mbretin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "kanë parë"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:24.648654697Z",
+  "model": "glm-5.3"
+}

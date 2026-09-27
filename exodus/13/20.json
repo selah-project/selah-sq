@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe u nisën nga Sukothi dhe e ngritën kampin në Etam, në buzë të shkretëtirës.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "dhe u nisën"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "nga Sukothi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dhe e ngritën kampin"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "në Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "në buzë"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "të shkretëtirës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:04.520004118Z",
+  "model": "glm-5.3"
+}

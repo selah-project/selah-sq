@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Faraoni u kthye dhe hyri në shtëpinë e tij, dhe nuk e vuri zemrën e tij as ndaj kësaj.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שת",
+      "gloss": "e vuri"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zemrën e tij"
+    },
+    {
+      "surface": "גם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ndaj kësaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:58.571316819Z",
+  "model": "glm-5.3"
+}

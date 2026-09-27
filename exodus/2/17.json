@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe erdhën barinjtë dhe i përzunë ato; dhe u ngrit Moisiu dhe i shpëtoi ato dhe u dha ujë ⟨את⟩ tropeve të tyre.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barinjtë"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "i përzunë ato"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "i shpëtoi ato"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "u dha ujë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tropeve të tyre"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "tropeve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:48.520908179Z",
+  "model": "glm-5.3"
+}

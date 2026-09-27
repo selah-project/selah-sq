@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Jahve i ndihmon dhe i shpëton ata; i shpëton ata nga të ligjtë dhe i shpëton, sepse kanë gjetur strehë te ai.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "i ndihmon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "dhe i shpëton"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "i shpëton"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "nga të ligjtë"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "dhe i shpëton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "kanë gjetur strehë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "te ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:20.231400283Z",
+  "model": "glm-5.3"
+}

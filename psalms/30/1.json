@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Mizmor, një këngë e inaugurimit të shtëpisë, e Davidit.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "një këngë"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "e inaugurimit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "të shtëpisë"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:39.312863713Z",
+  "model": "glm-5.3"
+}

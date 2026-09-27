@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe më tha: Bir i njeriut, ⟨את⟩ të gjitha fjalët e mia që do të të flas, mëri në zemrën tënde dhe me veshët e tua dëgjoi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe më tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i njeriut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e mia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "do të flas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "të"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mëri"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "në zemrën tënde"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "dhe me veshët e tua"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjoi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:18.123977044Z",
+  "model": "glm-5.3"
+}

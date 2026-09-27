@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ti do t'i bisedosh atij dhe do të vesh ⟨את⟩ fjalët në gojën e tij; dhe unë do të jem me gojën tënde dhe me gojën e tij, dhe do t'ju mësoj ⟨את⟩ juve ⟨את⟩ atë që do të bëni.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "dhe ti do të bisedosh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "dhe do të vesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "në gojën e tij"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "do të jem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gojën tënde"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gojën e tij"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "dhe do t'ju mësoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që do të bëni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "do të bëni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:24.588371658Z",
+  "model": "glm-5.3"
+}

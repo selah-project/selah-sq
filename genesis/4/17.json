@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Kajini njohu ⟨את⟩ gruan e tij, dhe ajo mbeti barrë dhe lindi ⟨את⟩ Hanokun; dhe ndodhi që ai po ndërtonte një qytet, dhe quajti emrin e qytetit sipas emrit të birit të tij, Hanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "njohu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gruan e tij"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mbeti barrë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokun"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "po ndërtonte"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytet"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "quajti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sipas emrit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "të birit të tij"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:34.985278222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ndodhi që, kur mbreti Hizkia e dëgjoi, ai grisi ⟨את⟩ rrobat e tij dhe u mbulua me thes dhe hyri në shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tij"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "u mbulua"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "me thes"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:16.845713174Z",
+  "model": "glm-5.3"
+}

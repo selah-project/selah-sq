@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe ndodhi në ditën e dytë, për vdekjen e ⟨את⟩ Gedaljahut, dhe asnjeri nuk e dinte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השני",
+      "gloss": "të dytë"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "për vdekjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahut"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahut"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe asnjeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e dinte"
+    }
+  ],
+  "timestamp": "2026-09-27T16:20:33.073332763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe kreu i rojeve mori ⟨את⟩ Serajahën, priftin kryesor, dhe ⟨את⟩ Tsefanjahën, priftin e dytë, dhe ⟨את⟩ tre rojtësit e pragut.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kreu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "i rojeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajahën"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajahën"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priftin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kryesor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tsefanjahën"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjahën"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priftin"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "tre"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "rojtësit"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "e pragut"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:58.166323972Z",
+  "model": "glm-5.3"
+}

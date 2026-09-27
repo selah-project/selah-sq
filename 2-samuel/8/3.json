@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Davidi rroi ⟨את⟩ Hadadezerin, bir të Rehovit, mbret të Tsovah-s, kur shkoi ai të kthente dorën e vet ⟨kah⟩ lumi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "rroi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerin"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "të Rehovit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "të Tsovah-s"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "kur shkoi ai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "të kthente"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e vet"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨kah⟩ lumi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:56.789635932Z",
+  "model": "glm-5.3"
+}

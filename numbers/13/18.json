@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "dhe do të shikoni ⟨את⟩ tokën, çfarë është ⟨ajo⟩, dhe ⟨את⟩ popullin që banon mbi të — a është ⟨ai⟩ i fortë apo i dobët, a është ⟨ai⟩ pak a shumë.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "dhe do të shikoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "që banon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "i fortë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a është ai"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "apo i dobët"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a është ai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:33:23.308898080Z",
+  "model": "glm-5.3"
+}

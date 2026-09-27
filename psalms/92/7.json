@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 92,
+  "translation": "Një njeri i pamend nuk e di, dhe një i pandërçjest nuk e kupton ⟨את⟩ këtë:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "בער",
+      "gloss": "i pamend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e di"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "dhe një i pandërçjest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "e kupton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:43.504932866Z",
+  "model": "glm-5.3"
+}

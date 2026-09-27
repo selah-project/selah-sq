@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Psalm i Asafit. Elohim qëndron në kuvendin e El-it; në mes të perëndive gjykon.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asafit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "në kuvendin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e El-it"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "e perëndive"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "gjykon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:15.605761130Z",
+  "model": "glm-5.3"
+}

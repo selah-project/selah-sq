@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "Le të shkrihen si uji që rrjedh, le të zhduken ⟨te keqi i tyre⟩; kur ai të ngjesh harkun, shigjetat le të thyren si ⟨të prera⟩.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Le të shkrihen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "מים",
+      "gloss": "uji"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "që rrjedh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨te keqi i tyre⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "të ngjesh harkun"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "shigjetat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "të thyren"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:27.311043777Z",
+  "model": "glm-5.3"
+}

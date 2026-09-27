@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të jetë, kur të shtrihet ai, ti do ta dish ⟨את⟩ vendin ku do të shtrihet ⟨atje⟩; dhe do të hysh, dhe do ta zbulosh këmbëfundin e tij dhe do të shtrihesh; dhe ai do të të tregojë ⟨את⟩ atë që do të bësh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "kur të shtrihet ai"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "do ta dish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "do të shtrihet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨atje⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dhe do të hysh"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "dhe do ta zbulosh"
+    },
+    {
+      "surface": "מרגלתיv",
+      "gloss": "këmbëfundin e tij"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "dhe do të shtrihesh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "do të tregojë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që do të bësh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "do të bësh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:45.233558085Z",
+  "model": "glm-5.3"
+}

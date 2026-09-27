@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 148,
+  "translation": "Lëvdoni Jah! Lëvdoni ⟨את⟩ Jahve nga qielli, lëvuajeni në lartësitë.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qielli"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvuajeni"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "në lartësitë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:22.465807010Z",
+  "model": "glm-5.3"
+}

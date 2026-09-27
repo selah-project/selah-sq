@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Korrin e të cilit ai që ka uri e ha, dhe edhe nga gjembat ia merr, dhe të etshmit ia thithin pasurinë.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "e të cilit"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "korrin e tij"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ai që ka uri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e ha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe edhe nga"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "gjembat"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ia merr"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "dhe ... e thith"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "të etshmit"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "pasurinë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:06.651361404Z",
+  "model": "glm-5.3"
+}

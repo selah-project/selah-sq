@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Në barkun e ngjiti ⟨את⟩ vëllain e vet nga thembra, dhe në forcën e tij u përball me ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "në barkun"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "e ngjiti nga thembra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllain e vet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllain e vet"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "dhe në forcën e tij"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "u përball"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:00.001113221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dërgo bukën tënde mbi faqen e ujrave, sepse pas shumë ditësh do ta gjesh atë.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Dërgo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bukën tënde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujrave"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "pas shumësisë së"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ditëve"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "do ta gjesh atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:55.860163988Z",
+  "model": "glm-5.3"
+}

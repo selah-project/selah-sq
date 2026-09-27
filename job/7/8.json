@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Syri që më sheh nuk do të më vëzhgojë më; sytë e tua ⟨Janë⟩ mbi mua — dhe unë nuk ⟨Jam⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "do të më vëzhgojë"
+    },
+    {
+      "surface": "עין",
+      "gloss": "syri"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "që më sheh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sytë e tua"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "dhe unë nuk ⟨Jam⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:44.709610246Z",
+  "model": "glm-5.3"
+}

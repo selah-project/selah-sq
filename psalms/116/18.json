@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 116,
+  "translation": "Lupjet e mia Jahves do t'i paguaj, tani ⟨e⟩ lutem, përpara gjithë popullit të tij.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Lupjet e mia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "do t'i paguaj"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "tani, përpara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨e⟩ lutem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:51.767557489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe u ktheva unë dhe pashë ⟨את⟩ habelet nën diell.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "dhe u ktheva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habelet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:35.591026335Z",
+  "model": "glm-5.3"
+}

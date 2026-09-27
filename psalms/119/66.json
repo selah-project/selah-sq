@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Të mirën e gjykimit dhe të diturisë mëso-mi, sepse në urdhërimet e tua kam besuar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "e gjykimit"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dhe të diturisë"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mëso-mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "në urdhërimet e tua"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "kam besuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:56.464083108Z",
+  "model": "glm-5.3"
+}

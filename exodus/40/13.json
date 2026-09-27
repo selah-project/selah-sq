@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do t'i veshësh ⟨את⟩ Aaronin me ⟨את⟩ rrobat e shenjta, dhe do ta vajosësh ⟨את⟩ atë, dhe do ta shenjtërosh ⟨את⟩ atë, dhe do të shërbejë si prift për mua.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "dhe do t'i veshësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrobat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rrobat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "të shenjta"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do ta vajosësh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dhe do ta shenjtërosh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "dhe do të shërbejë si prift"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:52.798403283Z",
+  "model": "glm-5.3"
+}

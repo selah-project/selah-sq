@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Nahor jetoi njëzet e nëntë vjet, dhe lindi ⟨את⟩ Terahun.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dhe jetoi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nëntë"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dhe njëzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terahun"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahun"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:22.798621143Z",
+  "model": "glm-5.3"
+}

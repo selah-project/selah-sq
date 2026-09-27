@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ai shikoi andej e këndej, dhe pa se nuk kishte ⟨asnjë⟩ njeri, dhe vrau ⟨את⟩ egjiptianin dhe e fshehu atë në rërë.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Dhe ai shikoi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "andej"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e këndej"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk kishte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨asnjë⟩ njeri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dhe vrau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egjiptianin"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egjiptianin"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "dhe e fshehu atë"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "në rërë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.914138382Z",
+  "model": "glm-5.3"
+}

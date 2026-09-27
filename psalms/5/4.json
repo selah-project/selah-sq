@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Jahve, në mëngjes dëgjon zërin tim; në mëngjes përgatit për ty ⟨lutjen time⟩ dhe pres.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërin tim"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "përgatit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "dhe pres"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:26.254032799Z",
+  "model": "glm-5.3"
+}

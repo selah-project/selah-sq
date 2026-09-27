@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Davidi ishte i mënçur në të gjitha rrugët e tij, dhe Jahve ⟨ishte⟩ me të.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugët e tij"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "i mënçur"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:10.601230497Z",
+  "model": "glm-5.3"
+}

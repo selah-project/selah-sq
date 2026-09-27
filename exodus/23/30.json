@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Ngadalë e ngadalë do t'i dëboj ata nga para jesh, derisa të rritesh dhe të trashëgosh ⟨את⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ngadalë"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "e ngadalë"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "do t'i dëboj"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nga para jesh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "të rritesh"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "dhe të trashëgosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:03.950343378Z",
+  "model": "glm-5.3"
+}

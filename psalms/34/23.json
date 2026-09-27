@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Jahve shpengon shpirtin e shërbëtorëve të tij, dhe asnjë nga ata që strehohen te ai nuk do të dënohet.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "shpengon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirtin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "e shërbëtorëve të tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "do të dënohet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë nga"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "ata që strehohen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "te ai"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:59.047920105Z",
+  "model": "glm-5.3"
+}

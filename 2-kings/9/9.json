@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe do të bëj ⟨את⟩ shtëpinë e Ahabit si shtëpinë e Jeroboamit, birit të Nebatit, dhe si shtëpinë e Baashës, birit të Ahiahut.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Ahabit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "e Ahabit"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "si shtëpinë"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "e Jeroboamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "të Nebatit"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "dhe si shtëpinë"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "e Baashës"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "të Ahiahut"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:16.995387857Z",
+  "model": "glm-5.3"
+}

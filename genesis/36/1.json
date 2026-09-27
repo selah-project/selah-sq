@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe këto janë ⟨prejardhja⟩ e Esaut — ai është Edomi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këto"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "prejardhja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "e Esaut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:31.187291235Z",
+  "model": "glm-5.3"
+}

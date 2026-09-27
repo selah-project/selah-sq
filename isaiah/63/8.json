@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 63,
+  "translation": "Dhe tha: Vërtet populli im janë ata, bij që nuk do të gënjejnë; dhe ai u bë atyre shpëtimtar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "המה",
+      "gloss": "janë ata"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "do të gënjejnë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ai u bë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "shpëtimtar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:24.479446887Z",
+  "model": "glm-5.3"
+}

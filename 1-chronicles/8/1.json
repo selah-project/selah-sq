@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Beniamini lindi ⟨את⟩ Belanë, të parëlindurin e tij; Ashbeli ⟨ishte⟩ i dyti, dhe Aharahu i treti.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Beniamini"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belanë"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belanë"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "të parëlindurin e tij"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbeli"
+    },
+    {
+      "surface": "השני",
+      "gloss": "i dyti"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "dhe Aharahu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "i treti"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:26.826017964Z",
+  "model": "glm-5.3"
+}

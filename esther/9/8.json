@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe ⟨את⟩ Poratën, dhe ⟨את⟩ Adaljanë, dhe ⟨את⟩ Aridatën,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Poratën"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adaljanë"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adaljanë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aridatën"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:05.397105159Z",
+  "model": "glm-5.3"
+}

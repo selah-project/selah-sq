@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe ndodhi që, kur Moisi ngrente dorën, Izraeli mbizotëronte; dhe kur e lëshonte dorën, mbizotëronte Amaleku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ngrente"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "mbizotëronte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "dhe kur"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "e lëshonte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "mbizotëronte"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleku"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:51.208891842Z",
+  "model": "glm-5.3"
+}

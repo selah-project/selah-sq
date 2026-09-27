@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Në dëshirën time do t'i lidh, dhe do të mblidhen popujt kundër tyre, kur të lidhen për dy paudhësitë e tyre.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "Në dëshirën time"
+    },
+    {
+      "surface": "וואסרם",
+      "gloss": "dhe do t'i lidh"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "dhe do të mblidhen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kundër tyre"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "kur të lidhen"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "për dy"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "paudhësitë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:00.417742212Z",
+  "model": "glm-5.3"
+}

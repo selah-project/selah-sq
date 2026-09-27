@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Për dirigjentin, sipas Jeduthunit. Një psalëm i Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jeduthunit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalëm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:18.683237616Z",
+  "model": "glm-5.3"
+}

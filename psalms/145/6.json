@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Fuqinë e veprave të tua të frikshme ⟨do ta rrëfejnë⟩ dhe madhështinë tënde do ta tregoj.",
+  "tokens": [
+    {
+      "surface": "וֶעֱזוּז",
+      "gloss": "Fuqinë e"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "veprave të tua të frikshme"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "⟨do ta rrëfejnë⟩"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "dhe madhështinë tënde"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "do ta tregoj"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:32.714102578Z",
+  "model": "glm-5.3"
+}

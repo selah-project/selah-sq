@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe këta janë bijtë e Anahut: Dishoni dhe Oholibamaja, bija e Anahut.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dhe këta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahut"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Dishoni"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "dhe Oholibamaja"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bija e"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:03.112990793Z",
+  "model": "glm-5.3"
+}

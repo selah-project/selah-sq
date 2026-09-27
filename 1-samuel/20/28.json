@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jonatani iu përgjigj Saulit ⟨את⟩: Davidit m'u kërkua shumë për të shkuar në Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "m'u kërkua shumë"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "kërkim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "prej meje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "për të shkuar në"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:54.857128113Z",
+  "model": "glm-5.3"
+}

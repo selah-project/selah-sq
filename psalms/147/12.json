@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 147,
+  "translation": "Lëvdo, o Jeruzalem, ⟨את⟩ Jahvenë; lëvdo, o Sion, Elohim-in tënd.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Lëvdo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jeruzalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvenë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenë"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "lëvdo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in tënd"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "o Sion"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:53.379414041Z",
+  "model": "glm-5.3"
+}

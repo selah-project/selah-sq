@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Secili nënën e tij dhe atin e tij të drizë, dhe ⟨את⟩ Shabbatet e mia t'i ruani: unë ⟨jam⟩ Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nënën e tij"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "dhe atin e tij"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "të drizë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatet e mia"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabbatet e mia"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "t'i ruani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:18.319921602Z",
+  "model": "glm-5.3"
+}

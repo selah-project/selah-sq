@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Jahve do të luftojë për ju, dhe ju do të heshtni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "do të luftojë"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dhe ju"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "do të heshtni"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:37.160354466Z",
+  "model": "glm-5.3"
+}

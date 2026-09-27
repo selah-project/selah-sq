@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe u kthye e rindërtoi vendet e larta që Hizkiahu, ati i tij, i kishte rrënuar, dhe ngriti altarë për Baalët, dhe bëri Ashera, dhe ra përmbath para gjithë ushtrisë së qiejve dhe i shërbeu ⟨את⟩ atyre.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "rindërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendtë e lartat"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vendtë e lartat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "i kishte rrënuar"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngriti"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarë"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "për Baalët"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ra përmbath"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para gjithë"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ushtrisë së"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejve"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "i shërbeu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:17.395019877Z",
+  "model": "glm-5.3"
+}

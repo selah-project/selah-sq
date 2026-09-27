@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Kush vjedh ⟨etë⟩ një njeri — qofshin shitur ⟨atë⟩ nga ai, qofshin gjetur ⟨atë⟩ në dorën e tij — me vdekje do të dënohet.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Kush vjedh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një njeri"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "dhe e shet atë"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "dhe gjendet"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të dënohet me vdekje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:50.102355416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "«Keq, keq», thotë blerësi, dhe kur ⟨ai⟩ largohet, atëherë lavdërohet.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Keq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "keq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "blerësi"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "dhe largohet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ai⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "lavdërohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:42.172055953Z",
+  "model": "glm-5.3"
+}

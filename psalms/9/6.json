@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "E qorre kombet, i shkatërrove të pabëtët, emrin e tyre e fshije përjetë e përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "e qorre"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "i shkatërrove"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "të pabëtët"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "emrin e tyre"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "e fshije"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:50.357098224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Edhe të gjithë që presin ⟨në ty⟩ nuk do të turpërohen; do të turpërohen ⟨ata⟩ që bëjnë tradhti pa shkak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "që presin në ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "do të turpërohen"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "do të turpërohen"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "që bëjnë tradhti"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "pa shkak"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.617219824Z",
+  "model": "glm-5.3"
+}

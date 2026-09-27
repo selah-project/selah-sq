@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "I bekuar je ti në hyrjen tënde, dhe i bekuar je ti në daljen tënde.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "në hyrjen tënde"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "dhe i bekuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "në daljen tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:11.285528012Z",
+  "model": "glm-5.3"
+}

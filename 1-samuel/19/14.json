@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Sauli dërgoi të dërguar për të marrë ⟨את⟩ Davidin, dhe ajo tha: «Është i sëmurë.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe dërgoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "të dëguar"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "për të marrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe ajo tha"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "i sëmurë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:26.792328284Z",
+  "model": "glm-5.3"
+}

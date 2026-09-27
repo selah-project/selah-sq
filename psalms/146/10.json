@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Jahve do të mbretërojë përjetë, Elohim i tyre, o Sion, brez pas brezi. Lëvdoni Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "do të mbretërojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim i tyre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "o Sion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pas brezi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:48.375990511Z",
+  "model": "glm-5.3"
+}

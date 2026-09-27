@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Elohim e kupton rrugën e saj, dhe ai e njeh ⟨את⟩ vendin e saj.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "e kupton"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "rrugën e saj"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e njeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin e saj"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "vendin e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:33:03.646613450Z",
+  "model": "glm-5.3"
+}

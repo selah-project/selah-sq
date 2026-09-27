@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Në vend të dashurisë sime, më kanë paditur; dhe unë — lutje ⟨jam⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Në vend të"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "dashurisë sime"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "më kanë paditur"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lutje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:31.968859251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Prifti që e bën ⟨את⟩ atë do ta hajë ⟨atë⟩; në vend të shenjtë do të hahet, në oborrin e tendës së takimit.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "që e bër mëkatin (që e ofron atë)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (flijimin për mëkatin)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "do ta hajë"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vend"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "do të hahet"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "në oborrin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e tendës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:05.237713277Z",
+  "model": "glm-5.3"
+}

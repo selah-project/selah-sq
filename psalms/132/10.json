@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Për hir të Davidit, shërbëtorit tënd, mos kthe mënjanë fytyrën e Mashiachit tënd.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorit tënd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kthe mënjanë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fytyrën"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "e Mashiachit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:37.546869719Z",
+  "model": "glm-5.3"
+}

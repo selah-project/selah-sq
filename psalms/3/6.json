@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Unë u shtriva dhe fjeta, u zgjova, se Jahve më mbështet.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "u shtriva"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "dhe fjeta"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "u zgjova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "më mbështet"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:44.232658872Z",
+  "model": "glm-5.3"
+}

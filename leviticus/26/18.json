@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe nëse edhe pas këtyre nuk më dëgjoni, do të shtoj të ju disiplinoj ⟨אתכם⟩ shtatë herë mbi mëkatet tuaja.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "edhe pas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këtyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "më dëgjoni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "do të shtoj"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "të ju disiplinoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "shtatë (herë mbi ju)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë herë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mëkatet tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:28:00.313375159Z",
+  "model": "glm-5.3"
+}

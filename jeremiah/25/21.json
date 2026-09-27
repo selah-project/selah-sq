@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomin, dhe ⟨את⟩ Moabin, dhe ⟨את⟩ bijtë e Amonit",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Moabin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e Amonit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:28.382095450Z",
+  "model": "glm-5.3"
+}

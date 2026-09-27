@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "O bijë e Babilonisë, e shkatërruara — sa e lumtur ⟨është⟩ ajo që të shpërblen ty me ⟨את⟩ shpërblimin tënd, me atë që na bëre neve!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "o bijë"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "e Babilonisë"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "e shkatërruara"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "sa e lumtur"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ajo që të shpërblen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpërblimin tënd"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "shpërblimin tënd"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "bëre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:36.806902209Z",
+  "model": "glm-5.3"
+}

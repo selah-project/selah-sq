@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Në të drejtën tënde më çliro dhe më shpëto; anon ⟨veshin⟩ tënd nga unë dhe më shpëtomë.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "në të drejtën tënde"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "më çliro"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "dhe më shpëto"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "anon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨veshin⟩ tënd"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "dhe më shpëtomë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:08.712518088Z",
+  "model": "glm-5.3"
+}

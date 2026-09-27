@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 126,
+  "translation": "Kënga e Ngjitjeve. Kur Jahve ktheu ⟨את⟩ kthimin e Sionit, ishim si ëndërrimtarë.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kënga"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "e Ngjitjeve"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Kur ktheu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kthimin e Sionit"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "kthimin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "e Sionit"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ishim"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "si ëndërrimtarë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:03.003086061Z",
+  "model": "glm-5.3"
+}

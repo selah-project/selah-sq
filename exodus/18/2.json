@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Jitro, dhëndri i Moisit, mori ⟨את⟩ Ziporën, gruan e Moisit, pas dëbimit të saj.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "dhëndri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ziporën"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ziporën"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "e Moisit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "dëbimit të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:23.390470483Z",
+  "model": "glm-5.3"
+}

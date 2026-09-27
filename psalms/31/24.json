@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Doni ⟨את⟩ Jahve, të gjithë të devotshmit e tij! ⟨I⟩ besnikërit i ruan Jahve, dhe shpërblen bollshëm ⟨ata⟩ që veprojnë me mendjemadhësi.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Doni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "të devotshmit e tij"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "besnikërit"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "i ruan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "dhe shpërblen"
+    },
+    {
+      "surface": "על",
+      "gloss": "bollshëm mbi"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tej mase"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që veprojnë"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "me mendjemadhësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:14.587236151Z",
+  "model": "glm-5.3"
+}

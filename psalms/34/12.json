@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Ejani, o bij, dëgjoni mua; frikën e Jahve do t'jua mësoj.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "o bij"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjoni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frikën e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "do t'jua mësoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:13.859738314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe rubenitëve dhe gaditëve u dhashë nga Galaadi e deri në luginën e Arnonit, mesi i lugumit dhe kufiri, e deri te përrroi Jabok, kufiri i bijve të Amonit.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Dhe rubenitëve"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "dhe gaditëve"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "u dhashë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Galaadi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "në luginën"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "e Arnonit"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "i lugumit"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "dhe kufiri"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "te Jabok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "përrroi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i bijve"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "të Amonit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:25.600660661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe e thirri ⟨të⟩ Moisiun, dhe Jahve i foli atij nga çadra e takimit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e thirri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiun"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "nga çadra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:32.702266416Z",
+  "model": "glm-5.3"
+}

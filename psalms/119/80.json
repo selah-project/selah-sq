@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Le të jetë zemra ime e papërzier në statutet e tua, që të mos turpërohem.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "le të jetë"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e papërzier"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "në statutet e tua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "turpërohem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:17.203779625Z",
+  "model": "glm-5.3"
+}

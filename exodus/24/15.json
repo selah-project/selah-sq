@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe u ngjit Moisiu në mal, dhe reja e mbuloj ⟨את⟩ malin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "dhe u ngjit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "dhe e mbuloj"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "reja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:49.718145499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe do t'i ruash ⟨את⟩ urdhrin, dhe ⟨את⟩ statutet, dhe ⟨את⟩ gjykimet, të cilat unë të urdhëroj ty sot, për t'i zbatuar ato.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "dhe do t'i ruash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhrin"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "urdhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "statutet"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjykimet"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "të urdhëroj ty"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "për t'i zbatuar ato"
+    }
+  ],
+  "timestamp": "2026-09-27T14:44:32.714171740Z",
+  "model": "glm-5.3"
+}

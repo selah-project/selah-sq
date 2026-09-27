@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe pa Jahve se ⟨ai⟩ ishte kthyer të shihte, dhe Elohim e thirri atë nga mesi i shkurres, dhe tha: «Moisi, Moisi!» Dhe ai tha: «Ja, unë jam.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dhe pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ishte kthyer"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shihte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e thirri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nga mesi i"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "shkurres"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë jam"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:51.055291171Z",
+  "model": "glm-5.3"
+}

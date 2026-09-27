@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Moisiu ndërtoi një altar dhe e quajti emrin e tij «Jahve-Nisi».",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "quajti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:31.689823335Z",
+  "model": "glm-5.3"
+}

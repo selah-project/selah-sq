@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Qiejt tregojnë lavdinë e El-it, dhe ⟨hapësira⟩ shpall veprën e duarve të tij.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "tregojnë"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lavdinë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e El-it"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "dhe veprën"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "e duarve të tij"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "shpall"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "hapësira"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:19.329112064Z",
+  "model": "glm-5.3"
+}

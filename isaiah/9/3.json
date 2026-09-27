@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Sepse ⟨את⟩ zgjedhën e barrës së tij dhe ⟨את⟩ shkopin e shpatullës së tij, shkopin e sunduesit që e shtrëngonte, ti e ke thyer si në ditën e Midianit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgjedhën"
+    },
+    {
+      "surface": "על",
+      "gloss": "zgjedhën"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "barrës së tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shkopin"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "shkopin"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "shpatullës së tij"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "shkopin e"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "sunduesit që shtrëngon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "ti e ke thyer"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "si në ditën"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "të Midianit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:45.300107005Z",
+  "model": "glm-5.3"
+}

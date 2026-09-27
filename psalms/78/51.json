@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Goditi çdo të parëlindur në Egjipt, fryti i parë i forcës së tyre, në çadrat e Hamit.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Goditi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "të parëlindur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fryti i parë"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "i forcës së tyre"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "në çadrat"
+    },
+    {
+      "surface": "חם",
+      "gloss": "e Hamit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:59.509975509Z",
+  "model": "glm-5.3"
+}

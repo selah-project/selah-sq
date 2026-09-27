@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Do të zbulohet lakuria e tij, po edhe turpi i tij do të shihet; do të marr hak, dhe nuk do të llogaris asnjë njeri.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Do të zbulohet"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "lakuria e tij"
+    },
+    {
+      "surface": "גם",
+      "gloss": "po edhe"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "do të shihet"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "turpi i tij"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "do të marr hak"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Unë do të marr"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "do të llogaris"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "asnjë njeri"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:46.856663446Z",
+  "model": "glm-5.3"
+}

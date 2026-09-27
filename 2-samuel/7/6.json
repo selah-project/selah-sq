@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Sepse nuk kam banuar në ⟨një⟩ shtëpi nga dita që i nxora ⟨את⟩ bijtë e Izraelit nga Egjipti e deri në këtë ditë, por kam qenë duke ecur andej-këndej në një çadër dhe në një Mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kam banuar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "nga dita"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "që i nxora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "por kam qenë"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "duke ecur andej-këndej"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "në një çadër"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "dhe në një Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:23.954891772Z",
+  "model": "glm-5.3"
+}

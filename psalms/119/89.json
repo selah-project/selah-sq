@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Përjetë, o Jahve, fjala jote ⟨është⟩ e vendosur në qiej.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Përjetë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "fjala jote"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "e vendosur"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:44.457508729Z",
+  "model": "glm-5.3"
+}

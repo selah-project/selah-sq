@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dhe vajza e Tsorit me ⟨një⟩ minha — fytyrën tënde do ta luten të pasurit e popullit.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "dhe vajza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "e Tsorit"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "me një minha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "do ta luten"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "të pasurit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:08.908368383Z",
+  "model": "glm-5.3"
+}

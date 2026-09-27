@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe një të huaj të mos e keqtrajtosh, as të mos e shtypësh, sepse ishit të huaj në ⟨të⟩ dhënë Egjipt.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Dhe një të huaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "e keqtrajtosh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as të mos"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "e shtypësh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "të huaj"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ishit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në ⟨të⟩ dhënë"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:48.404806099Z",
+  "model": "glm-5.3"
+}

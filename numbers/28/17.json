@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe në ditën e pesëmbëdhjetë të këtij muaji ⟨është⟩ festa; shtatë ditë bukë të pamajmë do të hahet.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Dhe në pesë-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bukë të pamajmë"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hahet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:57.674779346Z",
+  "model": "glm-5.3"
+}

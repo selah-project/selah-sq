@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe unë e kam vendosur mbretin tim mbi Sion, malin e shenjtë të im.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "e kam vendosur"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretin tim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malin"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "të shenjtë të im"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:31.607708142Z",
+  "model": "glm-5.3"
+}

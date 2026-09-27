@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe judenjtë i goditën ⟨את⟩ të gjithë armiqtë e tyre me goditje të shpatës, me vrasje dhe me shkatërrim, dhe bënë ⟨את⟩ atyre që i uronin sa të donin.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i goditën"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judenjtë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "armiqtë e tyre"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "me goditje"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "të shpatës"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "dhe vrasje"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "dhe shkatërrim"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "atyre që i uronin"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "sa të donin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:05.396535976Z",
+  "model": "glm-5.3"
+}

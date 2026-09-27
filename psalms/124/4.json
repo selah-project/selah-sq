@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 124,
+  "translation": "atëherë ujërat do të na mbytën, një rrjedhë do të kalonte mbi shpirtin tonë,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ujërat"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "do të na mbytën"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "një rrjedhë"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "do të kalonte"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "shpirtin tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:45.046578126Z",
+  "model": "glm-5.3"
+}

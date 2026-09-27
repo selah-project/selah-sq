@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "A nuk është kështu: nëse bën mirë, do të ngrihesh? dhe nëse nuk bën mirë, te dera mëkata ⟨është⟩ e shtrirë; dhe dëshira e saj është ndaj teje, por ti do të sundosh mbi të.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "A nuk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "bën mirë"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "do të ngrihesh"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "bën mirë"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "te dera"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mëkata"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "është e shtrirë"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "dhe ndaj teje"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "dëshira e saj"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "do të sundosh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:54.444925805Z",
+  "model": "glm-5.3"
+}

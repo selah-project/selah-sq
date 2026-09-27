@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 83,
+  "translation": "Bëju atyre si Madianit, si Siserës, si Javinit, pranë përroit Kishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Bëju"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "si Madianit"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "si Siserës"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "si Javinit"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "pranë përroit"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:12.852375021Z",
+  "model": "glm-5.3"
+}

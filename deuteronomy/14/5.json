@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dreri, dhe gazela, dhe jahmuri, dhe aku, dhe dishoni, dhe teo, dhe zameri.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "dreri"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "dhe gazela"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "dhe jahmuri"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "dhe aku"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "dhe dishoni"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "dhe teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "dhe zameri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:47:17.268373476Z",
+  "model": "glm-5.3"
+}

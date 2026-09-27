@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Sepse ti qe ai që më nxorre nga barku; më bëre të mbështetem mbi gjirin e nënës sime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "më nxorre"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "më bëre të mbështetem"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "gjirin"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "të nënës sime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:56.154877236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Grua kurvarë dhe të përdhosur nuk do të marrin, dhe grua të dëbuar nga burri i saj nuk do të marrin, sepse i shenjtë është ⟨ai⟩ për Elohim-in e tij.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "grua"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "kurvarë"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "dhe të përdhosur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "do të marrin"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dhe grua"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "të dëbuar"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "nga burri i saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "do të marrin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "i shenjtë"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "për Elohim-in e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:35.723988900Z",
+  "model": "glm-5.3"
+}

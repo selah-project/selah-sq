@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "dhe na shpengoi nga armiqtë tanë, sepse për jetë të jetëve ⟨është⟩ hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "ונתן ויפרקנו",
+      "gloss": "dhe na shpengoi"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "nga armiqtë tanë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të jetëve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:40.523189908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe Izraeli i tha Jozefit: Të vdes këtë herë, pasi pashë ⟨את⟩ fytyrën tënde, sepse ti je ende gjallë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Të vdes"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "këtë herë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fytyrën tënde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ti je ende"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:08.354092031Z",
+  "model": "glm-5.3"
+}

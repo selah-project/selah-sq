@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Sepse një çast është në zemërimin e tij, jeta në të mirën e tij; mbrëmja qëndron me lotë, e në mëngjes — këngë gëzimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "një çast"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "në zemërimin e tij"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jeta"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "në të mirën e tij"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mbrëmja"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "qëndron"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "me lotë"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "e në mëngjes"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "këngë gëzimi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:48.576677579Z",
+  "model": "glm-5.3"
+}

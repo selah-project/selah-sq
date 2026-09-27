@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Do ta bëj njeriun më të çmueshëm se ar i pastër, dhe vdekallin se ar i rafinuar i Ofirit.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Do ta bëj më të çmueshëm"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "se ar i pastër"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "dhe vdekallin"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "se ar i rafinuar"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "i Ofirit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:00.309765790Z",
+  "model": "glm-5.3"
+}

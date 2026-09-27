@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Me të ⟨qëndron⟩ dora ime e vendosur, po edhe krahu im do ta forcojë ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "me të cilin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dora ime"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "do të vendoset"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "אף",
+      "gloss": "po edhe"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "krahu im"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "do ta forcojë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:51.728843059Z",
+  "model": "glm-5.3"
+}

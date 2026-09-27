@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Davidi mori ⟨את⟩ të gjithë kopenë dhe gjedhin; ⟨ata⟩ i çuan para atij bagëtie, dhe thanë: «Kjo plaçka është e Davidit!»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mori"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë kopenë dhe gjedhin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kopenë"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "dhe gjedhin"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "i çuan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "atij bagëtie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plaçka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:19:45.956199326Z",
+  "model": "glm-5.3"
+}

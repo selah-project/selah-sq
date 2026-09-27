@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe jetoi Shemi, pasi lindi ⟨את⟩ Arpakshadin, pesëqind vjet, dhe lindi djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dhe jetoi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pasi lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshadin"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshadin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:35.768035846Z",
+  "model": "glm-5.3"
+}

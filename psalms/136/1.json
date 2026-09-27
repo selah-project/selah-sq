@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Falni falënderim Jahvesë, se ⟨është⟩ i mirë, se për jetë të jetëve ⟨është⟩ hesedi i tij.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Falni falënderim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë të jetëve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:01.699112789Z",
+  "model": "glm-5.3"
+}

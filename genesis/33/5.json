@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe Esaui i ngriti ⟨את⟩ sytë e tij dhe pa ⟨את⟩ gratë dhe ⟨את⟩ fëmijët, dhe tha: «Kush janë këta me ty?» Dhe ai tha: «Fëmijët që Elohim i dhuroi me hir ⟨את⟩ shërbëtorit tënd.»",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i ngriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sytë e tij"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sytë e tij"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gratë"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "gratë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fëmijët"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kush"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "janë këta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "me ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "fëmijët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "dhuroi me hir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorit tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:01.068234623Z",
+  "model": "glm-5.3"
+}

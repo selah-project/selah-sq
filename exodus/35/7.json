@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe lëkurë dashi të ngjyrosura me të kuqe, dhe lëkurë taxhashësh, dhe dru akacie.",
+  "tokens": [
+    {
+      "surface": "ווערת",
+      "gloss": "dhe lëkurë",
+      "alt": "token surface correction: וערת"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "dashi"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "të ngjyrosura me të kuqe"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "dhe lëkurë"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "taxhashësh"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "dhe dru"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    }
+  ],
+  "timestamp": "2026-09-27T14:14:41.596835751Z",
+  "model": "glm-5.3"
+}

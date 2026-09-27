@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "dhe Bakbakari, Hereshi dhe Galali, dhe Mattanjahu, bir i Mikës, bir i Zikrit, bir i Asafit.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "dhe Bakbakari"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Hereshi"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "dhe Galali"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "dhe Mattanjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mikës"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikrit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir i"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:24.369569310Z",
+  "model": "glm-5.3"
+}

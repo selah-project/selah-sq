@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Të bëj kënaqësinë tënde, o Elohim im, kam pasur qejf, dhe Tora jote ⟨është⟩ brenda të brendshmeve të mia.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "të bëj"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kënaqësinë tënde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kam pasur qejf"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dhe Tora jote"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "të brendshmeve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:47.050405839Z",
+  "model": "glm-5.3"
+}

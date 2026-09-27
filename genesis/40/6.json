@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe Jozifi erdhi te ata në mëngjes dhe i pa ⟨אתם⟩ — dhe ja, ishin të zemëruar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "te ata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe i pa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ishin të zemëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:04.168491708Z",
+  "model": "glm-5.3"
+}

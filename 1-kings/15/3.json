@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe shkoi në të gjitha mëkatet e atit të tij, të cilat ai kishte bërë përpara tij; dhe zemra e tij nuk qe e plotë me Jahve, Elohim i tij, si zemra e Davidit, atit të tij.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mëkatet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "e atit të tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "përpara tij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "היה",
+      "gloss": "qe"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zemra e tij"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "e plotë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim i tij"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "si zemra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:26.357121524Z",
+  "model": "glm-5.3"
+}

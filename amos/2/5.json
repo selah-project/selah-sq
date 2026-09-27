@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe do të dërgoj zjarr mbi Judën, dhe ai do të gëlltisë kështjellat e Jerusalemit.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dhe do të dërgoj"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mbi Judën"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dhe ai do të gëlltisë"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "kështjellat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:45:59.442053509Z",
+  "model": "glm-5.3"
+}

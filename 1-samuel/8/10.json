@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Samueli i tregoi ⟨את⟩ të gjitha fjalët e Jahve-s popullit që kërkonin ⟨את⟩ prej tij një mbret.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tregoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e Jahve-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "<popullit>"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "që kërkonin"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "prej tij ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "një mbret"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:38.150612587Z",
+  "model": "glm-5.3"
+}

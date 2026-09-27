@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tha: Hidhe atë për tokë! Dhe e hodhi për tokë, dhe ⟨ajo⟩ u bë gjarpër; dhe Moisiu iku përpara tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "hidhe atë"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "për tokë"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "dhe e hodhi atë"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "për tokë"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "gjarpër"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dhe iku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "përpara tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:39.169304302Z",
+  "model": "glm-5.3"
+}

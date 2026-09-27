@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Elohai im, ⟨mbi⟩ mua shpirti im po fundoset; prandaj të kujtoj nga vendi i Jordanit dhe nga Hermonët, nga mali i Micarit.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai im"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨mbi⟩ mua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "po fundoset"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj ⟨për këtë⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "të kujtoj"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "i Jordanit"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "dhe nga Hermonët"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nga mali"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "i Micarit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:05.045539838Z",
+  "model": "glm-5.3"
+}

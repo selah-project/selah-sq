@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 113,
+  "translation": "Qoftë i bekuar emri i Jahvesë, nga tani e deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Qoftë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nga tani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:58.793818193Z",
+  "model": "glm-5.3"
+}

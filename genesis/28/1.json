@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Isaku e thirri Jakobin dhe e bekoi ⟨את⟩, e urdhëroi dhe i tha: «Mos merr grua nga bijtë e Kanaanit.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e thirri"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e bekoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin (e bekoi)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "e urdhëroi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "merr"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "grua"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "nga bijtë"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:24.432977718Z",
+  "model": "glm-5.3"
+}

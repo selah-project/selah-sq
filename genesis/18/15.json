@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Saraija e mohoi, duke thënë: nuk qeshë, sepse i frikësohej. E ai tha: jo, por ti qeje.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "dhe e mohoi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "qeshë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "i frikësohej"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "qeie"
+    }
+  ],
+  "timestamp": "2026-09-27T13:51:02.402838029Z",
+  "model": "glm-5.3"
+}

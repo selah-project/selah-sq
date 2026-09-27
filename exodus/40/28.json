@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe vuri ⟨את⟩ perden e hyrjes për Mishkanin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden e hyrjes"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perden"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "e hyrjes"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "për Mishkanin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:40.739925194Z",
+  "model": "glm-5.3"
+}

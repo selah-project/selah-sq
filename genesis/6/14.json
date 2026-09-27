@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Bëj për vete një arkë nga drurë të goferit; dhoma do t'i bësh ⟨את⟩ arkes, dhe do ta mbulosh ⟨את⟩ atë nga brenda dhe nga jashtë me katran.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bëj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "një arkë"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drurë"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "të goferit"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dhoma"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do t'i bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkes"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkes"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "dhe do ta mbulosh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (arkën)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga brenda"
+    },
+    {
+      "surface": "ו מחוץ",
+      "gloss": "dhe nga jashtë"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "me katran"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:41.573636661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Me ç'i kanë fyer armiqtë e tu, Jahve; me ç'kanë fyer gjurmët e Mashiach-it tënd.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Me ç'"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "kanë fyer"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me ç'"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "kanë fyer"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "gjurmet"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "e Mashiach-it tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.796884829Z",
+  "model": "glm-5.3"
+}

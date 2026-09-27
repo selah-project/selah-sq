@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "⟨את⟩ gjithçka e bëri bukur në kohën e vet; gjithashtu ⟨את⟩ përjetësinë e vuri në zemrat e tyre, në mënyrë që njeriu të mos gjente ⟨את⟩ veprën që bëri Elohim, nga fillimi e deri në fund.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithçka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bukur"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "në kohën e vet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gjithashtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "përjetësinë"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "përjetësinë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "në zemrat e tyre"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "në mënyrë që ... jo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "të gjente"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veprën"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "nga fillimi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri në"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "fund"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:14.917767826Z",
+  "model": "glm-5.3"
+}

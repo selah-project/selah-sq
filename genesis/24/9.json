@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe shërbëtori vuri ⟨את⟩ dorën nën kofshën e Abrahamit, zotërisë së vet, dhe iu betua atij për ⟨the⟩ këtë punë.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "shërbëtori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorën"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kofshën"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotërisë së vet"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dhe iu betua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ punë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:55.960464120Z",
+  "model": "glm-5.3"
+}

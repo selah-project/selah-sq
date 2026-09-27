@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe ⟨את]] pjatat e zjarrit, dhe ⟨את]] kupat — çfarë ishte ar, ari; dhe çfarë ishte argjend, argjendi — i mori krye i rojeve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pjatat e zjarrit"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "pjatat e zjarrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kupat"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kupat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dhe çfarë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argjendi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i mori"
+    },
+    {
+      "surface": "רב",
+      "gloss": "krye"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "i rojeve (këshilltarit)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:24.492615702Z",
+  "model": "glm-5.3"
+}

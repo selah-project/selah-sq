@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Do t'i bëj qytetet tuaja ⟨את⟩ shkretim dhe do t'i shkretëroj faltoret tuaja ⟨את⟩, dhe nuk do të nuhas erën e këndshme të flijimeve tuaja.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "do t'i bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetet tuaja"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "qytetet tuaja"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "shkretim"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "do t'i shkretëroj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faltoret tuaja"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "faltoret tuaja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "do të nuhas"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "erën"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "të këndshme të flijimeve tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:50.945390874Z",
+  "model": "glm-5.3"
+}

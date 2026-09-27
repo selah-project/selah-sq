@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 137,
+  "translation": "Mbi shelgje, në mes të tyre, i varëm harpat tona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "shelgje"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "në mes të tyre"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "i varëm"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "harpat tona"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:21.769912486Z",
+  "model": "glm-5.3"
+}

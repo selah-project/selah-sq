@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "atëherë edhe unë do të ec me ju në zemërim kundërshtie, dhe do t'i disiplinoj ⟨אתכם⟩ edhe unë, shtatë herë për mëkatet tuaja.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "dhe do të ec"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "me ju"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "në zemërim"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "kundërshtie"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "dhe do t'i disiplinoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (אתכם — kundrinori i disiplinimit)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë herë"
+    },
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mëkatet tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:52.094459009Z",
+  "model": "glm-5.3"
+}

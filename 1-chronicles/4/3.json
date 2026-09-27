@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe këta ishin bijtë ⟨e⟩ babait të Etamit: Jizreeli, Ishmai dhe Idbashi; dhe emri i motrës së tyre ishte Hatselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dhe këta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "të babait"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "të Etamit"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreeli"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "dhe Ishmai"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "dhe Idbashi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "i motrës së tyre"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatsëlelponi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:40.767753104Z",
+  "model": "glm-5.3"
+}

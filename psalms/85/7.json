@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "A nuk do të kthehesh ti të na ngjallësh përsëri, që populli yt të gëzohet në ty?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A nuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "do të kthehesh"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "të na ngjallësh"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "që populli yt"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "të gëzohet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:15.937631930Z",
+  "model": "glm-5.3"
+}

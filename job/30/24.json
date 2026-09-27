@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Megjithatë, jo te grumbulli ⟨i rrënuar⟩ shtrihet ⟨ndokush⟩ dorën; edhe në shkatërrimin e tij — atëherë ⟨ka⟩ britmë për ndihmë.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "megjithatë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "te grumbulli"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "shtrin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "אם",
+      "gloss": "edhe nëse"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "në shkatërrimin e tij"
+    },
+    {
+      "surface": "להן",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "britmë për ndihmë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:34:02.242825118Z",
+  "model": "glm-5.3"
+}

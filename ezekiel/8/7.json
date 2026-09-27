@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe më çoi ⟨את⟩ deri te hyrja e oborrit; dhe pashë, dhe ja, një vrimë në mur.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe më çoi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua (deri te hyrja e oborrit)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "e oborrit"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "חר",
+      "gloss": "një vrimë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "në mur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:26:27.902230614Z",
+  "model": "glm-5.3"
+}

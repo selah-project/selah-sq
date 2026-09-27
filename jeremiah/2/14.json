@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "⟨A është⟩ Israeli skllav, ⟨a⟩ i lindur në shtëpi ⟨si skllav⟩? Pse ⟨u bë⟩ ⟨ai⟩ për plaçkitje?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "skllav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "i lindur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "për plaçkitje"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:33.820521939Z",
+  "model": "glm-5.3"
+}

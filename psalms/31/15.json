@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Por unë te ti kam pasur besim, o Jahve; thashë: «Elohim im ⟨je⟩ ti.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "por unë"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kam pasur besim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:33.345272336Z",
+  "model": "glm-5.3"
+}

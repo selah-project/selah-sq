@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ⟨ai⟩ do të jetë si një pemë e mbjellë pranë kanaleve të ujit, që jep frytin e vet në kohën e vet, dhe gjethja e saj nuk vyshket; dhe gjithçka që bën, ai e suksesson.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "si një pemë"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "e mbjellë"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "kanaleve të"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "frytin e vet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jep"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "në kohën e vet"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "dhe gjethja e saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "vyshket"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bën"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "e suksesson"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.561690788Z",
+  "model": "glm-5.3"
+}

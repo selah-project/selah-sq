@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Të gjithë parinët e tu ikën bashkarisht ⟨pa⟩ hark u zunë; të gjithë të gjeturit e tu u zunë bashkarisht; nga larg ikën.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Të gjithë"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "parinët e tu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ikën"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "⟨pa⟩ hark"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "u zunë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "të gjeturit e tu"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "u zunë"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkarisht"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga larg"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ikën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:39.875361687Z",
+  "model": "glm-5.3"
+}

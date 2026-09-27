@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "I Davidit. Do të të falënderoj me gjithë zemrën time, përpara Elohit ⟨do të të këndoj⟩ me vargje.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I Davidit"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "do të të falënderoj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrën time"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "do të të këndoj me vargje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:20.839996946Z",
+  "model": "glm-5.3"
+}

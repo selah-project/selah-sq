@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ecën Hanoku me ⟨את⟩ Elohimën, pasi lindi ⟨את⟩ Metushelahin, treqind vjet, dhe lindi djem e vajza.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "dhe ecën"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimën"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "lindjes së tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelahin"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelahin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "qind"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dhe vajza"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:10.554786209Z",
+  "model": "glm-5.3"
+}

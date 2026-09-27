@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 24:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe doli një bir i një gruaje izraelite — ⟨por⟩ ai ⟨ishte⟩ bir i një burri egjiptian — në mes të bijve të Izraelit, dhe u grindën në kamp bir i asaj izraelites dhe një burrë izraelit.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "i një gruaje"
+    },
+    {
+      "surface": "ישראלית",
+      "gloss": "izraelite"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "i një burri"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egjiptian"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "dhe u grindën"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "në kamp"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "i asaj izraelites"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një burrë"
+    },
+    {
+      "surface": "הישראלי",
+      "gloss": "izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:27.488098708Z",
+  "model": "glm-5.3"
+}

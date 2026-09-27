@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ai do të sjellë ⟨את⟩ fajin e tij para Jahves, te dera e çadrës së takimit, një dash si flijim fajësie.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dhe do të sjellë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fajin e tij"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "fajin e tij"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dera"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "e çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    },
+    {
+      "surface": "איל",
+      "gloss": "një dash"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "flijim fajësie"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:49.542688410Z",
+  "model": "glm-5.3"
+}

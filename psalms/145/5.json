@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Shkëlqimin e lavdisë së madhështisë tënde dhe fjalët e çudirave të tua do t'i përmend.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "Shkëlqimin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "e lavdisë"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "të madhështisë tënde"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "dhe fjalët e"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "çudirave të tua"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "do t'i përmend"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:32.713807684Z",
+  "model": "glm-5.3"
+}

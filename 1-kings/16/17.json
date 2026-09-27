@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe Omri u ngjit nga Gibbethoni, dhe i gjithë Izraeli me të, dhe e rrethuan Tircën.",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "u ngjit"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe i gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "nga Gibbethoni"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "dhe e rrethuan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tircën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:37:20.123540821Z",
+  "model": "glm-5.3"
+}

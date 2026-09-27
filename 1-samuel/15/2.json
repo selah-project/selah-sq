@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Kështu tha Jahve Tsevaot: E pashë ⟨את⟩ atë që bëri Amaleku Izraelit, si i ngjiti prita në rrugë, kur ai po ngjitej nga Egjipti.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "e pashë \/ e vizitova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atë që bëri Amaleku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleku"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i ngjiti (prita)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "kur ai po ngjitej"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nga Egjipti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:15:08.566350963Z",
+  "model": "glm-5.3"
+}

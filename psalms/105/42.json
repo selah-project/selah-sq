@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Sepse kujtoi ⟨את⟩ fjalën e tij të shenjtë, ⟨את⟩ Abrahamin, shërbëtorin e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kujtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalën e tij të shenjtë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "të shenjtë të tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbëtorin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:03.501910275Z",
+  "model": "glm-5.3"
+}

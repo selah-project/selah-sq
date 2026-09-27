@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Maleve lart u ngjiten ⟨ujërat⟩, në lugina zbresin, drejt vendit që u themelove atyre.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "u ngjiten lart"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maleve"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zbresin"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "në lugina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "që (këtë)"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "u themelove"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:54.474304857Z",
+  "model": "glm-5.3"
+}

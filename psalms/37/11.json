@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe të përulurit do të trashëgojnë ⟨të⟩ dheun, dhe do të kënaqen në paqen e bollshme.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "dhe të përulurit"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "do të trashëgojnë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dheun"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "dhe do të kënaqen"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bollshme"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paqen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:39.049041498Z",
+  "model": "glm-5.3"
+}

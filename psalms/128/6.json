@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 128,
+  "translation": "Dhe shih bijtë e bijve të tu! Paqja ⟨mbi⟩ Izraelin!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Dhe shih"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "e bijve të tu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Paqja"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mbi⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:25.235471346Z",
+  "model": "glm-5.3"
+}

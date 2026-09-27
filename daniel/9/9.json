@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Të Adonait, Elohim i ynë, ⟨janë⟩ mëshirat dhe faljet, sepse ne u rebeluam kundër Atij.",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "Të Adonait"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i ynë"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "mëshirat"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "dhe faljet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "u rebeluam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kundër Atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:50:15.343060498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe ⟨את⟩ Jehun, birin e Nimshit, do ta vajosësh si mbret mbi Izraelin; dhe ⟨את⟩ Elishan, birin e Shafatit nga Avel-Mehola, do ta vajosësh si profet në vendin tënd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshit"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "do ta vajosësh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "si mbret"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elishan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafatit"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "nga Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "do ta vajosësh"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "si profet"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "në vendin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:33.616556920Z",
+  "model": "glm-5.3"
+}

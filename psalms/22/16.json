@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Thaheu si copë qeramike fuqia ime, dhe gjuha ime është ngjitur te nofullat e mia; dhe në pluhurin e vdekjes më ke vendosur.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "thaheu"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "si copë qeramike"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fuqia ime"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "dhe gjuha ime"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "është ngjitur"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "te nofullat e mia"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "dhe në pluhurin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "të vdekjes"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "më ke vendosur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:20.843237524Z",
+  "model": "glm-5.3"
+}

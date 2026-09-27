@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "⟨Ai⟩ është Jahve, Elohim i neve; në të gjithë ⟨të⟩ arën janë gjykimet e tij.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ai⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim i neve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨të⟩ arën"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "janë gjykimet e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:03.476072746Z",
+  "model": "glm-5.3"
+}

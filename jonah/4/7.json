@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe ⟨Perëndia⟩ përgatiti një tenja në ngjitjen e agimit, të nesërmen, dhe ajo goditi ⟨את⟩ kikajonin, dhe ai u tha.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "përgatiti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tenja"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "në ngjitjen"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "e agimit"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "të nesërmen"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "goditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikajonin"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikajonin"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "u tha"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:44.285386404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Thuajuni vëllezërve tuaj: 'Ami', dhe motrave tuaj: 'Ruhamah'.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "thuajuni"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "vëllezërve tuaj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "dhe motrave tuaj"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:50.238318900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Uluan kundërshtarët e tu në mes të vendit të takimit tënd; ngritën shenjat e tyre si shenja.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Uluan"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "kundërshtarët e tu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "vendit të takimit tënd"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "shenjat e tyre"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "si shenja"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:21.067682688Z",
+  "model": "glm-5.3"
+}

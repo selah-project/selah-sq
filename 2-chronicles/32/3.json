@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "dhe u këshillua me parisë e tij dhe me trimat e tij të bllokonin ⟨את⟩ ujërat e burimeve që ⟨ishin⟩ jashtë qytetit; dhe ata e ndihmuan.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "dhe u këshillua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "parisë e tij"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "dhe trimat e tij"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "të bllokonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujërat e burimeve"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ujërat e"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "burimeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jashtë"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "dhe e ndihmuan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:16:47.343888222Z",
+  "model": "glm-5.3"
+}

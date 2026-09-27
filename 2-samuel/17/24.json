@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe Davidi erdhi në Mahanaim, ndërsa Avsalomi kaloi ⟨את⟩ Jordanin, ai dhe çdo njeri i Izraelit me të.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dhe Davidi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "në Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ndërsa Avsalomi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe çdo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Izraelit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:25:58.869183310Z",
+  "model": "glm-5.3"
+}

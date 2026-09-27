@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe do të marrësh ⟨את⟩ vajin e vajimit, dhe do ta derdhësh mbi kokën e tij, dhe do ta vajosh ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dhe do të marrësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vajin e vajimit"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "e vajimit"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dhe do ta derdhësh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dhe do ta vajosh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (Aaronin)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:12:51.015917956Z",
+  "model": "glm-5.3"
+}

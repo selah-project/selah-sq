@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ndodhi që, kur Samuel u plak, ai vuri ⟨את⟩ bijtë e tij gjyqtarë për Izraelin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "u plak"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ai vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "gjyqtarë"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:38.164024457Z",
+  "model": "glm-5.3"
+}

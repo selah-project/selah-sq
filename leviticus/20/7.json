@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe shenjtërohuni dhe jini të shenjtë, sepse unë jam Jahve, Elohim i juaji.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "dhe shenjtërohuni"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dhe jini"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaji"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:12.704308034Z",
+  "model": "glm-5.3"
+}

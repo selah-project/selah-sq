@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe do t'i varrosë ata shtëpia e Izraelit, për të pastruar ⟨את⟩ tokën, shtatë muaj.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "dhe do t'i varrosë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpia e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për të"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "pastruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "muaj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:38:02.796719271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe kur princi të vijë, nga rruga e portikut të portës do të hyjë, dhe nga rruga e vet do të dalë.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "dhe kur të vijë"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "princi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rrugën e"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "portikut"
+    },
+    {
+      "surface": "השער",
+      "gloss": "të portës"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të hyjë"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "dhe nga rruga e vet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "do të dalë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:40:52.450490220Z",
+  "model": "glm-5.3"
+}

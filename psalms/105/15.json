@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "«Mos i prekitni të vajosurit e mi, dhe profetëve të mi mos u bëni të keq!»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "i prekitni"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "të vajosurit e mi"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "dhe profetëve të mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "u bëni të keq"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:16.783565570Z",
+  "model": "glm-5.3"
+}

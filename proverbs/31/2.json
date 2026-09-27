@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Ç'është, biri im? Dhe ç'është, bir i barkut tim? Dhe ç'është, bir i betimeve të mia?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ç'është"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "biri im"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Dhe ç'është"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "i barkut tim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Dhe ç'është"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "i betimeve të mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:39.832643979Z",
+  "model": "glm-5.3"
+}

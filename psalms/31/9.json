@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe nuk më ke dorëzuar në dorën e armikut; i ke ndalur këmbët e mia në një vend të gjerë.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "më ke dorëzuar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në dorën"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "e armikut"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "i ke ndalur"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "në një vend të gjerë"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.959131886Z",
+  "model": "glm-5.3"
+}

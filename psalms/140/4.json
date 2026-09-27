@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 140,
+  "translation": "Gjuhën e tyre e mprehnën si gjarpër; helm i gjarpërit me brirë ⟨është⟩ nën buzët e tyre. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "e mprehnën"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "gjuhën e tyre"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "gjarpër"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "helm"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "i gjarpërit me brirë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "buzët e tyre"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:05.235592345Z",
+  "model": "glm-5.3"
+}

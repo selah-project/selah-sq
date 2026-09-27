@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Çështjen tënde diskuto me shoqin tënd ⟨את⟩, dhe sekretin e një tjetrit mos e zbulo.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "çështjen tënde"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "diskuto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoqin tënd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "shoqin tënd"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "dhe sekretin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "të një tjetrit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "zbulo"
+    }
+  ],
+  "timestamp": "2026-09-27T18:32:13.814553880Z",
+  "model": "glm-5.3"
+}

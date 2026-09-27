@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Për dirigjentin. Një psalm i Davidit. Marrizi ka thënë në zemrën e tij: «Nuk ka Elohim». Janë prishur, kanë bërë neveri vepra; nuk ka asnjë që bën të mirën.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Marrizi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "në zemrën e tij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nuk ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Janë prishur"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "kanë bërë neveri"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "vepra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "që bën"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "të mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:13.851722351Z",
+  "model": "glm-5.3"
+}

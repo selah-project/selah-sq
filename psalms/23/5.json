@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Ti pregatit përpara meje një tavolinë, përballë kundërshtarëve të mi; të mëshiron me vaj kryet time; kupa ime ⟨është⟩ e mbushur plot.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Ti pregatit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara meje"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "një tavolinë"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "kundërshtarëve të mi"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "të mëshiron"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "me vaj"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kryet time"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kupa ime"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "e mbushur plot"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:56.069339311Z",
+  "model": "glm-5.3"
+}

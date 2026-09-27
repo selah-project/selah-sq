@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Sepse duke e vrarë do ta vrasësh; dora jote do të jetë mbi të ⟨e para⟩ për ta bërë të vdesë, dhe dora e gjithë popullit në fund.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "duke e vrarë"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "do ta vrasësh"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "⟨e para⟩"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "për ta bërë të vdesë"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dhe dora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "në fund"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:15.783873930Z",
+  "model": "glm-5.3"
+}

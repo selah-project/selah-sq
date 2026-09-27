@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe dëgjova ⟨את⟩ zërin e Adonait që thoshte: ⟨את⟩ kë do të dërgoj, dhe kush do të shkojë për ne? Dhe thashë: Ja unë, dërgomë!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "dhe dëgjova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "e Adonait"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "që thoshte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kë"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kë"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "do të dërgoj"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe kush"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "do të shkojë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ja unë"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "dërgomë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:24.649236451Z",
+  "model": "glm-5.3"
+}

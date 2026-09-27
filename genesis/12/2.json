@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do të të bëj një komb të madh, dhe do të të bekoj, dhe do ta madhësoj emrin tënd; dhe ji bekim.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "dhe do të të bëj"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "një komb"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "dhe do të të bekoj"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "dhe do ta madhësoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe ji"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bekim"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:21.905662531Z",
+  "model": "glm-5.3"
+}

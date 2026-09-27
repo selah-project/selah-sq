@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Perfundojnë lutjet e Davidit, birit të Isait.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "perfundojnë"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "lutjet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "të Isait"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:27.497701052Z",
+  "model": "glm-5.3"
+}

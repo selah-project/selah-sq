@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Vajtoi, u zbeh toka; u ligësht, u zbehu bota; u ligështuan të lartit të popullit të tokës.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Vajtoi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "u zbeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "u ligësht"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "u zbehu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bota"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "u ligështuan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "të lartit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "të popullit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:54.498453565Z",
+  "model": "glm-5.3"
+}

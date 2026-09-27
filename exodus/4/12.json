@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe tani shko; dhe unë do të jem me gojën tënde dhe do të të mësoj çfarë të flasësh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "shko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "do të jem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gojën tënde"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "dhe do të të mësoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "të flasësh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:55.645628410Z",
+  "model": "glm-5.3"
+}

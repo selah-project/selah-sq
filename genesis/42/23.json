@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe ata nuk e dinin se Jozefi dëgjonte, sepse ndërmjetësi ⟨ishte⟩ midis tyre.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dhe ata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "e dinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dëgjonte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ndërmjetësi"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "midis tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:31.217088115Z",
+  "model": "glm-5.3"
+}

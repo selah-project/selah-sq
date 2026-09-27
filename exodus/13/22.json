@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Nuk tërhiqej shtylla e re gjatë ditës, as shtylla e zjarrit natën, ⟨nga⟩ përpara popullit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "tërhiqej"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "shtylla"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "e re"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gjatë ditës"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "as shtylla"
+    },
+    {
+      "surface": "האש",
+      "gloss": "e zjarrit"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:38.238470526Z",
+  "model": "glm-5.3"
+}

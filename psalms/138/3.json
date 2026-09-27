@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Në ditën që thirra, më përgjigje, dhe më guxove në shpirtin tim me forcë.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "që thirra"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "më përgjigje"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "më guxove"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "në shpirtin tim"
+    },
+    {
+      "surface": "עז",
+      "gloss": "me forcë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:20.840455561Z",
+  "model": "glm-5.3"
+}

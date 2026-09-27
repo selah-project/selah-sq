@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe Sabeasit ranë mbi ta dhe i zunë ⟨את⟩, dhe ⟨את⟩ shërbëtorit i rrahën me gojën e shpatës; dhe shpëtova vetëm unë i vetëm për të të lajmëruar ty.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "dhe ranë"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sabeasit"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "dhe i zunë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorit"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "shërbëtorit"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "i rrahën"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me gojën e"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "shpatës"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "dhe shpëtova"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "për të lajmëruar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:15.638375873Z",
+  "model": "glm-5.3"
+}

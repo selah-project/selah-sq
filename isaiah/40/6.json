@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Një zë thotë: «Thirr!» Dhe ⟨ai⟩ tha: «Çfarë të thirras?» «Çdo mish ⟨është⟩ si bari, dhe gjithë hesed-i i tij si luli i fushës.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "një zë"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "thirr"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "të thirras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mish"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "si luli"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "i fushës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:45.137621273Z",
+  "model": "glm-5.3"
+}

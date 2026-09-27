@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 82,
+  "translation": "Unë thashë: «Ju jeni perëndi, dhe të gjithë ju jeni bij të El Eljonit».",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dhe bij"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljonit"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "të gjithë ju"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:19.122942832Z",
+  "model": "glm-5.3"
+}

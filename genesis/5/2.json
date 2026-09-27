@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Mashkull dhe femër i krijoi ⟨את⟩ ata, dhe i bekoi, dhe e quajti emrin e tyre 'Adam', në ditën që u krijuan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mashkull"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dhe femër"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "i krijoi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dhe i bekoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe e quajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin e tyre"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "emrin e tyre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "që u krijuan"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.943821648Z",
+  "model": "glm-5.3"
+}

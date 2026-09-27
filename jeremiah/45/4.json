@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Kështu do t'i thuash atij: Kështu ka thënë Jahve: Ja, atë që ndërtova unë, po e rrënoj, dhe ⟨את⟩ atë që mbolla unë, po e çrrënjos — dhe ⟨את⟩ gjithë ⟨the⟩ tokën, ajo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "do t'i thuash"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka thënë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndërtova"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "po e rrënoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "atë që mbolla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mbolla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "po e çrrënjos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gjithë tokën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T16:21:19.602794436Z",
+  "model": "glm-5.3"
+}

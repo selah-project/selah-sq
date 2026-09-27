@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 146,
+  "translation": "Do ta lëvdoj Jahven gjatë jetës sime; do të këndoj me lavdërim për Elohun tim për sa kohë të jem.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Do ta lëvdoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "gjatë jetës sime"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të këndoj me lavdërim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "për Elohun tim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "për sa kohë të jem"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:12.328798805Z",
+  "model": "glm-5.3"
+}

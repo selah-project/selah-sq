@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe u gëzua gjithë populli i vendit, dhe qyteti ⟨ishte⟩ i qetë; dhe ⟨את⟩ Atalia e vranë me shpatë.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "dhe u gëzua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i vendit"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "dhe qyteti"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "i qetë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "e vranë"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:39.303545418Z",
+  "model": "glm-5.3"
+}

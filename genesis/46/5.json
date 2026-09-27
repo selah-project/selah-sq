@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe Jaakobi u ngrit nga Beer-Sheba, dhe bijtë e Izraelit mbartën ⟨את⟩ Jaakobin, atin e tyre, dhe ⟨את⟩ fëmijët e tyre të vegjël, dhe ⟨את⟩ gratë e tyre, në qerret që Faraoi kishte dërguar për t'i mbartur ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "u ngrit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mbartën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobin"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atin e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fëmijët e tyre të vegjël"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "fëmijët e tyre të vegjël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "gratë e tyre"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "gratë e tyre"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "në qerret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kishte dërguar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "për t'i mbartur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (Jaakobin)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:58.216367166Z",
+  "model": "glm-5.3"
+}

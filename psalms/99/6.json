@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 99,
+  "translation": "Moisi dhe Aaroni mes priftërinjve të tij, dhe Samueli mes atyre që thërrisnin emrin e tij — ata thërrisnin drejt Jahves dhe ai u përgjigjej atyre.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dhe Aaroni"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "mes priftërinjve të tij"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "dhe Samueli"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mes atyre që thërrisnin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "thërrisnin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dhe ai"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "u përgjigjej atyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:28.091728781Z",
+  "model": "glm-5.3"
+}

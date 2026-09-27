@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe motra e tij, Hamoleketi, lindi ⟨את⟩ Ishodin dhe ⟨את⟩ Abiezerin dhe ⟨את⟩ Mahlanë.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "dhe motra e tij"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamoleketi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodin"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Abiezerin"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Mahlanë"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahlanë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:01:32.890687731Z",
+  "model": "glm-5.3"
+}

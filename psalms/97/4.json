@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 97,
+  "translation": "Vetëtimat e tij ndriçuan ⟨të⟩rën; toka e pa dhe u drodh.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ndriçuan"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Vetëtimat e tij"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨të⟩rën (rruzullin)"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "dhe u drodh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:40.211381995Z",
+  "model": "glm-5.3"
+}

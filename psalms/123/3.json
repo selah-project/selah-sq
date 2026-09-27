@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 123,
+  "translation": "Na shfaq hir, o Jahve, na shfaq hir, sepse shumë jemi ngopur me përbuzje.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Na shfaq hir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "na shfaq hir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "jemi ngopur"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "me përbuzje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:17.787074992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 47,
+  "translation": "Zgjodhi për ne ⟨את⟩ trashëgiminë tonë, ⟨את⟩ krenarinë e Jakobit, të cilën e dashuroi. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Zgjodhi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë tonë"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "trashëgiminë tonë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krenarinë e Jakobit"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "krenarinë"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "e dashuroi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:01.059522514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "dhe pleqtë e atij qyteti do të zbresin ⟨את⟩ mëshqerrën në një përrua të rrëmbyer, i cili nuk punohet në të dhe nuk mbillet, dhe do t'i thyejnë atje ⟨את⟩ qafën e mëshqerrës në përroin.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "dhe do të zbresin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mëshqerrën"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "mëshqerrën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "një përrua"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "të rrëmbyer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i cili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "punohet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "mbillet"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "do t'i thyejnë qafën"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qafën e mëshqerrës"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "e mëshqerrës"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "në përroin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:04.907788516Z",
+  "model": "glm-5.3"
+}

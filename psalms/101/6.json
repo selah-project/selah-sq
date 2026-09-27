@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Sytë e mi janë drejt besnikëve të vendit, që të banojnë me mua; kush ecën në rrugë të përsosur, ai do të më shërbejë.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "sytë e mi"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "drejt besnikëve të"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "që të banojnë"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me mua"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kush ecën"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "të përsosur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "do të më shërbejë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:48.489870769Z",
+  "model": "glm-5.3"
+}

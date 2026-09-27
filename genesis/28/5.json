@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Dhe Isaku dërgoi ⟨את⟩ Jakobin, dhe ai shkoi në Padan-Aram, te Labani, i biri i Betuelit aramaiti, vëllai i Rebekës, nëna e Jakobit dhe e Esaut.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i biri"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "i Betuelit"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramaiti"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vëllai"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "i Rebekës"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "e Jakobit"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "dhe e Esaut"
+    }
+  ],
+  "timestamp": "2026-09-27T13:54:56.334062524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 135,
+  "translation": "Lëvdoni Jah, se është i mirë Jahve; këndoni me vegla emrit të Tij, se ⟨Është⟩ i këndshëm!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "këndoni me vegla"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "emrit të Tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "i këndshëm"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.613633846Z",
+  "model": "glm-5.3"
+}

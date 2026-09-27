@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 113,
+  "translation": "Ai që përkulet poshtë për të parë ⟨në⟩ qiej dhe në tokë?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Ai që përkulet poshtë"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨në⟩ qiej"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dhe në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:59.850283882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jahve Elohim e dëboi atë nga kopshti i Edenit, për të punuar ⟨את⟩ tokën nga e cila ishte marrë.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "dhe e dëboi atë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "nga kopshti"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "i Edenit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të punuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga e cila"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ishte marrë"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andej"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:51.057466237Z",
+  "model": "glm-5.3"
+}

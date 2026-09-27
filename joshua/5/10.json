@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe bijtë e Izraelit e ndalën kampin në Gilgal dhe bënë ⟨את⟩ Pashkën në ditën e katërmbëdhjetë të muajit, në muzg, në fushat e Jerikos.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "dhe e ndalën kampin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "në Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pashkën"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pashkën"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "në katër"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbëdhjetë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në muzg"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "në fushat"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "e Jerikos"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:32.714001474Z",
+  "model": "glm-5.3"
+}

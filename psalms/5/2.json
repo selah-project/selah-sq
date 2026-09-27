@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Fjalët e mia dëgjoi, Jahve; kupto pëshpërimin tim.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kupto"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "pëshpërimin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:26.253579911Z",
+  "model": "glm-5.3"
+}

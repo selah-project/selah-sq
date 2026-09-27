@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe u rikthyen ⟨את⟩ Moisiu dhe ⟨את⟩ Aaroni te Faraoni, dhe ai u tha atyre: Shkoni, shërbejini ⟨את⟩ Jahve, Elohim i juaj — cilët dhe cilët janë ata që shkojnë?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "u rikthyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "shkoni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shërbejini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cilët"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dhe cilët"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "që shkojnë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:25.012316205Z",
+  "model": "glm-5.3"
+}

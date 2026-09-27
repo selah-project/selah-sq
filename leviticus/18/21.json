@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe nga fara jote të mos japësh ⟨që⟩ të kalohet për Molokun, dhe të mos çosh në turp ⟨את⟩ emrin e Elohimit tënd; unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "dhe nga fara jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "japësh"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "të kalohet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "për Molokun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "çosh në turp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "të Elohimit tënd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:32.701077538Z",
+  "model": "glm-5.3"
+}

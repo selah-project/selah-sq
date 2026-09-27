@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Ai që mbolli veshin, a ⟨s'⟩do të dëgjojë? Ai që formoi syrin, a ⟨s'⟩do të shikojë?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Ai që mbolli"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "veshin"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a s'… do"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "të dëgjojë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ai që"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formoi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "syrin"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a s'… do"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "të shikojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:16.269754848Z",
+  "model": "glm-5.3"
+}

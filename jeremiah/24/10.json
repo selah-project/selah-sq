@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe do të dërgoj mbi ta ⟨את⟩ shpatën, ⟨את⟩ urinë dhe ⟨את⟩ murtajën, deri sa të zhduken nga toka që u dhashë atyre dhe etërve të tyre.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dhe do të dërgoj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpatën"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "shpatën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urinë"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "urinë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "murtajën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "murtajën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri sa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "të zhduken"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "u dhashë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "dhe etërve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:14:22.964640036Z",
+  "model": "glm-5.3"
+}

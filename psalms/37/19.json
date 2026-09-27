@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Nuk do të turpërohen në kohën e së keqes, dhe në ditët e urisë do të ngopen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "do të turpërohen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e së keqes"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dhe në ditët"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "e urisë"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "do të ngopen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:21.007086106Z",
+  "model": "glm-5.3"
+}

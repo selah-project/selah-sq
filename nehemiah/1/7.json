@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Ke vepruar shumë keq ndaj teje dhe nuk i kemi ruajtur ⟨את⟩ urdhërimet, ⟨את⟩ statutet dhe ⟨את⟩ gjykimet që u ke urdhëruar ⟨את⟩ Moisiut, shërbëtorit tënd.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "shumë keq"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "kemi vepruar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndaj teje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "i kemi ruajtur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhërimet"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "urdhërimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "statutet"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gjykimet"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "gjykimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "u ke urdhëruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisiut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiut"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:55:22.605371521Z",
+  "model": "glm-5.3"
+}

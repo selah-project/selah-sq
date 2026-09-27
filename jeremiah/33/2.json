@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Kështu tha Jahve, bërësi i saj, Jahve që e formoi ⟨את⟩ atë për ta përgatitur atë — Jahve është emri i tij:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërësi i saj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "që e formoi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (העיר \/ atë që formoi)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "për ta përgatitur atë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:18:49.403774880Z",
+  "model": "glm-5.3"
+}

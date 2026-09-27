@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe në vitin e pestë do të hani ⟨את⟩ frytin e tij, që të ju shtohet prodhimi i tij; unë jam Jahve, Elohim i juaj.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "dhe në vitin"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "të pestë"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frytin e tij"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "frytin e tij"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "që të shtohet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "prodhimi i tij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim i juaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:44.852738730Z",
+  "model": "glm-5.3"
+}

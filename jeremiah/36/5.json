@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe Jeremia urdhëroi ⟨את⟩ Barukun, duke thënë: Unë jam i mbajtur i mbyllur, nuk mund të hyj në shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "dhe urdhëroi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukun"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "i mbajtur i mbyllur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "të hyj"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:19:11.673988316Z",
+  "model": "glm-5.3"
+}

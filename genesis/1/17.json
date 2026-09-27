@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Elohim i vuri ⟨אתם⟩ në hapësirën e qiejve, për të dhënë dritë mbi ⟨të⟩ tokën,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dy dritat e mëdha (dritat e vit. 16)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "në hapësirën"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "e qiejve"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "për të dhënë dritë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:26.794228766Z",
+  "model": "glm-5.3"
+}

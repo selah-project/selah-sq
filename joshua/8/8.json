@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do të ndodhë që, kur ta kapni ⟨את⟩ qytetin, do t'i vini ⟨את⟩ qytetin zjarr; sipas fjalës së Jahvesë do të veproni. Shihni, ju kam urdhëruar ⟨את⟩ ju.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "kur ta kapni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "do t'i vini zjarr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qytetin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "me zjarr"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "do të veproni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "shihni"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kam urdhëruar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:57.148800128Z",
+  "model": "glm-5.3"
+}

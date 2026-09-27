@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Vetëm ⟨את⟩ gjakun e tij mos e ha; mbi ⟨të⟩ dhe do ta derdhësh, si ujin.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e tij"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjakun e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "e ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të dhe"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "do ta derdhësh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "si ujin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:05.803250686Z",
+  "model": "glm-5.3"
+}

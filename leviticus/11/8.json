@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Nga mishi i tyre nuk do të hani, dhe në kufomët e tyre nuk do të prekni — të papastër janë ata për ju.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "nga mishi i tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "dhe në kufomët e tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "do të prekni"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "të papastër"
+    },
+    {
+      "surface": "הם",
+      "gloss": "janë ata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:09.209050832Z",
+  "model": "glm-5.3"
+}

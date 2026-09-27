@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "sepse do të dëgjojnë ⟨për⟩ ⟨את⟩ emrin tënd të madh dhe ⟨את⟩ dorën tënde të fortë dhe krahun tënd të shtrirë, dhe do të vijë e të lutes drejt këtij tempulli,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "do të dëgjojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrin tënd të madh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dorën tënde të fortë"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dorën tënde"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "të fortë"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dhe krahun tënd"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "të shtrirë"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe do të vijë"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "e të lutes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tempullit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:34:18.833133555Z",
+  "model": "glm-5.3"
+}

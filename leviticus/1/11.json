@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do ta therë atë ⟨את⟩ në anën e altarit, nga veriu, përpara Jahvesë; dhe bijtë e Aaronit, priftërinjtë, do t'i spërkasin ⟨את⟩ gjakun e tij mbi altar, rreth e rrotull.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dhe do ta therë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "atë (kafshën)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "anën"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "e altarit"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "nga veriu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dhe do të spërkasin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjakun e tij"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "gjakun e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:26.158323872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Këto janë kohët e caktuara të Jahvesë, thirrje të shenjta, të cilat do t'i shpallni ⟨את⟩ në kohën e tyre të caktuar.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Këto"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "kohët e caktuara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "thirrje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "do t'i shpallni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i (thirrjet e shenjta)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "në kohën e tyre të caktuar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:52.106589220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe kënaqësia e tij ⟨do të jetë⟩ në frikën e Jahvesë; dhe sipas pamjes së syve të tij nuk do të gjykojë, dhe sipas dëgjimit të veshëve të tij nuk do të gjykojë.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "dhe kënaqësia e tij"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "në frikën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "sipas pamjes"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "të syve të tij"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "do të gjykojë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "sipas dëgjimit"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "të veshëve të tij"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "do të gjykojë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:53:01.302812446Z",
+  "model": "glm-5.3"
+}

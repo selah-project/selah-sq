@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 46,
+  "translation": "Dhe Izraeli u nis me gjithçka ⟨që⟩ ishte e tija, dhe erdhi në Beer-Šeba, dhe flijoi flijime ⟨את⟩ për Elohimin e të atit të tij, Isakun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "u nis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "me gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨që⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e tija"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "erdhi"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "në Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "flijoi"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "flijime"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "për Elohimin e"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit të tij"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakun"
+    }
+  ],
+  "timestamp": "2026-09-27T14:01:37.559180322Z",
+  "model": "glm-5.3"
+}

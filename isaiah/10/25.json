@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Sepse edhe pak, shumë pak, dhe indinjatimi do të përfundohet, dhe zemërimi im mbi shkatërrimin e tyre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pak"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "shumë pak"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dhe do të përfundohet"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "indinjatimi"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "dhe zemërimi im"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "shkatërrimin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:56.360496846Z",
+  "model": "glm-5.3"
+}

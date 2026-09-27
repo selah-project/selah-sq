@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ⟨את⟩ portën e peshqve e ndërtuan bijtë e Hasenaas; ata e mbuluan me trarë dhe i vendosën dyeret e saj, bravat e saj dhe shufrat e saj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "portën e peshqve"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portën"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "e peshqve"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "e ndërtuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "e mbuluan me trarë"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "dhe i vendosën"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "dyeret e saj"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "bravat e saj"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "dhe shufrat e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:56:23.572891170Z",
+  "model": "glm-5.3"
+}

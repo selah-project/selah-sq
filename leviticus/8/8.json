@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe i vuri mbi të ⟨את⟩ pjektoren, dhe vendosi në pjektore ⟨את⟩ Urimin dhe ⟨את⟩ Tumimin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dhe i vuri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mbi të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjektoren"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pjektoren"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe vendosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pjektore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimin"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Tumimin"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumimin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:57.539636287Z",
+  "model": "glm-5.3"
+}

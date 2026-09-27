@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ndodhi në ditën e tetë, që Moisi thirri Aaronin dhe bijtë e tij, dhe pleqtë e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "e tetë"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "dhe pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:15.754224310Z",
+  "model": "glm-5.3"
+}

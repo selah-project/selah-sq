@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "dhe nxori ⟨e⟩ Izraelin nga mesi i tyre, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "nga mesi i tyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:38.364628394Z",
+  "model": "glm-5.3"
+}

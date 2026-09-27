@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Mos ha ⟨asnjë⟩ gjë të neveritshme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asnjë"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gjë të neveritshme"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:11.372864244Z",
+  "model": "glm-5.3"
+}

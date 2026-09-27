@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe të mbështesë dorën e tij mbi kokën e cjapit dhe ta therë atë në vendin ku theret ⟨את⟩ flijimi i djegur përballë Jahves; flijim për mëkatan ⟨ËSHTË⟩.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dhe të mbështesë"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dorën e tij"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "e cjapit"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dhe ta therë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "cjapin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "theret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flijimin e djegur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "flijimin e djegur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "flijim për mëkatan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:09.634337830Z",
+  "model": "glm-5.3"
+}

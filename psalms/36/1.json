@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Për dirigjentin. ⟨Një psalm⟩ i të shërbyesit të Jahves, të Davidit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "i të shërbyesit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "të Davidit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:16.398624752Z",
+  "model": "glm-5.3"
+}

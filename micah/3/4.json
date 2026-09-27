@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atëherë do të bërtasin drejt Jahvesë, por ai nuk do t'u përgjigjet ⟨את⟩ atyre; do ta fshehë fytyrën e tij nga ai në atë kohë, siç bënë keq veprat e tyre.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "do të bërtasin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "do t'u përgjigjet"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ atyre",
+      "marks": "ata"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "dhe do ta fshehë"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrën e tij"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nga ata"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "bënë keq"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "veprat e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T16:48:33.612615927Z",
+  "model": "glm-5.3"
+}

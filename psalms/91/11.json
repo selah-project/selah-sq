@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Sepse ⟨ai⟩ do t'u urdhërojë engjëjt e vet për ty, të të ruajnë në të gjitha rrugët e tua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "engjëjt e vet"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "do t'u urdhërojë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "të të ruajnë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në të gjitha"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "rrugët e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:53.441806617Z",
+  "model": "glm-5.3"
+}

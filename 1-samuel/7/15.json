@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Samueili gjykonte ⟨את⟩ Izraelin gjithë ditët e jetës së tij.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjykonte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "e jetës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:11:49.827462743Z",
+  "model": "glm-5.3"
+}

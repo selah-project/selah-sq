@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ai forcoi ⟨את⟩ fortifikatat dhe vuri në to komandantë dhe depo ushqimi, vajit dhe verës.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "forcoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fortifikatat"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fortifikatat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "vori"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në to"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "komandantë"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "depo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ushqimi"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "verë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:10:04.148159610Z",
+  "model": "glm-5.3"
+}

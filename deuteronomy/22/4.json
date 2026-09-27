@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Të mos shohësh ⟨את⟩ gomarin e vëllait tëtend ose kaun e tij të rënë në rrugë dhe të fshihesh prej tyre — duke ngritur do t'i ngresh bashkë me të.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "shohësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomarin e vëllait tënd"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "gomar"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "e vëllait tënd"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "kaun e tij"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "të rënë"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "dhe të fshihesh"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "prej tyre"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "duke ngritur"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "do t'i ngresh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bashkë me të"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:24.269167807Z",
+  "model": "glm-5.3"
+}

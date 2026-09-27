@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "Adonai, sa gjatë do të shohësh? Kthe shpirtin tim nga shkatërrimet e tyre, nga luadeltë e rinj — të vetmen time.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sa gjatë"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "do të shohësh"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "kthe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "nga shkatërrimet e tyre"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "nga luadeltë e rinj"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "të vetmen time"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:46.847609818Z",
+  "model": "glm-5.3"
+}

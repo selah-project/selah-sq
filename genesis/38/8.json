@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe Juda i tha Onanit: «Hyr te gruaja e vëllait tëtend dhe kryej detyrën e kunjatit ndaj ⟨את⟩ saj, dhe ngjall farë për vëllain tënd.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe i tha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onanit"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Hyr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "gruaja e"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vëllait tënd"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "dhe kryej detyrën e kunjatit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "saj (gruan e vëllait)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "dhe ngjall"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farë"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "për vëllain tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:45.479669024Z",
+  "model": "glm-5.3"
+}

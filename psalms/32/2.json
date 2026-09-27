@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "I bekuar është njeriu të cilit Jahve nuk i llogarit paudhësinë, dhe në frymën e tij nuk ka mashtrim.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "I bekuar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "i llogarit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i (atij)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësinë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk ka"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "në frymën e tij"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mashtrim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:49.931685102Z",
+  "model": "glm-5.3"
+}

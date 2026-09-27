@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Me ⟨të⟩ pastëtin tregohesh i pastët, dhe me ⟨të⟩ shtrembrin tregohesh i pështjelluar.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "të pastëtin"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "tregohesh i pastët"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dhe me"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "të shtrembrin"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "tregohesh i pështjelluar"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:14.572521442Z",
+  "model": "glm-5.3"
+}

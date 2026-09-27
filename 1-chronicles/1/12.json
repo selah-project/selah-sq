@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe ⟨את⟩ patrusitët dhe ⟨את⟩ kasluhitët — nga atje dolën filistët — dhe ⟨את⟩ kaftoritët.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "patrusitët"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusitët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kasluhitët"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluhitët"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ku"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dolën"
+    },
+    {
+      "surface": "משם",
+      "gloss": "nga atje"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "kaftoritët"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftoritët"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:34.922119179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Me boritë dhe me zë shofari bërtitni para Mbretit, Jahve.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Me boritë"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dhe me zë"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofari"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bërtitni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mbretit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:14.857997272Z",
+  "model": "glm-5.3"
+}

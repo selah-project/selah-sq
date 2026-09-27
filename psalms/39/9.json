@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Prej të gjitha shkeljeve të mia më shpëto; mos më bëj turp të të pamendit.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "prej të gjitha"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "shkeljeve të mia"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "më shpëto"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "turp"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "të pamendit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "më bëj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:35.898529614Z",
+  "model": "glm-5.3"
+}

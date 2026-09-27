@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 109,
+  "translation": "Dhe ⟨të⟩ dinë se kjo ⟨është⟩ dora jote; ti, Jahve, e ke bërë atë.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dhe të dinë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "e ke bërë atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:07.082607783Z",
+  "model": "glm-5.3"
+}

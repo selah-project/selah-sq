@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe ⟨את⟩ vëllain tuaj të vogël sillnani tek unë, që fjalët tuaja të besohen dhe të mos vdisni. Dhe bënë ashtu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vëllain tuaj të vogël"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vëllain tuaj"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "të vogël"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "sillnani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tek unë"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "që të besohen"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "fjalët tuaja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "vdisni"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dhe bënë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:19.846506862Z",
+  "model": "glm-5.3"
+}

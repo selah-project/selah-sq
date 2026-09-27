@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe Labani e arriti ⟨את⟩ Jakobin; e Jakobi kishte ndërtuar ⟨את⟩ çadrën e tij në mal, dhe Labani me ⟨את⟩ vëllezërit e tij i ndërtuan çadrat në malin e Galaadit.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "e arriti"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobin"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dhe Jakobi"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "kishte ndërtuar çadrën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadrën e tij"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadrën e tij"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "dhe Labani"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "i ndërtuan çadrat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vëllezërit e tij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vëllezërit e tij"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në malin"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "e Galaadit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:18:14.181232479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe vdiq Jozuei, në moshën njëqind e dhjetë vjeç; dhe e balemosën ⟨את⟩ ⟨e tij⟩, dhe e vendosën në një arkë në Egjipt.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Dhe vdiq"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozuei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i moshës ⟨bir⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "njëqind"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dhjetë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjeç"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "dhe e balemosën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨e tij⟩",
+      "marks": "e balemosën"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "dhe e vendosën"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "në një arkë"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:30.242855051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Ruaju të mos lësh ⟨את⟩ Levitin gjithë ditët e tua mbi tokën tënde.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ruaju"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "פן",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "lësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levitin"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levitin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ditët e tua"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tokën tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T14:46:36.502856006Z",
+  "model": "glm-5.3"
+}

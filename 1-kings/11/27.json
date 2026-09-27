@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ky ishte puna ⟨sepse të⟩ cilën ai ngriti dorën kundër mbretit: Salomoni ndërtoi ⟨את⟩ Milon, ia mbylli ⟨את⟩ çarjen e qytetit të Davidit, atit të tij.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Dhe ky"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sepse të⟩ cilën"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ngriti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kundër mbretit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milon (המלוא)"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milon"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ia mbylli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çarjen (פרץ)"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "çarjen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "të Davidit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:44.098865626Z",
+  "model": "glm-5.3"
+}

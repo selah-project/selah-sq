@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe më tha Jahve: Shiko, kam filluar të jap para teje ⟨את⟩ Sihonin dhe ⟨את⟩ tokën e tij; fillo të pushtosh, për të trashëguar ⟨את⟩ tokën e tij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Shiko"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "kam filluar"
+    },
+    {
+      "surface": "תת",
+      "gloss": "të jap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihonin"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tij"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tokën e tij"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fillo"
+    },
+    {
+      "surface": "רש",
+      "gloss": "të pushtosh"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "për të trashëguar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tij"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tokën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:42:23.647053698Z",
+  "model": "glm-5.3"
+}

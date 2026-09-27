@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Jahve do të japë ⟨את⟩ armiqtë e tu, ata që ngrihen kundër teje, të thyer para teje; në një rrugë do të dalin kundër teje, dhe në shtatë rrugë do të ikin para teje.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armiqtë e tu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "armiqtë e tu"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "ata që ngrihen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "të thyer"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në një rrugë"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "një"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "do të dalin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kundër teje"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "dhe në shtatë"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "rrugë"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "do të ikin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "para teje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:11.285748937Z",
+  "model": "glm-5.3"
+}

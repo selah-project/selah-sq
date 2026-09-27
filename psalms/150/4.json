@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 150,
+  "translation": "Lëvdojeni atë me daulle dhe valle; lëvdojeni atë me minnim dhe ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "me daulle"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "dhe valle"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lëvdojeni atë"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "me minnim"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "dhe ugav"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:09.712818589Z",
+  "model": "glm-5.3"
+}

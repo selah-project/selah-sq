@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 110,
+  "translation": "Nga përroi në rrugë ⟨ai⟩ do të pijë; prandaj do të ngrejë kokën.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Nga përroi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugë"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "do të pijë"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "do të ngrejë"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kokën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:18.223736618Z",
+  "model": "glm-5.3"
+}

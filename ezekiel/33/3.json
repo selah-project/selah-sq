@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "dhe sheh ⟨את⟩ shpatën duke ardhur mbi ⟨the⟩ tokën, dhe i bie bugarit dhe paralajmëron ⟨את⟩ popullin",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dhe sheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpatën"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "shpatën"
+    },
+    {
+      "surface": "באה",
+      "gloss": "duke ardhur"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "dhe i bie"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "bugarit"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "dhe paralajmëron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:29:38.084914646Z",
+  "model": "glm-5.3"
+}

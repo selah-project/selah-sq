@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Kështu hyri Bat-Sheba te mbreti në dhomën e tij; mbreti ishte shumë i moshuar, dhe Avishagu shunamitja po shërbente ⟨את⟩ mbretin.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "hyri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "në dhomën e tij"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dhe mbreti"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ishte i moshuar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "dhe Avishagu"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamitja"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "po shërbente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:47.468595744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Si përmbysja që bëri Elohim ⟨את⟩ Sodomën dhe ⟨את⟩ Gomorën dhe ⟨את⟩ fqinjët e saj, thotë Jahve, nuk do të banojë atje asnjë njeri dhe nuk do të strehohet në të asnjë bir i Ademit.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "Si përmbysja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodomën"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Gomorën"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "fqinjët e saj"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "fqinjët e saj"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "do të banojë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "asnjë njeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "do të strehohet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "i Ademit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:23:37.299384073Z",
+  "model": "glm-5.3"
+}

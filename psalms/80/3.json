@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Para Efraimit e Beniaminit e Manasit, zgjo ⟨את⟩ fuqinë tënde, dhe eja për shpëtimin tonë!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Para"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimit"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e Beniaminit"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e Manasit"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "zgjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuqinë tënde"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "fuqinë tënde"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "dhe eja"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "për shpëtimin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:39.169298959Z",
+  "model": "glm-5.3"
+}

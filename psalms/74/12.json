@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 74,
+  "translation": "Dhe Elohim, mbreti im, ⟨që⟩ nga kohët e lashta, punon shpëtime në mes të ⟨të⟩ tokës.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Dhe Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbreti im"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "nga kohët e lashta"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "punon"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "shpëtime"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:01.519149065Z",
+  "model": "glm-5.3"
+}

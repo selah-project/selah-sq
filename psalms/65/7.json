@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "⟨Ai⟩ që vendos malet me forcën e tij, ⟨që⟩ rrihet me fuqi.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "vendos"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "me forcën e tij"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "rrihet"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "me fuqi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:23.516695166Z",
+  "model": "glm-5.3"
+}

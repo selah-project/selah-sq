@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "I lavdësuar — do të thërras Jahve, dhe nga armiqtë e mi do të shpëtohem.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "i lavdësuar"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "do të thërras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "do të shpëtohem"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:38.564675509Z",
+  "model": "glm-5.3"
+}

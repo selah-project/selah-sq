@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Zabadi lindi ⟨את⟩ Eflalin, dhe Eflali lindi ⟨את⟩ Obedin.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Dhe Zabadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflalin"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflalin"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "dhe Eflali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedin"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:30.739788761Z",
+  "model": "glm-5.3"
+}

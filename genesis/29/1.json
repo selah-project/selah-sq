@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Jakobi ngriti këmbët e veta dhe shkoi në vendin e bijve të lindjes.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "dhe ngriti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "këmbët e veta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "të bijve"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "të lindjes"
+    }
+  ],
+  "timestamp": "2026-09-27T13:55:14.814727907Z",
+  "model": "glm-5.3"
+}

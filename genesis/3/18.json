@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe gjemb e drizë do të mbjellë ⟨për ty⟩, dhe do të hash ⟨את⟩ barin e fushës.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Dhe gjemb"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "e drizë"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "do të mbjellë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨për ty⟩"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "dhe do të hash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barin e fushës"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "barin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:39.863983199Z",
+  "model": "glm-5.3"
+}

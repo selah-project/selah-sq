@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "Atë që bëri ⟨të⟩ qiejt me kuptim, se për jetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "atë që bëri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "me kuptim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për jetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:39.005895622Z",
+  "model": "glm-5.3"
+}

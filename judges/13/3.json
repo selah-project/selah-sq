@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe një engjëll i Jahvesë iu shfaq gruas dhe i tha asaj: Ja, tani, ⟨ti⟩ je shterpë dhe nuk ke lindur; por do të mbetesh shtatzënë dhe do të lindësh një djalë.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iu shfaq"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "një engjëll"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-it (gruas)"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti, shterpë"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "shterpë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ke lindur"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "do të mbetesh shtatzënë"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "do të lindësh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "një djalë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:06:39.993109720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Nëse do të bëhej gati për t'u grindur me të, ai ⟨nuk⟩ mund t'i përgjigjet atij një herë nga një mijë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "do të bëhej gati"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "për t'u grindur"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "t'i përgjigjet atij"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një herë"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "një mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:40.911928326Z",
+  "model": "glm-5.3"
+}

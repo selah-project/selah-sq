@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 15:32",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Në vitin e dytë të Pekahut, birit të Remaljahut, mbretit të Izraelit, filloi të mbretërojë Jothami, bir i Uziahus, mbret i Judës.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Në vitin"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "e dytë"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "të Pekahut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "të Remaljahut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "filloi të mbretërojë"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jothami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "i Uziahus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T15:45:59.981136574Z",
+  "model": "glm-5.3"
+}

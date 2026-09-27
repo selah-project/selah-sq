@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "E themeloi ⟨Elohim⟩ tokën mbi themelet e saj — krejt mos të lëkundet, përjetë e pandërprerë.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "E themeloi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "themelet e saj"
+    },
+    {
+      "surface": "בל",
+      "gloss": "krejt mos"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "të lëkundet"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e pandërprerë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:54.473821725Z",
+  "model": "glm-5.3"
+}

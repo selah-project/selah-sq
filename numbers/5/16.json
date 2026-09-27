@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "dhe prifti e afron ⟨את⟩ atë dhe e vë atë të qëndrojë përballë Jahvesë",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dhe e afron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë (gruan)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "dhe e vë atë të qëndrojë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:44.660931221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "E kërkova ⟨את⟩ Jahve, dhe m'u përgjigj, dhe nga të gjitha frikërat e mia më shpëtoi.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "e kërkova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dhe m'u përgjigj"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dhe nga të gjitha"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "frikërat e mia"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "më shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:12.805681784Z",
+  "model": "glm-5.3"
+}

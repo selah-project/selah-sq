@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe u thashë atyre: Nëse ju duket mirë, jepni pagën time; dhe nëse jo, ndaluni. Dhe peshuan ⟨את⟩ pagën time: tridhjetë copë argjendi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe u thashë"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirë"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ju duket"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "jepni"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "pagan time"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ndaluni"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "dhe peshuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagan time"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "pagan time"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridhjetë"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "copë argjendi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:54:04.126701264Z",
+  "model": "glm-5.3"
+}

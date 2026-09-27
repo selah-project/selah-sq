@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Për dirigjentin. ⟨Një⟩ mësimdhënës ⟨poem⟩, për bijtë e Korahut.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mësimdhënës"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "për bijtë e"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahut"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:17.704783632Z",
+  "model": "glm-5.3"
+}

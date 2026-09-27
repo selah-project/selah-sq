@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 111,
+  "translation": "Ushqim u dha atyre që i frikësohen atij; ai kujton përgjithmonë besëlidhjen e tij.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "u dha"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "atyre që i frikësohen atij"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "kujton"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përgjithmonë"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besëlidhjen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:12.739296058Z",
+  "model": "glm-5.3"
+}

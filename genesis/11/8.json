@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Jahve i shpërndau ⟨את⟩ atje prej aty mbi faqen e gjithë tokës, dhe ndalën së ndërtuari qytetin.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "i shpërndau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "ata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "dhe ndalën"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "së ndërtuari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:49:46.758469467Z",
+  "model": "glm-5.3"
+}

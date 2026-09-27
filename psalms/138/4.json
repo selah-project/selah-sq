@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 138,
+  "translation": "Do të të falënderojnë, o Jahve, gjithë mbretërit e dheut, sepse dëgjuan fjalët e gojës sate.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "do të të falënderojnë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mbretërit e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dheut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dëgjuan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët e"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gojës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:20.840613695Z",
+  "model": "glm-5.3"
+}

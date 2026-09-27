@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Dhe e ndërtoi ⟨את⟩ efodin — ar, të bljtë, dhe të purpurta, dhe kuerme të kuqe, dhe liri i fërdyelluar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe e ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "e bljtë"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dhe e purpurta"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dhe kuerme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të kuqe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe liri"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "i fërdyelluar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:20.411992943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 1:21",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe tha: I zhveshur dola nga barku i nënës sime, dhe i zhveshur do të kthehem atje; Jahve dha dhe Jahve mori ⟨את⟩; qoftë i bekuar emri i Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "i zhveshur"
+    },
+    {
+      "surface": "יצתי",
+      "gloss": "dola"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "nga barku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "i nënës sime"
+    },
+    {
+      "surface": "וערם",
+      "gloss": "dhe i zhveshur"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "do të kthehem"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mori ⟨את⟩",
+      "marks": "objekti i marrë (pa fjalë në hebraisht)"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahvesë"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "i bekuar"
+    }
+  ],
+  "timestamp": "2026-09-27T17:26:37.340088770Z",
+  "model": "glm-5.3"
+}

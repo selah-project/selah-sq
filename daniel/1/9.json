@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "E Elohim dha ⟨את⟩ Danielin për hesed dhe për mëshirë përpara kryetarit të eunukëve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Danielin"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielin"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "për hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "dhe për mëshirë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kryetarit"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "të eunukëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:27.480511003Z",
+  "model": "glm-5.3"
+}

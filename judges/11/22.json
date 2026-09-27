@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "dhe trashëuan ⟨את⟩ tërë kufirin e emoreut, nga Arnoni deri në Jabokun, dhe nga shkretëtira deri në Jordanin.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "dhe trashëuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë kufirin e emoreut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "e emoreut"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "nga Arnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabokun"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "shkretëtira"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:06:24.929805105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ⟨את⟩ dashin e copëtoi në copat e tij; dhe Moisi dogji si tym ⟨את⟩ kokën, ⟨את⟩ copat dhe ⟨את⟩ yndyrën.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dashin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dashin"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "e copëtoi"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "në copat e tij"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dogji si tym"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kokën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "copat"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "copat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "yndyrën"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:45.042211961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "dhe ⟨את⟩ Negevin, dhe ⟨את⟩ rrafshnaltën, luginën e Jerikos, qytetin e palmave, deri në Coar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Negevin"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negevin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rafshnaltën"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "rafshnaltën"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "luginën e"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerikos"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "e palmave"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:37.513765381Z",
+  "model": "glm-5.3"
+}

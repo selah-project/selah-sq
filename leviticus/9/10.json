@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ⟨את⟩ yndyrën, dhe ⟨את⟩ veshkat, dhe ⟨את⟩ llapën e mëlçisë, nga flijimi për mëkatin, i dogji në altar, ashtu siç kishte urdhëruar Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "yndyrën"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yndyrën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "veshkat"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veshkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "llapën e mëlçisë"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "llapën e mëlçisë"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mëlçia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "flijimi për mëkatin"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "i dogji (i bëri tym)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "në altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kishte urdhëruar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:25.687911020Z",
+  "model": "glm-5.3"
+}

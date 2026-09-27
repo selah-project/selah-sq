@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Se në kotësi vjen dhe në errësirë shkon, dhe në errësirë emri i tij mbulohet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "në kotësi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vjen"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dhe në errësirë"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dhe në errësirë"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emri i tij"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "mbulohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:32.585559317Z",
+  "model": "glm-5.3"
+}

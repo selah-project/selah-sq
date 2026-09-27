@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse nuk ka bijë, do t'i jepni ⟨את⟩ trashëgiminë e tij vëllezërve të tij.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bijë"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "do t'i jepni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë e tij"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "trashëgiminë e tij"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "vëllezërve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:43.698002394Z",
+  "model": "glm-5.3"
+}

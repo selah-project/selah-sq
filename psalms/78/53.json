@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe ai i udhëhoqi me siguri dhe ata nuk u trembën, dhe deti i mbuloi ⟨את⟩ armiqtë e tyre.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i udhëhoqi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "me siguri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "u trembën"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "armiqtë e tyre"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "armiqtë e tyre"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "mbuloi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:08.606986698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Sepse ditët e mi ⟨janë⟩ shuar si tymi, dhe kockat e mi ⟨janë⟩ djegur si vatër.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨janë⟩ shuar"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "si tymi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e mi"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "dhe kockat e mi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "si"
+    },
+    {
+      "surface": "קד",
+      "gloss": "vatër"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "⟨janë⟩ djegur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.041042882Z",
+  "model": "glm-5.3"
+}

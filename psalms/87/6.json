@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 87,
+  "translation": "Jahve do të numërojë, kur të shkruajë popujt: ky u lind atje. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "do të numërojë"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "kur të shkruajë"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ky"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "u lind"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atje"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:21.688791476Z",
+  "model": "glm-5.3"
+}

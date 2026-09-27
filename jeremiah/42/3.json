@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "dhe të na tregojë Jahve, Elohim yt, ⟨את⟩ rrugën në të cilën të ecim në të, dhe ⟨את⟩ punën që të bëjmë.»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe të tregojë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim yt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rrugën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "në të cilën"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "të ecim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "punën"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "punën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "të bëjmë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:20:58.375493843Z",
+  "model": "glm-5.3"
+}

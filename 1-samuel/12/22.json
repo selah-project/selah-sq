@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Sepse Jahve nuk do të braktisë ⟨את⟩ popullin e vet për hir të emrit të tij të madh, sepse Jahve u pëlqeu t'ju bëjë për vete një popull.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "do të braktisë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin e vet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e vet"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për hir të"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrit të tij"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "të madh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "u pëlqeu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "t'ju bëjë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ juve",
+      "marks": "juve si popull për të"
+    },
+    {
+      "surface": "לו",
+      "gloss": "për vete"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "një popull"
+    }
+  ],
+  "timestamp": "2026-09-27T15:13:43.451873066Z",
+  "model": "glm-5.3"
+}

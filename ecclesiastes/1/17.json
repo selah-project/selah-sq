@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ia pata fjalën zemrës sime të njoh urtësinë, dhe të njoh çmendinë dhe marrëzinë; e njoha se edhe kjo është kërkim i erës.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ia pata fjalën"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemrës sime"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "të njoh"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "urtësinë"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dhe të njoh"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "çmendinë"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "dhe marrëzinë"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "e njoha"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "se edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "kërkim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "i erës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:41:36.087116342Z",
+  "model": "glm-5.3"
+}

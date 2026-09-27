@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Le ta lëvdojnë qiejt dhe toka, detet dhe gjithçka që lëviz në to.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "le ta lëvdojnë"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dhe toka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "detet"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "që lëviz"
+    },
+    {
+      "surface": "בם",
+      "gloss": "në to"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:54.248746253Z",
+  "model": "glm-5.3"
+}

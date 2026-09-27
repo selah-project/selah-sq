@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe do t'i sjellësh ⟨את⟩ levitët përballë çadrisë së takimit, dhe do të mbledhësh ⟨את⟩ gjithë asamblenë e bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dhe do t'i sjellësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitët"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitët"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrisë"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "të takimit"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "dhe do të mbledhësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë asamblenë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asamblenë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:20:04.804003695Z",
+  "model": "glm-5.3"
+}

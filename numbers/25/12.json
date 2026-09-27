@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Prandaj thuaj: Ja, unë po i jap atij ⟨את⟩ besëlidhjen time të paqes.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Prandaj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thuaj"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "po jap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besëlidhjen time"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "të paqes"
+    }
+  ],
+  "timestamp": "2026-09-27T14:36:59.708896049Z",
+  "model": "glm-5.3"
+}

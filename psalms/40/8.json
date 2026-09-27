@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Atëherë thashë: Ja, erdha — në rrotullën e librit ⟨është⟩ shkruar për mua.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "thashë"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "erdha"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "në rrotullën e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "librit"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "shkruar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:07.902326221Z",
+  "model": "glm-5.3"
+}

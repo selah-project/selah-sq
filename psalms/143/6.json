@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Shtriva duart e mia drejt teje, shpirti im si toka e lodhur — për ty. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Shtriva"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "duart e mia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "drejt teje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "si toka"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "e lodhur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:30.238441034Z",
+  "model": "glm-5.3"
+}

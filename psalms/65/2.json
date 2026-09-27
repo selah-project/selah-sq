@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 65,
+  "translation": "Ty, o heshtje, ⟨i⟩ përgjigjet lëvdimi, o Elohim, në Sion; dhe ty do të shpërblehet ⟨lǒ≫ premtimi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "heshtje"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lëvdimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "në Sion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dhe ty"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "do të shpërblehet"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "premtimi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:17.115640594Z",
+  "model": "glm-5.3"
+}

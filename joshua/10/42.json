@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe ⟨את⟩ të gjithë këta mbretër dhe ⟨את⟩ tokën e tyre Jozue e zuri një herë të vetme, sepse Jahve, Elohim i Izraelit, luftoi për Izraelin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë këta mbretër"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mbretër"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tokën e tyre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tokën e tyre"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "zuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "herë"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një të vetme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "luftoi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:16.814140569Z",
+  "model": "glm-5.3"
+}

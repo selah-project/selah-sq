@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Ah, sikur populli im të më dëgjonte! Atëherë Izraeli do të ecte në rrugët e mia.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ah, sikur"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "populli im"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "të dëgjonte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "në rrugët e mia"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "do të ecte"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.929518881Z",
+  "model": "glm-5.3"
+}

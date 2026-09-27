@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Besëlidhjen time nuk do ta vanësoj dhe atë që del nga buzët e mia nuk do ta ndryshoj.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "do ta vanësoj"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "besëlidhjen time"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "dhe atë që del"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "nga buzët e mia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "do ta ndryshoj"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.396021547Z",
+  "model": "glm-5.3"
+}

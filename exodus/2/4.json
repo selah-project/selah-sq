@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe e motra e tij u vendos larg, për të ditur çfarë do t'i bëhej atij.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "dhe u vendos"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "e motra e tij"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "larg"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "për të ditur"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëhej"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:38.830503919Z",
+  "model": "glm-5.3"
+}

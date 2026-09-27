@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Kujto se fryma ⟨Është⟩ jeta ime; syri im nuk do të kthehet më të shohë ⟨të⟩ mirën.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kujto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fryma"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jeta ime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "do të kthehet më"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "syri im"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "të shohë"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨të⟩ mirën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:44.709320591Z",
+  "model": "glm-5.3"
+}

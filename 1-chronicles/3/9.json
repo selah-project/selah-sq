@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Të gjithë këta ishin bijtë e Davidit, përveç bijve të konkubinave, dhe Tamara motra e tyre.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "e Davidit"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "përveç"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "të konkubinave"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "dhe Tamara"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "motra e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:04.396108222Z",
+  "model": "glm-5.3"
+}

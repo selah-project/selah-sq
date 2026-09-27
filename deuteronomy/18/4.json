@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Të parat e drithit tënd, të verës së re tënde dhe të vajit tënd, dhe të parat e leshit të deleve të tua do t'ia jesh ⟨atij⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "të parat"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "të drithit tënd"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "të verës së re tënde"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "dhe të vajit tënd"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "dhe të parat"
+    },
+    {
+      "surface": "גז",
+      "gloss": "të leshit"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "të deleve të tua"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "do t'ia jesh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:14.467259651Z",
+  "model": "glm-5.3"
+}

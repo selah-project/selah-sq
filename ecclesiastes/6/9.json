@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Më e mirë ⟨është⟩ shikimi i syve sesa endja e shpirtit; edhe kjo ⟨është⟩ kotësi dhe synim pas erës.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "më e mirë"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "shikimi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "i syve"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "sesa endja"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "e shpirtit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kotësi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dhe synim pas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "erës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:18.035910203Z",
+  "model": "glm-5.3"
+}

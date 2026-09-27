@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "I bën të mëdha kombet dhe i shkatërron ⟨ato⟩; i shtrin kombet dhe i qetëson.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "i bën të mëdha"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "dhe i shkatërron"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "i shtrin"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dhe i qetëson"
+    }
+  ],
+  "timestamp": "2026-09-27T17:29:21.244450297Z",
+  "model": "glm-5.3"
+}

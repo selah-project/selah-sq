@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe erdhën të gjithë pleqtë e Israelit, dhe priftërinjtë ngritën ⟨את⟩ arkën.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:07.845713433Z",
+  "model": "glm-5.3"
+}

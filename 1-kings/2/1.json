@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe iu afruan ditët e Davidit për të vdekur, dhe ai urdhëroi ⟨את⟩ Salomonin, birin e tij, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dhe iu afruan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "למות",
+      "gloss": "për të vdekur"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "dhe ai urdhëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salomonin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "birin e tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:48.741118379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Kur shpirti im mbylte brenda meje, ⟨את⟩ Jahve pashë, dhe lutja ime erdhi drejt teje, në tempullin e të shenjtërisë sate.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Kur mbylte brenda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dhe erdhi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "drejt teje"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutja ime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempullin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "të të shenjtërisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T16:47:56.967668020Z",
+  "model": "glm-5.3"
+}

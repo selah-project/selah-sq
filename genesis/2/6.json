@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe një avull ngjiste nga toka dhe ujiste ⟨את⟩ tërë faqen e tokës.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "dhe një avull"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ngjiste"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "dhe ujiste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tërë faqen e tokës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faqen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:55.383460687Z",
+  "model": "glm-5.3"
+}

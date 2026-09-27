@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ajo u tha atyre: Kështu thotë Jahve, Elohim i Izraelit: 'I thoni njeriut që ju dërgoi ⟨את⟩ te unë:'",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dhe ajo u tha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "I thoni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:25.390246324Z",
+  "model": "glm-5.3"
+}

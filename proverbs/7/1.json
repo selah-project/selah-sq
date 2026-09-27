@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Biri im, ruaj fjalët e mia, dhe urdhërimet e mi ti fshehu ⟨את⟩ pranë teje.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "biri im"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ruaj"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalët e mia"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dhe urdhërimet e mi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ti fshehu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pranë teje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:20:43.001519928Z",
+  "model": "glm-5.3"
+}

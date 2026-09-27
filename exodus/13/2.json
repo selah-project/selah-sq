@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Ma shenjtëro çdo të parëlindur, çdo hapës të çdo mitrës midis bijve të Izraelit, në njeri ashtu edhe në kafshë — ⟨ai⟩ ⟨është⟩ i imi.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "shenjtëro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "të parëlindur"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "hapës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mitrës"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "midis bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "në njeri"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "edhe në kafshë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i imi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:56.174192896Z",
+  "model": "glm-5.3"
+}

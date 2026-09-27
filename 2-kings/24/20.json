@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Sepse për shkak të zemërimit të Jahvesë kjo ndodhi në Jeruzalem dhe në Judë, derisa i hodhi ⟨את⟩ ata nga prania e vet; dhe Cidekiahu u rebelua kundër mbretit të Babilonisë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "על",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zemërimit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ndodhi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "dhe në Judë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "i hodhi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "prania e vet"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "dhe u rebelua"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidekiahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kundër mbretit"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "të Babilonisë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:15.186399692Z",
+  "model": "glm-5.3"
+}

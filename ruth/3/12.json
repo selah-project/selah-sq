@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe tani, vërtet, me të vërtetë unë jam shpengues — vetëm se ka edhe një shpengues më të afërt se unë.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpengues"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "por gjithashtu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "shpengues"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "më të afërt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "se unë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:39:06.516419450Z",
+  "model": "glm-5.3"
+}

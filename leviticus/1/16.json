@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe do t'ia heqë ⟨את⟩ kropin e saj me lëngun e tij, dhe do ta hedhë ⟨את⟩ atë pranë altarit, në anën e lindjes, në vendin e hirit.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "dhe do t'ia heqë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kropin e saj"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "kropin e saj"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "me lëngun e tij"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "dhe do ta hedhë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "në anën e lindjes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "të hirit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:22.942800312Z",
+  "model": "glm-5.3"
+}

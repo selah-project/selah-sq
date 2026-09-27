@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Sepse ti, Adonai, ⟨je⟩ i mirë dhe falës, dhe i pasur me hesed ndaj të gjithëve që të thërrasin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "dhe falës"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dhe i pasur me"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndaj të gjithëve"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "që të thërrasin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:27.863196937Z",
+  "model": "glm-5.3"
+}

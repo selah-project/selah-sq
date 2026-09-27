@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 15:1",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe Jahve më tha: Edhe sikur Moisi dhe Samueli të qëndronin para meje, shpirti im s'do të ⟨ishte⟩ ndaj këtij populli; dërgoji nga para e fytyrës sime dhe le të dalin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe … tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "më"
+    },
+    {
+      "surface": "אם",
+      "gloss": "edhe sikur"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "të qëndronin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "dhe Samueli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "s'… (negacioni)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dërgoji"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga para"
+    },
+    {
+      "surface": "פני",
+      "gloss": "e fytyrës sime"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dhe le të dalin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:12:32.003575434Z",
+  "model": "glm-5.3"
+}

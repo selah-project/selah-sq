@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Rri në pritë pranë fshatrave; në vendet e fshehta vret të pafajshmin; sytë e tij e vëzhgojnë fshehurazi të pamburin.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "rrit në pritë"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "pritë"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "fshatrave"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "vendet e fshehta"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "vret"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "të pafajshmin"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sytë e tij"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "të pamburin"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "e vëzhgojnë fshehurazi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.078255188Z",
+  "model": "glm-5.3"
+}

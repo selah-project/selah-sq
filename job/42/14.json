@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe ai dënoi emrin e të parës Jemimah, emrin e të dytës Ketsiah, dhe emrin e të tretës Keren-Hapuk.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe dënoi (emrin)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "emrin"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e parës"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemimah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emrin"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "e dytës"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsiah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emrin"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "e tretës"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren-"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapuk"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:27.010130917Z",
+  "model": "glm-5.3"
+}

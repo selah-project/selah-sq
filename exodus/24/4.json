@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe shkroi Moisi ⟨את⟩ të gjitha fjalët e Jahves; dhe u ngrit herët në mëngjes dhe ndërtoi një altar nën ⟨në këmbë të⟩ malit, dhe dymbëdhjetë shtylla për dymbëdhjetë fiset e Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dhe shkroi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "dhe u ngrit herët"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dhe ndërtoi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "një altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "malit"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dhe dymbëdhjetë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(dhjetë)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "shtylla"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "për dymbëdhjetë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dhjetë)"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "fiset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:33.080225791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Dhe do ta ruaj Torën ⟨tënde⟩ vazhdimisht, përjetë e përgjithmonë.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "dhe do ta ruaj"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torën tënde"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e përgjithmonë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:09.469314685Z",
+  "model": "glm-5.3"
+}

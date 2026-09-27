@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe ⟨את⟩ bijtë e saj nuk do t'i mëshiroj, sepse bijtë të kurorëshkeljes janë ⟨ata⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e saj"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bijtë e saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "do t'i mëshiroj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "të kurorëshkeljes"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    }
+  ],
+  "timestamp": "2026-09-27T16:42:17.667273644Z",
+  "model": "glm-5.3"
+}

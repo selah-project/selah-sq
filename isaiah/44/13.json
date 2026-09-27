@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Mjeshtëri i drurit e shtrin ⟨הוא⟩ ⟨atë⟩ — një vizë; e vizaton me shkrim, e punon me planë, dhe me kompas e përshtat; dhe e bën atë sipas formës së një njeriu, sipas bukurisë së njeriut, për të banuar në një shtëpi.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "mjeshtëri"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "i drurit"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "e shtrin"
+    },
+    {
+      "surface": "קו",
+      "gloss": "një vizë"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "e vizaton",
+      "marks": "drurin"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "me shkrim"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "e punon",
+      "marks": "drurin"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "me planë"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "dhe me kompas"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "e përshtat",
+      "marks": "drurin"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "dhe e bën atë",
+      "marks": "idosin"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "sipas formës"
+    },
+    {
+      "surface": "איש",
+      "gloss": "të një njeriu"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "sipas bukurisë"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "për të banuar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "në një shtëpi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:53.054389860Z",
+  "model": "glm-5.3"
+}

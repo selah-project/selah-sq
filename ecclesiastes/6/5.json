@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Edhe diellin nuk e pa dhe nuk e njohu; këtij i ka më shumë prehje sesa atij.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Edhe"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "diellin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "e pa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e njohu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "prehje"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "këtij"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sesa atij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:44:10.321226427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe Davidi i foli Jahves ⟨את⟩ fjalët e këngës së këtillë, në ditën kur e shpëtoi Jahve ⟨את⟩ ai nga dora e të gjithë armiqve të tij dhe nga dora e Saulit.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe i foli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e këngës"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "e këngës"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e këtillë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "e shpëtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ai"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nga dera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e gjithë"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "armiqve të tij"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "dhe nga dera"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "e Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:27:59.090170297Z",
+  "model": "glm-5.3"
+}

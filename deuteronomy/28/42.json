@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Të gjithë pemët e tua dhe frytin e tokës sate do t'i sundojë ⟨את⟩ tseltsel-i (karkaleci i madh).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "pemët e tua"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "dhe frytin"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "e tokës sate"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "do t'i sundojë"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "tseltsel-i (karkaleci i madh)"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:11.840224537Z",
+  "model": "glm-5.3"
+}

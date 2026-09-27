@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Me çfarë do ta pastrojë ⟨את⟩ rrugën e tij një i ri? Duke e ruajtur sipas fjalës sate.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "me çfarë"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "do ta pastrojë"
+    },
+    {
+      "surface": "נער",
+      "gloss": "një i ri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugën e tij"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "rrugën e tij"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "duke e ruajtur"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sipas fjalës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.391284482Z",
+  "model": "glm-5.3"
+}

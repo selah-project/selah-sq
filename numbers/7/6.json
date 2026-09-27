@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe Moisi i mori ⟨את⟩ qerret dhe ⟨את⟩ qetë, dhe ia dha ⟨את⟩ ato levitëve.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dhe mori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qerret"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "qerret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qetë"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "qetë"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhe dha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ato, drejt levitëve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "drejt"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitëve"
+    }
+  ],
+  "timestamp": "2026-09-27T14:30:11.639553629Z",
+  "model": "glm-5.3"
+}

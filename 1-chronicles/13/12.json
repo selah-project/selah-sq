@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Davidi u frikësua nga ⟨את⟩ Elohim atë ditë, duke thënë: Si ta sjell te unë ⟨את⟩ arken e Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "dhe u frikësua"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ta sjell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "të Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T18:36:35.991672807Z",
+  "model": "glm-5.3"
+}

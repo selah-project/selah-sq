@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 68,
+  "translation": "I bekuar qoftë Adonai, ditë për ditë; ⟨El⟩ i shpëtimit tonë na ngarkon ⟨me të mira⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar qoftë"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "për ditë"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "na ngarkon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neve"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "i shpëtimit tonë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:17.195304245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe e bleva ⟨את⟩ ⟨rripin⟩ sipas fjalës së Jahvesë, dhe e vura në ijët e mia.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Dhe e bleva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rripin"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "rripin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dhe e vura"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ijët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T18:27:19.895656556Z",
+  "model": "glm-5.3"
+}

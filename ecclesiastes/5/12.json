@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Ka një të keqe të rëndë që pashë nën diell: pasuri e ruajtur për zotërinë e vet, për të keqen e tij.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "të keqe"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "të rëndë"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pashë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pasuri"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "e ruajtur"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "për zotërinë e vet"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "për të keqen e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:42.113137133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Sa herë të kalojë, do t'ju rrëmbejë ⟨אתכם⟩; se mëngjes pas mëngjesi do të kalojë, ditë e natë; dhe do të jetë vetëm tmerr ⟨për⟩ të kuptuar lajmin.",
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "Sa herë"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "të kalojë"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "do t'ju rrëmbejë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mëngjes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pas mëngjesi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "do të kalojë"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "dhe natë"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "tmerr"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "⟨për⟩ të kuptuar"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "lajmin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:04.613517156Z",
+  "model": "glm-5.3"
+}

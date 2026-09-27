@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe ai ndërtoi ⟨את⟩ muret e shtëpisë brenda me dërrasa kedri: nga dyshemeja e shtëpisë deri në muret e tavanit, i mbuloi me dru brenda; dhe ai mbuloi ⟨את⟩ dyshemenë e shtëpisë me dërrasa sharri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dhe ai ndërtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muret e shtëpisë"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "muret"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "me dërrasa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kedri"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "nga dyshemeja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "muret"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "e tavanit"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "mbuloi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "me dru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "brenda"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dhe ai mbuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyshemenë e shtëpisë"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "dyshemenë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "me dërrasa"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sharri"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:22.671907572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Vallë, ti ⟨את⟩ nuk e ke rrethuar me gardh atë dhe shtëpinë e tij dhe gjithçka që ka, nga të gjitha anët? Veprën e duarve të tij e ke bekuar, dhe bagëtia e tij është shpërthyer në ⟨të⟩ tokë.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vallë nuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti",
+      "marks": "שכת (e ke rrethuar)"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "e ke rrethuar me gardh"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "atë"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dhe rreth"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dhe rreth"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "nga të gjitha anët"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "e duarve të tij"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "e ke bekuar"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "dhe bagëtia e tij"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "është shpërthyer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:04.902168481Z",
+  "model": "glm-5.3"
+}

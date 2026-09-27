@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Jozue u urdhëroi ⟨את⟩ oficerëve të popullit, duke thënë:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dhe urdhëroi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oficerëve të popullit"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "oficerëve"
+    },
+    {
+      "surface": "העם",
+      "gloss": "të popullit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:38.484761791Z",
+  "model": "glm-5.3"
+}

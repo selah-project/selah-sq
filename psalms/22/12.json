@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Mos u largo nga unë, sepse ngushta është afër, sepse nuk ka ndihmës.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "u largo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ngushta"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "është afër"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ndihmës"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:56.155149291Z",
+  "model": "glm-5.3"
+}

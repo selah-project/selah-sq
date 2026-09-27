@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Do të veproj me mençuri në rrugën ⟨e⟩ pa-të-meta; kur do të vish te unë? Do të ec me zemër të pa-të-met në ⟨qendrën⟩ e shtëpisë sime.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "do të veproj me mençuri"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "në rrugën"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "të pa-të-met"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "do të vish"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "te unë"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "do të ec"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "me të pa-të-met"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zemër (time)"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "në ⟨qendrën⟩ e"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "shtëpisë sime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.196796129Z",
+  "model": "glm-5.3"
+}

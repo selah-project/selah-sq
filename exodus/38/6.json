@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe ai bëri ⟨את⟩ shufrat prej druri akacie dhe i mbuloi ⟨את⟩ ato me bakër.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shufrat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "shufrat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "prej druri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i mbuloi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "ato"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "me bakër"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:29.694370116Z",
+  "model": "glm-5.3"
+}

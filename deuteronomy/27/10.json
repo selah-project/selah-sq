@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "dhe të dëgjosh në zërin e Jahve, Elohimin tënd, dhe të bësh ⟨את⟩ urdhrat e tij dhe ⟨את⟩ statutet e tij, të cilat unë po të urdhëroj sot.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dhe të dëgjosh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "në zërin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin tëtend"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe të bësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhrat e tij"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "urdhrat e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "statutet e tij"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "statutet e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "po të urdhëroj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sot"
+    }
+  ],
+  "timestamp": "2026-09-27T14:49:57.963411009Z",
+  "model": "glm-5.3"
+}

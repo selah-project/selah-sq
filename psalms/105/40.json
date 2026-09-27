@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Kërkuan, dhe ai solli shkurtëra, dhe me bukën e qiellit i ngopi ata.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "kërkuan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhe ai solli"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "shkurtëra"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dhe me bukën"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "e qiellit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "i ngopi ata"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:01.654463330Z",
+  "model": "glm-5.3"
+}

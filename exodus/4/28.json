@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Moisiu i tregoi Aaronit ⟨את⟩ të gjitha fjalët e Jahvesë që e kishte dërguar ⟨atë⟩, dhe ⟨את⟩ të gjitha shenjat që i kishte urdhëruar atij.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dhe tregoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisiu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aaronit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e kishte dërguar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha shenjat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "shenjat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i kishte urdhëruar"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:19.380079859Z",
+  "model": "glm-5.3"
+}

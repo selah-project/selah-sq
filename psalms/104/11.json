@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 104,
+  "translation": "Ujin çdo bishë të fushës; gomarët e egër i shuan etjen e tyre.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ujin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bishë"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "të fushës"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "i shuan"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "gomarët e egër"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "etjen e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:22.536693699Z",
+  "model": "glm-5.3"
+}

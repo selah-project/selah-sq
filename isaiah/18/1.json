@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Mjerë, o vend i zhurmës së krahëve, që ⟨është⟩ përtej lumenjve të Kushit!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vend"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "zhurmës"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "krahëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "përtej"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "lumenjve të"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:54:31.984854502Z",
+  "model": "glm-5.3"
+}

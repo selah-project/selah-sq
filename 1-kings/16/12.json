@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Kështu shfarosi Zimri ⟨את⟩ gjithë shtëpinë e Baashës, sipas fjalës së Jahvesë, të cilën e foli kundër Baashës, nëpërmjet dorës së Jehut profeti.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "shfarosi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë shtëpinë e Baashës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "e Baashës"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sipas fjalës"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e foli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashës"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nëpërmjet dorës"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "të Jehut"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeti"
+    }
+  ],
+  "timestamp": "2026-09-27T18:24:39.101209981Z",
+  "model": "glm-5.3"
+}

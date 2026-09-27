@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Vajza e Faraonit i tha asaj: Shpjere këtë fëmijë dhe më ushqe atë, dhe unë do të të jap ⟨את⟩ shpërblimin tënd. Dhe gruaja e mori ⟨את⟩ fëmijën dhe e ushqeu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i tha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Vajza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "e Faraonit"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "Shpjere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fëmijën"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "këtë fëmijë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "dhe më ushqe atë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do të të jap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shpërblimin tënd"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "shpërblimin tënd"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "Dhe e mori"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "fëmijën"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "dhe e ushqeu"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:03.913577301Z",
+  "model": "glm-5.3"
+}

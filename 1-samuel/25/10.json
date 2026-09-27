@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe u përgjigj Nabal ⟨את⟩ shërbëtorëve të Davidit dhe tha: Kush ⟨është⟩ Davidi, e kush ⟨është⟩ biri i Isait? Sot janë shtuar shërbëtorët që kaburojnë, secili nga para e zotërisë së vet.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "u përgjigj"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorëve të Davidit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorëve të"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ו מי",
+      "gloss": "e kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "i Isait"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Sot"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "janë shtuar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "shërbëtorët"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "që kaburojnë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "secili"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga para e"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zotërisë së vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:18:11.403545803Z",
+  "model": "glm-5.3"
+}

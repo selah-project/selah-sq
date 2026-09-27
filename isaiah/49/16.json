@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Ja, mbi pëllëmbët e duarve të mia ⟨i kam⟩ gdhendur ⟨ty⟩; muret e tua janë vazhdimisht para meje.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "pëllëmbët e duarve"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "të kam gdhendur"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "muret e tua"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "para meje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    }
+  ],
+  "timestamp": "2026-09-27T16:01:59.874037194Z",
+  "model": "glm-5.3"
+}

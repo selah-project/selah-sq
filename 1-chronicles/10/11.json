@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe dëgjoi i gjithë Jabesh-Gileadi ⟨את⟩ gjithë atë që i kishin bërë filistejtë Saulit.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i gjithë"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atë që"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kishin bërë"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtë"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:32.197836684Z",
+  "model": "glm-5.3"
+}

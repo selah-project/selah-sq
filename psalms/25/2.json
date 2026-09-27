@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "O Elohim im, në ty jam mbështetur; mos ⟨më lër⟩ të turpërohem, të mos ngazëllejnë armiqtë e mi ⟨mbi mua⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim im"
+    },
+    {
+      "surface": "בך",
+      "gloss": "në ty"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jam mbështetur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "të turpërohem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "të ngazëllejnë"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "armiqtë e mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mbi mua"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:14.617056871Z",
+  "model": "glm-5.3"
+}

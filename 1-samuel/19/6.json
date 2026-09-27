@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Sauli dëgjoi në zërin e Jonatanit, dhe Sauli u betua: «Sa është i gjallë Jahve, ai nuk do të vdesë.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "në zërin"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "të Jonatanit"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "u betua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gjallë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "«Sa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të vdesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:33.738986248Z",
+  "model": "glm-5.3"
+}

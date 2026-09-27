@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 27:7",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe veprat e tjera të Jothamit, dhe të gjitha luftërat e tij dhe rrugët e tij, ja, janë shkruar në librin e mbretërve të Izraelit dhe të Judës.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "dhe të tjera"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "veprat"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "të Jothamit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "luftërat e tij"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "dhe rrugët e tij"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "janë shkruar"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "librin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "e mbretërve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe të Judës"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:19.266880384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Aaroni dhe bijtë e tij do të hyjnë kur të nisë kampi, dhe do të zbresin ⟨את⟩ perden e mbulesës, dhe do ta mbulojnë me të ⟨את⟩ arkën e dëshmisë.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dhe do të hyjnë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kur të nisë"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampi"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "do të zbresin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perden"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perden"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "e mbulesës"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "dhe do ta mbulojnë"
+    },
+    {
+      "surface": "בה",
+      "gloss": "me të"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "e dëshmisë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:24.572885247Z",
+  "model": "glm-5.3"
+}

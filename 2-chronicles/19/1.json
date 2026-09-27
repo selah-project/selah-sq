@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Jozafati, mbret i Judës, u kthye në shtëpinë e tij në paqe, në Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jozafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpinë e tij"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "në paqe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "në Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:12:53.124455458Z",
+  "model": "glm-5.3"
+}

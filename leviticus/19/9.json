@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Kur të korrni ⟨את⟩ korrin e tokës suaj, të mos e korrsh plotësisht skajin e fushës tënde për të korrfër, as kokrrat e rëna të korrit tënd të mos i mbledhsh.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Kur të korrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korrin"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "korrin"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "e tokës suaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "e korrsh plotësisht"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skajin"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "e fushës tënde"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "për të korrfër"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "as kokrrat e rëna"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "të korrit tënd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "i mbledhsh"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:44.575878917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 107,
+  "translation": "sepse u rebeluan kundër fjalëve të Elit, dhe këshillën e Eljonit e përbuzën,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "u rebeluan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "fjalëve të"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elit"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "dhe këshillën e"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljonit"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "e përbuzën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:18.439170680Z",
+  "model": "glm-5.3"
+}

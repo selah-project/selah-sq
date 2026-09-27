@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Që t'i ruajnë statute e tij dhe Torat e tij t'i zbatojnë. Lëvdoni Jah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "që"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "t'i ruajnë"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "statute e tij"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "dhe Torat e tij"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "t'i zbatojnë"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lëvdoni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:54.779508242Z",
+  "model": "glm-5.3"
+}

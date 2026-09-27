@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Që të besojnë se të është shfaqur Jahve, Elohim i etërve të tyre — Elohim i Abrahamit, Elohim i Isakut dhe Elohim i Jakobit.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "që të"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "besojnë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "është shfaqur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "të"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isakut"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dhe Elohim i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:31.422425944Z",
+  "model": "glm-5.3"
+}

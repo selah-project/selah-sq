@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe thashë: Ku po shkon ti? Dhe ai më tha: Për të matur ⟨את⟩ Jerusalemin, për të parë sa është gjerësia e tij dhe sa gjatësia e tij.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "po shkon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe ai tha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "למד",
+      "gloss": "për të matur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalemin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalemin"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "për të parë"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "gjerësia e tij"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "dhe sa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "gjatësia e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:04.514175006Z",
+  "model": "glm-5.3"
+}

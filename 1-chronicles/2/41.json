@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "dhe Shallumi lindi ⟨את⟩ Jekamjah, dhe Jekamjah lindi ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "dhe Shallumi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "dhe Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-09-27T17:59:19.323296836Z",
+  "model": "glm-5.3"
+}

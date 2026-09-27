@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "U harrova si një i vdekur ⟨i larguar⟩ nga zemra; u bëva si një enë e humbur.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "u harrova"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "si një i vdekur"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "nga zemra"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "u bëva"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "si një enë"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "e humbur"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:33.344891041Z",
+  "model": "glm-5.3"
+}

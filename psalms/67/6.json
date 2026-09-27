@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Të të lëvdofin ty popujt, o Elohim; të të lëvdofin ty popujt, të gjithë së bashku.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Të të lëvdofin ty"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "të të lëvdofin ty"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "të gjithë së bashku"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.563075451Z",
+  "model": "glm-5.3"
+}

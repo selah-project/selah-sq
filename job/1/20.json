@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Atëherë Jobi u ngrit, grisi ⟨את⟩ mantelin e tij dhe i rrojti ⟨את⟩ kokën e tij, dhe ra për tokë dhe u përul.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobi"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dhe grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantelin e tij"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "mantelin e tij"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "dhe i rrojti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokën e tij"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dhe ra"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "për tokë"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe u përul"
+    }
+  ],
+  "timestamp": "2026-09-27T17:27:19.318030767Z",
+  "model": "glm-5.3"
+}

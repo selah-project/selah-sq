@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe doli zjarr nga para Jahves dhe i gëlltiti ⟨את⟩, dhe vdiqën para Jahves.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "dhe doli"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zjarr"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nga para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dhe i gëlltiti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (Nadabin dhe Abihun)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dhe vdiqën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:34.980273465Z",
+  "model": "glm-5.3"
+}

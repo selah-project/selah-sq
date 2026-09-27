@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe Obadia shkoi për të takuar Ahabin dhe ia njoftoi ⟨atij⟩; dhe Ahabi shkoi për të takuar Elinë.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadia"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "për të takuar"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabin"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe ia njoftoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "për të takuar"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elinë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:01.772996985Z",
+  "model": "glm-5.3"
+}

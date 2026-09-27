@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Shpirti im është ngjitur ⟨me⟩ pluhurin; më gjallëro sipas fjalës sate.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "është ngjitur"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "me pluhurin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "më gjallëro"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sipas fjalës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:25.562061938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Ajo që kemi dëgjuar dhe e njohim, dhe etërit tanë na e kanë treguar —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ajo që"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kemi dëgjuar"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "dhe i njohim"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "dhe etërit tanë"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kanë treguar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:28.491823649Z",
+  "model": "glm-5.3"
+}

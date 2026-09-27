@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "I mallkuar ⟨është⟩ ai që e përbuz të atin dhe të ëmën; dhe gjithë populli do të thotë: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "I mallkuar"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "që e përbuz"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dhe të ëmën"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dhe do të thotë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:30.206013225Z",
+  "model": "glm-5.3"
+}

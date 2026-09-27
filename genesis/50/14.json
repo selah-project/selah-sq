@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Dhe u kthye Jozifi në Egjipt, ai dhe vëllezërit e tij, dhe të gjithë që kishin ngjitur ⟨אתו⟩ për të varrosur ⟨את⟩ të atin, pasi e varrosi ⟨את⟩ të atin.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dhe u kthye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dhe vëllezërit e tij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjithë"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "që kishin ngjitur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "që kishin ngjitur me të"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "për të varrosur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin (אביו)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "e varrosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të atin (אביו)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin"
+    }
+  ],
+  "timestamp": "2026-09-27T14:03:32.742858611Z",
+  "model": "glm-5.3"
+}

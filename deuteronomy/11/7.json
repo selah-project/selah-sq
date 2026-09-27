@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Sepse sytë tuaj e panë ⟨את⟩ gjithë veprën e madhe të Jahvesë, të cilën ai bëri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "sytë tuaj"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "e panë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë veprën e madhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "veprën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e madhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilën"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bëri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:45:20.195826012Z",
+  "model": "glm-5.3"
+}

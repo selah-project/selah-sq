@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Shigaion i Davidit, të cilin ai këndoi për Jahvenë, mbi fjalët e Kushit, i Beniaminit.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i Davidit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "këndoi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahvenë"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët e"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Beniaminit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:02.634710987Z",
+  "model": "glm-5.3"
+}

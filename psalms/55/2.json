@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Dëgjoji, Elohim, lutjen time, dhe mos u fshih nga Lutja-ime-e-tjetër-⟨e⟩ pjellja ime.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "dëgjoji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "u fshih"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "nga lutja e posaçme ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:15.523804871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe hodhi gurë kundër Davidit ⟨את⟩ dhe ⟨את⟩ kundër të gjithë shërbëtorëve të mbretit David; e tërë populli dhe tërë trimat ⟨ishin⟩ nga e djathta e tij dhe nga e majta e tij.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "dhe hodhi gurë"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "me gurë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "të gjithë shërbëtorët"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shërbëtorët e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe e tërë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe tërë"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "trimat"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "nga e djathta e tij"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "dhe nga e majta e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:23:51.484059580Z",
+  "model": "glm-5.3"
+}

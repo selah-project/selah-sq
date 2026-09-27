@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Bukë të të fuqishmëve hëngri njeriu; ushqim u dërgoi atyre deri në ngopje.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "të të fuqishmëve"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hëngri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ushqim"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "u dërgoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "deri në ngopje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:42.288567604Z",
+  "model": "glm-5.3"
+}

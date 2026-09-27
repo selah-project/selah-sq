@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Rrugën time dhe pushimin tim i ke fshirë ⟨si me shoshë⟩, dhe me të gjitha rrugët e mia je njohur.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "rrugën time"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "dhe pushimin tim"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "i ke fshirë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe të gjitha"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "je njohur"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:51.281842439Z",
+  "model": "glm-5.3"
+}

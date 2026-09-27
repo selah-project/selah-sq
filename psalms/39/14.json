@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 39,
+  "translation": "Kthe shikimin prej meje, dhe unë do të ndriçohem, përpara se të shkoj dhe të mos jem më.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Kthe shikimin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prej meje"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dhe do të ndriçohem"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "përpara se"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "të shkoj"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "dhe të mos jem më"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:20.913420249Z",
+  "model": "glm-5.3"
+}

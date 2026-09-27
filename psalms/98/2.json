@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Jahve e bëri të njohur shpëtimin e tij; para syve të kombeve ⟨ai⟩ zbuloi drejtësinë e tij.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "e bëri të njohur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "shpëtimin e tij"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "para syve të"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombeve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "zbuloi"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "drejtësinë e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:37.629183828Z",
+  "model": "glm-5.3"
+}

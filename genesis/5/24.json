@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ecën Hanoku me ⟨את⟩ Elohimën, dhe nuk ishte më, sepse e mori ⟨את⟩-in e tij Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "dhe ecën"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimën"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dhe nuk ishte më"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "e mori"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-in e tij",
+      "marks": "atë (Hanokun)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:10.555099264Z",
+  "model": "glm-5.3"
+}

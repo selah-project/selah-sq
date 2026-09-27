@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe do të dërgoj mbi ju ⟨את⟩ bishën e fushës, dhe ajo do t'ju lë pa fëmijë, dhe do të shfarosë ⟨את⟩ kafshët tuaja, dhe do t'ju pakësojë, dhe rrugët tuaja do të shkretërohen.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "dhe do të dërgoj"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishën e fushës"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e fushës"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "dhe do t'ju lë pa fëmijë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "dhe do të shfarosë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kafshët tuaja"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "kafshët tuaja"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "dhe do t'ju pakësojë"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "dhe do të shkretërohen"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "rrugët tuaja"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:42.960105058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Sepse dhjetë çifte (hektarë vreshti) do të japin vetëm një bat, dhe një homer farë do të japë vetëm një efa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "çifte (hektarë)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vreshti"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "do të japin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "një bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "një"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "dhe farë"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të japë"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:54.485333369Z",
+  "model": "glm-5.3"
+}

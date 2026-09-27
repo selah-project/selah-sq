@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe ⟨ndodhi⟩ që, kur mbreti dëgjoi ⟨את⟩ fjalët e librit të Torës, ai grisi ⟨את⟩ rrobat e veta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kur dëgjoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "të librit"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "të Torës"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dhe grisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robat e tij"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e veta"
+    }
+  ],
+  "timestamp": "2026-09-27T15:48:00.816041601Z",
+  "model": "glm-5.3"
+}

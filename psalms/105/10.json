@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "dhe e vuri ⟨את⟩ si ligj për Jakobin, për Izraelin besëlidhje të përjetshme.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "dhe e vuri"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "për Jakobin"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "si ligj"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të përjetshme"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:04.820543013Z",
+  "model": "glm-5.3"
+}

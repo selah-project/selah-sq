@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe ata qenë atje për të provuar me ta ⟨את⟩ Izraelin, për të njohur nëse do të dëgjonin ⟨את⟩ urdhërimet e Jahvesë, të cilat Ai urdhëroi ⟨את⟩ etërit e tyre me anë të Moisit.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dhe ata qenë"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "për të provuar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "me ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "për të njohur"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "nëse do të dëgjonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urdhërimet"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "urdhërimet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etërit e tyre"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "etërit e tyre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "me anë"
+    },
+    {
+      "surface": "משה",
+      "gloss": "të Moisit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:02:50.715197949Z",
+  "model": "glm-5.3"
+}

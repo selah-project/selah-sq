@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe Jehu tha: Shenjtëroni një tubim të shenjtë për Baal. Dhe ata e shpallën ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Shenjtëroni"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "tubim të shenjtë"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "për Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Dhe ata e shpallën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:43:07.820904769Z",
+  "model": "glm-5.3"
+}

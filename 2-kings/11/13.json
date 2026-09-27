@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Athalia dëgjoi ⟨את⟩ zërin e rojave, ⟨të⟩ popullit, dhe hyri te populli në shtëpinë e Jahvesë.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "dëgjoi"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zërin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zërin"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "i rojave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i popullit"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhe hyri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahvesë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:56.811752929Z",
+  "model": "glm-5.3"
+}

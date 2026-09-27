@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jozue i lëshoi ⟨את⟩ popullin, dhe shkuan bijtë e Izraelit, çdo njeri në trashëgiminë e vet, për të zotëruar ⟨את⟩ ⟨e⟩ tokën.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dhe lëshoi"
+    },
+    {
+      "surface": "ייהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dhe shkuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdo njeri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "në trashëgiminë e vet"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "për të zotëruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:56.188177986Z",
+  "model": "glm-5.3"
+}

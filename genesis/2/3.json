@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Elohim bekoi ⟨את⟩ ditën e shtatë dhe e shenjtëroi ⟨את⟩ atë, sepse në të pushoi nga e gjithë puna e tij që Elohim kishte krijuar për të bërë.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dhe bekoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën e shtatë"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dhe e shenjtëroi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ atë",
+      "marks": "ditën e shtatë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "në të"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "pushoi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nga e gjithë"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "puna e tij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kishte krijuar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "për të bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:48.739595406Z",
+  "model": "glm-5.3"
+}

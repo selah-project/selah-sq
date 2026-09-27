@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe nëse nuk ka vëllezër, do t'i jepni ⟨את⟩ trashëgiminë e tij vëllezërve të atit të tij.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nuk ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "vëllezër"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "do t'i jepni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë e tij"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "trashëgiminë e tij"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "vëllezërve"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atit të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:38:43.698252167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 132,
+  "translation": "Armikut të tij do ta vesh me turp, dhe mbi krye të tij kurora e tij do të lulëzojë.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Armikut të tij"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "do ta vesh"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "me turp"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "dhe mbi krye të tij"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "do të lulëzojë"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "kurora e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:29.506140200Z",
+  "model": "glm-5.3"
+}

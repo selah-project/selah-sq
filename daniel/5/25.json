@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe kjo ⟨është⟩ shkrimi që u shkrua: MENE, MENE, TEKEL, UPARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "shkrimi"
+    },
+    {
+      "surface": "די",
+      "gloss": "që"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "u shkrua"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (numëruar)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (numëruar)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (peshuar)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "dhe UPARSIN (të ndara)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:47:46.046128679Z",
+  "model": "glm-5.3"
+}

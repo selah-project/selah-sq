@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Do të hani të vjetër ⟨që⟩ është vjetëruar, dhe të vjetërën do ta nxirrni ⟨jashtë⟩ përpara të resë.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "të vjetër"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "që është vjetëruar"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "dhe të vjetrën"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "të resë"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "do ta nxirrni ⟨jashtë⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:13.499499137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Shkretëtirë t'i kapë ata! Le të zbresin të gjallë në Sheol, se e keqja banon në banesën e tyre, në mes të tyre.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "shkretëtirë"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "t'i kapë ata"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "le të zbresin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "në Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "të gjallë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "në banesën e tyre"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "në mes të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:04.296789407Z",
+  "model": "glm-5.3"
+}

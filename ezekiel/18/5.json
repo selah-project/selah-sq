@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe nëse një njeri ⟨është⟩ i drejtë dhe bën gjyq e drejtësi,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një njeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "është"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejtë"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dhe bën"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gjyq"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dhe drejtësi"
+    }
+  ],
+  "timestamp": "2026-09-27T16:30:37.640180350Z",
+  "model": "glm-5.3"
+}

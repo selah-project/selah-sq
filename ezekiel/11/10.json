@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Me shpatë do të bini; në kufirin e Izraelit do t'ju gjykoj ⟨את⟩; dhe do të dini se unë jam Jahve.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "me shpatë"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "do të bini"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kufirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "do t'ju gjykoj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ju",
+      "marks": "ju (gjykimi)"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dhe do të dini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jam Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:27:47.615661228Z",
+  "model": "glm-5.3"
+}

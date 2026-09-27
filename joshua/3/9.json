@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe Jozueu u tha bijve të Izraelit: Ejani këtu dhe dëgjoni ⟨את⟩ fjalët e Jahvesë, Elohim tuaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozueu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ejani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "këtu"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dhe dëgjoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:30.386079625Z",
+  "model": "glm-5.3"
+}

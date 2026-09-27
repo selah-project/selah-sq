@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Nëse është i uritur ai që të urren, jepi të hajë bukë; dhe nëse është i etur, jepi të pijë ujë.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "i uritur"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ai që të urren"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "jepi të hajë"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dhe nëse"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "i etur"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "jepi të pijë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:24:34.713852252Z",
+  "model": "glm-5.3"
+}

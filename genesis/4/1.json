@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe njeriu njohu ⟨את⟩ Chavvanë, gruan e tij; dhe ajo mbeti shtatzënë dhe lindi ⟨את⟩ Kainin, dhe tha: «Bleva një burrë ⟨את⟩ me ⟨ndihmën e⟩ Jahves.»",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "dhe njeriu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "njohu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvanë"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvanë"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "gruan e tij"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dhe ajo mbeti shtatzënë"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kainin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "bleva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një burrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ me",
+      "marks": "Jahves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:45.100430321Z",
+  "model": "glm-5.3"
+}

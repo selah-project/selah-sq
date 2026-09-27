@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe ndodhi në fund të njëzet vjetëve, kur Salomoni i ndërtoi ⟨את⟩ të dy shtëpitë — ⟨את⟩ shtëpinë e Jahvesë dhe ⟨את⟩ shtëpinë e mbretit —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "në fund të"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjetëve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i ndërtoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të dy shtëpitë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "të dy"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "shtëpitë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Jahvesë"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e mbretit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:44.440430300Z",
+  "model": "glm-5.3"
+}

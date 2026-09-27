@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 19:13",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Nuk do të prekë dorë ⟨atë⟩, sepse do të gurëzohet me siguri ose do të qellohet; qoftë kafshë, qoftë njeri, nuk do të jetojë; në të zgjaturit e tingullit të brit të dashit, ata do të ngjiten në mal.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "do të prekë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨atë⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "gurëzim"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "do të gurëzohet"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "qëllim"
+    },
+    {
+      "surface": "יירה",
+      "gloss": "do të qellohet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kafshë"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qoftë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "do të jetojë"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "në të zgjaturit"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "të brit të dashit"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "do të ngjiten"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "në mal"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:03.265092446Z",
+  "model": "glm-5.3"
+}

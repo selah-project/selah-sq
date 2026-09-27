@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Ai i udhëheq ⟨të⟩ përulurit në drejtësi dhe i mëson të përulurit rrugën e tij.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "i udhëheq"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "në drejtësi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "dhe i mëson"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:58.753644371Z",
+  "model": "glm-5.3"
+}

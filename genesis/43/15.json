@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 43,
+  "translation": "Dhe burrat morën ⟨את⟩ këtë dhuratë, dhe parasë të dyfishuar morën në dorën e tyre, dhe ⟨את⟩ Beniaminin; dhe u çuan dhe zbritën në Egjipt dhe u paraqitën përpara Jozefit.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dhe morën"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "burra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë dhuratë"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dhuratë (minha)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "dhe të dyfishuar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "paraja"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "morën"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "në dorën e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Beniaminin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniaminin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "dhe u çuan"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "dhe zbritën"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipt"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhe u paraqitën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:59.633798129Z",
+  "model": "glm-5.3"
+}

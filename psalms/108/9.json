@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "E ime ⟨është⟩ Giladi, e imja ⟨është⟩ Menashja; Efraimi ⟨është⟩ fortesa e kokës sime, Juda ⟨është⟩ ligjvënësi im.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "e ime"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e imja"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashja"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "dhe Efraimi"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fortesa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "e kokës sime"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ligjvënësi im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:00.434411938Z",
+  "model": "glm-5.3"
+}

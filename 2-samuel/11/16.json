@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe ⟨qe⟩, ndërsa Joabi mbikëqyrte qytetin, se ai e vuri ⟨את⟩ Urianë në vendin ku dinte se ishin aty burra trime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qe"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ndërsa mbikëqyrte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qytetit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "qytetin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urianë"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urianë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "burra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "trime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty ishin"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:43.330839154Z",
+  "model": "glm-5.3"
+}

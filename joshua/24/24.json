@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe populli i tha Jozuesë: ⟨את⟩ Jahve, Elohimët tanë, do t'i shërbejmë, dhe zërit të tij do t'i bindemi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dhe ... i tha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuesë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohimët tanë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimët tanë"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "do t'i shërbejmë"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "dhe zërit të tij"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "do t'i bindemi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:41.174775024Z",
+  "model": "glm-5.3"
+}

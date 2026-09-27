@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhe Ada i lindi Esaut ⟨את⟩ Elifazin, dhe Basmati lindi ⟨את⟩ Reuelin.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Dhe i lindi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esaut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazin"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazin"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "dhe Basmati"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuelin"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuelin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:57:31.187954642Z",
+  "model": "glm-5.3"
+}

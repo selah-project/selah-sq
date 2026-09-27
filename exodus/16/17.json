@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe bënë kështu bijtë e Izraelit, dhe mblodhën, ai që ⟨mblodhi⟩ shumë dhe ai që ⟨mblodhi⟩ pak.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dhe bënë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "dhe mblodhën"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "ai që mblodhi shumë"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "dhe ai që mblodhi pak"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:23.133359311Z",
+  "model": "glm-5.3"
+}

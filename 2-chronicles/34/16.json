@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Dhe Shafani e çoi ⟨את⟩ librin te mbreti, dhe i ktheoi përsëri ⟨את⟩ mbretit fjalë, duke thënë: «Çdo gjë që është dhënë në duart e shërbëtorëve të tu, ata po bëjnë.»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhe e çoi"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "librin"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "librin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe i ktheoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "përsëri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbretit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fjalë"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo gjë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "është dhënë"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "në duart"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "e shërbëtorëve të tu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "po bëjnë"
+    }
+  ],
+  "timestamp": "2026-09-27T18:17:45.167250659Z",
+  "model": "glm-5.3"
+}

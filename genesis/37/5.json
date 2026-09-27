@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Dhe Jozifi ëndërroi një ëndërr dhe ia tregoi vëllezërve të tij, dhe ata shtuan edhe më shumë të urrejnë ⟨את⟩ atë.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "dhe ëndërroi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozifi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "një ëndërr"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dhe tregoi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "vëllezërve të tij"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "dhe shtuan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "edhe më shumë"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "të urrejnë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:58:11.669360813Z",
+  "model": "glm-5.3"
+}

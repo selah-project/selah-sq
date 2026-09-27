@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Sa i lumtur ⟨është⟩ ai që sillet mençurisht ndaj ⟨të⟩ varfërit; në ditën e keqes Jahve do ta shpëtojë ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sa i lumtur"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "që sillet mençurisht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaj"
+    },
+    {
+      "surface": "דל",
+      "gloss": "varfërit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditën"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqes"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "do ta shpëtojë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.004349470Z",
+  "model": "glm-5.3"
+}

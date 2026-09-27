@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Shpëtoje ⟨את⟩ popullin tënd dhe bekoje ⟨את⟩ trashëgiminë tënde; kullot-i bari dhe mbi-i mban përjetë.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Shpëtoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tënd"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dhe bekoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trashëgiminë tënde"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "trashëgiminë tënde"
+    },
+    {
+      "surface": "וּרְעֵם",
+      "gloss": "kullot-i bari"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "dhe mbi-i mban"
+    },
+    {
+      "surface": "עד",
+      "gloss": "përjetë (deri sa)"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "përjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:58:52.044415091Z",
+  "model": "glm-5.3"
+}

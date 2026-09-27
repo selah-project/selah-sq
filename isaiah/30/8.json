@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Tani shko, shkruaje këtë në një pllakë ⟨bashkë me ta⟩, dhe në një libër gdhende atë, që të jetë për ditën e fundit, për dëshmi përgjithmonë, deri në përjetësi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "shko"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "shkruaje"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "një pllakë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bashkë me ta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhe në"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "një libër"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "gdhende"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "që të jetë"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "për ditën"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "e fundit"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "për dëshmi përgjithmonë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:34.106993725Z",
+  "model": "glm-5.3"
+}

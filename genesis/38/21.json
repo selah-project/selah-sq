@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 38:21",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe pyeti ⟨את⟩ njerëzit e vendit të saj, duke thënë: Ku ⟨është⟩ kadesha, ajo në Enaim, përballë rrugës? Dhe thanë: Nuk ka qenë kadesha në këtë vend.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dhe pyeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njerëzit e vendit të saj"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "njerëzit"
+    },
+    {
+      "surface": "מקמה",
+      "gloss": "e vendit të saj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקדשה",
+      "gloss": "kadesha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "בעינים",
+      "gloss": "në Enaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rrugës"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dhe thanë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ka qenë"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "në këtë"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kadesha"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:28.276381193Z",
+  "model": "glm-5.3"
+}

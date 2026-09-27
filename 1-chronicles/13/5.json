@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Davidi mblodhi ⟨את⟩ gjithë Izraelin, nga Shihori i Egjiptit e deri në hyrjen e Hamatit, për të sjellë ⟨את⟩ arkën e Elohim nga Kirjat-Jearimi.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "mblodhi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë Izraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihori"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri në"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hyrjen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatit"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "për të sjellë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën e Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "nga Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearimi"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:13.266053601Z",
+  "model": "glm-5.3"
+}

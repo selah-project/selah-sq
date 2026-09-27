@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Dhe le të sundojë nga deti në det, dhe nga Lumi deri në skajet e tokës.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "",
+      "ref": "elided"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe le të sundojë"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nga deti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "në"
+    },
+    {
+      "surface": "ים",
+      "gloss": "det"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "dhe nga Lumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.212386141Z",
+  "model": "glm-5.3"
+}

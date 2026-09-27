@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Shumë janë të këqijat e të drejtit, dhe nga të gjitha ato Jahve e shpëton ⟨atë⟩.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Shumë"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "të këqijat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "e të drejtit"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "dhe nga të gjitha ato"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "e shpëton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:28.999213017Z",
+  "model": "glm-5.3"
+}

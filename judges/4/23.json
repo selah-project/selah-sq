@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe Elohim e nënshkroi ⟨את⟩ Jabinin, mbretin e Kanaanit, në atë ditë, përpara bijve të Izraelit.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "dhe e nënshkroi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "në ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabinin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Jabinin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretin e"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijve të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:03:49.637797708Z",
+  "model": "glm-5.3"
+}

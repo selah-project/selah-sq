@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 91,
+  "translation": "Nuk do të të afrohet e keqja dhe plage nuk do t'i afrohet çadrrës sate.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "do të të afrohet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ty"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e keqja"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "dhe plage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "do t'i afrohet"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "çadrrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:34.815762993Z",
+  "model": "glm-5.3"
+}

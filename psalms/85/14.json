@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "Drejtësia do të ecë para Tij dhe do të bëjë hapat e Tij një rrugë.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Drejtësia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "para Tij"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "do të ecë"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe do të bëjë"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "një rrugë"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "hapat e Tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:55.196349122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe hoqi ⟨את⟩ rrotat e qerres të tyre, dhe i çoi me rëndimësi; dhe Egjipti tha: «Ikim nga fytyra e Israelit, sepse Jahve lufton për ta kundër Egjiptit.»",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dhe hoqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrotat"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "rrotat"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "të qerres të tyre"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "dhe i çoi"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "me rëndimëri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjipti"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Ikim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nga fytyra e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "lufton"
+    },
+    {
+      "surface": "להם",
+      "gloss": "për ta"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kundër Egjiptit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:34.993402294Z",
+  "model": "glm-5.3"
+}

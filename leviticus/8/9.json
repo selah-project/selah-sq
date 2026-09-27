@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ia vuri ⟨את⟩ kapelevën mbi kokën e tij, dhe vuri mbi kapelevën, përballë fytyrës së tij, ⟨את⟩ pllakën e artë, kurorën e shenjtërisë, siç urdhëroi Jahve ⟨את⟩ Moisin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapelevën"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kapeleva"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kokën e tij"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe vuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kapelevën"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "מול",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fytyrës së tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pllakën e artë"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pllaka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e artë"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kurora"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e shenjtërisë"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    }
+  ],
+  "timestamp": "2026-09-27T14:20:24.172179503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Nuk përgjon me gjuhën e tij, nuk i ka bërë keq të afërmit të vet, dhe ngrit nuk ka ⟨e⟩ turpin mbi të afërmin e vet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "përgjon"
+    },
+    {
+      "surface": "על",
+      "gloss": "me"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "gjuhën e tij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka bërë"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "të afërmit të vet"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "keq"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "dhe turpin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ka ngritur"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "të afërmin e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T18:30:59.845278217Z",
+  "model": "glm-5.3"
+}

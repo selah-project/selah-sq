@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe do të vërësh ⟨את⟩ legenin midis Çadrës së Takimit dhe altarit, dhe aty do të vërësh ujë.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Dhe do të vërësh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legenin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "legenin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së Takimit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "do të vërësh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:17:45.152468893Z",
+  "model": "glm-5.3"
+}

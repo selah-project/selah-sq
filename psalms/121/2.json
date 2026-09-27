@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 121,
+  "translation": "Ndihma ime ⟨është⟩ nga ana e Jahve, bërësit të qiejve dhe të tokës.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ndihma ime"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nga ana e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bërësit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "të qiejve"
+    },
+    {
+      "surface": "ו ארץ",
+      "gloss": "dhe të tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:30.796563083Z",
+  "model": "glm-5.3"
+}

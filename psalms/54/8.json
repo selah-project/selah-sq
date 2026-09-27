@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 54,
+  "translation": "Me flijim vullnetar do të flijoj për ty; do të falënderoj emrin tënd, o Jahve, sepse ⟨është⟩ i mirë.",
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "me flijim vullnetar"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "do të flijoj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "do të falënderoj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emrin tënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i mirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:59.805047518Z",
+  "model": "glm-5.3"
+}

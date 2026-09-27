@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Kushdo që gjendet do të shpohet me shpatë, dhe kushdo që kapet do të bjerë nën shpatë.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kushdo që"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "gjendet"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "do të shpohet"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe kushdo që"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "kapet"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "do të bjerë"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nën shpatë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:52:17.390519851Z",
+  "model": "glm-5.3"
+}

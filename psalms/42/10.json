@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Do t'i them El-it, shkëmbit tim: pse më harrove? Pse shkoj i zënë zi nën shtypjen e armikut?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "do të them"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El-it"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "shkëmbit tim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "më harrove"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "i zënë zi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "shkoj"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "nën shtypjen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "të armikut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:03.563569420Z",
+  "model": "glm-5.3"
+}

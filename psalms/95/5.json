@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 95,
+  "translation": "Të cilit i takon ⟨e⟩ deti, sepse ⟨ai⟩ e bëri ⟨את⟩ atë, dhe tokën e thatë duart e tij e formuan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "të cilit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i takon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sepse ai"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "e bëri ⟨את⟩ atë"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "dhe tokën e thatë"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "duart e tij"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "e formuan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:56.296747484Z",
+  "model": "glm-5.3"
+}

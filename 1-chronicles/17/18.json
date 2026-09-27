@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Çfarë mund të shtojë më David te ti për nder ⟨את⟩ shërbëtorin tënd? Dhe ti ⟨את⟩ shërbëtorin tënd e njeh.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mund të shtojë"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "më"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te ti"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "për nder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tënd"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dhe ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbëtorin tënd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shërbëtorin tënd"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "e njeh"
+    }
+  ],
+  "timestamp": "2026-09-27T18:04:55.873244385Z",
+  "model": "glm-5.3"
+}

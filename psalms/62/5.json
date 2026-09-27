@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "Vetëm për ta rrëzuar nga dinjiteti i tij ata marrin këshillë; gëzohen me gënjeshtra; me gojën e tyre bekojnë, por në brendësinë e tyre mallkojnë. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "nga dinjiteti i tij"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "marrin këshillë"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "për ta rrëzuar"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "gëzohen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "me gënjeshtra"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "me gojën e tyre"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bekojnë"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "por në brendësinë e tyre"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "mallkojnë"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:01.385372592Z",
+  "model": "glm-5.3"
+}

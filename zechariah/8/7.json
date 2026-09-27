@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Kështu tha Jahve Tsevaot: Ja, unë po shpëtoj popullin tim ⟨את⟩ nga vendi i lindjes dhe nga vendi i perëndimit të diellit.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kështu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ja, unë"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "po shpëtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popullin tim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popullin tim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi i"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "lindjes"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "dhe nga vendi i"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "perëndimit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "të diellit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:53:25.186954136Z",
+  "model": "glm-5.3"
+}

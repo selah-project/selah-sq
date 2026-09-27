@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 34,
+  "translation": "Madhëroni Jahve ⟨את⟩ me mua, dhe do ta lartësojmë bashkë emrin e tij.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Madhëroni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me mua"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "dhe do ta lartësojmë"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "emrin e tij"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:31.916788910Z",
+  "model": "glm-5.3"
+}

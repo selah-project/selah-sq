@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Unë jam Jahve — ky ⟨është⟩ emri im; madhërinë time nuk do t'ia jap një tjetri, as lavdrimin tim idhujve të gdhendur.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Unë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ky"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "emri im"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "dhe madhërinë time"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "një tjetri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "do t'ia jap"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "as lavdrimin tim"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "idhujve të gdhendur"
+    }
+  ],
+  "timestamp": "2026-09-27T15:59:49.383750787Z",
+  "model": "glm-5.3"
+}

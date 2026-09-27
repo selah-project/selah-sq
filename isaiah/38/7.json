@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe kjo do të jetë për ty shenja nga ⟨את⟩ Jahve, se Jahve do të bëjë ⟨את⟩ këtë fjalë që e foli.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "dhe kjo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "për ty"
+    },
+    {
+      "surface": "האות",
+      "gloss": "shenja"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "do të bëjë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "këtë fjalë"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e foli"
+    }
+  ],
+  "timestamp": "2026-09-27T15:58:40.953324518Z",
+  "model": "glm-5.3"
+}

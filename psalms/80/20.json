@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Tsevaot, ktheji ⟨neve⟩! Bëri të ndritshme fytyrën tënde, dhe do të shpëtojmë!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ktheji neve"
+    },
+    {
+      "surface": "האר",
+      "gloss": "bëri të ndritshme"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrën tënde"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dhe do të shpëtojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:38.573867269Z",
+  "model": "glm-5.3"
+}

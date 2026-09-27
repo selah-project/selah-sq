@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Që brezi i fundit ta dijë, bijtë që do të lindin, të ngrihen dhe t'ua tregojnë bijve të tyre.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "që"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ta dijë"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brezi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "i fundit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "që do të lindin"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "të ngrihen"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "dhe t'ua tregojnë"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bijve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:38.078467434Z",
+  "model": "glm-5.3"
+}

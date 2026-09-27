@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe nga lehtësia e kurorëshkeljes së saj u përdhos ⟨e⟩ ⟨את⟩ trualli dhe bëri kurorëshkelje ⟨me⟩ ⟨את⟩ gurin dhe ⟨me⟩ ⟨את⟩ drurin.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe nga"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "lehtësia"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "kurorëshkeljes së saj"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "u përdhos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "truallit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "trualli"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "bëri kurorëshkelje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurin"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "gurin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drurin"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drurin"
+    }
+  ],
+  "timestamp": "2026-09-27T16:06:56.500302091Z",
+  "model": "glm-5.3"
+}

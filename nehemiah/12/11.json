@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe Joiada e lindi ⟨את⟩ Jonatanin, dhe Jonatani e lindi ⟨את⟩ Jaduan.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "dhe Joiada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "e lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatanin"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanin"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "dhe Jonatani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "e lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaduan"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaduan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:30.433371925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Mbrëmje e mëngjes e mesditë, do të meditoj dhe do të pëshpëris, dhe ai e dëgjoi zërin tim.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Mbrëmje"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e mëngjes"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "e mesditë"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "do të meditoj"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "dhe do të pëshpëris"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhe e dëgjoi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "zërin tim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:13.554571897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Një banor i përkohshëm dhe një punëtor me pagesë nuk do të hajë prej tij.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "banor i përkohshëm"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dhe punëtor me pagesë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "do të hajë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:53.426969723Z",
+  "model": "glm-5.3"
+}

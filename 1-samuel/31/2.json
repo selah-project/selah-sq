@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe filistët iu ngjiten fort Saulit dhe ⟨את⟩ bijve të tij; dhe filistët mundën ⟨את⟩ Jonatanin dhe ⟨את⟩ Abinadabin dhe ⟨את⟩ Malkishuanë, bijtë e Saulit.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "iu ngjiten fort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijve të tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijve të tij"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe mundën"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatanin"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Abinadabin"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Malkishuanë"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shuanë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:20:45.563853212Z",
+  "model": "glm-5.3"
+}

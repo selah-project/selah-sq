@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe unë do të urdhëroj ⟨את⟩ bekimin tim për ju në vitin e gjashtë, dhe ⟨ai⟩ do të bëj ⟨את⟩ prodhimin për tre vjet.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "dhe unë do të urdhëroj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekimin tim"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "bekimin tim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "në vitin"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "të gjashtë"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "dhe do të bëj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prodhimin"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "prodhimin"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "për tre"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T14:26:16.615738770Z",
+  "model": "glm-5.3"
+}

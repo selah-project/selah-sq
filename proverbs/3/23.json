@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Atëherë do të ecësh me siguri në rrugën tënde dhe këmba jote nuk do të pengohet.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "do të ecësh"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "me siguri"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "në rrugën tënde"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "dhe këmba jote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "do të pengohet"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:59.657428755Z",
+  "model": "glm-5.3"
+}

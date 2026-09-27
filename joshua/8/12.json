@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe ai mori rreth pesë mijë vetë dhe i vuri ⟨את⟩ ata si pritë midis Bethelit dhe Ait, në perëndim të qytetit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dhe mori"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "rreth pesë"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vetë"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhe i vuri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "si pritë"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "si pritë"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethelit"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ait"
+    },
+    {
+      "surface": "מים",
+      "gloss": "në perëndim"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "të qytetit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:56:20.636646832Z",
+  "model": "glm-5.3"
+}

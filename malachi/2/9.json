@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe edhe unë ju bëra ⟨אתכם⟩ të përbuzur dhe të përulur para gjithë popullit, sipas asaj që ju nuk i ruani rrugët e mia dhe ngrini fytyra në Tora.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dhe edhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ju (të përbuzur dhe të përulur)"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "të përbuzur"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "dhe të përulur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para gjithë"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popullit"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sipas asaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rrugët e mia"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rrugët e mia"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "dhe ngrini"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fytyra"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "në Tora"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:04.510490139Z",
+  "model": "glm-5.3"
+}

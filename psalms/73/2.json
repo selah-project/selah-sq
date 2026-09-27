@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 73,
+  "translation": "Sa për mua, gati u përkulën këmbët e mia, hapat e mia u derdhën krejt.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Sa për mua"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "gati"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "u përkulën"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "këmbët e mia"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "krejt"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "u derdhën"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "hapat e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.498592500Z",
+  "model": "glm-5.3"
+}

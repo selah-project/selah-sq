@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe tha: Të dua me zemër, o Jahve, forca ime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "të dua me zemër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "forca ime"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:38.564314400Z",
+  "model": "glm-5.3"
+}

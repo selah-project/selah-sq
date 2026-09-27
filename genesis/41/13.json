@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe ndodhi siç na interpretoi ai, ashtu ishte: mua më ktheu ⟨në⟩ postin tim, dhe atë e varu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ndodhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "interpretoi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mua (ktheu)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ktheu"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "כני",
+      "gloss": "postin tim"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (varu)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "e varu"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:49.881830730Z",
+  "model": "glm-5.3"
+}

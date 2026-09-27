@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe u nisën lart e vëzhguan ⟨את⟩ vendin, nga shkretëtira e Tsit deri në Rehov, te hyrja e Hamatit.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "u nisën lart"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "vëzhguan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vendin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vendin"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "nga shkretëtira"
+    },
+    {
+      "surface": "צן",
+      "gloss": "e Tsit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "te hyrja"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "e Hamatit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:48.617029246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe pas tij u ngrit Jairi, Giladiti, dhe gjykonte ⟨את⟩ Israelin njëzet e dy vjet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhe u ngrit"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pas tij"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jairi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladiti"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "dhe gjykonte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "njëzet"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e dy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:05:47.310290478Z",
+  "model": "glm-5.3"
+}

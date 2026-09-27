@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Dhe u ngrit Abrahami dhe u përkul para popullit të vendit, para bijve të Hetit.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dhe u ngrit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahami"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dhe u përkul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para popullit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "të vendit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para bijve"
+    },
+    {
+      "surface": "חת",
+      "gloss": "të Hetit"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:50.454669946Z",
+  "model": "glm-5.3"
+}

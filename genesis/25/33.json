@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe Jakobi tha: «Bëjma betimin sot!» Dhe ⟨ai⟩ i bëri betimin ⟨atij⟩, dhe shiti ⟨את⟩ të drejtën e të parëlindurit për Jakobin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dhe tha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "bëjma betimin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sot"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dhe i bëri betimin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "dhe shiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të drejtën e të parëlindurit"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "të drejtën e të parëlindurit të tij"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "për Jakobin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:12.303453055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Në muajin e parë, në ditën e katërmbëdhjetë të muajit, në mbrëmje, do të hani maca, deri në ditën e njëzet e një të muajit, në mbrëmje.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "në të parën"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "në katërmbëdhjetë"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(mbëdhjetë)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "do të hani"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "maca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "deri në"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e një"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dhe njëzet"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "në mbrëmje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:29.658898243Z",
+  "model": "glm-5.3"
+}

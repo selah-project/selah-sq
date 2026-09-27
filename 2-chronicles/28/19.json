@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 28,
+  "translation": "Sepse Jahve e përuli ⟨את⟩ Judën për shkak të Ahazit, mbretit të Israelit, sepse ai e la Judën pa frikë dhe bëri tradhti të madhe ndaj Jahves.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "përuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judën"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbretit të"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "la pa frikë"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Judën"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "dhe bëri tradhti"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "të madhe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ndaj Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:37.898458506Z",
+  "model": "glm-5.3"
+}

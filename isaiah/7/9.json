@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe kreu i Efraimit ⟨është⟩ Shomeroni, dhe kreu i Shomeronit ⟨është⟩ biri i Remaljahut. Nëse nuk besoni, me të vërtetë nuk do të përmbaheni.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "dhe kreu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "i Efraimit"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "dhe kreu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "i Shomeronit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "biri"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "i Remaljahut"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "besoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "me të vërtetë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "do të përmbaheni"
+    }
+  ],
+  "timestamp": "2026-09-27T15:50:29.534432158Z",
+  "model": "glm-5.3"
+}

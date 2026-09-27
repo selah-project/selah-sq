@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Prandaj një burrë do të lërë ⟨את⟩ atin e tij dhe ⟨את⟩ nënën e tij, dhe do të ngjitet me gruan e tij, dhe do të bëhen një mish i vetëm.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "për"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "do të lërë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "një burrë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atin e tij"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atin e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nënën e tij"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nënën e tij"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "dhe do të ngjitet"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "me gruan e tij"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dhe do të bëhen"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "një mish"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "i vetëm"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:14.552971421Z",
+  "model": "glm-5.3"
+}

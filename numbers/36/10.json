@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Siç urdhëroi Jahve ⟨את⟩ Moisi, ashtu bënë bijat e Celofehadit.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Siç"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "urdhëroi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ashtu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "të Celofehadit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:41:41.619095057Z",
+  "model": "glm-5.3"
+}

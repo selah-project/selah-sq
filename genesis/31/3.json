@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Dhe tha Jahve te Jakobi: «Kthehu në tokën e etërve të tu dhe në vendin e lindjes sate, dhe unë do të jem me ty.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "e etërve të tu"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "dhe në vendin e lindjes sate"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dhe unë do të jem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ty"
+    }
+  ],
+  "timestamp": "2026-09-27T13:56:27.182499054Z",
+  "model": "glm-5.3"
+}

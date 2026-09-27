@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe do t'i ruani ⟨את⟩ macot, sepse në vetë ditën e këtë nxora ⟨את⟩ ushtritë tuaja nga vendi i Egjiptit; dhe do të ruani ⟨את⟩ ditën e këtë brez pas brezi, si statute të përjetshme.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do t'i ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macot"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "macot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "në vetë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e këtë"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nxora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushtritë tuaja"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "ushtritë tuaja"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egjiptit"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "dhe do të ruani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditën"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ditën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e këtë"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "brez pas brezi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "si statute"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "të përjetshme"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:29.658366778Z",
+  "model": "glm-5.3"
+}

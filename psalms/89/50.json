@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "Ku janë hesed-et e tua të parët, Adonai, që i betove Davidit në besnikërinë tënde?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ku janë"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-et e tua"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "të parët"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i betove"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "në besnikërinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:13.796513033Z",
+  "model": "glm-5.3"
+}

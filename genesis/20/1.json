@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Abraham u nis prej andaj drejt vendit të Negevit, dhe banoi midis Kadeshit dhe midis Shurit, dhe jetoi si i huaj në Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "dhe u nis"
+    },
+    {
+      "surface": "משם",
+      "gloss": "prej andaj"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "drejt vendit"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "të Negevit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dhe banoi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "midis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe midis"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shurit"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dhe jetoi si i huaj"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "në Gerar"
+    }
+  ],
+  "timestamp": "2026-09-27T13:52:52.917283420Z",
+  "model": "glm-5.3"
+}

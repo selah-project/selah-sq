@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "E njoh, o Jahve, se ⟨i⟩ drejtë ⟨janë⟩ gjykimet e tua, dhe me besnikëri më ke ndëshkuar.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "e njoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drejtë"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimet e tua"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "dhe me besnikëri"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "më ke ndëshkuar"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:49.882436439Z",
+  "model": "glm-5.3"
+}

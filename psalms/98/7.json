@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 98,
+  "translation": "Le të gumëzhijë deti dhe gjithë plotësia e tij, ⟨toka⟩ e banuar dhe banorët në të.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Le të gumëzhijë"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deti"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dhe gjithë plotësia e tij"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨toka⟩ e banuar"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "dhe banorët"
+    },
+    {
+      "surface": "בה",
+      "gloss": "në të"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:14.858110703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe dita kjo do të jetë për ju si kujtim, dhe do ta festoni ⟨אתו⟩ si festë për Jahve; brez pas brezi do ta festoni si statut i përhershëm.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të jetë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kjo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "për ju"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "si kujtim"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "dhe do ta festoni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "atë (festën)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "si festë"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "për Jahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "brez pas brezi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "si statut"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i përhershëm"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "do ta festoni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:08:03.543237843Z",
+  "model": "glm-5.3"
+}

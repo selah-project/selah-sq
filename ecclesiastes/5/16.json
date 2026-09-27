@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Gjithashtu të gjitha ditët e tij i ha në errësirë, me zemërim të shumtë, dhe me sëmundjen e tij dhe me hidhërim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gjithashtu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ditët e tij"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "në errësirë"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ai ha"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "dhe zemërim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "të shumtë"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "dhe sëmundjen e tij"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "dhe hidhërim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:32.336528501Z",
+  "model": "glm-5.3"
+}

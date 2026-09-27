@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Davi shkonte duke ecur e duke u bërë i madh, dhe Jahve Tsevaot ishte me të.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "shkonte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "duke ecur"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "dhe duke u bërë i madh"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:20.141295523Z",
+  "model": "glm-5.3"
+}

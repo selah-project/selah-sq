@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Ngrihu lart mbi qiejt, o Elohim; mbi gjithë tokën ⟨qoftë⟩ lavdia jote.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ngrihu lart"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "lavdia jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:50.191077694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "Dhe kur të thoni: Ç'do të hamë në vitin e shtatë? Ja, nuk mbjellim dhe nuk mbledhim ⟨את⟩ prodhimin tonë —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dhe kur"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "të thoni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'do të"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "hamë"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "në vitin"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "të shtatë"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "mbjellim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "mbledhim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prodhimin tonë"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "prodhimin tonë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:27:02.240107490Z",
+  "model": "glm-5.3"
+}

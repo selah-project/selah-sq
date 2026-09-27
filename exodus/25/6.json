@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": "vaj për dritën, aromëbalsame për vajin e vajimit dhe për temjanin e erëave të ëmbla;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "vaj"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "për dritën"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "aromëbalsame"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "për vajin"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "e vajimit"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "dhe për temjanin"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "të erëave të ëmbla"
+    }
+  ],
+  "timestamp": "2026-09-27T14:11:40.642548138Z",
+  "model": "glm-5.3"
+}

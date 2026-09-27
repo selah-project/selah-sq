@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 1:28",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe thyerja e shkelësve dhe e mëkatarëve do të vijë bashkë, dhe ata që braktisin Jahven do të marrin fund.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "dhe thyerja"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "e shkelësve"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "dhe e mëkatarëve"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "ועזבי",
+      "gloss": "dhe ata që braktisin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "do të marrin fund"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:33.803382006Z",
+  "model": "glm-5.3"
+}

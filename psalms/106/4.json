@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Më kujto, o Jahve, me favorin ndaj popullit tënd, më shiko me shpëtimin tënd.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Më kujto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "me favorin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullit tënd"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "më shiko"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "me shpëtimin tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:32.142406609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Më puthësh ai me puthjet e gojës së tij, sepse të dashurit e tu janë më të mirë se vera.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "më puthësh ai"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "me puthjet"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "të gojës së tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "janë më të mirë"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "të dashurit e tu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "se vera"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:34.040220185Z",
+  "model": "glm-5.3"
+}

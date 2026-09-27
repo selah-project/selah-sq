@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe u ngritën pleqtë e shtëpisë së tij pranë tij për ta ngritur nga toka, por ai nuk deshi dhe nuk hëngri ⟨את⟩ bukën me ta.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "dhe u ngritën"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pleqtë e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "shtëpisë së tij"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pranë tij"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "për ta ngritur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "deshi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "hëngri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "me ta (bukën)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bukë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:23:42.671529652Z",
+  "model": "glm-5.3"
+}

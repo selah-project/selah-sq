@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Jahve do ta ruajë dhe do ta mbajë gjallë; i lumtur do të jetë ⟨në⟩ tokë; dhe mos e jep ⟨atë⟩ në dëshirën e armiqve të tij.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "do ta ruajë"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "dhe do ta mbajë gjallë"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "i lumtur do të jetë"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "e jep"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "në dëshirën"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "e armiqve të tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:01:58.004542179Z",
+  "model": "glm-5.3"
+}

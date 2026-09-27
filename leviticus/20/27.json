@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe një burrë ose një grua, kur ka në ta një frymë fallçi ose një magjistar, me vdekje do të vdesin; me gurë do t'i gjuajnë ⟨את⟩ ata, gjaku i tyre është mbi ta.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhe një burrë"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "në ta"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "një frymë fallçi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "një magjistar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "do të vdesin"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "me gurë"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "do t'i gjuajnë me gurë"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ata (bie mbi 'i gjuajnë')"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "gjaku i tyre"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T14:24:51.664942494Z",
+  "model": "glm-5.3"
+}

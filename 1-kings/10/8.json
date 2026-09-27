@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Të lumtur njerëzit e tu! Të lumtur shërbëtorët e tu, këta që qëndrojnë vazhdimisht përpara teje, që dëgjojnë ⟨את⟩ diturinë tënde!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "të lumtur"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "njerëzit e tu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "të lumtur"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorët e tu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "që qëndrojnë"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "përpara teje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazhdimisht"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "që dëgjojnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diturinë tënde"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "diturinë tënde"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:04.234390544Z",
+  "model": "glm-5.3"
+}

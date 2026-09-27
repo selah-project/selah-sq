@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Jahve i vetëm e udhëhoqi, dhe nuk kishte me të asnjë El të huaj.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "i vetëm"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "e udhëhoqi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe nuk kishte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asnjë El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "të huaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:18.571573477Z",
+  "model": "glm-5.3"
+}

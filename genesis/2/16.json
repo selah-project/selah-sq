@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim i dha urdhër njeriut, duke thënë: «Nga çdo pemë e kopshtit, ha dhe ha (liri e plotë për të ngrënë)».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dhe ... i dha urdhër"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "(-it) urdhër mbi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Nga çdo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pemë"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "e kopshtit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ha (ke për të ngrënë)"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "do të hash"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:05.815274810Z",
+  "model": "glm-5.3"
+}

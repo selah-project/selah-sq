@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe Davidi ishte atëherë në fortesë, dhe një garnizon i filistëve ishte atëherë në Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dhe Davidi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "në fortesë"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "dhe një garnizon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i filistëve"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atëherë"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "në Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:02:10.218024863Z",
+  "model": "glm-5.3"
+}

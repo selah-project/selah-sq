@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe do të ruajnë ⟨את⟩ rojen e tij dhe ⟨את⟩ rojen e gjithë asamblesë përpara çadrës së takimit, për të kryer ⟨את⟩ shërbimin e Mishkanit.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Dhe do të ruajnë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojen e tij"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "rojen e tij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "rojen e gjithë asamblesë"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "rojen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asamblesë"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrës"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "së takimit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "për të kryer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shërbimin e Mishkanit"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "shërbimin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "e Mishkanit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:29:22.544635476Z",
+  "model": "glm-5.3"
+}

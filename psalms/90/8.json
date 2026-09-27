@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 90,
+  "translation": "Ke vënë paudhësitë tona përballë teje, të fshehtat tona në dritën e fytyrës sate.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "ke vënë"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "paudhësitë tona"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "përballë teje"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "të fshehtat tona"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "në dritën"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "e fytyrës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:29.972966306Z",
+  "model": "glm-5.3"
+}

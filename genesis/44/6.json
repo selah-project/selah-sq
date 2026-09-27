@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Dhe i arriti ⟨את⟩ fjalët e këtyra — ai u foli atyre.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "dhe i arriti"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dhe foli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjalët e këtyra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e këtyra"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:38.767121363Z",
+  "model": "glm-5.3"
+}

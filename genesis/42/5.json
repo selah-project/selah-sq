@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "Dhe erdhën bijtë e Izraelit për të blerë në mes të atyre që vinin, sepse uria ⟨ishte⟩ në vendin e Kanaanit.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "erdhën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "e Izraelit"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "për të blerë"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "të atyre që vinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ishte"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uria"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "e Kanaanit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:00:15.392281094Z",
+  "model": "glm-5.3"
+}

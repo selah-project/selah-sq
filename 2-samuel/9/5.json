@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 9,
+  "translation": "Dhe mbreti David dërgoi e e mori ⟨atë⟩ nga shtëpia e Makirit, birit të Ammielit, nga Lo-Debari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "e mori ⟨atë⟩"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga shtëpia e"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makirit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit të"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammielit"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "nga Lo-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debari"
+    }
+  ],
+  "timestamp": "2026-09-27T15:22:50.299091883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 22,
+  "translation": "Dhe njerëz të shenjtë do të jeni për ⟨mua⟩; mish të shluarë ⟨në⟩ fushë mos të hani — ⟨atë⟩ hidheni për qen ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Dhe njerëz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "të shenjtë"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "do të jeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për ⟨mua⟩"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dhe mish"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushë"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "të shluarë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "të hani"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "për qen"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "hidheni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mishin e shluarë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:52.835856939Z",
+  "model": "glm-5.3"
+}

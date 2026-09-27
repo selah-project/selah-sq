@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Mirrë, aloë dhe kasi — të gjitha veshjet e tua — nga pallatet e fildishtë ⟨mëngjefet⟩ të kënaqën ty.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mirrë"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "dhe aloë"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "veshjet e tua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "pallatet e"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fildishtë"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mëngjefet"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "të kënaqën ty"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:43.766671203Z",
+  "model": "glm-5.3"
+}

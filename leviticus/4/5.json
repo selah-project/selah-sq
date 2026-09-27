@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Dhe prifti i vajosur do të marrë nga gjaku i demit dhe do ta çojë ⟨את⟩ atë në çadrën e takimit.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "do të marrë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "i vajosuri"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "nga gjaku"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "i demit"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "do ta çojë"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (gjakun)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadrën"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e takimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:19:48.224729338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Nuk ⟨është⟩ në qiejt, ashtu që të thuash: 'Kush do të ngjitet për ne në qiell dhe do ta marrë ⟨אתה⟩ për ne, dhe do të na e bëjë të dëgjojmë, që ta zbatojmë?'",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nuk"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiejt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨është⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ashtu që të thuash"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "do të ngjitet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "në qiell"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "dhe do ta marrë"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "për ne"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "dhe do të na e bëjë të dëgjojmë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "urdhrin (objekti i marrë e i dëgjuar, që zbatohet në ונעשנה)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "që ta zbatojmë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:51:44.089679930Z",
+  "model": "glm-5.3"
+}

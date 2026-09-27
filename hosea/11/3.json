@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe unë e mësova Efraimin të ecë, i mbajta në krahët e tyre, por ata nuk e dinin se unë i shëroja.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Dhe unë"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "e mësova të ecë"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "i mbajta"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "krahët e tyre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "e dinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "i shëroja"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:56.833275753Z",
+  "model": "glm-5.3"
+}

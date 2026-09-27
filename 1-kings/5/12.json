@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ai foli tre mijë fjalë të urta, dhe këngët e tij ishin një mijë e pesë.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "foli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mijë"
+    },
+    {
+      "surface": "משל",
+      "gloss": "fjalë të urta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe ishin"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "këngët e tij"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pesë"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dhe një mijë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:31:42.484960065Z",
+  "model": "glm-5.3"
+}

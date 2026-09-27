@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 115,
+  "translation": "Shtëpia e Aaronit, besoni në Jahve — ndihma e tyre dhe mburoja e tyre është Ai.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "e Aaronit"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "besoni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ndihma e tyre"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "dhe mburoja e tyre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:01.864797686Z",
+  "model": "glm-5.3"
+}

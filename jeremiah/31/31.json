@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Ja, ditë po vijnë, thotë Jahve, dhe do të lidh me shtëpinë e Izraelit dhe me shtëpinë e Judës një besëlidhje të re.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "בָּאִים",
+      "gloss": "po vijnë"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "thotë"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "dhe do të lidh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë e Izraelit"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "shtëpinë e Judës"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "shtëpinë e"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "besëlidhje"
+    },
+    {
+      "surface": "חֲדָשָׁה",
+      "gloss": "të re"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:32.948440301Z",
+  "model": "glm-5.3"
+}

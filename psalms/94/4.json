@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 94,
+  "translation": "Burasin, flasin sfiltjen ⟨e⟩ turpshme; të gjithë punëtarët e të keqes vetëlartësohen.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Burasin"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "flasin"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "sfiltjen e turpshme"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "vetëlartësohen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "punëtarët"
+    },
+    {
+      "surface": "און",
+      "gloss": "të keqes"
+    }
+  ],
+  "timestamp": "2026-09-27T17:10:48.085350340Z",
+  "model": "glm-5.3"
+}

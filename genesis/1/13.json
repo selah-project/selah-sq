@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe u bë mbrëmja dhe u bë mëngjesi — dita e tretë.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u bë"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbrëmja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mëngjesi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dita"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "e tretë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:47:07.615804235Z",
+  "model": "glm-5.3"
+}

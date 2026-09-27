@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "E vërteta do të mbijnë nga toka, dhe drejtësia do të shikojë nga qielli.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "E vërteta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "do të mbijnë"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "dhe drejtësia"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "nga qielli"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "do të shikojë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:00.890827316Z",
+  "model": "glm-5.3"
+}

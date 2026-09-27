@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 44,
+  "translation": "Sepse jo me shpatën e tyre trashëguan ⟨tokën⟩, dhe krahuri i tyre nuk i shpëtoi ata; por dora e djathtë e jotja, dhe krahuri yt, dhe drita e fytyrës sate — sepse i përshtate ato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "me shpatën e tyre"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "trashëguan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "dhe krahuri i tyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "i shpëtoi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dora e djathtë e jotja"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "dhe krahuri yt"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dhe drita e"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fytyrës sate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "i përshtate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:20.454950780Z",
+  "model": "glm-5.3"
+}

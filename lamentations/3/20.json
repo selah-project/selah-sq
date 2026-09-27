@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Kujton, kujton mirë, dhe përkulet mbi mua shpirti im.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "kujton"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "kujton mirë"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "dhe përkulet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirti im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:40:10.941109732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 33,
+  "translation": "Dhe plaçka juaj do të mbledhet siç mbledh kërkoca; si kërcimi i karkalecave do të sulen mbi të.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Dhe do të mbledhet"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "plaçka juaj"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "mbledhje"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "kërkoca"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "si vërvëllimi"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "i karkalecave"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "do të sulen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mbi të"
+    }
+  ],
+  "timestamp": "2026-09-27T15:57:30.818287906Z",
+  "model": "glm-5.3"
+}

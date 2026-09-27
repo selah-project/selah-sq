@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Kur vuri në Egjipt shenjat e tij dhe çuditë e tij në fushën e Tsoanit.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vuri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "në Egjipt"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "shenjat e tij"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "dhe çuditë e tij"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "në fushën"
+    },
+    {
+      "surface": "צען",
+      "gloss": "të Tsoanit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:45.461153803Z",
+  "model": "glm-5.3"
+}

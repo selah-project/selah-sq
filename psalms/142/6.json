@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 142,
+  "translation": "Kam bërtitur drejt teje, o Jahve; kam thënë: Ti ⟨je⟩ streha ime, pjesa ime në tokën e të gjallëve.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Kam bërtitur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "drejt teje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kam thënë"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "streha ime"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "pjesa ime"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "e të gjallëve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:21.849744187Z",
+  "model": "glm-5.3"
+}

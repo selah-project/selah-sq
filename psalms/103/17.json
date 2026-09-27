@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 103,
+  "translation": "E hesed i Jahvesë ⟨është⟩ nga përjetësia dhe deri në përjetësi mbi ata që i druajnë atij, dhe drejtësia e tij mbi bijtë e bijve.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "dhe hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "nga përjetësia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe deri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "përjetësi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ata që i druajnë atij"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dhe drejtësia e tij"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mbi bijtë e"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bijve"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.682226899Z",
+  "model": "glm-5.3"
+}

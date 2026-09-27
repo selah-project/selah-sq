@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Ai shpëtoi me paqe shpirtin tim nga lufta që ⟨is⟩ afër meje, sepse me shumë ishin bashkë me mua.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "shpëtoi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "me paqe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nga lufta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "që ⟨is⟩ afër meje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "me shumë"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ishin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bashkë me mua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:13.554853799Z",
+  "model": "glm-5.3"
+}

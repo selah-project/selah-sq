@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Rrugët e tij janë të qëndrueshme në çdo kohë; gjykatet e tua ⟨janë⟩ lart përballë tij; për të gjithë kundërshtarët e tij ai pëfryn mbi ta.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "janë të qëndrueshme"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugët e tij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në çdo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kohë"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "lart"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykatet e tua"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "përballë tij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "kundërshtarët e tij"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "pëfryn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mbi ta"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:14.077686073Z",
+  "model": "glm-5.3"
+}

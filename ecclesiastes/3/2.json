@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Një kohë për të lindur dhe një kohë për të vdekur; një kohë për të mbjellë dhe një kohë për të shkulur ⟨atë⟩ që ⟨është⟩ mbjellë.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "për të lindur"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "למות",
+      "gloss": "për të vdekur"
+    },
+    {
+      "surface": "עת",
+      "gloss": "një kohë"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "për të mbjellë"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "për të shkulur"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "që është mbjellë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:21.453678767Z",
+  "model": "glm-5.3"
+}

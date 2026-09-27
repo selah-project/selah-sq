@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Ashtu siç ngrihet nga demi i flijimit të falenderimeve; dhe prifti do t'i djegë në altarin e flijimit të përvëlimit.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ashtu siç"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ngrihet"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nga demi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "flijimit"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "të falenderimeve"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "do t'i djegë (si tym)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "të përvëlimit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:18:56.761128243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Dhe mbreti bëri ⟨את⟩ argjendin në Jeruzalem si gurët, dhe ⟨את⟩ qedrat i dha si fikët e egla që janë në Shefela, pa masë.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argjendin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argjendin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "në Jeruzalem"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "si gurët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "qedrat"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "qedrat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i dha"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "si fikët e egla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "në Shefela"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pa masë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:33:52.601398779Z",
+  "model": "glm-5.3"
+}

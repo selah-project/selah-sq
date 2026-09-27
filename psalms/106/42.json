@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 106,
+  "translation": "Armikut e tyre i shtypën ata, dhe u përulën nën dorën e tyre.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "dhe i shtypën"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "armiqtë e tyre"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "dhe u përulën"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dorën e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:28.104506335Z",
+  "model": "glm-5.3"
+}

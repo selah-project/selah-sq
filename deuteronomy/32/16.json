@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "E bënë të zelozi me të huaj, me gjëra të neveritshme e nxunin në zemërim.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "e bënë të zelozi"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "me të huaj"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "me gjëra të neveritshme"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "e nxunin në zemërim"
+    }
+  ],
+  "timestamp": "2026-09-27T14:53:13.097492095Z",
+  "model": "glm-5.3"
+}

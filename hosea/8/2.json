@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Mua do të më thërrasin: 'Elohim i imi, ne të njohim ty, o Izrael!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "do të më thërrasin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i imi"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "të njohim ty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Izrael"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:43.158419398Z",
+  "model": "glm-5.3"
+}

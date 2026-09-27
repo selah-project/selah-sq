@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 37,
+  "translation": "Sepse si bari shpejt do të këputen, dhe si një bar i gjelbër do të vyshken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "si bari"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "shpejt"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "do të këputen"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "dhe si"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bar i gjelbër"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "do të vyshken"
+    }
+  ],
+  "timestamp": "2026-09-27T17:00:56.483345871Z",
+  "model": "glm-5.3"
+}

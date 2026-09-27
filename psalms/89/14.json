@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 89,
+  "translation": "⟨Është⟩ e jja një krah me guxim; e fortë ⟨është⟩ dora jote, e lartuar ⟨është⟩ dora e djathtë e jote.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ti (për ty)"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "krah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "me"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "guxim"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "e fortë"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dora jote"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "e lartuar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dora e djathtë e jote"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:45.510818714Z",
+  "model": "glm-5.3"
+}

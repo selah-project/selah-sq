@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe Gideoni u tha atyre: Nuk do të sundoj unë mbi ju, as nuk do të sundojë biri im mbi ju; Jahve do të sundojë mbi ju.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe u tha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atyre"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "do të sundoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "as nuk"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "do të sundojë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biri im"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mbi ju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "do të sundojë"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mbi ju"
+    }
+  ],
+  "timestamp": "2026-09-27T18:22:42.213661638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe e urreva unë ⟨את⟩ gjithë mundin tim, me të cilin unë po mendoj nën diell, sepse do ta lë ⟨את⟩ atë njeriut që do të vijë pas meje.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "dhe e urreva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë mundin tim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mundin tim"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "me të cilin unë"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "po mendoj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "diell"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "sepse do ta lë atë"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "njeriut"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "që do të jetë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pas meje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:41.412624788Z",
+  "model": "glm-5.3"
+}

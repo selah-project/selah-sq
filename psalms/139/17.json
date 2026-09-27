@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 139,
+  "translation": "Dhe për mua — sa të çmuara janë mendimet e tua, o El! Sa e madhe është shuma e tyre!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "dhe për mua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "të çmuara janë"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "mendimet e tua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "është e madhe"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "shuma e tyre (kokat e tyre)"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:10.039234404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Përmbyta në baltën e thellë dhe s'ka ⟨ku të mbahem⟩; kam hyrë në thellësitë e ujërave dhe vërshimi më ka mbytur.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Përmbyta"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "në baltën"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "e thellë"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dhe s'ka"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ku të mbahem"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kam hyrë"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "në thellësitë e"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ujërave"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "dhe vërshimi"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "më ka mbytur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:26.836937679Z",
+  "model": "glm-5.3"
+}

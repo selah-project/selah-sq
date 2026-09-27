@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Gjithçka shkon në një vend të vetëm; gjithçka ⟨ishte⟩ nga pluhuri, dhe gjithçka kthehet përsëri në pluhur.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Gjithçka"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "shkon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "një vend"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "të vetëm"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ishte⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pluhuri"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "dhe gjithçka"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kthehet përsëri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pluhur"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:29.560446608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Ata e panë ⟨këtë⟩ dhe u çuditën aq sa u shkatërruan nga mendja; u trembën, u ngutën të iknin.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "e panë"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aq"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "u çuditën"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "u trembën"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "u ngutën"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:45.464147701Z",
+  "model": "glm-5.3"
+}

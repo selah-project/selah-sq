@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "dhe Jeshua e lindi ⟨את⟩ Jojakimin, dhe Jojakimi e lindi ⟨את⟩ Eliashibin, dhe Eliashibi ⟨את⟩ Joiadan.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "dhe Jeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "e lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakimin"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakimin"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "dhe Jojakimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "e lindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliashibin"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliashibin"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "dhe Eliashibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joiadan"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Joiadan"
+    }
+  ],
+  "timestamp": "2026-09-27T17:58:30.433181802Z",
+  "model": "glm-5.3"
+}

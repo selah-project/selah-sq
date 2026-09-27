@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 4,
+  "translation": "Bijtë e Judës: Perets, Hetsroni, Karmi, Huri dhe Shovali.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bijtë"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "e Judës"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "dhe Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "dhe Huri"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "dhe Shovali"
+    }
+  ],
+  "timestamp": "2026-09-27T18:00:40.766974519Z",
+  "model": "glm-5.3"
+}

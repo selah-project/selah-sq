@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Ai thirri qiejt nga lart dhe tokën, për të gjykuar popullin e tij.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "thirri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "(drejt)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nga lart"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe (drejt)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokës"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "për të gjykuar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:08.656297916Z",
+  "model": "glm-5.3"
+}

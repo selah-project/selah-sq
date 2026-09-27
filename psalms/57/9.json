@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "Zgjohu, o lavdia ime; zgjohu, neveli dhe kinori; unë do ta zgjoj agimin.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Zgjohu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "lavdia ime"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "zgjohu"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "neveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dhe kinori"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "do ta zgjoj"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "agimin"
+    }
+  ],
+  "timestamp": "2026-09-27T17:03:50.190469676Z",
+  "model": "glm-5.3"
+}

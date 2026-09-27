@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 50,
+  "translation": "Jahve hapi ⟨את⟩ thesarin e vet dhe nxori ⟨את⟩ armët e tërbimit të tij, sepse punë ⟨is⟩ ajo e Adonai Jahve Tsevaot në tokën e Kaldeasve.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "hapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thesarin e vet"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "thesarin e vet"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "dhe nxori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armët"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "armët"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "të tërbimit të tij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "punë"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "e Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokën"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "të Kaldeasve"
+    }
+  ],
+  "timestamp": "2026-09-27T16:23:29.958062973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 41,
+  "translation": "Dhe do të ngrihen pas tyre shtatë vjet uri, dhe gjithë bollëku do të harrohet në token e Egjiptit, dhe uria do të shkatërrojë ⟨את⟩ token.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Dhe do të ngrihen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "uri"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "pas tyre"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "dhe do të harrohet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "bollëku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në token"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "të Egjiptit"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dhe do të shkatërrojë"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "token"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "token"
+    }
+  ],
+  "timestamp": "2026-09-27T13:59:45.721292189Z",
+  "model": "glm-5.3"
+}

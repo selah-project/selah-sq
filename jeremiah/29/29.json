@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe Tsefanjahu, prifti, lexoi ⟨את⟩ letrën këtë në veshët e Jeremisë, profetit.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dhe lexoi"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letrn — këtë letër"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "letrn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "në veshët e"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremisë"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:17:28.078952664Z",
+  "model": "glm-5.3"
+}

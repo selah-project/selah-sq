@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "sq",
+  "chapter": 29,
+  "translation": "Dhe kushdo te i cili u gjetën ⟨את⟩ gurë ⟨të çmuar⟩, i dhanë për thesarin e shtëpisë së Jahves, nën dorën e Jehielit gershunasit.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "dhe kushdo te i cili u gjetën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me të",
+      "marks": "gurët e çmuar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "gurë"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "i dhanë"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "për thesarin e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "shtëpisë së"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "nën"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dorën e"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jehielit"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "gershunasit"
+    }
+  ],
+  "timestamp": "2026-09-27T18:07:44.755586912Z",
+  "model": "glm-5.3"
+}

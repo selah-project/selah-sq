@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 118,
+  "translation": "Jahve ⟨është⟩ për mua — nuk do të frikësohem; ç'më mund të bëjë njeriu?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "do të frikësohem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç'"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mund të bëjë"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mua"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "njeriu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:50.828954968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Dhe Jonatani iu përgjigj ⟨את⟩ Saulit, atit të vet, dhe i tha: «Pse të vritet ai? Çfarë ka bërë?»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atit të vet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe i tha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pse"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "të vritet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çfarë"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka bërë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:17:33.801514634Z",
+  "model": "glm-5.3"
+}

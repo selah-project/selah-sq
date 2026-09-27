@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Na bekoftë Elohim, dhe të tremben prej tij të gjitha skajet e tokës ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Na bekoftë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dhe të tremben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha skajet e tokës"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "skajet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "e tokës"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.563377749Z",
+  "model": "glm-5.3"
+}

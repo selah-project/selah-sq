@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 105,
+  "translation": "Mbreti dërgoi dhe e liroi — sundimtari i popujve e liroi atë.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dërgoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mbreti"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "dhe e liroi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sundimtari"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popujve"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "e liroi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:12:27.479442536Z",
+  "model": "glm-5.3"
+}

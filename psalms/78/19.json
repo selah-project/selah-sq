@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dhe folën kundër Elohit; thanë: «A mund ⟨El⟩ të përgatisë një tryezë në shkretëtirë?»",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "dhe folën"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kundër Elohit"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thanë"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "a mund"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "të përgatisë"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "një tryezë"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:33.514135198Z",
+  "model": "glm-5.3"
+}

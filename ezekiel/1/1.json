@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 1:1",
+  "book": "ezekiel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe ndodhi në vitin e tridhjetë, në muajin e katërt, në të pestin e muajit, dhe unë në mes të të mërguarve, pranë lumit Kebár, u hapën qiejt dhe pashë pamje të Elohim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "në të tridhjetin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "ברביעי",
+      "gloss": "në të katërtin"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "në të pestin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "të muajit"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes të"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "të mërguarve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pranë"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "lumit"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kebár"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "u hapën"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dhe pashë"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "pamje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T16:25:27.484268469Z",
+  "model": "glm-5.3"
+}

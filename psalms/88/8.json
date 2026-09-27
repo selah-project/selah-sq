@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 88,
+  "translation": "Mbi mua është mbështetur zemërimi yt, dhe me të gjitha valët e tua më ke shtypur. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "është mbështetur"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "zemërimi yt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe me të gjitha"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "valët e tua"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "më ke shtypur"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:31.872682385Z",
+  "model": "glm-5.3"
+}

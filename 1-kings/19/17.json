@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe do të ndodhë ⟨që⟩ atë që shpëton nga shpata e Hazaelit do e vrasë Jehu, dhe atë që shpëton nga shpata e Jehut do e vrasë Eliseu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dhe do të ndodhë"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "atë që shpëton"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "e Hazaelit"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "do e vrasë"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "dhe atë që shpëton"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nga shpata"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "e Jehut"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "do e vrasë"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    }
+  ],
+  "timestamp": "2026-09-27T15:38:34.720689892Z",
+  "model": "glm-5.3"
+}

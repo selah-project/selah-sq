@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sq",
+  "chapter": 27,
+  "translation": "Dhe do të shkruash mbi gurët ⟨את⟩ të gjitha fjalët e kësaj Tore, shqipëroj i qartë.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "dhe do të shkruash"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gurët"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha fjalët e kësaj Tore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "fjalët"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e kësaj Tore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(kësaj)"
+    },
+    {
+      "surface": "באר",
+      "gloss": "shqipëroj"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "i qartë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:50:15.270223955Z",
+  "model": "glm-5.3"
+}

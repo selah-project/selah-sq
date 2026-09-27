@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 32,
+  "translation": "Dhe zemra e të nxiturve do të kuptojë të dishë, dhe gjuha e mushutëve do të ngutet të flasë qartë.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "dhe zemra"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "e të nxiturve"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "do të kuptojë"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "të dishë"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "dhe gjuha"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "e mushutëve"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "do të ngutet"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "të flasë"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "qartë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:56:31.062729452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Jahve, Adonai ynë, sa i madhërishëm ⟨është⟩ emri yt në gjithë ⟨të⟩rën!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai ynë"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "i madhërishëm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "emri yt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "në gjithë"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "rën"
+    }
+  ],
+  "timestamp": "2026-09-27T16:56:32.901525822Z",
+  "model": "glm-5.3"
+}

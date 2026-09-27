@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 72,
+  "translation": "Do të të frikësohen bashkë me diellin, dhe para hënës, brez pas brezi.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "do të të frikësohen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bashkë me"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "diellin"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dhe para"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hënës"
+    },
+    {
+      "surface": "דור",
+      "gloss": "brez"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "pas brezi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:40.211768693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Sepse statut për Izraelin ⟨është⟩ ai, ordinancë për të ≤Elohim⟩ e Jakobit — një ligj i Elohimit të Jakobit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statut"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "për Izraelin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ordinancë"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "për Elohim e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:43.028239352Z",
+  "model": "glm-5.3"
+}

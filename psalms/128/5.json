@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 128,
+  "translation": "Jahve të bekoftë nga Cioni, dhe shih të mirën e Jerusalemit të gjitha ditët e jetës sate.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "të bekoftë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "nga Cioni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dhe shih"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "të mirën"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "e Jerusalemit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditët"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "e jetës sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:25.235202644Z",
+  "model": "glm-5.3"
+}

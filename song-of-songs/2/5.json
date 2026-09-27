@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Më mbajtuni me ⟨tortat e rrushit⟩, më shtrini me mollë, se e sëmurë nga dashuria jam.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "më mbajtuni"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "me ⟨tortat e rrushit⟩"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "më shtrini"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "me mollë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "e sëmurë"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "nga dashuria"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-27T17:37:51.752329181Z",
+  "model": "glm-5.3"
+}

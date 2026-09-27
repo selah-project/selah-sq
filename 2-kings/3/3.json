@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Vetëm në mëkatet e Jeroboamit, birit të Nebatit, me të cilat e bëri ⟨את⟩ Izraelin të mëkatojë, ai ngjiti veten; nuk u largua nga ato.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vetëm"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "në mëkatet"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "e Jeroboamit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "birit"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "të Nebatit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me të cilat"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "bëri të mëktojë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ngjiti veten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "סר",
+      "gloss": "u largua"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nga ato"
+    }
+  ],
+  "timestamp": "2026-09-27T15:40:54.561560993Z",
+  "model": "glm-5.3"
+}

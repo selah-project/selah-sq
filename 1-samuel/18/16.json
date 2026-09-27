@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Por i gjithë Izraeli dhe Juda e donin ⟨את⟩ Davidin, sepse ai dilte dhe hynte përpara tyre.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhe i gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dhe Juda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "e donin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "dilte"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhe hynte"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "përpara tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:10.601552561Z",
+  "model": "glm-5.3"
+}

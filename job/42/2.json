@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 42,
+  "translation": "E di se ti mundesh ⟨të gjitha⟩, dhe asnjë plan nuk mund të të ndalohet.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "E di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mundesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "mund të ndalohet"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "të"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "plan"
+    }
+  ],
+  "timestamp": "2026-09-27T18:35:16.420309544Z",
+  "model": "glm-5.3"
+}

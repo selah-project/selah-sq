@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 31,
+  "translation": "Te ti kam gjetur strehë, o Jahve; të mos më turpërojnë kurrë; në të drejtin tënde më shpëto.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Te ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kam gjetur strehë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "më turpërojnë"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kurrë"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "në të drejtin tënde"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "më shpëto"
+    }
+  ],
+  "timestamp": "2026-09-27T16:59:40.003727386Z",
+  "model": "glm-5.3"
+}

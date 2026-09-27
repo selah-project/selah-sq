@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "O Elohim, arrogantët ⟨janë⟩ ngritur kundër meje, dhe një grup të dhunshëm kanë kërkuar shpirtin tim, dhe nuk të kanë vënë ty para syve të tyre.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arrogantët"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "⟨janë⟩ ngritur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kundër meje"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "dhe një grup"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "të dhunshëm"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "kanë kërkuar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "shpirtin tim"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "të kanë vënë ty"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "para syve të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.778860431Z",
+  "model": "glm-5.3"
+}

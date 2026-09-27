@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 136,
+  "translation": "⟨את⟩ hëna dhe yjet për të qeverisur natën, sepse përjetë është hesed-i i tij.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hëna"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "hëna"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dhe yjet"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "për të qeverisur"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "natën"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "përjetë"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-i i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:38.363990132Z",
+  "model": "glm-5.3"
+}

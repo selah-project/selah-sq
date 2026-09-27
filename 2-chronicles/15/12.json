@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 15,
+  "translation": "Dhe hynë në besëlidhje për të kërkuar ⟨את⟩ Jahve, Elohim i etërve të tyre, me gjithë zemrën e tyre dhe me gjithë shpirtin e tyre.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhe hynë"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "në besëlidhje"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "për të kërkuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "etërve të tyre"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "me gjithë"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "zemrën e tyre"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dhe me gjithë"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "shpirtin e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:35.712548239Z",
+  "model": "glm-5.3"
+}

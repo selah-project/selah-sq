@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Për dirigjentin. Nga Davidi. Në Jahve kam gjetur strehë; si të thoni shpirtit tim: «Shpërngilu në malin tënd si zog!»",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Për dirigjentin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Nga Davidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "në Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kam gjetur strehë"
+    },
+    {
+      "surface": "איך",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "të thoni"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "shpirtit tim"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "shpërngilu"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "në malin tuaj"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "zog"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:29.490921359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe shkoi Juda kundër kanaanasit që banonte në Hebron — emri i Hebronit më parë ⟨ishte⟩ Kirjat-Arba — dhe goditën ⟨את⟩ Sheshain, ⟨את⟩ Ahimanin dhe ⟨את⟩ Talmain.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanasit"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "që banonte"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "në Hebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dhe emri"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "i Hebronit"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "më parë"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dhe goditën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshain"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ahimanin"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Talmain"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmain"
+    }
+  ],
+  "timestamp": "2026-09-27T15:01:52.876380734Z",
+  "model": "glm-5.3"
+}

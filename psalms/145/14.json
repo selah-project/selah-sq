@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 145,
+  "translation": "Jahve mbështet të gjithë të rrëzuarit dhe i ngre të gjithë të përkulurit.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "mbështet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "të rrëzuarit"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "dhe i ngre"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "të përkulurit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:58.120508917Z",
+  "model": "glm-5.3"
+}

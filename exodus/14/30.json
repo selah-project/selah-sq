@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jahve shpëtoi ⟨atë⟩ ditë ⟨את⟩ Izraelin nga dora e Egjiptit; dhe Izraeli pa ⟨את⟩ Egjiptasin të vdekur në bregun e detit.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Dhe shpëtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨atë⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nga dora e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhe pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egjiptasin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptasin"
+    },
+    {
+      "surface": "מת",
+      "gloss": "të vdekur"
+    },
+    {
+      "surface": "על",
+      "gloss": "në"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bregun e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "detit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:25.634854378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe tani, o banor të Jerusalemit dhe njeri i Judës, gjykoni, tani, mes meje dhe mes vreshtit tim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhe tani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "o banor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "të Jerusalemit"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhe njeri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "gjykoni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mes meje"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dhe mes"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "vreshtit tim"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:30.069933628Z",
+  "model": "glm-5.3"
+}

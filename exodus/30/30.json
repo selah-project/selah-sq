@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe ⟨את⟩ Aaronin dhe ⟨את⟩ bijtë e tij do t'i vajosësh, dhe do t'i shenjtërosh ⟨את⟩ ata për të qenë priftërinj për mua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Aaronin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "bijtë e tij"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bijtë e tij"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "do t'i vajosësh"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dhe do t'i shenjtërosh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ata",
+      "marks": "Aaronin dhe bijtë e tij"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "për të qenë priftërinj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:27.433119559Z",
+  "model": "glm-5.3"
+}

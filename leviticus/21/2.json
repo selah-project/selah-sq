@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "përveç për të afermin e tij të ngushtë: për nënën e tij dhe për atin e tij, për birin e tij dhe për bijën e tij dhe për vëllain e tij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "përveç (por)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm nëse"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "për të afermin e tij"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "të ngushtë"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "me të"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "për nënën e tij"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "dhe për atin e tij"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "dhe për birin e tij"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "dhe për bijën e tij"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dhe për vëllain e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T14:25:17.262210253Z",
+  "model": "glm-5.3"
+}

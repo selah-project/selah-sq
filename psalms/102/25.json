@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 102,
+  "translation": "Pata thënë: O El-i im, mos më ço ⟨në⟩ gjysmën e ditëve të mia; në brez brezash ⟨janë⟩ vitet e tua.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Pata thënë"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "O El-i im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "më ço"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "⟨në⟩ gjysmën e"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ditëve të mia"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "në brez"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "brezash"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "vitet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:43.224535232Z",
+  "model": "glm-5.3"
+}

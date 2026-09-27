@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe mesazheri i Jahves i foli Elias: Zbrit ⟨את⟩ me të, mos ki frikë nga fytyra e tij; dhe ai u ngrit dhe zbriti ⟨את⟩ me te te mbreti.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhe ... i foli"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesazheri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "përpara"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Zbrit"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩atë",
+      "marks": "me të (kryetarin e tretë)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ki frikë"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nga fytyra e tij"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhe ai u ngrit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dhe zbriti"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩atë",
+      "marks": "me te (te mbreti)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbreti"
+    }
+  ],
+  "timestamp": "2026-09-27T15:41:07.761124616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 23,
+  "translation": "Sepse nëse dëgjon vërtet zërin e tij dhe bën gjithçka që unë flas, unë do të jem armik ⟨את⟩ i armiqve tuaj dhe do të shtyp ⟨את⟩ kundërshtarët tuaj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nëse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vërtet"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dëgjon"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "zërin e tij"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dhe bën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithçka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "unë flas"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "unë do të jem armik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armiqve tuaj"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i armiqve tuaj"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "dhe do të shtyp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundërshtarët tuaj"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "kundërshtarët tuaj"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:26.708327837Z",
+  "model": "glm-5.3"
+}

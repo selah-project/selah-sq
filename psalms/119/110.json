@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Rrobat e këqija më ngritën kurth, por nga urdhrat e tua nuk u shmanga.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ngritën"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "robat e këqija"
+    },
+    {
+      "surface": "פח",
+      "gloss": "kurth"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "por nga urdhrat e tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "u shmanga"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:13.742013958Z",
+  "model": "glm-5.3"
+}

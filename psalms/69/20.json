@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 69,
+  "translation": "Ti i di ⟨të⟩ turpin tim, ⟨të⟩ turpërimin tim dhe ⟨të⟩ poshtërimin tim; para teje janë ⟨gjithë⟩ kundërshtarët e mi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i di"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "turpin tim"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "dhe turpërimin tim"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "dhe poshtërimin tim"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "para teje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kundërshtarët e mi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:06:23.167538578Z",
+  "model": "glm-5.3"
+}

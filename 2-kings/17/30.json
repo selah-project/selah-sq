@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 17,
+  "translation": "Dhe burrat e Babilonisë bënë ⟨את⟩ Sukkot-Benot, dhe burrat e Kuthit bënë ⟨את⟩ Nergal, dhe burrat e Hamathit bënë ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "dhe burrat e"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonisë"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "-Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dhe burrat e"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuthit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dhe burrat e"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamathit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bënë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:45.494399577Z",
+  "model": "glm-5.3"
+}

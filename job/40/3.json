@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 40,
+  "translation": "Dhe Iovi iu përgjigj ⟨את⟩ Jahves dhe tha:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dhe iu përgjigj"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:36:29.991672594Z",
+  "model": "glm-5.3"
+}

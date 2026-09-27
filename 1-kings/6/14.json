@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Kështu Salomoni e ndërtoi ⟨את⟩ shtëpinë dhe e përfundoi atë.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kështu ndërtoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "dhe e përfundoi atë"
+    }
+  ],
+  "timestamp": "2026-09-27T15:32:22.671678544Z",
+  "model": "glm-5.3"
+}

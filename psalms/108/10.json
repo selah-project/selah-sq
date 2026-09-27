@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 108,
+  "translation": "Moabi ⟨është⟩ ena e larjes sime; mbi Edomin do të hedhë sandalen time; mbi Filistinë do të bërtas ⟨me triumf⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "e larjes sime"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "do të hedhë"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandalen time"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistinë"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "do të bërtas"
+    }
+  ],
+  "timestamp": "2026-09-27T17:13:00.434717868Z",
+  "model": "glm-5.3"
+}

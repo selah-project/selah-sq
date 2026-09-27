@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ⟨me⟩ ⟨את⟩ mashkullin të mos shtrihesh si shtrihet ⟨me⟩ një grua; gjë e neveritshme është ajo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "mashkullin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mashkullin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "të mos"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "shtrihesh"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "si shtrihet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "një grua"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gjë e neveritshme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "është ajo"
+    }
+  ],
+  "timestamp": "2026-09-27T14:23:32.701344144Z",
+  "model": "glm-5.3"
+}

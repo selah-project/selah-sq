@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 45,
+  "translation": "Dëgjo, o bijë, dhe shiko, dhe zgjat veshin tënd, dhe harro popullin tënd dhe shtëpinë e atit tënd —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "dëgjo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "o bijë"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "dhe shiko"
+    },
+    {
+      "surface": "andהטי",
+      "gloss": "dhe zgjat"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "veshin tënd"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "dhe harro"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "popullin tënd"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dhe shtëpinë e"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atit tënd"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:43.767260293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Buza ime do të gëzojë me britma, sepse do të të këndoj ty, dhe shpirti im, të cilin e shpengove.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "do të gëzojë me britma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buza ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "do të të këndoj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "dhe shpirti im"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të cilin"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "e shpengove"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:51.787881300Z",
+  "model": "glm-5.3"
+}

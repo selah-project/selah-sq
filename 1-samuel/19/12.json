@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Dhe Mikali e zbriti ⟨את⟩ Davidin nëpër dritare; dhe ai shkoi, iku dhe shpëtoi.",
+  "tokens": [
+    {
+      "surface": "ותורד",
+      "gloss": "dhe e zbriti"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nëpër"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "dritare"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dhe shpëtoi"
+    }
+  ],
+  "timestamp": "2026-09-27T15:16:52.615558135Z",
+  "model": "glm-5.3"
+}

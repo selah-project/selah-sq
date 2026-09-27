@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe ndodhi në vetë atë ditë: nxori Jahve ⟨את⟩ bijtë e Izraelit nga vendi i Egjiptit sipas ushtrive të tyre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "në vetë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "atë ditë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nxori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijtë e Izraelit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga vendi i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egjiptit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sipas"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ushtrive të tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:06:31.715651782Z",
+  "model": "glm-5.3"
+}

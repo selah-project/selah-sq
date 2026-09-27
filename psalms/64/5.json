@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 64,
+  "translation": "Për të qëlluar në vendet e fshehta ⟨të⟩ të pafajshmit; papritur e qëllojnë atë dhe nuk frikësohen.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "për të qëlluar"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "në vendet e fshehta"
+    },
+    {
+      "surface": "תם",
+      "gloss": "të pafajshmit"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "papritur"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "e qëllojnë atë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "frikësohen"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.292464577Z",
+  "model": "glm-5.3"
+}

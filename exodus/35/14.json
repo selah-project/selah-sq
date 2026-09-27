@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 35,
+  "translation": "dhe ⟨את⟩ menora e dritës, dhe ⟨את⟩ veglat e saj, dhe ⟨את⟩ lampat e saj, dhe ⟨את⟩ vajin e dritës;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "menora e dritës"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "e dritës"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "veglat e saj"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "veglat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "lampat e saj"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampat e saj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "vajin e dritës"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "vajin"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "e dritës"
+    }
+  ],
+  "timestamp": "2026-09-27T14:15:14.884085486Z",
+  "model": "glm-5.3"
+}

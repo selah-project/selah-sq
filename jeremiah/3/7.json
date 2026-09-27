@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Dhe thashë: Pasajo që bëri ⟨ajo⟩ ⟨את⟩ të gjitha këto, do të kthehet tek unë — por nuk u kthye; dhe e pa motra e saj tradhtare, Judë.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dhe thashë"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pasajo që"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "bëri ajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "të gjitha këto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tek unë"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "do të kthehet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "por nuk"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "dhe e pa"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "tradhtare"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "motra e saj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:07:18.802726331Z",
+  "model": "glm-5.3"
+}

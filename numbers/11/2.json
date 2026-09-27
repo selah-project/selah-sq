@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Dhe bërtiti populli te Moisi, dhe u lut Moisi te Jahve, dhe zjarri u shua.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "dhe bërtiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "populli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dhe u lut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "dhe u shua"
+    },
+    {
+      "surface": "האש",
+      "gloss": "zjarri"
+    }
+  ],
+  "timestamp": "2026-09-27T14:32:24.502304006Z",
+  "model": "glm-5.3"
+}

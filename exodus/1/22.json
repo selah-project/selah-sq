@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Dhe Paroi urdhëroi tërë popullin e tij, duke thënë: Çdo djalë i lindur — në lumë do ta hudhni, por çdo vajzë do ta lini të jetojë.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dhe urdhëroi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tërë"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popullin e tij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "duke thënë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "djalë"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "i lindur"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "në lumë"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "do ta hudhni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "por çdo"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "vajzë"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "do ta lini të jetojë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:02:36.312317427Z",
+  "model": "glm-5.3"
+}

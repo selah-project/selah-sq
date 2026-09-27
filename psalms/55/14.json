@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 55,
+  "translation": "Por ti — njeri si unë, i barabarti im, shok i ngushtë dhe i njohuri im;",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "njeri"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "si unë \/ i barabarti im"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "shok i ngushtë"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "dhe i njohuri im"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:04.296427041Z",
+  "model": "glm-5.3"
+}

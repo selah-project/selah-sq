@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 49,
+  "translation": "Sepse sheh ⟨ai⟩: të urtët vdesin, bashkë me të pamendin dhe të marrin ⟨ata⟩ perisin, dhe lënë pasurinë e tyre për të tjerët.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sheh"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "të urtët"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "vdesin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bashkë"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "me të pamendin"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "dhe të marrin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "perisen"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "dhe lënë"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "për të tjerët"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "pasurinë e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:37.306050796Z",
+  "model": "glm-5.3"
+}

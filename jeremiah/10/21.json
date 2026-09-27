@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Sepse barinjtë u bënë të pamënd dhe ⟨את⟩ Jahve nuk e kërkuan; prandaj nuk vepruan me mençuri dhe e gjithë tufa e tyre është shpërndarë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "u bënë të pamënd"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barinjtë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "e kërkuan"
+    },
+    {
+      "surface": "על",
+      "gloss": "prandaj"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "vepruan me mençuri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe e gjithë"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "tufa e tyre"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "është shpërndarë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:09:34.951317506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 143,
+  "translation": "Dhe Fryma ime ra e mbuluar mbi mua, brenda meje zemra ime u shkatërrua e shtangur.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "ra e mbuluar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mbi mua"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Fryma ime"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "brenda meje"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "u shkatërrua e shtangur"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zemra ime"
+    }
+  ],
+  "timestamp": "2026-09-27T17:17:32.871242476Z",
+  "model": "glm-5.3"
+}

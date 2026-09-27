@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe kaluan ⟨את⟩ Jordanin, dhe ngritën kamp në Aroer, në anën e djathtë të qytetit që ⟨është⟩ në mes të luginës së Gadit, dhe deri në Jazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "dhe kaluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dhe ngritën kamp"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "në Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "në anën e djathtë"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "të qytetit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "në mes"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "të luginës"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "të Gadit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe deri në"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    }
+  ],
+  "timestamp": "2026-09-27T15:29:17.079579946Z",
+  "model": "glm-5.3"
+}

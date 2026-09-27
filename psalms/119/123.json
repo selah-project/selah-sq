@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Sytë e mi ⟨u⟩ çlodhën nga shpëtimi yt dhe nga fjala e drejtësisë sate.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Sytë e mi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨u⟩ çlodhën"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "nga shpëtimi yt"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "dhe nga fjala"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "e drejtësisë sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:15:10.788685672Z",
+  "model": "glm-5.3"
+}

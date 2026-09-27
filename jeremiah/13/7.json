@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe shkova në Perath, gërmova dhe morra ⟨את⟩ rripin nga vendi ku e kisha fshehur atje; dhe ja, rripi ishte prishur — nuk bënte më për asgjë.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "dhe shkova"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "në Perath"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "dhe gërmova"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "dhe morra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rripin"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "rripin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "e kisha fshehur atë"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "ishte prishur"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "rripi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "bënte për"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për asgjë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:11:24.240721209Z",
+  "model": "glm-5.3"
+}

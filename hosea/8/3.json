@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Izraeli e hodhi ⟨poshtë⟩ ⟨të⟩ mirën; një armik do ta ndjekë atë.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "e hodhi ⟨poshtë⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mirën"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "armik"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "do ta ndjekë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:43:43.158616576Z",
+  "model": "glm-5.3"
+}

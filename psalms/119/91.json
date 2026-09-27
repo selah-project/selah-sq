@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Sipas gjykimeve të tua ata qëndrojnë deri sot, sepse të gjitha ⟨janë⟩ shërbëtorët e tu.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Sipas gjykimeve të tua"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "qëndrojnë"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deri sot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "shërbëtorët e tu"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:44.457885833Z",
+  "model": "glm-5.3"
+}

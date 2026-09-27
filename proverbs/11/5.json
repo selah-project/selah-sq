@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 11,
+  "translation": "Drejtësia e të papërlyerit i drejton ⟨e tij⟩ rrugën, por nga ligësia e tij bie i pabesi.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "drejtësia"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "i papërlyeri"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "i drejton"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rrugën e tij"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "por nga ligësia e tij"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "i pabesi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:21:16.853626751Z",
+  "model": "glm-5.3"
+}

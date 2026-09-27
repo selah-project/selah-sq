@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Dhe ai bëri atë që ⟨ishte⟩ e drejtë në sytë e Jahvesë, sipas të gjithave që kishte bërë Davidi, ati i tij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dhe bëri"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "e drejtë"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "në sytë e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sipas të gjithave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kishte bërë"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ati i tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:04.529497496Z",
+  "model": "glm-5.3"
+}

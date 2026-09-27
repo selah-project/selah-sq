@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "dhe i dëgjoi ai ⟨ata⟩ për këtë fjalë dhe i provoi dhjetë ditë.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhe i dëgjoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "për fjalën"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "dhe i provoi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dhjetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:46:19.159905470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Ja, Jahve zbraz ⟨të⟩ tokën dhe e zbraz krejt, i shqipëron ⟨fytyrën⟩ e saj dhe i shpërndan banorët e saj.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "zbraz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "dhe e zbraz krejt"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "i shqipëron"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fytyrën e saj"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "dhe i shpërndan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "banorët e saj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:55:54.497712280Z",
+  "model": "glm-5.3"
+}

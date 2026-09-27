@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Juda u thye përballë Izraelit, dhe ikën çdonjëri në çadrën e vet.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "dhe u thye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "përballë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "איש",
+      "gloss": "çdonjëri"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "në çadrën e vet"
+    }
+  ],
+  "timestamp": "2026-09-27T15:44:51.986780115Z",
+  "model": "glm-5.3"
+}

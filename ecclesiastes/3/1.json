@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 3,
+  "translation": "Për çdo gjë ⟨ka⟩ një kohë e caktuar, dhe një kohë për çdo dëshirë nën qiejt.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "për çdo gjë"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "kohë e caktuar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dhe një kohë"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "për çdo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dëshirë"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "qiejt"
+    }
+  ],
+  "timestamp": "2026-09-27T17:42:21.453352093Z",
+  "model": "glm-5.3"
+}

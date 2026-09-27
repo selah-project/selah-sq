@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 101,
+  "translation": "Zemra e shtrembër do të largohet nga unë; të keqen nuk do ta njoh.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Zemra"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "e shtrembër"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "do të largohet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga unë"
+    },
+    {
+      "surface": "רע",
+      "gloss": "të keqen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "do ta njoh"
+    }
+  ],
+  "timestamp": "2026-09-27T17:11:29.197141942Z",
+  "model": "glm-5.3"
+}

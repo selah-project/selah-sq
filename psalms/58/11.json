@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 58,
+  "translation": "I drejti do të gëzohet kur ⟨të⟩ shohë hakmarrjen; këmbët e tij do t'i lajë në gjakun e të pabesit.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "do të gëzohet"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i drejti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "⟨të⟩ shohë"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hakmarrjen"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "këmbët e tij"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "do t'i lajë"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "në gjakun"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "të të pabesit"
+    }
+  ],
+  "timestamp": "2026-09-27T17:04:03.379255344Z",
+  "model": "glm-5.3"
+}

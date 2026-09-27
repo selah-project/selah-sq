@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 36,
+  "translation": "Dhjetë kubitë ishte gjatësia e ⟨të⟩ dërrasës, dhe një kubit e gjysmë gjerësia e ⟨të⟩ një dërrase.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dhjetë"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kubitë"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gjatësia"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "e dërrasës"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhe një kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e gjysmë"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "e kubitit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "gjerësia"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "e dërrasës"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e një"
+    }
+  ],
+  "timestamp": "2026-09-27T14:16:30.018354981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 67,
+  "translation": "Le të gëzohen e të këndojnë me gaz kombet, se ti i gjykon popujt me drejtësi dhe kombet në tokë i udhëheq. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Le të gëzohen"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "e të këndojnë me gaz"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ti i gjykon"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popujt"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "me drejtësi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dhe kombet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "i udhëheq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:27.562862907Z",
+  "model": "glm-5.3"
+}

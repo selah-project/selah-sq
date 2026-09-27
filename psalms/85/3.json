@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 85,
+  "translation": "More mbi ⟨veten⟩ paudhësinë e popullit ⟨tënd⟩, i mbulove të gjitha mëkatet e tyre. Selah",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "More mbi ⟨veten⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "paudhësinë"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e popullit ⟨tënd⟩"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "i mbulove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "të gjitha"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mëkatet e tyre"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:09.131912552Z",
+  "model": "glm-5.3"
+}

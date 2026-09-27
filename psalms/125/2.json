@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 125,
+  "translation": "Jerusalem — malet ⟨janë⟩ rreth e rrotull ⟨atij⟩, dhe Jahve ⟨është⟩ rreth e rrotull popullit të tij, nga tani e deri në jetë.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "malet"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨atij⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dhe Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rreth e rrotull"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "popullit të tij"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nga tani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e deri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "në jetë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:16:07.499803484Z",
+  "model": "glm-5.3"
+}

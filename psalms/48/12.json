@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 48,
+  "translation": "Gëzohu, mal i Sionit; ngazëllohuni, bijat e Judës, për shkak të gjykimeve të tua.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "gëzohu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "i Sionit"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ngazëllohuni"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bijat e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "למען",
+      "gloss": "për shkak të"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "gjykimeve të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:02:33.286471444Z",
+  "model": "glm-5.3"
+}

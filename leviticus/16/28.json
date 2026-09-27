@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Dhe ai që i djeg ⟨את⟩ ato do të lajë rrobat e tij dhe do të lajë ⟨את⟩ trupin e tij në ujë, dhe pas kësaj do të hyjë në kamp.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "dhe ai që djeg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ato",
+      "marks": "ato"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "do të lajë"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "robat e tij"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhe do të lajë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupin e tij"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupin e tij"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujë"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dhe pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kësaj"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "do të hyjë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampin"
+    }
+  ],
+  "timestamp": "2026-09-27T18:19:32.127155084Z",
+  "model": "glm-5.3"
+}

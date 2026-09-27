@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "A nuk kam bërë, siç bëra ndaj Shomronit dhe të pavlerave të saj, po kështu do të bëj ndaj Jerusalemit dhe idhujve të saj?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siç"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bëra"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "ndaj Shomronit"
+    },
+    {
+      "surface": "ו לאליליה",
+      "gloss": "dhe të pavlerave të saj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "do të bëj"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ndaj Jerusalemit"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "dhe idhujve të saj"
+    }
+  ],
+  "timestamp": "2026-09-27T15:51:59.096738412Z",
+  "model": "glm-5.3"
+}

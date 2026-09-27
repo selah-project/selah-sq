@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 8,
+  "translation": "Dhe atë që mbetet nga mishi dhe nga buka, do ta djegni në zjarr.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "dhe atë që mbetet"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "nga mishi"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "dhe nga buka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "do ta djegni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:25.249365656Z",
+  "model": "glm-5.3"
+}

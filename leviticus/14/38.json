@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "dhe prifti do të dalë nga shtëpia deri te hyrja e shtëpisë, dhe do të mbyllë ⟨את⟩ shtëpinë për shtatë ditë.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dhe do të dalë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deri te"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hyrja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "e shtëpisë"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dhe do të mbyllë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shtëpinë"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "shtëpinë"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "për shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:22:12.190419101Z",
+  "model": "glm-5.3"
+}

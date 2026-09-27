@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "Jam ngjitur në dëshmitë e tua, o Jahve; mos më bëj të turpërohem.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "jam ngjitur"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "në dëshmitë e tua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "më bëj të turpërohem"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:41.259016186Z",
+  "model": "glm-5.3"
+}

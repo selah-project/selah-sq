@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 5,
+  "translation": "Dhe ata u ndeshën me ⟨את⟩ Moisin dhe me ⟨את⟩ Aaronin, të ndalur për t'i dalë përballë, kur dilnin nga ⟨את⟩ faraoni.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "dhe u ndeshën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "me ⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "të ndalur"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "për t'i dalë përballë"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "kur dilnin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nga ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraoni"
+    }
+  ],
+  "timestamp": "2026-09-27T14:04:41.071357102Z",
+  "model": "glm-5.3"
+}

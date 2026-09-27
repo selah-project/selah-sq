@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 7,
+  "translation": "Dhe i heqën bijtë e Izraelit ⟨את⟩ Baalët dhe ⟨את⟩ Ashtarotët, dhe i shërbyen ⟨את⟩ Jahvesë vetëm atij.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "i heqën"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijtë e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalët"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalët"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Ashtarotët"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarotët"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i shërbyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesë"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vetëm atij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:12:20.319876346Z",
+  "model": "glm-5.3"
+}

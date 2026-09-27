@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "dhe i hodhën ⟨את⟩ perënditë e tyre në zjarr, sepse nuk ishin perëndi, por vepër e duarve të njeriut, dru e gur; dhe i shkatërruan ato.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dhe i hodhën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perënditë e tyre"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "perënditë e tyre"
+    },
+    {
+      "surface": "באש",
+      "gloss": "në zjarr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "perëndi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ishin ato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(vetëm)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "vepër"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "e duarve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "të njeriut"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dru"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhe gur"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "dhe i shkatërruan ato"
+    }
+  ],
+  "timestamp": "2026-09-27T15:47:34.771826206Z",
+  "model": "glm-5.3"
+}

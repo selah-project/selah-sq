@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 26,
+  "translation": "Dhe doli dhe luftoi kundër filisteve, dhe shkatërroi ⟨את⟩ murin e Gatit, dhe ⟨את⟩ murin e Jabnesë, dhe ⟨את⟩ murin e Ashdodit; dhe ndërtoi qytete në ⟨⟩ Ashdod dhe në tokën e filisteve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "doli"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "luftoi"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "kundër filisteve"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "shkatërroi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murin e Gatit"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "murin e"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murin e Jabnesë"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "murin e"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jabnesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murin e Ashdodit"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "murin e"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodit"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ndërtoi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "qytete"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "në Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "dhe në filiste"
+    }
+  ],
+  "timestamp": "2026-09-27T18:14:36.339106533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 19,
+  "translation": "Ai që e shkatërron ⟨atë⟩ babanë dhe i largon ⟨atë⟩ nënën, ⟨është⟩ një bir që sjell turp dhe fyerje.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "Ai që shkatërron"
+    },
+    {
+      "surface": "אב",
+      "gloss": "babanë"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "i largon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nënën"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "që sjell turp"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "dhe fyerje"
+    }
+  ],
+  "timestamp": "2026-09-27T17:23:37.926430866Z",
+  "model": "glm-5.3"
+}

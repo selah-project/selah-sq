@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 38,
+  "translation": "Dhe Jahveu iu përgjigj Ijit ⟨את⟩ nga rrëmbimi i erës dhe tha:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Dhe … iu përgjigj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iji"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "rrëmbimi i erës"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    }
+  ],
+  "timestamp": "2026-09-27T17:36:39.874571502Z",
+  "model": "glm-5.3"
+}

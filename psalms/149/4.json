@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 149,
+  "translation": "Sepse Jahve kënaqet në popullin e tij; i zbukuron të përulurit me shpëtim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sepse"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "kënaqet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "në popullin e tij"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "i zbukuron"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "të përulurit"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "me shpëtim"
+    }
+  ],
+  "timestamp": "2026-09-27T17:18:14.378556552Z",
+  "model": "glm-5.3"
+}

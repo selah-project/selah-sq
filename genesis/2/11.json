@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Emri i të parit ⟨is⟩ Pishon: ai është ai që rrethon ⟨את⟩ gjithë ⟨të⟩ vendit të Havilah-s, ku ⟨atje⟩ ⟨is⟩ arja.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Emri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "i të parit"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ai është ai"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "që rrethon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjithë vendit të Havilah-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vendit"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "të Havilah-s"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨atje⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arja"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:53.977880162Z",
+  "model": "glm-5.3"
+}

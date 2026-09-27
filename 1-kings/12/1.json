@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Dhe Roboami shkoi në Shekem, sepse në Shekem kishte ardhur gjithë Izraeli për ta bërë ⟨atë⟩ mbret.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dhe shkoi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Roboami"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "në Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepse"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "në Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kishte ardhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "për ta bërë mbret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "atë (Roboamin)"
+    }
+  ],
+  "timestamp": "2026-09-27T15:35:49.221185970Z",
+  "model": "glm-5.3"
+}

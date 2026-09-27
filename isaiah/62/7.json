@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "sq",
+  "chapter": 62,
+  "translation": "dhe mos i jepni atij pushim, derisa të vendosë ⟨lit.⟩ dhe derisa të bëjë ⟨את⟩ Jerusalem-in një lavdëri në tokë.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dhe mos"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "i jepni"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "pushim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "derisa"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "të vendosë"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhe derisa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "të bëjë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem-in"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "një lavdëri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T16:05:31.667982680Z",
+  "model": "glm-5.3"
+}

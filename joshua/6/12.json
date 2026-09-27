@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Jozue u ngrit herët në mëngjes, dhe priftërinjtë ngritën ⟨את⟩ arkën e Jahves.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "dhe u ngrit herët"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dhe ngritën"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priftërinjtë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkën"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "e Jahves"
+    }
+  ],
+  "timestamp": "2026-09-27T14:54:51.731442210Z",
+  "model": "glm-5.3"
+}

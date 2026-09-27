@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Dhe Jahve i goditi kushitët ⟨את⟩ para Asës dhe para Judës, dhe kushitët ikën.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "i goditi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kushitët"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kushitët"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asës"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dhe para"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judës"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dhe ikën"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kushitët"
+    }
+  ],
+  "timestamp": "2026-09-27T18:11:51.084350833Z",
+  "model": "glm-5.3"
+}

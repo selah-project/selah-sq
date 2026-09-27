@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "sq",
+  "chapter": 12,
+  "translation": "Në dorën e të cilit ⟨është⟩ shpirti i çdo gjalleje dhe fryma e çdo mishi të njeriut.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i të cilit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shpirti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gjalleje"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dhe fryma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "çdo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mishi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "të njeriut"
+    }
+  ],
+  "timestamp": "2026-09-27T17:28:57.065271971Z",
+  "model": "glm-5.3"
+}

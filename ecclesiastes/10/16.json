@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "sq",
+  "chapter": 10,
+  "translation": "Mjerë ti, o tokë, kur mbreti yt ⟨është⟩ djalë i ri dhe krerët e tu hanë në mëngjes!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Mjerë"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o tokë"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kur mbreti yt"
+    },
+    {
+      "surface": "נער",
+      "gloss": "djalë i ri"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "dhe krerët e tu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "në mëngjes"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hanë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:43:22.615686641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 75,
+  "translation": "Ueva mendjemëdhenjve: Mos u sillni me mendjemadhësi, dhe të ligjve: Mos e ngrini bririn.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ueva"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "mendjemëdhenjve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "u sillni me mendjemadhësi"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "dhe të ligjve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngrini"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "bririn"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:21.882202596Z",
+  "model": "glm-5.3"
+}

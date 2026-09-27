@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 16,
+  "translation": "Le të shumohen dhimbjet e tyre ⟨që nxituan⟩ pas ⟨tjetërgjitëve⟩; ⟨nuk⟩ do t'i derdh flijimet e tyre të gjakut dhe ⟨nuk⟩ do t'i ngre emrat e tyre ⟨את⟩ mbi buzët e mia.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Le të shumohen"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "dhimbjet e tyre"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "që nxituan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨nuk⟩ (i parë)"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "do t'i derdh"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "flijimet e tyre të derdhura"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "të gjakut"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "dhe ⟨nuk⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "do t'i ngre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emrat e tyre"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "emrat e tyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzët e mia"
+    }
+  ],
+  "timestamp": "2026-09-27T16:57:09.325335110Z",
+  "model": "glm-5.3"
+}

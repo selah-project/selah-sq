@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 21,
+  "translation": "Kush godet ⟨atë⟩ të atin e vet ose ⟨atë⟩ të ëmën e vet, me vdekje do të dënohet.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Kush godet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "të atin e vet"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ose të ëmën e vet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "me vdekje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "do të dënohet me vdekje"
+    }
+  ],
+  "timestamp": "2026-09-27T14:10:50.102153419Z",
+  "model": "glm-5.3"
+}

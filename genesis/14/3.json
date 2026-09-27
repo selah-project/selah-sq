@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 14,
+  "translation": "Të gjithë këta u bashkuan në Luginën e Sidimit — ajo ⟨është⟩ Deti i Kripës.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "të gjithë"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "këta"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "u bashkuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "në"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "Luginës"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "të Sidimit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Deti"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "i Kripës"
+    }
+  ],
+  "timestamp": "2026-09-27T13:50:04.983572243Z",
+  "model": "glm-5.3"
+}

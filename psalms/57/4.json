@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 57,
+  "translation": "⟨Ai⟩ do të dërgojë nga qielli dhe do të më shpëtojë — ⟨nga⟩ ai që përbuz, që gëlltit ⟨më⟩. Selah. Elohim do të dërgojë hesed-in e tij dhe të vërtetën e tij.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "do të dërgojë"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "nga qielli"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "dhe do të më shpëtojë"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "përbuz"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "që gëlltit ⟨më⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "do të dërgojë"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-in e tij"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "dhe të vërtetën e tij"
+    }
+  ],
+  "timestamp": "2026-09-27T18:31:09.046982209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe unë ju ngrita ⟨את⟩ ju nga toka e Egjiptit dhe ju çova ⟨את⟩ ju në shkretëtirë dyzet vjet, për të zotëruar ⟨את⟩ tokën e Amoritit.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "dhe unë"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ju ngrita lart"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nga toka e Egjiptit)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Egjiptit"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "dhe ju çova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ju (në shkretëtirë)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "në shkretëtirë"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "dyzet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vjet"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "për të zotëruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokën"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tokën"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "e Amoritit"
+    }
+  ],
+  "timestamp": "2026-09-27T16:44:59.541634462Z",
+  "model": "glm-5.3"
+}

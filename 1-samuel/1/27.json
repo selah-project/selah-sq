@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "sq",
+  "chapter": 1,
+  "translation": "Për ⟨këtë⟩ të riun u luta, dhe Jahve më dha ⟨את⟩ lutjen time që kërkova prej tij.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "të riun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "u luta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "më"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lutjen time"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "lutjen time"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kërkova"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "prej tij"
+    }
+  ],
+  "timestamp": "2026-09-27T15:10:48.466912092Z",
+  "model": "glm-5.3"
+}

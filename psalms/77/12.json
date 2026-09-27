@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 77,
+  "translation": "Do të kujtoj veprat e Jah-ut; po, do të kujtoj çudira të tua të lashta.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "do të kujtoj"
+    },
+    {
+      "surface": "מַעַלְלֵי",
+      "gloss": "veprat e"
+    },
+    {
+      "surface": "יָהּ",
+      "gloss": "Jah-ut"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אֶזְכְּרָה",
+      "gloss": "do të kujtoj"
+    },
+    {
+      "surface": "מִקֶּדֶם",
+      "gloss": "të lashta"
+    },
+    {
+      "surface": "פִלְאֶךָ",
+      "gloss": "çudira të tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:07:00.006961970Z",
+  "model": "glm-5.3"
+}

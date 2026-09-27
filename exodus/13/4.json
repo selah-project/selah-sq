@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Sot ⟨ju⟩ po dilni, në muajin e Abibit.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Sot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ju"
+    },
+    {
+      "surface": "ייצאים",
+      "gloss": "po dilni"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "në muajin"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "të Abibit"
+    }
+  ],
+  "timestamp": "2026-09-27T14:07:56.174789529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Nuk dëshiron i pamëti ⟨të ketë pjesë⟩ në të kuptuarit, por vetëm në zbulimin e zemrës së tij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "dëshiron"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "i pamëti"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "në të kuptuarit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vetëm"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "në zbulimin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "e zemrës së tij"
+    }
+  ],
+  "timestamp": "2026-09-27T17:22:53.908266522Z",
+  "model": "glm-5.3"
+}

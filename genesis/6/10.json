@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "Dhe Noeu lindi tre djem: ⟨את⟩ Semin, ⟨את⟩ Hamin dhe ⟨את⟩ Jafetin.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dhe lindi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noeu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Semin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Semin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamin"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Jafetin"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafetin"
+    }
+  ],
+  "timestamp": "2026-09-27T13:48:09.200183274Z",
+  "model": "glm-5.3"
+}

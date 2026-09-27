@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "dhe ai do të rruhet, por ⟨את⟩ netekun nuk do ta rruajë; dhe prifti do ta mbyllë ⟨את⟩ netekun për shtatë ditë, për herë të dytë.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "dhe ai do të rruhet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netekun"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netekun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "do ta rruajë"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dhe do ta mbyllë"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "netekun"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netekun"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "për shtatë"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "për herë të dytë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:21:57.684601295Z",
+  "model": "glm-5.3"
+}

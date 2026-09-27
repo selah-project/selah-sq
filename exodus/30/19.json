@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 30,
+  "translation": "Dhe Aaroni dhe bijtë e tij do të lajnë prej tij ⟨את⟩ duart e tyre dhe ⟨את⟩ këmbët e tyre.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dhe do të lajnë"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dhe bijtë e tij"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "prej tij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duart e tyre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "duart e tyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "këmbët e tyre"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "këmbët e tyre"
+    }
+  ],
+  "timestamp": "2026-09-27T14:13:01.932775107Z",
+  "model": "glm-5.3"
+}

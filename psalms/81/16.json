@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 81,
+  "translation": "Ata që urrejnë Jahven do t'i përuleshin Atij me nënshtrim të rrejtur, dhe koha e tyre do të zgjaste për gjithnjë.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ata që urrejnë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יכחששו",
+      "gloss": "do t'i përuleshin me nënshtrim të rrejtur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Atij"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe do të ishte"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "koha e tyre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "për gjithnjë"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:25.929832774Z",
+  "model": "glm-5.3"
+}

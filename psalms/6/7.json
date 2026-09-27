@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 6,
+  "translation": "E lodhur ⟨jam⟩ nga psherëtimat e mia; gjithë natën e lag shtratin tim me lotët e mia, dyshekun tim e shkrinj.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "E lodhur ⟨jam⟩"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "nga psherëtimat e mia"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "e lag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gjithë"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naten"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "shtratin tim"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "me lotët e mia"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "dyshekun tim"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "e shkrinj"
+    }
+  ],
+  "timestamp": "2026-09-27T16:55:27.766138144Z",
+  "model": "glm-5.3"
+}

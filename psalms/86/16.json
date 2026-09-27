@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 86,
+  "translation": "Kthehu kah unë dhe më dhuro falje; jep forcën tënde shërbëtorit tënd dhe shpëto birin e shërbëtores sate.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Kthehu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kah unë"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dhe më dhuro falje"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "jep"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "forcën tënde"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "shërbëtorit tënd"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "dhe shpëto"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "birin e"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "shërbëtores sate"
+    }
+  ],
+  "timestamp": "2026-09-27T17:09:35.779189760Z",
+  "model": "glm-5.3"
+}

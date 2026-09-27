@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 119,
+  "translation": "I bekuar ⟨je⟩ ti, Jahve; më mëso statutet e tua.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i bekuar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "më mëso"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutet e tua"
+    }
+  ],
+  "timestamp": "2026-09-27T17:14:30.391814760Z",
+  "model": "glm-5.3"
+}

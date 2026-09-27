@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 2,
+  "translation": "Dhe Jahve Elohim e formoi ⟨את⟩ njeriun — pluhur nga dheu — dhe i fryu në hundët e tij frymë jete, dhe njeriu u bë shpirt i gjallë.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "dhe e formoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeriun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pluhur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dheu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dhe i fryu"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "në hundët e tij"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "frymë"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jeta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dhe u bë"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "njeriu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "shpirt"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "i gjallë"
+    }
+  ],
+  "timestamp": "2026-09-27T13:46:55.383640962Z",
+  "model": "glm-5.3"
+}

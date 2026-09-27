@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 25,
+  "translation": " dhe ushtria e kasditëve ndoqi mbretin dhe e arriti ⟨atë⟩ në fushat e Jerikos; dhe gjithë ushtria e tij u shpërndua nga ⟨ai⟩.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ndoqi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ushtria"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "e kasditëve"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "dhe e arriti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mbretin (e arriti atë)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "në fushat"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "të Jerikos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhe gjithë"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ushtria e tij"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "u shpërndau"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "nga ⟨ai⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T15:49:11.394331478Z",
+  "model": "glm-5.3"
+}

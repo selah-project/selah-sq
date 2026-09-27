@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "sq",
+  "chapter": 24,
+  "translation": "Dhe ai tha: Unë ⟨jam⟩ shërbetori i Abrahamit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhe tha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shërbetori"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "i Abrahamit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "unë ⟨jam⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T13:53:18.108852041Z",
+  "model": "glm-5.3"
+}

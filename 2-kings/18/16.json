@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 18,
+  "translation": "Në atë kohë Hizkia preu ⟨את⟩ dyert e pragut të tempullit të Jahvesë dhe ⟨את⟩ shtyllat që Hizkia, mbret i Judës, i kishte mbuluar me fletë metalike, dhe ia dha mbretit të Ashurit.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "në kohën"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "atë"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "preu\/shqeu"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyert e tempullit"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dyert"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "të tempullit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "të Jahvesë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shtyllat"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "shtyllat\/kornizat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "që"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "i kishte mbuluar me fletë metalike"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mbret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Judës"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "dhe i dha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mbretit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "të Ashurit"
+    }
+  ],
+  "timestamp": "2026-09-27T15:46:13.029096548Z",
+  "model": "glm-5.3"
+}

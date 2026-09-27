@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "sq",
+  "chapter": 20,
+  "translation": "Mos të bësh ⟨për vete⟩ idhull të gdhendur, as ndonjë figurë të asaj që ⟨gjendet⟩ në qiej lart, as të asaj që ⟨gjendet⟩ në tokë poshtë, as të asaj që ⟨gjendet⟩ në ujëra nën tokë.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mos"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "të bësh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨për vete⟩"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "idhull të gdhendur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "as ndonjë"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "figurë"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "të asaj që"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "në qiej"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "lart"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "as të asaj që"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në tokë"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "poshtë"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "as të asaj që"
+    },
+    {
+      "surface": "במים",
+      "gloss": "në ujëra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nën"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tokë"
+    }
+  ],
+  "timestamp": "2026-09-27T14:09:17.648869416Z",
+  "model": "glm-5.3"
+}

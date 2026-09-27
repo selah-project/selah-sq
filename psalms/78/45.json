@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 78,
+  "translation": "Dërgoi mbi ta tufa mushkonjash dhe i hëngën ⟨ato⟩, dhe bretkosat, dhe i shkatërroi ⟨ato⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Dërgoi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mbi ta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tufa mushkonjash"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "dhe i hëngën"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "dhe bretkosat"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "dhe i shkatërroi"
+    }
+  ],
+  "timestamp": "2026-09-27T17:08:02.426406227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "sq",
+  "chapter": 13,
+  "translation": "Dhe Eliseu vdiq dhe e varrosën. Dhe çetat e Moabit hynin në ⟨të⟩ vendin kur vinte viti.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dhe vdiq"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dhe e varrosën"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "dhe çetat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "e Moabit"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hynin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "në vendin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kur vinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "viti"
+    }
+  ],
+  "timestamp": "2026-09-27T18:25:42.592766504Z",
+  "model": "glm-5.3"
+}

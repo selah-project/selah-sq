@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "sq",
+  "chapter": 71,
+  "translation": "Mos më hidh larg në kohën e pleqërisë; kur mbaron fuqia ime, mos më lër",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "më hidh larg"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "në kohën e"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "pleqërisë"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kur mbaron"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "fuqia ime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mos"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "më lër"
+    }
+  ],
+  "timestamp": "2026-09-27T17:05:52.044853899Z",
+  "model": "glm-5.3"
+}
