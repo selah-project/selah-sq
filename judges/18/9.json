@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Dhe thanë: Ngrihu, e le të ngjitemi kundër tyre, sepse pamë ⟨את⟩ vendin dhe ja, është shumë i mirë; e ju po heshtni — mos u bëni të plogët për të shkuar, për të hyrë, ⟨את⟩ për ta zotëruar ⟨את⟩ vendin!",
+  "translation": "Dhe thanë: Ngrihu, dhe le të ngjitemi kundër tyre, sepse pamë ⟨את⟩ tokën, dhe ja, ⟨është⟩ shumë e mirë; dhe ju po heshtni! Mos u bëni të përtacë për të shkuar, për të hyrë, për të zotëruar ⟨את⟩ tokën.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Dhe thanë"
+      "gloss": "dhe thanë"
     },
     {
       "surface": "קומה",
-      "gloss": "Ngrihu"
+      "gloss": "ngrihu"
     },
     {
       "surface": "ונעלה",
-      "gloss": "e le të ngjitemi"
+      "gloss": "dhe le të ngjitemi"
     },
     {
       "surface": "עליהם",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vendin"
+      "marks": "tokën"
     },
     {
       "surface": "הארץ",
-      "gloss": "vendin"
+      "gloss": "tokën"
     },
     {
       "surface": "והנה",
@@ -46,19 +46,15 @@
     },
     {
       "surface": "טובה",
-      "gloss": "i mirë"
+      "gloss": "e mirë"
     },
     {
       "surface": "מאד",
       "gloss": "shumë"
     },
     {
-      "surface": "ויאמרו",
-      "gloss": ""
-    },
-    {
       "surface": "ואתם",
-      "gloss": "e ju"
+      "gloss": "dhe ju"
     },
     {
       "surface": "מחשים",
@@ -70,7 +66,7 @@
     },
     {
       "surface": "תעצלו",
-      "gloss": "u bëni të plogët"
+      "gloss": "u bëni të përtacë"
     },
     {
       "surface": "ללכת",
@@ -82,18 +78,18 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "⟨את⟩ për ta zotëruar"
+      "gloss": "për të zotëruar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vendin"
+      "marks": "tokën"
     },
     {
       "surface": "הארץ",
-      "gloss": "vendin"
+      "gloss": "tokën"
     }
   ],
-  "timestamp": "2026-09-27T15:08:47.495866931Z",
+  "timestamp": "2026-10-01T05:27:41.183645759Z",
   "model": "glm-5.3"
 }

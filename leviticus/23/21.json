@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Dhe do të shpallni në vetë ditën e këtij <d>⟨të njëjtit ditë<\/d⟩ një mikra të shenjtë do të jetë për ju; çdo punë shërbimi të mos bëni — statut i përgjithshëm në të gjitha banimet tuaja, për brezat tuaj.",
+  "translation": "Dhe do ta shpallni në vetë ditën e këtë ⟨një⟩ tubim i shenjtë ⟨do të⟩ jetë për ju; çdo punë shërbimi të mos bëni — statut i përjetshëm në të gjitha banimet tuaja, për brezat tuaj.",
   "tokens": [
     {
       "surface": "וקראתם",
-      "gloss": "do të shpallni"
+      "gloss": "dhe do ta shpallni"
     },
     {
       "surface": "בעצם",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "היום",
-      "gloss": "ditës"
+      "gloss": "ditën"
     },
     {
       "surface": "הזה",
-      "gloss": "të këtij"
+      "gloss": "e këtë"
     },
     {
       "surface": "מקרא",
-      "gloss": "mikra (thirrje e shenjtë)"
+      "gloss": "tubim"
     },
     {
       "surface": "קדש",
-      "gloss": "e shenjtë"
+      "gloss": "i shenjtë"
     },
     {
       "surface": "יהיה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "עולם",
-      "gloss": "i përgjithshëm"
+      "gloss": "i përjetshëm"
     },
     {
       "surface": "בכל",
@@ -80,6 +80,6 @@
       "gloss": "për brezat tuaj"
     }
   ],
-  "timestamp": "2026-09-27T14:26:25.437079808Z",
+  "timestamp": "2026-10-01T05:26:58.513444445Z",
   "model": "glm-5.3"
 }

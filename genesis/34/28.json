@@ -5,29 +5,25 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 34,
-  "translation": "⟨את⟩ deletë e tyre, ⟨ואת⟩ ⟨את⟩ gjedhëtë e tyre, ⟨ואת⟩ ⟨את⟩ gomarët e tyre, ⟨ואת⟩ gjithçka që ishte ⟨את⟩ në qytet dhe ⟨ואת⟩ gjithçka që ishte në fushë, i morën.",
+  "translation": "⟨את⟩ tufat e tyre të deleve, ⟨ואת⟩ bagëtinë e tyre të madhe, ⟨ואת⟩ gomarët e tyre, dhe ⟨את⟩ çdo gjë që ishte në qytet, dhe ⟨את⟩ çdo gjë që ishte në fushë, i morën.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "deletë e tyre"
+      "marks": "tufat e tyre të deleve"
     },
     {
       "surface": "צאנם",
-      "gloss": "deletë e tyre"
-    },
-    {
-      "surface": "ויבזו-placeholder",
-      "gloss": "⟨את⟩"
+      "gloss": "tufat e tyre të deleve"
     },
     {
       "surface": "ואת",
       "gloss": "⟨ואת⟩",
-      "marks": "gjedhëtë e tyre"
+      "marks": "bagëtinë e tyre të madhe"
     },
     {
       "surface": "בקרם",
-      "gloss": "⟨את⟩ gjedhëtë e tyre"
+      "gloss": "bagëtinë e tyre të madhe"
     },
     {
       "surface": "ואת",
@@ -36,29 +32,29 @@
     },
     {
       "surface": "חמריהם",
-      "gloss": "⟨את⟩ gomarët e tyre"
+      "gloss": "gomarët e tyre"
     },
     {
       "surface": "ואת",
       "gloss": "⟨ואת⟩",
-      "marks": "gjithçka që ishte në qytet"
+      "marks": "çdo gjë që ishte në qytet"
     },
     {
       "surface": "אשר",
-      "gloss": "gjithçka që"
+      "gloss": "që"
     },
     {
       "surface": "בעיר",
-      "gloss": "⟨את⟩ në qytet"
+      "gloss": "në qytet"
     },
     {
       "surface": "ואת",
       "gloss": "⟨ואת⟩",
-      "marks": "gjithçka që ishte në fushë"
+      "marks": "çdo gjë që ishte në fushë"
     },
     {
       "surface": "אשר",
-      "gloss": "gjithçka që"
+      "gloss": "që"
     },
     {
       "surface": "בשדה",
@@ -69,6 +65,6 @@
       "gloss": "i morën"
     }
   ],
-  "timestamp": "2026-09-27T18:18:48.814466293Z",
+  "timestamp": "2026-10-01T05:26:55.580393197Z",
   "model": "glm-5.3"
 }

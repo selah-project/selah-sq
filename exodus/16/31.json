@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 16,
-  "translation": "Dhe shtëpia e Izraelit e quajti ⟨את⟩ emrin e tij Man; dhe ai ishte si farë korianderi, i bardhë, dhe shija e tij si biskotë ⟨me⟩ mjaltë.",
+  "translation": "Dhe shtëpia e Izraelit e quajti ⟨את⟩ emrin e tij Man; dhe ai ishte si fara e koriandrit, i bardhë, dhe shija e tij ishte si [[lokme]] me mjedër.",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -34,37 +34,33 @@
     },
     {
       "surface": "והוא",
-      "gloss": "dhe ai ishte"
+      "gloss": "dhe ai"
     },
     {
       "surface": "כזרע",
-      "gloss": "si farë"
+      "gloss": "si fara"
     },
     {
       "surface": "גד",
-      "gloss": "korianderi"
+      "gloss": "e koriandrit"
     },
     {
       "surface": "לבן",
       "gloss": "i bardhë"
     },
     {
-      "surface": "ויטעמו",
+      "surface": "וטעמו",
       "gloss": "dhe shija e tij"
     },
     {
-      "surface": "וטעמו",
-      "gloss": "shija e tij"
-    },
-    {
       "surface": "כצפיחת",
-      "gloss": "si biskotë"
+      "gloss": "si lokme"
     },
     {
       "surface": "בדבש",
-      "gloss": "me mjaltë"
+      "gloss": "me mjedër"
     }
   ],
-  "timestamp": "2026-09-27T14:08:58.218474879Z",
+  "timestamp": "2026-10-01T05:26:35.783537901Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sq",
   "chapter": 17,
-  "translation": "dhe nuk e ka sjellë ⟨את⟩ te hyrja e Çadrës së Takimit, për të paraqitur një flijim për Jahve përballë Mishkanit të Jahves — atij njeriu do t'i llogaritet gjak; ai ka derdhur gjak; dhe ai njeri do të pritet nga mesi i popullit të tij.",
+  "translation": "dhe ⟨nuk⟩ e ka sjellë ⟨atë⟩ te hyrja e Çadrës së Takimit, për të sjellë një flijim për Jahve përpara Mishkanit të Jahves — gjak do t'i llogaritet atij njeriu: ka derdhur gjak; dhe ai njeriu do të pritet nga mesi i popullit të tij.",
   "tokens": [
     {
       "surface": "ואל",
@@ -13,32 +13,27 @@
     },
     {
       "surface": "פתח",
-      "gloss": "hyrja e"
+      "gloss": "hyrja"
     },
     {
       "surface": "אהל",
-      "gloss": "Çadrës së"
+      "gloss": "Çadrës"
     },
     {
       "surface": "מועד",
-      "gloss": "Takimit"
+      "gloss": "së Takimit"
     },
     {
       "surface": "לא",
-      "gloss": "nuk"
+      "gloss": "⟨nuk⟩"
     },
     {
       "surface": "הביאו",
-      "gloss": "e ka sjellë"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "atë (kafshën e therur)"
+      "gloss": "e ka sjellë ⟨atë⟩"
     },
     {
       "surface": "להקריב",
-      "gloss": "për të paraqitur"
+      "gloss": "për të sjellë"
     },
     {
       "surface": "קרבן",
@@ -50,7 +45,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "përballë"
+      "gloss": "përpara"
     },
     {
       "surface": "משכן",
@@ -74,7 +69,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "—"
+      "gloss": "atij"
     },
     {
       "surface": "דם",
@@ -86,25 +81,25 @@
     },
     {
       "surface": "ונכרת",
-      "gloss": "do të pritet"
+      "gloss": "dhe do të pritet"
     },
     {
       "surface": "האיש",
-      "gloss": "ai njeri"
+      "gloss": "ai njeriu"
     },
     {
       "surface": "ההוא",
-      "gloss": "—"
+      "gloss": "ai"
     },
     {
       "surface": "מקרב",
-      "gloss": "nga mesi i"
+      "gloss": "nga mesi"
     },
     {
       "surface": "עמו",
-      "gloss": "popullit të tij"
+      "gloss": "i popullit të tij"
     }
   ],
-  "timestamp": "2026-09-27T14:24:03.233451024Z",
+  "timestamp": "2026-10-01T05:26:58.585283706Z",
   "model": "glm-5.3"
 }

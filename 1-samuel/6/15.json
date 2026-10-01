@@ -5,20 +5,20 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe levitët zbritën ⟨את⟩ arkën e Jahvesë dhe ⟨את⟩ arkëzën që ⟨ishte⟩ ⟨את⟩ me të, në të cilën ⟨ishte⟩ enët e arta, dhe i vunë mbi gurin e madh; dhe burrat e Beth-Shemesh-it ngjitën flijime të djegura dhe flijuan flijime në atë ditë për Jahve.",
+  "translation": "Dhe levitët e zbritën ⟨את⟩ arkën e Jahvesë dhe ⟨את⟩ arkëzën që ⟨ishte⟩ me të, në të cilën ishin enët e arta, dhe i vunë mbi gurin e madh; dhe burrat e Beth-Shemeshit ofruan flijime të djegura dhe flijuan flijime në atë ditë për Jahvenë.",
   "tokens": [
     {
       "surface": "והלוים",
-      "gloss": "dhe levitët"
+      "gloss": "Dhe levitët"
     },
     {
       "surface": "הורידו",
-      "gloss": "zbritën"
+      "gloss": "e zbritën"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arkën e Jahvesë"
+      "marks": "arkën"
     },
     {
       "surface": "ארון",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ me të"
+      "gloss": "me ⟨את⟩ të"
     },
     {
       "surface": "אשר",
@@ -78,12 +78,20 @@
       "gloss": "e madh"
     },
     {
-      "surface": "ואנשי בית שמש",
-      "gloss": "dhe burrat e Beth-Shemesh-it"
+      "surface": "ואנשי",
+      "gloss": "dhe burrat e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshit"
     },
     {
       "surface": "העלו",
-      "gloss": "ngjitën"
+      "gloss": "ofruan"
     },
     {
       "surface": "עלות",
@@ -91,7 +99,7 @@
     },
     {
       "surface": "ויזבחו",
-      "gloss": "dhe flijuan"
+      "gloss": "dhe fliuan"
     },
     {
       "surface": "זבחים",
@@ -107,9 +115,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "për Jahvenë"
     }
   ],
-  "timestamp": "2026-09-27T15:11:52.104941882Z",
+  "timestamp": "2026-10-01T05:27:28.535552306Z",
   "model": "glm-5.3"
 }

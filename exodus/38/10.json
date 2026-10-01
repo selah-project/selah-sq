@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 38,
-  "translation": "Shtyllat e tyre ishin njëzet, dhe bazat e tyre njëzet, prej bronzi; kunjat e shtyllave dhe unazat e tyre ishin prej argjendi.",
+  "translation": "Shtyllat e tyre ishin njëzet, dhe bazat e tyre njëzet, prej bronzi; uncınat e shtyllave dhe shufrat e tyre ishin prej argjendi.",
   "tokens": [
     {
       "surface": "עמודיהם",
@@ -28,18 +28,22 @@
       "gloss": "prej bronzi"
     },
     {
-      "surface": "והעמדים",
-      "gloss": "kunjat e shtyllave"
+      "surface": "ושוי",
+      "gloss": "ungullat"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "e shtyllave"
     },
     {
       "surface": "וחשקיהם",
-      "gloss": "dhe unazat e tyre"
+      "gloss": "dhe shufrat e tyre"
     },
     {
       "surface": "כסף",
-      "gloss": "prej argjendi"
+      "gloss": "argjend"
     }
   ],
-  "timestamp": "2026-09-27T14:16:19.670396186Z",
+  "timestamp": "2026-10-01T05:27:05.615989061Z",
   "model": "glm-5.3"
 }

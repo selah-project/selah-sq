@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Në ngushtëcinë time thirra Jahvenë, dhe drejt Elohim të timi bërtita; ⟨ai⟩ dëgjoi nga pallati i tij zërin tim, dhe britma ime përpara tij hyri në veshët e tij.",
+  "translation": "Në ngushtëcenë time do të thërras Jahve, dhe drejt Elohait tim do të bërtas; ai dëgjoi nga pallati i tij zërin tim, dhe britma ime erdhi përpara tij, në veshët e tij.",
   "tokens": [
     {
       "surface": "בצר",
-      "gloss": "në ngushtëci"
+      "gloss": "në ngushtëcenë"
     },
     {
       "surface": "לי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אקרא",
-      "gloss": "thirra"
+      "gloss": "do të thërras"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvenë"
+      "gloss": "Jahve"
     },
     {
       "surface": "ואל",
@@ -29,19 +29,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohait tim"
     },
     {
       "surface": "אשוע",
-      "gloss": "bërtita"
-    },
-    {
-      "surface": "אלהי",
-      "gloss": "të imi"
+      "gloss": "do të bërtas"
     },
     {
       "surface": "ישמע",
-      "gloss": "dëgjoi ⟨ai⟩"
+      "gloss": "dëgjoi"
     },
     {
       "surface": "מהיכלו",
@@ -61,13 +57,13 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "hyri"
+      "gloss": "erdhi"
     },
     {
       "surface": "באזניו",
       "gloss": "në veshët e tij"
     }
   ],
-  "timestamp": "2026-09-27T16:58:10.536218932Z",
+  "timestamp": "2026-10-01T05:27:19.067302277Z",
   "model": "glm-5.3"
 }

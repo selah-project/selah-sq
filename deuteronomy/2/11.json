@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 2,
-  "translation": "Refaimët llogatiten edhe ata si Anakët, dhe Moabitët i quajnë Emitë.",
+  "translation": "Edhe Refaimët llogariteshin si Anakimët; dhe Moabitët i quanin ata Emimë.",
   "tokens": [
     {
       "surface": "רפאים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יחשבו",
-      "gloss": "llogatiten"
+      "gloss": "llogariteshin"
     },
     {
       "surface": "אף",
@@ -25,29 +25,25 @@
     },
     {
       "surface": "כענקים",
-      "gloss": "si Anakët"
+      "gloss": "si Anakimët"
     },
     {
-      "surface": "ו",
-      "gloss": "dhe"
-    },
-    {
-      "surface": "המאבים",
-      "gloss": "Moabitët"
+      "surface": "והמאבים",
+      "gloss": "dhe Moabitët"
     },
     {
       "surface": "יקראו",
-      "gloss": "i quajnë"
+      "gloss": "i quanin"
     },
     {
       "surface": "להם",
-      "gloss": "i"
+      "gloss": "ata"
     },
     {
       "surface": "אמים",
-      "gloss": "Emitë"
+      "gloss": "Emimë"
     }
   ],
-  "timestamp": "2026-09-27T14:41:47.020780550Z",
+  "timestamp": "2026-10-01T05:26:47.589337397Z",
   "model": "glm-5.3"
 }

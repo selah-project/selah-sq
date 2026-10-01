@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 13,
-  "translation": "«Kanë dalë njerëz, bij të Belialit, nga mesi yt, dhe kanë larguar ⟨את⟩ banorët e qytetit të tyre, duke thënë: Të shkojmë dhe t'i shërbejmë perëndive të tjera, të cilat nuk i njihni»",
+  "translation": "Kanë dalë njerëz, bij të Belialit, nga mesi yt, dhe kanë larguar ⟨את⟩ banorët e qytetit të tyre, duke thënë: Le të shkojmë dhe t'u shërbejmë perëndive të tjera, të cilat nuk i keni njohur.",
   "tokens": [
     {
       "surface": "יצאו",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "banorët e qytetit të tyre"
+      "marks": "banorët"
     },
     {
       "surface": "ישבי",
@@ -50,15 +50,11 @@
     },
     {
       "surface": "נלכה",
-      "gloss": "Të shkojmë"
-    },
-    {
-      "surface": "וינעבדה",
-      "gloss": ""
+      "gloss": "Le të shkojmë"
     },
     {
       "surface": "ונעבדה",
-      "gloss": "dhe t'i shërbejmë"
+      "gloss": "dhe t'u shërbejmë"
     },
     {
       "surface": "אלהים",
@@ -78,9 +74,9 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "i njihni"
+      "gloss": "i keni njohur"
     }
   ],
-  "timestamp": "2026-09-27T14:46:49.221615762Z",
+  "timestamp": "2026-10-01T05:26:54.005293766Z",
   "model": "glm-5.3"
 }

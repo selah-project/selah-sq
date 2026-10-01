@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 5,
-  "translation": "Dhe Elohim i Izraelit zgjoi frymën e Pulit, mbretit të Ashurit, dhe frymën e Tiglat-Pilneserit, mbretit të Ashurit, dhe i nxori në robëri rubenitët, gaditët dhe gjysmën e fisit të Menashet, dhe i çoi në Halah, Habor, Hara dhe lumin e Gozanit, deri në këtë ditë.",
+  "translation": "Dhe Elohim i Izraelit zgjoi Frymën e Pulit, mbretit të Asirisë, dhe ⟨את⟩ Frymën e Tiglat-Pileserit, mbretit të Asirisë, dhe i shpërnguli rubenitët, gaditët dhe gjysmën e fisit të Manasës, dhe i çoi në Halah, Habor, Hara dhe në lumin e Gozanit, deri në këtë ditë.",
   "tokens": [
     {
       "surface": "ויער",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim i"
     },
     {
       "surface": "ישראל",
-      "gloss": "i Izraelit"
+      "gloss": "Izraelit"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "frymën"
+      "marks": "Frymën"
     },
     {
       "surface": "רוח",
-      "gloss": "frymën"
+      "gloss": "Frymën"
     },
     {
       "surface": "פול",
-      "gloss": "e Pulit"
+      "gloss": "Pulit"
     },
     {
       "surface": "מלך",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "אשור",
-      "gloss": "të Ashurit"
+      "gloss": "të Asirisë"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "frymën"
+      "gloss": "dhe ⟨את⟩",
+      "marks": "Frymën"
     },
     {
       "surface": "רוח",
-      "gloss": "frymën"
+      "gloss": "Frymën"
     },
     {
       "surface": "תלגת",
-      "gloss": "e Tiglat-"
+      "gloss": "Tiglat-"
     },
     {
       "surface": "פלנסר",
-      "gloss": "Pilneserit"
+      "gloss": "Pileserit"
     },
     {
       "surface": "מלך",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "të Ashurit"
+      "gloss": "të Asirisë"
     },
     {
       "surface": "ויגלם",
-      "gloss": "dhe i nxori në robëri"
+      "gloss": "dhe i shpërnguli"
     },
     {
       "surface": "לראובני",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ולגדי",
-      "gloss": "gaditët"
+      "gloss": "dhe gaditët"
     },
     {
       "surface": "ולחצי",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "të Menashet"
+      "gloss": "të Manasës"
     },
     {
       "surface": "ויביאם",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "ונהר",
-      "gloss": "dhe lumin"
+      "gloss": "dhe në lumin"
     },
     {
       "surface": "גוזן",
@@ -120,8 +120,12 @@
     {
       "surface": "היום",
       "gloss": "këtë ditë"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "këtë"
     }
   ],
-  "timestamp": "2026-09-27T18:00:41.503662452Z",
+  "timestamp": "2026-10-01T05:27:59.790160922Z",
   "model": "glm-5.3"
 }

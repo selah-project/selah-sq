@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 26,
-  "translation": "Por sa për mua, në paqësinë time do të ec; shpengomë dhe më dhuro meshirë.",
+  "translation": "Ndërsa unë në paqen time do të ec; shpengomë dhe më dhuro\tmesh. ",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "Por sa për mua"
+      "gloss": "Ndërsa unë"
     },
     {
       "surface": "בתמי",
-      "gloss": "në paqësinë time"
+      "gloss": "në paqen time"
     },
     {
       "surface": "אלך",
@@ -24,14 +24,10 @@
       "gloss": "shpengomë"
     },
     {
-      "surface": "ו",
-      "gloss": "dhe"
-    },
-    {
-      "surface": "חנני",
-      "gloss": "më dhuro meshirë"
+      "surface": "וחנני",
+      "gloss": "dhe më dhuro meshirë"
     }
   ],
-  "timestamp": "2026-09-27T16:59:09.342164843Z",
+  "timestamp": "2026-10-01T05:27:13.115809072Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,39 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 8,
-  "translation": "Dhe në fund të shtatë vjetve gruaja u kthye nga vendi i filistejve, dhe doli të bërtiste përpara mbretit për shtëpinë e saj dhe për fushën e saj.",
+  "translation": "Dhe në fund të shtatë vjetëve, gruaja u kthye nga toka e filistejtëve dhe doli të bënte thirrje te mbreti për shtëpinë e saj dhe për fushën e saj.",
   "tokens": [
     {
+      "surface": "ויהי",
+      "gloss": "Dhe ndodhi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "në fund të"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shtatë"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vjetëve"
+    },
+    {
       "surface": "ותשב",
-      "gloss": "dhe u kthye"
+      "gloss": "u kthye"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "gruaja"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nga toka e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejtëve"
     },
     {
       "surface": "ותצא",
@@ -17,7 +45,7 @@
     },
     {
       "surface": "לצעק",
-      "gloss": "të bërtiste përpara"
+      "gloss": "të bënte thirrje"
     },
     {
       "surface": "אל",
@@ -26,8 +54,24 @@
     {
       "surface": "המלך",
       "gloss": "mbreti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "për"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "shtëpinë e saj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dhe për"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fushën e saj"
     }
   ],
-  "timestamp": "2026-09-27T15:43:15.112274413Z",
+  "timestamp": "2026-10-01T05:27:33.787049413Z",
   "model": "glm-5.3"
 }

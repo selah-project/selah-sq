@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe karroca hyri në fushën e Jehoshua-s, Beth-Shemeshi-tit, dhe ndali aty; dhe aty ⟨ishte⟩ një gur i madh; dhe i çanë ⟨את⟩ drurët e karrocës dhe ⟨את⟩ lopët i ngjiten si flijim të djegur për Jahve.",
+  "translation": "Dhe karroca hyri në fushën e Jehoshuas, Bet-Shemeshitit, dhe ndaloi aty; dhe aty ⟨ishte⟩ një gur i madh; dhe e çanë ⟨את⟩ drurët e karrocës, dhe ⟨את⟩ lopët i ngjitën si flijim të djegur për Jahve.",
   "tokens": [
     {
       "surface": "והעגלה",
-      "gloss": "dhe karroca"
+      "gloss": "Dhe karroca"
     },
     {
       "surface": "באה",
@@ -21,19 +21,23 @@
     },
     {
       "surface": "שדה",
-      "gloss": "fushën e"
+      "gloss": "fushën"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoshua-s"
+      "gloss": "e Jehoshuas"
     },
     {
-      "surface": "בית השמשי",
-      "gloss": "Beth-Shemeshi-tit"
+      "surface": "בית",
+      "gloss": "Bet-Shemeshitit"
+    },
+    {
+      "surface": "השמשי",
+      "gloss": "Bet-Shemeshitit"
     },
     {
       "surface": "ותעמד",
-      "gloss": "dhe ndali"
+      "gloss": "dhe ndaloi"
     },
     {
       "surface": "שם",
@@ -45,7 +49,7 @@
     },
     {
       "surface": "אבן",
-      "gloss": "një gur"
+      "gloss": "gur"
     },
     {
       "surface": "גדולה",
@@ -53,7 +57,7 @@
     },
     {
       "surface": "ויבקעו",
-      "gloss": "dhe i çanë"
+      "gloss": "dhe e çanë"
     },
     {
       "surface": "את",
@@ -62,7 +66,7 @@
     },
     {
       "surface": "עצי",
-      "gloss": "⟨את⟩ drurët e"
+      "gloss": "drurët e"
     },
     {
       "surface": "העגלה",
@@ -70,26 +74,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lopët"
     },
     {
       "surface": "הפרות",
-      "gloss": "⟨את⟩ lopët"
+      "gloss": "lopët"
     },
     {
       "surface": "העלו",
-      "gloss": "i ngjiten si flijim"
+      "gloss": "i ngjitën"
     },
     {
       "surface": "עלה",
-      "gloss": "të djegur"
+      "gloss": "si flijim të djegur"
     },
     {
       "surface": "ליהוה",
       "gloss": "për Jahve"
     }
   ],
-  "timestamp": "2026-09-27T15:11:52.104650481Z",
+  "timestamp": "2026-10-01T05:27:48.582038792Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Dhe roja e tyre ⟨is⟩ Arka, dhe tryeza, dhe menoraja, dhe altarët, dhe enët e shenjtërisë që shërbejnë me to, dhe perdeja, dhe gjithë shërbimi i saj.",
+  "translation": "Dhe roja e tyre ⟨is⟩⟨the⟩ Arka, dhe tryeza, dhe menora, dhe altaret, dhe veglat e shenjtërores me të cilat shërbejnë, dhe perdet, dhe gjithë shërbimi i saj.",
   "tokens": [
     {
       "surface": "ומשמרתם",
-      "gloss": "Dhe roja e tyre"
+      "gloss": "dhe roja e tyre"
     },
     {
       "surface": "הארן",
@@ -21,27 +21,23 @@
     },
     {
       "surface": "והמנרה",
-      "gloss": "dhe menoraja"
+      "gloss": "dhe menora"
     },
     {
       "surface": "והמזבחת",
-      "gloss": "dhe altarët"
-    },
-    {
-      "surface": "והמנורה והמזבחות",
-      "gloss": ""
+      "gloss": "dhe altaret"
     },
     {
       "surface": "וכלי",
-      "gloss": "dhe enët"
+      "gloss": "dhe veglat"
     },
     {
       "surface": "הקדש",
-      "gloss": "e shenjtërisë"
+      "gloss": "e shenjtërores"
     },
     {
       "surface": "אשר",
-      "gloss": "që"
+      "gloss": "me të cilat"
     },
     {
       "surface": "ישרתו",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "בהם",
-      "gloss": "me to"
+      "gloss": "me"
     },
     {
       "surface": "והמסך",
-      "gloss": "dhe perdeja"
+      "gloss": "dhe perdet"
     },
     {
       "surface": "וכל",
@@ -64,6 +60,6 @@
       "gloss": "shërbimi i saj"
     }
   ],
-  "timestamp": "2026-09-27T14:29:14.575910572Z",
+  "timestamp": "2026-10-01T05:27:01.143408438Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,15 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe ⟨ata të⟩ Beth-Shemesh-it po korrnin korrën e grurit në luginë, dhe ngritën ⟨את⟩ sytë e tyre dhe panë ⟨את⟩ arken, dhe u gëzuan ta shihnin.",
+  "translation": "Dhe Bet-Shemeshi po korrnin korrien e grurit në luginë, dhe ngritën ⟨את⟩ sytë e tyre dhe panë ⟨את⟩ arken, dhe u gëzuan ta shihnin.",
   "tokens": [
     {
-      "surface": "ובית שמש",
-      "gloss": "dhe ⟨ata të⟩ Beth-Shemesh-it"
+      "surface": "ובית",
+      "gloss": "Dhe Bet-Shemeshi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Bet-Shemesh"
     },
     {
       "surface": "קצרים",
@@ -17,11 +21,11 @@
     },
     {
       "surface": "קציר",
-      "gloss": "korrën"
+      "gloss": "korrien"
     },
     {
       "surface": "חטים",
-      "gloss": "të grurit"
+      "gloss": "e grurit"
     },
     {
       "surface": "בעמק",
@@ -29,7 +33,7 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "dhe ngritën"
+      "gloss": "ngritën"
     },
     {
       "surface": "את",
@@ -38,7 +42,7 @@
     },
     {
       "surface": "עיניהם",
-      "gloss": "⟨את⟩ sytë e tyre"
+      "gloss": "sytë e tyre"
     },
     {
       "surface": "ויראו",
@@ -51,7 +55,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "⟨את⟩ arken"
+      "gloss": "arken"
     },
     {
       "surface": "וישמחו",
@@ -62,6 +66,6 @@
       "gloss": "ta shihnin"
     }
   ],
-  "timestamp": "2026-09-27T15:11:52.104222249Z",
+  "timestamp": "2026-10-01T05:27:48.573175268Z",
   "model": "glm-5.3"
 }

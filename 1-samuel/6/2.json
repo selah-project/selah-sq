@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 6,
-  "translation": "Dhe filistejtë thirrën priftërinjtë dhe falltarët, duke thënë: Çfarë t'i bëjmë arkës së Jahvesë? Njoftoniani me çfarë ta dërgojmë ⟨atë⟩ në vendin e vet.",
+  "translation": "Dhe filistejtë thirrën priftërinjtë dhe falltarët, duke thënë: «Çfarë t'i bëjmë arkës së Jahvesë? Bënanë të ditur me çfarë ta dërgojmë atë në vendin e vet.»",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -14,14 +14,6 @@
     {
       "surface": "פלשתים",
       "gloss": "filistejtë"
-    },
-    {
-      "surface": "לכהנים",
-      "gloss": "priftërinjtë"
-    },
-    {
-      "surface": "ויקראו",
-      "gloss": "dhe thirrën"
     },
     {
       "surface": "לכהנים",
@@ -53,7 +45,7 @@
     },
     {
       "surface": "הודענו",
-      "gloss": "njoftoniani"
+      "gloss": "bënanë të ditur"
     },
     {
       "surface": "במה",
@@ -61,13 +53,13 @@
     },
     {
       "surface": "נשלחנו",
-      "gloss": "ta dërgojmë ⟨atë⟩"
+      "gloss": "ta dërgojmë atë"
     },
     {
       "surface": "למקומו",
       "gloss": "në vendin e vet"
     }
   ],
-  "timestamp": "2026-09-27T18:22:58.658568429Z",
+  "timestamp": "2026-10-01T05:27:14.646303663Z",
   "model": "glm-5.3"
 }

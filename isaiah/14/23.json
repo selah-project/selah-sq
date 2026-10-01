@@ -5,31 +5,35 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe do ta bëj atë pronë të qyqes së kënetës dhe pellgje uji; do ta fshij me feshë të shkatërrimit, thotë Jahve Tsevaot.",
+  "translation": "Dhe do ta bëj ⟨atë⟩ në pronësi të bardhunjve dhe në liqene uji; dhe do ta fshij me fshesën e shkatërrimit, flet Jahve Tsevaot.",
   "tokens": [
     {
       "surface": "ושמתיה",
-      "gloss": "Dhe do ta bëj atë"
+      "gloss": "dhe do ta bëj"
     },
     {
       "surface": "למורש",
-      "gloss": "pronë"
+      "gloss": "në pronësi"
     },
     {
       "surface": "קפד",
-      "gloss": "të qyqes së kënetës"
+      "gloss": "të bardhunjve"
     },
     {
       "surface": "ואגמי",
-      "gloss": "dhe pellgje"
+      "gloss": "dhe në liqene"
     },
     {
       "surface": "מים",
       "gloss": "uji"
     },
     {
+      "surface": "וטאטאתיה",
+      "gloss": "dhe do ta fshij"
+    },
+    {
       "surface": "במטאטא",
-      "gloss": "me feshë"
+      "gloss": "me fshesën"
     },
     {
       "surface": "השמד",
@@ -37,7 +41,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "thotë"
+      "gloss": "flet"
     },
     {
       "surface": "יהוה",
@@ -48,6 +52,6 @@
       "gloss": "Tsevaot"
     }
   ],
-  "timestamp": "2026-09-27T15:52:08.670359195Z",
+  "timestamp": "2026-10-01T05:27:35.202048853Z",
   "model": "glm-5.3"
 }

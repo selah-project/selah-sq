@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "sq",
   "chapter": 29,
-  "translation": "Njerëzit e gjakut e urrejnë ⟨את⟩ të pafajshmin, dhe të drejtit kërkojnë shpirtin e tij.",
+  "translation": "Njerëzit e gjakut e urrejnë ⟨e⟩ të pandritshmin, por të drejtit kërkojnë shpirtin e tij.",
   "tokens": [
     {
       "surface": "אנשי",
@@ -13,20 +13,15 @@
     },
     {
       "surface": "דמים",
-      "gloss": "e gjakut"
+      "gloss": "të gjakut"
     },
     {
       "surface": "ישנאו",
-      "gloss": "urrejnë"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "të pafajshmin"
+      "gloss": "e urrejnë"
     },
     {
       "surface": "תם",
-      "gloss": "të pafajshmin"
+      "gloss": "të pandritshmin"
     },
     {
       "surface": "וישרים",
@@ -41,6 +36,6 @@
       "gloss": "shpirtin e tij"
     }
   ],
-  "timestamp": "2026-09-27T17:25:09.076179734Z",
+  "timestamp": "2026-10-01T05:28:02.383005489Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Dhe të trevet e thyen kampin e filistejve dhe morën ujë nga pusi i Beth-Lehemit që është te porta, dhe e mblodhën dhe e çuan te David; por David nuk deshi t'i pinte, ⟨את⟩ por i derdhi ⟨את⟩ për Jahve.",
+  "translation": "Dhe të trejtë thyen nëpër kampin e filistejve, dhe tërhoqën ujë nga pusi i Beth-Lechemit, që ⟨is⟩ te porta, dhe e mbajtën dhe e sollën te Davidi; por Davidi nuk deshi t'i pijë ⟨ato⟩, por i derdhi ⟨אתם⟩ përpara Jahvesë.",
   "tokens": [
     {
       "surface": "ויבקעו",
-      "gloss": "Dhe ... e thyen"
+      "gloss": "dhe thyen"
     },
     {
       "surface": "השלשה",
-      "gloss": "të trevet"
+      "gloss": "të trejtë"
     },
     {
       "surface": "במחנה",
-      "gloss": "kampin"
+      "gloss": "nëpër kampin"
     },
     {
       "surface": "פלשתים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישאבו",
-      "gloss": "dhe morën"
+      "gloss": "dhe tërhoqën"
     },
     {
       "surface": "מים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "Lehemit"
+      "gloss": "Lechemit"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "dhe e mblodhën"
+      "gloss": "dhe e mbajtën"
     },
     {
       "surface": "ויבאו",
-      "gloss": "dhe e çuan"
+      "gloss": "dhe e sollën"
     },
     {
       "surface": "אל",
@@ -65,11 +65,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "David"
-    },
-    {
-      "surface": "ויבאו",
-      "gloss": ""
+      "gloss": "Davidi"
     },
     {
       "surface": "ולא",
@@ -81,26 +77,26 @@
     },
     {
       "surface": "דויד",
-      "gloss": "David"
+      "gloss": "Davidi"
     },
     {
       "surface": "לשתותם",
-      "gloss": "t'i pinte"
+      "gloss": "t'i pijë"
     },
     {
       "surface": "וינסך",
-      "gloss": "⟨את⟩ por i derdhi"
+      "gloss": "dhe i derdhi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ujin (që sollën)"
+      "marks": "ujit (derdhur përpara Jahvesë)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "për Jahve"
+      "gloss": "përpara Jahvesë"
     }
   ],
-  "timestamp": "2026-09-27T18:03:00.061615639Z",
+  "timestamp": "2026-10-01T05:27:59.556761901Z",
   "model": "glm-5.3"
 }

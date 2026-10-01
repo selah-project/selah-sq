@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 49,
-  "translation": "Nuk do të urijnë dhe nuk do të eten, dhe as vapa as dielli nuk do t'i godasë; sepse ai që ka mëshirë për ta do t'i drejtojë dhe pranë burimeve të ujit do t'i udhëheqë.",
+  "translation": "Nuk do të urijnë dhe nuk do të etën, dhe nuk do t'i godasë ⟨i⟩ valë flakte as dielli, sepse ai që ka mëshirë për ta do t'i udhëheqë, dhe pranë burimeve të ujit do t'i çojë.",
   "tokens": [
     {
       "surface": "לא",
@@ -20,16 +20,12 @@
       "gloss": "dhe nuk"
     },
     {
-      "surface": "ירעבו placeholder",
-      "gloss": ""
-    },
-    {
       "surface": "יצמאו",
-      "gloss": "do të eten"
+      "gloss": "do të etën"
     },
     {
       "surface": "ולא",
-      "gloss": "dhe as"
+      "gloss": "dhe nuk"
     },
     {
       "surface": "יכם",
@@ -37,11 +33,11 @@
     },
     {
       "surface": "שרב",
-      "gloss": "vapa"
+      "gloss": "valë flakte"
     },
     {
       "surface": "ושמש",
-      "gloss": "dhe as dielli"
+      "gloss": "as dielli"
     },
     {
       "surface": "כי",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "מרחמם",
-      "gloss": "ai që ka mëshirë"
+      "gloss": "ai që ka mëshirë për ta"
     },
     {
       "surface": "ינהגם",
-      "gloss": "do t'i drejtojë"
+      "gloss": "do t'i udhëheqë"
     },
     {
       "surface": "ועל",
@@ -69,9 +65,9 @@
     },
     {
       "surface": "ינהלם",
-      "gloss": "do t'i udhëheqë"
+      "gloss": "do t'i çojë"
     }
   ],
-  "timestamp": "2026-09-27T16:01:53.408855118Z",
+  "timestamp": "2026-10-01T05:27:40.508382954Z",
   "model": "glm-5.3"
 }

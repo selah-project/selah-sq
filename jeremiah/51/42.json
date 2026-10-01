@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sq",
   "chapter": 51,
-  "translation": "Deti ngjiti mbi Babilonin; me shumicën e valëve të tij u mbulua.",
+  "translation": "Deti ngjiti mbi Babilonin; me shumësinë e valëve të tij ⟨ajo⟩ u mbulua.",
   "tokens": [
     {
       "surface": "עלה",
@@ -21,15 +21,11 @@
     },
     {
       "surface": "הים",
-      "gloss": "deti"
+      "gloss": "Deti"
     },
     {
       "surface": "בהמון",
-      "gloss": "me shumicën"
-    },
-    {
-      "surface": "gloss-placeholder",
-      "gloss": ""
+      "gloss": "me shumësinë"
     },
     {
       "surface": "גליו",
@@ -40,6 +36,6 @@
       "gloss": "u mbulua"
     }
   ],
-  "timestamp": "2026-09-27T16:24:35.017057444Z",
+  "timestamp": "2026-10-01T05:27:42.506657903Z",
   "model": "glm-5.3"
 }

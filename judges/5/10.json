@@ -5,23 +5,31 @@
   "book": "judges",
   "lang": "sq",
   "chapter": 5,
-  "translation": "O ju që kalëroni mbi gomare të bardha, që uleni sipër shtrojeve dhe që ecni nëpër rrugë — flisni!",
+  "translation": "O ju që shaloni gomarë të bardhë, o ju që uleni mbi shtroje dhe ecni rrugës — bisedoni!",
   "tokens": [
     {
       "surface": "רכבי",
-      "gloss": "o ju që kalëroni"
+      "gloss": "që shaloni"
     },
     {
       "surface": "אתנות",
-      "gloss": "gomare"
+      "gloss": "gomarë"
     },
     {
       "surface": "צחרות",
-      "gloss": "të bardha"
+      "gloss": "të bardhë"
     },
     {
-      "surface": "יושבי על מדין",
-      "gloss": "që uleni sipër shtrojeve"
+      "surface": "ישבי",
+      "gloss": "që uleni"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "shtroje"
     },
     {
       "surface": "והלכי",
@@ -29,17 +37,17 @@
     },
     {
       "surface": "על",
-      "gloss": "nëpër"
+      "gloss": "rrugës"
     },
     {
       "surface": "דרך",
-      "gloss": "rrugë"
+      "gloss": "rrugës"
     },
     {
       "surface": "שיחו",
-      "gloss": "flisni"
+      "gloss": "bisedoni"
     }
   ],
-  "timestamp": "2026-09-27T15:03:16.640457514Z",
+  "timestamp": "2026-10-01T05:26:44.147348843Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,15 @@
   "book": "joshua",
   "lang": "sq",
   "chapter": 17,
-  "translation": "Dhe ato iu afruan përpara Elazarit, priftit, dhe përpara Jozuesë, birit të Nunit, dhe përpara parëve, duke thënë: «Jahve ⟨את⟩ urdhëroi ⟨את⟩ Moisin të na japë një trashëgimi në mes të vëllezërve tanë.» Dhe u dha atyre, sipas fjalës së Jahvesë, një trashëgimi në mes të vëllezërve të të atit të tyre.",
+  "translation": "Dhe ato iu afruan para Elazarit priftit, dhe para Jozuesë, birit të Nunit, dhe para krerëve, duke thënë: «Jahve e urdhëroi ⟨את⟩ Moisin të na japë një trashëgimi në mes të vëllezërve tanë.» Dhe ai u dha atyre, sipas gojës së Jahvesë, një trashëgimi në mes të vëllezërve të të atit të tyre.",
   "tokens": [
     {
-      "surface": "ויתקרבנה",
-      "gloss": "dhe iu afruan"
-    },
-    {
       "surface": "ותקרבנה",
-      "gloss": "iu afruan (ato)"
+      "gloss": "dhe ato iu afruan"
     },
     {
       "surface": "לפני",
-      "gloss": "përpara"
+      "gloss": "para"
     },
     {
       "surface": "אלעזר",
@@ -29,7 +25,7 @@
     },
     {
       "surface": "ולפני",
-      "gloss": "dhe përpara"
+      "gloss": "dhe para"
     },
     {
       "surface": "יהושע",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "ולפני",
-      "gloss": "dhe përpara"
+      "gloss": "dhe para"
     },
     {
       "surface": "הנשיאים",
-      "gloss": "parëve"
+      "gloss": "krerëve"
     },
     {
       "surface": "לאמר",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "⟨את⟩ urdhëroi"
+      "gloss": "e urdhëroi"
     },
     {
       "surface": "את",
@@ -86,15 +82,15 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "në mes"
+      "gloss": "në mes të"
     },
     {
       "surface": "אחינו",
-      "gloss": "të vëllezërve tanë"
+      "gloss": "vëllezërve tanë"
     },
     {
       "surface": "ויתן",
-      "gloss": "dhe u dha"
+      "gloss": "dhe ai dha"
     },
     {
       "surface": "להם",
@@ -106,7 +102,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "fjalës"
+      "gloss": "gojës"
     },
     {
       "surface": "יהוה",
@@ -114,11 +110,11 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "trashëgimi"
+      "gloss": "një trashëgimi"
     },
     {
       "surface": "בתוך",
-      "gloss": "në mes"
+      "gloss": "në mes të"
     },
     {
       "surface": "אחי",
@@ -129,6 +125,6 @@
       "gloss": "të të atit të tyre"
     }
   ],
-  "timestamp": "2026-09-27T15:00:20.216403744Z",
+  "timestamp": "2026-10-01T05:26:56.125915958Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Përgjigjmu, Jahve, përgjigjmu, që ⟨të⟩ dijë ky popull se ti je Jahve, ⟨i⟩ Elohim, dhe se ti ⟨את⟩ e ktheve ⟨את⟩ zemrën e tyre mbrapsht.",
+  "translation": "Përgjigjmu, Jahve, përgjigjmu, dhe ⟨të⟩ njohë ⟨ky⟩ popull ⟨i⟩ se ti ⟨je⟩ Jahve, Elohim, dhe se ti e ktheve ⟨את⟩ zemrën e tyre mbrapsht.",
   "tokens": [
     {
       "surface": "ענני",
-      "gloss": "Përgjigjmu"
+      "gloss": "përgjigjmu"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "që të dijë"
+      "gloss": "dhe të njohë"
     },
     {
       "surface": "העם",
@@ -45,11 +45,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨i⟩ Elohim"
-    },
-    {
-      "surface": "וידעו",
-      "gloss": ""
+      "gloss": "Elohim"
     },
     {
       "surface": "ואתה",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "הסבת",
-      "gloss": "⟨את⟩ e ktheve"
+      "gloss": "e ktheve"
     },
     {
       "surface": "את",
@@ -73,6 +69,6 @@
       "gloss": "mbrapsht"
     }
   ],
-  "timestamp": "2026-09-27T15:38:02.871500646Z",
+  "timestamp": "2026-10-01T05:27:25.703626156Z",
   "model": "glm-5.3"
 }

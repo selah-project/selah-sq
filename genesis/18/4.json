@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 18,
-  "translation": "Të merret, të lutem, pak ujë dhe lau këmbët tuaja, dhe mbështetuni nën ⟨pemën⟩.",
+  "translation": "Le të merret, të lutem, pak ujë dhe lau këmbët tuaja, dhe mbështetuni nën ⟨e⟩ pemën.",
   "tokens": [
     {
       "surface": "יקח",
-      "gloss": "të merret"
+      "gloss": "Le të merret"
     },
     {
       "surface": "נא",
@@ -22,10 +22,6 @@
     {
       "surface": "מים",
       "gloss": "ujë"
-    },
-    {
-      "surface": "וירץ",
-      "gloss": ""
     },
     {
       "surface": "ורחצו",
@@ -45,9 +41,9 @@
     },
     {
       "surface": "העץ",
-      "gloss": "⟨pemën⟩"
+      "gloss": "⟨e⟩ pemën"
     }
   ],
-  "timestamp": "2026-09-27T13:51:20.479471883Z",
+  "timestamp": "2026-10-01T05:26:41.948151337Z",
   "model": "glm-5.3"
 }

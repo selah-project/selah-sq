@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 33,
-  "translation": "Dhe pa ⟨ai⟩ të parën për vete, sepse atje ⟨ishte⟩ ruajtur pjesa e ligjvënësit; dhe erdhi ⟨ai⟩ me kryet e popullit, drejtësinë e Jahvesë e bëri, dhe gjykimet e Tij me Israelin.",
+  "translation": "Dhe ai pa të parën për vete, sepse atje ⟨ishte⟩ e mbuluar pjesa e ligjvënësit; dhe ai erdhi me krerët e popullit — drejtësinë e Jahvesë e bëri, dhe gjykimet e Tij me Izraelin.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "pa"
+      "gloss": "Dhe ai pa"
     },
     {
       "surface": "ראשית",
@@ -37,23 +37,19 @@
     },
     {
       "surface": "ספון",
-      "gloss": "ruajtur"
+      "gloss": "e mbuluar"
     },
     {
       "surface": "ויתא",
-      "gloss": "dhe erdhi"
+      "gloss": "dhe ai erdhi"
     },
     {
       "surface": "ראשי",
-      "gloss": "kryet"
+      "gloss": "krerët"
     },
     {
       "surface": "עם",
-      "gloss": "me"
-    },
-    {
-      "surface": "ם",
-      "gloss": "popullit"
+      "gloss": "e popullit"
     },
     {
       "surface": "צדקת",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvesë"
+      "gloss": "e Jahvesë"
     },
     {
       "surface": "עשה",
@@ -77,9 +73,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israelin"
+      "gloss": "Izraelin"
     }
   ],
-  "timestamp": "2026-09-27T14:52:43.069560437Z",
+  "timestamp": "2026-10-01T05:26:47.341411748Z",
   "model": "glm-5.3"
 }

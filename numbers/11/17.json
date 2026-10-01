@@ -5,11 +5,15 @@
   "book": "numbers",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Dhe do të zbres dhe do të flas me ty atje, dhe do të marr nga Fryma që është mbi ty dhe do ta vë mbi ta, dhe ata do të mbajnë ⟨me⟩ ty ⟨את⟩ barrën e popullit, dhe ti nuk do ta mbash vetëm.",
+  "translation": "Dhe unë do të zbres dhe do të flas aty me ty, dhe do të marr nga Fryma që është mbi ty dhe do ta vë mbi ta; dhe ata do të mbajnë ⟨את⟩ bashkë me ty barrën e popullit, dhe ti nuk do ta mbash vetëm i vetmi.",
   "tokens": [
     {
+      "surface": "וירדתי",
+      "gloss": "dhe unë do të zbres"
+    },
+    {
       "surface": "ודברתי",
-      "gloss": "do të flas"
+      "gloss": "dhe do të flas"
     },
     {
       "surface": "עמך",
@@ -17,11 +21,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "atje"
+      "gloss": "aty"
     },
     {
       "surface": "ואצלתי",
-      "gloss": "do të marr"
+      "gloss": "dhe do të marr"
     },
     {
       "surface": "מן",
@@ -41,7 +45,7 @@
     },
     {
       "surface": "ושמתי",
-      "gloss": "do ta vë"
+      "gloss": "dhe do ta vë"
     },
     {
       "surface": "עליהם",
@@ -49,15 +53,16 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "do të mbajnë"
+      "gloss": "dhe do të mbajnë"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ty"
+      "gloss": "⟨את⟩ bashkë me ty",
+      "marks": "barrën e popullit — mbajtja bashkë"
     },
     {
       "surface": "במשא",
-      "gloss": "⟨את⟩ barrën"
+      "gloss": "barrën"
     },
     {
       "surface": "העם",
@@ -77,9 +82,9 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "vetëm"
+      "gloss": "i vetmi"
     }
   ],
-  "timestamp": "2026-09-27T14:33:44.450145384Z",
+  "timestamp": "2026-10-01T05:27:08.067923834Z",
   "model": "glm-5.3"
 }

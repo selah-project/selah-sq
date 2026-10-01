@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 31,
-  "translation": "Dhe ndodhi në kohën kur përziheshin bagëtitë, që unë ngrita sytë e mi dhe pashë në ëndërr, dhe ja, cjepërit që ngjiteshin mbi bagëtinë ⟨ishin⟩ me vija, me pika dhe me njolla.",
+  "translation": "Dhe ndodhi në kohën kur ⟨tufa⟩ mbetehe shtatzënë, që unë ngrita sytë e mi dhe pashë në një ëndërr, dhe ja, kecët që po ngjiteshin mbi ⟨tufën⟩ ishin me vija, me pika dhe me njolla.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dhe ndodhi"
+      "gloss": "Dhe ndodhi"
     },
     {
       "surface": "בעת",
@@ -17,19 +17,15 @@
     },
     {
       "surface": "יחם",
-      "gloss": "kur përziheshin"
+      "gloss": "mbetehe shtatzënë"
     },
     {
       "surface": "הצאן",
-      "gloss": "bagëtitë"
-    },
-    {
-      "surface": "ויאשא",
-      "gloss": "dhe unë ngrita"
+      "gloss": "tufa"
     },
     {
       "surface": "ואשא",
-      "gloss": ""
+      "gloss": "ngrita"
     },
     {
       "surface": "עיני",
@@ -41,7 +37,7 @@
     },
     {
       "surface": "בחלום",
-      "gloss": "në ëndërr"
+      "gloss": "në një ëndërr"
     },
     {
       "surface": "והנה",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "העתדים",
-      "gloss": "cjepërit"
+      "gloss": "kecët"
     },
     {
       "surface": "העלים",
-      "gloss": "që ngjiteshin"
+      "gloss": "që po ngjiteshin"
     },
     {
       "surface": "על",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "bagëtinë"
+      "gloss": "tufën"
     },
     {
       "surface": "עקדים",
@@ -76,6 +72,6 @@
       "gloss": "dhe me njolla"
     }
   ],
-  "timestamp": "2026-09-27T13:56:36.413869615Z",
+  "timestamp": "2026-10-01T05:26:44.480814542Z",
   "model": "glm-5.3"
 }

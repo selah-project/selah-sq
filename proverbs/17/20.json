@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "sq",
   "chapter": 17,
-  "translation": "⟨Ai⟩ me zemër të shtrembërt nuk gjen të mirën, dhe ⟨ai⟩ që e ka të kthyer ⟨në⟩ gjuhën e tij, bie në të keqen.",
+  "translation": "I shtrembër në zemër nuk gjen të mirë, dhe ⟨ai⟩ që është kthyer me gjuhën e tij bie në të keqe.",
   "tokens": [
     {
       "surface": "עקש",
-      "gloss": "i shtrembërt"
+      "gloss": "i shtrembër"
     },
     {
       "surface": "לב",
@@ -20,16 +20,12 @@
       "gloss": "nuk"
     },
     {
-      "surface": "יולד",
-      "gloss": ""
-    },
-    {
       "surface": "ימצא",
       "gloss": "gjen"
     },
     {
       "surface": "טוב",
-      "gloss": "të mirën"
+      "gloss": "të mirë"
     },
     {
       "surface": "ונהפך",
@@ -37,11 +33,7 @@
     },
     {
       "surface": "בלשונו",
-      "gloss": "në gjuhën e tij"
-    },
-    {
-      "surface": "יולד",
-      "gloss": ""
+      "gloss": "me gjuhën e tij"
     },
     {
       "surface": "יפול",
@@ -49,9 +41,9 @@
     },
     {
       "surface": "ברעה",
-      "gloss": "në të keqen"
+      "gloss": "në të keqe"
     }
   ],
-  "timestamp": "2026-09-27T17:22:41.126754831Z",
+  "timestamp": "2026-10-01T05:27:57.872784888Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 14,
-  "translation": "Dhe erdhi ndërmjet kampit të Egjiptit dhe kampit të Izraelit; dhe ⟨u bë⟩ re dhe errësirë, dhe e ndriçoi ⟨את⟩ natën; dhe nuk iu afrua ky te ky gjithë natën.",
+  "translation": "Dhe hyri ⟨ai⟩ midis kampit të Egjiptit dhe kampit të Izraelit, dhe ⟨u bë⟩ reja dhe errësira, dhe ndriçoi ⟨את⟩ natën, dhe nuk iu afrua ky te ky gjithë natën.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "dhe erdhi"
+      "gloss": "dhe hyri"
     },
     {
       "surface": "בין",
-      "gloss": "ndërmjet"
+      "gloss": "midis"
     },
     {
       "surface": "מחנה",
@@ -25,11 +25,15 @@
     },
     {
       "surface": "ובין",
-      "gloss": "dhe ndërmjet"
+      "gloss": "dhe midis"
     },
     {
       "surface": "מחנה",
       "gloss": "kampit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "të Izraelit"
     },
     {
       "surface": "ויהי",
@@ -37,24 +41,24 @@
     },
     {
       "surface": "הענן",
-      "gloss": "re"
+      "gloss": "reja"
     },
     {
       "surface": "והחשך",
-      "gloss": "dhe errësirë"
+      "gloss": "dhe errësira"
     },
     {
       "surface": "ויאר",
-      "gloss": "dhe e ndriçoi"
+      "gloss": "dhe ndriçoi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "natën"
+      "marks": "nën"
     },
     {
       "surface": "הלילה",
-      "gloss": "⟨את⟩ natën"
+      "gloss": "natën"
     },
     {
       "surface": "ולא",
@@ -82,9 +86,9 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "natën"
+      "gloss": "naten"
     }
   ],
-  "timestamp": "2026-09-27T14:08:04.413927589Z",
+  "timestamp": "2026-10-01T05:26:38.401722968Z",
   "model": "glm-5.3"
 }

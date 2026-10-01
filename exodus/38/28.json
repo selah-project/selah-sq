@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 38,
-  "translation": "Dhe ⟨me⟩ një mijën e shtatëqind e pesëdhjetë e shtatë sikla bëri grep për shtyllat, dhe i veshi kryet e tyre, ⟨את⟩ dhe i lidhi ⟨את⟩ ato.",
+  "translation": "Dhe ⟨את⟩ një mijë e shtatëqind e shtatëdhjetë e pesë shekela i bëri thonjt e shtyllave, mbuloi kryet e tyre dhe i lidhi me unaza.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dhe ⟨את⟩",
-      "marks": "një mijën e shtatëqind e pesëdhjetë e shtatë sikla"
+      "gloss": "⟨את⟩",
+      "marks": "një mijë e shtatëqind e shtatëdhjetë e pesë shekela"
     },
     {
       "surface": "האלף",
-      "gloss": "një mijën"
+      "gloss": "një mijë"
     },
     {
       "surface": "ושבע",
@@ -26,31 +26,27 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "dhe pesëdhjetë"
+      "gloss": "dhe pesë"
     },
     {
       "surface": "ושבעים",
-      "gloss": "dhe shtatë"
+      "gloss": "dhe shtatëdhjetë"
     },
     {
       "surface": "עשה",
-      "gloss": "bëri"
+      "gloss": "i bëri"
     },
     {
-      "surface": "ושבעים",
-      "gloss": ""
-    },
-    {
-      "surface": "ווים",
-      "gloss": "grep"
+      "surface": "ונים",
+      "gloss": "thonjt"
     },
     {
       "surface": "לעמודים",
-      "gloss": "për shtyllat"
+      "gloss": "të shtyllave"
     },
     {
       "surface": "וצפה",
-      "gloss": "dhe i veshi"
+      "gloss": "mbuloi"
     },
     {
       "surface": "ראשיהם",
@@ -58,14 +54,14 @@
     },
     {
       "surface": "וחשק",
-      "gloss": "⟨את⟩ dhe i lidhi"
+      "gloss": "dhe i lidhi me unaza"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ato (shtyllat)"
+      "marks": "i"
     }
   ],
-  "timestamp": "2026-09-27T14:17:16.133612240Z",
+  "timestamp": "2026-10-01T05:26:44.772529007Z",
   "model": "glm-5.3"
 }

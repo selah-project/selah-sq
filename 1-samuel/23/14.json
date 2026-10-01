@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Dhe Davidi rrinte në shkretëtirë, në vendet e fortifikuara, dhe rrinte në kodër, në shkretëtirën e Zifit. Dhe Sauli e kërkonte atë gjithë ditët, por Elohim nuk e dori ⟨atë⟩ në dorën e tij.",
+  "translation": "Dhe Davidi qëndroi në shkretëtirë, në kështjellat e saj, dhe qëndroi në kodër, në shkretëtirën e Zifit; dhe Sauli e kërkoi atë gjithë ditët, por Elohim nuk e dori ⟨atë⟩ në dorën e tij.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "dhe rrinte"
+      "gloss": "dhe qëndroi"
     },
     {
       "surface": "דוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "במצדות",
-      "gloss": "në vendet e fortifikuara"
+      "gloss": "në kështjellat e saj"
     },
     {
       "surface": "וישב",
-      "gloss": "dhe rrinte"
+      "gloss": "dhe qëndroi"
     },
     {
       "surface": "בהר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ויבקשהו",
-      "gloss": "dhe e kërkonte atë"
+      "gloss": "dhe e kërkoi atë"
     },
     {
       "surface": "שאול",
-      "gloss": "Shauli"
+      "gloss": "Sauli"
     },
     {
       "surface": "כל",
@@ -56,10 +56,22 @@
       "gloss": "ditët"
     },
     {
-      "surface": "ויתנו... ולא נתנו",
-      "gloss": "por nuk e dori"
+      "surface": "ולא",
+      "gloss": "por jo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "e dori ⟨atë⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "në dorën e tij"
     }
   ],
-  "timestamp": "2026-09-27T15:17:38.751797569Z",
+  "timestamp": "2026-10-01T05:27:15.304065975Z",
   "model": "glm-5.3"
 }

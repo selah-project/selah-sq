@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 54,
-  "translation": "Shiko, do të grumbullohet një <i panjohur> pa ⟨את⟩ — jo nga unë; kushdo që grumbullohet kundër teje, mbi ty do të bjerë.",
+  "translation": "Ja, do të grumbullohen, por jo prej Meje; kushdo që grumbullohet pranë teje, mbi ty do të bjerë.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "shiko"
+      "gloss": "Ja"
     },
     {
       "surface": "גור",
-      "gloss": "një i panjohur"
+      "gloss": "do të grumbullohet"
     },
     {
       "surface": "יגור",
@@ -21,35 +21,35 @@
     },
     {
       "surface": "אפס",
-      "gloss": "jo"
+      "gloss": "por jo"
     },
     {
       "surface": "מאותי",
-      "gloss": "⟨את⟩ nga unë",
-      "marks": "grumbullimi"
+      "gloss": "⟨את⟩",
+      "marks": "prej Meje"
     },
     {
       "surface": "מי",
-      "gloss": "kushdo"
+      "gloss": "kushdo që"
     },
     {
       "surface": "גר",
-      "gloss": "që grumbullohet"
+      "gloss": "grumbullohet"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ me ty",
-      "marks": "ty"
+      "gloss": "⟨את⟩",
+      "marks": "pranë teje"
     },
     {
       "surface": "עליך",
-      "gloss": "kundër teje"
+      "gloss": "mbi ty"
     },
     {
       "surface": "יפול",
       "gloss": "do të bjerë"
     }
   ],
-  "timestamp": "2026-09-27T16:02:52.541702439Z",
+  "timestamp": "2026-10-01T05:27:47.268745887Z",
   "model": "glm-5.3"
 }

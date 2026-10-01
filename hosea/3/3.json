@@ -5,13 +5,65 @@
   "book": "hosea",
   "lang": "sq",
   "chapter": 3,
-  "translation": "dhe i thashë asaj: Ditë të shumta do të rriesh për mua, nuk do të kurvërohesh dhe nuk do të jesh e një burri; dhe as unë ⟨do të jem⟩ me ty.",
+  "translation": "Dhe i thashë asaj: Shumë ditë do të rrojsh për mua, nuk do të kurvërohesh dhe nuk do të jesh ⟨e⟩ një burri; dhe as unë ⟨do të jem⟩ për ty.",
   "tokens": [
     {
-      "surface": "ויאמר",
+      "surface": "ואמר",
       "gloss": "dhe i thashë"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "asaj"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditë"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "shumë"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "do të rrojsh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "për mua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nuk"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "do të kurvërohesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dhe nuk"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "do të jesh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "e një burri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dhe as"
+    },
+    {
+      "surface": "אני",
+      "gloss": "unë"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "për ty"
     }
   ],
-  "timestamp": "2026-09-27T16:42:34.151288486Z",
+  "timestamp": "2026-10-01T05:27:30.322095817Z",
   "model": "glm-5.3"
 }

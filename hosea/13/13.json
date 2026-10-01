@@ -5,19 +5,15 @@
   "book": "hosea",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhimbjet e një gruaje në lindje do t'i vijnë atij; ai është bir pa urtësi, sepse në kohën e duhur nuk qëndron dot në çastin e daljes së fëmijëve.",
+  "translation": "Dhembjet e ⟨një⟩ gruas që lind do t'i vijnë ⟨את⟩ atij; ai ⟨është⟩ një djalë jo i urtë, sepse në kohën e duhur nuk qëndroi në çastin e lindjes së fëmijëve.",
   "tokens": [
     {
       "surface": "חבלי",
-      "gloss": "dhimbjet e"
+      "gloss": "Dhembjet"
     },
     {
       "surface": "יולדה",
-      "gloss": "një gruaje në lindje"
-    },
-    {
-      "surface": "יולדה",
-      "gloss": "një gruaje në lindje"
+      "gloss": "e gruas që lind"
     },
     {
       "surface": "יבאו",
@@ -29,19 +25,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ai është"
+      "gloss": "ai"
     },
     {
       "surface": "בן",
-      "gloss": "bir"
+      "gloss": "një djalë"
     },
     {
       "surface": "לא",
-      "gloss": "pa"
+      "gloss": "jo"
     },
     {
       "surface": "חכם",
-      "gloss": "urtësi"
+      "gloss": "i urtë"
     },
     {
       "surface": "כי",
@@ -57,17 +53,17 @@
     },
     {
       "surface": "יעמד",
-      "gloss": "qëndron dot"
+      "gloss": "qëndroi"
     },
     {
       "surface": "במשבר",
-      "gloss": "në çastin e daljes"
+      "gloss": "në çastin e lindjes"
     },
     {
       "surface": "בנים",
       "gloss": "të fëmijëve"
     }
   ],
-  "timestamp": "2026-09-27T16:43:37.304051822Z",
+  "timestamp": "2026-10-01T05:27:17.791811635Z",
   "model": "glm-5.3"
 }

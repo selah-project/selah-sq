@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sq",
   "chapter": 3,
-  "translation": "Dhe unë ⟨jam⟩ sot i butë, edhe mbret i vajosur, dhe këta njerëz, bijtë e Cerujahut, ⟨janë⟩ të ashpër ndaj meje; Jahve le të shpërblejë ⟨ai⟩ bërësin e së keqes sipas të keqes së tij.",
+  "translation": "Dhe unë sot jam i butë, edhe përkohë i vajosur për mbret, dhe këta njerëz, bijtë e Tserujahs, janë të ashpër ndaj meje; Jahve le t'i shpërblejë ⟨atë⟩ që bën të keqen sipas të keqes së tij.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "dhe unë"
+      "gloss": "Dhe unë"
     },
     {
       "surface": "היום",
@@ -25,27 +25,23 @@
     },
     {
       "surface": "מלך",
-      "gloss": "mbret"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "për mbret"
     },
     {
       "surface": "והאנשים",
-      "gloss": "dhe këta njerëz"
+      "gloss": "dhe njerëzit"
     },
     {
       "surface": "האלה",
-      "gloss": "këto"
+      "gloss": "këta"
     },
     {
       "surface": "בני",
-      "gloss": "bijtë"
+      "gloss": "bijtë e"
     },
     {
       "surface": "צרויה",
-      "gloss": "e Cerujahut"
+      "gloss": "Tserujahs"
     },
     {
       "surface": "קשים",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "le të shpërblejë"
+      "gloss": "le t'i shpërblejë"
     },
     {
       "surface": "יהוה",
@@ -65,17 +61,17 @@
     },
     {
       "surface": "לעשה",
-      "gloss": "bërësit"
+      "gloss": "që bën"
     },
     {
       "surface": "הרעה",
-      "gloss": "të së keqes"
+      "gloss": "⟨atë⟩ të keqen"
     },
     {
       "surface": "כרעתו",
       "gloss": "sipas të keqes së tij"
     }
   ],
-  "timestamp": "2026-09-27T15:20:41.127267293Z",
+  "timestamp": "2026-10-01T05:27:27.673021504Z",
   "model": "glm-5.3"
 }

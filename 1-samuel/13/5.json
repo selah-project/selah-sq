@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 13,
-  "translation": "Dhe filistinasit u mblodhën për të luftuar kundër Izraelit: tridhjetë mijë qerre dhe gjashtë mijë kalorës, dhe një popull aq i shumtë sa rëra që ⟨është⟩ në breg të detit; dhe u ngjitën dhe e ngritën kampin në Mikmash, në lindje të Beth-Avenit.",
+  "translation": "Dhe Filistejtë u mblodhën për të luftuar kundër Izraelit: tridhjetë mijë qerre dhe gjashtë mijë kalorës, dhe një popull si rëra që ⟨është⟩ mbi buzën e detit në shumicë; dhe ata u ngjitën dhe e ngritën kampin në Mikmas, në lindje të Bet-Avenit.",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "gloss": "Dhe filistinasit"
+      "gloss": "Dhe Filistejtë"
     },
     {
       "surface": "נאספו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כחול",
-      "gloss": "sa rëra"
+      "gloss": "si rëra"
     },
     {
       "surface": "אשר",
@@ -65,41 +65,45 @@
     },
     {
       "surface": "על",
-      "gloss": "në breg të"
+      "gloss": "mbi"
     },
     {
       "surface": "שפת",
-      "gloss": "bregut"
+      "gloss": "buzën"
     },
     {
       "surface": "הים",
-      "gloss": "detit"
+      "gloss": "e detit"
     },
     {
       "surface": "לרב",
-      "gloss": "aq i shumtë"
+      "gloss": "në shumicë"
     },
     {
       "surface": "ויעלו",
-      "gloss": "dhe u ngjitën"
+      "gloss": "dhe ata u ngjitën"
     },
     {
       "surface": "ויחנו",
-      "gloss": "e ngritën kampin"
+      "gloss": "dhe e ngritën kampin"
     },
     {
       "surface": "במכמש",
-      "gloss": "në Mikmash"
+      "gloss": "në Mikmas"
     },
     {
       "surface": "קדמת",
       "gloss": "në lindje të"
     },
     {
-      "surface": "בית און",
-      "gloss": "Beth-Avenit"
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avenit"
     }
   ],
-  "timestamp": "2026-09-27T15:12:58.381952301Z",
+  "timestamp": "2026-10-01T05:27:26.757835713Z",
   "model": "glm-5.3"
 }

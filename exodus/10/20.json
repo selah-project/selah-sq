@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 10,
-  "translation": "Dhe Jahve forcoi ⟨את⟩ zemrën e Faraonit, dhe ai nuk i ⟨את⟩ lëshoi ⟨את⟩ bijtë e Izraelit të shkonin.",
+  "translation": "Dhe Jahve ia forcoi ⟨את⟩ zemrën Faraonit, dhe ai nuk i la të iknin ⟨את⟩ bijtë e Izraelit.",
   "tokens": [
     {
       "surface": "ויחזק",
@@ -26,11 +26,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "të Faraonit"
-    },
-    {
-      "surface": "ויחזק",
-      "gloss": ""
+      "gloss": "Faraonit"
     },
     {
       "surface": "ולא",
@@ -38,7 +34,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "⟨את⟩ lëshoi"
+      "gloss": "la të iknin"
     },
     {
       "surface": "את",
@@ -54,6 +50,6 @@
       "gloss": "e Izraelit"
     }
   ],
-  "timestamp": "2026-09-27T14:06:15.660459118Z",
+  "timestamp": "2026-10-01T05:26:34.833789694Z",
   "model": "glm-5.3"
 }

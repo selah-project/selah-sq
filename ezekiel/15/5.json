@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sq",
   "chapter": 15,
-  "translation": "Ja, kur ishte i tëri, nuk bëhej për punë — aq më tepër kur zjarri e hëngri dhe u dogh — a do të bëhet edhe për punë?",
+  "translation": "Ja, kur ⟨ishte⟩ i tëri, nuk bëhej për punë; a më shumë kur zjarri e hëngri dhe u dogj — a do të bëhet ⟨edhe⟩ më për punë?",
   "tokens": [
     {
       "surface": "הנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "aq më tepër"
+      "gloss": "a më shumë"
     },
     {
       "surface": "כי",
@@ -49,25 +49,21 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "dhe u dogh"
-    },
-    {
-      "surface": "ויחר",
-      "gloss": ""
+      "gloss": "dhe u dogj"
     },
     {
       "surface": "ונעשה",
-      "gloss": "a do të bëhet"
+      "gloss": "do të bëhet"
     },
     {
       "surface": "עוד",
-      "gloss": "edhe"
+      "gloss": "edhe më"
     },
     {
       "surface": "למלאכה",
       "gloss": "për punë"
     }
   ],
-  "timestamp": "2026-09-27T16:30:05.973099041Z",
+  "timestamp": "2026-10-01T05:55:52.514256710Z",
   "model": "glm-5.3"
 }

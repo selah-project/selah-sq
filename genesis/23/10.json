@@ -5,11 +5,15 @@
   "book": "genesis",
   "lang": "sq",
   "chapter": 23,
-  "translation": "Efroni rrinte ⟨ulur⟩ në mes të bijve të Hetit, dhe Efroni hititi iu përgjigj ⟨את⟩ Abrahamit në veshët e bijve të Hetit, përballë të gjithëve që hynin në portën e qytetit të tij, duke thënë:",
+  "translation": "Edhe Efroni rrinte në mes të bijve të Hetit; dhe Efroni Hetiti iu përgjigj Abrahamit ⟨את⟩ në veshët e bijve të Hetit, për të gjithë që hynin në portën e qytetit të tij, duke thënë:",
   "tokens": [
     {
-      "surface": "ויען",
-      "gloss": "dhe iu përgjigj"
+      "surface": "ועפרון",
+      "gloss": "Edhe Efroni"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rinte"
     },
     {
       "surface": "בתוך",
@@ -33,16 +37,16 @@
     },
     {
       "surface": "החתי",
-      "gloss": "hititi"
+      "gloss": "Hetiti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Abrahamit"
+      "marks": "Abrahamin"
     },
     {
       "surface": "אברהם",
-      "gloss": "⟨את⟩ Abrahamit"
+      "gloss": "Abrahamit"
     },
     {
       "surface": "באזני",
@@ -58,7 +62,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "përballë të gjithëve"
+      "gloss": "për të gjithë"
     },
     {
       "surface": "באי",
@@ -77,6 +81,6 @@
       "gloss": "duke thënë"
     }
   ],
-  "timestamp": "2026-09-27T13:52:10.112124681Z",
+  "timestamp": "2026-10-01T05:27:04.194657810Z",
   "model": "glm-5.3"
 }

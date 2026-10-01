@@ -5,22 +5,33 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 25,
-  "translation": "dhe e kaltër, dhe purpur, dhe thek i kuq i fëmijës së njomë, dhe liri i hollë, dhe qime dhitësh.",
+  "translation": "dhe të kaltër, dhe purpur, dhe gaforrje e kuqe, dhe liri i hollë, dhe qime dhish",
   "tokens": [
     {
       "surface": "ותכלת",
-      "gloss": "dhe e kaltër"
+      "gloss": "dhe të kaltër"
     },
     {
-      "surface": "וירגמן",
-      "gloss": "",
-      "surfaceNote": ""
+      "surface": "וארגמן",
+      "gloss": "dhe purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dhe gaforrje"
     },
     {
       "surface": "שני",
-      "gloss": ""
+      "gloss": "e kuqe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dhe liri i hollë"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "dhe qime dhish"
     }
   ],
-  "timestamp": "2026-09-27T14:12:04.471899954Z",
+  "timestamp": "2026-10-01T05:26:34.908011444Z",
   "model": "glm-5.3"
 }

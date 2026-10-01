@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sq",
   "chapter": 29,
-  "translation": "Dhe ⟨do të jetë⟩ si kur ëndërron i urituri, dhe ja, po ha, por zgjohet dhe shpirti i tij ⟨është⟩ bosh; dhe si kur ëndërron i etshmi, dhe ja, po pi, por zgjohet, dhe ja, ⟨është⟩ i rraskapitur dhe shpirti i tij ⟨ësht⟩ duke pirë — kështu do të jetë turma e të gjithë kombeve që ushtrohen kundër malit të Sionit.",
+  "translation": "Dhe do të jetë si kur ëndërroen i uritur, dhe ja, po ha; por zgjohet, dhe shpirti i tij ⟨është⟩ bosh; dhe si kur ëndërroen i etur, dhe ja, po pi; por zgjohet, dhe ja, ⟨është⟩ i rraskapitur, dhe shpirti i tij ka etje — kështu do të jetë turma e të gjithë kombeve që bëjnë luftë kundër malit të Sionit.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "dhe ⟨do të jetë⟩"
+      "gloss": "dhe do të jetë"
     },
     {
       "surface": "כאשר",
@@ -17,17 +17,109 @@
     },
     {
       "surface": "יחלם",
-      "gloss": "ëndërron"
+      "gloss": "ëndërroen"
     },
     {
       "surface": "הרעב",
-      "gloss": "i urituri"
+      "gloss": "i uritur"
     },
     {
-      "surface": "ו הנה",
+      "surface": "והנה",
       "gloss": "dhe ja"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "po ha"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "por zgjohet"
+    },
+    {
+      "surface": "וריקה",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "shpirti i tij"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "dhe si kur"
+    },
+    {
+      "surface": "יחלם",
+      "gloss": "ëndërroen"
+    },
+    {
+      "surface": "הצמא",
+      "gloss": "i etur"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "po pi"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "por zgjohet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dhe ja"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "i rraskapitur"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "dhe shpirti i tij"
+    },
+    {
+      "surface": "שוקקה",
+      "gloss": "ka etje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kështu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "do të jetë"
+    },
+    {
+      "surface": "המון",
+      "gloss": "turma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e të gjithë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kombet"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "që bëjnë luftë"
+    },
+    {
+      "surface": "על",
+      "gloss": "kundër"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "të Sionit"
     }
   ],
-  "timestamp": "2026-09-27T15:57:07.313872986Z",
+  "timestamp": "2026-10-01T05:27:37.118260498Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,15 @@
   "book": "psalms",
   "lang": "sq",
   "chapter": 78,
-  "translation": "Dhe të mos bëhen si etërit e tyre, një brez i pangjeshëm dhe kryengritës, një brez që nuk e përgatiti zemrën e tij dhe fryma e të cilit nuk qe e qëndrueshme me ⟨את⟩ El-in.",
+  "translation": "Dhe të mos bëhen si etërit e tyre, brez i kryengritës dhe i përbuzur, brez që nuk e përgatiti zemrën e tij, dhe shpirti i tij nuk qe besnik me ⟨את⟩ El-in.",
   "tokens": [
     {
-      "surface": "ויהיו",
-      "gloss": "dhe të mos bëhen"
+      "surface": "ולא",
+      "gloss": "dhe të mos"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bëhen"
     },
     {
       "surface": "כאבותם",
@@ -17,19 +21,19 @@
     },
     {
       "surface": "דור",
-      "gloss": "një brez"
+      "gloss": "brez"
     },
     {
       "surface": "סורר",
-      "gloss": "i pangjeshëm"
+      "gloss": "i kryengritës"
     },
     {
       "surface": "ומרה",
-      "gloss": "dhe kryengritës"
+      "gloss": "dhe i përbuzur"
     },
     {
       "surface": "דור",
-      "gloss": "një brez"
+      "gloss": "brez"
     },
     {
       "surface": "לא",
@@ -37,7 +41,7 @@
     },
     {
       "surface": "הכין",
-      "gloss": "përgatiti"
+      "gloss": "e përgatiti"
     },
     {
       "surface": "לבו",
@@ -49,7 +53,7 @@
     },
     {
       "surface": "נאמנה",
-      "gloss": "qe e qëndrueshme"
+      "gloss": "qe besnik"
     },
     {
       "surface": "את",
@@ -58,13 +62,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨את⟩ El-in"
+      "gloss": "El"
     },
     {
       "surface": "רוחו",
-      "gloss": "fryma e të cilit"
+      "gloss": "shpirti i tij"
     }
   ],
-  "timestamp": "2026-09-27T17:07:38.078900556Z",
+  "timestamp": "2026-10-01T05:27:38.169544551Z",
   "model": "glm-5.3"
 }

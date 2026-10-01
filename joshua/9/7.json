@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "sq",
   "chapter": 9,
-  "translation": "Dhe njerëzit e Izraelit i thanë hivitit: Ndoshta ti banon në mesin tonë, e si të pres ⟨את⟩ besëlidhjen me ty?",
+  "translation": "Dhe burrat e Izraelit i thanë hivitëve: «Ndoshta banon në mes nesh — dhe si të presim ⟨me ty⟩ një besëlidhje?»",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "njerëzit"
+      "gloss": "burrat e"
     },
     {
       "surface": "ישראל",
-      "gloss": "të Izraelit"
+      "gloss": "Izraelit"
     },
     {
       "surface": "אל",
-      "gloss": "drejt"
+      "gloss": "për"
     },
     {
       "surface": "החוי",
-      "gloss": "hivitit"
+      "gloss": "hivitëve"
     },
     {
       "surface": "אולי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בקרבי",
-      "gloss": "në mesin tonë"
+      "gloss": "në mes nesh"
     },
     {
       "surface": "אתה",
@@ -45,16 +45,11 @@
     },
     {
       "surface": "ואיך",
-      "gloss": "e si"
+      "gloss": "dhe si"
     },
     {
       "surface": "אכרות",
-      "gloss": "të pres"
-    },
-    {
-      "surface": "אכרות",
-      "gloss": "⟨את⟩",
-      "marks": "besëlidhjen"
+      "gloss": "të presim"
     },
     {
       "surface": "לך",
@@ -65,6 +60,6 @@
       "gloss": "besëlidhje"
     }
   ],
-  "timestamp": "2026-09-27T18:21:46.768560632Z",
+  "timestamp": "2026-10-01T05:26:53.460503697Z",
   "model": "glm-5.3"
 }

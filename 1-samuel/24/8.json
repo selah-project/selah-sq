@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sq",
   "chapter": 24,
-  "translation": " dhe Davidi i përqafoi ⟨את⟩ njerëzit e vet me fjalë dhe nuk i la të ngriheshin kundër Saulit. Dhe Sauli u ngrit nga shpella dhe shkoi në rrugë.",
+  "translation": "Dhe Davidi i ndaloi ⟨את⟩ njerëzit e tij me fjalë dhe nuk i la të ngriheshin kundër Saulit; dhe Sauli u ngrit nga shpella dhe eci në rrugë.",
   "tokens": [
     {
       "surface": "וישסע",
-      "gloss": "dhe i përqafoi"
+      "gloss": "dhe i ndaloi"
     },
     {
       "surface": "דוד",
@@ -18,19 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njerëzit e vet"
+      "marks": "njerëzit e tij"
     },
     {
       "surface": "אנשיו",
-      "gloss": "njerëzit e vet"
+      "gloss": "njerëzit e tij"
     },
     {
       "surface": "בדברים",
       "gloss": "me fjalë"
-    },
-    {
-      "surface": "וילא",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -54,7 +50,7 @@
     },
     {
       "surface": "ושאול",
-      "gloss": "Dhe Sauli"
+      "gloss": "dhe Sauli"
     },
     {
       "surface": "קם",
@@ -66,13 +62,13 @@
     },
     {
       "surface": "וילך",
-      "gloss": "dhe shkoi"
+      "gloss": "dhe eci"
     },
     {
       "surface": "בדרך",
       "gloss": "në rrugë"
     }
   ],
-  "timestamp": "2026-09-27T15:17:59.029385459Z",
+  "timestamp": "2026-10-01T05:27:16.441155474Z",
   "model": "glm-5.3"
 }

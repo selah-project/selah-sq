@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sq",
   "chapter": 11,
-  "translation": "Dhe të fuqishmit e ushtrive ⟨ishte⟩ Asaeli, vëllai i Joabit, Elhanani, i bir i Dodosit, nga Bet-Lehemi.",
+  "translation": "Dhe të fortët e ushtrive ⟨is⟩: Asahel, vëllai i Joabit, Elhanani, bir i Dodosit, nga Bet-Lehemi.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "dhe të fuqishmit"
+      "gloss": "dhe të fortët"
     },
     {
       "surface": "החילים",
@@ -17,7 +17,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Asaeli"
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asahel"
     },
     {
       "surface": "אחי",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "i bir"
+      "gloss": "bir"
     },
     {
       "surface": "דודו",
@@ -41,13 +45,13 @@
     },
     {
       "surface": "מבית",
-      "gloss": "nga"
+      "gloss": "nga Bet"
     },
     {
       "surface": "לחם",
-      "gloss": "Bet-Lehemi"
+      "gloss": "-Lehemi"
     }
   ],
-  "timestamp": "2026-09-27T18:02:06.325707533Z",
+  "timestamp": "2026-10-01T05:27:55.240581259Z",
   "model": "glm-5.3"
 }

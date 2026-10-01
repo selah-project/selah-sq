@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sq",
   "chapter": 8,
-  "translation": "Dhe ndodhi të nesërmen, dhe Chazaeli mori ⟨את⟩ mbulesën dhe e zhyti në ujë dhe e shtriu mbi fytyrën e tij, dhe ai vdiq; dhe Chazaeli mbretëroi në vend të tij.",
+  "translation": "Dhe ndodhi të nesërmen, që Hazaeli mori mbulesën e shtratit, e zhyti në ujë dhe e shtriu mbi fytyrën e tij, dhe ai vdiq; dhe Hazaeli mbretëroi në vend të tij.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,12 +21,7 @@
     },
     {
       "surface": "המכבר",
-      "gloss": "mbulesën"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "mbulesën"
+      "gloss": "mbulesa e shtratit"
     },
     {
       "surface": "ויטבל",
@@ -58,13 +53,13 @@
     },
     {
       "surface": "חזהאל",
-      "gloss": "Chazaeli"
+      "gloss": "Hazaeli"
     },
     {
       "surface": "תחתיו",
       "gloss": "në vend të tij"
     }
   ],
-  "timestamp": "2026-09-27T18:24:57.618499430Z",
+  "timestamp": "2026-10-01T05:27:15.062936814Z",
   "model": "glm-5.3"
 }

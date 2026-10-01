@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 29,
-  "translation": "Ju qëndroni të ndarë sot, të gjithë ju, përballë Jahve, Elohim-it tuaj: krerët tuaj, fiset tuaj, pleqtë tuaj dhe mbikëqyrësit tuaj, çdo njeri i Izraelit —",
+  "translation": "Ju qëndroni sot të gjithë ju përballë Jahve, Elohim-it tuaj: krerët tuaj, fiset tuaj, pleqtë tuaj dhe nëpunësit tuaj, çdo njeri i Izraelit.",
   "tokens": [
     {
       "surface": "אתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נצבים",
-      "gloss": "qëndroni të ndarë"
+      "gloss": "qëndroni"
     },
     {
       "surface": "היום",
@@ -48,19 +48,15 @@
       "gloss": "pleqtë tuaj"
     },
     {
-      "surface": "ו",
-      "gloss": "dhe"
-    },
-    {
-      "surface": "שטריכם",
-      "gloss": "mbikëqyrësit tuaj"
+      "surface": "ושטריכם",
+      "gloss": "dhe nëpunësit tuaj"
     },
     {
       "surface": "כל",
       "gloss": "çdo"
     },
     {
-      "surface": "ais",
+      "surface": "איש",
       "gloss": "njeri"
     },
     {
@@ -68,6 +64,6 @@
       "gloss": "i Izraelit"
     }
   ],
-  "timestamp": "2026-09-27T14:51:24.316711523Z",
+  "timestamp": "2026-10-01T05:26:47.839549560Z",
   "model": "glm-5.3"
 }

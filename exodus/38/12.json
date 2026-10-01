@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sq",
   "chapter": 38,
-  "translation": "Dhe për kah perëndimi, perde pesëdhjetë kubitë; shtyllat e tyre dhjetë, dhe bazat e tyre dhjetë; kunjat e shtyllave dhe unazat e tyre ishin prej argjendi.",
+  "translation": "Dhe për anën perëndimore përditë pesëdhjetë kubit; shtyllat e tyre dhjetë, dhe bazat e tyre dhjetë; grepët e shtyllave dhe unazat e tyre ⟨isnin⟩ të argjendta.",
   "tokens": [
     {
       "surface": "ולפאת",
-      "gloss": "dhe për kah"
+      "gloss": "dhe për anën"
     },
     {
       "surface": "ים",
-      "gloss": "perëndimi"
+      "gloss": "perëndimore (det)"
     },
     {
       "surface": "קלעים",
-      "gloss": "perde"
+      "gloss": "përditë"
     },
     {
       "surface": "חמשים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "באמה",
-      "gloss": "kubitë"
+      "gloss": "kubit"
     },
     {
       "surface": "עמודיהם",
@@ -44,8 +44,12 @@
       "gloss": "dhjetë"
     },
     {
-      "surface": "והעמדים",
-      "gloss": "kunjat e shtyllave"
+      "surface": "ונוי",
+      "gloss": "grepët"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "e shtyllave"
     },
     {
       "surface": "וחשוקיהם",
@@ -53,9 +57,9 @@
     },
     {
       "surface": "כסף",
-      "gloss": "prej argjendi"
+      "gloss": "të argjendta"
     }
   ],
-  "timestamp": "2026-09-27T14:16:19.670710078Z",
+  "timestamp": "2026-10-01T05:26:35.591497876Z",
   "model": "glm-5.3"
 }

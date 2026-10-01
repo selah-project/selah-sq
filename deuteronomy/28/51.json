@@ -5,15 +5,11 @@
   "book": "deuteronomy",
   "lang": "sq",
   "chapter": 28,
-  "translation": " dhe ⟨ai⟩ do të hajë frytin e bagëtisë sate dhe frytin e tokës sate, deri në shkatërrimin tënd; ⟨ai⟩ nuk do të të lë as grurë, as must të re, as vaj, as viçët e lopëve të tua dhe të vegjlit e tufave të tua, deri sa ⟨את⟩ të shkatërrojë ⟨את⟩ ty.",
+  "translation": "Dhe ⟨ai⟩ do të hajë frytin e kafshëve të tua dhe frytin e tokës sate, deri në shkatërrimin tënd; ⟨ai⟩ nuk do të të lë grurë, must të re, as vaj, pjellën e lopëve të tua dhe të vegjlit e tufës sate, derisa të të bëj të humbasësh ⟨את⟩.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "dhe"
-    },
-    {
-      "surface": "אכל",
-      "gloss": "do të hajë"
+      "surface": "ואכל",
+      "gloss": "dhe do të hajë"
     },
     {
       "surface": "פרי",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "בהמתך",
-      "gloss": "e bagëtisë sate"
+      "gloss": "e kafshëve të tua"
     },
     {
       "surface": "ופרי",
@@ -33,27 +29,27 @@
     },
     {
       "surface": "עד",
-      "gloss": "deri"
+      "gloss": "deri në"
     },
     {
       "surface": "השמדך",
-      "gloss": "në shkatërrimin tënd"
+      "gloss": "shkatërrimin tënd"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ai⟩"
+      "gloss": "⟨që⟩"
     },
     {
       "surface": "לא",
-      "gloss": "nuk"
+      "gloss": "jo"
     },
     {
       "surface": "ישאיר",
-      "gloss": "do të lë"
+      "gloss": "do të lërë"
     },
     {
       "surface": "לך",
-      "gloss": "të"
+      "gloss": "për ty"
     },
     {
       "surface": "דגן",
@@ -61,15 +57,15 @@
     },
     {
       "surface": "תירוש",
-      "gloss": "must"
+      "gloss": "must të re"
     },
     {
       "surface": "ויצהר",
-      "gloss": "dhe vaj"
+      "gloss": "as vaj"
     },
     {
       "surface": "שגר",
-      "gloss": "viçët e porsalindur"
+      "gloss": "pjellën"
     },
     {
       "surface": "אלפיך",
@@ -81,21 +77,22 @@
     },
     {
       "surface": "צאנך",
-      "gloss": "e tufave të tua"
+      "gloss": "e tufës sate"
     },
     {
       "surface": "עד",
-      "gloss": "deri sa"
+      "gloss": "derisa"
     },
     {
       "surface": "האבידו",
-      "gloss": "⟨את⟩ të shkatërrojë"
+      "gloss": "të bëj të humbasësh"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ty"
+      "gloss": "⟨את⟩",
+      "marks": "ty"
     }
   ],
-  "timestamp": "2026-09-27T14:52:07.160525789Z",
+  "timestamp": "2026-10-01T05:26:48.574863554Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sq",
   "chapter": 22,
-  "translation": "Dhe mbreti i tha: Sa herë duhet të të betoj që të mos më folësh asgjë tjetër veç të vërtetës në emër të Jahvesë?",
+  "translation": "Dhe mbreti i tha atij: Sa herë duhet të të betoj që të mos më flasësh vetëm të vërtetën në emër të Jahvesë?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dhe tha"
+      "gloss": "Dhe i tha"
     },
     {
       "surface": "אליו",
@@ -26,10 +26,6 @@
     {
       "surface": "כמה",
       "gloss": "sa"
-    },
-    {
-      "surface": "пעамים",
-      "gloss": ""
     },
     {
       "surface": "פעמים",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "mos"
+      "gloss": "jo"
     },
     {
       "surface": "תדבר",
-      "gloss": "të folësh"
+      "gloss": "të flasësh"
     },
     {
       "surface": "אלי",
@@ -61,21 +57,21 @@
     },
     {
       "surface": "רק",
-      "gloss": "veç"
+      "gloss": "vetëm"
     },
     {
       "surface": "אמת",
-      "gloss": "të vërtetës"
+      "gloss": "të vërtetën"
     },
     {
       "surface": "בשם",
-      "gloss": "në emër"
+      "gloss": "në emër të"
     },
     {
       "surface": "יהוה",
-      "gloss": "të Jahvesë"
+      "gloss": "Jahvesë"
     }
   ],
-  "timestamp": "2026-09-27T15:40:05.082210174Z",
+  "timestamp": "2026-10-01T05:27:35.607044621Z",
   "model": "glm-5.3"
 }
